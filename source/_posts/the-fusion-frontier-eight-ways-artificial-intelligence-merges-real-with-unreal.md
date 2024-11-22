@@ -1,7 +1,7 @@
 ---
 title: "The Fusion Frontier: Eight Ways Artificial Intelligence Merges Real with Unreal"
-date: 2024-11-11T06:51:08.881Z
-updated: 2024-11-11T21:06:51.316Z
+date: 2024-11-17T19:17:30.077Z
+updated: 2024-11-21T20:57:53.817Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10
 
 ![man questions robot turing test example feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/man-questions-robot-turing-test-example-feature.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vector/robot-scientist-facing-turing-test-artificial-1651840888)
 
  To determine if the Turing test is outdated, you must first[understand how it works](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/) . For an AI to pass the Turing test, it must convince a human interrogator that it's a human. But there is a catch—the AI is evaluated alongside a human, and it must respond using text.
@@ -42,22 +46,12 @@ thumbnail: https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10
 
  It's possible that[future AI models like ChatGPT-5](https://www.makeuseof.com/when-will-gpt5-launch/) could pass the Turing test. If that happens, we would need different tests combined with the Turing test to identify if we're talking to an AI or a human. Here are the best Turing test alternatives:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. The Marcus Test
 
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the[New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
@@ -76,9 +70,17 @@ thumbnail: https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the[thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014.
 
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However,[artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reverse Turing Test
 
@@ -91,22 +93,12 @@ thumbnail: https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes[AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
@@ -133,24 +125,16 @@ thumbnail: https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/rom-dull-to-delightful-text-that-tumbles-and-twirls-for-2024/"><u>[New] From Dull to Delightful Text that Tumbles and Twirls for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-your-videos-top-7-rippers-explored-for-2024/"><u>[Updated] Unlocking Your Videos Top 7 Rippers Explored for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-master-iphoneandroid-apps-top-10-photo-edits-guide/"><u>2024 Approved Master iPhone/Android Apps Top 10 Photo Edits Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gif-qos/"><u>高画質を守りながらGIFアニメーションの圧縮方法集 - QoS保持でスペース効率化</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-comprehensive-guide-to-understanding-ar-vs-vr-vs-mr-vs-xr/"><u>A Comprehensive Guide to Understanding AR Vs. VR Vs. MR Vs. XR</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/dji-phantom-4-pro-v-20-review/"><u>DJI Phantom 4 Pro V. 2.0 Review</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-note-13-proplus-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Xiaomi Redmi Note 13 Pro+ 5G has native HEVC support?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-the-latest-update-convert-your-videos-to-gifs-with-wonderfox-v11/"><u>Download the Latest Update: Convert Your Videos to GIFs with WonderFox V1.1!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-techniques-for-slicing-ts-videos-offline-vs-online-methods/"><u>Effective Techniques for Slicing .TS Videos: Offline vs Online Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/efficient-techniques-for-converting-audio-from-3gp-to-mp3-format/"><u>Efficient Techniques for Converting Audio From 3GP to MP3 Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-video-downloading-a-guide-to-using-the-most-trustworthy-sonyliv-downloader/"><u>Effortless Video Downloading: A Guide to Using the Most Trustworthy SonyLIV Downloader</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/essential-methods-for-comprehensive-archiving-of-gmail-messages-the-best-two-approaches/"><u>Essential Methods for Comprehensive Archiving of Gmail Messages: The Best Two Approaches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gopro7/"><u>GoPro動画改良フリー製品トップ7:パソコンユーザーが高く評価する編集ソフト・サイト</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-effortlessly-duplicate-videos-from-facebook-top-2-tricks/"><u>How To Effortlessly Duplicate Videos From Facebook: Top 2 Tricks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-enable-australian-free-iptv-and-live-television-on-your-kodi-device-using-the-iptv-au-plugin-comprehensive-tutorial/"><u>How to Enable Australian Free IPTV and Live Television on Your Kodi Device Using the IPTV AU Plugin – Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-overcome-errors-in-your-google-drive-file-downloading-process-a-guide-with-14-strategies/"><u>How To Overcome Errors in Your Google Drive File Downloading Process: A Guide With 14 Strategies</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-oneplus-ace-2-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on OnePlus Ace 2?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/meta-quest-earphones-mic-troubleshooting-and-optimal-use-techniques/"><u>Meta Quest Earphones Mic Troubleshooting & Optimal Use Techniques</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-online-tools-to-remove-tiktok-watermarks/"><u>New In 2024, Top Online Tools to Remove TikTok Watermarks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-audacitys-secrets-creating-smooth-soundscapes/"><u>[New] In 2024, Audacity's Secrets Creating Smooth Soundscapes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-effective-techniques-for-creating-authenticity-in-client-praise-videos/"><u>[New] In 2024, Effective Techniques for Creating Authenticity in Client Praise Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-school-based-videography-crafting-quality-content/"><u>[New] In 2024, School-Based Videography Crafting Quality Content</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-up-to-date-strategies-for-youtube-earnings/"><u>[New] In 2024, Up-to-Date Strategies for YouTube Earnings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-unlock-the-value-of-viewership-a-clear-concise-guide-to-evaluating-youtube-earnings/"><u>[Updated] In 2024, Unlock the Value of Viewership A Clear, Concise Guide to Evaluating YouTube Earnings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-fall-enhancements-for-apple-devices-unveiling-latest-tech-in-iphone-ipad-mac-with-ai-capabilities-zdnet-report/"><u>Exploring Fall Enhancements for Apple Devices: Unveiling Latest Tech in iPhone, iPad, Mac with AI Capabilities (ZDNet Report)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-latest-editing-additions-to-dall-e-3-room-for-improvement-still-present/"><u>Exploring the Latest Editing Additions to DALL-E 3 - Room for Improvement Still Present</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fact-checking-truthgpt-coin-scam-or-innovative-crypto-opportunity/"><u>Fact-Checking TruthGPT Coin: Scam or Innovative Crypto Opportunity?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-template-to-personalization-how-to-develop-a-unique-chatgpt-experience-using-gpt-techniques/"><u>From Template to Personalization: How to Develop a Unique ChatGPT Experience Using GPT Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/goal-achievement-made-easy-chatgpts-health-blueprint/"><u>Goal Achievement Made Easy: ChatGPT's Health Blueprint</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722166852869-the-secret-mobile-app-for-chatgpt-users-get-started-on-ios-instantly/"><u>The Secret Mobile App for ChatGPT Users: Get Started on iOS Instantly</u></a></li>
 </ul></div>
 

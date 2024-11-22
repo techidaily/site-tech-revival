@@ -1,7 +1,7 @@
 ---
 title: Safeguard Sensitive Data, Not ChatGPT
-date: 2024-11-09T00:07:49.945Z
-updated: 2024-11-11T20:31:27.393Z
+date: 2024-11-16T17:13:28.615Z
+updated: 2024-11-21T23:27:49.086Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. I Am Rich
 
 ![The I Am Rich plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-i-am-rich-plugin-on-the-chatgpt-plugin-store.jpg)
@@ -42,9 +46,17 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
 ![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to[scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/) ? Maybe ChatGPT plugins are not the right tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. AppyPie App Builder
 
@@ -64,42 +76,15 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
 
  It, at least in theory, is supposed to be able to do something akin to[what AutoGPT does](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/) . Unfortunately, irrespective of the complexity of the task we set for it, the plugin couldn't deliver anything.
 
  It seems it was just applying a few prompt tricks and returning a not-so-enhanced copy of what ChatGPT would provide. There's really no sense of AI agents at work. It doesn't offer anything particularly different from what ChatGPT would do.
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. A Movie Please (FilmFindr)
 
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The "A Movie Please" plugin is a movie recommendation tool to help ChatGPT users decide what to watch next. Although the plugin is not a dud (it actually makes movie recommendations), you're better off using ChatGPT without the plugin.
 
@@ -107,20 +92,21 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  For quality movie suggestions, you're better off prompting the base ChatGPT model directly[to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) . By going that route, you'll get far superior results compared to relying on the "A Movie Please" plugin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. ABC Website Maker
 
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
@@ -143,17 +129,16 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-game-screen-recorders-for-2024/"><u>[New] Best Game Screen Recorders for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-the-ultimate-guide-to-incorporating-apples-siri-into-tiktok/"><u>[Updated] In 2024, The Ultimate Guide to Incorporating Apple's Siri Into TikTok</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/battle-of-the-giants-can-llama-3-outperform-gpt-4-in-language-understanding/"><u>Battle of the Giants: Can Llama 3 Outperform GPT-4 in Language Understanding?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ce-creativity-with-6-premium-and-complimentary-video-downloaders/"><u>Enhance Creativity With 6 Premium and Complimentary Video Downloaders</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/five-pivotal-factors-that-set-gpt-4-and-gpt-35-apart/"><u>Five Pivotal Factors That Set GPT-4 and GPT-3.5 Apart</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-insignia-usb-to-ethernet-network-converter-software/"><u>Free Download: Insignia USB-to-Ethernet Network Converter Software</u></a></li>
-<li><a href="https://fox-access.techidaily.com/high-definition-horizons-with-sony-unraveling-xperia-xz/"><u>High-Definition Horizons with Sony - Unraveling Xperia XZ</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-poco-x6-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Poco X6</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-minds-on-fire-best-gk-quiz-videos-online/"><u>In 2024, Minds on Fire Best GK Quiz Videos Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-art-of-memory-in-ai-how-to-retrieve-and-revive-lost-chatgpt-history/"><u>The Art of Memory in AI: How to Retrieve and Revive Lost ChatGPT History</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-hidden-risks-of-outsourcing-text-summaries-to-chatgpt/"><u>The Hidden Risks of Outsourcing Text Summaries to ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-bert-a-comparison-with-gpt-in-nlp/"><u>Understanding BERT: A Comparison with GPT in NLP</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-quality-video-sharing-leading-alternative-converters-from-flv-to-yt/"><u>[Updated] 2024 Approved Quality Video Sharing Leading Alternative Converters From FLV to YT</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-legitimacy-in-the-limelight-copyright-verification-before-upload/"><u>2024 Approved Legitimacy in the Limelight Copyright Verification Before Upload</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boosting-workplace-joy-how-artificial-intelligence-elevates-staff-morale/"><u>Boosting Workplace Joy: How Artificial Intelligence Elevates Staff Morale</u></a></li>
+<li><a href="https://games-able.techidaily.com/cryptic-gamers-hiding-your-activities/"><u>Cryptic Gamers: Hiding Your Activities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-polite-should-you-be-to-smart-tech-chatgpt-amazons-alexa-and-apples-siri/"><u>How Polite Should You Be to Smart Tech: ChatGPT, Amazon's Alexa and Apple’s Siri?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-se-2020-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone SE (2020) Passcode not Working?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-resolve-the-integration-difficulty-of-chatgpt-with-plugin-services/"><u>How To Resolve the Integration Difficulty of ChatGPT with Plugin Services</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-insightful-rank-trackers-unlock-your-videos-potential/"><u>In 2024, Insightful Rank Trackers - Unlock Your Video's Potential</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/insight-chatgpts-default-tools-explained/"><u>Insight: ChatGPT's Default Tools Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/integrate-smoothly-using-chatgpts-api/"><u>Integrate Smoothly: Using ChatGPT's API</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Oppo A38 | Dr.fone</u></a></li>
 </ul></div>
 

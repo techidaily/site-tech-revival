@@ -1,7 +1,7 @@
 ---
 title: How to Permanently Close GPT Account
-date: 2024-11-08T00:36:09.987Z
-updated: 2024-11-12T04:55:12.808Z
+date: 2024-11-14T19:55:04.812Z
+updated: 2024-11-21T19:25:55.684Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,7 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -46,10 +43,7 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
@@ -64,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 ## How to Install and Configure ChatGPT Desktop Application
@@ -71,10 +69,7 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -86,10 +81,7 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -115,14 +107,22 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-engaging-lessons-video-editing-skills-for-teachers/"><u>[New] 2024 Approved Engaging Lessons Video Editing Skills for Teachers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-comprehensive-2023-guide-to-lg-360-cam-tech/"><u>[Updated] Comprehensive 2023 Guide to LG 360 Cam Tech</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-14-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 14 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/microsofts-acquisition-of-blizzard-insights-on-ai-generated-art-and-multilingual-technology-podcast-review/"><u>Microsoft's Acquisition of Blizzard: Insights on AI-Generated Art & Multilingual Technology - Podcast Review</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quick-fixes-to-repair-microsoft-excel-2010-content-related-error-stellar-by-stellar-guide/"><u>Quick Fixes to Repair Microsoft Excel 2010 Content related error | Stellar</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-professional-vlogging-potential-discover-manycams-all-in-one-solution-for-live-videos-remote-webcams-and-more/"><u>Unleash Professional Vlogging Potential: Discover ManyCam's All-in-One Solution for Live Videos, Remote Webcams, & More!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-your-broadcast-potential-with-manycam-advanced-virtual-webcam-technology-for-pros/"><u>Unleash Your Broadcast Potential with ManyCam - Advanced Virtual Webcam Technology for Pros</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/virtual-webcams-on-steroids-discover-leading-manycam-substitutes-for-enhanced-online-broadcasting/"><u>Virtual Webcams on Steroids: Discover Leading ManyCam Substitutes for Enhanced Online Broadcasting</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/win10-ultimate-screenshot-and-video-capture-kit/"><u>Win10 Ultimate Screenshot & Video Capture Kit</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-from-play-to-replay-capturing-switch-games-for-2024/"><u>[New] From Play to Replay Capturing Switch Games for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-swap-periscopes-lens-innovative-video-platforms-for-smartphones/"><u>2024 Approved Swap Periscope's Lens Innovative Video Platforms for Smartphones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/8-ready-to-use-personalized-gpt-variants-awaiting-your-input/"><u>8 Ready-to-Use Personalized GPT Variants Awaiting Your Input</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-comprehensive-tutorial-on-auto-gpt-software-setup-process/"><u>A Comprehensive Tutorial on Auto-GPT Software Setup Process</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-meets-mobile-ease-the-ultimate-guide-to-setting-up-a-speaking-version-of-chatgpt-on-android-phones/"><u>AI Meets Mobile Ease: The Ultimate Guide to Setting Up a Speaking Version of ChatGPT on Android Phones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-tool-foundations-starting-with-9-community-guides/"><u>AI Tool Foundations: Starting with 9 Community Guides</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/auto-gpts-effectiveness-independent-or-not/"><u>Auto-GPT's Effectiveness: Independent or Not?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoiding-pitfalls-identifying-5-key-scams-with-chatgpt/"><u>Avoiding Pitfalls: Identifying 5 Key Scams with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-the-basics-discover-these-5-underutilized-chatgpt-tools/"><u>Beyond the Basics: Discover These 5 Underutilized ChatGPT Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-guide-to-overcoming-stop-error-0x0000005-on-your-pc-solutions-and-prevention/"><u>Complete Guide to Overcoming STOP Error 0X0000005 on Your PC: Solutions & Prevention</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-elon-musks-vision-for-advanced-ai-with-truthgpt/"><u>Decoding Elon Musk's Vision for Advanced AI with TruthGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/do-microtransactions-have-a-place-in-premium-games/"><u>Do Microtransactions Have a Place in Premium Games?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/te-your-contents-appeal-how-to-resize-youtube-thumbnails-right/"><u>Elevate Your Content's Appeal How to Resize YouTube Thumbnails Right</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/from-tiktok-kitchens-15-irresistible-culinary-challenges-for-2024/"><u>From TikTok Kitchens 15 Irresistible Culinary Challenges for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-release-of-apple-watch-series-8-specs-revealed-and-how-much-it-will-cost-you/"><u>Inside the Release of Apple Watch Series 8 – Specs Revealed and How Much It Will Cost You</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-artificial-intelligence-picture-creators-available-immediately/"><u>Top-Rated Artificial Intelligence Picture Creators Available Immediately</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722165997924-unlocking-potential-a-step-by-step-guide-for-using-gpt-3-in-chatgpt-today/"><u>Unlocking Potential: A Step-by-Step Guide for Using GPT-^3 in ChatGPT Today</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Digital Mixologist Test: Evaluating the Competence of ChatGPT with Drinks"
-date: 2024-11-06T06:08:58.483Z
-updated: 2024-11-12T02:53:51.630Z
+date: 2024-11-20T01:52:14.253Z
+updated: 2024-11-21T17:46:44.552Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -39,10 +43,7 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
@@ -60,15 +61,16 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -79,17 +81,7 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -115,22 +107,20 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-synchronize-your-team-with-easy-slack-and-filmora-integration/"><u>[New] 2024 Approved Synchronize Your Team with Easy Slack & Filmora Integration</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-top-12-interactive-pc-adventures-to-boost-your-clicking/"><u>[New] Top 12 Interactive PC Adventures to Boost Your Clicking</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-step-by-step-throwing-epic-intros-with-imovie/"><u>[Updated] 2024 Approved Step-by-Step Throwing Epic Intros with iMovie</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-guardians-of-the-screen-the-best-webcam-cover-options-for-2024/"><u>[Updated] Guardians of the Screen - The Best Webcam Cover Options for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-premium-screen-recording-selections/"><u>2024 Approved Premium Screen Recording Selections</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-instructions-for-installing-latest-hp-laptop-driver-updates-on-windows-systems/"><u>Easy Instructions for Installing Latest HP Laptop Driver Updates on Windows Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-to-safeguard-personal-data-during-professional-use-of-chatgpt/"><u>Effective Strategies to Safeguard Personal Data During Professional Use of ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-integrating-chatgpt-into-cbt-practices/"><u>Effective Strategies: Integrating ChatGPT Into CBT Practices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-4-main-methods-of-ai-regulation-by-authorities-worldwide/"><u>Exploring the 4 Main Methods of AI Regulation by Authorities Worldwide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-foundations-to-frontiers-the-progress-of-openais-gpt-models-explained-gpt-1-to-gpt-4/"><u>From Foundations to Frontiers: The Progress of OpenAI's GPT Models Explained (GPT-1 to GPT-4)</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-asus-atk0110-system-up-and-running-complimentary-acpi-drivers-downloadable-here/"><u>Get Your ASUS ATK0110 System Up and Running: Complimentary ACPI Drivers Downloadable Here</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-nlp-titans-understanding-the-gpt-bert-chasm/"><u>Navigating NLP Titans: Understanding the GPT-BERT Chasm</u></a></li>
-<li><a href="https://article-helps.techidaily.com/pinnacle-performance-discover-the-top-8-webcams-today-for-2024/"><u>Pinnacle Performance Discover the Top 8 Webcams Today for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/self-awareness-and-social-cognition-via-gpt/"><u>Self-Awareness and Social Cognition via GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-rise-of-deepfakes-is-generative-ai-fueling-disinformation-campaigns/"><u>The Rise of Deepfakes: Is Generative AI Fueling Disinformation Campaigns?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-why-a-chatgpt-mobile-application-may-not-be-right-for-you/"><u>Understanding Why a ChatGPT Mobile Application May Not Be Right for You</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/oes-instant-subscription-strategy-improve-user-engagement/"><u>[New] Does Instant Subscription Strategy Improve User Engagement?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-enhance-tv-screens-with-automatic-loops-of-youtube/"><u>[Updated] Enhance TV Screens With Automatic Loops of YouTube</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-precision-problem-solving-for-social-media-stories-issues/"><u>[Updated] Precision Problem-Solving for Social Media Stories Issues</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-streamlining-your-presentations-vimeo-video-embedding-in-powerpoint/"><u>[Updated] Streamlining Your Presentations Vimeo Video Embedding in PowerPoint</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-apple-iphone-xs-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your Apple iPhone XS and iPad</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-poco-m6-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Poco M6 5G Lock Screen Password?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/reviewing-samsungs-latest-wearable-tech-the-advanced-features-of-galaxy-watch-active-2/"><u>Reviewing Samsung's Latest Wearable Tech: The Advanced Features of Galaxy Watch Active 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-lag-problems-steps-to-enhance-your-street-fighter-eb-experience/"><u>Troubleshooting Lag Problems - Steps to Enhance Your Street Fighter Eb Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-power-how-these-10-tailored-gpts-surpass-standard-chatgpt-features/"><u>Unleashing Power: How These 10 Tailored GPTs Surpass Standard ChatGPT Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-new-possibnilities-can-ai-and-chatgpt-reshape-healthcare/"><u>Unlocking New Possibnilities: Can AI and ChatGPT Reshape Healthcare?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-secrets-of-grok-by-elon-musk-an-exploration-of-its-artificial-intelligence-potential-and-cost/"><u>Unlocking the Secrets of Grok by Elon Musk: An Exploration of Its Artificial Intelligence Potential and Cost</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-llama-2-insights-into-its-functionality-and-utilization/"><u>Unveiling Llama 2: Insights Into Its Functionality & Utilization</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-our-findings-how-does-mistral-ais-le-chat-compare-to-the-renowned-chatgpt/"><u>Unveiling Our Findings: How Does Mistral AI's Le Chat Compare to the Renowned ChatGPT?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-avoiding-audible-distractions-silencing-audio-in-current-avi-updates-for-2024/"><u>Updated Avoiding Audible Distractions Silencing Audio in Current AVI Updates for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-are-the-known-vulnerabilities-of-chatgpt-to-online-risks/"><u>What Are the Known Vulnerabilities of ChatGPT to Online Risks?</u></a></li>
 </ul></div>
 

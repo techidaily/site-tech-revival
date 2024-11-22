@@ -1,7 +1,7 @@
 ---
 title: "GPT-4 in Action: Unveiling the Mechanics Behind These 7 Innovative Applications"
-date: 2024-11-11T10:01:44.501Z
-updated: 2024-11-12T07:41:34.996Z
+date: 2024-11-17T19:13:14.752Z
+updated: 2024-11-21T17:00:19.565Z
 tags:
   - chatgpt
   - open-ai
@@ -44,23 +44,9 @@ Close
 
 ![Nova AI Scientist persona prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-scientist-persona-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Nova AI chatbot personas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-chatbot-personas.jpg)
 
 ![Nova AI chatbot suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-chatbot-suggestions.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -79,10 +65,7 @@ Close
 ![Ask AI homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ask-ai-homepage.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Ask AI Ask YouTube chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ask-ai-ask-youtube-chatbot.jpg)
@@ -101,13 +84,14 @@ Close
 
 ![ChatSonic chatbot health query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatsonic-chatbot-health-query.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatSonic chatbot personalities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatsonic-chatbot-personalities.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatSonic chatbot customize settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatsonic-chatbot-customize-settings-page.jpg)
@@ -122,20 +106,25 @@ Close
 
 **Download:** ChatSonic for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=com.writesonic.chatsonic) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. ChatOn
 
 ![ChatOn AI chatbot homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-ai-chatbot-homepage.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatOn AI chatbot riddle query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-ai-chatbot-riddle-query.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatOn Chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-chat-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -153,14 +142,11 @@ Close
 
 ![Poe AI app chatbot selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-ai-app-chatbot-selection.jpg)
 
-![Poe AI chatbot selected chatbots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-ai-chatbot-selected-chatbots.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Poe AI chatbot selected chatbots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-ai-chatbot-selected-chatbots.jpg)
 
 Close
 
@@ -172,26 +158,20 @@ Close
 
 **Download:** Poe for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=com.poe.android) |[iOS](https://apps.apple.com/us/app/poe-fast-ai-chat/id1640745955) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Genie
 
 ![Genie AI app solving a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/genie-ai-app-solving-a-math-problem.jpg)
 
 ![Genie AI app Code and Food categories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/genie-ai-app-code-and-food-categories.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Genie AI app homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/genie-ai-app-homepage.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -203,6 +183,10 @@ Close
  Genie uses two models: GPT 3.5 (available in the free plan) and GPT-4 (available in the Pro membership.) You can explore some of the[benefits of GPT-4 in our guide](https://www.makeuseof.com/best-new-gpt4-features-explained/) .
 
 **Download:** Genie for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=co.appnation.geniechat) |[iOS](https://apps.apple.com/us/app/genie-ai-chatbot/id1658377526) (Free, subscription available)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Outsmart ChatGPT With These Apps
 
@@ -223,22 +207,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-convert-high-res-fb-videos-seamlessly-into-mp4-at-no-extra-cost/"><u>[New] Convert High-Res FB Videos Seamlessly Into MP4 at No Extra Cost</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-screenshot-simplicity-compatible-free-capturing-apps-for-windows/"><u>[New] In 2024, Screenshot Simplicity Compatible Free Capturing Apps for Windows</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-obs-vs-modern-broadcasting-tools-a-comparison/"><u>[Updated] 2024 Approved OBS Vs. Modern Broadcasting Tools A Comparison</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-building-authority-in-education-10-tips-for-youtube-channel-creation-for-2024/"><u>[Updated] Building Authority in Education 10 Tips for YouTube Channel Creation for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-with-these-10-ae-text-setups/"><u>2024 Approved Unleash Creativity with These 10 AE Text Setups</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-capabilities-of-claude-3-an-in-depth-overview/"><u>Exploring the Capabilities of Claude 3: An In-Depth Overview</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpts-role-in-achieving-career-aspirations/"><u>GPT's Role in Achieving Career Aspirations</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-ai-for-serenity-in-chaos/"><u>Leveraging AI for Serenity in Chaos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximize-efficiency-using-our-top-picks-10-essential-chatgpt-pdf-utilities/"><u>Maximize Efficiency Using Our Top Picks: 10 Essential ChatGPT PDF Utilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximize-your-server-capabilities-with-microns-newest-mrdimms-for-the-latest-intel-xeon-chipset/"><u>Maximize Your Server Capabilities with Micron's Newest MRDIMMs for the Latest Intel Xeon Chipset</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-automated-intelligence-clarifying-meanings-of-29-core-terms/"><u>Navigating the World of Automated Intelligence: Clarifying Meanings of 29 Core Terms</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/qualitatsbewahrende-drehung-von-mp4-videos-um-90-180-und-270-grad/"><u>Qualitätsbewahrende Drehung Von MP4-Videos Um 90, 180 Und 270 Grad</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-audacity-top-5-ways-to-address-the-opening-sound-device-failed-error/"><u>Trouble with Audacity? Top 5 Ways to Address the 'Opening Sound Device Failed' Error</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-the-power-of-ai-top-6-chatgpt-enhancements-that-revolutionize-coding-in-vs-code/"><u>Unleash the Power of AI: Top 6 ChatGPT Enhancements That Revolutionize Coding in VS Code</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-insights-into-repairing-windows-error-0x80040610/"><u>Unlocking Insights Into Repairing Windows' Error 0X80040610</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-chatgpt-a-privacy-paradox/"><u>Unveiling ChatGPT: A Privacy Paradox</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-templates-for-bespoke-video-epilogues/"><u>[Updated] Free Templates for Bespoke Video Epilogues</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-how-to-seamlessly-add-and-edit-audio-to-canvas-clips-for-2024/"><u>[Updated] How to Seamlessly Add and Edit Audio to Canvas Clips for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-exploring-virtual-landscapes-with-android-vr360/"><u>[Updated] In 2024, Exploring Virtual Landscapes with Android (VR/360)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-most-popular-free-photography-and-film-archives/"><u>[Updated] Most Popular Free Photography and Film Archives</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-inside-out-comprehensive-understanding-of-stardews-fascinating-ginger-island/"><u>2024 Approved Inside Out Comprehensive Understanding of Stardew’s Fascinating Ginger Island</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-narzo-60-pro-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme Narzo 60 Pro 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-oppo-find-x6-pro-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Oppo Find X6 Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ai-hierarchy-strength-in-machines/"><u>The AI Hierarchy: Strength in Machines</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-new-player-googles-bard-the-advanced-artificial-intelligence-competing-directly-with-microsofts-chatgpt/"><u>The New Player: Google's Bard, the Advanced Artificial Intelligence Competing Directly with Microsoft's ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-route-to-reproduce-and-store-your-gpt-powered-talks/"><u>The Route to Reproduce and Store Your GPT-Powered Talks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-crafting-ai-enhanced-prompts/"><u>The Ultimate Guide to Crafting AI-Enhanced Prompts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-tales-a-comprehensive-approach-to-advanced-storytelling-with-chatgpt/"><u>Transforming Tales: A Comprehensive Approach to Advanced Storytelling with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-restrictions-why-chatgpt-isnt-ideal-for-crypto-trading-insights/"><u>Understanding the Restrictions: Why ChatGPT Isn't Ideal for Crypto Trading Insights</u></a></li>
 </ul></div>
 

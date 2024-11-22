@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's Worst Plugins: Avoid These 6 Time-Wasters"
-date: 2024-11-10T02:43:19.336Z
-updated: 2024-11-12T04:45:32.938Z
+date: 2024-11-20T21:51:20.382Z
+updated: 2024-11-21T19:08:37.421Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -50,19 +54,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -71,16 +62,13 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
@@ -95,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -112,14 +104,11 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
- Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
 ## 6 Upload Images or Files (if Available)
 
@@ -130,10 +119,7 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
@@ -143,19 +129,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
  If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
@@ -174,17 +147,21 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-comprehensively-understanding-wm6-setup/"><u>[New] Comprehensively Understanding WM6 Setup</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-harmonizing-sounds-first-lessons-on-fades-with-audition/"><u>[Updated] Harmonizing Sounds First Lessons on Fades with Audition</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-oneplus-12-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From OnePlus 12 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enabling-safe-communication-with-chatgpt-should-you-use-a-vpn/"><u>Enabling Safe Communication With ChatGPT – Should You Use a VPN?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-coding-experience-6-surpreruses-of-chatgpts-language-processor/"><u>Enhance Your Coding Experience: 6 Surpreruses of ChatGPT's Language Processor</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-drone-titans-for-industrial-lifting-challenges/"><u>In 2024, Drone Titans for Industrial Lifting Challenges</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/mobile-savvy-tailoring-youtube-video-thumbnails-with-phones/"><u>Mobile-Savvy Tailoring YouTube Video Thumbnails with Phones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-chatgpt-hurdles-refining-google-news-content-delivery-and-securing-top-tier-mobile-internet-access-on-holidays/"><u>Overcoming ChatGPT Hurdles, Refining Google News Content Delivery & Securing Top-Tier Mobile Internet Access on Holidays</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/premium-mac-programming-solutions-excluded-from-bandicam-for-2024/"><u>Premium Mac Programming Solutions Excluded From Bandicam for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ten-tips-to-perfect-your-gpt-dialogue-experience/"><u>Ten Tips to Perfect Your GPT Dialogue Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-definitive-selection-best-artificial-intelligence-apps-for-phones/"><u>The Definitive Selection: Best Artificial Intelligence Apps for Phones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-step-by-step-guide-to-youtube-video-editing-mastery/"><u>[New] In 2024, Step by Step Guide to YouTube Video Editing Mastery</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-premier-windows-11-webcam-capture-models-for-2024/"><u>[New] Premier Windows 11 Webcam Capture Models for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-sketch-funny-graphics-to-share-giphy-wide/"><u>[Updated] Sketch Funny Graphics to Share Giphy-Wide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conceptual-mastery-combining-ai-and-brainstorming/"><u>Conceptual Mastery: Combining AI & Brainstorming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/content-originality-challenges-artificial-intelligence/"><u>Content Originality Challenges Artificial Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/context-revolution-gemini-15s-million-token-journey/"><u>Context Revolution: Gemini 1.5'S Million Token Journey</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-illusions-of-artificial-intelligence-8-scenarios-where-it-obscures-reality-and-dreams/"><u>Decoding the Illusions of Artificial Intelligence: 8 Scenarios Where It Obscures Reality and Dreams</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-magic-how-does-predictive-ai-work/"><u>Decoding the Magic: How Does Predictive AI Work?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-rationale-hackers-and-chatgpt/"><u>Decoding the Rationale: Hackers and ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-variations-5-major-factors-that-set-gpt-4-apart-from-gpt-35/"><u>Decoding the Variations: 5 Major Factors that Set GPT-4 Apart From GPT-3.5</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-unveiling-the-superiority-of-the-2018-apple-ipad-pro-in-an-11-inch-market-flooded-with-competitors/"><u>Expert Insights: Unveiling the Superiority of the 2018 Apple iPad Pro in an 11-Inch Market Flooded with Competitors</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95544592-9780834840522-mindful-games/"><u>Mindful Games | Free Book</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/strategies-to-skyrocket-like-counts-in-tiktok-unpack-videos/"><u>Strategies to Skyrocket 'Like' Counts in TikTok Unpack Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-setting-turmoil-a-pubg-guide-for-pc-users/"><u>Taming Setting Turmoil: A PUBG Guide for PC Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/trimming-the-green-techniques-for-flawless-backgrounds/"><u>Trimming the Green: Techniques for Flawless Backgrounds</u></a></li>
 </ul></div>
 

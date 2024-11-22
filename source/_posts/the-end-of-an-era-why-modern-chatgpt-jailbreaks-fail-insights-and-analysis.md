@@ -1,7 +1,7 @@
 ---
 title: "The End of an Era: Why Modern ChatGPT Jailbreaks Fail - Insights and Analysis"
-date: 2024-11-06T16:33:51.085Z
-updated: 2024-11-12T06:55:12.896Z
+date: 2024-11-15T22:08:28.737Z
+updated: 2024-11-21T21:18:09.356Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -59,25 +63,22 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unlocking-the-potential-effective-use-of-split-screen-on-facebook/"><u>[Updated] 2024 Approved Unlocking the Potential Effective Use of Split-Screen on Facebook</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-lg-bp550-review-2023-update/"><u>[Updated] LG BP550 Review - 2023 Update</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44cm6zplust5rwb44oj44op44oe44ov44oq44o844oa44km44oz44ot44o844oj44k144kk44oi44oi44od44ox5o6o6jam44cn/"><u>「韓流ドラマフリーダウンロードサイトトップ推薦」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030139962-facebook/"><u>「Facebookに投稿できない理由とその対策 - 最新ワークアラウンド方法」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030193011-iso/"><u>「ISO形式」ファイル切り分けに最適な２つの手段</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030595751-dvdpc/"><u>完全版ジャニーズDVDダウンロード＆バックアップ方法：PC対応マスタリー手順</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversion-gratuita-mpe-a-aac-digital-guia-paso-a-paso-con-movavi/"><u>Conversión Gratuita MPE a AAC Digital: Guía Paso a Paso Con Movavi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-honor-play-40c-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Honor Play 40C</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-logitech-g-pro-gamepad-driver-supports-windows-111087/"><u>Get the Latest Logitech G Pro Gamepad Driver - Supports Windows 11/10/8/7</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-transform-your-photos-into-captivating-videos-on-mac-os/"><u>New Transform Your Photos Into Captivating Videos on Mac OS</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/recovering-lost-images-from-your-pcs-storage-a-guide-for-windows-11-and-10-users/"><u>Recovering Lost Images From Your PC's Storage: A Guide for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-true-environmental-impact-of-e-vehicles-a-comprehensive-review/"><u>Unveiling the True Environmental Impact of E-Vehicles: A Comprehensive Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726227446591-mp4-movavi/"><u>영화 비디오를 점진적으로 MP4로 전환하는 방법 - Movavi, 오토바이오에서 가장 유용한 도구</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-socialsnatcher-grab-and-save-twitter-vids-in-a-flash/"><u>[New] 2024 Approved SocialSnatcher Grab and Save Twitter Vids in a Flash</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-what-is-triller-all-you-know-about-this-tiktok-alternative/"><u>[New] 2024 Approved What Is Triller - All You Know About This TikTok Alternative</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-ultimate-online-destinations-for-3d-shimmering-letters/"><u>[Updated] 2024 Approved Ultimate Online Destinations for 3D Shimmering Letters</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bring-intelligent-ai-driven-search-to-your-fingertps-now-compatible-with-ios-and-android-by-bing/"><u>Bring Intelligent AI-Driven Search to Your Fingertps, Now Compatible with iOS and Android by Bing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/building-bridges-between-humans-and-ai-discovering-the-potential-careers-in-prompt-design/"><u>Building Bridges Between Humans and AI: Discovering the Potential Careers in Prompt Design</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbots-face-off-exploring-the-differences-between-chatgpt-and-claude/"><u>Chatbots Face-Off: Exploring the Differences Between ChatGPT and Claude</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-plugin-pitfalls-which-ones-dont-deliver-value/"><u>ChatGPT Plugin Pitfalls: Which Ones Don't Deliver Value?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparative-analysis-of-two-powerhouse-language-models-gpt-and-bert/"><u>Comparative Analysis of Two Powerhouse Language Models - GPT and BERT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-ais-impact-on-creative-work-ownership-insights-into-copyright-law-for-algorithmic-creations/"><u>Deciphering AI's Impact on Creative Work Ownership: Insights Into Copyright Law for Algorithmic Creations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-to-apply-chatgpt-in-cognitive-behavioral-therapy-sessions/"><u>Effective Strategies to Apply ChatGPT in Cognitive Behavioral Therapy Sessions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-getting-chatgpt-assistance-with-automotive-modifications/"><u>Effective Strategies: Getting ChatGPT Assistance with Automotive Modifications</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-avi-manipulation-techniques-top-programs-for-trimming-rotating-and-combining-videos/"><u>Quick and Simple AVI Manipulation Techniques – Top Programs for Trimming, Rotating & Combining Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unbeatable-free-webcam-matchups-for-2024/"><u>Unbeatable Free Webcam Matchups for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/understanding-2023s-push-for-shorter-more-impactful-facebook-videos-for-2024/"><u>Understanding 2023'S Push for Shorter, More Impactful Facebook Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vegaspro-2019-update-changes-and-impacts/"><u>VegasPro 2019 Update Changes & Impacts</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-1110-hacks-swift-recovery-of-synapse-functions/"><u>Windows 11/10 Hacks: Swift Recovery of Synapse Functions</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

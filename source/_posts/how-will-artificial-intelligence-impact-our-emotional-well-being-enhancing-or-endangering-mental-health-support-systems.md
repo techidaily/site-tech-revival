@@ -1,7 +1,7 @@
 ---
 title: "How Will Artificial Intelligence Impact Our Emotional Well-Being: Enhancing or Endangering Mental Health Support Systems?"
-date: 2024-11-09T23:31:18.095Z
-updated: 2024-11-12T04:17:52.987Z
+date: 2024-11-20T16:53:15.716Z
+updated: 2024-11-21T19:23:22.313Z
 tags:
   - chatgpt
   - open-ai
@@ -34,24 +34,22 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  What makes ChatGPT special is that it is simpler, user-friendly, and can have human-like conversations. Although both ChatGPT and existing NLP systems in healthcare are not perfect, they can help meet the growing demands of patient care worldwide. NLP is one of the important[medical technologies shaping healthcare's future](https://www.makeuseof.com/medical-technologies-future-healthcare/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use ChatGPT in Healthcare
 
 ![chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/jonathan-kemper-mmuzs5qzuus-unsplash.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Currently, ChatGPT is mainly used in the administrative side of healthcare, and it's proving to be a game-changer for healthcare professionals. It can do many things to make their lives easier, like handling paperwork, checklists, and logs. In a recent survey by[Jackson Healthcare](https://www.healthleadersmedia.com/nursing/nurses-say-distractions-cut-bedside-time-25) , most nurses admitted spending 25% of their shift on non-patient tasks, and ChatGPT aims to reduce that burden.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using ChatGPT to Sort Unstructured Data
@@ -60,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  ChatGPT can quickly analyze massive amounts of data—even diagnostics data. Just ask it a specific question with the sorting criteria you need, and it will give you the structured data you are looking for. You can copy its response, save it on a notepad, and open the file in Microsoft Excel to finish the process—problem solved!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Remote Patient Monitoring With ChatGPT
 
  Even though doctors can't be with their patients all the time, patients need to keep track of their symptoms. This is where remote patient monitoring comes in. Patients track vital signs—like blood pressure, heart rate, and blood glucose levels—and share this data with their doctor. The doctor then reviews the information and provides feedback to the patient. It's a way to stay connected and care for patient health even when not in the same place.
@@ -74,15 +65,16 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
  But clinicians receive a lot of vital signs data from patients every single day, which can be overwhelming to examine. Luckily, ChatGPT can analyze the information collected by home health monitoring systems and provide clear insights for both patients and healthcare professionals. All patients have to do is share their results, and ChatGPT will let them know if everything is normal or not. After all, ChatGPT passed the USMLE exam!
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ChatGPT as a Virtual Assistant for Patient Care
 
  ChatGPT can be like having a personal assistant available all the time for doctors. It can handle client communication, schedule appointments, and even help create emails. Moreover, you can rely on it to summarize clinical notes and the patient's medical history, making your preparation for visits much easier. And with ChatGPT-4's plugin feature, using it has become even simpler. Here's[how you can make the most of ChatGPT plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Has Potential in Healthcare, But Be Careful
 
@@ -105,18 +97,24 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-story-savers-unleashed-instagrams-free-limit-breaker/"><u>[New] 2024 Approved Story Savers Unleashed Instagram's Free Limit Breaker</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-perfecting-playback-apply-filters-to-video-content/"><u>[New] Perfecting Playback Apply Filters to Video Content</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-who-are-the-biggest-watchers-top-amazon-series-liked-by-twitter-2023/"><u>[New] Who Are the Biggest Watchers? Top Amazon Series Liked by Twitter, 2023</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channel-aspirations-reach-and-secure-10k-views-for-youtube-partner-perks/"><u>[Updated] In 2024, Channel Aspirations – Reach and Secure 10K Views for YouTube Partner Perks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-strategic-income-generation-through-youtube-as-per-sourav-joshis-playbook/"><u>[Updated] Strategic Income Generation Through YouTube, As Per Sourav Joshi's Playbook</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/vlive/"><u>簡単なガイド：VLIVEフィードを取得・蓄積する方法</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-8-most-popular-instagram-after-effects-packs/"><u>In 2024, 8 Most Popular Instagram After Effects Packs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Motorola Defy 2? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-cutting-edge-video-editing-top-4k-software-solutions/"><u>New In 2024, Cutting-Edge Video Editing Top 4K Software Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-content-with-the-new-release-of-wonderfox-dvd-ripper-for-ipad-version-20/"><u>Transform Your Content with the New Release of WonderFox DVD Ripper for iPad, Version 2.0!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-m4v-files-into-animated-gifs-a-step-by-step-guide/"><u>Transforming M4V Files Into Animated GIFs - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windowsgifjpeg/"><u>Windows上でのGIFからJPEGへの効果的なファイル変換テクニック</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mac-gaming-recording-roblox-adventures/"><u>[New] Mac Gaming Recording Roblox Adventures</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-youtubes-subtitlecc-landscape-with-expertise-and-speed/"><u>[Updated] Navigating YouTube's Subtitle/CC Landscape with Expertise and Speed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-restored-full-screen-in-obs/"><u>2024 Approved Restored Full Screen in OBS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-13-mini-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone 13 mini? How to Fix it?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-13-pro-max-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guarding-original-art-from-ai-duplication-the-secret-of-nightshade-defense-mechanisms/"><u>Guarding Original Art From AI Duplication - The Secret of Nightshade Defense Mechanisms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/improve-prompt-creation-with-these-7-must-use-online-platforms/"><u>Improve Prompt Creation with These 7 Must-Use Online Platforms</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-meizu-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Meizu Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-review-who-wins-between-gemini-advanced-and-chatgpt-plus/"><u>In-Depth Review: Who Wins Between Gemini Advanced and ChatGPT Plus?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/integrating-chatgpt-api-for-enhanced-user-interaction-how-to/"><u>Integrating ChatGPT API for Enhanced User Interaction – How-To</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/keeping-the-past-archive-your-chatgpt-conversations/"><u>Keeping the Past: Archive Your ChatGPT Conversations</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/losungsweg-fur-einen-nicht-reaktiven-dvd-spieler-der-keine-discs-lesen-kann/"><u>Lösungsweg Für Einen Nicht Reaktiven DVD-Spieler, Der Keine Discs Lesen Kann</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-your-design-tools-say-goodbye-to-incessant-blender-crashes-on-personal-computers/"><u>Master Your Design Tools: Say Goodbye to Incessant Blender Crashes on Personal Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-workflow-through-ai-dialogue-coaching/"><u>Maximizing Workflow Through AI Dialogue Coaching</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-chatgpt-options-a-comparison-between-browsing-enabled-and-plugin-versions/"><u>Navigating ChatGPT Options: A Comparison Between Browsing-Enabled and Plugin Versions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/openais-struggle-with-ai-liberation/"><u>OpenAI's Struggle with AI Liberation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reassessing-paperclips-through-ais-lens-of-innovation/"><u>Reassessing Paperclips Through AI's Lens of Innovation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unmuted-success-11-ways-to-restore-ringtones-on-incoming-iphone-calls/"><u>Unmuted Success: 11 Ways to Restore Ringtones on Incoming iPhone Calls</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Honor X50 GT? | Dr.fone</u></a></li>
 </ul></div>
 

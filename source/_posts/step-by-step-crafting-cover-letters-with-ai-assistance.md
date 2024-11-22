@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Crafting Cover Letters with AI Assistance"
-date: 2024-11-11T07:26:19.524Z
-updated: 2024-11-11T17:29:34.002Z
+date: 2024-11-16T20:05:45.733Z
+updated: 2024-11-21T19:14:21.078Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is GPT-4 Turbo?
 
 ![gpt-4 logo on smartphone screen](https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg)
@@ -35,32 +39,19 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
  Right now, the best way to use GPT-4 Turbo for free is via Microsoft Copilot. It may seem weird that you have to go through Microsoft instead of OpenAI, but the two companies have a really close relationship. As such, it's not unusual to see OpenAI's features appear within Microsoft's AI assistants.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use GPT-4 Turbo for Free With Microsoft Copilot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
@@ -68,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
  If you want to bring Copilot up faster, you can do so by pressing**Win + C** . Or, if you're lucky enough to own a[laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/) , just press that to bring up the assistant at any time.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Use GPT-4 Turbo for Free on Other Devices
@@ -85,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 ## How to Get the Most Out of GPT-4 Turbo
 
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
 
@@ -109,14 +101,24 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-list-of-ex-followers-on-instagram-for-2024/"><u>[Updated] List of Ex-Followers on Instagram for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/coding-the-future-how-ai-redefines-game-design/"><u>Coding the Future: How AI Redefines Game Design</u></a></li>
-<li><a href="https://facebook.techidaily.com/elevate-your-gameplay-with-the-ultimate-asus-vg245h-gaming-monitor/"><u>Elevate Your Gameplay with The Ultimate Asus VG245H Gaming Monitor</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-preserving-epic-overwatch-moments-three-effective-techniques/"><u>Guide: Preserving Epic Overwatch Moments – Three Effective Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/h264h2aturate-h265/"><u>H.264にリマスタリング：H.2aturate H.265ビデオファイルを無料で改質する方法！</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-narzo-60x-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme Narzo 60x 5G Phone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-celebrating-families-this-years-top-10-movie-gems/"><u>In 2024, Celebrating Families This Year’s Top 10 Movie Gems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/isovob/"><u>ISOファイルからVOBへの優れた転送技術: 品質保持を実現</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-iso-to-exe-conversion-the-best-3-utilities-for-seamless-file-transformation/"><u>Mastering ISO-to-EXE Conversion: The Best 3 Utilities for Seamless File Transformation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-10-highly-trusted-free-video-communication-tools-with-security-features/"><u>[New] 10 Highly-Trusted Free Video Communication Tools with Security Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-virtual-engagement-harnessing-the-power-of-zoom-in-gmail/"><u>[New] Innovative Virtual Engagement Harnessing the Power of Zoom in Gmail</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-premium-portfolio-cutting-edge-cardboard-vr-game-listings/"><u>[New] Premium Portfolio Cutting-Edge Cardboard VR Game Listings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-swiftly-mastering-the-art-of-smoothing-iphone-shots-four-methods/"><u>[Updated] Swiftly Mastering the Art of Smoothing iPhone Shots (Four Methods)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-older-os-to-windows-11-the-evolution-process/"><u>From Older OS to Windows 11 The Evolution Process</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-can-i-recover-lost-notes-from-my-ipad-tips-on-retrieval-with-or-without-a-backup/"><u>How Can I Recover Lost Notes From My iPad? Tips on Retrieval with or without a Backup</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-new-gameplay-interruptions-a-step-by-step-guide-to-boosting-frame-rates-and-reducing-lag/"><u>Overcoming New Gameplay Interruptions: A Step-by-Step Guide to Boosting Frame Rates and Reducing Lag</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/peak-tools-enhancing-gpt-and-vs-code-collaboration/"><u>Peak Tools: Enhancing GPT & VS Code Collaboration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pioneering-profitable-proposal-writing-via-gpt-powered-methods/"><u>Pioneering Profitable Proposal Writing via GPT-Powered Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/preserve-your-chatgpt-dialogue-records-easy-export-techniques-revealed/"><u>Preserve Your ChatGPT Dialogue Records - Easy Export Techniques Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-fixes-for-6-typical-chatgpt-problems/"><u>Quick Fixes for 6 Typical ChatGPT Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-start-tutorial-enabling-microsoft-copilot-for-mac-users/"><u>Quick Start Tutorial: Enabling Microsoft Copilot for Mac Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-chatgpt-app-failures-on-your-iphone-discover-these-9-methods/"><u>Resolving ChatGPT App Failures on Your iPhone – Discover These 9 Methods</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-constant-crashes-in-god-of-war-game-for-windows-users/"><u>Resolving Constant Crashes in God of War Game for Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/robot-rebusions-tracking-laptop-transformation-and-online-guardians/"><u>Robot Rebusions: Tracking Laptop Transformation & Online Guardians</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/share-export-or-store-the-best-software-for-handling-your-discussions-with-chatgpt/"><u>Share, Export or Store: The Best Software for Handling Your Discussions with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-chatgpt-is-currently-busy-issue-in-windows-step-by-step-guide/"><u>Solving 'ChatGPT Is Currently Busy' Issue in Windows - Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-motorola-moto-g24-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Motorola Moto G24 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-hevc-video-transcoder-premium-h2/"><u>Ultimate HEVC Video Transcoder: Premium H.2</u></a></li>
 </ul></div>
 

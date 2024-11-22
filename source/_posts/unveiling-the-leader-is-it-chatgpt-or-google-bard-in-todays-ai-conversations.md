@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Leader: Is It ChatGPT or Google Bard in Today’s AI Conversations?"
-date: 2024-11-09T07:01:03.162Z
-updated: 2024-11-12T06:19:43.967Z
+date: 2024-11-18T21:09:54.636Z
+updated: 2024-11-21T19:41:25.021Z
 tags:
   - chatgpt
   - open-ai
@@ -24,15 +24,16 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. No More Waitlist for Bard AI
 
  While this isn't entirely a new feature per se, it's refreshing to know that Google has dropped the waitlist for using Bard and opened the chatbot to all. So, if you've been sneaking onto the Bard website using a VPN, it's time to drop the mask. Bard is now open to over 180 countries and territories.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Dark Theme
@@ -51,29 +52,19 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit:[Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
 
  OpenAI promised us image prompting with[the release of the highly anticipated GPT-4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/) . Unfortunately, as of 10th May 2023, even ChatGPT plus users are still fiddling their fingers, waiting to try out the feature. If you've been disappointed, don't be anymore. Image prompting is coming to Bard AI. The feature will be powered by Google Lens, a technology that Google has developed for several years.
 
  In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Image Generation With Adobe Firefly
 
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
@@ -81,9 +72,17 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
  Although we aren't exactly sure how deeply integrated Bard AI will be with Abode Firefly, the demo at Google I/O gave a sneak peek at something exciting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Tools for Exporting Generated Content
 
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One thing missing from most[AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.
 
@@ -92,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 ## 7\. Improved Code Generation
 
 ![Generating code with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-code-with-bard-ai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  At launch, Bard AI couldn't write code—an embarrassing pitfall considering coding was one of the big hype surrounding the emergence of AI chatbots. However, Bard AI competitors like[ChatGPT have been helping people code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) since its debut. Google has now significantly ramped up Bard's coding abilities—so much so that a lot of precious presentation time was dedicated to discussing it at its Google I/O 2023 event.
 
@@ -125,14 +117,24 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11-tips.techidaily.com/enhance-pc-speed-for-swift-steam-content-delivery/"><u>Enhance PC Speed for Swift Steam Content Delivery</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/guide-pas-a-pas-pour-extraire-des-donnees-du-disque-dur-inaccessible-de-votre-portable-dell/"><u>Guide Pas À Pas Pour Extraire Des Données Du Disque Dur Inaccessible De Votre Portable Dell.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-adding-images-to-your-youtube-videos-as-an-engaging-picture-slideshow/"><u>Step-by-Step Guide: Adding Images to Your YouTube Videos as an Engaging Picture Slideshow</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-mpeg-videos-to-mp4-format-across-different-systems-latest-techniques/"><u>Step-by-Step Guide: Converting MPEG Videos to MP4 Format Across Different Systems – Latest Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-integrating-sound-into-your-adobe-after-effects-project/"><u>Step-by-Step Guide: Integrating Sound Into Your Adobe After Effects Project</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-the-cyanfluence-addon-for-kodi-version-19-matrix/"><u>Step-by-Step Guide: Setting Up the Cyanfluence Addon for Kodi Version 19 Matrix</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>The Best iSpoofer Alternative to Try On Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-what-is-ai-voice-text-to-speech-in-2024/"><u>Updated What Is AI Voice Text to Speech, In 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-enhancing-iphone-7-screen-record-capabilities-for-2024/"><u>[New] Enhancing iPhone 7 Screen Record Capabilities for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-stop-automated-youtube-content-rollouts/"><u>[Updated] 2024 Approved Stop Automated YouTube Content Rollouts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-optimize-clarity-mastering-close-up-techniques-in-videoleap/"><u>[Updated] Optimize Clarity Mastering Close-Up Techniques in Videoleap</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024s-cheapest-cloud-providers-exposed/"><u>2024’S Cheapest Cloud Providers Exposed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-sporadic-wi-fi-mouse-failures-in-modern-operating-systems-windows-1110/"><u>Diagnosing and Repairing Sporadic Wi-Fi Mouse Failures in Modern Operating Systems (Windows 11/10)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-proposal-game-expert-tips-on-creating-compelling-pitches-with-chatgpt/"><u>Elevate Your Proposal Game: Expert Tips on Creating Compelling Pitches with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-your-iphone-experience-by-merging-chatgpt-and-siri-functions/"><u>Enhancing Your iPhone Experience by Merging ChatGPT and Siri Functions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-heart-of-generative-ai/"><u>Exploring the Heart of Generative AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-chaos-to-calm-incorporating-meditation-through-gpt/"><u>From Chaos to Calm: Incorporating Meditation Through GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-a-mobile-phone-for-50-bucks-learn-about-ransomware-hack-free-solutions-plus-meet-chatgpt-on-our-exclusive-podcast-tour/"><u>Get a Mobile Phone for 50 Bucks, Learn About Ransomware Hack-Free Solutions + Meet ChatGPT on Our Exclusive Podcast Tour</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-parents-can-teach-safe-use-of-ai-chatgpt-guidelines-for-kids/"><u>How Parents Can Teach Safe Use of AI: ChatGPT Guidelines for Kids</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ideal-chatgpt-questions-for-authentic-character-building/"><u>Ideal ChatGPT Questions for Authentic Character Building</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-y27s-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo Y27s to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-paving-the-way-for-a-new-era-in-medical-care-and-diagnosis/"><u>Is ChatGPT Paving the Way for a New Era in Medical Care and Diagnosis?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-openai-losing-its-grip-on-chatgpts-reins/"><u>Is OpenAI Losing Its Grip on ChatGPT's Reins?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/revolutionize-your-ig-feed-with-these-elite-grid-creation-apps/"><u>Revolutionize Your IG Feed with These Elite Grid Creation Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-guide-to-automated-iphone-podcast-downloads-for-2024/"><u>Step-By-Step Guide to Automated iPhone Podcast Downloads for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/struggling-with-a-non-printable-pdf-expert-tips-for-immediate-solutions/"><u>Struggling with a Non-Printable PDF? Expert Tips for Immediate Solutions</u></a></li>
 </ul></div>
 

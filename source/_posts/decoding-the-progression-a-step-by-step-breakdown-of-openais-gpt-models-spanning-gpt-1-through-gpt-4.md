@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Progression: A Step-by-Step Breakdown of OpenAI's GPT Models, Spanning GPT-1 Through GPT-4"
-date: 2024-11-09T04:53:08.980Z
-updated: 2024-11-12T05:18:25.456Z
+date: 2024-11-18T20:00:35.028Z
+updated: 2024-11-21T17:41:22.304Z
 tags:
   - chatgpt
   - open-ai
@@ -30,11 +30,19 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 ![An electric bulb on a black chalkboard with chat bubbles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bulb-on-chalkboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Multi-modal AI refers to AI models that can process and understand different types of data, such as text, images, and videos. Get this, if GPT-4 becomes a multi-modal AI, it will be a game changer for DIY enthusiasts.
 
  This means that GPT-4 could potentially generate DIY project ideas based on visual input, such as a user's uploaded images of materials or finished projects.
 
  It could also provide step-by-step instructions that incorporate both text and visual cues, making it easier for users to follow along. With multi-modal capabilities, GPT-4 could open up a whole new world of possibilities for DIY enthusiasts looking to take on more complex projects.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Will GPT-4 Speed Up DIY Development?
 
@@ -42,22 +50,12 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
  As the field of NLP continues to evolve, the release of GPT-4 is highly anticipated due to its potential to accelerate DIY development.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Advanced Language Processing Capabilities
 
  Large-scale language generation is a feature that will allow the generation of large, coherent, and accurate texts that provide informative responses to DIY enthusiasts. A multilingual support feature will also diversify the use of the language model by the DIY community, hence promoting collaboration and quickening the formation and implementation of ideas.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI-Based IDE Plugins
@@ -70,32 +68,20 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
  Integrating algorithms can improve model response relevance and accuracy, leading to personalized DIY recommendations based on user behavior. ML algorithms can recognize DIY-related keywords and tailor user-specific responses, easing the product research and development process.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Future of Microcontroller-Based Platforms
 
 ![A white robot assistant with a tablet with user interface attached to the chest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/white-robot-assistant.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microcontroller-based platforms could benefit greatly from advancements in AI models such as ChatGPT4\. Integrating these models can expand the processing power and memory of the platforms, leading to more accurate data analysis from embedded and IoT systems. Speaking of this, we've covered many[Arduino IoT projects](https://www.makeuseof.com/best-arduino-iot-projects/) you can try without waiting for GPT advancements.
 
  Predictive maintenance measures could also be developed using this data. In the future, lightweight AI versions could even be integrated into devices for DIY projects using compression techniques. Generally, DIY partakers will soon be able to efficiently ideate, research, implement, and modify projects.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bringing AI to the DIY World
@@ -117,24 +103,17 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-visual-virtuosity-a-novices-journey-in-snapseed/"><u>[New] 2024 Approved Visual Virtuosity A Novice's Journey in Snapseed</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-erase-imposter-photo-mishaps-in-platform-interactions/"><u>[Updated] 2024 Approved Erase Imposter Photo Mishaps in Platform Interactions</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-revamp-your-social-media-presence-essential-online-image-makers-for-fb-covers/"><u>[Updated] In 2024, Revamp Your Social Media Presence Essential Online Image Makers for FB Covers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-detailed-review-the-essence-of-hero4-black/"><u>2024 Approved Detailed Review The Essence of Hero4 Black</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/batch-unfriending-techniques-on-snapchat-a-step-by-step-guide/"><u>Batch Unfriending Techniques on Snapchat: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012346879-call-of-duty-wwii-black-screen-woes-heres-how-to-resolve-it-on-windows/"><u>Call of Duty: WWII Black Screen Woes? Here's How to Resolve It on Windows.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-the-languages-differences-in-computing/"><u>Deciphering the Languages' Differences in Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-how-the-chatgpt-app-for-iphone-and-ipad-excels-against-the-website/"><u>Discover How the ChatGPT App for iPhone & iPad Excels Against the Website</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-exciting-new-features-of-googles-bard-ai-revealed-this-year/"><u>Explore the Exciting New Features of Google's BARD AI Revealed This Year</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-do-these-top-7-gpt-4-powered-applications-function/"><u>How Do These Top 7 GPT-4 Powered Applications Function?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-realme-narzo-n53-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Realme Narzo N53 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-2024-warcraft-solved-pc-game-from-crashing-best-practices-guide/"><u>How to Stop 2024 Warcraft [Solved] PC Game From Crashing - Best Practices Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-xipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone X/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oppo-a18-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Oppo A18 Android SIM Unlock APK</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-new-territory-add-ons-in-your-chatgpt-experience/"><u>Navigating New Territory: Add-Ons in Your ChatGPT Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-presentations-the-ultimate-list-of-7-ai-tools-to-simplify-slides/"><u>Revolutionize Your Presentations: The Ultimate List of 7 AI Tools to Simplify Slides</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-hidden-traps-of-self-diagnosing-with-ai-health-tools/"><u>The Hidden Traps of Self-Diagnosing with AI Health Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-power-behind-snapchats-my-ai-explored-in-6-aspects/"><u>The Power Behind Snapchat's My AI Explored in 6 Aspects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-imagination-integrating-ai-into-narrative-art/"><u>Unleashing Imagination: Integrating AI Into Narrative Art</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagrams-best-tools-ranked-editors-to-elevate-reels-for-2024/"><u>[Updated] Instagram's Best Tools Ranked Editors to Elevate Reels for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciding-on-your-next-console-compare-nintendo-switch-and-oled-models-with-our-detailed-analysis-zdnet/"><u>Deciding on Your Next Console? Compare Nintendo Switch & OLED Models with Our Detailed Analysis | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-toms-tech-insights-and-gadget-reviews/"><u>Explore Tom's Tech Insights & Gadget Reviews</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tutorial-posting-restricted-youtube-to-gmail-accounts/"><u>In 2024, Tutorial Posting Restricted YouTube to Gmail Accounts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-creativity-with-chatgpts-advanced-image-recognition/"><u>Maximizing Creativity with ChatGPT's Advanced Image Recognition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-movement-the-ghost-in-your-mouse-on-windows/"><u>No Movement: The Ghost in Your Mouse on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimal-communication-with-9-advantages-in-chatgptplus/"><u>Optimal Communication with 9 Advantages in ChatGPT+</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-crafting-your-own-tailored-chatgpt-variant-with-generative-ai/"><u>Step-by-Step Guide: Crafting Your Own Tailored ChatGPT Variant with Generative AI</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/step-by-step-guide-restoring-lost-partitions-on-a-western-digital-my-book/"><u>Step-by-Step Guide: Restoring Lost Partitions on a Western Digital My Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-emerging-cybersecurity-trends-to-watch-in-the-coming-year/"><u>Top 7 Emerging Cybersecurity Trends to Watch in the Coming Year</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-witness-the-power-of-4k-the-most-impressive-video-demos-for-2024/"><u>Updated Witness the Power of 4K The Most Impressive Video Demos for 2024</u></a></li>
 </ul></div>
 

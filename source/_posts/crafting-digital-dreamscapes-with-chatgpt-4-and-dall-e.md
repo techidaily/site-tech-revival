@@ -1,7 +1,7 @@
 ---
 title: Crafting Digital Dreamscapes with ChatGPT-4 and DALL-E
-date: 2024-11-10T08:19:29.267Z
-updated: 2024-11-11T17:57:50.111Z
+date: 2024-11-15T17:56:11.122Z
+updated: 2024-11-21T17:37:02.807Z
 tags:
   - chatgpt
   - open-ai
@@ -51,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 **Cost:** Free for 10,000 characters per month. $9 per month for 100,000 characters and $29 per month for unlimited use.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. ShortlyAI
@@ -62,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 ![ShortlyAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortlyai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ShortlyAI](https://www.shortlyai.com/) is another tool without too many features. However, this one is focused on either blog posts or story writing, which makes it much more specialized.
@@ -78,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 
 **Cost:** $79 per month for unlimited use. However, if you want to try it out, you can sign up without a credit card—and you get four clicks a day.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. DeepStory
 
 ![DeepStoryAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deepstoryai.jpg)
@@ -89,10 +87,7 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 **Cost:** $12 per month, with a limit of 10,000 words. You can also try it out for free for 10 generations.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. NovelAI
@@ -110,16 +105,7 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 **Cost:** $10/$15/$25 per month. All of these give you unlimited text generations but offer other advanced and experimental features. You can try it for free for 100 text generations.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Leave the Writer’s Block Behind With These AI Story Generators
@@ -143,20 +129,15 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-screen-commanders-face-off-for-2024/"><u>[New] Screen Commanders Face-Off for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-ice-artistry-at-the-2022-winter-games/"><u>[Updated] 2024 Approved Ice Artistry at the 2022 Winter Games</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-explore-the-world-of-frames-5-free-youtube-tips-for-you-for-2024/"><u>[Updated] Explore the World of Frames 5 Free YouTube Tips for You for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-comprehensive-manual-best-practices-for-using-mobizen-recording-tool/"><u>2024 Approved Comprehensive Manual Best Practices for Using Mobizen Recording Tool</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crossplatform-audiomagic-2023/"><u>CrossPlatform AudioMagic 2023</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/developers-anticipate-ai-impact-on-workflow-and-productivity-in-tech-industries/"><u>Developers Anticipate AI Impact on Workflow and Productivity in Tech Industries</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-ranking-the-best-most-innovative-pc-vr-headsets/"><u>In 2024, Ranking the Best, Most Innovative PC VR Headsets</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/interactive-realms-via-textual-machine-learning/"><u>Interactive Realms via Textual Machine Learning</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/securing-bot-communications-from-breaches/"><u>Securing Bot Communications From Breaches</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/solved-resolving-the-issue-of-origin-failure-to-start-on-win10-and-win11-systems/"><u>Solved! Resolving the Issue of Origin Failure to Start on Win10 and Win11 Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-hidden-risks-of-using-chatgpt-applications-from-the-mac-app-store/"><u>The Hidden Risks of Using ChatGPT Applications From the Mac App Store</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/this-is-the-easiest-way-to-learn-latin-online/"><u>This Is The Easiest Way To Learn Latin Online</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/top-12-photo-viewer-apps-compatible-with-windows-11-a-comprehensive-list/"><u>Top 12 Photo Viewer Apps Compatible with Windows 11: A Comprehensive List</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-openais-core-technologies/"><u>Unlocking OpenAI's Core Technologies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-potential-exploring-features-of-openais-powerful-api/"><u>Unlocking Potential: Exploring Features of OpenAI's Powerful API</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-pioneering-efficient-editing-embrace-inshot-software/"><u>[New] In 2024, Pioneering Efficient Editing Embrace Inshot Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-selection-of-inexpensive-web-explorers-for-remote-work/"><u>[New] The Ultimate Selection of Inexpensive Web Explorers for Remote Work</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-exploring-earning-potential-revenue-from-youtube-advertisements/"><u>2024 Approved Exploring Earning Potential Revenue From YouTube Advertisements?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-to-top-video-recorders/"><u>In 2024, Ultimate Guide to Top Video Recorders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/secure-and-sensible-optimizing-chatgpt-for-professional-psychological-coaching/"><u>Secure and Sensible: Optimizing ChatGPT for Professional Psychological Coaching</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sharpen-your-interview-edge-chatgpts-role-in-practice/"><u>Sharpen Your Interview Edge: ChatGPT's Role in Practice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tailoring-your-own-ai-conversational-agent-with-gpt-technology-key-steps-unveiled/"><u>Tailoring Your Own AI Conversational Agent with GPT Technology - Key Steps Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-core-methods-to-implement-gpt-3-in-openai-realm/"><u>The Core Methods to Implement GPT-3 in OpenAI Realm</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
 </ul></div>
 

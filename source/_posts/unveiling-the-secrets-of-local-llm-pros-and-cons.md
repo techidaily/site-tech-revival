@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Secrets of Local LLM Pros and Cons
-date: 2024-11-08T00:01:55.614Z
-updated: 2024-11-12T00:41:03.794Z
+date: 2024-11-18T23:54:21.298Z
+updated: 2024-11-21T21:21:21.244Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Availability
 
  To use[Notion AI](https://www.notion.so/product/ai) , you must first sign up for a Notion account. You can use the feature with a free plan, but you must purchase Notion AI as an add-on. For users with a free membership, Notion AI costs $10 per month.
@@ -31,19 +35,6 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
  When buying Notion AI as a premium subscriber, you’ll pay $10 per month if you pay monthly for your normal paid Notion plan. If you have an annual subscription, Notion AI will cost $8 per month instead.
 
  You can use[ChatGPT](https://chat.openai.com/) ’s basic features for free, and you can type numerous responses into the app. On top of that, you can get ChatGPT Plus—which costs $20 per month. ChatGPT Plus offers access during periods when lots of other people are using the platform, along with other useful features.
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Drafting Ideas
 
@@ -53,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
 
 ![Notion AI Brainstorm Idea Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-brainstorm-idea.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see from the example below, we’ve asked Notion AI to brainstorm ideas related to sports.
 
 ![Notion AI Sport Ideas Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-sport-ideas.jpg)
@@ -67,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
  Notion AI also lets you draft social media posts, press releases, blog posts, and more.
 
  When using ChatGPT, you can also generate ideas for your projects. After signing in to your account, you can ask the bot to come up with a list of different things that you can then research further.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Creating Summaries of Existing Pages
 
@@ -85,7 +62,15 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
 
 ![Notion AI Page Summary Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-page-summary.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When using ChatGPT, you can ask the tool to provide summaries on different topics. If you’ve created a conversation, you can get it to provide an overview by typing**“summarize this conversation so far”** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Finding Answers to Questions
 
@@ -103,9 +88,17 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
 
 ![Translate Notion AI Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/translate-notion-ai.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With ChatGPT, you also have the option to translate different things. You can ask the tool how you can say various words and phrases in other languages, and it’s also possible to translate your entire conversation. To do this, type**“translate this entire conversation into \[language\]”** at the bottom of your screen.
 
 ![ChatGPT Page Translation Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-page-translation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Stability
 
@@ -123,20 +116,10 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
 
 ![Notion Create To-Do List AI Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-create-to-do-list-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also ask ChatGPT to create to-do lists, but you’ll have to provide it with enough context to make your list personalized. If you’ve already got information written somewhere, Notion AI is probably a better option for tasks of this nature.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Notion AI and ChatGPT: Two Different Forms of Generative AI
@@ -160,24 +143,24 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-expert-insights-the-best-screen-recording-software-reviewed/"><u>[New] 2024 Approved Expert Insights The Best Screen Recording Software Reviewed</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-join-the-trendsetters-club-with-monthly-1k-followers-for-2024/"><u>[New] Join the Trendsetters Club with Monthly 1K Followers for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-unleashing-full-hd-clarity-on-every-tweet-scroll-for-2024/"><u>[New] Unleashing Full HD Clarity on Every Tweet Scroll for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-crafting-a-powerful-content-strategy-uncover-the-best-5-youtube-marketing-tactics/"><u>[Updated] Crafting a Powerful Content Strategy Uncover the Best 5 YouTube Marketing Tactics</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-zero-cost-video-cutting-and-joining-solutions-for-new-users/"><u>Best Zero-Cost Video Cutting and Joining Solutions for New Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/connecting-apples-wireless-earbuds-to-a-nintendo-gaming-system/"><u>Connecting Apple's Wireless Earbuds to a Nintendo Gaming System</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-online-presence-with-manycam-the-ultimate-choice-for-real-time-virtual-webcams-and-recording-tools/"><u>Elevate Your Online Presence with ManyCam - The Ultimate Choice for Real-Time Virtual Webcams and Recording Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-remote-communication-with-manycam-advanced-features-for-professional-live-video-software-and-digital-camera-alternatives/"><u>Elevate Your Remote Communication with ManyCam: Advanced Features for Professional Live Video Software and Digital Camera Alternatives</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-broadcasts-with-manycam-powerful-software-for-live-video-capture-and-fake-webcams/"><u>Enhance Your Broadcasts with ManyCam: Powerful Software for Live Video Capture & Fake Webcams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-livestreams-with-manycam-the-ultimate-virtual-webcam-and-editing-suite/"><u>Enhance Your Livestreams with ManyCam - The Ultimate Virtual Webcam and Editing Suite</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-discover-the-power-of-manycams-live-video-technology-and-fakewebcam-features/"><u>Enhance Your Online Presence: Discover the Power of ManyCam's Live Video Technology and Fakewebcam Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-expert-video-editing-and-remote-webcams-with-manycam/"><u>Enhance Your Online Presence: Expert Video Editing and Remote Webcams with ManyCam</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-streams-with-manycam-top-virtual-camera-and-recording-tool/"><u>Enhance Your Streams with ManyCam: Top Virtual Camera and Recording Tool</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-world-of-professional-streaming-with-manycam-your-ultimate-livestream-camera-and-effects-suite/"><u>Explore the World of Professional Streaming with ManyCam - Your Ultimate Livestream Camera and Effects Suite</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/from-novice-to-visionary-the-ultimate-reddit-marketing-blueprint/"><u>From Novice to Visionary The Ultimate Reddit Marketing Blueprint</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-crafting-comedy-mastering-kinemaster/"><u>In 2024, Crafting Comedy Mastering KineMaster</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-live-video-solutions-with-manycam-the-definitive-virtual-webcam-experience/"><u>Innovative Live Video Solutions with ManyCam – The Definitive Virtual Webcam Experience</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-the-tap-trouble-on-win11s-elan-pad/"><u>Overcoming the Tap Trouble on Win11's Elan Pad</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-daily-digital-dynasty-ranking-the-top-10-youtube-videos/"><u>[Updated] 2024 Approved Daily Digital Dynasty Ranking the Top 10 YouTube Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-crafting-compelling-360-videos-for-social-media-streams/"><u>[Updated] Crafting Compelling 360 Videos for Social Media Streams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-graduating-from-novice-to-3d-lut-maestro/"><u>[Updated] Graduating From Novice to 3D LUT Maestro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-assessment-hero4-black-capabilities/"><u>2024 Approved Full Assessment Hero4 Black Capabilities</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensively-understanding-cloud-storage-with-adobe-and-why-you-should-compare-for-2024/"><u>Comprehensively Understanding Cloud Storage with Adobe and Why You Should Compare for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-motorola-moto-g04-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Motorola Moto G04?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-6-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 6 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-y78-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo Y78 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-ai-the-new-oracle-exploring-chatgpts-ability-to-predict-your-future-versus-horoscope-readings/"><u>Is AI the New Oracle? Exploring ChatGPT's Ability to Predict Your Future Versus Horoscope Readings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-actually-becoming-less-clever-insights-from-openai-debunk-this-myth/"><u>Is ChatGPT Actually Becoming Less Clever? Insights From OpenAI Debunk This Myth.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-an-authoritative-voice-for-medical-insights/"><u>Is ChatGPT an Authoritative Voice for Medical Insights?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/kickstart-a-successful-charity-contest-via-social-media-for-2024/"><u>Kickstart a Successful Charity Contest via Social Media for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-art-of-notetaking-with-the-top-6-ai-driven-apps-for-optimal-organization-and-recall/"><u>Master the Art of Notetaking with the Top 6 AI Driven Apps for Optimal Organization and Recall</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-ai-image-generation-combining-dall-e-and-chatgpt-4-techniques/"><u>Mastering AI Image Generation: Combining DALL-E and ChatGPT-4 Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-efficiency-in-the-office-leveraging-chatgpt-for-enhanced-workflow-management/"><u>Maximizing Efficiency in the Office: Leveraging ChatGPT for Enhanced Workflow Management</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-natures-perils-with-chatgpt-can-it-really-help-you-survive/"><u>Navigating Nature's Perils with ChatGPT – Can It Really Help You Survive?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-use-of-gpt-for-harmful-software/"><u>Navigating the Use of GPT for Harmful Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-corporate-correspondence-via-ai-practical-tips-and-tricks/"><u>Optimizing Corporate Correspondence via AI: Practical Tips & Tricks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/windows-11-stepping-out-of-the-clip-as-photos/"><u>Windows 11 Stepping Out of the Clip as Photos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ideal Enhancements to Boost the Functionality of ChatGPT's Marketplace
-date: 2024-11-11T05:27:52.170Z
-updated: 2024-11-11T19:27:23.157Z
+date: 2024-11-15T16:17:16.472Z
+updated: 2024-11-21T17:53:02.189Z
 tags:
   - chatgpt
   - open-ai
@@ -36,16 +36,13 @@ thumbnail: https://thmb.techidaily.com/c878f30c184513e5e2ecdd904a42a40c824bea0f8
 
 ![Snapchat My AI Explaining the Elements of an Image of a Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/my-ai-recognizing-image-of-person.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  That said, these chatbots follow different restrictions. My AI generally has fewer rules than ChatGPT—it might perform a broader range of tasks.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Conversations Retain the Last 3,000 Words
 
@@ -58,29 +55,12 @@ Close
 ![Snapchat My AI Roleplaying as Ash Ketchum from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-roleplay-request.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Snapchat My AI Continuing the Roleplay Request to Portray Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-continuing-roleplay-request.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. My AI Can Pull Real-Time Information
 
@@ -90,17 +70,29 @@ Close
 
 ![Asking Snapchat About the Weather Tomorrow in Manila](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-snapchat.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
 
 Close
 
  Try testing the limits of My AI’s accuracy. It pulls updated information from various publications and resources, including those on international events.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Snapchat’s Location Services Are Wholly Utilized
 
  Snapchat offers helpful location-based services. It can tell you which establishments and landmarks are near your current location.
 
 ![Asking Snapchat About Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-test.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
 
@@ -116,6 +108,10 @@ Close
 
 ![Asking Snapchat a Probability and Statistics Math Problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-word-problem-probability.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
 
 Close
@@ -129,13 +125,6 @@ Close
  These incidents shouldn’t have happened in the first place, but in fairness to Snapchat, it quickly resolved My AI’s security issues. The company enforced stricter guidelines shortly after these reports.
 
  Snapchat also adds new features consistently. Take My AI’s image prompting feature as an example. The chatbot is getting way better at recognizing images, even ones you take yourself. Meanwhile, other chatbots have yet to adopt image prompting.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try Snapchat’s New AI Assistant
 
@@ -158,24 +147,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-brief-video-explanations-all-inclusive-for-2024/"><u>[New] Brief Video Explanations, All-Inclusive for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-expert-guide-to-free-pc-software-for-capturing-tv/"><u>2024 Approved Expert Guide to Free PC Software for Capturing TV</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-key-platforms-ranking-the-best-6-sites-for-business-interaction/"><u>2024 Approved Key Platforms Ranking the Best 6 Sites for Business Interaction</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/an-in-depth-look-at-what-sets-claude-pro-apart-from-its-rival-chatgpt-plus-by-microsoft/"><u>An In-Depth Look at What Sets Claude Pro Apart From Its Rival, ChatGPT Plus by Microsoft</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/breaking-ground-without-gpt-innovative-ai-for-code-autonomy/"><u>Breaking Ground Without GPT: Innovative AI for Code Autonomy</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/capturing-adrenaline-with-the-latest-yi-technology-for-2024/"><u>Capturing Adrenaline with the Latest Yi Technology for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/customizable-generative-ai-by-nvidia-explained/"><u>Customizable Generative AI by NVIDIA Explained</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-unbelievably-sharp-visuals-at-an-incredible-price-with-this-top-tier-lightweight-notebook/"><u>Discover Unbelievably Sharp Visuals at an Incredible Price with This Top-Tier Lightweight Notebook.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dissecting-ais-impact-on-disinformation/"><u>Dissecting AI’s Impact on Disinformation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/identified-interloper-on-network-printer/"><u>Identified Interloper on Network Printer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/last-chance-to-snag-amazing-savings-the-ultimate-guide-to-38-best-cyber-monday-plus-costco-deals-on-electronics/"><u>Last Chance to Snag Amazing Savings: The Ultimate Guide to 38 Best Cyber Monday + Costco Deals on Electronics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-diplomatic-corporate-e-mail-writing-with-gpt/"><u>Mastering the Art of Diplomatic Corporate E-Mail Writing with GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/policy-formulation-for-ai-4-regulatory-pathways-explored/"><u>Policy Formulation for AI: 4 Regulatory Pathways Explored</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premier-virtual-music-gatherings/"><u>Premier Virtual Music Gatherings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-how-to-access-the-cutting-edge-beta-features-of-chatgpt-for-improved-web-experience-and-plugins-integration/"><u>Step by Step: How to Access the Cutting-Edge Beta Features of ChatGPT for Improved Web Experience & Plugins Integration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-misconceived-notion-ai-as-a-full-time-writer-substitute/"><u>The Misconceived Notion: AI as a Full-Time Writer Substitute</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tips-and-tricks-to-avoid-photo-crashes-on-windows-11-for-2024/"><u>Tips & Tricks to Avoid Photo Crashes on Windows 11 for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-list-of-advanced-ai-search-platforms-navigate-the-internet-with-ease/"><u>Ultimate List of Advanced AI Search Platforms: Navigate the Internet with Ease</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-xiaomi-redmi-k70e-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Xiaomi Redmi K70E? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-leaders-in-next-gen-sensory-devices/"><u>[New] 2024 Approved Leaders in Next-Gen Sensory Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-easy-setup-making-a-direct-path-for-youtube-subscribers/"><u>[Updated] 2024 Approved Easy Setup Making a Direct Path for YouTube Subscribers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essence-of-scripting-for-film/"><u>[Updated] The Essence of Scripting for Film</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unveiling-the-power-of-the-participant-grids-in-google-meet/"><u>2024 Approved Unveiling the Power of the Participant Grids in Google Meet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-beginners-guide-to-biometrics-and-its-applications/"><u>A Beginner's Guide to Biometrics and Its Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-test-of-creativity-amongst-3-leading-chatbots-who-excelled/"><u>A Test of Creativity Amongst 3 Leading Chatbots - Who Excelled?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advancing-crypto-discussions-via-gpt-innovations/"><u>Advancing Crypto Discussions via GPT Innovations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-communicators-from-idea-to-interaction-using-gpt/"><u>AI Communicators: From Idea to Interaction - Using GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722169736514-chatgpt-conversations-not-storing-heres-how-you-can-fix-it/"><u>ChatGPT Conversations Not Storing? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722189837875-discover-the-new-ai-revolution-chatgpt-now-available-on-iphones/"><u>Discover the New AI Revolution: ChatGPT Now Available on iPhones!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easily-monitor-hard-drive-capacity-on-windows-10-a-comprehensive-tutorial/"><u>Easily Monitor Hard Drive Capacity on Windows 10 - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/effortless-integration-posting-twitter-vids-on-instagram-profile-for-2024/"><u>Effortless Integration Posting Twitter Vids on Instagram Profile for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-advanced-webcam-and-chat-software-rankings/"><u>In 2024, Advanced Webcam & Chat Software Rankings</u></a></li>
+<li><a href="https://common-error.techidaily.com/investigating-unintended-boot-sequences-on-windows-10-systems-and-preventive-measures/"><u>Investigating Unintended Boot Sequences on Windows 10 Systems & Preventive Measures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722046806470-is-using-chatgpt-compromising-your-online-privacy-a-deep-dive-analysis/"><u>Is Using ChatGPT Compromising Your Online Privacy? A Deep Dive Analysis.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722208971214-ransomware-crackdown-unlock-your-phone-for-just-50-plus-chatgpts-role-in-crafting-our-podcast-stories/"><u>Ransomware Crackdown: Unlock Your Phone for Just $50 + ChatGPT's Role in Crafting Our Podcast Stories</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-you-shouldnt-trust-chatgpt-with-confidential-information/"><u>Why You Shouldn't Trust ChatGPT With Confidential Information</u></a></li>
 </ul></div>
 

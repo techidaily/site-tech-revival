@@ -1,7 +1,7 @@
 ---
 title: Exploring the Essentials in OpenAI Knowledge
-date: 2024-11-07T22:43:45.167Z
-updated: 2024-11-11T17:59:57.529Z
+date: 2024-11-20T18:56:14.076Z
+updated: 2024-11-21T23:51:16.971Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/92ed774f3b41ac1777073a488ce58c2ba128a5ace
 
 ![asking chatgpt to solve 5 divided by 6 minus 2 divided by 8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Asking chatgpt to solve 1.195 minus 1.128](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-3.jpg)
 
 ![asking chatgpt to solve 2.98 minus 4 divided by 13](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-4-1.jpg)
@@ -50,9 +54,17 @@ Close
 
 ![asking chatgpt to solve for the distance a ball bounces into the air on the seventh bounce given an initial height of ten feet with each successive bounce rising to 75 percent of the previous height](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![asking chatgpt to solve the bouncing ball problem as a geometric sequence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-3.jpg)
 
 ![asking chatgpt to solve a quadratic equation where x squared plus six times x plus 8 equals zero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -62,25 +74,23 @@ Close
 
 ![asking chatgpt to solve for the hypotenuse of a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-1.jpg)
 
-![asking chatgpt to solve for an angle given a three sided shape inscribed within a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![asking chatgpt to solve for an angle given a three sided shape inscribed within a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-2.jpg)
 
 ![chatgpt makes a mistake in the inscribed angle problem after being asked for an explanation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![chatgpt solves for the equation of a parabola given the focus and vertex](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -94,40 +104,13 @@ Close
 
 ![chatgpt solves for x given a cosine equation where 16 times the cosine of 12 times x plus eight equals negative eight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![chatgpt solves for the amplitude of a waveform given the minimum value and midpoint of an equation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-2.jpg)
 
 ![chatgpt solves for the cosine and sine of the interior angle of a right triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-3.jpg)
 
 ![chatgpt gives an incorrect definition of sine after user insists that it is incorrect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can ChatGPT Solve Calculus Problems?
 
@@ -141,9 +124,17 @@ Close
 
 ![chatgpt solves for the limit of an equation correctly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![chatgpt solves for the value of the derivative of an inverse function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-2.jpg)
 
 ![chatgpt offers a correct answer for the derivative of an inverse of a function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![chatgpt gives an incorrect answer after being told its original correct answer was erroneous](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-4.jpg)
 
@@ -155,6 +146,10 @@ Close
 
  That doesn’t make ChatGPT a bad tool for solving math problems. In many cases, ChatGPT serves as a reliable and accurate time-saver—and it’s completely free to use. The mistakes made by ChatGPT don’t condemn it, but they do serve as a reminder that you need to[use the right techniques when working with ChatGPT](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) and double-check its answers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT’s Equation Solving Limitations
 
  ChatGPT doesn’t appear to have any significant limitations in solving math problems, but there are a few rules you should keep in mind as you work with it.
@@ -163,13 +158,6 @@ Close
 * ChatGPT always answers confidently. If you aren’t familiar enough with math to discern when it gives an incorrect answer but rely on it for learning, you may develop serious misunderstandings about concepts in math over time.
 * ChatGPT bends to the will of the user. Regardless of whether you intend to manipulate its answers, it may offer incorrect information to appease you if something in your response triggers it.
 * ChatGPT may not pick up on inherent errors in the information that you give it. You should reconsider using ChatGPT for math if you aren’t familiar enough with a concept because it may simply reinforce your misunderstanding.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use ChatGPT Carefully When Solving Math Problems
 
@@ -192,24 +180,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/nhance-engagement-mastering-template-based-video-description-writing-for-2024/"><u>[New] Enhance Engagement Mastering Template-Based Video Description Writing for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-laugh-riot-twitters-funniest-moments/"><u>[Updated] 2024 Approved Laugh Riot Twitter's Funniest Moments</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-spectacular-8-ultimate-vr-play-tools/"><u>2024 Approved Spectacular 8 Ultimate VR Play Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/57ch5y2y44gn5a6j5ywo44gq5yuv55s744gu6zplusz5rqq5yywic0g6auy5zob6loq44cb44k544ou44o844oh44kj44o844ks44kk44oj/"><u>簡単で安全な動画の音源化 - 高品質、スピーディーガイド</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/conquering-subreddit-mastering-the-art-of-public-discussion-for-2024/"><u>Conquering Subreddit Mastering the Art of Public Discussion for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/converting-dvd-content-for-seamless-use-in-adobe-premiere-pro/"><u>Converting DVD Content for Seamless Use in Adobe Premiere Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/customized-strategies-across-multiple-digital-platforms/"><u>Customized Strategies Across Multiple Digital Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cut-and-style-your-snaps-like-a-pro-an-experts-guide-to-editing-videos-on-snapchat/"><u>Cut & Style Your Snaps Like A Pro: An Expert's Guide to Editing Videos on Snapchat</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-13-fantastic-free-video-editing-tools-professional-quality-zero-watermarks-for-all-users/"><u>Discover 13 Fantastic Free Video Editing Tools - Professional Quality, Zero Watermarks for All Users!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discuss-membership-benefits-in-organizations-like-smartertravel-for-discounted-access-to-experiences-worldwide/"><u>Discuss Membership Benefits in Organizations Like SmarterTravel for Discounted Access to Experiences Worldwide.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/diy-tutorial-free-tools-for-quickly-resizing-your-wav-music-files/"><u>DIY Tutorial: Free Tools for Quickly Resizing Your WAV Music Files</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easily-transform-videos-into-wav-format-a-three-step-guide/"><u>Easily Transform Videos Into WAV Format: A Three-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/evaluating-virtual-realms-pros-and-cons-for-2024/"><u>Evaluating Virtual Realms Pros and Cons for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-11f-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 11F 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipad-upgrade-decision-in-depth-analysis-of-apple-pencil-pro-versus-apple-pencil-twin-expert-views-at-zdnet/"><u>IPad Upgrade Decision: In-Depth Analysis of Apple Pencil Pro versus Apple Pencil Twin | Expert Views at ZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/livestreamer-plus-advanced-video-sharing-platform-with-virtual-cam-capabilities/"><u>LiveStreamer Plus: Advanced Video Sharing Platform with Virtual Cam Capabilities</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-your-destiny-2-server-connectivity-troubles-step-by-step-instructions/"><u>Solving Your Destiny 2 Server Connectivity Troubles – Step-by-Step Instructions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tailoring-humor-personalize-with-kinemaster/"><u>Tailoring Humor Personalize with KineMaster</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44oe44od44kt44oz44oi44od44k344ol44gn44gu55s76z2i5pku5b2x5pa55rov44o76kej5rg6562w77ya5ypluso6yyy5asx5pwx5pmc/"><u>マッキントッシュでの画面撮影方法・解決策：収録失敗時</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-android-developers-choice-premier-tools-for-extracting-fb-videos-for-2024/"><u>[New] Android Developer's Choice Premier Tools for Extracting FB Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-achieve-collaborative-efficiency-using-skypes-screen-share-feature/"><u>[Updated] How to Achieve Collaborative Efficiency Using Skype’s Screen-Share Feature</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-effortless-video-creation-learn-basic-edits-on-vimeo-for-free/"><u>2024 Approved Effortless Video Creation Learn Basic Edits on Vimeo for Free</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/assessing-chatgpts-ability-in-formulating-effective-workout-routines-with-safety-measures/"><u>Assessing ChatGPT's Ability in Formulating Effective Workout Routines With Safety Measures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-in-class-tools-merging-gpt-with-vs-code-effortlessly/"><u>Best-in-Class Tools: Merging GPT with VS Code Effortlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bing-chat-vs-chatgpt-for-freelancers-evaluating-the-key-differences-you-need-to-know-8-essential-points/"><u>Bing Chat Vs. ChatGPT for Freelancers: Evaluating the Key Differences You Need to Know (8 Essential Points)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-game-design-a-sixfold-strategy-to-elevate-your-video-game-storytelling-skills/"><u>ChatGPT and Game Design: A Sixfold Strategy to Elevate Your Video Game Storytelling Skills</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/compact-computing-excellence-a-selection-of-premium-gaming-mini-pcs/"><u>Compact Computing Excellence: A Selection of Premium Gaming Mini PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>How to Fix This Computer Does Not Meet the Minimum Requirement for Installing Software. When Installing Intel Graphics Driver</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/using-chatgpt-to-create-impactful-and-effective-job-applications/"><u>Using ChatGPT to Create Impactful and Effective Job Applications</u></a></li>
 </ul></div>
 

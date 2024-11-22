@@ -1,7 +1,7 @@
 ---
 title: "Italy Prohibits ChatGPT: A Closer Look at the Sudden Ban"
-date: 2024-11-07T07:31:18.535Z
-updated: 2024-11-11T18:51:51.488Z
+date: 2024-11-19T00:31:10.470Z
+updated: 2024-11-21T19:17:55.431Z
 tags:
   - chatgpt
   - open-ai
@@ -35,10 +35,7 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
  Explore[responsible ways of writing with AI](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) instead. ChatGPT streamlines non-writing tasks, like researching topics, editing drafts, and analyzing reader personas.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Automating Employee Performance Reviews Through ChatGPT
@@ -47,9 +44,17 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
  However, using ChatGPT this way is deceitful—it doesn’t have enough context to assess your employees accurately. You’ll definitely get fired for submitting erroneous ratings. Workers might even file lawsuits against you depending on the gravity of the situation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Asking ChatGPT to Draft Legal Documents and Contracts
 
 ![Person Highlighting Parts of a Contract in Green](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/highilighting-parts-of-contract.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [OpenAI](https://openai.com/policies/terms-of-use) states in its terms of use that ChatGPT records and reviews all user conversations. The company uses non-API content for data training. While[ChatGPT doesn’t learn from chats in real-time](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , its trainers still screen and filter input. You should never divulge company information.
 
@@ -62,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
  Only use ChatGPT for research when analyzing reports. AI can help test formulas and answer general knowledge questions, but you should never feed it company insights. Again, OpenAI records all conversations. Your employer might sue you and terminate your employment contract for breaching the NDA.
 
  And make sure you double-check the figures that ChatGPT presents. Blindly trusting AI’s formulas will cause errors in your computations, which might get you into trouble. Employers could also fire you if you consistently submit erroneous data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Making ChatGPT Reply to Messages
 
@@ -77,29 +86,19 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
  Like automated AI replies, workers rarely get fired for sending ChatGPT-generated emails. It just makes them look unprofessional. Use AI to generate writing prompts and create outlines, but you should still compose messages yourself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Doing Research and Analyses on ChatGPT
 
  Many companies encourage using ChatGPT for research purposes. It’s a powerful chatbot that scours vast datasets comprising various subjects.[Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) reports that OpenAI fed the platform 300 billion words, while ChatGPT Plus has access to real-time information online. It can help you explore any topic under the sun.
 
  You won’t get fired if you research responsibly. As with any other online resource, it’s best to verify information multiple times before presenting it. Compare data from other sources. Solely relying on ChatGPT’s output puts you at risk of spreading misinformation, a potentially career-ending mistake.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Using Code Snippets Written by ChatGPT
 
 ![Asking ChatGPT to Write a Sample Code Snippet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sample-code-snippet-from-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT’s ability to code in various languages caught the attention of programmers worldwide. It can write an entire site’s code in seconds. Many programmers reduce their workload by offloading much of the coding process to ChatGPT.
 
@@ -113,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
 ![ChatGPT Editing Paragraph Based on AP Styleguide](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-acting-as-an-editor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It’s not unethical for employees to edit with chatbots. But if you’re an editor who publishes articles edited by ChatGPT, you’ll likely get fired. Your employer pays you to correct drafts yourself. Just running them through AI-driven tools and platforms is unethical and violates your contract.
 
 ## 10\. Analyzing Financial Charts on ChatGPT
@@ -127,10 +119,7 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 ![Red and Green Prices on a Financial Chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/financial-charts-and-scores-on-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One of[OpenAI’s worst issues with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is that it gets confused with word and number problems. You can only ask intermediate-level questions. Making ChatGPT analyze complex financial reports would likely produce errors and inaccuracies.
@@ -160,24 +149,20 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-guide-to-incorrantey-instagrams-music-focused-emojis/"><u>[New] 2024 Approved Guide to Incorrantey Instagram's Music-Focused Emojis</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-ideal-image-lengths-boost-video-engagement/"><u>[New] 2024 Approved Ideal Image Lengths Boost Video Engagement</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/xpanding-digital-presence-stream-to-youtube-plus-additional-platforms-for-2024/"><u>[New] Expanding Digital Presence Stream to YouTube + Additional Platforms for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-who-are-tiktoks-best-known-gamers-for-2024/"><u>[Updated] Who Are TikTok's Best-Known Gamers for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/web-teamszoom/"><u>悄々としたWebミーティングの記録: Teams・Zoom用隠密ガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027996685-dvd/"><u>信頼性の高い最強DVDコピーツール：プレミアムバージョンをお薦め</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-leading-10-4k-dslr-shoulder-rigs/"><u>Cutting Edge Leading 10 4K DSLR Shoulder Rigs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dive-into-francophone-literature-20-best-books-for-beginners/"><u>Dive Into Francophone Literature: 20 Best Books for Beginners</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-likes-to-leadership-social-media-and-workplace-success/"><u>From Likes to Leadership: Social Media and Workplace Success</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-google-nest-wifi-ideal-for-all-home-setups/"><u>In-Depth Look at the Google Nest WIFI - Ideal for All Home Setups</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-streaming-sky-sports-on-kodi-complete-tutorial-with-images/"><u>Step-by-Step Guide to Streaming Sky Sports on Kodi - Complete Tutorial with Images</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-the-iconic-19-core-addon-in-kodi-version-19-matrix/"><u>Step-by-Step Guide: Setting Up the Iconic 19 Core Addon in Kodi Version 19 Matrix</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-accessing-high-quality-flac-music-on-ios-platforms/"><u>Step-by-Step Tutorial: Accessing High-Quality FLAC Music on iOS Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-essential-tools-for-creating-professional-youtube-videos-desktop-and-online-solutions/"><u>Top 7 Essential Tools for Creating Professional YouTube Videos: Desktop and Online Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-troubleshooting-steps-solving-the-video-cannot-be-uploaded-to-instagram-issue/"><u>Ultimate Troubleshooting Steps: Solving the 'Video Cannot Be Uploaded to Instagram' Issue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-value-how-waiting-for-an-ipad-pro-sale-before-prime-day-can-save-you-big-bucks-insights/"><u>Unlocking the Value: How Waiting for an iPad Pro Sale Before Prime Day Can Save You Big Bucks - Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/webmogg/"><u>WebMファイルからオーディオを取り出し、Ogg形式にリニア化する手順</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-to-know-before-tesla-enters-phone-arena-speculated-pricing-expected-debut-date-and-tech-insights/"><u>What to Know Before Tesla Enters Phone Arena: Speculated Pricing, Expected Debut Date & Tech Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-11mp4/"><u>Windows 11でシンプルにMP4動画連結技術</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-breaking-through-the-shadows-fixes-for-obss-black-gaming-capture/"><u>[New] 2024 Approved Breaking Through the Shadows Fixes for OBS's Black Gaming Capture</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-final-act-steps-for-permanent-instagram-account-removal-for-2024/"><u>[New] The Final Act Steps for Permanent Instagram Account Removal for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-mastering-backtracking-in-twitch-broadcasts/"><u>[Updated] In 2024, Mastering Backtracking in Twitch Broadcasts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-top-20-gags-and-laughter-on-youtube-for-downtime-delight/"><u>[Updated] The Top 20 Gags & Laughter on YouTube for Downtime Delight</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leverage-chatgpt-to-elevate-your-social-media-messages-a-step-by-step-guide/"><u>Leverage ChatGPT to Elevate Your Social Media Messages – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-art-of-cover-letters-using-ai-tips-from-chatgpt/"><u>Master the Art of Cover Letters Using AI - Tips From ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-process-quick-start-for-local-llama-2-setup/"><u>Master the Process: Quick Start for Local Llama 2 Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-your-hardware-choices-the-ultimate-guide-by-toms-tech-specialists/"><u>Master Your Hardware Choices - The Ultimate Guide by Tom's Tech Specialists</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-ai-transfer-learning-functionality-explained-in-depth/"><u>Mastering AI Transfer Learning: Functionality Explained in Depth</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-sea-of-content-design-with-canva-and-ai/"><u>Navigating the Sea of Content Design - With Canva and AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nine-smart-ways-to-implement-auto-gtp/"><u>Nine Smart Ways to Implement Auto-GTP</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/openai-vs-artists-understanding-the-reasons-behind-sarah-silverman-and-others-lawsuits-against-meta-and-openai/"><u>OpenAI vs Artists: Understanding the Reasons Behind Sarah Silverman and Others' Lawsuits Against Meta & OpenAI</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-google-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Google</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-testing-the-samsung-galaxy-tab-s7-the-ultimate-compact-device-for-fans-of-android-os/"><u>Unboxing and Testing the Samsung Galaxy Tab S7 - The Ultimate Compact Device for Fans of Android OS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/zoomed-out-prices-meet-kodak-pixpro-fz53/"><u>Zoomed Out Prices Meet Kodak PIXPRO FZ53</u></a></li>
 </ul></div>
 

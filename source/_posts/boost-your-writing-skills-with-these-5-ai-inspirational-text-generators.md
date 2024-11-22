@@ -1,7 +1,7 @@
 ---
 title: Boost Your Writing Skills with These 5 AI Inspirational Text Generators
-date: 2024-11-08T00:08:31.625Z
-updated: 2024-11-12T07:53:19.199Z
+date: 2024-11-14T23:36:44.218Z
+updated: 2024-11-21T21:39:26.150Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
 ![Asking ChatGPT What Tropes to Avoid in a Crime Thriller Novel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-what-tropes-to-avoid-crime-thriller-novel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Simply ask "what is the best narrative structure for a crime thriller". Or, if there's something in your book that necessitates specialized knowledge, like how an ice skating tournament works, ask exactly that and ChatGPT will generate the relevant information in a summary.
 
  Keep in mind that the chatbot might generate inaccurate answers, which is just one of the[big problems with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) , so it's essential to verify the results. You also need to ensure that whatever information you derive from ChatGPT is compatible with your theme; don't just settle for the first answer it spits out.
@@ -51,19 +55,13 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 ![Asking ChatGPT to Check the Originality of Novel Concept](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-checking-the-originality-of-story-idea.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your story will most likely draw upon a widely recognized framework of narratives in literature and film, such as an alien invasion or a money heist. So you need to be very specific with your prompt to ensure that ChatGPT has every element of your story to check its originality.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Generate an Organized Outline
@@ -73,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
  ChatGPT is an absolute gem when it comes to outlining. Let's say you've settled on the three-act structure, specify that at the beginning of your prompt, then follow with a synopsis of your story. All you need to do is get the timeline of events in the correct order, and ChatGPT will give you an organized outline.
 
  Editing the outline is critical; add any details ChatGPT missed, remove things that you don't like, or ask the chatbot to generate a new outline altogether. Now you've got something to work with, and it didn't take all day to put together!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Flesh Out the Characters and World
 
@@ -119,33 +110,27 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
  Remember that ChatGPT might not always get it right, plus grammar rules aren't the same across the board, so it might be worth getting a human copy editor instead.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Generate Novel Title Ideas
 
  The title of your novel is going to be what draws readers in, so it needs to be captivating. There are no rules here, it can be one word or ten, simple or complex, as long as it reflects your story.
 
 ![Asking ChatGPT to Generate Novel Title Ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-generate-novel-title-ideas.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you have no idea where to begin, jot down the main themes of your story and ask ChatGPT to generate title ideas based on that. You can also do this for individual chapter names.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Generate Book Cover Art Ideas
 
  In addition to the title, the visuals of your book also play a crucial role in captivating readers. If you're hiring a photographer or graphic designer, it's essential to convey your artistic vision to them.
 
  While ChatGPT can't generate images, you can ask for some inspiration. Of course, you could always[use an AI art generator](https://www.makeuseof.com/ai-text-to-art-generators/) to visually illustrate your concept to your designer. Or, if you feel confident in your artistic skills, you could DIY it and[make your own book cover](https://www.makeuseof.com/how-to-design-make-book-cover/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Harness the Power of ChatGPT for Your Novel
 
@@ -168,20 +153,21 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-efficient-lecture-capture-with-macos/"><u>[Updated] 2024 Approved Efficient Lecture Capture with MacOS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-5-tools-for-enhancing-web-videos/"><u>[Updated] Top 5 Tools for Enhancing Web Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-advanced-ai-tools-such-as-chatgpt-be-exploited-in-designing-computer-viruses/"><u>Can Advanced AI Tools Such as ChatGPT Be Exploited in Designing Computer Viruses?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-4s-performance-why-is-it-not-as-fast-as-its-predecessor/"><u>ChatGPT-4's Performance: Why Is It Not As Fast As Its Predecessor?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/content-writing-and-ai-the-top-6-limitations-of-using-chatbots-as-a-replacement/"><u>Content Writing and AI: The Top 6 Limitations of Using Chatbots as a Replacement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creative-writing-revolutionized-discover-these-6-methods-of-leveraging-chatgpt/"><u>Creative Writing Revolutionized: Discover These 6 Methods of Leveraging ChatGPT</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/exceptional-counsel-premium-ringtone-developers/"><u>Exceptional Counsel Premium Ringtone Developers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-chatgpt-safety-issues-and-6-key-cybersecurity-risks-to-be-aware-of/"><u>Exploring ChatGPT Safety Issues and 6 Key Cybersecurity Risks to Be Aware Of</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-features-of-mobvois-ticwatch-pro-with-4g-a-must-have-tech-companion/"><u>Exploring the Features of Mobvoi's TicWatch Pro with 4G - A Must-Have Tech Companion</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-tecno-spark-10-4g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Tecno Spark 10 4G 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager on Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-your-potential-here-are-erreason-10-upgrades-to-opt-for-with-chatgpt-plus/"><u>Maximize Your Potential: Here Are erReason 10 Upgrades To Opt For With ChatGPT Plus</u></a></li>
-<li><a href="https://facebook.techidaily.com/postponement-of-whatsapps-new-privacy-agreement-deadline/"><u>Postponement of WhatsApp's New Privacy Agreement Deadline</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/professional-email-efficiency-how-chatgpt-can-assist-in-handling-challenging-correspondences/"><u>Professional Email Efficiency: How ChatGPT Can Assist in Handling Challenging Correspondences</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-taming-echoes-syncing-voices-to-obs-channel/"><u>[New] 2024 Approved Taming Echoes Syncing Voices to OBS Channel</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-video-cuts-windows-edition-made-simple/"><u>[New] The Ultimate Guide to Video Cuts Windows Edition, Made Simple</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expanding-your-earnings-chatgpt-skills-for-extra-cash-essential-pc-build-techniques-and-retro-handheld-game-treasures/"><u>Expanding Your Earnings: ChatGPT Skills for Extra Cash, Essential PC Build Techniques, and Retro Handheld Game Treasures</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-alert-the-ultimate-guide-to-navigating-freestyle2-blue-on-mac/"><u>Expert Review Alert: The Ultimate Guide to Navigating Freestyle2 Blue on Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-ultimate-collection-of-indispensable-software-for-both-pc-and-mac-users-curated-by-experts-at-zdnet/"><u>Exploring the Ultimate Collection of Indispensable Software: For Both PC & Mac Users, Curated by Experts at ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fact-or-fantasy-debunking-9-key-ai-chatbot-beliefs/"><u>Fact or Fantasy? Debunking 9 Key AI Chatbot Beliefs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-idea-to-manuscript-9-essential-tips-on-utilizing-chatgpt-for-novel-writing-success/"><u>From Idea to Manuscript: 9 Essential Tips on Utilizing ChatGPT for Novel-Writing Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-chatgpt-boosts-your-crypto-trading-a-five-point-guide/"><u>How ChatGPT Boosts Your Crypto Trading: A Five-Point Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-itel-p40-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Itel P40</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/identifying-and-understanding-touchless-technologies-for-2024/"><u>Identifying and Understanding Touchless Technologies for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/idt-high-definition-codec-driver-configuration-and-installation-tips-for-windows-10-users/"><u>IDT High Definition Codec Driver Configuration & Installation Tips for Windows 10 Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-best-recording-methods-for-environmentally-friendly-screens/"><u>In 2024, Best Recording Methods for Environmentally Friendly Screens</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-decoding-the-cost-per-thousand-views-on-youtube-for-successful-earning/"><u>In 2024, Decoding the Cost Per Thousand Views on YouTube for Successful Earning</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-discussion-microsofts-acquisition-of-blizzard-and-insights-on-ai-artistry-and-language-translation-podcast/"><u>In-Depth Discussion: Microsoft's Acquisition of Blizzard & Insights on AI Artistry & Language Translation [Podcast]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-claude-pro-a-deep-dive-into-its-capabilities/"><u>Introducing Claude Pro: A Deep Dive Into Its Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/join-the-bug-sniffers-club-at-openai-where-expertise-meets-rewards/"><u>Join the Bug-Sniffers Club at OpenAI, Where Expertise Meets Rewards</u></a></li>
 </ul></div>
 

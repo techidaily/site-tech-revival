@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Strategies: Incorporating ChatGPT Into Academic Studies"
-date: 2024-11-08T03:35:17.723Z
-updated: 2024-11-12T05:34:41.118Z
+date: 2024-11-15T00:24:15.967Z
+updated: 2024-11-21T23:10:11.371Z
 tags:
   - chatgpt
   - open-ai
@@ -33,10 +33,7 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 ![bitcoin logo at the end of warped tunnel ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The huge success of ChatGPT, as well as the release of[similar AI chatbots](https://www.makeuseof.com/best-alternatives-chatgpt/) , has brought the concern of hallucination into the limelight.
@@ -53,16 +50,13 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  ChatGPT can hold a bias in certain scenarios due to its training data. According to[BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) , ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Fails to Give Personalized Financial Advice
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can certainly ask ChatGPT any number of questions about the crypto market, as well as use it for financial tips. But while this is possible, it may not be the best route to pursue.
 
@@ -73,16 +67,7 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Relies Heavily on Historical Data
@@ -90,10 +75,7 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
@@ -116,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Is Revolutionary but Far From Perfect
 
  There's no denying that ChatGPT can help you in a myriad of ways, be it in research, writing, idea generation, or creativity. But if you want to use this chatbot in your crypto trading venture, it's paramount that you consider the risks and downsides listed above.
@@ -135,24 +121,19 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-showcase-splendor-best-cover-apps-for-iphones-and-android/"><u>[New] 2024 Approved Showcase Splendor Best Cover Apps for iPhones & Android</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-listenguide-examination/"><u>[New] ListenGuide Examination</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-gain-traction-in-the-digital-sphere-explore-the-quintessential-five-youtube-tactics/"><u>[Updated] 2024 Approved Gain Traction in the Digital Sphere - Explore the Quintessential Five YouTube Tactics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-easy-steps-to-access-your-dvf-music-files-and-transform-them-into-mp3-format/"><u>1. Easy Steps to Access Your DVF Music Files & Transform Them Into MP3 Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030524733-windows-114/"><u>効果的なWindows 11デスクトップ動画作成:探求4つの方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030182359-mp3-audacity/"><u>音声ファイルからMP3へ書き出し方法 : Audacity使用ガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726028116080-divxmp4/"><u>DivXに完璧に変換！MP4ファイルを一括で素早く、美しく！</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-cooling-how-extreme-mugurisus-pink-strawberry-scented-thermal-surpasses-kryonaut-grizzly-compare-and-contrast/"><u>Essential Cooling: How Extreme Mugurisu's Pink, Strawberry Scented Thermal Surpasses Kryonaut Grizzly Compare & Contrast</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-honor-100-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-vivo-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Vivo</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-oneplus-open-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On OnePlus Open? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726029987997-iosandroid/"><u>IOS/Android対応:ボイス録音音量上げ機能を持つ人気アプリランキング</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-access-denied-errors-during-usb-device-installation/"><u>Resolving 'Access Denied' Errors During USB Device Installation</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/step-by-step-tutorial-recovering-deleted-files-from-your-pc-the-ultimate-2024-guide/"><u>Step-by-Step Tutorial: Recovering Deleted Files From Your PC - The Ultimate 2024 Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-rated-free-whiteboard-animation-software-for-pc/"><u>Updated 2024 Approved Top-Rated Free Whiteboard Animation Software for PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-1011steamand/"><u>Windows 10/11用の専用ガイド：Steamゲーム録画&ビデオ撮影手順集紹介</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-102024dvd/"><u>Windows 10で2024年のDVDファイルを自由にダウンロードするレシピ</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/wmv-to-avi-conversion-guide-simple-steps-and-tools/"><u>WMV to AVI Conversion Guide: Simple Steps & Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030394282-20235/"><u>あなたが必見! 2023最新ツイッター動画保存ベスト5チェックリスト</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-exploring-the-world-of-digital-color-grading/"><u>[New] 2024 Approved Exploring the World of Digital Color Grading</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-a-stepwise-journey-to-meme-mastery-in-kinemaster/"><u>[New] In 2024, A Stepwise Journey to Meme Mastery in KineMaster</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-low-audio-levels-in-logic-pro/"><u>[New] Mastering Low Audio Levels in Logic Pro</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-free-top-8-best-apps-to-get-likes-on-instagram/"><u>[Updated] 2024 Approved FREE Top 8 Best Apps to Get Likes on Instagram</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/crafting-sections-in-vimeo-videos/"><u>Crafting Sections in Vimeo Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/al-detective-finding-and-watching-yt-archives/"><u>Digital Detective Finding and Watching YT Archives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/flip-it-quick-and-simple-video-rotation-techniques/"><u>Flip It! Quick and Simple Video Rotation Techniques</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-honor-v-purse-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Honor V Purse to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-forefront-ai-an-alternative-to-chatgpt-or-not/"><u>Understanding Forefront AI – An Alternative to ChatGPT, or Not?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-insights-the-leading-7-trends-shaping-tomorrows-cyber-landscape/"><u>Unlocking Insights: The Leading 7 Trends Shaping Tomorrow's Cyber Landscape</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-language-models-using-gpt-3-in-python-environments/"><u>Unlocking the Power of Language Models: Using GPT-3 in Python Environments</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-7-benefits-ai-driven-health-consults/"><u>Unveiling 7 Benefits: AI-Driven Health Consults</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-clarity-in-conversation-gpt-3-folder-tactics/"><u>Unveiling Clarity in Conversation: GPT-3 Folder Tactics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/which-leads-an-in-depth-look-at-chatgpt-and-huggingchats-performance/"><u>Which Leads? An In-Depth Look at ChatGPT and HuggingChat's Performance</u></a></li>
 </ul></div>
 

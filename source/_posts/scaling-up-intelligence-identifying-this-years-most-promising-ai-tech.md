@@ -1,7 +1,7 @@
 ---
 title: "Scaling Up Intelligence: Identifying This Year's Most Promising AI Tech"
-date: 2024-11-06T03:56:27.640Z
-updated: 2024-11-11T22:52:25.255Z
+date: 2024-11-16T18:10:43.051Z
+updated: 2024-11-21T20:46:36.644Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Bing Chat and ChatGPT
 
  The first difference between Bing Chat and ChatGPT is in how you access each tool.
@@ -36,9 +40,17 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
 ![Screenshot of New Bing Introduction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-new-bing-introduction.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The process with ChatGPT is even simpler. First, you will need to create an[OpenAI](https://chat.openai.com/auth/login) account. Once created, you can use ChatGPT from any supported browser. This multi-browser compatibility marks the first notable difference. Bing Chat does offer a form of multi-browser support but with limited functionality.
 
 ![Screenshot of ChatGPT home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-home-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Comparing the Language Models of Bing Chat and ChatGPT
 
@@ -54,6 +66,10 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of Bing Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-limerick-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you see from the ChatGPT effort below, both models can construct creative prose remarkably well.
 
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
@@ -62,16 +78,13 @@ For example, below is Bing Chat's effort at a simple limerick.
 
  Moderating responses that were factually incorrect or otherwise unsuitable was performed "on the fly" with GPT-3.5\. In other words, it was a reactive strategy that acted after the horse had bolted. GPT-4 has safety measures designed into the model, meaning safety is more proactive. Where safety is a concern, Bing Chat technically has the upper hand.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Image Processing and Accuracy
 
  The ability to process image data is also a new feature in GPT-4\. However, this feature currently isn't integrated into Bing Chat, so it isn't covered here. The other major difference is the accuracy of the response. This is covered next.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Accurate Are Bing Chat and ChatGPT
 
@@ -86,16 +99,7 @@ For example, below is Bing Chat's effort at a simple limerick.
 ![Screenshot of Plastic Recycling Stats from Bing Chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-plastic-recycling-stats-from-bing-chat.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The response supplied figures as well as links to the sources from which the data was retrieved. However, the inclusion of US plastic exports was slightly out of context with the question. We would hesitate to call this a glitch, but it does show AI's tendency to wander off-topic at times.
@@ -118,23 +122,9 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of Bing Chat response to education query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-chat-response-to-education-query.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, the response included links to the listed websites. Compare this to the ChatGPT response:
 
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which Is Best: Bing Chat or Chat GPT?
 
@@ -153,13 +143,6 @@ By contrast, the ChatGPT response was to admit its limitations.
  Additionally, the ability to run on browsers other than Edge may make it more appealing to some.
 
  Ultimately, this is a case of choosing the right tool for the job. The beauty of this is that both platforms are free, so trying them both is quick and easy.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Chatbots Are Here to Stay
 
@@ -180,19 +163,24 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-audience-wave-top-hash-tags-to-swell-youtube-views/"><u>[New] Audience Wave Top Hash Tags to Swell Youtube Views</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-rating-7-of-the-ultimate-waterproof-recorder-guide/"><u>[New] Rating #7 of the Ultimate Waterproof Recorder Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-taking-control-your-comprehensive-yt-studio-manual-for-2024/"><u>[Updated] Taking Control Your Comprehensive YT Studio Manual for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-broadcasts-with-manycams-cutting-edge-live-video-tools-and-webcam-emulation-technology/"><u>Elevate Your Broadcasts with ManyCam's Cutting-Edge Live Video Tools & Webcam Emulation Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-broadcasts-with-manycam-top-ranked-live-video-and-remote-webcam-software/"><u>Enhance Your Broadcasts with ManyCam: Top-Ranked Live Video and Remote Webcam Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-with-manycams-advanced-video-editing-tools-and-virtual-webcams/"><u>Enhance Your Online Presence with ManyCam's Advanced Video Editing Tools & Virtual Webcams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-videos-with-manycam-premium-live-broadcasting-and-fake-webcam-technology/"><u>Enhance Your Videos with ManyCam - Premium Live Broadcasting & Fake Webcam Technology</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-14-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 14 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/legal-implications-of-using-chatgpt-recent-revisions-to-googles-news-algorithms-and-maximizing-mobile-internet-access-while-touring/"><u>Legal Implications of Using ChatGPT, Recent Revisions to Google's News Algorithms, & Maximizing Mobile Internet Access While Touring</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-performance-a-detailed-tutorial-on-installing-more-ram-in-your-laptop-by-experts-at-zdnet/"><u>Maximize Performance: A Detailed Tutorial on Installing More RAM in Your Laptop by Experts at ZDNet</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-essential-11-audio-focused-smartphone-applications/"><u>New In 2024, Essential 11 Audio-Focused Smartphone Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pivoting-to-perfection-fixing-plugin-link-errors-with-chatgpt/"><u>Pivoting to Perfection: Fixing Plugin Link Errors with ChatGPT</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-11x-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme 11X 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-dissecting-youtube-policies-and-creative-commons-licensing-dichotomy/"><u>[New] 2024 Approved Dissecting YouTube Policies and Creative Commons Licensing Dichotomy</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-yearly-recording-runners-fb-live-sessions/"><u>[New] 2024 Approved Yearly Recording Runners FB Live Sessions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-social-media-video-trends-for-smbs/"><u>[Updated] Social Media Video Trends for SMBs</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/como-restaurar-archivos-borrados-accidentalmente-de-un-disco-duro-externo-2-metodos-efectivos/"><u>Cómo Restaurar Archivos Borrados Accidentalmente De Un Disco Duro Externo: 2 Métodos Efectivos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cutting-edge-image-design-mastering-microsofts-copilot-capabilities/"><u>Cutting-Edge Image Design: Mastering Microsoft's Copilot Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-artificer-intellect-which-reigns-supreme-chatgpt-plus-or-perplexity/"><u>Decoding Artificer Intellect: Which Reigns Supreme, ChatGPT Plus or Perplexity?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-bert-exploring-googles-innovative-approach-to-nlp-compared-to-gpt/"><u>Decoding BERT: Exploring Google's Innovative Approach to NLP Compared to GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-exceptional-ai-assisted-web-search-platforms-for-efficient-results/"><u>Discover Exceptional AI Assisted Web Search Platforms for Efficient Results</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/diy-llama-2-setup-comprehensive-instructions-for-local-deployment/"><u>DIY Llama 2 Setup – Comprehensive Instructions for Local Deployment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dont-lose-hope-expert-methods-to-reclaim-your-forgotten-chatgpt-history/"><u>Don't Lose Hope: Expert Methods to Reclaim Your Forgotten ChatGPT History</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-reading-journey-top-5-ai-enhanced-book-platforms/"><u>Enhance Your Reading Journey - Top 5 AI-Enhanced Book Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-hacks-for-overcoming-typical-chatgpt-glitches-and-bugs/"><u>Essential Hacks for Overcoming Typical ChatGPT Glitches and Bugs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-leading-open-source-ai-image-creation-software-of/"><u>Explore the Leading Open-Source AI Image Creation Software Of</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-5-audio-to-video-makers-online/"><u>In 2024, Top 5 Audio to Video Makers Online</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/is-the-idp-generic-alert-a-hoax-or-hazard-comprehensive-guide-to-detecting-and-deleting-this-alleged-virus/"><u>Is the IDP Generic Alert a Hoax or Hazard? Comprehensive Guide to Detecting and Deleting This Alleged Virus</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-honor-magic-6-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Honor Magic 6 without backup.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-35-tablet-bargains-unmissable-prime-day-202-offers-check-them-out-now-on-zdnet/"><u>Top 35 Tablet Bargains: Unmissable Prime Day 202# Offers - Check Them Out Now on ZDNet!</u></a></li>
 </ul></div>
 

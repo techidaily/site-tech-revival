@@ -1,7 +1,7 @@
 ---
 title: Top 11 Powerful ChatGPT Triggers for Crafting Engaging Book Characters
-date: 2024-11-08T05:12:26.534Z
-updated: 2024-11-12T08:25:57.846Z
+date: 2024-11-18T00:48:14.306Z
+updated: 2024-11-21T18:42:25.510Z
 tags:
   - chatgpt
   - open-ai
@@ -26,22 +26,23 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
 ![Find Your Next Book gives you book recommendations based on your ChatGPT prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-find-your-next-book.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Author Screenshot by Mihir Patkar - No attribution required
 
  Find Your Next Book (FYNB) calls it an AI-powered librarian. The bot, based on OpenAI, has "read" a large database of books and can now recommend what you should read based on any query. It processes natural language and urges you to specify your queries in detail. So rather than writing something like "a murder mystery,"[write an effective ChatGPT prompt](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) like "a murder mystery set in the future but not in a dystopian world."
 
  FYNB will take a few minutes to process your request and then give you one recommendation at a time. The recommendation page includes a summary of why the AI thinks the book's topics match what you are looking to read, as well as a non-AI-generated description of the book, like what you're likely to find on the back cover. If you aren't happy with the result, click the "Next Book" button for another recommendation with the same prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2.[Sona](https://www.readthistwice.com/sona) (Web): Quickly Browse a Long List of AI-Recommended Books
 
 ![Sona is an AI book recommendation engine by the makers of Read This Twice that makes AI prompt results easy to read](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-read-this-twice-sona.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -52,15 +53,16 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
  However, in the results, Sona disappointingly doesn't rely on Read This Twice's core expertise by showing which books are recommended by someone influential. There is a workaround to that, though. If you register on the site, you'll be able to add these books to your personal library and go there to see who has promoted the book.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3.[Next Three Books](https://www.nextthreebooks.com/) (Web): Filter Book Recommendations by Type, Genre, Length, Style
 
 ![Next Three Books suggests three titles from a ChatGPT prompt, and lets you filter results by genre, writing style, length, and type of book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-next-three-books.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -97,16 +99,13 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
 ![BooksAI can summarize a book without spoilers, or give a detailed summary broken down by chapters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Author Screenshot by Mihir Patkar - No attribution required
 
 ![BooksAI uses ChatGPT to summarize any book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -119,13 +118,6 @@ Close
  BooksAI also gives you these summaries in nine languages and not just English, making it perfect for non-native speakers. The app also has lists of recommended readings from celebrities and influential minds.
 
 **Download:** BooksAI for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030240/https://play.google.com/store/apps/details?id=com.books.ai.books%5Fai) |[iOS](https://apps.apple.com/us/app/booksai-ai-book-summaries/id6450773082) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Give Serendipity a Chance
 
@@ -146,22 +138,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-essential-guide-to-understanding-facebook-metrics/"><u>[Updated] 2024 Approved The Essential Guide to Understanding Facebook Metrics</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-walking-through-time-a-guide-to-inverted-videos-on-instagram/"><u>[Updated] In 2024, Walking Through Time A Guide to Inverted Videos on Instagram</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-studio-luminance-ranking-the-best-17-light-devices/"><u>[Updated] Studio Luminance Ranking the Best 17 Light Devices</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-ultimate-selection-affordable-hd-cams-for-sports/"><u>[Updated] Ultimate Selection Affordable HD Cams for Sports</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-elevating-your-imagery-with-advanced-hdr-photography/"><u>2024 Approved Elevating Your Imagery with Advanced HDR Photography</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-edge-apps-the-ultimate-10-for-real-time-gymnastics-and-hockey-games-for-2024/"><u>Leading Edge Apps The Ultimate 10 for Real-Time Gymnastics and Hockey Games for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solution-guide-how-to-successfully-load-dvd-when-its-opened-in-another-software-closing-application-tips/"><u>Solution Guide: How to Successfully Load DVD When It's Opened in Another Software – Closing Application Tips.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-your-video-mov-file-into-an-easy-to-share-gif/"><u>Step-by-Step Guide: Converting Your Video (MOV) File Into an Easy-to-Share GIF</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-the-a-pirates-life-for-me-add-on-on-kodi-access-an-endless-library-of-films-and-series/"><u>Step-by-Step Guide: Setting Up the 'A Pirate's Life For Me' Add-On on Kodi - Access an Endless Library of Films and Series</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-trimming-extended-footage-for-your-instagram-story-with-zero-quality-degradation/"><u>Step-by-Step Tutorial on Trimming Extended Footage for Your Instagram Story with Zero Quality Degradation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-2024-freemium-video-transcoding-apps-for-movies-compare-windows-mac-and-web-based-solutions/"><u>Top 2024 Freemium Video Transcoding Apps for Movies: Compare Windows, Mac and Web-Based Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-strategies-for-transforming-mpeg-content-into-advanced-h264-format/"><u>Top Strategies for Transforming MPEG Content Into Advanced H.264 Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-ranked-avcam-video-editor-from-dvd-to-avi-ideal-choice-for-windows-11-users/"><u>Top-Ranked AVCam Video Editor From DVD to AVI: Ideal Choice for Windows 11 Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-issues-why-cant-i-watch-my-mov-videos-on-plex-and-how-to-solve-it/"><u>Troubleshooting Issues: Why Can't I Watch My MOV Videos on Plex and How to Solve It?</u></a></li>
-<li><a href="https://discover-able.techidaily.com/use-list-disk-to-view-all-connected-disks-then-select-your-usb-drive-using-select-disk/"><u>Use `List Disk` to View All Connected Disks, Then Select Your USB Drive Using `Select Disk #`.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-youtube-shorts-a-beginners-guide-to-video-crafting/"><u>[Updated] Exploring YouTube Shorts A Beginner's Guide to Video Crafting</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-guide-to-podcast-style-unboxing/"><u>[Updated] The Ultimate Guide to Podcast-Style Unboxing</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claim-the-future-how-claude-redefines-data-insights-and-solutions/"><u>Claim the Future: How Claude Redefines Data Insights and Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-strong-and-weak-ai-an-in-depth-look-at-what-sets-them-apart/"><u>Comparing Strong and Weak AI: An In-Depth Look at What Sets Them Apart</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-compilation-of-20-best-github-chatgpt-sessions/"><u>Comprehensive Compilation of 20 Best Github ChatGPT Sessions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-j5-tactical-prov1-led-flashlight-analysis-sturdy-and-miniature-design/"><u>Comprehensive J5 Tactical ProV1 LED Flashlight Analysis – Sturdy and Miniature Design</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cooking-up-wellness-can-chatgpt-guide-you-through-healthy-recipes/"><u>Cooking Up Wellness: Can ChatGPT Guide You Through Healthy Recipes?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/craft-a-copycat-ai-writer-guidelines-on-training-chatgpt-like-you-do/"><u>Craft a Copycat AI Writer: Guidelines on Training ChatGPT Like You Do</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creating-an-account-with-just-your-email-steps-for-signing-up-to-chatgpt-and-other-messaging-services/"><u>Creating an Account with Just Your Email: Steps for Signing Up to ChatGPT and Other Messaging Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-impact-of-shape-on-ml-transparency/"><u>Decoding the Impact of ShapE on ML Transparency</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-25-prime-festive-season-ipad-discounts-your-ultimate-guide-to-saving-big-powered/"><u>Discover 25 Prime Festive Season iPad Discounts - Your Ultimate Guide to Saving Big, Powered</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-future-key-insights-into-next-gen-cyber-threats-and-prevention/"><u>Discover the Future: Key Insights Into Next-Gen Cyber Threats & Prevention</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oppo-f25-pro-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Oppo F25 Pro 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-get-cheap-quality-gopro-cameras-today/"><u>In 2024, How to Get Cheap, Quality GoPro Cameras Today</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ios-integration-listening-to-podcasts-made-easy/"><u>IOS Integration Listening to Podcasts Made Easy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/optimizing-power-usage-unlocking-secrets-of-the-windows-10-battery-diagnostics-feature/"><u>Optimizing Power Usage: Unlocking Secrets of the Windows 10 Battery Diagnostics Feature</u></a></li>
 </ul></div>
 

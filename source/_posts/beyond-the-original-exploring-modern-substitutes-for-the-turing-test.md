@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Original: Exploring Modern Substitutes for the Turing Test"
-date: 2024-11-11T03:22:46.031Z
-updated: 2024-11-11T18:50:44.626Z
+date: 2024-11-19T16:30:33.774Z
+updated: 2024-11-21T17:26:27.603Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Get Basic Recipes and Tips on ChatGPT
 
  For the most part, ChatGPT handles basic recipe and cooking questions well. Prompts like “what's a healthy recipe for salmon?” or “how do I make a salad that tastes good?” provide fine responses for starter recipes.
@@ -35,10 +39,7 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
  Healthier cooking options are just a simple prompt away. If you're already a fan of the[best healthy eating apps](https://www.makeuseof.com/best-healthy-eating-apps/) , such as Mealime, then ChatGPT can offer similar recipes and advice. Because you can keep asking ChatGPT to refine its answers or omit any ingredients, however, it's a more interactive option than standard recipe collections.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Refine Your Prompts for Personalized ChatGPT Recipe Selections
@@ -47,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 
 ![ChatGPT healthy breakfast options part 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthy-breakfast-options-part-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don't feel like visiting the grocery store? Note the ingredients you already have on hand and the app can (usually) find an appropriate recipe.
 
 ![ChatGPT dinner ideas with what you have on hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dinner-ideas-with-what-you-have-on-hand.jpg)
@@ -54,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
  It can also streamline your grocery shopping process. Prompt it to "please provide a healthy grocery shopping list" or "create a shopping list for a week's worth of lunch salads with plenty of protein." This option is perfect for those days when you don't have the brainpower to think about cooking.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Get ChatGPT to Teach You Cooking Skills in a Variety of Ways
@@ -69,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
  Meanwhile, the prompt “please provide a healthy vegetable recipe as though you are an upscale professional chef” offers a recipe for Seared Asparagus with Lemon-Herb Gremolata. With plenty of fresh herbs for flavor, it's a delicious addition to any meal. Who knew the chatbot had such elegant taste?
 
  In other words, use your prompts to find recipes that suit your needs and interests. Tailor them to your family's nutritional needs, or try out different types of cuisine from around the world.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does ChatGPT Provide Useful Nutritional Information?
 
@@ -90,10 +85,7 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
  It also offers the caveat that nutritional science is still evolving and recommends consulting with a registered dietitian or healthcare professional for more personalized information. If you want some additional resources, then check out the[best websites to learn more about healthy eating](https://www.makeuseof.com/best-websites-learn-healthy-eating/) , including Nutritionfacts.org and Open Food Facts.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Boost Your Healthy Cooking Skills With ChatGPT
@@ -115,24 +107,18 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-ascend-the-tiktok-charts-strategies-for-revenue-generation/"><u>[New] 2024 Approved Ascend the TikTok Charts Strategies for Revenue Generation</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-master-the-art-of-tiktok-sharing-across-chrome-os-devices/"><u>[New] 2024 Approved Master the Art of TikTok Sharing Across Chrome OS Devices</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-steps-for-clear-quality-iphone-recordings/"><u>[Updated] 2024 Approved Essential Steps for Clear, Quality iPhone Recordings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-unconventional-perspectives-in-photos/"><u>2024 Approved Exploring Unconventional Perspectives in Photos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-baking-game-using-chatgpt-discover-these-7-insider-hacks/"><u>Boost Your Baking Game Using ChatGPT – Discover These 7 Insider Hacks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-career-path-building-the-perfect-resume-through-chatgpt/"><u>Boost Your Career Path: Building the Perfect Resume Through ChatGPT</u></a></li>
-<li><a href="https://app-tips.techidaily.com/create-amazing-gifs-instantly-with-our-choice-of-the-10-best-free-apps-on-smartphones-iphone-and-android/"><u>Create Amazing GIFs Instantly with Our Choice of the 10 Best Free Apps on Smartphones (iPhone & Android)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dive-into-digital-detection-with-our-selection-of-4-ai-murder-mystery-challenges-and-puzzle-games/"><u>Dive Into Digital Detection with Our Selection of 4 AI Murder Mystery Challenges and Puzzle Games!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-experience-dall-e-3s-latest-integration-of-editing-tools-requires-further-enhancement/"><u>Elevate Your Experience: DALL-E 3'S Latest Integration of Editing Tools Requires Further Enhancement</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-y78t-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo Y78t Phone Network-Ready</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-depth-analysis-how-does-claude-pro-measure-up/"><u>In-Depth Analysis: How Does Claude Pro Measure Up?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-guide-to-creating-a-lucrative-snapchat-lifestyle-brand/"><u>The Guide to Creating a Lucrative Snapchat Lifestyle Brand</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-complex-communication-how-chatgpt-can-help-you-navigate-tricky-email-situations-at-work/"><u>Transforming Complex Communication: How ChatGPT Can Help You Navigate Tricky Email Situations at Work</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-sound-blaster-mic-steps-to-restore-functionality/"><u>Troubleshooting Your Sound Blaster Mic: Steps to Restore Functionality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-opportunities-with-chatgpt-a-guide-to-mastering-linkedin-hiring/"><u>Unlocking Opportunities with ChatGPT: A Guide to Mastering LinkedIn Hiring</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-potential-tips-for-screenplay-dialogue-and-narration/"><u>Unlocking Potential Tips for Screenplay Dialogue and Narration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-project-gemini-at-google-the-future-of-autonomous-ai-systems/"><u>Unveiling Project Gemini at Google: The Future of Autonomous AI Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/voyage-visionaries-guide-unveiling-the-most-efficient-7-free-travel-ais/"><u>Voyage Visionaries Guide – Unveiling the Most Efficient 7 Free Travel AIs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-detailed-synopsis-gopro-silver-hero4-model-review/"><u>[New] 2024 Approved Detailed Synopsis GoPro Silver Hero4 Model Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-through-video-post-errors-on-iphoneandroid-fb-chat-platform/"><u>[Updated] Navigating Through Video Post Errors on iPhone/Android FB Chat Platform</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-choices-for-enhancing-drone-functionality-and-flexibility/"><u>[Updated] Top Choices for Enhancing Drone Functionality and Flexibility</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/archiving-intelligence-methods-to-retain-and-revisit-chatgpt-discussions-anytime/"><u>Archiving Intelligence: Methods to Retain and Revisit ChatGPT Discussions Anytime</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-face-value-the-key-differences-between-siri-and-chatgpt-explored/"><u>Beyond Face Value: The Key Differences Between Siri and ChatGPT Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/build-a-budget-oriented-chatgpt-replica-locally/"><u>Build a Budget-Oriented ChatGPT Replica Locally</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chapter-1-registering-for-chatgpts-latest-extensions/"><u>Chapter 1: Registering for ChatGPT's Latest Extensions</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-facebooks-potential-for-urban-pop-up-retail-outlets/"><u>Exploring Facebook's Potential for Urban Pop-Up Retail Outlets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721923097281-faux-chatgpt-browser-tool-threatening-facebook-account-security-stay-safe/"><u>Faux ChatGPT Browser Tool Threatening Facebook Account Security: Stay Safe</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/improve-in-home-tv-reception-the-ultimate-guide-to-using-indoor-antennas/"><u>Improve In-Home TV Reception: The Ultimate Guide to Using Indoor Antennas</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-tips-and-reviews-by-tom/"><u>Navigating the World of Electronics: Tips and Reviews by Tom</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-novices-roadmap-to-mastering-key-ai-tools-top-9-picks/"><u>The Novice's Roadmap to Mastering Key AI Tools (Top 9 Picks)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1723262395222-tulip-your-next-creative-companion-for-music-production-with-open-source-micropython-at-just-59/"><u>Tulip: Your Next Creative Companion for Music Production with Open-Source MicroPython at Just $59</u></a></li>
 </ul></div>
 

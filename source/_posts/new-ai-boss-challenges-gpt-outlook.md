@@ -1,7 +1,7 @@
 ---
 title: New AI Boss Challenges GPT Outlook
-date: 2024-11-08T21:10:34.639Z
-updated: 2024-11-11T23:28:40.635Z
+date: 2024-11-17T16:11:50.299Z
+updated: 2024-11-21T18:59:02.909Z
 tags:
   - chatgpt
   - open-ai
@@ -54,28 +54,22 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use Google Gemini AI
 
  Of the three variants of the Gemini AI model, you can start using Gemini Pro right now. Gemini Pro is currently available on Google's Bard chatbot. To use Gemini Pro with Bard, head to[bard.google.com](http://bard.google.com/chat) and sign in with your Google account.
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
@@ -88,15 +82,16 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
 
@@ -106,13 +101,6 @@ Here's the source screenshot.
 
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
@@ -121,16 +109,13 @@ Here's the source screenshot.
 
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
@@ -159,19 +144,14 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-best-mac-video-trims-top-6-picks-post-snow-leopard/"><u>[New] 2024 Approved Best Mac Video Trims Top 6 Picks Post-Snow Leopard</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-best-free-webm-players-how-to-play-webm-video-files-in-2024/"><u>[New] Best Free WebM Players How to Play WebM Video Files, In 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-eradicate-coffee-stains-in-snapshits-iphones-free-red-eye-fix-for-2024/"><u>[New] Eradicate Coffee Stains in Snapshits IPhone's Free Red-Eye Fix for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-revolutionary-ideas-to-empower-your-webcam/"><u>[New] Revolutionary Ideas to Empower Your Webcam</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-and-alcohol-the-virtual-bartending-game/"><u>AI and Alcohol: The Virtual Bartending Game</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/eliminating-virtual-distractions-with-these-8-strategic-chatgpt-instructions/"><u>Eliminating Virtual Distractions with These 8 Strategic ChatGPT Instructions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-risks-with-chatgpt-mobile-apps/"><u>Exploring the Risks with ChatGPT Mobile Apps</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-f54-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy F54 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-make-a-stir-in-the-app-ingenious-bio-strategies-to-captivate-swipes/"><u>In 2024, Make a Stir in the App - Ingenious Bio Strategies to Captivate Swipes</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-netgear-nighthawk-rax120-unmatched-speed-and-performance/"><u>In-Depth Analysis of the Netgear Nighthawk RAX120 - Unmatched Speed and Performance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-depth-assessment-of-nook-glowlight-4-reviews-and-features/"><u>In-Depth Assessment of Nook GlowLight 4: Reviews & Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-safe-to-rely-on-ai-assistants-such-as-chatgpt-and-bard-for-managing-your-finances/"><u>Is It Safe to Rely on AI Assistants Such as ChatGPT and Bard for Managing Your Finances?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/skype-talk-improvement-silence-the-surroundings/"><u>Skype Talk Improvement Silence the Surroundings</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/was-tun-wenn-das-tool-easy-transfer-in-windows-10-nicht-mehr-verfugbar-ist/"><u>Was Tun, Wenn Das Tool 'Easy Transfer' In Windows 10 Nicht Mehr Verfügbar Ist?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-elevate-your-online-presence-with-fb-tweets-from-twitter-for-2024/"><u>[New] Elevate Your Online Presence with FB Tweets From Twitter for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-strategies-for-designing-youtube-video-flow/"><u>[Updated] In 2024, Strategies for Designing YouTube Video Flow</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/learn-quickly-with-winx-mediatrans-expert-tips-for-effortless-file-transformations-and-formats/"><u>Learn Quickly with WinX MediaTrans: Expert Tips for Effortless File Transformations and Formats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-pitfalls-to-steer-clear-of-with-generative-ai-applications/"><u>Top 7 Pitfalls to Steer Clear of with Generative AI Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-ai-generated-content-who-holds-the-intellectual-property-rights/"><u>Understanding AI-Generated Content: Who Holds the Intellectual Property Rights?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-secrets-to-effective-ai-communication-tailored-strategies-for-fitness-enthusiasts-on-chatgpt-prompt-writing/"><u>Unlock the Secrets to Effective AI Communication: Tailored Strategies for Fitness Enthusiasts on ChatGPT Prompt Writing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-edit-capabilities-in-dall-e-3-progress-and-potential-improvements-needed/"><u>Unveiling Edit Capabilities in DALL-E 3: Progress and Potential Improvements Needed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/bes-forgotten-footage-watching-deleted-content-made-easy-for-2024/"><u>Youtube's Forgotten Footage Watching Deleted Content Made Easy for 2024</u></a></li>
 </ul></div>
 

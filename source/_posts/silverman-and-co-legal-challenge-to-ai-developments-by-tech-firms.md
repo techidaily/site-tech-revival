@@ -1,7 +1,7 @@
 ---
 title: "Silverman & Co.: Legal Challenge to AI Developments by Tech Firms"
-date: 2024-11-10T17:38:15.944Z
-updated: 2024-11-12T05:33:44.148Z
+date: 2024-11-14T21:17:22.463Z
+updated: 2024-11-21T18:48:54.991Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 
 ![A computer screen displaying ChatGPT's website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-generative-ai.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It helps to start with understanding[what AI is, the dangers it poses](http://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) , and how it can help you. Understanding the basics of AI and how it works will help you know its strengths and limitations, as well as how to use it to thrive in your workplace.
 
  In simple terms, artificial intelligence (AI) refers to the ability of computer systems to simulate human intelligence and carry out a wide range of tasks. Some of the most common use cases of AI in the workplace include automating hiring processes, optimizing customer service, inventory management, or data collection and analysis, to name a few.
@@ -37,10 +41,7 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
  ChatGPT is a large language model developed by OpenAI that relies on vast amounts of training data to generate natural-sounding text. This AI chatbot is used for tasks such as content creation, programming, and translation, to name a few. In fact, this tool is so good that[people wonder if generative AI will take over their jobs](https://www.makeuseof.com/can-chatgpt-replace-me/) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Know the Difference Between Artificial Intelligence and Human Intelligence
@@ -58,22 +59,12 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 ![Close-up image of hand writing "be creative"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/future-proof-skills-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As good as generative AI tools like ChatGPT are, they have limitations, and AI is still far from replicating the unique skills, insights, and creativity that humans possess. As such, it is vital to invest in future-proofing skills that AI can't replicate to survive and thrive in the AI-dominated workplace.
 
  Some of these AI-proof skills include empathy, creativity, problem-solving abilities, adaptability, resilience, communication, and collaboration skills. Investing in these skills will empower you to bring unique insights and solutions. Additionally, as AI solutions continuously improve, you can use your creativity to find innovative ways to use the technologies in your workplace.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Learn How to Work With AI Tools
 
@@ -87,22 +78,23 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 
 ![A group of people sitting at a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/professional-networking-event.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Building strong connections with people who share similar interests and goals can be a great way to solidify your career prospects. As AI technologies continuously evolve and become inevitable in the workplace, staying updated on the latest trends, tools, and technologies can help you remain relevant. Building a solid professional network is one of the best ways to achieve this.
 
  There are several[ways creatives can network professionally](https://www.makeuseof.com/creative-professional-networking-ways/) , including attending in-person and virtual networking events, joining online forums and communities, attending conferences and meetups, or[building a professional network on LinkedIn](https://www.makeuseof.com/ways-to-build-professional-network-linkedin/) . Undoubtedly, some of these connections will prove invaluable in helping you thrive in your workplace.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Become a Lifelong Learner to Keep Up With Upcoming Tech
 
  As mentioned above, adaptability and flexibility are vital skills in an AI-dominated workplace. That's because there's a growing consensus that artificial intelligence is moving too fast—so fast that tech innovators like[Elon Musk want to pause AI development](https://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) . This means you will need to swiftly learn new skills to remain competitive in this AI-dominated workplace.
 
  One of the best ways to achieve this is by becoming a lifelong learner and continuously upskilling and reskilling yourself. This includes anything from staying on top of AI news to attending conferences and workshops or taking courses to learn about the latest tools.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Future-Proof Your Career in the AI-Dominated Workplace
 
@@ -123,24 +115,17 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-combine-photos-for-captivating-instagram-stories/"><u>[New] 2024 Approved How to Combine Photos for Captivating Instagram Stories</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-streamlining-your-gaming-experience-windows-11-edition/"><u>[New] In 2024, Streamlining Your Gaming Experience Windows 11 Edition</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-taking-off-in-tutorials-the-beginners-guide-to-fashionable-mac-footage/"><u>[Updated] 2024 Approved Taking Off in Tutorials The Beginner’s Guide to Fashionable Mac Footage</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-key-steps-to-screen-record-on-your-phone/"><u>[Updated] Key Steps to Screen Record on Your Phone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-overcoming-stalled-transmission-of-videos-tips-for-successful-sharing-in-messenger-app-for-2024/"><u>[Updated] Overcoming Stalled Transmission of Videos Tips for Successful Sharing in Messenger App for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp3flac/"><u>効率的にMP3を高音質Flacにアップコンバートする方法 - 完全なマニュアル</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-high-cpu-use-with-zoom-discover-these-6-strategies-now/"><u>Conquer High CPU Use with Zoom - Discover These 6 Strategies Now!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-huawei-nova-y91-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Huawei Nova Y91 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-easily-convert-trec-to-mp4-avi-mov-and-mkv-compatible-with-iphone-apple-tv-samsung-and-more/"><u>How To Easily Convert TREC to MP4, AVI, MOV & MKV Compatible with iPhone, Apple TV, Samsung and More!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-seamlessly-transform-and-save-soundcloud-audio-as-free-ogg-files/"><u>How to Seamlessly Transform and Save SoundCloud Audio as Free Ogg Files</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-playlists-transitioning-with-confidence/"><u>In 2024, Pioneering Playlists Transitioning with Confidence</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-unlocking-youtubes-inner-workings-your-path-to-success/"><u>In 2024, Unlocking YouTube's Inner Workings Your Path to Success</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/m2tsmp3/"><u>M2TSファイルから自由にMP3へ変換 - ステップバイステップガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/national-dialogue/"><u>National Dialogue</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-whats-the-best-green-screen-app-for-mac-weve-got-the-answer-for-2024/"><u>New Whats the Best Green Screen App for Mac? Weve Got the Answer for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolve-mp4-video-errors-troubleshooting-when-audio-plays-but-visual-is-missing/"><u>Resolve MP4 Video Errors: Troubleshooting When Audio Plays but Visual Is Missing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-m4v-files-to-mov-format-on-your-windows-pc/"><u>Step-by-Step Guide: Converting M4V Files to MOV Format on Your Windows PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-rated-free-tools-convert-avi-videos-into-3gp-format-fast-guide/"><u>Top Rated FREE Tools: Convert AVI Videos Into 3GP Format - Fast Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-rated-avcoder-software-ultimate-guide-for-converting-dvds-to-avi-on-windows-10-and-11/"><u>Top-Rated AVCoder Software: Ultimate Guide for Converting DVDs to AVI on Windows 10 & 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-beyond-basic-the-advanced-techniques-of-youtube-counts/"><u>[New] In 2024, Beyond Basic The Advanced Techniques of YouTube Counts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-resolution-duel-comparing-gopro-hero-and-polaroid-cube/"><u>[Updated] Resolution Duel Comparing GoPro Hero and Polaroid Cube</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/advanced-material-dashboard-pro-enhanced-management-with-livewire-in-laravel-a-collaboration-between-creative-tim-and-updivision/"><u>Advanced Material Dashboard Pro: Enhanced Management with Livewire in Laravel - A Collaboration Between Creative Tim and Updivision</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-advice-on-lifting-your-chatgpt-ban/"><u>Expert Advice on Lifting Your ChatGPT Ban</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-these-7-superior-options-beyond-openais-chatgpt-on-your-phone/"><u>Explore These 7 Superior Options: Beyond OpenAI's ChatGPT on Your Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-evolution-in-ai-language-models-comparing-gpt-4-to-gpt-(span-stylecolor-0000ff)35(span)/"><u>Exploring Evolution in AI Language Models: Comparing GPT-4 to GPT- <Span Style=color: #0000Ff>3.5</Span></u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-civi-3-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fixing-high-traffic-errors-on-chatgpt-for-windows-users/"><u>Fixing High-Traffic Errors on ChatGPT for Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harness-the-power-of-ai-code-suggestions-using-microsoft-copilot-on-mac-computers/"><u>Harness the Power of AI Code Suggestions – Using Microsoft Copilot on Mac Computers</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-gionee-f3-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-digital-delights-the-finest-15-comedic-channels-on-youtube/"><u>In 2024, Digital Delights The Finest 15 Comedic Channels on YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spectral-vision-next-gen-drone-review/"><u>Spectral Vision Next-Gen Drone Review</u></a></li>
 </ul></div>
 

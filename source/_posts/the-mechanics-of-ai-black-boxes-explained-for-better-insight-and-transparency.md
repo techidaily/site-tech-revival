@@ -1,7 +1,7 @@
 ---
 title: The Mechanics of AI Black Boxes Explained for Better Insight and Transparency
-date: 2024-11-05T06:03:16.624Z
-updated: 2024-11-11T20:26:03.998Z
+date: 2024-11-18T16:49:59.295Z
+updated: 2024-11-21T22:28:23.148Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -59,24 +63,17 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-unbroken-song-livestreams-on-qyoutube/"><u>[New] Unbroken Song Livestreams on QYoutube</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-pictureperfection-fine-tuning-image-sizes-on-insta/"><u>[Updated] 2024 Approved PicturePerfection Fine-Tuning Image Sizes on Insta</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-from-hobbyist-to-host-mac-sports-channel-creation/"><u>[Updated] In 2024, From Hobbyist to Host Mac Sports Channel Creation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/12-essential-metaverse-prototypes-demystifying-vr/"><u>12 Essential Metaverse Prototypes Demystifying VR</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/bez-souladu-zvuku-kompletni-nahravka-obrazovky-s-movari-efektivni-reseni/"><u>Bez Souladu Zvuku: Kompletní Nahrávka Obrazovky S MoVaRi - Efektivní Řešení</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-top-10-non-vimeo-editors-for-user-generated-content/"><u>In 2024, Top 10 Non-Vimeo Editors for User-Generated Content</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-extracting-vob-files-from-various-dvd-formats/"><u>Step-by-Step Guide: Extracting VOB Files From Various DVD Formats</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-mixing-voice-chat-and-background-sounds-for-crystal-clear-discord-broadcasts/"><u>Step-by-Step Tutorial on Mixing Voice Chat and Background Sounds for Crystal Clear Discord Broadcasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-crafting-memorable-picture-presentations-across-platforms/"><u>Step-by-Step Tutorial: Crafting Memorable Picture Presentations Across Platforms</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-cinematic-journey-crafting-youtube-trailers-in-filmora/"><u>The Cinematic Journey Crafting YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-zte-axon-40-lite-by-drfone-android/"><u>Top 10 Password Cracking Tools For ZTE Axon 40 Lite</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-davinci-resolve-solutions-for-smoother-video-playback/"><u>Troubleshooting DaVinci Resolve: Solutions for Smoother Video Playback</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-techniques-to-reformat-macscreenshot-extensions/"><u>[New] In 2024, Techniques to Reformat MacScreenshot Extensions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-best-video-grabbers-for-mac/"><u>[Updated] Best Video Grabbers for Mac</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-share-screen-on-skype-when-working-at-home-for-2024/"><u>[Updated] How to Share Screen on Skype When Working at Home for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/browsing-made-memorable-the-leading-screen-recorder-software/"><u>Browsing Made Memorable The Leading Screen Recorder Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/developer-access-granted-apple-unveils-visionpro-sdk-and-hardware-kit-application-process-technews/"><u>Developer Access Granted: Apple Unveils VisionPro SDK and Hardware Kit Application Process – TechNews</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-hp-laserjet-p1606dn-printer-drivers-for-windows-operating-systems/"><u>Download & Update HP LaserJet P1606dn Printer Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-impact-of-vector-databases-on-artificial-intelligence-progress/"><u>Exploring the Impact of Vector Databases on Artificial Intelligence Progress</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/first-steps-in-ai-unveiling-the-top-9-essential-tools/"><u>First Steps in AI: Unveiling the Top 9 Essential Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/grand-theft-auto-v-crashes-a-comprehensive-guide-to-stabilizing-your-gameplay-experience/"><u>Grand Theft Auto V Crashes: A Comprehensive Guide to Stabilizing Your Gameplay Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harnessing-artificial-intelligence-in-bing-comprehensive-guide-to-empowered-android-browsing/"><u>Harnessing Artificial Intelligence in Bing: Comprehensive Guide to Empowered Android Browsing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harnessing-chatgpt-to-construct-engaging-websites/"><u>Harnessing ChatGPT to Construct Engaging Websites</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/immediate-integration-how-to-harness-gpt-4-with-chatgpt-right-now/"><u>Immediate Integration: How to Harness GPT-4 with ChatGPT Right Now!</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

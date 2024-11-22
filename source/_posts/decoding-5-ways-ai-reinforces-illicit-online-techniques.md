@@ -1,7 +1,7 @@
 ---
 title: Decoding 5 Ways AI Reinforces Illicit Online Techniques
-date: 2024-11-06T16:13:24.023Z
-updated: 2024-11-11T16:16:56.776Z
+date: 2024-11-18T00:48:28.630Z
+updated: 2024-11-21T22:32:49.743Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Be as Specific as Possible](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#be-as-specific-as-possible)
@@ -35,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  But it's not always easy. How specific should you be? What information should you include? And how do you request your data in a useful format?
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1 Be as Specific as Possible
 
@@ -65,16 +62,13 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
@@ -109,10 +103,7 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
@@ -124,16 +115,7 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
@@ -145,10 +127,7 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
@@ -168,22 +147,18 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-efficient-ways-to-terminate-your-discord-membership/"><u>[New] 2024 Approved Efficient Ways to Terminate Your Discord Membership</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-webcam-captures-that-wow-top-strategies-unleashed/"><u>[New] 2024 Approved Webcam Captures that Wow Top Strategies Unleashed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-androids-pinnacle-podcast-platforms-your-essential-six-pack/"><u>[New] Android's Pinnacle Podcast Platforms Your Essential Six-Pack</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-thumbnail-extract-from-youtube-videos-today-for-2024/"><u>[Updated] Free Thumbnail Extract From YouTube Videos Today for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-unlock-content-premier-iphoneipad-apps-for-fb-video-loading-for-2024/"><u>[Updated] Unlock Content Premier iPhone/iPad Apps for FB Video Loading for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726026469677-mp4/"><u>「高品質ビデオフォーマッター：効果的にMP4の解像度を拡大してください！」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/up/"><u>「簡単なガイド：ダウンロードしてお楽しみ！UP!!オンラインライブの録画手順」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/youtube-6/"><u>「YouTubeで人気のビデオ効果 - 軽量化ソフトウェア6選おすすめ！」</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-advanced-techniques-for-title-artistry-in-adobe-ae/"><u>2024 Approved Advanced Techniques for Title Artistry in Adobe AE</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027542014-flac320kbps-mp3/"><u>高音質変換！FLACから320kbps MP3へ、劣化が起きない最適方法</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-tecno-camon-20-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Tecno Camon 20 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-learn-to-record-high-quality-audio-with-audacity-mac/"><u>In 2024, Learn to Record High-Quality Audio with Audacity, Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-transforming-magic-lanterns-mlv-footage-into-mp4-streamable-formats/"><u>Step-by-Step Tutorial on Transforming Magic Lantern's MLV Footage Into MP4 Streamable Formats</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-change-m4a-audio-tracks-to-mp3-format-on-windows-media-player/"><u>Step-by-Step Tutorial: Change M4A Audio Tracks to MP3 Format on Windows Media Player</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/translation-top-5-video-saving-tools-of-202-infobox/"><u>Translation: Top 5 Video Saving Tools of 202 [Infobox</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-1011avi3/"><u>Windows 10＆11向けの最適なAVIファイル統合手段トップ3 - 品質保持を忘れず</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-deciphering-revenue-sharing-in-youtube-shorts/"><u>[New] 2024 Approved Deciphering Revenue Sharing in YouTube Shorts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-beauteous-journey-mastering-beauty-on-youtube/"><u>[New] In 2024, The Beauteous Journey Mastering Beauty on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-vivacut-video-editing-complete-guide-for-24/"><u>[New] Step-by-Step VivaCut Video Editing Complete Guide for '24</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-engaging-channels-using-tubebuddys-framework-for-2024/"><u>[Updated] Crafting Engaging Channels Using TubeBuddy's Framework for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ideal-6-innovative-minecraft-dwellings/"><u>2024 Approved Ideal 6 Innovative Minecraft Dwellings</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-to-locate-the-vital-configuration-file-for-starting-your-vm/"><u>How to Locate the Vital Configuration File for Starting Your VM</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-15-pro-by-phone-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 15 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-the-website-building-process-through-chatgpts-insights/"><u>Streamline the Website Building Process Through ChatGPT's Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ai-revolution-in-business-thriving-strategies-at-work/"><u>The AI Revolution in Business: Thriving Strategies at Work</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-integration-of-ai-powered-communication-tools-such-as-chatgpt-in-enhancing-medical-services/"><u>The Integration of AI-Powered Communication Tools Such as ChatGPT in Enhancing Medical Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-programmers-dilemma-github-copilot-vs-chatgpt/"><u>The Programmer's Dilemma: GitHub Copilot Vs. ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-secret-behind-elon-musk-and-the-groundbreaking-ai-project-truthgpt/"><u>The Secret Behind Elon Musk and the Groundbreaking AI Project, TruthGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-controversy-whats-gptbot-and-how-did-it-get-banned-online/"><u>Understanding the Controversy: What's GPTBot and How Did It Get Banned Online?</u></a></li>
 </ul></div>
 

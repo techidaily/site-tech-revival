@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Hack for Stunning Presentations: Tap Into ChatGPT Today"
-date: 2024-11-10T16:30:48.192Z
-updated: 2024-11-12T01:03:50.543Z
+date: 2024-11-18T21:50:57.768Z
+updated: 2024-11-22T00:56:21.619Z
 tags:
   - chatgpt
   - open-ai
@@ -28,18 +28,15 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
  While this isn't entirely a new feature per se, it's refreshing to know that Google has dropped the waitlist for using Bard and opened the chatbot to all. So, if you've been sneaking onto the Bard website using a VPN, it's time to drop the mask. Bard is now open to over 180 countries and territories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Dark Theme
 
 ![Bard on Dark theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-on-dark-theme.jpg)
 
  Dark mode is the new cool, and Google has finally listened to the request of Bard AI users by adding the dark mode feature to the Bard website. To toggle on dark mode, toggle**Use dark theme** in the bottom left corner of the Bard web interface. If you are accessing Bard from your mobile browser, you'll need to tap the menu icon in the top right corner of the Bard website to reveal the**Use dark theme** button in the bottom left corner.
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Integration With Google Products and Third-Party Plugins
 
@@ -47,16 +44,13 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
  We saw a glimpse of what could be possible. A future where Bard AI integrates with Google Maps, Sheets, and a range of exciting services from third-party developers. This has the potential to be genuinely game-changing. Well, that is if Google doesn't under-deliver, of course.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Image Prompting
 
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
 
@@ -65,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
  In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Image Generation With Adobe Firefly
@@ -81,16 +72,13 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
  Although we aren't exactly sure how deeply integrated Bard AI will be with Abode Firefly, the demo at Google I/O gave a sneak peek at something exciting.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Tools for Exporting Generated Content
 
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One thing missing from most[AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.
 
@@ -99,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 ## 7\. Improved Code Generation
 
 ![Generating code with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-code-with-bard-ai.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  At launch, Bard AI couldn't write code—an embarrassing pitfall considering coding was one of the big hype surrounding the emergence of AI chatbots. However, Bard AI competitors like[ChatGPT have been helping people code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) since its debut. Google has now significantly ramped up Bard's coding abilities—so much so that a lot of precious presentation time was dedicated to discussing it at its Google I/O 2023 event.
 
@@ -125,22 +117,22 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-becoming-an-expert-broadcaster-streaming-high-quality-video-online/"><u>[New] 2024 Approved Becoming an Expert Broadcaster Streaming High-Quality Video Online</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-ideal-choices-our-exclusive-top-10-gopro-case-picks/"><u>[New] In 2024, Ideal Choices Our Exclusive Top 10 GoPro Case Picks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-mastering-text-memes-using-meme-text-genrator/"><u>[New] In 2024, Mastering Text Memes Using Meme Text Gen'rator</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-premium-free-lut-options-a-guide-to-quality-tools/"><u>[Updated] Exploring Premium-Free LUT Options A Guide to Quality Tools</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-taringaid-profile-image-details-pixel-count-codec-time-span/"><u>[Updated] In 2024, TaringaID Profile Image Details Pixel Count, Codec, Time Span</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030646619-mp3/"><u>「高品質サウンド」をMP3にする - ニコニコ動画からの変換レシピ</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44cm44k444oj44ol44o844k644ki44o844og44kj44k544oi5puy44gu5a6j5ywo44gq44oa44km44oz44ot44o844oj5oml6acg44cn/"><u>「ジャニーズアーティスト曲の安全なダウンロード手順」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44cm44op44od44k344ol44k44kw44go5ywx5pyj44gn5pya6ygp5yyw77yb44oe44kk44od44k44o855so44ot44oh44kq57eo6zug44ks44kk44oj44cn/"><u>「ハッシュタグと共有で最適化！ツイッター用ビデオ編集ガイド」</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>5 Easy Ways to Change Location on YouTube TV On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5yq55p6c55qe44gq44og44kv44ol44od44kv44gn44ot44oh44kq44go55s75yop44ks57we44g5zci44kp44gb44klic0g5pya5paw44k944oq44ol44o844k344on44oz44gu5qac6kab/"><u>効果的なテクニックでビデオと画像を組み合わせる - 最新ソリューションの概要</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-guide-to-streaming-discord-conversations-obs-plus-other-options-explored/"><u>A Guide to Streaming Discord Conversations: OBS Plus Other Options Explored</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/adobedvdmp4mov/"><u>Adobeアプリケーションを使用したDVDからMP4/MOVへの効率的なリッピングと変換</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-the-value-of-winx-dvd-ripper-is-this-software-a-game-changer-for-you/"><u>Assessing the Value of WinX DVD Ripper: Is This Software a Game-Changer for You?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-viewing-experience-awaits-blu-ray-discs-versus-dvd-and-digital-file-options/"><u>Best Viewing Experience Awaits: Blu-Ray Discs Versus DVD and Digital File Options</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/extract-your-dvd-content-for-mobile-playback-using-the-no-cost-winx-dvd-converter-mp4-avi-for-iphone-and-android/"><u>Extract Your DVD Content for Mobile Playback Using the No-Cost WinX DVD Converter (MP4, AVI) for iPhone and Android</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-lenovo-thinkphone-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Lenovo ThinkPhone Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unleash-your-potential-with-these-elite-12-vlogger-friendly-cameras-for-2024/"><u>Unleash Your Potential with These Elite 12 Vlogger-Friendly Cameras for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-x-mix-master-pro-for-computer-users/"><u>[New] In 2024, X-Mix Master Pro for Computer Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-free-and-easy-building-attractive-youtube-intros-without-expense/"><u>[Updated] Free & Easy Building Attractive YouTube Intros without Expense</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-premier-parchment-creators/"><u>[Updated] In 2024, Premier Parchment Creators</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-complete-guide-for-professional-livestreaming-using-zoom-on-youtube/"><u>[Updated] In 2024, The Complete Guide for Professional Livestreaming Using Zoom on YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/27-efficient-email-crafting-with-ai-chatgpt-and-summarize/"><u>27 Efficient Email Crafting with AI, ChatGPT & Summarize</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-14-pro-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 14 Pro in Lost Mode</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-and-the-new-developer-landscape/"><u>AI and the New Developer Landscape</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/anticipating-hacker-tactics-the-top-7-forecasts-in-cybersecurity/"><u>Anticipating Hacker Tactics: The Top 7 Forecasts in Cybersecurity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bard-by-google-pioneering-a-future-beyond-chatgpt/"><u>Bard by Google: Pioneering a Future Beyond ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/breaking-news-gpt-introduces-major-must-have-improvements/"><u>Breaking News: GPT Introduces Major, Must-Have Improvements</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-chatgpt-master-the-art-of-crafting-perfect-cocktails/"><u>Can ChatGPT Master the Art of Crafting Perfect Cocktails?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/challenges-with-ai-plagiarism-tools-why-theyre-flawed/"><u>Challenges with AI Plagiarism Tools: Why They're Flawed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Life360 from Tracking You On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-unlock-the-full-potential-of-pixiz-in-video-making/"><u>In 2024, Unlock the Full Potential of Pixiz in Video Making</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/techniques-to-enhance-your-video-gaming-archive-for-2024/"><u>Techniques to Enhance Your Video Gaming Archive for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-app-integration-effortless-installation-of-chatgpt/"><u>Windows App Integration: Effortless Installation of ChatGPT</u></a></li>
 </ul></div>
 

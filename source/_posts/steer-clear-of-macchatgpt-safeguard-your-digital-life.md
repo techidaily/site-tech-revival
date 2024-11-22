@@ -1,7 +1,7 @@
 ---
 title: "Steer Clear of MacChatGPT: Safeguard Your Digital Life"
-date: 2024-11-05T05:49:16.755Z
-updated: 2024-11-12T08:34:34.031Z
+date: 2024-11-19T21:33:03.308Z
+updated: 2024-11-21T22:00:59.460Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Scammers are using Google's generative AI tool, Bard, to infect users with malware and steal login credentials.
@@ -31,10 +35,7 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
  Although Google has filed a lawsuit to tackle the malware, the scammers are still up and running, and that's why you should avoid downloading anything like a "Google Bard app." It's malware waiting to infect your device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Google Bard?
@@ -43,28 +44,12 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
 
 ![A screenshot of the Google Bard chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/google-bard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There are many[ways to use Google Bard](https://www.makeuseof.com/how-to-use-google-bard/) . You can enter a prompt asking Google Bard to explain how something works, give you ideas for a project, and even write code for you.
 
  The key issue is that Google Bard is only available in browsers and requires a Google account. So, don't be tempted to install an app advertised as Google Bard, as it's malware that Google is taking legal action to take down.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why You Shouldn't Download the Google Bard App
@@ -72,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
  On November 13, 2023, Google announced on its official blog,[The Keyword](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/) , that it's filing a lawsuit and taking legal action against scammers said to be based in Vietnam. You can view the lawsuit complaint on[ Thomson Reuters \[PDF\]](https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf) .
 
 ![An image of AIGoogleBard's Facebook page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/aigooglebard-facebook-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf)
 
@@ -86,10 +75,7 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
  Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stick With Google Bard on Your Browser
@@ -113,22 +99,24 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unlocking-social-connections-facetime-tutorials-for-android/"><u>[New] In 2024, Unlocking Social Connections Facetime Tutorials for Android</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-ultimate-guide-to-youtube-openers-aandb-methods/"><u>[New] The Ultimate Guide to YouTube Openers A&B Methods</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-becoming-a-pro-at-using-zoom-on-win10-systems-for-2024/"><u>[Updated] Becoming a Pro at Using Zoom on WIN10 Systems for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/artificial-enhancements-for-educational-investigation/"><u>Artificial Enhancements for Educational Investigation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-brainstorming-skills-combining-mindmaps-and-chatgpt-for-creative-thinking/"><u>Boost Brainstorming Skills: Combining Mindmaps and ChatGPT for Creative Thinking</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-in-career-planning-unveiling-top-strategies/"><u>ChatGPT in Career Planning: Unveiling Top Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/foregoing-gpts-mobile-version-a-smart-choice/"><u>Foregoing GPT's Mobile Version: A Smart Choice</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-a05-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-business-potential-8-innovative-uses-of-chatgpt/"><u>Maximizing Business Potential: 8 Innovative Uses of ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/melting-glaciers-misunderstood-a-scientific-perspective/"><u>Melting Glaciers Misunderstood: A Scientific Perspective</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/microsofts-new-era-of-search-with-ai-transforming-the-way-you-discover-information/"><u>Microsoft's New Era of Search with AI: Transforming the Way You Discover Information</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-free-video-editing-solutions-for-32-bit-windows-our-top-picks-for-2024/"><u>New Free Video Editing Solutions for 32-Bit Windows Our Top Picks for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/opt-out-of-chatgpt-choose-microsoft-copilot-reasons/"><u>Opt Out of ChatGPT: Choose Microsoft CoPilot Reasons</u></a></li>
-<li><a href="https://blog-min.techidaily.com/winxvideo-aiand-2/"><u>WinXVideo AIによるビデオクリアランス&エイジェンシャルアップガード：すべてのヒント集 - 詳細ページ2</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-digital-radios-unleashed-the-recorders-essential-handbook/"><u>[New] 2024 Approved Digital Radios Unleashed The Recorder's Essential Handbook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-immerse-yourself-in-the-world-of-apples-ios-vr-titles/"><u>[New] 2024 Approved Immerse Yourself in the World of Apple's iOS VR Titles</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-discover-chromebooks-premier-web-based-speech-alteration-tools/"><u>[New] Discover Chromebook’s Premier Web-Based Speech Alteration Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-screen-recorder-showdown-top-choices-explored-for-2024/"><u>[New] Screen Recorder Showdown Top Choices Explored for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-optimal-voice-capture-systems-reviewed-top-7-2023/"><u>[Updated] Optimal Voice Capture Systems Reviewed Top 7 2023</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-showdown-who-reigns-supreme-chatgpt-or-the-innovative-claude-ai/"><u>Artificial Intelligence Showdown: Who Reigns Supreme - ChatGPT or the Innovative Claude AI?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/augmenting-dungeon-mastery-with-ai-assistance-in-dandd/"><u>Augmenting Dungeon Mastery with AI Assistance in D&D</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-gratis-ai-exploring-6-compelling-reasons-for-opting-for-chatgpt-plus-even-with-free-access-to-gpt-4/"><u>Beyond Gratis AI: Exploring 6 Compelling Reasons for Opting for ChatGPT Plus Even with Free Access to GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-productivity-the-ultimate-guide-to-combining-chatgpt-with-wolfram-alpha/"><u>Boost Productivity: The Ultimate Guide to Combining ChatGPT with Wolfram Alpha</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-i-trust-independent-chatgpt-extensions-for-browsers-find-out-here/"><u>Can I Trust Independent ChatGPT Extensions for Browsers? Find Out Here</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-plus-unveiled-exploring-its-strengths-and-weaknesses/"><u>ChatGPT Plus Unveiled: Exploring Its Strengths and Weaknesses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/clash-of-the-cutting-edge-gemini-vs-plush-chatgptplusplus/"><u>Clash of the Cutting Edge: Gemini Vs. Plush ChatGPT++</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/co-pilot-extension-for-chatgpt-enhancements-to-conversational-ai/"><u>Co-Pilot Extension for ChatGPT: Enhancements to Conversational AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/copilot-your-key-to-unlocking-the-full-power-of-free-gpt-4-turbo/"><u>Copilot: Your Key to Unlocking the Full Power of Free GPT-4 Turbo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-repair-your-lenovo-keyboard-light-issues-a-step-by-step-guide/"><u>How to Repair Your Lenovo Keyboard Light Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-oneplus-nord-n30-se-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On OnePlus Nord N30 SE Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209954197-9789948390527-is-life-as-we-know-it/"><u>Is Life as We Know It? | Free Book</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-from-basic-to-brilliant-transforming-your-videos-with-cool-effects/"><u>New In 2024, From Basic to Brilliant Transforming Your Videos with Cool Effects</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/solution-thermal-testing-using-cold-or-heat-stimuli-alongside-assessing-the-pains-quality-and-duration-can-provide-additional-clues-for-differentiating-betw93/"><u>Solution: Thermal Testing Using Cold or Heat Stimuli, Alongside Assessing the Pain's Quality and Duration, Can Provide Additional Clues for Differentiating Between Reversible and Irreversible Pulpitis.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Grok: Pricing, Potential & Insights Into Elon Musk's Latest Creation"
-date: 2024-11-08T20:08:40.990Z
-updated: 2024-11-11T20:42:14.500Z
+date: 2024-11-15T19:08:15.788Z
+updated: 2024-11-22T00:15:02.297Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should You Be Polite to AI like ChatGPT, Alexa, and Siri?
 
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
@@ -36,18 +40,19 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
 ![chatgpt no feelings or emotions text march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-no-feelings-or-emotions-text.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
 
@@ -56,22 +61,12 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can AI Be Rude to You?
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 
@@ -82,10 +77,7 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Interact With AI How You Want
@@ -109,17 +101,22 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-crafting-wealth-with-facebook-video-ads-a-comprehensive-guide/"><u>[New] Crafting Wealth with Facebook Video Ads A Comprehensive Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-gimmicks-to-giants-navigating-popular-short-hashtags/"><u>[New] In 2024, From Gimmicks to Giants Navigating Popular Short Hashtags</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creating-videos-from-still-photos-with-top-3-mobile-apps/"><u>Creating Videos From Still Photos with Top 3 Mobile Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-5-time-lapse-screenshot-apps-for-pc-and-mac-users/"><u>Discover the Ultimate 5 Time-Lapse Screenshot Apps for PC and Mac Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-insanity-workout-convert-dvds-into-digital-format-for-on-demand-exercise-blast/"><u>Download Insanity Workout: Convert DVDs Into Digital Format for On-Demand Exercise Blast</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvd-wonderfox/"><u>DVDからの映像変換とダウンロード - WonderFoxツールを使って簡単に</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-steps-for-sound-capture-from-your-dvd-with-vlc-plus-troubleshooting-tips/"><u>Easy Steps for Sound Capture From Your DVD with VLC + Troubleshooting Tips</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-honor-80-pro-straight-screen-edition-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Honor 80 Pro Straight Screen Edition to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speedy-setup-guide-instant-download-of-usb-to-rs2n32-serial-communication-driver/"><u>Speedy Setup Guide: Instant Download of USB-to-RS2n32 Serial Communication Driver</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-spark-10-4g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Tecno Spark 10 4G Users</u></a></li>
-<li><a href="https://article-files.techidaily.com/why-you-cant-wait-any-longer-to-get-ios-153-on-your-device-today/"><u>Why You Can't Wait Any Longer to Get iOS 15.3 on Your Device Today</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-free-mindset-audio-selection/"><u>[Updated] 2024 Approved Free Mindset Audio Selection</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unveiling-the-secrets-to-buying-todays-best-360-cameras/"><u>[Updated] In 2024, Unveiling the Secrets to Buying Today's Best 360 Cameras</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-android-podcast-software/"><u>[Updated] Prime Android Podcast Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-master-youtube-management-a-detailed-plan-for-watch-later-and-playlists/"><u>2024 Approved Master YouTube Management A Detailed Plan for Watch Later and Playlists</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-perfecting-panoramic-videography-with-premiere-pros-tools/"><u>2024 Approved Perfecting Panoramic Videography with Premiere Pro's Tools</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/best-unrestricted-pc-video-editing-software-for-non-commercial-use-top-brands-compared/"><u>Best Unrestricted PC Video Editing Software for Non-Commercial Use - Top Brands Compared</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-a34-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy A34 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-error-code-microsoft-marketplace-0x80131500/"><u>Disabling Error Code: Microsoft Marketplace #0X80131500</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-3-and-the-shifting-paradigm-in-seo-practices/"><u>GPT-3 & The Shifting Paradigm in SEO Practices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-authorities-govern-ai-understanding-4-key-regulatory-practices/"><u>How Authorities Govern AI: Understanding 4 Key Regulatory Practices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-europes-ai-legislation-could-transform-chatgpt/"><u>How Europe's AI Legislation Could Transform ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-these-fraudulent-malware-masquerading-as-chatgpt-could-steal-your-confidential-information/"><u>How These Fraudulent Malware Masquerading as ChatGPT Could Steal Your Confidential Information</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-15-plus-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 15 Plus GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/huggingchat-unveiled-a-free-open-source-counterpart-to-gpt/"><u>HuggingChat Unveiled: A Free, Open-Source Counterpart to GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-llms-revolutionizing-text-understanding/"><u>Inside LLMs: Revolutionizing Text Understanding</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-gpt-3-data-4-best-extensions-and-apps-at-a-glance/"><u>Mastering GPT-3 Data: 4 Best Extensions & Apps at a Glance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-multimedia-how-to-teach-chatgpt-to-interpret-pdf-documents/"><u>Mastering Multimedia: How to Teach ChatGPT to Interpret PDF Documents</u></a></li>
 </ul></div>
 

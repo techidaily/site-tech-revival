@@ -1,7 +1,7 @@
 ---
 title: "Advanced Techniques: Taking and Organizing Notes Like a Pro with ChatGPT"
-date: 2024-11-09T04:04:56.865Z
-updated: 2024-11-12T00:20:30.085Z
+date: 2024-11-16T01:55:38.313Z
+updated: 2024-11-22T01:00:42.641Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/a8009f1be4223fad5f174852a5dbbbf732624444e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 1: Download Python and AutoGPT
 
@@ -55,32 +59,24 @@ After Installing Python, you can download Auto-GPT from GitHub.
 ![Create API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-create-test-key.jpg)
 3. Now you have your API key, go to your Auto-GPT folder and open the**.env** file using Notepad.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
 4. Once opened, scroll down to the**LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
 
- This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
 
 ## Step 3: Install Auto-GPT Dependencies
 
@@ -93,15 +89,12 @@ pip install -r requirements.txt
 ![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-4.jpg)
 4. After installation, try opening Auto-GPT using:  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 python -m autogpt  
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Congratulations! You have successfully Installed Auto-GPT.
 
@@ -143,13 +136,6 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 
 ![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
 
 After making the recipe, our AI has now completed its task.
@@ -160,14 +146,11 @@ After making the recipe, our AI has now completed its task.
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Auto-GPT Limitations
 
@@ -180,13 +163,6 @@ After making the recipe, our AI has now completed its task.
  Other problems that contribute to Auto-GPT getting stuck are the model struggling to handle or navigate website advertising and cookies, login pages, and all kinds of pop-ups (the stuff humans hate, too!).
 
  Using GPT-4 will noticeably reduce hallucinations and improve overall performance. However, its context size is still limited to 8,000 tokens. After reaching the 8k-token mark, GPT-4 will start losing context starting from the beginning of the task, affecting results. Furthermore, using GPT-4 is several times pricier than GPT-3.5 ([each GPT token has a cost](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) ). You'll want to set limits through your API account.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Future of Auto-GPT
 
@@ -209,22 +185,19 @@ After making the recipe, our AI has now completed its task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-essential-windows-11-camcorders-and-webcams-guide/"><u>[New] Essential Windows 11 Camcorders & Webcams Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-mastery-in-motion-a-guide-for-expert-color-balancing/"><u>[New] In 2024, Mastery in Motion A Guide for Expert Color Balancing</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-social-media-strategies-for-showcasing-your-video-content-for-2024/"><u>[New] Social Media Strategies for Showcasing Your Video Content for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/iuwlleeuuplusoduplusmfsplusalveockuwgjeeunplusobmeociplusobnplusocgeobruodluodqeocpuoctuakgoihkplusocroocpooditrop6pmsbrnrzbjgavvj8i/"><u>動画・音楽を再生するためのブラウザ技術ガイド:解決策は？</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726224904894-movaviwtvmp4/"><u>網路上無需付錢，用Movavi做WTV到MP4的轉換 - 自由版</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-in-action-selecting-your-social-sphere-sidekick/"><u>AI in Action: Selecting Your Social Sphere Sidekick</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-reducing-bandwidth-by-streaming-audio-only-on-youtube/"><u>Effective Strategies for Reducing Bandwidth by Streaming Audio-Only on YouTube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/efficiently-batch-upgrade-your-music-library-by-changing-shn-to-lossless-flac-format/"><u>Efficiently Batch Upgrade Your Music Library by Changing SHN to Lossless FLAC Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-dvd-to-mkv-conversion-for-users-of-windows-11-and-10-a-step-by-step-guide/"><u>Effortless DVD-to-MKV Conversion for Users of Windows 11 & 10 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-guide-how-to-transform-your-m4v-files-into-mp3-format-on-a-windows-pc/"><u>Effortless Guide: How to Transform Your M4V Files Into MP3 Format on a Windows PC</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-knowledge-on-adobe-cloud-supplemented-by-other-options/"><u>Essential Knowledge on Adobe Cloud, Supplemented by Other Options</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-instant-music-downloads-master-the-quick-guide-to-securing-every-track-on-hearthisat-now/"><u>Free Instant Music Downloads! Master the Quick Guide to Securing Every Track on Hearthis.at Now!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-novices-blueprint-for-easy-stressless-nft-making/"><u>In 2024, Novice's Blueprint for Easy, Stressless NFT Making</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/iphoneipaddvd/"><u>IPhone/iPadでDVD音声ファイルを移動するための簡単ガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp4mkvmodasfwmv/"><u>MP4/MKV/MOD/ASFフォーマットからWMVへの簡単な変換法</u></a></li>
-<li><a href="https://article-posts.techidaily.com/revolutionizing-your-photo-video-experience-for-2024/"><u>Revolutionizing Your Photo-Video Experience for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/violating-copyrights-in-video-posting-what-are-the-consequences/"><u>Violating Copyrights in Video Posting What Are the Consequences?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-pioneering-techniques-to-transform-your-obs-studio-projects/"><u>[New] In 2024, Pioneering Techniques to Transform Your OBS Studio Projects</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-art-of-advertising-earning-navigating-vimeos-revenue-landscape/"><u>[New] In 2024, The Art of Advertising Earning Navigating Vimeo's Revenue Landscape</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-learn-photoshops-core-techniques-for-shade-adjustment-for-2024/"><u>[New] Learn Photoshop's Core Techniques for Shade Adjustment for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-craft-a-masterpiece-top-8-iphone-drawing-apps-reviewed/"><u>[Updated] Craft a Masterpiece Top 8 iPhone Drawing Apps Reviewed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-free-best-youtube-video-editor-apps-for-android/"><u>[Updated] In 2024, FREE Best YouTube Video Editor Apps for Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-short-track-speed-skating-olympics-2022-highlights/"><u>[Updated] Short Track Speed Skating Olympics 2022 Highlights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dive-into-the-world-of-books-top-5-captivating-vtts-revealed/"><u>Dive Into the World of Books Top 5 Captivating VTTs Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/empowering-your-health-transformation-effective-techniques-for-establishing-objectives-via-chatgpt/"><u>Empowering Your Health Transformation: Effective Techniques for Establishing Objectives via ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ethical-edits-top-7-methods-with-assisted-ai-technologies/"><u>Ethical Edits: Top 7 Methods with Assisted AI Technologies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-these-5-ai-powered-scripters-to-spark-creativity-in-writing/"><u>Explore These 5 AI-Powered Scripters to Spark Creativity in Writing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-codegpt-the-ai-revolution-in-coding/"><u>Exploring CodeGPT: The AI Revolution in Coding</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fitness-junkies-secret-to-superior-chatgpt-interactions-mastering-the-art-of-query-writing/"><u>Fitness Junkies' Secret to Superior ChatGPT Interactions: Mastering the Art of Query Writing</u></a></li>
+<li><a href="https://win-able.techidaily.com/game-patch-notes-for-the-elder-scrolls-online-tackling-blackwood-zone-delays/"><u>Game Patch Notes for The Elder Scrolls Online: Tackling Blackwood Zone Delays</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/google-bard-vs-bing-chat-determining-the-ultimate-ai-companion/"><u>Google Bard Vs. Bing Chat: Determining the Ultimate AI Companion</u></a></li>
 </ul></div>
 

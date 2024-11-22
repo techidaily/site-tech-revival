@@ -1,7 +1,7 @@
 ---
 title: "Coping with Commotion: AI-Assisted Methods"
-date: 2024-11-11T08:32:22.979Z
-updated: 2024-11-11T18:52:41.855Z
+date: 2024-11-16T20:42:01.949Z
+updated: 2024-11-22T00:52:33.476Z
 tags:
   - chatgpt
   - open-ai
@@ -44,26 +44,20 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
 ![Use ChatGPT to Fill In Templates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-chatgpt-to-fill-in-templates.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While businesses can employ automation tools that send messages based on actions like abandoned carts or website visits, they might be beyond the budget of small businesses. Don’t worry; ChatGPT can help populate your message templates. If you don’t have a template yet, you can ask ChatGPT to make one.
 
  Just copy and paste your template into ChatGPT, ensuring it has all the necessary placeholders. Supply it with all it needs to fill in the placeholders and let it fill in the template. Once ChatGPT finishes generating a personalized message for each customer, all that’s left for you to do is copy and send them to your customers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Make Text Excel-Friendly
 
 ![Use ChatGPT to Convert Text to Excel-Friendly Data-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-chatgpt-to-convert-text-to-excel-friendly-data-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Most inventory systems necessitate inputting data into an Excel sheet, which can become problematic if all your information is stored in your smart device’s notes or even in a more traditional format, such as handwritten records in a notebook. Transferring this data into an Excel sheet can be a laborious and time-consuming process.
@@ -90,29 +84,27 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
  Many businesses often interact with customers who speak different languages, especially as the business expands. Thankfully, ChatGPT can assist with language translation. Copy-paste the text and ask the AI tool to translate it into your native language. Simply input the text and request its translation into your preferred language. Also, if you’re unsure of a language, ChatGPT can help[identify unknown languages for you](https://www.makeuseof.com/tag/what-language-is-this-5-online-tools-to-identify-almost-every-unknown-language/) too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Write Personalized Emails
 
  Similar to writing content, crafting personalized emails can be challenging. If writing personalized emails is part of your strategy to gain new customers and nurture existing customers, ChatGPT can help you make them. You can also use it to develop various versions of follow-up emails, providing flexibility and options if the initial outreach does not receive a response.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Create FAQ Lists
 
 ![Ask ChatGPT to Create FAQs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ask-chatgpt-to-create-faqs.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Supply ChatGPT with details about your business, products, and target audience, and it can generate a list of FAQs tailored to your business. This can offer insights into what your customers are likely to inquire about. ChatGPT can also provide draft answers, leaving you to refine or correct them as needed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## An AI Assistant for Your Small Business
 
@@ -133,16 +125,22 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unpacking-the-features-of-androids-lightroom-app/"><u>[New] Unpacking the Features of Android's Lightroom App</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-zoom-transcription-apps-finding-value-in-freepaid/"><u>[Updated] In 2024, Essential Zoom Transcription Apps Finding Value in Free/Paid</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027250661-youtube/"><u>【推薦】安心してダウンロード可能な有料アプリ：YouTubeビデオの完全収集</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-canons-lut-collection-maximize-image-impact-free-and-paid-choices/"><u>2024 Approved Canon’s LUT Collection Maximize Image Impact - FREE & Paid Choices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apple-tv-and-fandango-a-perfect-match-for-movie-lovers-watch-here/"><u>Apple TV and Fandango: A Perfect Match for Movie Lovers – Watch Here!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972886260-best-behringer-sound-enhancers-available-for-immediate-download/"><u>Best Behringer Sound Enhancers Available for Immediate Download!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-poco-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Poco?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-converting-avchd-footage-using-handbrake-and-top-recommendations-for-alternatives/"><u>Ultimate Guide: Converting AVCHD Footage Using HandBrake & Top Recommendations for Alternatives</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-setting-up-the-loop-addon-in-kodi-for-top-tier-live-sporting-events/"><u>Ultimate Guide: Setting Up The Loop Addon in Kodi for Top-Tier Live Sporting Events</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/wonderfox-dvd-dvd/"><u>WonderFox DVDコピー - すばやく、最高の無料DVD変換プログラム</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/wonderfox/"><u>WonderFox ウェブサイトでの購入が安全でしょうか?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-craft-compelling-openers-for-your-podcast-episodes-examples-and-tips/"><u>[New] Craft Compelling Openers for Your Podcast Episodes Examples & Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-master-the-art-of-captivating-instagram-video-audiences/"><u>[Updated] In 2024, Master the Art of Captivating Instagram Video Audiences</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-apple-iphone-15-pro-max-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 15 Pro Max When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oppo-a78-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Oppo A78 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-spark-20-proplus-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Spark 20 Pro+ to PC? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-10-royale-arenas-of-thrill/"><u>In 2024, Top 10 Royale Arenas of Thrill</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-generative-ais-impact-on-search-methods-usage-and-forward-thinking-companies/"><u>Inside Generative AI's Impact on Search: Methods, Usage, and Forward-Thinking Companies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/intelligent-browsing-made-simple-unleash-bing-ai-on-your-devices/"><u>Intelligent Browsing Made Simple: Unleash Bing AI on Your Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/intelligent-evolution-future-enhancements-in-gpt-5/"><u>Intelligent Evolution: Future Enhancements in GPT-5</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-ai-with-kids-expert-insights-on-chatgpt-for-caregivers/"><u>Mastering AI with Kids: Expert Insights on ChatGPT for Caregivers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-ai-driven-job-applications-writing-a-winning-resume-with-chatgpt/"><u>Mastering AI-Driven Job Applications: Writing a Winning Resume with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-with-these-5-prime-custom-command-techniques/"><u>Mastering ChatGPT with These 5 Prime Custom Command Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-discover-these-5-key-custom-instruction-approaches/"><u>Mastering ChatGPT: Discover These 5 Key Custom Instruction Approaches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-daily-convenience-top-9-gpt-powered-tips/"><u>Maximizing Daily Convenience: Top 9 GPT-Powered Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-persistent-streaming-pauses-in-kodi/"><u>Resolved: How to Fix Persistent Streaming Pauses in Kodi</u></a></li>
 </ul></div>
 

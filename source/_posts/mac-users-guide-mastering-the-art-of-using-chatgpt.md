@@ -1,7 +1,7 @@
 ---
 title: "Mac Users Guide: Mastering the Art of Using ChatGPT"
-date: 2024-11-05T01:20:15.427Z
-updated: 2024-11-11T19:04:19.750Z
+date: 2024-11-19T23:25:15.769Z
+updated: 2024-11-22T00:15:03.974Z
 tags:
   - chatgpt
   - open-ai
@@ -32,22 +32,23 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  If you're on a Windows PC, you'll need to rely on third-party workarounds like[Whisper Desktop to turn your voice to text in real time](https://www.makeuseof.com/windows-whisper-desktop-guide/) .
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Send ChatGPT Prompts With Your Voice
 
@@ -62,36 +63,27 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
-![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
 
@@ -112,24 +104,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-easy-integration-merging-igtv-and-instagram-stories/"><u>[New] Easy Integration Merging IGTV & Instagram Stories</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-exploring-innovative-metaverse-memes-a-beginners-roadmap/"><u>[New] Exploring Innovative Metaverse Memes A Beginner's Roadmap</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-jokes-just-a-click-away-iphone/"><u>[New] Jokes Just a Click Away (iPhone)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-silent-watchers-best-instagram-apps/"><u>[Updated] The Silent Watchers' Best Instagram Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp4ae/"><u>高画質MP4へ変換・保存方法及び問題解決ステップ：AEツールを使って</u></a></li>
-<li><a href="https://facebook.techidaily.com/analyzing-the-growth-in-tech-spending-for-cybersecurity-on-facebook/"><u>Analyzing the Growth in Tech Spending for Cybersecurity on Facebook</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/audio-file-resampler-adjust-mp3-and-various-soundtrack-bitrates-easily/"><u>Audio File Resampler: Adjust MP3 and Various Soundtrack Bitrates Easily</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cut-trim-and-merge-videos-with-ease-unleash-your-creativity-by-turning-vlc-into-a-powerful-editor/"><u>Cut, Trim, and Merge Videos with Ease: Unleash Your Creativity by Turning VLC Into a Powerful Editor</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/experience-hd-quality-transform-your-dvds-with-top-of-the-line-upscaling-technology/"><u>Experience HD Quality: Transform Your DVDs with Top-of-the-Line Upscaling Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/flacwma-windows/"><u>FLACからWMAへの変換手順 - Windowsプラットフォーム用ガイド</u></a></li>
-<li><a href="https://games-able.techidaily.com/ghosting-your-digital-presence/"><u>Ghosting Your Digital Presence</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Infinix Hot 40i? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030092395-instagram/"><u>Instagram ストーリーのフルスクリーン動画記録方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/lossless-conversion-techniques-for-mkv-videos-keeping-quality-intact/"><u>Lossless Conversion Techniques for MKV Videos - Keeping Quality Intact</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-video-recording-with-windows-10-expert-tips-for-crystal-clear-results/"><u>Mastering Video Recording with Windows 10: Expert Tips for Crystal Clear Results</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-s-hottest-android-video-editing-apps-free-and-paid-picks/"><u>New S Hottest Android Video Editing Apps Free and Paid Picks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/tranquility-trove-pcs-best-bets/"><u>Tranquility Trove PC's Best Bets</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/be-triumphs-how-to-turn-your-cell-phone-into-an-editing-machine/"><u>YouTube Triumphs How to Turn Your Cell Phone Into an Editing Machine</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/6/"><u>ベストのゲーム実況編集ソフトＬｅ電源6つ選! 完全無料とプロ仕様</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-final-cut-pro-for-beginners-the-definitive-starter-pack/"><u>[New] Final Cut Pro for Beginners The Definitive Starter Pack</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-avoid-youtube-previews-on-all-platforms-and-devices/"><u>[New] In 2024, Avoid YouTube Previews on All Platforms & Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-innovative-shots-with-purpose-top-20-ideas-for-inspiration/"><u>[Updated] In 2024, Innovative Shots with Purpose Top 20 Ideas for Inspiration</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-clip-narration-devisee/"><u>2024 Approved Clip Narration Devisee</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-se-2022-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone SE (2022) by Name | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-sony-xperia-5-v-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Sony Xperia 5 V?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sarah-silverman-joins-legal-battle-against-openai-and-meta-the-rising-conflict-over-ai-rights/"><u>Sarah Silverman Joins Legal Battle Against OpenAI & Meta: The Rising Conflict over AI Rights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/seamless-date-insertion-into-photo-editing/"><u>Seamless Date Insertion Into Photo Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/surprising-connectivity-discuss-with-chatgpt/"><u>Surprising Connectivity: Discuss with ChatGPT</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-definitive-list-most-innovative-and-trusted-pc-brands/"><u>The Definitive List: Most Innovative and Trusted PC Brands</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-non-number-registration-guide-for-telegram-and-more/"><u>The Non-Number Registration Guide for Telegram & More</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-ai-uprising-between-gemini-max-and-gptplusplus/"><u>The Ultimate AI Uprising: Between Gemini Max & GPT++</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-elite-window-ac-units-of-202n-pros-recommendations-featured-on-zdnet/"><u>Ultimate Guide to Choosing Elite Window AC Units of 202N: Pros' Recommendations | Featured on ZDNET</u></a></li>
 </ul></div>
 

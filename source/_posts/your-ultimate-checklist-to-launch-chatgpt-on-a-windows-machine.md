@@ -1,7 +1,7 @@
 ---
 title: Your Ultimate Checklist to Launch ChatGPT on a Windows Machine
-date: 2024-11-09T05:05:02.020Z
-updated: 2024-11-12T00:10:08.297Z
+date: 2024-11-17T21:35:28.464Z
+updated: 2024-11-21T16:02:29.826Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Speak to ChatGPT
 
  ChatGPT's Whisper integration allows you to use your voice to speak with ChatGPT instead of typing. The beauty of this lies in the fact that you can speed up your prompts instead of typing long and descriptive sentences.
@@ -32,9 +36,17 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
 
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -43,10 +55,7 @@ Close
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Send ChatGPT Prompts With Your Voice
@@ -62,36 +71,19 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
 
@@ -112,15 +104,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-complete-guide-to-editing-youtube-on-the-go-with-sony-vegas/"><u>2024 Approved The Complete Guide to Editing YouTube on the Go With Sony Vegas</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-101-the-complete-guide-to-living-better/"><u>ChatGPT 101: The Complete Guide to Living Better</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-honor-x7b-by-drfone-android/"><u>How to Bypass FRP on Honor X7b?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On OnePlus 11R? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-image-transformation-with-effective-use-of-3d-lut-in-ps/"><u>In 2024, Mastering Image Transformation with Effective Use of 3D LUT in PS</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-future-of-employment-with-ais-rise-is-your-job-at-risk/"><u>Navigating the Future of Employment with AI's Rise – Is Your Job at Risk?</u></a></li>
-<li><a href="https://solve-help.techidaily.com/richtige-schritte-zum-kopieren-von-dvd-dateien-auf-computer-unter-windows-10-und-macos-erfolgreich/"><u>Richtige Schritte Zum Kopieren Von DVD-Dateien Auf Computer Unter Windows 10 Und macOS Erfolgreich</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-chatgpt-questions-for-enhanced-concentration-and-minimal-distraction/"><u>Top 8 ChatGPT Questions for Enhanced Concentration & Minimal Distraction</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-artificial-intelligence-distinguishing-between-strong-and-weak-ai/"><u>Understanding Artificial Intelligence: Distinguishing Between Strong and Weak AI</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweet-to-tune-video-to-audible-file/"><u>[New] 2024 Approved Tweet-to-Tune Video to Audible File</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-audience-market-leaders-in-youtubes-short-clips-downloads/"><u>[New] In 2024, Audience’ Market Leaders in YouTube's Short Clips Downloads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-days-to-launch-podcasts/"><u>[New] Navigating Days to Launch Podcasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-blur-techniques-in-visual-editing/"><u>[Updated] Master Blur Techniques in Visual Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-tier-image-manipulations/"><u>2024 Approved Top-Tier Image Manipulations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-generative-ai-understanding-its-processes-and-major-corporate-applications/"><u>Demystifying Generative AI: Understanding Its Processes and Major Corporate Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-list-of-8-innovative-ai-tools-for-smartphones/"><u>Discover the Ultimate List of 8 Innovative AI Tools for Smartphones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-huggingchat-a-free-open-source-solution-competing-with-chatgpt/"><u>Discovering HuggingChat: A Free, Open-Source Solution Competing with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-elite-six-worlds-premier-large-language-ai-models/"><u>Exploring the Elite Six: World's Premier Large Language AI Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-gpt-35-to-gpt-4-exploring-five-major-evolutions-in-ai-language-models/"><u>From GPT-3.5 to GPT-4: Exploring Five Major Evolutions in AI Language Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harnessing-chatgpt-power-in-career-pursuits/"><u>Harnessing ChatGPT Power in Career Pursuits</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-smooth-path-from-instagram-visuals-to-mp3-sound/"><u>In 2024, Smooth Path From Instagram Visuals to Mp3 Sound</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-through-history-in-assassins-creed-valhalla-a-viking-adventure-reviewed/"><u>Navigating Through History in Assassin's Creed: Valhalla - A Viking Adventure Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-dll-errors-successfully-registering-missing-classes-on-windows-10/"><u>Overcoming DLL Errors: Successfully Registering Missing Classes on Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Poetic Warriors & GPT Ewes - Bard's Ballad Battle with Woolly Allies
-date: 2024-11-08T19:55:15.015Z
-updated: 2024-11-12T06:01:32.223Z
+date: 2024-11-21T01:01:54.805Z
+updated: 2024-11-21T18:15:13.160Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. WebChatGPT
 
@@ -54,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 **Download:** ChatGPT Prompt Genius for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. ChatGPT Writer
 
  When someone sends a professional email your way for something like a meeting or a job opportunity, it's bad form to reply with a one or two-line email (even if that sums up everything you want to say). ChatGPT Writer takes your intended reply and generates a long, professional-sounding email message.
@@ -65,10 +73,7 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
@@ -87,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
@@ -110,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. ChatGPT for Search Engines
 
  ChatGPT for Search Engines is one of the[best new web search apps](https://www.makeuseof.com/web-search-apps-make-google-better-or-replace-google/) that presents ChatGPT answers alongside regular search results on Google or DuckDuckGo. It also works with Bing, but you don't need that anymore, given Microsoft has already officially integrated the two.
@@ -125,15 +116,16 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
@@ -165,18 +157,22 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/rafting-captivating-animations-creating-gifs-from-your-favorite-youtube-videos/"><u>[New] Crafting Captivating Animations Creating GIFs From Your Favorite YouTube Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-role-of-gaming-in-e-commerce/"><u>[Updated] In 2024, The Role of Gaming in E-Commerce</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-virtual-reality-development-tools-gamers/"><u>[Updated] In 2024, Top Virtual Reality Development Tools Gamers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-maximizing-channel-potential-across-diverse-digital-venues/"><u>[Updated] Maximizing Channel Potential Across Diverse Digital Venues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-video-converter-for-playstation-portable-ensure-compatibility-with-psp-friendly-formats/"><u>Best Video Converter for PlayStation Portable: Ensure Compatibility with PSP-Friendly Formats</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/clipchamp-on-windows-11-how-to-free-trim-videos-without-compression/"><u>ClipChamp on Windows 11: How to Free Trim Videos Without Compression</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-to-the-highest-quality-kodi-fpps-and-plug-ins-for-xbmc-19-and-18/"><u>Comprehensive Guide to the Highest Quality Kodi FPPs and Plug-Ins for XBMC 19 and 18</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creating-unique-iphone-alerts-a-comprehensive-tutorial-on-converting-m4a-to-m4r-formats/"><u>Creating Unique iPhone Alerts: A Comprehensive Tutorial on Converting M4A to M4R Formats</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-from-long-winded-to-concise-the-art-of-youtube-trimming/"><u>In 2024, From Long-Winded to Concise The Art of YouTube Trimming</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-stepwise-guide-to-mastering-zoom-on-modern-windows-11/"><u>In 2024, Stepwise Guide to Mastering Zoom on Modern Windows 11</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-views-with-optimal-thumbnail-design/"><u>In 2024, Unlocking Views with Optimal Thumbnail Design</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-solving-the-fcpx-crash-problem-top-solutions/"><u>New In 2024, Solving the FCPX Crash Problem Top Solutions</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/dvd-cprmwindows-10/"><u>お勧めのDVD CPRMブロックを無効にするフリーWindows 10ソフトウェア</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-cost-effective-premium-screen-capture-software-for-chromebook-for-2024/"><u>[New] Cost-Effective Premium Screen Capture Software for Chromebook for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rom-novice-to-pro-mastering-the-art-of-youtube-shorts-for-2024/"><u>[New] From Novice to Pro Mastering the Art of YouTube Shorts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-techniques-for-using-live-photos-in-mobile-devices/"><u>[Updated] Advanced Techniques for Using Live Photos in Mobile Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-5-mac-superior-bandicam-alternates/"><u>2024 Approved Top 5 Mac Superior Bandicam Alternates</u></a></li>
+<li><a href="https://extra-information.techidaily.com/aim-higher-than-xsplit-top-video-editors-reviewed-for-2024/"><u>Aim Higher than Xsplit Top Video Editors Reviewed for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-spark-10c-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-writing-automation-using-cutting-edge-hix-ai-and-gpt-4/"><u>Effortless Writing Automation Using Cutting-Edge HIX AI and GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-personal-well-being-with-leading-8-plugins/"><u>Elevate Personal Well-Being with Leading 8 Plugins</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-chatgpt-interactions-by-evading-these-6-frequent-prompt-blunders/"><u>Elevate Your ChatGPT Interactions by Evading These 6 Frequent Prompt Blunders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embracing-change-responsible-application-of-artificial-intelligence-in-writing-and-editing/"><u>Embracing Change: Responsible Application of Artificial Intelligence in Writing and Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/empowering-individuals-with-gpt-simplifying-universal-implementation-and-usage/"><u>Empowering Individuals with GPT-# - Simplifying Universal Implementation and Usage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-your-approach-to-health-7-compelling-reasons-to-use-chatgpt/"><u>Enhancing Your Approach to Health: 7 Compelling Reasons to Use ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-top-9-chatgpt-add-ons-available-today/"><u>Explore the Top 9 ChatGPT Add-Ons Available Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-chatgpt-copilot-functionality-and-features-explained/"><u>Exploring ChatGPT Copilot: Functionality & Features Explained</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-bandicam-in-depth-review-for-the-modern-user/"><u>In 2024, Bandicam In Depth Review for the Modern User</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/no-more-excuses-learn-any-language-today/"><u>No More Excuses - Learn Any Language Today!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-premiere-or-after-effects-choosing-the-right-tool-for-your-video-project/"><u>Updated In 2024, Premiere or After Effects Choosing the Right Tool for Your Video Project</u></a></li>
 </ul></div>
 

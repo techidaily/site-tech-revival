@@ -1,7 +1,7 @@
 ---
 title: "Navigating Dangerous Terrain: Unveiling Eight Reasons Why AI Security Flaws Are Becoming More Severe"
-date: 2024-11-07T03:08:30.761Z
-updated: 2024-11-11T22:15:55.533Z
+date: 2024-11-16T01:34:22.980Z
+updated: 2024-11-22T00:40:21.324Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -59,26 +63,22 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-how-to-record-the-screen-with-adobe-captive/"><u>[New] In 2024, How To Record The Screen With Adobe Captive</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-key-to-engaging-intros-in-podcast-scripts/"><u>[Updated] 2024 Approved The Key to Engaging Intros in Podcast Scripts</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-discovering-the-ins-and-outs-of-youtube-shorts-capital/"><u>[Updated] Discovering the Ins and Outs of YouTube Shorts Capital</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-gamings-apex-predators-best-7-shooter-titles/"><u>[Updated] Gaming's Apex Predators Best 7 Shooter Titles</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-movement-with-clarity-implementing-motion-blur-on-peoples-photos-with-picsart/"><u>2024 Approved Capturing Movement with Clarity Implementing Motion Blur on People's Photos with Picsart</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effective-strategies-to-retrieve-and-prevent-losing-your-airpods-further-insights/"><u>Effective Strategies to Retrieve and Prevent Losing Your AirPods Further - Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-your-broadcasts-with-manycams-innovative-webcam-solutions/"><u>Enhancing Your Broadcasts with ManyCam's Innovative Webcam Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/essential-guide-what-you-need-to-know-before-purchasing-an-older-generation-ipad/"><u>Essential Guide: What You Need to Know Before Purchasing an Older Generation iPad</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/getting-started-with-manycam-installation-and-update-guide/"><u>Getting Started with ManyCam: Installation & Update Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-on-broadcasting-to-facebook-live-using-manycam-tips-and-troubleshooting/"><u>Guide on Broadcasting to Facebook Live Using ManyCam: Tips & Troubleshooting</u></a></li>
-<li><a href="https://facebook.techidaily.com/harmonizing-the-group-chorus-in-a-single-status-update/"><u>Harmonizing the Group Chorus in a Single Status Update</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-cam-pro-the-ultimate-multiplecam-alternative-for-seamless-online-broadcasts/"><u>Live Cam Pro: The Ultimate MultipleCam Alternative for Seamless Online Broadcasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-stream-with-manycam-premium-virtual-camera-app-for-broadcasting/"><u>Live Stream with ManyCam: Premium Virtual Camera App for Broadcasting</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-migrating-spotify-written-content-for-a-streamlined-youtube-music-experience/"><u>[Updated] Migrating Spotify' Written Content for a Streamlined YouTube Music Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-multi-window-video-experience-in-edge/"><u>[Updated] Unlock Multi-Window Video Experience in Edge</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-se-2022-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone SE (2022) in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/7-strategies-from-palm-2-for-a-better-bard-experience/"><u>7 Strategies From PaLM 2 for a Better Bard Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showdown-unveiling-the-powers-of-forefront-ai-vs-chatgpt/"><u>AI Showdown: Unveiling the Powers of Forefront AI vs ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-chatbot-generated-fitness-programs-secure-and-efficient-for-your-health-goals/"><u>Are Chatbot-Generated Fitness Programs Secure and Efficient for Your Health Goals?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/are-vloggers-compensated-for-product-critiques-in-2024/"><u>Are Vloggers Compensated for Product Critiques, In 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beware-of-these-9-counterfeit-chatgpt-threats-that-risk-your-personal-data/"><u>Beware of These 9 Counterfeit ChatGPT Threats That Risk Your Personal Data</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722203199882-easy-steps-to-get-started-with-auto-gpt-downloading-and-installing-made-simple/"><u>Easy Steps to Get Started with Auto-GPT: Downloading and Installing Made Simple</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-guide-to-youtube-video-resolutions-and-aspects/"><u>Essential Guide to YouTube Video Resolutions & Aspects</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-reviving-a-stuck-laptop-or-pc-effortlessly/"><u>Expert Tips: Reviving a Stuck Laptop or PC Effortlessly</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v29e-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo V29e Phone without Google Account?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-windows-11-potential-via-powertoys-install/"><u>Unleashing Windows 11 Potential via PowerToys Install</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-benefits-and-uses-of-the-chatgpt-copilot-web-tool-add-on/"><u>Unveiling the Benefits and Uses of the ChatGPT Copilot Web Tool Add-On</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-power-of-forecasting-with-predictive-ai-systems/"><u>Unveiling the Power of Forecasting with Predictive AI Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/visual-expertise-on-demand-harnessing-chatgpts-ai-scope/"><u>Visual Expertise on Demand: Harnessing ChatGPT’s AI Scope</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Xiaomi Redmi K70? | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

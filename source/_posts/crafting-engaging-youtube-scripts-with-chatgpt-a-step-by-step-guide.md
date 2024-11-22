@@ -1,7 +1,7 @@
 ---
 title: "Crafting Engaging YouTube Scripts with ChatGPT: A Step-by-Step Guide"
-date: 2024-11-11T07:00:16.286Z
-updated: 2024-11-11T18:47:29.724Z
+date: 2024-11-17T21:52:23.468Z
+updated: 2024-11-21T20:20:16.099Z
 tags:
   - chatgpt
   - open-ai
@@ -32,15 +32,16 @@ thumbnail: https://thmb.techidaily.com/3e3d11024602b266406d40d71c2e14542454419c9
 
  Before its public launch, the prospect of GPT-4 generated huge excitement in the AI community due to its touted capabilities and potential applications in various fields. Now, GPT-4 is here, but how can you access it?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Access GPT-4 on ChatGPT
 
 ![chatgpt openai logos smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-openai-logos-smartphone-feature.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: T. Schneider/[Shutterstock](https://www.shutterstock.com/image-photo/stuttgart-germany-12292022-mobile-phone-website-2245793859)
@@ -50,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/3e3d11024602b266406d40d71c2e14542454419c9
  OpenAI put its newest, sleekest GPT-4 model behind a $20 monthly subscription plan. While this is not good news for free ChatGPT users,[it is another reason to upgrade to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/) . If you're already on the paid plan, you can switch your account's GPT model from the GPT-3.5 default to GPT-4 on demand, allowing you to switch between both models. This should help you appreciate the power of the GPT-4 iteration.
 
  For the free tier users, to get started with GPT-4, you'll need a ChatGPT Plus subscription. So, how do you upgrade to ChatGPT Plus?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Upgrade to ChatGPT Plus
 
@@ -63,18 +68,15 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 ![ChatGPT plus comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-comparison.jpg)
 4. Up next, you'll be redirected to a page to provide your credit card details and other billing information. Provide all the required information and make payment.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Once your payment has been confirmed, you should now have access to the OpenAI GPT-4 model alongside the older GPT-3.5 default and GPT-3.5 legacy models.
 6. Choose the GPT-4 model from the drop-down on your ChatGPT chat interface, select the mode you want, and start using GPT-4 with ChatGPT.  
 ![screenshot of ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-code-interpreter.jpg)
 
  One way to be sure you're using the GPT-4 model instead of the older models is to check the color of the OpenAI logo that precedes ChatGPT's responses. GPT-3.5 model responses are preceded with a green-white logo, while GPT-4 responses are preceded with a black-white logo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is the Difference Between GPT-3.5 and GPT-4?
 
@@ -87,13 +89,6 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
  Also, writing entire blocks of functional code took several iterations to get right with GPT-3.5\. With GPT-4, you could write entire apps with single prompts, and you'd sometimes not need to debug any piece of it to get it working. Just copy, paste, and run.
 
  GPT-4 is a multimodal AI model with a significantly larger context window, able to process both text and image inputs. Its full capabilities were demoed during the official GPT-4 announcement event but have not been pushed to the public, likely due to a shortage of computer chips needed to back the massive amount of compute power required for such features.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Usage Cap
 
@@ -110,10 +105,7 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
  Bing Chat aside, whether GPT-4 will ever be available for ChatGPT free tier users is unclear. GPT-4 is already several months post-release, and there is no indication that OpenAI will make GPT-4 generally available as a free offering. However, since OpenAI is already making the GPT-4 model available to third-party developers, you can use GPT-4 in a limited capacity through third-party apps powered by GPT-4.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-4: Is It Worth the Hype?
@@ -137,14 +129,18 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-mastering-multimedia-slides-with-speech-recordings-powerpoint-for-2024/"><u>[New] Mastering Multimedia Slides with Speech Recordings (PowerPoint) for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-quick-ways-to-randomize-youtube-playlist-on-pcphonestvs/"><u>2024 Approved Quick Ways to Randomize YouTube Playlist On PC/Phones/TVs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-free-tools-a-comprehensive-guide-to-downloading-xvideos-content-for-offline-viewing/"><u>Best Free Tools: A Comprehensive Guide to Downloading XVideos Content for Offline Viewing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bypassing-the-tiktok-logo-cost-free-methods-to-edit-your-videos/"><u>Bypassing the TikTok Logo: Cost-Free Methods to Edit Your Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/combining-several-video-clips-into-a-single-file-using-shotcut-tutorial/"><u>Combining Several Video Clips Into a Single File Using Shotcut Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-tutorial-mastering-the-art-of-sharing-files-and-posting-online/"><u>Complete Tutorial: Mastering the Art of Sharing Files & Posting Online</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-unveiling-the-best-voice-alteration-programs-for-vtubers/"><u>In 2024, Unveiling the Best Voice Alteration Programs for VTubers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-kinemaster-mastery-and-excellent-online-alternatives/"><u>The Ultimate Guide to KineMaster Mastery & Excellent Online Alternatives</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-realme-c67-4g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme C67 4G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-melodic-mambos-macaws/"><u>[New] 2024 Approved Melodic Mambos Macaws</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/treamlined-success-top-10-youtube-channels-to-start-your-biz-today-for-2024/"><u>[New] Streamlined Success Top 10 YouTube Channels to Start Your Biz Today for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-eyevid-fb-content-grabber/"><u>[Updated] 2024 Approved EyeVid FB Content Grabber</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweeted-cinematics-from-video-to-wavmp3/"><u>[Updated] In 2024, Tweeted Cinematics From Video to WAV/MP3</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-maximize-your-media-influence-with-10-effortless-steps/"><u>[Updated] Maximize Your Media Influence with 10 Effortless Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-how-to-display-concealed-ios-apps-effortlessly/"><u>Discover How to Display Concealed iOS Apps Effortlessly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-systems-the-ultimate-guide-to-pc-hardware/"><u>Exploring Tom's Systems: The Ultimate Guide to PC Hardware</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-overcoming-game-interruptions-fixing-the-resident-evil-4-remake-stalls/"><u>Guide to Overcoming Game Interruptions: Fixing the Resident Evil 4 Remake Stalls</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock Verizon iPhone 12 Pro Max</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/no-wait-time-explore-these-8-ready-made-gpt-solutions-for-instant-use/"><u>No Wait Time: Explore These 8 Ready-Made GPT Solutions for Instant Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-conversations-with-chatgpts-brand-new-features-you-shouldnt-miss/"><u>Revolutionize Your Conversations with ChatGPT's Brand-New Features You Shouldn't Miss</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/selecting-between-standard-and-augmented-gpt-capabilities/"><u>Selecting Between Standard & Augmented GPT Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/shield-against-fraudgpt-critical-awareness-skills-for-cybersecurity/"><u>Shield Against FraudGPT: Critical Awareness Skills for Cybersecurity</u></a></li>
 </ul></div>
 

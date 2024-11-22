@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Large Language Models: Concepts & Operation"
-date: 2024-11-08T03:05:49.482Z
-updated: 2024-11-12T05:35:45.576Z
+date: 2024-11-18T16:17:07.425Z
+updated: 2024-11-21T17:26:26.687Z
 tags:
   - chatgpt
   - open-ai
@@ -32,22 +32,27 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  If you're on a Windows PC, you'll need to rely on third-party workarounds like[Whisper Desktop to turn your voice to text in real time](https://www.makeuseof.com/windows-whisper-desktop-guide/) .
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Send ChatGPT Prompts With Your Voice
 
@@ -65,33 +70,20 @@ Close
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
 
@@ -112,20 +104,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-demystifying-youtube-seo-terminology-and-tactics/"><u>[New] 2024 Approved Demystifying YouTube SEO Terminology and Tactics</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-demystifying-creative-commons-and-its-legalities-for-2024/"><u>[Updated] Demystifying Creative Commons and Its Legalities for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-start-and-participate-in-group-video-chats-zoom-on-androids-way/"><u>2024 Approved Start and Participate in Group Video Chats Zoom on Android's Way</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gif5/"><u>無料エディターで人気のGIF変更ツール5つ - 最適化されたウェブサイト</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/aspiring-singers-try-these-leading-chrome-voice-tools-first/"><u>Aspiring Singers, Try These Leading Chrome Voice Tools First</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-drivers-for-your-logitech-k400-plus-device-set/"><u>Download Drivers for Your Logitech K400 Plus Device Set</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-realme-12plus-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Realme 12+ 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/real-time-streaming-discover-manycam-ultimate-livestream-camera-app/"><u>Real-Time Streaming: Discover ManyCam - Ultimate Livestream Camera App</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/real-time-streaming-discover-top-virtual-camera-solutions-with-manycam/"><u>Real-Time Streaming: Discover Top Virtual Camera Solutions with ManyCam</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-broadcasting-with-manycam-superior-live-streaming-and-remote-webcam-technology/"><u>Revolutionize Broadcasting with ManyCam - Superior Live Streaming and Remote Webcam Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-choice-in-live-broadcasting-tools-discover-manycam-and-online-cameras/"><u>Top Choice in Live Broadcasting Tools: Discover ManyCam & Online Cameras</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasting-with-manycam-the-ultimate-solution-for-online-presentations-virtual-backgrounds-and-live-video-software/"><u>Transform Your Broadcasting with ManyCam - The Ultimate Solution for Online Presentations, Virtual Backgrounds, and Live Video Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-with-manycam-professional-live-video-software-and-simulated-camera-technology/"><u>Transform Your Broadcasts with ManyCam: Professional Live Video Software & Simulated Camera Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-with-manycam-top-notch-live-video-software-for-seamless-online-presentations/"><u>Transform Your Broadcasts with ManyCam: Top-Notch Live Video Software for Seamless Online Presentations</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-airpods-connectivity-problems-with-windows-1011-latest-fixes/"><u>Troubleshoot and Repair AirPods Connectivity Problems with Windows 10/11 - Latest Fixes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-iphone-night-pics-101-enhancing-dark-images/"><u>[New] In 2024, IPhone Night Pics 101 Enhancing Dark Images</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-6-minecraft-village-house-ideas/"><u>[New] In 2024, Top 6 Minecraft Village House Ideas</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-with-clarity-five-minecraft-zooming-hacks/"><u>[Updated] Explore with Clarity Five Minecraft Zooming Hacks</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/boost-conversions-with-cookiebot-integration-optimized-user-experience-and-analytics-solutions/"><u>Boost Conversions with Cookiebot Integration – Optimized User Experience & Analytics Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-your-preferred-ai-assistant-bard-chatgpt-or-offline-alpaca/"><u>Choosing Your Preferred AI Assistant: Bard, ChatGPT or Offline Alpaca?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-features-of-ai-tools-the-distinct-edge-of-copilot-pro-over-regular-copilot/"><u>Comparing Features of AI Tools: The Distinct Edge of Copilot Pro Over Regular Copilot</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-unveiling-the-secrets-of-openai/"><u>Comprehensive Guide: Unveiling the Secrets of OpenAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-insight-into-chatgpt-and-its-versatile-uses-with-generative-ai-technology/"><u>Comprehensive Insight Into ChatGPT and Its Versatile Uses with Generative AI Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/contrasting-ai-giants-is-llama-3-outshining-gpt-4-in-performance/"><u>Contrasting AI Giants - Is Llama 3 Outshining GPT-4 in Performance?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/counteracting-text-slyness-openais-anti-deception-ai/"><u>Counteracting Text Slyness: OpenAI's Anti-Deception AI</u></a></li>
+<li><a href="https://win-able.techidaily.com/microbes-decompose-organic-matter-fix-atmospheric-nitrogen-and-help-suppress-plant-diseases-contributing-to-a-cycle-of-nutrients-and-maintaining-soil-health433/"><u>Microbes Decompose Organic Matter, Fix Atmospheric Nitrogen, and Help Suppress Plant Diseases, Contributing to a Cycle of Nutrients and Maintaining Soil Health</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/premiere-pro-utilizing-lut-techniques/"><u>Premiere Pro Utilizing LUT Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-infinix-smart-7-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Infinix Smart 7 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Professional Note-Taking Mastery with ChatGPT: A Comprehensive Guide"
-date: 2024-11-05T17:37:48.376Z
-updated: 2024-11-12T09:30:10.531Z
+date: 2024-11-20T21:40:51.364Z
+updated: 2024-11-21T21:59:46.597Z
 tags:
   - chatgpt
   - open-ai
@@ -47,10 +47,7 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 ![Generating Creative Responses from Microsoft Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-bing-creative-responses.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Currently, you can only[access GPT-4 on ChatGPT](https://www.makeuseof.com/how-to-use-gpt4/) by upgrading to ChatGPT Plus for $20 a month.
@@ -67,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 
  It’s also worth noting that Bing's AI cites sources. Neither platform guarantees 100% accuracy, but knowing which resources to double-check streamlines fact-checking.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Mathematical Precision
 
  ChatGPT and Bing AI understand math. The bots can analyze equations, perform computations based on their datasets, and generate output through their language models.
@@ -89,10 +79,11 @@ Bing AI answers the same physics question correctly.
 ![Bing AI Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bing-ai-solving-physics-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Security Measures
@@ -124,31 +115,18 @@ Bing AI answers the same physics question correctly.
 ![Bing AI Welcome Upon Getting Approved](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-introduction.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Thankfully, Microsoft since lifted the waitlist. Users gain instant access after creating an email account and downloading Microsoft Edge.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Functionality
 
 ![Setting Custom Instructions for Prompts on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/custom-instructions-on-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Bing's AI bot has a more advanced language model and broader dataset, boosting its functionality over ChatGPT. It even uses its search engine before responding. You can expect to get more accurate, reliable responses and up-to-date information.
 
@@ -164,11 +142,19 @@ Bing AI answers the same physics question correctly.
 
 ![ChatGPT Plus Pricing at $20 Per Month](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-pricing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT is a free, robust multipurpose chatbot. Users can execute plenty of tasks with the GPT-3.5 language model. But if you need a more sophisticated AI assistant, OpenAI offers[ChatGPT Plus](https://openai.com/blog/chatgpt-plus) for $20 a month.
 
  It runs on GPT-4, provides priority access, and responds faster.[ChatGPT Plus was initially limited to U.S. users](https://www.makeuseof.com/openai-launches-premium-chatgpt-subscription-service/) , but developers started granting overseas access from February 2023.
 
  Although affordable, subscription fees are unnecessary expenses. Instead of losing $240 per year on ChatGPT Plus, explore Bing's AI first. It already runs on GPT-4, and since[Microsoft plans to monetize Bing through advertisements](https://www.reuters.com/technology/microsofts-bing-plans-ai-ads-early-pitch-advertisers-2023-02-17/) , the platform will likely stay free.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Token Limits
 
@@ -179,10 +165,7 @@ Bing AI answers the same physics question correctly.
  These restrictions vary per platform.[ChatGPT has a high upper limit](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) that can process around 3,000 words per turn, assuming they’re all relevant and related. Meanwhile, Bing AI has a much smaller limit. It caps users to 30 turns, after which you must start a new conversation or restate your custom instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Use Bing's AI or ChatGPT?
@@ -204,22 +187,20 @@ Bing AI answers the same physics question correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-beat-breakers-crafting-compelling-video-music-scores/"><u>[New] 2024 Approved Beat Breakers Crafting Compelling Video Music Scores</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pcsmartyoutube-live9/"><u>【PC・SMARTフォン】YouTube Live録画向上！9つのおすすめツールリスト</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/engage-fully-with-podcasts-15-essential-tasks-for-2024/"><u>Engage Fully with Podcasts 15 Essential Tasks for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-error-opening-file-for-writing-error-in-windows-10-and-11/"><u>How to Fix the Error Opening File for Writing Error in Windows 10 & 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-utilize-imovies-capabilities-for-4k-video-editing-and-the-procedure-for-uploading-ultra-hd-content/"><u>How to Utilize iMovie's Capabilities for 4K Video Editing and the Procedure for Uploading Ultra HD Content</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-format-switch-how-to-transform-wmv-content-into-mp4-mov-and-mp3-for-universal-playback/"><u>Quick Format Switch: How to Transform WMV Content Into MP4, MOV, and MP3 for Universal Playback</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Samsung Galaxy F04? | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/revise-your-events-seamlessly-mastering-the-edit-event-feature/"><u>Revise Your Events Seamlessly: Mastering the Edit Event Feature</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/safe-and-quick-guide-transferring-your-dvd-content-to-your-pc-without-issues/"><u>Safe & Quick Guide: Transferring Your DVD Content to Your PC Without Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/sharing-gif-fun-on-facebook-tips-for-using-your-comments-status-updates-and-messages/"><u>Sharing GIF Fun on Facebook: Tips for Using Your Comments, Status Updates & Messages</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-strategies-how-to-quickly-download-html5-videos/"><u>Simple Strategies: How To Quickly Download HTML5 Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/spectacular-live-video-collector-simplify-your-online-viewing-with-instant-media-downloads/"><u>Spectacular Live Video Collector: Simplify Your Online Viewing with Instant Media Downloads!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-burning-and-running-a-dvd-iso-file-in-windows-11/"><u>Step-by-Step Guide: Burning and Running a DVD ISO File in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-jokerwizr-fracture-addons-in-your-kodi-system/"><u>Step-by-Step Guide: Setting Up JokerWiZr Fracture Addons in Your Kodi System</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Realme GT 5? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/zoom-simplified-your-guide-to-webinar-basics-for-2024/"><u>Zoom Simplified Your Guide to Webinar Basics for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-10-best-free-passport-photo-maker-online-and-desktop/"><u>[Updated] 10 Best Free Passport Photo Maker Online and Desktop</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-sharing-vimeo-content-instagram-tips/"><u>[Updated] 2024 Approved Sharing Vimeo Content Instagram Tips</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/decoding-the-simplicity-of-power-reviewing-the-latest-iteration-of-samsung-galaxy-s-series/"><u>Decoding the Simplicity of Power - Reviewing the Latest Iteration of Samsung Galaxy S Series</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210159509-9781642505672-each-day-a-renewed-beginning/"><u>Each Day a Renewed Beginning | Free Book</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/guide-facile-pour-transformer-des-grandes-vob-video-object-avec-ou-sans-protection-en-mp4-gratuitement/"><u>Guide Facile Pour Transformer Des Grandes VOB (Vídeo Object) Avec Ou Sans Protection en MP4 Gratuitement</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-90-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor 90 phone? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-magic-5-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-file-organization-in-windows-11/"><u>Simplifying File Organization in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-gpt-4s-potential-accessible-ai-for-all-discover-the-workflow/"><u>Unlocking GPT-4's Potential: Accessible AI for All - Discover The Workflow</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-new-potentials-for-sites-with-artificial-intelligence-integration-in-search-engines/"><u>Unlocking New Potentials for Sites with Artificial Intelligence Integration in Search Engines</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-poetic-potential-with-chatgpt-assistance/"><u>Unlocking Poetic Potential with ChatGPT Assistance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-crypto-markets-how-chatgpt-can-give-you-an-edge/"><u>Unlocking the Potential of Crypto Markets: How ChatGPT Can Give You an Edge</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-machine-learning-clarity-with-shap-e/"><u>Unveiling Machine Learning Clarity with SHAP E</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/utilizing-the-wolfram-plugin-in-chatgpt-3-innovative-techniques-for-enhanced-results/"><u>Utilizing the Wolfram Plugin in ChatGPT: 3 Innovative Techniques for Enhanced Results</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/world-building-with-depth-how-chatgpt-aids-novel-craft/"><u>World-Building With Depth: How ChatGPT Aids Novel Craft</u></a></li>
 </ul></div>
 

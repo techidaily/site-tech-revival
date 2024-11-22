@@ -1,7 +1,7 @@
 ---
 title: Boosting Your Tabletop Adventures Using AI Inspiration
-date: 2024-11-10T00:30:17.145Z
-updated: 2024-11-12T03:39:37.576Z
+date: 2024-11-19T23:10:19.825Z
+updated: 2024-11-21T19:24:45.209Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/1fe7ff1c6ccc0ab7bc1dc02b033d67aea4e7d6e05
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. ChatGPT
 
 ![ChatGPT in App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-in-app-store.jpg)
@@ -40,21 +44,7 @@ thumbnail: https://thmb.techidaily.com/1fe7ff1c6ccc0ab7bc1dc02b033d67aea4e7d6e05
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ChatGPT demo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-demo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -69,6 +59,10 @@ Close
 ![WOMBO Dream AI art generator app text prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wombo-dream-ai-art-generator-app-text-prompt.jpg)
 
 ![WOMBO Dream AI art generator app art style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wombo-dream-ai-art-generator-app-art-style-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![WOMBO Dream AI artwork example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wombo-dream-ai-artwork-example.jpg)
 
@@ -109,19 +103,13 @@ Close
 ![Replika AI app chat example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replika-ai-app-chat-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Replika AI app Pride Month outfit collection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replika-ai-app-pride-month-outfit-collection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -132,13 +120,6 @@ Close
 
 **Download:** Replika for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=ai.replika.app) |[iOS](https://apps.apple.com/us/app/replika-virtual-ai-companion/id1158555867) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Be My Eyes
 
 ![Be My Eyes app start screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/be-my-eyes-app-start-screen.jpg)
@@ -147,7 +128,15 @@ Close
 
 ![Be My Eyes app instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/be-my-eyes-app-instructions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Be My Eyes app community menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/be-my-eyes-app-community-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -164,10 +153,7 @@ Close
 ![Bing AI App Discussing Its GPT Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-app-on-gpt-models.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Bing app horse image generation results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/image-generation-3.jpg)
@@ -180,29 +166,23 @@ Close
 
 **Download:** Bing for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=com.microsoft.bing) |[iOS](https://apps.apple.com/app/bing-chat-with-ai-gpt-4/id345323231) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. ELSA
 
 ![ELSA Speak English learning app home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-home-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ELSA Speak English learning app training options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-training-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ELSA Speak English learning app catching errors in pronunciation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-catching-errors-in-pronunciation.jpg)
 
 ![ELSA Speak English learning app personalized course](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-personalized-course.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -211,6 +191,10 @@ Close
  ELSA acts like your personal English tutor, offering customized lessons and feedback. You can decide whether you want to practice speaking like a native for 10, 15, or 20 minutes a day. The app tracks your progress as you get better and grants special features with its paid plan.
 
 **Download:** ELSA for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=us.nobarriers.elsa) |[iOS](https://apps.apple.com/us/app/elsa-english-language-app/id1083804886) (Free, subscription available)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Otter
 
@@ -251,15 +235,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-your-path-to-picture-perfection-with-snapseed/"><u>[New] 2024 Approved Your Path to Picture Perfection with Snapseed</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-discords-prime-locations-to-date-or-fall-in-love/"><u>[Updated] Discord's Prime Locations to Date or Fall in Love</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-excellence-in-tablets-the-in-depth-review-of-honor-pad-n-8-by-zdnet-for-savvy-tech-enthusiasts-seeking-quality-and-value/"><u>Affordable Excellence in Tablets - The In-Depth Review of Honor Pad N 8 by Zdnet for Savvy Tech Enthusiasts Seeking Quality and Value</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-strategies-building-powerful-presentations/"><u>ChatGPT Strategies: Building Powerful Presentations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-limitless-potential-of-imagination-using-free-dall-e-3-on-bing/"><u>Explore the Limitless Potential of Imagination: Using Free DALL-E 3 on Bing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-linguistic-milestones-unveiling-bert-and-gpt/"><u>Exploring Linguistic Milestones: Unveiling BERT and GPT</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location on TikTok to See More Content On your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-12-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone 12? 5 Tips You Must Know</u></a></li>
-<li><a href="https://facebook.techidaily.com/tactics-to-rejuvenate-non-loading-fb-news-feed-items/"><u>Tactics to Rejuvenate Non-Loading FB News Feed Items</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-truthgpt-coin-a-comprehensive-guide-to-its-authenticity-and-value/"><u>Unveiling TruthGPT Coin: A Comprehensive Guide to Its Authenticity and Value</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-essential-gear-for-beginner-filmmakers-under-1000/"><u>[Updated] In 2024, Essential Gear for Beginner Filmmakers (Under $1,000)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-openais-innovative-shapley-value-estimator-shap-e-and-its-functionalities/"><u>Decoding OpenAI's Innovative Shapley Value Estimator (Shap-E) and Its Functionalities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-dilemma-local-vs-global-llms/"><u>Decoding the Dilemma: Local vs Global LLMs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-ai-interaction-the-mechanics-behind-chatbot-conversations/"><u>Demystifying AI Interaction: The Mechanics Behind Chatbot Conversations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dispelling-myths-the-consistent-capability-of-chatgpt-as-confirmed-by-openai/"><u>Dispelling Myths: The Consistent Capability of ChatGPT as Confirmed by OpenAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-gpts-influence-on-cybercriminal-activities/"><u>Dissecting GPT's Influence on Cybercriminal Activities</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/expanded-communication-10-advantages-from-using-mondly/"><u>Expanded Communication: 10 Advantages From Using Mondly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/extensive-eye-level-surveillance-guide-for-2024/"><u>Extensive Eye-Level Surveillance Guide for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-downloading-and-setting-up-epson-xp-430-drivers-windows/"><u>Step-by-Step Tutorial for Downloading & Setting Up Epson XP-430 Drivers (Windows)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-artisans-guide-to-blending-visuals-and-melodies-in-canvas-videos-for-2024/"><u>The Artisan's Guide to Blending Visuals & Melodies in Canvas Videos for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-future-of-data-extraction-insights-from-singhs-world/"><u>The Future of Data Extraction: Insights From Singh's World</u></a></li>
 </ul></div>
 

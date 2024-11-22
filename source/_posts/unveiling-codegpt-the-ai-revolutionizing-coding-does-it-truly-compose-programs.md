@@ -1,7 +1,7 @@
 ---
 title: "Unveiling CodeGPT: The AI Revolutionizing Coding – Does It Truly Compose Programs?"
-date: 2024-11-08T07:54:54.279Z
-updated: 2024-11-12T07:26:12.049Z
+date: 2024-11-21T01:37:55.472Z
+updated: 2024-11-21T20:22:55.126Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 
 ![ChatGPT logo on dark green background ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Yes, there will almost certainly be a 5th iteration of OpenAI's GPT large language model called GPT-5\. Unfortunately, much like its predecessors, GPT-3.5 and GPT-4, OpenAI adopts a reserved stance when disclosing details about the next iteration of its GPT models. Instead, the company typically reserves such information until a release date is very close. This tight-lipped policy typically fuels conjectures about the release timeline for every upcoming GPT model.
 
  Already, various sources have predicted that GPT-5 is currently undergoing training, with an anticipated release window set for early 2024.
@@ -39,16 +43,7 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 Here's a video of Altman's discussion below:
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is GPT-5 Coming?
@@ -70,16 +65,7 @@ So, a 2024 release date for GPT-5? Is that possible?
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Changes Could GPT-5 Bring?
@@ -87,16 +73,7 @@ So, a 2024 release date for GPT-5? Is that possible?
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4.
@@ -106,10 +83,7 @@ So, a 2024 release date for GPT-5? Is that possible?
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
@@ -133,17 +107,22 @@ So, a 2024 release date for GPT-5? Is that possible?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-top-5-best-screens-for-playstation-5-gamers/"><u>[New] In 2024, TOP 5 Best Screens for PlayStation 5 Gamers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-craft-your-podcasts-identity-with-ai-name-generators/"><u>[Updated] 2024 Approved Craft Your Podcast's Identity with AI Name Generators</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-craft-your-own-film-finale-templates-no-cost/"><u>[Updated] Craft Your Own Film Finale Templates, No Cost</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pinnacle-of-1980s-movie-magic-in-editing/"><u>[Updated] Pinnacle of 1980S Movie Magic in Editing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-top-voice-modification-tools-for-youtube-creators-for-2024/"><u>[Updated] Top Voice Modification Tools for YouTube Creators for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/odysee/"><u>「Odysee動画のダウンロードと保存手順ガイド」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp4/"><u>無損失でMP4ファイルの画像比率変更テクニック</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-successfully-transfer-videos-from-facebook-to-your-youtube-channel/"><u>How To Successfully Transfer Videos From Facebook To Your YouTube Channel</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-iphone-x-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your iPhone X?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-tweeting-youtube-content-a-comprehensive-tutorial/"><u>Mastering the Art of Tweeting YouTube Content - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/new-release-wonderfox-image-transformer-v11-from-videos-to-still-images/"><u>New Release: WonderFox Image Transformer v1.1 - From Videos to Still Images</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-y28-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo Y28 5G Phones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-in-depth-look-at-ipad-display-logging/"><u>[New] 2024 Approved In-Depth Look at iPad Display Logging</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-camera-editing-showdown-hero-vs-cubes-battle-of-the-screens/"><u>[New] Camera Editing Showdown Hero Vs. Cube's Battle of the Screens</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-snicker-sphere-hot-gags-and-joke-artists-of-tiktok/"><u>[New] Snicker Sphere Hot Gags and Joke Artists of TikTok</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-troubleshooting-guide-resolving-dvd-playback-issues-on-a-mac/"><u>1. Troubleshooting Guide: Resolving DVD Playback Issues on a Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tiktok-effect-overhaul-the-two-pronged-approach/"><u>2024 Approved TikTok Effect Overhaul The Two-Pronged Approach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-multifaceted-potential-of-chatgpts-my-gpt-bots-for-educational-games-and-artistic-image-creation/"><u>Discover the Multifaceted Potential of ChatGPT's My GPT Bots for Educational Games and Artistic Image Creation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eliminate-tech-distractions-with-these-8-powerful-chatgpt-prompts-you-need-to-try/"><u>Eliminate Tech Distractions with These 8 Powerful ChatGPT Prompts You Need to Try</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-paperclip-maximizer-issue-in-the-context-of-ai-development/"><u>Exploring the Paperclip Maximizer Issue in the Context of AI Development</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-ai-chatbots-the-role-of-content-moderation/"><u>Exploring the World of AI Chatbots: The Role of Content Moderation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fine-tuning-zoom-visuals-top-techniques-for-2024/"><u>Fine-Tuning Zoom Visuals Top Techniques for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/five-crucial-ai-technologies-for-todays-business-owners/"><u>Five Crucial AI Technologies for Today's Business Owners</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-access-leveraging-microsoft-bings-ai-with-dall-e-3/"><u>Free Access: Leveraging Microsoft Bing's AI with DALL-E 3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/freelancers-dilemma-should-you-opt-for-bing-chat-or-microsofts-gpt-eight-factors-to-weigh-in/"><u>Freelancer's Dilemma: Should You Opt for Bing Chat or Microsoft’s GPT? Eight Factors to Weigh In</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-zero-to-gourmet-healthy-habits-via-tech/"><u>From Zero to Gourmet: Healthy Habits via Tech</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-inspiring-leadership-the-top-35-recruiter-talks/"><u>In 2024, Inspiring Leadership The Top 35 Recruiter Talks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-download-and-update-of-synaptics-drivers-on-windows-hassle-free/"><u>Step-by-Step Download & Update of Synaptics Drivers on Windows - Hassle-Free</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy A05 | Dr.fone</u></a></li>
 </ul></div>
 

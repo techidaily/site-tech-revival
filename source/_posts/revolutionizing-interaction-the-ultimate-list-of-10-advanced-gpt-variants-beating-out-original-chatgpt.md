@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Interaction: The Ultimate List of 10 Advanced GPT Variants Beating Out Original ChatGPT"
-date: 2024-11-04T22:32:37.619Z
-updated: 2024-11-12T06:12:36.939Z
+date: 2024-11-17T01:40:28.334Z
+updated: 2024-11-21T18:38:47.064Z
 tags:
   - chatgpt
   - open-ai
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 
 ![ChatGPT displaying text adventure game output in code blocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-displaying-text-adventure-game-output-in-code-blocks.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, this is more compact and easier to look at than the default look.
 
 > 6\. The ‘Description’ must stay between 3 to 10 sentences.
@@ -66,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Implement Fundamental Game Mechanics
 
  Game mechanics comprise the core engine of how your game will run. It is here you will have to add how you want your actions and abilities to affect the world. Here’s how we structured the game mechanics in our prompt:
@@ -86,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
  Use a bit of discretion here for your own prompt. We preferred our own prompt to use D&D 5e rules for AC and d20 dice rolls to determine stats. However, you can change the rules to something more to your taste (perhaps, like Pathfinder’s AC system).
 
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
 >
@@ -145,10 +135,7 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
@@ -179,6 +166,10 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -194,15 +185,16 @@ And finally, don’t forget to actually start the game:
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
@@ -327,17 +319,20 @@ And finally, don’t forget to actually start the game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-apoyo-affordable-lightroom-counterparts-reviewed/"><u>[New] 2024 Approved Apoyo Affordable Lightroom Counterparts Reviewed</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-elevate-videography-quality-top-7-sound-effects-pick/"><u>[Updated] Elevate Videography Quality Top 7 Sound Effects Pick</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-step-by-step-guide-to-mastering-quantum-hdr/"><u>2024 Approved Step by Step Guide to Mastering Quantum HDR</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comparing-the-latest-apple-powerhouses-the-m2-vs-m3-macbook-air-buying-guide/"><u>Comparing the Latest Apple Powerhouses: The M2 Vs. M3 MacBook Air - Buying Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-error-code-80080300-with-microsoft-teams-on-win11/"><u>Fixing Error Code 80080300 with Microsoft Teams on Win11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-ai-for-smart-device-symphony-chatgpts-influence/"><u>Harnessing AI for Smart Device Symphony: ChatGPT's Influence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-use-chatgpt-to-develop-a-regular-meditation-habit/"><u>How to Use ChatGPT to Develop a Regular Meditation Habit</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/identifying-ipad-variants-with-integrated-gps-technology/"><u>Identifying iPad Variants with Integrated GPS Technology</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-mastering-viewer-interest-6-essential-video-formats/"><u>In 2024, Mastering Viewer Interest 6 Essential Video Formats</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/re-enabling-online-scanner-in-win11/"><u>Re-Enabling Online Scanner in Win11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-email-game-5-no-cost-ai-solutions-featuring-chatgpt-for-elite-communication-and-quick-summaries/"><u>Revolutionize Your Email Game: 5 No-Cost AI Solutions Featuring ChatGPT for Elite Communication and Quick Summaries</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/utilizing-chatgpt-to-navigate-tricky-business-correspondence-a-guide-to-professional-email-mastery/"><u>Utilizing ChatGPT to Navigate Tricky Business Correspondence: A Guide to Professional Email Mastery</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-old-world-wonders-iphone-x-portraits-for-2024/"><u>[Updated] Old World Wonders – iPhone X Portraits for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-obs-studio-guide-to-facebook-live-broadcasts-for-2024/"><u>[Updated] The Ultimate OBS Studio Guide to Facebook Live Broadcasts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-deep-dive-into-surface-laptop-studio-2s-creative-edge/"><u>A Deep Dive Into Surface Laptop Studio 2’S Creative Edge</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-redmi-note-13-proplus-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Xiaomi Redmi Note 13 Pro+ 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/balancing-human-touch-and-machine-precision-in-editing/"><u>Balancing Human Touch and Machine Precision in Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-chatbot-conversations-with-these-7-strategies/"><u>Boost Your Chatbot Conversations with These 7 Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-anytime-anywhere-mastering-the-use-of-chatgpt-everywhere-app-for-constant-conversation/"><u>ChatGPT Anytime, Anywhere: Mastering the Use of 'ChatGPT Everywhere' App for Constant Conversation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-jailbreaks-gone-silent-unveiling-7-reasons-why-theyre-no-longer-viable/"><u>ChatGPT Jailbreaks Gone Silent: Unveiling 7 Reasons Why They're No Longer Viable</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/clearing-the-air-on-ai-bot-fallacies-top-9-dissected/"><u>Clearing the Air on AI Bot Fallacies - Top 9 Dissected</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-troubleshooting-and-driver-update-assistance-for-dell-latitude-e6430-systems-with-windows/"><u>Comprehensive Troubleshooting and Driver Update Assistance for Dell Latitude E6430 Systems with Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-on-saving-your-chatgpt-history/"><u>Comprehensive Tutorial on Saving Your ChatGPT History</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/meta-vrs-quest-3-reveal-discover-pricing-strategy-anticipated-launch-date-and-detailed-specifications-for-immersive-experience/"><u>Meta VR's Quest 3 Reveal: Discover Pricing Strategy, Anticipated Launch Date, and Detailed Specifications for Immersive Experience</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/tp-link-av2000-powerline-adapter-review-excellent-speeds-but-subpar-design/"><u>TP-Link AV2000 Powerline Adapter Review: Excellent Speeds, But Subpar Design</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unveiling-the-art-of-written-visual-narratives-a-guide-on-docuscripts-for-2024/"><u>Unveiling the Art of Written Visual Narratives A Guide on Docuscripts for 2024</u></a></li>
 </ul></div>
 

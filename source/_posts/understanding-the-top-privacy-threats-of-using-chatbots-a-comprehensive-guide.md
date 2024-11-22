@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Top Privacy Threats of Using Chatbots: A Comprehensive Guide"
-date: 2024-11-06T07:40:22.111Z
-updated: 2024-11-12T06:23:57.479Z
+date: 2024-11-14T18:59:36.061Z
+updated: 2024-11-21T18:14:14.685Z
 tags:
   - chatgpt
   - open-ai
@@ -41,15 +41,16 @@ Maximum truth-seeking AI? Understand the nature of the universe?
  Elon Musk, who recently authored an open letter calling for a[moratorium on the development of powerful AI](http://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) models (specifically those more powerful than GPT-4), believes AI is moving too fast. He believes we need to slow down and reevaluate our approach to AI safety before AI "takes control." TruthGPT is a large language model (LLM) that promises to address these two core concerns with today's AI systems.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Would TruthGPT Look Like?
 
 ![artificial brain doing data analytics ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mou-article-banner.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The first hint into how TruthGPT would look is in the name. Considering the "GPT" appendage, TruthGPT will likely have a similar architecture to ChatGPT. Remember, Elon Musk helped assemble OpenAI and the team that built ChatGPT's GPT model.
 
@@ -60,10 +61,7 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 So, is this idea of a maximum truth-seeking AI even practical?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Building TruthGPT Is a Huge Challenge
@@ -71,10 +69,7 @@ So, is this idea of a maximum truth-seeking AI even practical?
 ![Cogs on a machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pexels-pixabay-159298.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you[understand how large language models like GPT work](http://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) , it becomes clear that it is impractical to be correct at all times. Typically trained on a large dataset of internet data, a lot of it is, predictably, going to be false information, and LLM's have no inert way of telling fact from fiction.
@@ -86,10 +81,7 @@ So, is this idea of a maximum truth-seeking AI even practical?
  For Musk, TruthGPT appears to be a chance for him to carve an AI model that he sees fit to deliver the truth. How that would come about without introducing his own biases is another question entirely and effectively leads us back to the start of the conversation. How are Musk's opinions on what is biased or not any different from those who trained and directed ChatGPT?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is TruthGPT an Exciting Possibility?
@@ -113,18 +105,18 @@ So, is this idea of a maximum truth-seeking AI even practical?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-essential-call-customization-applications-ranked-for-2024/"><u>[Updated] Essential Call Customization Applications Ranked for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-10-battle-royale-games/"><u>2024 Approved Best 10 Battle Royale Games</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-gpt-assist-in-finalizing-writings/"><u>Can GPT Assist in Finalizing Writings?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-the-evolution-a-comprehensive-look-at-openais-gpt-series-from-version-1-to-4/"><u>Comparing the Evolution: A Comprehensive Look at OpenAI's GPT Series From Version 1 to 4</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-connection-to-isolation-the-facebook-story/"><u>From Connection to Isolation: The Facebook Story</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-google-elevates-linguistics-with-its-newly-launched-palm-2-model/"><u>How Google Elevates Linguistics with Its Newly Launched PaLM 2 Model</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/integrating-ai-into-telecommuting-utilizing-chatgpt-for-productive-distance-meetings/"><u>Integrating AI Into Telecommuting: Utilizing ChatGPT for Productive Distance Meetings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigate-through-chatgpts-recent-innovations-top-features-for-your-attention/"><u>Navigate Through ChatGPT's Recent Innovations – Top Features for Your Attention</u></a></li>
-<li><a href="https://app-tips.techidaily.com/organizing-chaos-streamlining-linux-and-open-source-docs-with-proven-solutions/"><u>Organizing Chaos: Streamlining Linux & Open Source Docs with Proven Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reviving-your-iphone-15-tips-for-a-successful-reboot/"><u>Reviving Your iPhone 15: Tips for a Successful Reboot</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/risks-of-sharing-sensitive-data-with-ai-why-chatgpt-might-not-be-secure-enough/"><u>Risks of Sharing Sensitive Data with AI: Why ChatGPT Might Not Be Secure Enough</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-esteemed-endorsements-top-iphone-audio-craftsmen/"><u>[New] 2024 Approved Esteemed Endorsements Top iPhone Audio Craftsmen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/7-best-nft-generators-to-turn-your-artwork-into-nfts/"><u>7 Best NFT Generators to Turn Your Artwork Into NFTs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/curating-the-best-general-knowledge-content-2024-edition/"><u>Curating the Best General Knowledge Content, 2024 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-methods-to-rectify-motherboards-cmos-validity-verification-fault/"><u>Easy Methods to Rectify Motherboard's CMOS Validity Verification Fault</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-your-batch-scripts-creating-windows-exes/"><u>Elevating Your Batch Scripts: Creating Windows EXEs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/joke-fusion-best-meme-concepts-for-special-occasions/"><u>Joke Fusion Best Meme Concepts for Special Occasions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-mastery-top-pick-manycam-virtual-cam-and-editing-suite/"><u>Live Streaming Mastery: Top Pick ManyCam Virtual Cam and Editing Suite</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-connectivity-and-quality-sound-a-comprehensive-beats-pill-bluetooth-speaker-assessment/"><u>Seamless Connectivity & Quality Sound: A Comprehensive Beats Pill Bluetooth Speaker Assessment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-troubleshoot-for-dead-displayport/"><u>Simple Troubleshoot for Dead DisplayPort</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-slowdown-question-why-is-chatgpt-4-hesitant/"><u>The Slowdown Question: Why Is ChatGPT-4 Hesitant?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-speed-analysis-of-gpt-models-comparing-chatgpt-4-and-chatgpt-35/"><u>The Speed Analysis of GPT Models: Comparing ChatGPT-4 and ChatGPT-3.5</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-motivations-behind-corporate-decisions-to-prohibit-chatgpt-use/"><u>Top 5 Motivations Behind Corporate Decisions to Prohibit ChatGPT Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-artificial-intelligence-tools-for-enhanced-note-taking/"><u>Top 6 Artificial Intelligence Tools for Enhanced Note-Taking</u></a></li>
 </ul></div>
 

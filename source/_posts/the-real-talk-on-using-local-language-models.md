@@ -1,7 +1,7 @@
 ---
 title: The Real Talk on Using Local Language Models
-date: 2024-11-10T20:51:06.025Z
-updated: 2024-11-12T04:29:43.751Z
+date: 2024-11-20T17:23:39.079Z
+updated: 2024-11-21T22:00:55.389Z
 tags:
   - chatgpt
   - open-ai
@@ -24,9 +24,17 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. What's the Best Place to Start?
 
 ![ChatGPT Plus best way to learn a language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-best-way-to-learn-a-language-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Naturally, we started by asking ChatGPT about the best place to start and how it can help. ChatGPT recommends that you set clear goals, learn vocabulary in context, listen to and mimic native speakers, and take notes. All of this is solid advice.
 
@@ -38,19 +46,6 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Expanding your vocabulary is a good place to start when you're trying to learn a new language. You want to learn how to pronounce common words and understand how/why they are used in various situations. As you can imagine, GPT-4's conversational skills can easily handle this process.
 
  We asked ChatGPT to help us in building our French vocabulary. To be more specific, we told ChatGPT about our proficiency in French and that we wanted recommendations for common words used in daily life. It quickly gave us a list of 20 common words and phrases and their meanings.
@@ -59,9 +54,17 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
  The result shows that GPT-4 has a better understanding of context in comparison to its predecessor. This is just one of the many[differences between GPT 3.5 and GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Practice Conversational Skills
 
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While learning certain words and phrases in a vacuum is good, all that practice is wasted if you don't build conversational skills. With ChatGPT, you can hold conversations in any language you want. For example, we asked ChatGPT to talk with us in French, and the result was impressive.
 
@@ -73,16 +76,13 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Grammar and syntax provide the structure and rules necessary to communicate and understand others. ChatGPT can help you learn the grammar and syntax rules by providing real-time feedback, explanations, and examples during written interactions. Since ChatGPT is all about interactivity, it does a better job here than most language-learning apps.
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Personalized Tests
 
@@ -103,23 +103,9 @@ Here's how you can create your own personalized tests:
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Languages and cultures are closely intertwined. By learning a new language, you can gain insight into the traditions, values, customs, and history of those who speak the language. While learning a language with ChatGPT, you can ask for cultural context, references, and social norms that are present in the language. This helps you understand how native speakers communicate.
 
  You can also get insights into cultural phenomena such as historical events, festivals, celebrations, and more. Then, you can ask ChatGPT to provide you with resources such as movies, books, and music in the language you're trying to learn. The key here is to ask anything you can think of about the language and culture.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. How Does It Compare to Other Alternatives?
 
@@ -148,21 +134,19 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/nlock-video-insights-top-7-free-easy-to-use-tag-extraction-software-reviewed-for-2024/"><u>[New] Unlock Video Insights Top 7 Free, Easy-to-Use Tag Extraction Software Reviewed for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-connectivity-aid-fb-stories-saver-pro/"><u>[Updated] 2024 Approved Connectivity Aid FB Stories Saver Pro</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-download-powerhouse-top-free-quick-vids-extraction-for-pinterest/"><u>[Updated] 2024 Approved Download Powerhouse Top Free, Quick Vids Extraction for Pinterest</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-composing-a-price-plan-for-audio-visual-song-clips/"><u>[Updated] In 2024, Composing a Price Plan for Audio-Visual Song Clips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/54sh5paz44gn5qw944gx44ka5a2q5l6b5zcr44gr5pig55s7ic0g5a625pep44gr5zac44gz44go5ocd44ge5ye644ks5akx44ke44gb44kl5oml6lu944gq44ki44kv44k744k55pa55rov/"><u>無料で楽しむ子供向け映画 - 家族に喜びと思い出を増やせる手軽なアクセス方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-free-ipod-music-transcoder-from-m4amp4-to-mp3-format-compatible-with-windows-macos-ios-and-android/"><u>Best FREE iPod Music Transcoder From M4A/MP4 to MP3 Format: Compatible with Windows, macOS, iOS & Android</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bilibili/"><u>Bilibili動画と実況中の映像記録手順の解説</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/biniso/"><u>BINファイルをISOイメージ化する効果的なテクニック</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bypassing-tumblr-constraints-for-smooth-and-unrestricted-video-sharing/"><u>Bypassing Tumblr Constraints for Smooth and Unrestricted Video Sharing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-capturing-your-facebook-experience-through-videography/"><u>Comprehensive Guide: Capturing Your Facebook Experience Through Videography</u></a></li>
-<li><a href="https://win-special.techidaily.com/convert-mp3-files-to-wav-format-for-free-using-movavis-easy-tool/"><u>Convert MP3 Files to WAV Format for Free Using Movavi's Easy Tool!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13t-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi 13T Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nubia-z50s-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nubia Z50S Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-note-visibility-with-tips-for-modern-windows-users/"><u>Streamlining Note Visibility with Tips for Modern Windows Users</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-ultimate-guide-to-crypto-conversion-best-generator-list/"><u>The Ultimate Guide to Crypto Conversion – Best Generator List</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44kz44oz44ou44ol44o844k44gr44gk44gr44kl44kw44op44ov44kj44od44kv44kr44o844oj44gu6auy6ycf5yyw5qmf6io944gm44gc44kk44gplus44gz44glpplusobneocjoockuocquodsplusod2/"><u>コンピュータにおけるグラフィックカードの高速化機能がありますか?それをオン・オフできるようにする手順</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-audio-bridge-for-podcasters/"><u>[New] Optimal Audio Bridge for Podcasters</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-ranked-instagrams-top-8-popular-ae-composition-tools-for-2024/"><u>[New] Ranked Instagram's Top 8 Popular AE Composition Tools for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-filmoras-recipe-for-captivating-youtube-trailers/"><u>[Updated] Filmora’s Recipe for Captivating YouTube Trailers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-expert-tips-for-recording-fan-favorite-sports-games/"><u>[Updated] In 2024, Expert Tips for Recording Fan-Favorite Sports Games</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-thorough-review-of-videoshow-24-features-and-updates/"><u>[Updated] In 2024, Thorough Review of VideoShow '24 Features & Updates</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-youtube-settings-to-eliminate-video-skips-for-2024/"><u>[Updated] Mastering YouTube Settings to Eliminate Video Skips for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-assessing-shooters-choices-hero-5-black-or-km-170/"><u>2024 Approved Assessing Shooters' Choices Hero 5 Black or KM-170</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-decoding-aspect-ratios-for-effective-youtube-videos/"><u>2024 Approved Decoding Aspect Ratios for Effective YouTube Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-leader-to-novice-ais-consequences-for-gpt/"><u>From Leader to Novice: AI's Consequences for GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-started-with-openais-new-gpt-personalized-store-begin-using-immediately/"><u>Get Started with OpenAI's New GPT Personalized Store – Begin Using Immediately</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-unleashed-a-treasure-trove-of-innovative-additions-revealed/"><u>GPT Unleashed: A Treasure Trove of Innovative Additions Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuitous-tools-for-open-source-image-generation/"><u>Gratuitous Tools for Open-Source Image Generation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-to-leveraging-artificial-intelligence-with-bing-for-android-users/"><u>Guide to Leveraging Artificial Intelligence with Bing for Android Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/liquid-nitrogen-unleashed-amds-flagship-ryzen-9-9950x-shatters-records-hits-67ghz/"><u>Liquid Nitrogen Unleashed: AMD’s Flagship Ryzen 9 9950X Shatters Records, Hits 6.7GHz!</u></a></li>
 </ul></div>
 

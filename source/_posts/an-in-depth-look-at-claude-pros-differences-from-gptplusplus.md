@@ -1,7 +1,7 @@
 ---
 title: An In-Depth Look at Claude Pro’s Differences From GPT++
-date: 2024-11-11T08:16:30.397Z
-updated: 2024-11-11T19:06:30.517Z
+date: 2024-11-17T00:56:58.003Z
+updated: 2024-11-21T23:11:11.155Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -48,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The more context you provide your AI tool, the better of a response you'll receive.
 
 ## 2 Ask for More Information After Getting an Initial Answer
@@ -69,14 +66,11 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
@@ -85,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
  This tip is especially important if you want to use AI tools like DALL-E 3 to generate images. I've often noticed that first drafts sometimes don't yield what I'm looking for, and there could also be problems like defects for items like flags.
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Don't Make Your AI Multitask
 
@@ -99,10 +97,7 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
@@ -112,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
  When designing your prompt, be very specific about what you don't want in your results. For example, if you're planning a trip, you may want to mention that you don't want to join tours or would prefer to avoid popular spots.
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
@@ -131,10 +119,7 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
@@ -162,21 +147,20 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-top-20-ae-templates-for-aspiring-designers/"><u>[Updated] Top 20 AE Templates for Aspiring Designers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-visionsplit-assessment-overview-for-2024/"><u>[Updated] VisionSplit Assessment Overview for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-massive-igtv-audience-engagement-essential-steps/"><u>2024 Approved Mastering Massive IGTV Audience Engagement Essential Steps</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-guide-to-enhancing-tiktok-bio-with-linktree/"><u>2024 Approved The Complete Guide to Enhancing TikTok Bio with Linktree</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-video-converters-of-2023-comprehensive-review-of-h265-compatibility-across-platforms/"><u>Best Video Converters of 2023: Comprehensive Review of H.265 Compatibility Across Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevating-workflow-with-ai-transforming-chatgpt-into-your-digital-colleague/"><u>Elevating Workflow with AI: Transforming ChatGPT Into Your Digital Colleague</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-tips-for-setting-up-auto-gpt-in-ubuntu/"><u>Essential Tips for Setting Up Auto-GPT in Ubuntu</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-y36-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo Y36</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/local-llm-advantagesdisadvantages-making-an-informed-decision/"><u>Local LLM Advantages/Disadvantages: Making an Informed Decision</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-error-how-to-retrieve-lost-geforce-x-configurations/"><u>Reversing Error: How to Retrieve Lost GeForce X Configurations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/sarah-silverman-leads-fight-over-creative-control-vs-tech-companies/"><u>Sarah Silverman Leads Fight Over Creative Control Vs. Tech Companies</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/streaming-success-recorded-google-chats-for-2024/"><u>Streaming Success Recorded Google Chats for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-3-llm-contenders-who-wins-between-bard-chatgpt-and-offline-alpaca-for-ultimate-efficiency/"><u>Top 3 LLM Contenders: Who Wins Between Bard, ChatGPT, and Offline Alpaca for Ultimate Efficiency?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transformez-facilement-vos-fichiers-svf-3gp-en-swf-gratuitement-solutions-movavi/"><u>Transformez Facilement Vos Fichiers ˈsɑːvɪf 3Gp en Swf Gratuitement - Solutions Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/uniting-the-best-codegpt-with-visual-studio-code-experience/"><u>Uniting the Best: CodeGPT with Visual Studio Code Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-choose-chatgpt-for-your-pc-explore-how-the-desktop-version-outshines-the-web-counterpart/"><u>Why Choose ChatGPT for Your PC? Explore How the Desktop Version Outshines the Web Counterpart</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-making-sounds-count-windows-10-audio-guide/"><u>[New] Making Sounds Count Windows 10 Audio Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-game-plan-for-creating-a-hit-youtube-introduction-trailer/"><u>[Updated] In 2024, The Game Plan for Creating a Hit YouTube Introduction Trailer</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-browser-speedy-solutions-for-slow-chrome-problems/"><u>Boost Your Browser: Speedy Solutions for Slow Chrome Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquer-digital-disruption-with-these-8-essential-chatgpt-prompts-you-need-now/"><u>Conquer Digital Disruption with These 8 Essential ChatGPT Prompts You Need Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-precise-chatgpt-prompts-in-health-and-wellness/"><u>Crafting Precise ChatGPT Prompts in Health & Wellness</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-codegpt-future-of-automated-source-coding/"><u>Dissecting CodeGPT: Future of Automated Source Coding</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dont-get-duped-uncovering-5-notorious-chatgpt-consumer-traps/"><u>Don't Get Duped: Uncovering 5 Notorious ChatGPT Consumer Traps</u></a></li>
+<li><a href="https://win-bits.techidaily.com/easy-guide-to-moving-files-between-two-ssds-simple-tutorial/"><u>Easy Guide to Moving Files Between Two SSDs - Simple Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-digital-interactions-with-these-powerful-prompt-crafting-methods/"><u>Elevate Your Digital Interactions with These Powerful Prompt-Crafting Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-your-search-game-with-ai-at-bing/"><u>Elevating Your Search Game with AI at Bing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-ideas-a-compilation-of-top-5-ai-writers/"><u>Enhance Ideas: A Compilation of Top 5 AI Writers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-s23-ultra-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy S23 Ultra to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-iphone-frozen-on-recovery-screen-effective-solutions-and-tips/"><u>How to Resolve iPhone Frozen on Recovery Screen: Effective Solutions & Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y200-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y200 is off? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/save-big-get-20-discount-on-top-rated-nomad-accessories-iphone-cases-portable-chargers-and-more-techsavvy/"><u>Save Big: Get 20% Discount on Top-Rated Nomad Accessories - iPhone Cases, Portable Chargers & More | TechSavvy</u></a></li>
 </ul></div>
 

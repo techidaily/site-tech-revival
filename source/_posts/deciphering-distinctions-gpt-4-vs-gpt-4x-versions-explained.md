@@ -1,7 +1,7 @@
 ---
 title: "Deciphering Distinctions: GPT-4 Vs. GPT-4x Versions Explained"
-date: 2024-11-07T17:36:51.175Z
-updated: 2024-11-12T05:34:14.843Z
+date: 2024-11-16T20:40:15.202Z
+updated: 2024-11-21T18:25:54.411Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is ChatGPT's Chat History and Training Feature?](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#what-is-chatgpt-39-s-chat-history-and-training-feature)
@@ -27,10 +31,7 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 * [ChatGPT Data Collection You Can't Opt Out From](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#chatgpt-data-collection-you-can-39-t-opt-out-from)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -63,15 +64,16 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 
 ![chatgpt sidebar menu options list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-sidebar-menu-options-list.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  First, click on your profile name at the bottom-left of the main page and head to**Settings & Beta** .
 
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In your settings, click on the**Data controls** option. Now, you'll see a setting named**Chat history & training** . This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
@@ -80,22 +82,12 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
 
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Data Collection You Can't Opt Out From
@@ -123,22 +115,18 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-brief-but-bold-short-videos-on-fb/"><u>[Updated] Brief but Bold Short Videos on FB</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-art-of-close-up-meetings-in-ms-teams-for-2024/"><u>[Updated] The Art of Close-Up Meetings in MS Teams for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-now-banned-in-italy-the-reason-behind-this-swift-action/"><u>ChatGPT Now Banned in Italy – The Reason Behind This Swift Action</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/does-chatgpt-have-any-security-issues/"><u>Does ChatGPT Have Any Security Issues?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-chatgpts-core-functionality-the-essential-role-of-its-code-interpreter/"><u>Exploring ChatGPT's Core Functionality: The Essential Role of Its Code Interpreter</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-generative-ai-is-transforming-employment-landscapes-7-key-impacts/"><u>How Generative AI Is Transforming Employment Landscapes: 7 Key Impacts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-effortless-techniques-recording-and-storing-gotomeeting-data/"><u>In 2024, Effortless Techniques Recording and Storing GoToMeeting Data</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/metaverse-joke-ology-building-your-own-hilarious-memes/"><u>Metaverse Joke-Ology Building Your Own Hilarious Memes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-d3d9dll-file-missing-a-step-by-step-guide/"><u>Resolving D3D9.dll File Missing: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/safety-of-third-party-gpt-apps-and-browser-addons-what-you-need-to-know/"><u>Safety of Third-Party GPT Apps and Browser Addons - What You Need To Know</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-vcruntime140dll-missing-problem-for-successful-program-execution-in-windows-10/"><u>Solving VCRUNTIME140.dll Missing Problem for Successful Program Execution in Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-journeying-in-chatgpt-inspired-rpgs/"><u>Step by Step: Journeying in ChatGPT-Inspired RPGs</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/rt-of-tweaking-soundtracks-in-youtube-videos-for-2024/"><u>The Art of Tweaking Soundtracks in YouTube Videos for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-tech-driven-path-to-inner-peace-using-chatgpt-for-daily-meditation-success/"><u>The Tech-Driven Path to Inner Peace: Using ChatGPT for Daily Meditation Success</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-list-the-premier-steam-deck-games-of-2023-you-cant-miss/"><u>Ultimate List: The Premier Steam Deck Games of 2023 You Can't Miss</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-flipbuilders-share-buttons-a-comprehensive-guide/"><u>Understanding FlipBuilder's Share Buttons – A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-lies-ahead-for-artificial-intelligence-the-evolution-beyond-chatgpt-in-natural-language-processing/"><u>What Lies Ahead for Artificial Intelligence? The Evolution Beyond ChatGPT in Natural Language Processing</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-from-spectator-to-participant-joining-on-tiktok-live/"><u>[New] In 2024, From Spectator to Participant Joining on TikTok Live</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-harmonize-with-holiness-choosing-christian-chimes-for-2024/"><u>[Updated] Harmonize with Holiness – Choosing Christian Chimes for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-review-magix-editing-suite/"><u>[Updated] Review MAGIX Editing Suite</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-infinix-hot-40-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Infinix Hot 40</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/debating-top-talkers-gpt-vs-huggingchats-clash/"><u>Debating Top Talkers: GPT vs HuggingChat's Clash</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/debunking-chatgpts-wisdom-remains-unaltered/"><u>Debunking: ChatGPT's Wisdom Remains Unaltered</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/delving-into-claude-2-its-mechanisms-purpose/"><u>Delving Into Claude 2: Its Mechanisms, Purpose</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-auto-gpt-its-unique-traits-beyond-chatgpt-basics/"><u>Demystifying Auto-GPT: Its Unique Traits Beyond ChatGPT Basics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-methods-for-erasing-your-past-interactions-with-chatgpt/"><u>Effective Methods for Erasing Your Past Interactions with ChatGPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-dealing-with-corrupted-image-display-in-windows-1110-environments/"><u>Expert Tips for Dealing with Corrupted Image Display in Windows 11/10 Environments</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/gsl-perfectionism-evolved-through-pearson-and-mondly/"><u>GSL Perfectionism Evolved Through Pearson and Mondly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-advanced-subtitling-mastering-the-art-of-srt-editing-on-apple-systems/"><u>In 2024, Advanced Subtitling Mastering the Art of SRT Editing on Apple Systems</u></a></li>
 </ul></div>
 

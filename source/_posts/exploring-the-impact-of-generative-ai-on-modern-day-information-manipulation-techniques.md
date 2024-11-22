@@ -1,7 +1,7 @@
 ---
 title: Exploring the Impact of Generative AI on Modern-Day Information Manipulation Techniques
-date: 2024-11-10T00:13:26.239Z
-updated: 2024-11-12T04:17:39.596Z
+date: 2024-11-17T22:02:12.701Z
+updated: 2024-11-21T23:22:34.332Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,17 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -52,20 +60,10 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -78,6 +76,10 @@ Here's the fictitious article that ChatGPT came up with:
 * **Targeted personalization** : Chatbots have access to vast amounts of data that they can gather to create personalized profiles. This enables them to customize content based on your preferences. Through targeted personalization, AI can persuade individuals or further strengthen their opinions.
 
  These examples all illustrate how chatbots can be utilized to mislead people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
 
@@ -95,13 +97,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -114,10 +109,7 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -141,17 +133,24 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-screenflow-pros-mac-edition/"><u>[New] In 2024, The Ultimate Guide to ScreenFlow Pro's Mac Edition</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-primary-tape-scrutiny-study-summary-for-2024/"><u>[New] Primary Tape Scrutiny Study Summary for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tream-masters-symposium-for-2024/"><u>[New] Stream Masters Symposium for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-android-and-ios-top-asmr-audio-picks-for-2024/"><u>[Updated] Android and iOS Top ASMR Audio Picks for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/effective-strategies-to-fool-netflix-into-believing-youre-watching-at-home/"><u>Effective Strategies to Fool Netflix Into Believing You're Watching at Home</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/enhancing-productivity-how-to-master-screen-capture-on-an-hp-device-for-2024/"><u>Enhancing Productivity How to Master Screen Capture on an HP Device for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-reviews-which-ipad-is-right-for-you-a-detailed-analysis/"><u>Expert Reviews: Which iPad Is Right for You? A Detailed Analysis</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp4mov/"><u>MP4からMOVへ:最新テクニックで効率的な動画変換方法を学ぶ</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimize-your-listening-experience-with-high-quality-320kbps-mp3-conversion/"><u>Optimize Your Listening Experience with High-Quality 320Kbps MP3 Conversion</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pccdusbwindows-1011/"><u>PCに楽曲をインポートするためのCDとUSB用Windows 10/11ガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/personalized-youtube-content-saving-guide-secrets-of-downloading-video-clips-privately/"><u>Personalized YouTube Content Saving Guide - Secrets of Downloading Video Clips Privately</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/44cm5aac5l2v5luo55u45py65lit5oy95zue5bey5yig6zmk55qe6keg6akric0g5ywo6z2i5oyh5y2x44cn/"><u>「如何从相机中挽回已删除的视频 - 全面指南」</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ective-methods-for-slide-embedding-from-youtube/"><u>4 Effective Methods for Slide Embedding From YouTube</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/ensuring-flawless-transitions-through-optimized-repackaging-methods/"><u>Ensuring Flawless Transitions Through Optimized Repackaging Methods</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/how-to-enlarge-videos-flawlessly-top-strategies-for-crisp-unblemished-results-watermark-free/"><u>How to Enlarge Videos Flawlessly: Top Strategies for Crisp, Unblemished Results [Watermark-Free]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-video-detaching-devices-securely-from-your-smart-home-system/"><u>How-To Video: Detaching Devices Securely From Your Smart Home System</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oppo-find-n3-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Oppo Find N3 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/interactive-cosmos-explored-metaverse-versus-omniverse-discussed-for-2024/"><u>Interactive Cosmos Explored Metaverse Versus Omniverse Discussed for 2024</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/la-scala-dei-migliori-6-programmi-di-clonazione-gratis-per-dvd-estrarre-completamente-il-contenuto-film-principale-su-dvd/"><u>La Scala Dei Migliori 6 Programmi Di Clonazione Gratis per DVD - Estrarre Completamente Il Contenuto / Film Principale Su DVD</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/macos-2023-update-from-youtube-to-high-quality-mp3s-for-2024/"><u>MacOS 2023 Update From YouTube to High-Quality MP3s for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-gen-responders-eclipsing-chatgpt/"><u>Next-Gen Responders Eclipsing ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/personalized-chatbots-crafting-with-advanced-gpt-tools/"><u>Personalized ChatBots: Crafting with Advanced GPT Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/play-detective-online-discover-4-cutting-edge-ai-puzzle-games-for-crime-enthusiasts/"><u>Play Detective Online: Discover 4 Cutting-Edge AI Puzzle Games for Crime Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/prompt-engineering-job-prospects-what-you-need-to-assess-before-jumping-in/"><u>Prompt Engineering Job Prospects – What You Need to Assess Before Jumping In</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revamp-your-routine-utilizing-chatgpt-for-a-superior-quality-of-living/"><u>Revamp Your Routine: Utilizing ChatGPT for a Superior Quality of Living</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-ai-integration-using-chatgpt-alongside-siri-on-ios-devices/"><u>Seamless AI Integration: Using ChatGPT Alongside Siri on iOS Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-black-ops-cold-war-silent-mode-issue-on-pc-expert-guide/"><u>Solve Black Ops: Cold War Silent Mode Issue on PC - Expert Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/speak-command-and-interact-your-guide-to-activating-voicegpt-on-android-smartphones/"><u>Speak, Command, and Interact: Your Guide to Activating VoiceGPT on Android Smartphones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-five-essential-ai-tools-transforming-modern-enterprises/"><u>The Five Essential AI Tools Transforming Modern Enterprises</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-of-education-papers-with-chatgpts-rise/"><u>The Future of Education Papers with ChatGPT's Rise</u></a></li>
 </ul></div>
 

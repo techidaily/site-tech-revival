@@ -1,7 +1,7 @@
 ---
 title: Copilot, Your Free Companion for GPT-4's Highest Outputs
-date: 2024-11-08T06:05:08.147Z
-updated: 2024-11-12T08:42:28.844Z
+date: 2024-11-16T19:04:12.955Z
+updated: 2024-11-21T19:51:37.427Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ It’s a very simple process, and you’ll want to do it again and again.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Write a Prompt in ChatGPT
 
 ![ChatGPT prompt results ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-prompt-results.jpg)
@@ -42,13 +46,6 @@ It’s a very simple process, and you’ll want to do it again and again.
 ## 2\. Copy the Text Into a Spreadsheet
 
 ![GoogleSheets-quotes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-quotes.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you have a programmer’s mind, you can[use the GPT for Sheets and Docs extension](https://www.makeuseof.com/how-use-chatgpt-google-sheets/) , or you can copy and paste your content into any spreadsheet program—like Microsoft Excel or Google Sheets. Then open a blank page.
 
@@ -70,16 +67,13 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Google Sheets with Quotes and Attribution labels.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/labelledgoogledocs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now it’s time to put labels in the first row. This allows Canva to attribute your spreadsheet values to its bulk creation system later.
 
  Label**A1** with “QUOTES” or the type of content that’s there, like “SONGS,” “PASSAGES,” or “TESTIMONIALS.” In**B1** —and any further columns—label it with the content type, ensuring the label is different. We’re going to use “ATTRIBUTION,” but you could use “CREDIT,” “CUSTOMER,” “ARTIST,” or whatever suits your content.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Save Your Sheet as a CSV File
 
@@ -90,6 +84,10 @@ It’s a very simple process, and you’ll want to do it again and again.
  Depending on which spreadsheet software you’re using, saving might work differently. If you’re using Google Sheets, go to**File** \>**Download** \>**Comma Separated Values (.csv)** .
 
  For Microsoft Excel, go to**File** \>**Save as** ​​​​​​, and under File Format choose**CSV UTF-8 (Comma-delimited) (.csv)** ​​​​​​. But this could be different depending on which version of Microsoft Office you’re running.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Make Your Design in Canva
 
@@ -102,24 +100,18 @@ It’s a very simple process, and you’ll want to do it again and again.
 ![Canva template design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-template-design.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Add Text Placeholders
 
 ![Canva design with placeholder text.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placeholder-text-canva.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select the**Text** tool and write placeholders for your labels. Place them where your text will go on the design. Remember to give yourself space to accommodate different lengths of content.
 
@@ -132,10 +124,7 @@ It’s a very simple process, and you’ll want to do it again and again.
 ![Bulk Create app in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-app-canva.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select**Apps** on Canva’s left-hand menu and type “Bulk Create” in the search bar. Select the**Bulk Create** app.
@@ -152,6 +141,10 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  You’ll see a list of all the content to be applied with checkboxes next to each item. To remove any text items, uncheck the box next to it. If you’re happy with all the content, keep them all checked and select**Generate Pages** . Ensure you don't have a pop-up blocker on as your designs will open in a new tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Review and Edit Your Designs
 
 ![Canva bulk designs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-bulk-designs.jpg)
@@ -162,36 +155,23 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  At this point you can also add emphasis to individual words with extra colors, bold or italics, or change the font for certain words or phrases. This isn’t possible to do with Bulk Create.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Save Your Bulk-Created Designs
 
 ![Canva save options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-save-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re happy with how everything looks, it’s time to save your designs. Go to**Share** \>**Download** and choose the best format for your designs. PNG is what we recommend for the best quality, but some social media applications might not accept PNGs, or perhaps another format works better for your designs.
 
 ![Bulk designs on Mac Finder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-designs-on-mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can add your bulk content to a social media scheduling app, like Hootsuite or Later, to save even more time and to ensure regular posting. Bulk designs are great for weekly or monthly posts of a similar type, for example, Monday Motivation or monthly calendar posts.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bulk Create Content With Canva and ChatGPT
 
@@ -212,16 +192,16 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-cutting-down-curated-content-how-to-delete-fb-story-pc-and-phone/"><u>[Updated] 2024 Approved Cutting Down Curated Content How to Delete FB Story (PC & Phone)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-how-to-create-hit-facebook-song-vids-10-edition/"><u>[Updated] How to Create Hit Facebook Song Vids - #10 Edition</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722966154753-easy-installation-scansnap-software-updates-and-drivers-for-windows-get-set-up-quick/"><u>Easy Installation: ScanSnap Software Updates and Drivers for Windows - Get Set Up Quick!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/epiphany-talking-to-chatgpt-made-simple/"><u>Epiphany: Talking to ChatGPT Made Simple</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generative-ai-face-off-notion-ai-against-chatgpt-determining-the-best-platform/"><u>Generative AI Face-Off: Notion AI Against ChatGPT – Determining the Best Platform</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-politeness-a-requirement-while-interacting-with-intelligent-systems-such-as-microsofts-chatgpt-amazons-alexa-and-apples-siri/"><u>Is Politeness a Requirement While Interacting With Intelligent Systems Such as Microsoft's ChatGPT, Amazon's Alexa, and Apple's Siri?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-bings-intelligent-search-interface-register-now/"><u>Mastering Bing’s Intelligent Search Interface: Register Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-academic-success-leveraging-chatgpt-for-effective-research-and-writing/"><u>Maximizing Academic Success: Leveraging ChatGPT for Effective Research & Writing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-4-strategies-for-enhancing-productivity-with-chatgpt/"><u>Top 4 Strategies for Enhancing Productivity with ChatGPT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-no-entry-point-errors-on-your-windows-system/"><u>Troubleshooting Guide: Resolving 'No Entry Point' Errors on Your Windows System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/yac513-yamahaaturbosound-ii-sound-module-based-on-the-ymf744ymu756yss2-dsp-plus-midi-synthesizer-plus-codec-and-2-mb-of-spiram/"><u>YAC513 - Yamaha'aturboSound II Sound Module Based on the YMF744/YMU756/YSS2 (DSP + MIDI Synthesizer + Codec) and 2 MB of SPIRAM</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-creating-seamless-cartoons-in-windows-movie-maker-for-2024/"><u>[Updated] Creating Seamless Cartoons in Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-game-recording-mastery-utilizing-gameye-and-more-for-2024/"><u>[Updated] Game Recording Mastery Utilizing GamEye and More for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-quickly-stream-spotify-audio-with-integrity/"><u>2024 Approved How to Quickly Stream Spotify Audio with Integrity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciding-between-ai-assistants-for-developers-chatgpt-versus-gemini-in-coding-abilities/"><u>Deciding Between AI Assistants for Developers: ChatGPT Versus Gemini in Coding Abilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-nlps-role-versus-mls-role/"><u>Deciphering NLP's Role Versus ML's Role</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-llms-an-insight-into-how-large-language-models-function/"><u>Decoding LLMs - An Insight Into How Large Language Models Function</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-ai-conversational-agents-a-guide-to-9-common-misunderstandings/"><u>Demystifying AI Conversational Agents: A Guide to 9 Common Misunderstandings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/digital-detection-delights-explore-4-innovative-ai-mystery-game-experiences-for-aspiring-investigators/"><u>Digital Detection Delights: Explore 4 Innovative AI Mystery Game Experiences for Aspiring Investigators</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-amd-rx-5700-xt-graphics-card-drivers-for-all-windows-versions-111087/"><u>Get the Latest AMD RX 5700 XT Graphics Card Drivers for All Windows Versions (11/10/8/7)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-utilizing-luts-within-adobe-after-effects/"><u>In 2024, Expert Tips for Utilizing LUTs Within Adobe After Effects</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-gta-v-crashes-efficiently/"><u>Troubleshooting Tips: Resolving GTA V Crashes Efficiently</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: GPT's Proficiency with Probability Questions
-date: 2024-11-06T19:07:08.660Z
-updated: 2024-11-12T06:15:11.520Z
+date: 2024-11-21T00:18:05.561Z
+updated: 2024-11-21T16:31:04.825Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Image Input and Output Capabilities](https://www.makeuseof.com/chatgpt-new-features-spring-update/#image-input-and-output-capabilities)
@@ -27,19 +31,6 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
 * [Multi-Modal Voice and Video Interactions](https://www.makeuseof.com/chatgpt-new-features-spring-update/#multi-modal-voice-and-video-interactions)
 * [Upgraded Code Analysis](https://www.makeuseof.com/chatgpt-new-features-spring-update/#upgraded-code-analysis)
 * [Temporary Chat](https://www.makeuseof.com/chatgpt-new-features-spring-update/#temporary-chat)
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -57,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
  Aside from taking images as input, ChatGPT can also generate DALL-E images within the interaction.
@@ -72,15 +56,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
@@ -115,6 +100,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
@@ -124,10 +113,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
@@ -151,17 +137,22 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-ultimate-conversion-handbook-from-gif-to-sticker-across-messaging-services/"><u>[New] In 2024, The Ultimate Conversion Handbook From GIF to Sticker Across Messaging Services</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-seventh-selection-of-aquatic-cameras-for-2024/"><u>[Updated] The Ultimate Seventh Selection of Aquatic Cameras for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-driven-side-businesses-and-pc-optimization/"><u>ChatGPT-Driven Side Businesses & PC Optimization</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-erasing-files-and-directories-via-windows-10s-command-line/"><u>Complete Guide: Erasing Files & Directories via Windows 10'S Command Line</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-and-deploy-8-gpt-alternatives-available-today/"><u>Discover and Deploy: 8 GPT Alternatives Available Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-online-meetings-through-ai-assistance/"><u>Enhancing Online Meetings Through AI Assistance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-nvidias-cutting-edge-ai-initiative-unveiling-the-potential-of-tailorable-generative-technology-services/"><u>Inside NVIDIA's Cutting-Edge AI Initiative: Unveiling the Potential of Tailorable Generative Technology Services</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-productivity-leveraging-chatgpt-as-a-professional-aide/"><u>Maximizing Productivity: Leveraging ChatGPT as a Professional Aide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protect-your-system-why-ai-generated-windows-11-codes-are-not-recommended/"><u>Protect Your System: Why AI-Generated Windows 11 Codes Are Not Recommended</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-accessing-ai-chat-platforms-like-gpt-and-messaging-apps-sans-phone-registration/"><u>Step-by-Step Tutorial: Accessing AI Chat Platforms Like GPT and Messaging Apps Sans Phone Registration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-the-future-of-web-queries-microsofts-bing-evolves-with-advanced-ai/"><u>Transforming the Future of Web Queries: Microsoft's Bing Evolves with Advanced AI</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/op-10-audio-amplifiers-windows-mac-android-and-ios/"><u>[New] Top 10 Audio Amplifiers Windows, Mac, Android & iOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-full-array-of-apps-on-your-iphone-a-guide-to-unhiding-them/"><u>Discover the Full Array of Apps on Your iPhone: A Guide to Unhiding Them</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-comprehensive-guide-and-downloads-for-amd-gpio-interface/"><u>Easy Install: Comprehensive Guide & Downloads for AMD GPIO Interface</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tial-gif-creation-best-tools-reviewed-and-compared-for-2024/"><u>Essential GIF Creation Best Tools Reviewed & Compared for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-do-you-want-to-add-a-motion-blur-effect-in-valorant-read-this-guide-to-find-out-how-to-create-a-motion-blur-effect-in-valorant-without-any-hassle/"><u>In 2024, Do You Want to Add a Motion Blur Effect in Valorant? Read This Guide to Find Out How to Create a Motion Blur Effect in Valorant without Any Hassle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mirage-gpt-modifier-exfiltrates-fb-accounts/"><u>Mirage GPT Modifier: Exfiltrates FB Accounts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rising-against-the-competition-in-depth-analysis-of-the-rog-ally-x-mid-generation-update-and-our-expectations-for-whats-next/"><u>Rising Against the Competition: In-Depth Analysis of the ROG Ally X Mid-Generation Update and Our Expectations for What's Next</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sky-high-creations-professional-tips-for-drone-video-mastery/"><u>Sky High Creations Professional Tips for Drone Video Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-your-pcs-heartbeat-high-cpu-usage-cut-with-resource-monitor/"><u>Taming Your PC's Heartbeat: High CPU Usage Cut with Resource Monitor</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-challenge-can-ai-conquer-human/"><u>The Ultimate Challenge: Can AI Conquer Human?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-data-analysis-with-these-6-techniques-using-chatgpt/"><u>Transform Your Data Analysis with These 6 Techniques Using ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-daily-life-a-guide-to-enhancing-your-lifestyle-with-chatgpt/"><u>Transforming Daily Life: A Guide to Enhancing Your Lifestyle with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-chatgpt-shared-links-functionality-and-usage/"><u>Understanding ChatGPT Shared Links: Functionality & Usage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-power-of-gpt-3-complete-tutorial-for-openai-interface/"><u>Unleashing Power of GPT-3: Complete Tutorial for OpenAI Interface</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-power-of-the-openai-api-exploring-endless-possibilities/"><u>Unveiling the Power of the OpenAI API: Exploring Endless Possibilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/which-ai-takes-the-lead-in-programming-analyzing-chatgpt-against-gemini/"><u>Which AI Takes the Lead in Programming? Analyzing ChatGPT Against Gemini</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/worth-the-price-tag-is-premium-ai-powered-content-creation-effective/"><u>Worth the Price Tag: Is Premium AI-Powered Content Creation Effective?</u></a></li>
 </ul></div>
 

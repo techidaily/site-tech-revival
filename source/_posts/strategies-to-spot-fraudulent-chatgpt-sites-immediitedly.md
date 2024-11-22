@@ -1,7 +1,7 @@
 ---
 title: Strategies to Spot Fraudulent ChatGPT Sites Immediitedly
-date: 2024-11-05T04:59:08.617Z
-updated: 2024-11-12T09:41:26.998Z
+date: 2024-11-14T19:06:19.370Z
+updated: 2024-11-21T17:01:38.120Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,10 @@ Type prompts such as:
 
 ![Screenshot ofChatGPT response to exercise prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-ofchatgpt-response-to-exercise-prompt.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The AI chatbot generates a series of solid workout plans that don’t sound too different from the advice you might get in some of those great[workout apps you’ll stick with for the long haul](https://www.makeuseof.com/best-workout-apps/) .
 
  Although general questions will yield general answers, you can always respond with further prompts. Remember, the more specific your question, the more tailored to your needs the answers are likely to be. It’s definitely worth learning[how to write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) to get the most out of your interaction with the tool.
@@ -64,13 +68,6 @@ Type prompts such as:
 
  However, for general advice and some unusual recipe ideas, you can enjoy seeing what ChatGPT suggests for your next meal.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Use ChatGPT to Help You Develop Wellness Habits
 
  While you can use[ChatGPT for your home productivity routines](https://www.makeuseof.com/use-chatgpt-home-productivity/) , what about personal routines? You can use AI to help you form good habits in practically any aspect of your personal care.
@@ -81,11 +78,19 @@ Type prompts such as:
 
 ![Screenshot of ChatGPT response to forming good sleep habits prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-forming-good-sleep-habits-prompt.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Use ChatGPT for Mindfulness and Meditation
 
  If you like the idea of meditation but not the reality of joining a class or practicing in front of strangers, ChatGPT can prove a great tool for giving you mindfulness and meditation ideas. Depending on your needs, you could ask for techniques for meditation or even phrases to help you to be mindful. For example, the simple prompt, “Provide some ideas for a mindful moment,” gave me excellent practical advice, such as breathing, walking in nature, and mindful eating.
 
 ![Screenshot of ChatGPT response to meditation information prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-meditation-information-prompt.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use ChatGPT for Journaling Prompts
 
@@ -95,29 +100,19 @@ Type prompts such as:
 
 ![Screenshot of ChatGPT response to journaling prompt question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-journaling-prompt-question.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Use ChatGPT as a Medical Symptom Checker
 
  ChatGPT can be used as a virtual symptom checker to help you identify and interpret any health symptoms and provide guidance on your next steps. It can help you decide whether you should seek medical attention and even provide suggestions for self-care measures you may wish to consider first, such as over-the-counter medications.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Use ChatGPT to Get Health Advice
 
  ChatGPT can give you access to a vast range of medical information beyond simply checking symptoms. You can ask specific questions and get advice tailored to your individual health needs. Since this instant database is available free of charge from your own home, without requiring you to make appointments and consult medical experts, it brings the further advantage of relieving strain on medical services.
 
  As the technology and the AI database develops continually, there are many[reasons to consider using ChatGPT for health advice](https://www.makeuseof.com/reasons-consider-using-chatgpt-health-advice/) . Of course, you must verify any health advice provided in this manner, so here’s[how to fact-check health information from ChatGPT and AI sources](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Use ChatGPT to Understand and Manage Medications
 
@@ -130,23 +125,7 @@ Type prompts such as:
 ![Screenshot of ChatGPT response to medication information request](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-medication-information-request.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Use ChatGPT for Mental Health Support
@@ -157,14 +136,11 @@ Type prompts such as:
 
 ![Screenshot of ChatGPT response to mental health question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-mental-health-question.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You must be aware of the limitations of this and all medical interactions with ChatGPT. For all its potential benefits, there are some valid[reasons why you shouldn’t trust ChatGPT for medical advice](https://www.makeuseof.com/reasons-you-shouldnt-trust-chatgpt-medical-advice/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Can Be a Valuable Tool for Health and Wellness
 
@@ -187,24 +163,18 @@ Type prompts such as:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-13-best-ways-to-make-money-on-reddit-no-experience-needed/"><u>[New] In 2024, 13 Best Ways to Make Money on Reddit - No Experience Needed</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-how-to-turn-off-default-recommended-podcast-listings-in-spotify-for-2024/"><u>[Updated] How to Turn Off Default Recommended Podcast Listings in Spotify for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-sonys-bdp-s6700-a-modernized-take-for-2024/"><u>[Updated] Sony's BDP-S6700 A Modernized Take for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-speedy-fixes-for-slow-mo-videos-in-a-flash/"><u>[Updated] Speedy Fixes for Slow-Mo Videos in a Flash</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-deception-recognize-the-scams/"><u>ChatGPT Deception: Recognize the Scams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-windows-app-scam-busted-heres-the-evidence/"><u>ChatGPT Windows App Scam Busted – Here's the Evidence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dall-e-3-enhances-user-experience-with-integrated-edit-tools-yet-refinements-are-needed/"><u>DALL-E 3 Enhances User Experience with Integrated Edit Tools, Yet Refinements Are Needed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-top-benefits-of-snapchats-my-ai-beyond-a-simple-fun-app/"><u>Discover the Top Benefits of Snapchat’s 'My AI': Beyond a Simple Fun App</u></a></li>
-<li><a href="https://fox-http.techidaily.com/elite-soundstage-storytelling-scripts/"><u>Elite Soundstage Storytelling Scripts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/experiencing-mistral-ais-le-chat-a-comparison-with-the-renowned-chatgpt/"><u>Experiencing Mistral AI's Le Chat: A Comparison with the Renowned ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-evolution-of-ai-language-models-spotlighting-the-top-5-contrasts-between-gpt-4-and-gpt-35/"><u>Exploring the Evolution of AI Language Models: Spotlighting the Top 5 Contrasts Between GPT-4 and GPT-3.5</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/hidden-dangers-in-conversing-with-chatgpt/"><u>Hidden Dangers in Conversing With ChatGPT</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-realme-narzo-60-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme Narzo 60 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-vr-experiences-with-newest-game-engines/"><u>In 2024, Revolutionizing VR Experiences with Newest Game Engines</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-top-professional-camera-choices-complete-360-guide-2023/"><u>In 2024, Top Professional Camera Choices - Complete 360 Guide 2023</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-office-policies-potential-consequences-of-using-chatgpt-in-the-workplace/"><u>Navigating Office Policies: Potential Consequences of Using ChatGPT in the Workplace</u></a></li>
-<li><a href="https://common-error.techidaily.com/reappearing-the-disappeared-sound-management-icon-in-windows-10-a-comprehensive-visual-guide/"><u>Reappearing the Disappeared Sound Management Icon in Windows 10: A Comprehensive Visual Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secure-your-ai-chatting-experience-engage-in-confidential-talks-with-duckduckgos-alternative-to-chatgpt/"><u>Secure Your AI Chatting Experience: Engage in Confidential Talks with DuckDuckGo's Alternative to ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-paperclip-maximization-dilemma-in-artificial-intelligence/"><u>Understanding the Paperclip Maximization Dilemma in Artificial Intelligence</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-azure-profile-snapshot-analysis-resolution-codec-timeframe/"><u>[Updated] 2024 Approved AZURE Profile Snapshot Analysis Resolution, Codec, Timeframe</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-affordable-cloud-vaulting-mass-file-saving-made-cheap/"><u>2024 Approved Affordable Cloud Vaulting Mass File Saving Made Cheap</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-brainiacs-guide-to-best-gk-quizzes-online/"><u>2024 Approved Brainiac's Guide to Best GK Quizzes Online</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-leading-cameras-for-automotive-tracking-unveiled/"><u>2024 Approved Leading Cameras for Automotive Tracking Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-meta-versus-omni-the-future-of-digital-worlds/"><u>2024 Approved Meta versus Omni The Future of Digital Worlds</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-mg3600-driver-update-free-download-guide/"><u>Canon MG3600 Driver Update - Free Download Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frontiers-in-extended-realty-engagements-for-2024/"><u>Frontiers in Extended Realty Engagements for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-se-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone SE to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-your-inner-bard-composing-verses-using-chatgpt/"><u>Unleash Your Inner Bard: Composing Verses Using ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-creative-possibsilities-in-board-games-and-art-with-my-gpt-by-leveraging-chatgpt-bots/"><u>Unleashing Creative Possibsilities in Board Games & Art with My GPT by Leveraging ChatGPT Bots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-character-potential-with-gpt-and-visionary-ai-tools/"><u>Unlocking Character Potential with GPT and Visionary AI Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-creativity-top-9-strategies-using-chatgpt-for-your-next-literary-masterpiece/"><u>Unlocking Creativity: Top 9 Strategies Using ChatGPT for Your Next Literary Masterpiece</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-more-potential-with-chatgpt-desktop-a-look-at-its-enhanced-capabilities-compared-to-web-version/"><u>Unlocking More Potential with ChatGPT Desktop: A Look at Its Enhanced Capabilities Compared to Web Version</u></a></li>
 </ul></div>
 

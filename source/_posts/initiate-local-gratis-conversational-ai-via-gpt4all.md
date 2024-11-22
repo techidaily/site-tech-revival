@@ -1,7 +1,7 @@
 ---
 title: Initiate Local, Gratis Conversational AI via GPT4All
-date: 2024-11-04T17:13:35.058Z
-updated: 2024-11-12T05:55:22.680Z
+date: 2024-11-14T17:16:35.786Z
+updated: 2024-11-21T19:48:02.950Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,10 @@ False news can be categorized into three types:
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -53,19 +57,13 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -80,10 +78,7 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -95,10 +90,7 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -141,17 +133,24 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-podcasts-vs-youtube-which-should-you-choose/"><u>[New] Podcasts Vs. YouTube Which Should You Choose?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-youtube-playlist-building-step-by-step-expertise/"><u>2024 Approved YouTube Playlist Building Step-by-Step Expertise</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/beginners-guide-to-free-video-editing-cutting-and-joining-made-simple/"><u>Beginners Guide to Free Video Editing Cutting and Joining Made Simple</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-verse-with-ai-mastering-the-art-of-writing-poetry-using-chatgpt/"><u>Crafting Verse with AI: Mastering the Art of Writing Poetry Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-navigate-and-resolve-4-gpt-3-suspensions/"><u>How to Navigate and Resolve 4 GPT-3 Suspensions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-s18-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo S18 Phone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/kostenloses-software-tool-zum-schutz-und-ubertragen-von-dateien-in-einem-lan-netzwerk/"><u>Kostenloses Software-Tool Zum Schutz Und Übertragen Von Dateien in Einem LAN-Netzwerk</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-claude-2-insights-into-functionality-and-applications/"><u>Mastering Claude 2: Insights Into Functionality and Applications</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/revolutionary-methods-for-ipad-audio-logging/"><u>Revolutionary Methods for iPad Audio Logging</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-chatbots-with-palm-2-7-ways-googles-bard-improves/"><u>Revolutionizing Chatbots with PaLM 2: 7 Ways Google's Bard Improves</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-5-pillars-artificial-intelligences-role-in-criminal-networking/"><u>The 5 Pillars: Artificial Intelligence's Role in Criminal Networking</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-sony-xperia-5-v-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Sony Xperia 5 V Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-avoiding-common-pitfalls-in-drone-battery-choices/"><u>[Updated] 2024 Approved Avoiding Common Pitfalls in Drone Battery Choices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-effortlessly-integrating-obs-into-your-mac-step-by-step-guide/"><u>[Updated] Effortlessly Integrating OBS Into Your Mac Step by Step Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-mastering-the-art-of-haul-video-shopping-showcasing-and-editing/"><u>2024 Approved Mastering the Art of Haul Video Shopping, Showcasing & Editing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-realme-12-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Realme 12 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-the-unsupported-hardware-detected-error-in-idt-packages/"><u>How to Overcome the ‘Unsupported Hardware Detected’ Error in IDT Packages</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-voice-guided-powerpoint-handbook/"><u>In 2024, The Ultimate Voice-Guided PowerPoint Handbook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-future-understanding-artificial-intelligence-and-its-oversight/"><u>Navigating the Future: Understanding Artificial Intelligence and Its Oversight</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/next-level-experience-in-metaverse-with-top-8-accessories/"><u>Next-Level Experience in Metaverse with Top 8 Accessories</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimize-online-communications-privately-with-duckduckgon-ai-conversational-tools-beyond-just-chatgpt/"><u>Optimize Online Communications Privately with DuckDuckGo'n AI Conversational Tools: Beyond Just ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-fear-of-technology-8-key-motivations-for-teachers-to-embrace-artifice-intelligence/"><u>Overcoming Fear of Technology: 8 Key Motivations for Teachers to Embrace Artifice Intelligence</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/secrets-unveiled-best-practices-for-recording-roblox-games-on-a-mac/"><u>Secrets Unveiled Best Practices for Recording Roblox Games on a Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ai-debate-deep-dive-10-crucial-chatbot-comparisons-between-gpt-and-bingbot/"><u>The AI Debate Deep Dive: 10 Crucial Chatbot Comparisons Between GPT and BingBot</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-commoners-choice-claudio-or-generative-pre-trained/"><u>The Commoner's Choice: Claudio or Generative Pre-Trained?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-definitive-2024-solutions-to-overcome-pairing-problems-with-bluetooth-on-windows-11/"><u>The Definitive 2024 Solutions to Overcome Pairing Problems with Bluetooth on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-quintessential-pick-of-5-outstanding-artifice-intelligence-prompt-formulators-to-elevate-any-ai-utility/"><u>The Quintessential Pick of 5 Outstanding Artifice Intelligence Prompt Formulators to Elevate Any AI Utility</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-leveraging-chatgpt-for-unmatched-dungeon-master-support/"><u>The Ultimate Guide to Leveraging ChatGPT for Unmatched Dungeon Master Support</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-managing-chatgpt-interactions-using-folders/"><u>The Ultimate Guide to Managing ChatGPT Interactions Using Folders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-effective-substitutes-for-chatgpt/"><u>Top 10 Effective Substitutes for ChatGPT</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/your-personal-igtv-channel-guide-for-inspiration/"><u>Your Personal IGTV Channel Guide for Inspiration</u></a></li>
 </ul></div>
 

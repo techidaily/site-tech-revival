@@ -1,7 +1,7 @@
 ---
 title: Engage and Guide GPT With a Simple Voice-Command Mix
-date: 2024-11-07T03:50:08.417Z
-updated: 2024-11-11T22:51:11.828Z
+date: 2024-11-15T18:48:30.324Z
+updated: 2024-11-21T21:17:04.907Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/3b3746640fe26afab367eb3d6989fbedd82bfd022
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -59,24 +63,18 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/0-youtube-video-ideas-for-sharing-your-personal-story/"><u>[New] 10 YouTube Video Ideas for Sharing Your Personal Story</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-tips-to-shield-your-viewing-experience-from-unwanted-ads/"><u>[New] In 2024, Tips to Shield Your Viewing Experience From Unwanted Ads</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-master-classroom-optimal-video-edits-on-vimeo-for-2024/"><u>[Updated] Master Classroom Optimal Video Edits on Vimeo for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-simulating-spatial-jumps-visual-effect-techniques/"><u>[Updated] Simulating Spatial Jumps Visual Effect Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030153363-3gpmovwav/"><u>3GP形式をMOV/WAVに簡単変換ガイド</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/enhanced-gui-designs-for-advanced-installation-software/"><u>Enhanced GUI Designs for Advanced Installation Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oppo-f23-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Oppo F23 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726029614184-pcdvd/"><u>PCでの市販DVDコピー手順 - ダウンロードから簡単ガイド</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-pc-reset-issue-a-step-by-step-guide/"><u>Solving the 'PC Reset Issue': A Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-seven-less-admired-aspects-of-handheld-games/"><u>Unveiling Seven Less-Admired Aspects of Handheld Games</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44kq44o844oh44kj44kq44oi44op44ow44or6kej5rg677yb44km44kp44o844kv44oe44oz44gn6zplusz5qw944o744ot44oh44kq5yan55sf44gu5zwp6agm44gm44gq44gp44gq44kl5pa55rov6zug.38/"><u>オーディオトラブル解決！ウォークマンで音楽・ビデオ再生の問題がなくなる方法集</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44k344ki44k44o844oi44o844oj44gn5yuv55s76kiy6yyy5qmf6io944ks5l255so44gx44gm5pig5yop44ks44kt44oj44ox44ob44oj44gz44kl5pa55rov/"><u>シアターモードで動画記録機能を使用して映像をキャプチャする方法</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-unveiling-the-most-shared-stock-photos-and-backstories/"><u>[New] In 2024, Unveiling the Most Shared Stock Photos & Backstories</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-engage-more-with-facebook-sharing-panoramic-photos-via-iosandroid-apps/"><u>[Updated] Engage More with Facebook Sharing Panoramic Photos via iOS/Android Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726028972768-youtube/"><u>音声抽出できるYouTube動画へのガイド</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/corrective-measures-for-inaccurate-cpu-display-on-windows-pc/"><u>Corrective Measures for Inaccurate CPU Display on Windows PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-vanished-desktop-shortcuts-on-windows-10-a-step-by-step-solution/"><u>Fixing Vanished Desktop Shortcuts on Windows 10: A Step-by-Step Solution</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-finding-the-perfect-dj-template-video-download-for-your-events/"><u>In 2024, Finding the Perfect DJ Template Video Download for Your Events</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pinterest-content-powered-free-high-speed-download-apps-reviewed/"><u>In 2024, Pinterest Content Powered Free, High-Speed Download Apps Reviewed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722213266420-open-source-replacement-for-chatgpt-desktop-awaits-your-next-must-have-tool/"><u>Open Source Replacement for ChatGPT Desktop Awaits: Your Next Must-Have Tool!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/l-your-youtube-presence-with-google-analytics-skills-for-2024/"><u>Propel Your YouTube Presence with Google Analytics Skills for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ultimate-list-action-cameras-ideal-mics-for-2024/"><u>Ultimate List Action Camera's Ideal Mics for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unpacking-the-importance-of-stricter-ai-laws-as-urged-by-the-leader-of-openai/"><u>Unpacking the Importance of Stricter AI Laws as Urged by the Leader of OpenAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-the-mechanics-of-predictive-ai-technology/"><u>Unraveling the Mechanics of Predictive AI Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-primary-motives-for-organizations-disallowing-chatgpt/"><u>Unveiling the Primary Motives for Organizations Disallowing ChatGPT</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

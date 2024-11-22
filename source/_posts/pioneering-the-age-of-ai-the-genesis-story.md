@@ -1,7 +1,7 @@
 ---
 title: "Pioneering the Age of AI: The Genesis Story"
-date: 2024-11-11T09:51:32.325Z
-updated: 2024-11-11T21:23:57.870Z
+date: 2024-11-19T21:38:08.634Z
+updated: 2024-11-21T17:49:08.108Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is ChatGPT?
 
 ![artificial intelligence brain connected to human being](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-4389372_1920-1.jpg)
@@ -29,10 +33,7 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do People Use ChatGPT?
@@ -47,22 +48,12 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 
  These examples might make you think there’s[no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/) . However, that’s not an accurate assumption.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will ChatGPT Replace Programmers?
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
@@ -80,10 +71,7 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some[criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) , ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Will ChatGPT Replace Other Jobs?
@@ -95,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
  There’s also an interesting Twitter thread where ChatGPT impressed by helping to diagnose a type of heart disease. However, others replied that the chatbot is good at faking expertise and provided several possible diagnoses. Someone with genuine medical expertise must review the responses and use their knowledge to gauge the chatbot’s accuracy.
 
  Elsewhere, people are explicitly[formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and[spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Deserves Caution
 
@@ -115,18 +107,15 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-protect-your-live-streams-the-periscope-video-howto/"><u>[New] Protect Your Live Streams The Periscope Video HowTo</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-the-essential-steps-for-forming-a-facebook-profile/"><u>[New] The Essential Steps for Forming a Facebook Profile</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44cm44kk44oz44k544k44kw44op44og44oq44o844or5yuv55s744gu44oa44km44oz44ot44o844oj5pa55rov77ya44oi44od44ox77ys44og44kv44ol44od44kv44cn/"><u>「インスタグラムリール動画のダウンロード方法：トップ２テクニック」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44cm44ot44oh44kq44o744of44ol44o844k444od44kv55so6kqe44ks44kk44oj44cn/"><u>「ビデオ・ミュージック用語ガイド」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5yuv55s75yaf44gu44kq44o844oh44kj44kq44ks5yplusw44kk5ye644gb44kl44km44kn44ow44oe44o844or57s55lul/"><u>動画内のオーディオを取り出せるウェブツール紹介</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-vs-manual-techniques-upgrading-your-videos-from-hd-720p-to-ultra-hd-quality-4k/"><u>AI Vs. Manual Techniques: Upgrading Your Videos From HD (720P) to Ultra HD Quality (4K)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-obs-editing-software-how-to-remove-watermarks-from-your-recordings/"><u>Best OBS Editing Software - How to Remove Watermarks From Your Recordings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-places-to-enjoy-anime-on-ps4-discover-the-ultimate-list-of-9-options/"><u>Best Places to Enjoy Anime on PS4: Discover the Ultimate List of 9 Options!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-side-gigs-pc-building-tips-and-retro-handhelds/"><u>ChatGPT Side Gigs, PC Building Tips, and Retro Handhelds</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/easy-movie-conversion-tools-for-macwindows-users-to-save-movies-in-various-formats-like-mp4-mov-avi/"><u>Easy Movie Conversion Tools for Mac/Windows Users to Save Movies in Various Formats Like MP4, MOV, AVI</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transforming-your-pdf-documents-with-ease-explore-3-user-friendly-approaches/"><u>Transforming Your PDF Documents with Ease: Explore 3 User-Friendly Approaches</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/zdnets-choice-of-leading-mac-system-cleaners-for-2amd-efficient-performance-enhancement-best-picks/"><u>ZDNet's Choice of Leading Mac System Cleaners for 2Amd Efficient Performance Enhancement | Best Picks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-essential-tips-for-ppt-screen-capture/"><u>[New] In 2024, Essential Tips for PPT Screen Capture</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-social-media-synergy-connecting-twitch-streams-with-fb/"><u>[Updated] 2024 Approved Social Media Synergy Connecting Twitch Streams with FB</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-why-snapchats-my-ai-is-revolutionary/"><u>Discovering Why Snapchat's My AI Is Revolutionary</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/does-etiquette-matter-when-communicating-with-ai-personalities-like-chatgpt-amazon-alexa-or-apples-siri/"><u>Does Etiquette Matter When Communicating with AI Personalities Like ChatGPT, Amazon Alexa, or Apple's Siri?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dont-get-duped-discover-the-9-sham-chatgpt-malware-programs-likely-to-hijack-your-data/"><u>Don't Get Duped! Discover The 9 Sham ChatGPT Malware Programs Likely to Hijack Your Data</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-employment-search-the-ultimate-6-step-guide-with-chatgpt/"><u>Elevate Your Employment Search: The Ultimate 6-Step Guide with ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-address-the-loadlibrary-error-code-87-on-pcs/"><u>How to Address the LoadLibrary Error Code 87 on PCs</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-pro-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 15 Pro Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-infinix-smart-7-hd-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Infinix Smart 7 HD?</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/top-11-youtube-intro-programs-expert-guide-by-movavi/"><u>Top 11 YouTube Intro Programs - Expert Guide by Movavi</u></a></li>
 </ul></div>
 

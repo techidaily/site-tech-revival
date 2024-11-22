@@ -1,7 +1,7 @@
 ---
 title: Discover the Best ChatGPT Plugins for Superior AI Prompts and Responses on Chrome
-date: 2024-11-11T00:46:57.647Z
-updated: 2024-11-12T03:26:59.907Z
+date: 2024-11-15T22:23:43.350Z
+updated: 2024-11-21T19:07:11.275Z
 tags:
   - chatgpt
   - open-ai
@@ -40,23 +40,9 @@ It was also stated in the same report that:
 
  It seems the continued adoption and development of AI will pose a threat to our cybersecurity, though the degree to which it affects us is yet to be seen.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Increased Digital Supply Chain Attacks
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
 
@@ -65,22 +51,12 @@ It was also stated in the same report that:
  According to[Cybersecurity Hub](https://www.cshub.com/events-supply-chain-threats) , the number of supply chain attacks has risen by 74 percent over the past three years. The site also reported that it takes an average of 287 days to detect a supply chain attack, giving malicious actors plenty of time to steal data or disrupt services. In 2024, we may see this increase in supply chain attacks continue, or even evolve in sophistication.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Further Adoption of Zero-Trust Systems
 
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Zero-trust systems do not rely on any user or group of users to authenticate, monitor, or store data. Additionally, every user present in a zero-trust system must authorize access to a new user, otherwise the system remains off-limits to that individual. In short, a zero-trust system is designed not to trust any one individual. All users are assumed untrustworthy unless authentication is provided by other users.
 
@@ -100,6 +76,10 @@ It was also stated in the same report that:
 
  This is just one of the numerous[types of EV hacks](https://www.makeuseof.com/can-electric-vehicles-be-hacked/) that are possible. In order to avoid this, EV manufacturers need to thoroughly vet their software to ensure vulnerabilities aren't being left behind in the code.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Improved Smart Home and IoT Security
 
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
@@ -116,6 +96,10 @@ It was also stated in the same report that:
 
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.
 
  While cloud platforms are undeniably a convenient storage option, one's ability to access data anywhere with the correct credentials creates a problem. If a hacker manages to access someone's account, they can then look at any data stored on said account—work documents, ID photos, photos and videos, financial information, or anything else.
@@ -123,10 +107,7 @@ It was also stated in the same report that:
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Continued Topical Email Scams
@@ -138,6 +119,10 @@ It was also stated in the same report that:
  For instance, a scammer may email a potential victim claiming to be a representative for a charity. They provide a link to a donation page so that the recipient can provide some money for the cause. But in reality, the charity is either make-believe, or the sender is impersonating an employee from a well known charitable organization. The scammer may be looking for a one-off payment, but they could also be providing a link to a phishing site designed to steal the victim's payment details. Either way, the recipient ends up losing out.
 
  As we continue to see more conflicts, tragedies, and scandals arise, there's no doubt that cybercriminals will continue to try and profit from other people's hardships.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Each Year Brings New Cybersecurity Threats
 
@@ -158,16 +143,19 @@ It was also stated in the same report that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-infographic-top-insights-into-fifa-football-videos-on-youtube/"><u>[Updated] In 2024, Infographic - Top Insights Into FIFA Football Videos On YouTube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/55sf5psplus6ycb44gu5yuv55s76kiy6yyy77yg57at5oyb44gu5luv5pa56kmz44gx44gp6kej6kqs44gz44kl/"><u>生放送の動画記録＆維持の仕方詳しく解説する</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-free-video-merging-apps-and-websites-top-10-picks/"><u>Best Free Video Merging Apps & Websites: Top 10 Picks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-amr-audio-files-to-mp3-top-4-methods-for-all-devices/"><u>Convert AMR Audio Files to MP3: Top 4 Methods for All Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-avi-to-mp4-a-simple-guide-for-windows-and-macos-users-unveiling-5-methods/"><u>Convert AVI to MP4: A Simple Guide for Windows & macOS Users - Unveiling 5 Methods</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-tecno-phantom-v-flip-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Tecno Phantom V Flip to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-mastering-video-creation-our-picks-for-the-top-12-flip-screen-cams/"><u>In 2024, Mastering Video Creation Our Picks for the Top 12 Flip-Screen Cams</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/iphone-expertise-crafting-time-lapse-photos-for-2024/"><u>IPhone Expertise Crafting Time-Lapse Photos for 2024</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-edge-2023-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Edge 2023 password or pattern lock</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-best-movie-trailer-makers-for-mac-and-windows-for-2024/"><u>Updated Best Movie Trailer Makers for Mac and Windows for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44k544ou44o844kr44o844gu6zplusz44ks5q2j56k644gr6kiy6yyy44gz44kl5bcc6zaa55qe44gq5oqa6kgt/"><u>スピーカーの音を正確に記録する専門的な技術</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sky-gazers-rejoice-discovering-the-elevation-expertise-of-dji-spark/"><u>[New] Sky Gazers Rejoice! Discovering the Elevation Expertise of DJI Spark</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-compile-presentation-asset-to-video/"><u>[Updated] 2024 Approved Compile Presentation Asset to Video</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-gaming-on-record-the-pros-perspective-for-2024/"><u>[Updated] Gaming on Record The Pro's Perspective for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unlock-creativity-the-best-collection-of-free-slide-show-patterns/"><u>[Updated] Unlock Creativity The Best Collection of Free Slide Show Patterns</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-orbital-design-kit/"><u>2024 Approved Orbital Design Kit</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-csrssexe-essential-info-on-the-client-server-runtime-process-for-your-pc-security/"><u>Decoding CSRSS.exe: Essential Info on the Client-Server Runtime Process for Your PC Security</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-7-outstanding-replacements-for-openais-popular-chatgpt-on-mobile-devices/"><u>Discover 7 Outstanding Replacements for OpenAI's Popular ChatGPT on Mobile Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-latest-bard-ai-enhancements-revealed-at-google-io-2023-the-ultimate-list-of-7-features/"><u>Discover the Latest BARD AI Enhancements Revealed at Google I/O 2023: The Ultimate List of 7 Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhanced-capabilities-exploring-how-the-chatgpt-desktop-version-surpasses-the-online-interface/"><u>Enhanced Capabilities: Exploring How the ChatGPT Desktop Version Surpasses the Online Interface</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-empathy-skills-using-chatgpt-effective-strategies-explored/"><u>Enhancing Empathy Skills Using ChatGPT: Effective Strategies Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-writing-with-8-smart-ai-tools-for-authors/"><u>Enhancing Writing with 8 Smart AI Tools for Authors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-a-neural-network-model-inversion-attack-expose-your-chatbots-secrets/"><u>How Does a Neural Network Model Inversion Attack Expose Your Chatbot's Secrets?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-7-cameras-unbeatable-in-underwater-shooting/"><u>In 2024, Prime 7 Cameras Unbeatable In Underwater Shooting</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-honor-play-40c-by-fonelab-android-recover-music/"><u>Undelete lost music from Honor Play 40C</u></a></li>
 </ul></div>
 

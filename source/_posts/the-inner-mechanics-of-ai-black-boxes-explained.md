@@ -1,7 +1,7 @@
 ---
 title: The Inner Mechanics of AI Black Boxes Explained
-date: 2024-11-05T19:26:56.016Z
-updated: 2024-11-12T09:40:42.121Z
+date: 2024-11-20T20:07:18.333Z
+updated: 2024-11-22T00:08:41.158Z
 tags:
   - chatgpt
   - open-ai
@@ -48,10 +48,7 @@ Close
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2.[Oregon Trail](https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail)
@@ -64,6 +61,10 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -73,10 +74,7 @@ Close
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
@@ -98,10 +96,7 @@ Close
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
@@ -117,10 +112,7 @@ Close
  Still, if you're into idle games and want to try something different, it could be worth a try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
@@ -152,21 +144,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-leading-free-console-reproduction-devices-for-2024/"><u>[Updated] Leading Free Console Reproduction Devices for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-android-facetime-a-step-by-step-guide-for-2024/"><u>[Updated] Mastering Android FaceTime A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-calmly-quieten-your-computers-audio-output/"><u>2024 Approved Calmly Quieten Your Computer's Audio Output</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-samsung-galaxy-a23-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Samsung Galaxy A23 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/android-and-ios-tips-for-optimal-chatgpt-use/"><u>Android & iOS Tips for Optimal ChatGPT Use</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chronicle-of-innovation-the-dawn-of-artificial-intelligence-an-historical-overview/"><u>Chronicle of Innovation: The Dawn of Artificial Intelligence – An Historical Overview</u></a></li>
-<li><a href="https://fox-within.techidaily.com/creating-protected-pdfs-with-watermarks-in-flipbook-a-step-by-step-guide/"><u>Creating Protected PDFs with Watermarks in FlipBook - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-meditation-with-chatgpt-suggestions/"><u>Enhancing Meditation With ChatGPT Suggestions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-restrictions-7-reasons-behind-the-ineffectiveness-of-current-chatgpt-jailbreaking-tactics/"><u>Exploring Restrictions: 7 Reasons Behind the Ineffectiveness of Current ChatGPT Jailbreaking Tactics</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/gratuit-waardevolle-formateerde-partitie-samenstellen-voor-windows-11-8-en-7/"><u>Gratuit Waardevolle Formateerde Partitie Samenstellen Voor Windows 11, 8, en 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-solve-game-crashes-in-minecraft-due-to-outdated-or-corrupted-video-card-drivers-windows/"><u>How to Solve Game Crashes in Minecraft Due to Outdated or Corrupted Video Card Drivers (Windows)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g42-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Nokia G42 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-motorola-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Motorola</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-conversations-into-content-choices/"><u>Transforming Conversations Into Content Choices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/triad-tactics-for-chatgpts-coexistence-with-wolframalpha/"><u>Triad Tactics for ChatGPT's Coexistence with WolframAlpha</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/whos-listening-unraveling-the-mysteries-behind-the-dead-internet-phenomenon/"><u>Who's Listening? Unraveling the Mysteries Behind the 'Dead Internet' Phenomenon</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-rapid-reader-advanced-windows-photoshop/"><u>[Updated] 2024 Approved Rapid Reader - Advanced Windows Photoshop</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-64gb-ideal-for-light-video-content/"><u>[Updated] In 2024, 64Gb Ideal for Light Video Content?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimal-sound-settings-win/"><u>[Updated] Optimal Sound Settings WIN</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728501725598-onedrive/"><u>如何在OneDrive上完成数据恢复：精准操作方法解析</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/create-stunning-images-with-dall-e-t-how-to-leverage-it-for-free-on-bing/"><u>Create Stunning Images with DALL-E T: How to Leverage It for Free on Bing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-email-game-5-free-ai-assistants-to-master-professional-writing-with-chatgpt-and-instant-email-summaries/"><u>Elevate Your Email Game: 5 Free AI Assistants to Master Professional Writing With ChatGPT & Instant Email Summaries</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exceeding-the-bounds-of-chatgpt-tokens-techniques-and-considerations/"><u>Exceeding the Bounds of ChatGPT Tokens: Techniques and Considerations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/four-ways-artificial-intelligence-transforms-academic-research-efficiency/"><u>Four Ways Artificial Intelligence Transforms Academic Research Efficiency</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-t2-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo T2 5G Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-lava-yuva-3-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Lava Yuva 3 Pro for Streaming | Dr.fone</u></a></li>
 </ul></div>
 

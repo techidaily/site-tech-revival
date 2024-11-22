@@ -1,7 +1,7 @@
 ---
 title: "Peeling Back Layers in AI Security: How Do Prompt Injections Work?"
-date: 2024-11-10T06:20:27.521Z
-updated: 2024-11-11T20:29:25.349Z
+date: 2024-11-15T22:25:30.055Z
+updated: 2024-11-21T18:26:50.153Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [More Access to GPT-4o](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#more-access-to-gpt-4o)
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 * [Generate Images With DALL-E](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#generate-images-with-dall-e)
 * [Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#get-early-access-to-chatgpt-voice-mode-and-the-chatgpt-desktop-app)
 * [Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#full-access-to-advanced-data-analysis-file-uploads-vision-and-web-browsing)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -68,10 +76,7 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
  You must have a Plus subscription to create custom GPTs. Paying will let you[build a custom GPT with your own data](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) and documents, which can then be shared with friends and colleagues or published freely on the marketplace.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Generate Images With DALL-E
@@ -79,10 +84,7 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
@@ -99,28 +101,12 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
  OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
 ![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Advanced data analysis, file uploads, vision, and web browsing were once features exclusive to OpenAI's paying customers. That has now changed, and all of these are available to Free users but with more limits. The limits include fewer prompts, fewer file uploads, and lower priority access to these services during peak hours.
@@ -146,22 +132,19 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-eco-editing-tools-no-charge/"><u>[Updated] Eco Editing Tools No Charge</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unlock-new-dimensions-of-your-missing-iphone-x/"><u>[Updated] Unlock New Dimensions of Your Missing iPhone X</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mpgmp33/"><u>無料で簡単な曲変換! MPG形式をMP3にする上位3選手</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722965143168-how-to-download-and-install-drivers-on-your-hp-envy-laptop-effortless-guide/"><u>How to Download & Install Drivers on Your HP ENVY Laptop | Effortless Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-leading-plot-coders-space/"><u>In 2024, Leading Plot Coders Space</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-oneplus-11r-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For OnePlus 11R</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/introducing-the-revolutionary-self-design-feature-customizing-your-own-moto-x-smartphone/"><u>Introducing the Revolutionary Self-Design Feature: Customizing Your Own Moto X Smartphone!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-square-video-edits-a-complete-walkthrough-for-windows-11-users/"><u>Mastering the Art of Square Video Edits: A Complete Walkthrough for Windows 11 Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp3-versus-mp4/"><u>MP3 versus MP4 - 違いとフォーマット間で変換する手順</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/partial-screenshot-capture-in-windows-10-and-11-a-step-by-step-guide/"><u>Partial Screenshot Capture in Windows 10 & 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolving-looms-desktop-application-and-chrome-extension-issues-a-comprehensive-guide/"><u>Resolving Loom's Desktop Application & Chrome Extension Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-hdx-format-support-on-your-phone-expert-tips-for-optimizing-media-experience-on-android-devices/"><u>Seamless HDX Format Support on Your Phone: Expert Tips for Optimizing Media Experience on Android Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secure-your-favorite-pbs-show-get-them-for-free-with-our-leading-techniques/"><u>Secure Your Favorite PBS Show - Get Them For Free With Our Leading Techniques</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/soaring-sights-dissecting-the-gopro-karma-drones-features-for-2024/"><u>Soaring Sights Dissecting the GoPro Karma Drone's Features for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-steps-overcoming-the-google-chrome-doesnt-launch-issue/"><u>Solution Steps: Overcoming the 'Google Chrome Doesn't Launch' Issue</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-icloud-backup-failures-discover-9-handy-fixes/"><u>Troubleshooting iPhone iCloud Backup Failures: Discover 9 Handy Fixes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-resource-list-open-source-imagery-sanctuary/"><u>[New] Ultimate Resource List Open-Source Imagery Sanctuary</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-ways-to-screen-record-on-android/"><u>[Updated] 2024 Approved Best Ways to Screen Record on Android</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-optimal-srt-tweaks-elevating-your-computing-for-2024/"><u>[Updated] Optimal SRT Tweaks Elevating Your Computing for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-entertainment-top-6-ways-snapchats-my-ai-transforms-your-experience/"><u>Beyond Entertainment: Top 6 Ways Snapchat's My AI Transforms Your Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/blocking-access-from-robotic-scrappers-how-to-shield-your-site-from-openai-bots/"><u>Blocking Access From Robotic Scrappers: How to Shield Your Site From OpenAI Bots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-ai-revolutionize-fortune-telling-with-chatgpts-predictive-abilities/"><u>Can AI Revolutionize Fortune Telling with ChatGPT's Predictive Abilities?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-we-depend-on-chatgpts-answers-exploring-the-ais-truthfulness-and-reliability/"><u>Can We Depend on ChatGPT's Answers? Exploring the AI’s Truthfulness and Reliability</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-plugin-sync-troubles-how-to-overcome-connection-errors/"><u>ChatGPT Plugin Sync Troubles: How to Overcome Connection Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-your-champion-a-side-by-side-evaluation-of-chatgpt-plus-vs-perplex3-in-the-ai-chatbot-arena/"><u>Choosing Your Champion: A Side-by-Side Evaluation of ChatGPT Plus Vs. Perplex^3 in the AI Chatbot Arena</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/evaluating-inshot-is-it-truly-top-notch/"><u>Evaluating InShot Is It Truly Top-Notch?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/professional-shutter-sense-the-prime-6-4k-dslr-selections/"><u>Professional Shutter Sense The Prime 6 4K DSLR Selections</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1725285273048-winxdvd-digiarty/"><u>WinXDVD 対応 Digiarty ソフトウェア・問い合わせ内訳 - 最新情報をお見せします</u></a></li>
 </ul></div>
 

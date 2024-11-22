@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Implementing and Operating Plug-Ins for ChatGPT"
-date: 2024-11-11T07:32:56.989Z
-updated: 2024-11-12T07:01:54.993Z
+date: 2024-11-17T18:39:18.320Z
+updated: 2024-11-21T16:55:44.040Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is HuggingChat?
 
@@ -47,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 ![Screenshot of HuggingChat confirming an account is required](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-confirming-an-account-is-required.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, we used it with an account and without any problems. If this changes, or you'd prefer to set up an account, it is free, and you can sign up on[HuggingFace](https://huggingface.co/join) .
@@ -58,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
  The tools have remarkably similar interfaces, as the bulk of these tools do. Simplicity is the key to AI chatbots, and both tools have a simple input box to allow you to enter prompts, which is about it. However, learning[prompting techniques can help improve response quality](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) .
 
  Next, we will look at other metrics and capabilities and compare the responses.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Large Language Models (LLMs)
 
@@ -79,16 +73,13 @@ As you can see, HuggingChat answered this easily.
 
 ![Screenshot of HuggingChat answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-answering-baseball-question.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
 ![Screenshot of ChatGPT answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-answering-baseball-question.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summarizing Articles
 
@@ -97,13 +88,6 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
  Both tools managed this with the ChatGPT response edging it in quality as it summarized the tools mentioned in the article.
 
 ![Screenshot of ChatGPt summary with URL of article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summary-with-url-of-article.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The HuggingChat response wasn't bad but lacked some of the detail covered by ChatGPT.
 
@@ -121,6 +105,10 @@ HuggingChat's summary looked like this:
 
  There isn't much difference between the two tools here, so let's see how they compare when we test them for creativity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## HuggingChat vs. ChatGPT: How Do They Compare Creatively?
 
  Although surrounded by controversy, the ability to create creative works is perhaps one of the most useful aspects of AI chatbots. However, we will sidestep the moral and ethical implications and put the tools head-to-head in a creative clash of the chatbots.
@@ -131,25 +119,15 @@ HuggingChat's summary looked like this:
 
 ![Screenshot of ChatGPT lovesong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-lovesong.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And this was HuggingChat's.
 
 ![Screenshot HuggingChat love song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-huggingchat-love-song.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Shakespeare himself would be impressed with both of these!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Security and Privacy
 
@@ -162,6 +140,10 @@ Shakespeare himself would be impressed with both of these!
 * **Cybersecurity vulnerabilities** : ChatGPT is a complex system that may contain cybersecurity vulnerabilities that can be exploited by attackers.
 
  One thing to note is that HuggingChat seems to work fine with an account. This is useful if you want to minimize the privacy risks associated with the platforms.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Is Best: HuggingChat or ChatGPT?
 
@@ -198,18 +180,19 @@ Shakespeare himself would be impressed with both of these!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-ultimate-precision-machines-best-of-the-series/"><u>[New] Ultimate Precision Machines - Best of the Series</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-your-world-maccam-techniques-unveiled-for-2024/"><u>[Updated] Capturing Your World MacCam Techniques Unveiled for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-unchanged-rejecting-dumbness-claims/"><u>ChatGPT Unchanged: Rejecting Dumbness Claims</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-repair-pathway-for-usb-mtp-devices/"><u>Easy Repair Pathway for USB MTP Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-to-ensure-privacy-how-not-to-let-chatgpt-remember-our-talks/"><u>Guide to Ensure Privacy: How Not to Let ChatGPT Remember Our Talks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/linear-bavarder-procedure-on-a-linux-device/"><u>Linear Bavarder Procedure on a Linux Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/redefining-information-retrieval-experience-next-level-searches-with-microsoft-bing-and-ai-integration/"><u>Redefining Information Retrieval: Experience Next-Level Searches with Microsoft Bing and AI Integration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/romantic-betrayals-and-tech-crime-understanding-the-role-of-ai-in-love-hoaxes-a-closer-look-at-7-tactics/"><u>Romantic Betrayals & Tech Crime: Understanding the Role of AI in Love Hoaxes - A Closer Look at 7 Tactics</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sensation/"><u>Sensation</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-correct-write-file-access-problem-on-pcs/"><u>Steps to Correct Write File Access Problem on PCs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-how-ai-manipulates-paperclip-efficiency/"><u>Understanding How AI Manipulates Paperclip Efficiency</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unleash-creativity-without-breaking-the-bank-top-9-affordable-editors-for-2024/"><u>Unleash Creativity Without Breaking the Bank - Top 9 Affordable Editors for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/win-friendly-free-software-optimal-and-safe-options/"><u>Win-Friendly Free Software: Optimal and Safe Options</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-digital-image-editing-simplified-mastering-the-art-of-cropping/"><u>[New] Digital Image Editing Simplified Mastering the Art of Cropping</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-navigate-with-ease-a-guide-to-effective-screen-casting-in-meet/"><u>[New] In 2024, Navigate with Ease A Guide to Effective Screen Casting in Meet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-video-editing-revolutionized-intense-examination-of-vivacut-24/"><u>[Updated] In 2024, Video Editing Revolutionized Intense Examination of VivaCut '24</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-social-network-harmony-integrating-instagram-and-facebook/"><u>2024 Approved Social Network Harmony Integrating Instagram & Facebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-resolved-print-spooler-service-failure-on-32-bit-software-fixed/"><u>Error Resolved: 'Print Spooler Service' Failure on 32-Bit Software Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-persistent-start-up-issues-when-shutting-down-your-pc-with-windows-11/"><u>Fixing Persistent Start-Up Issues when Shutting Down Your PC with Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/google-bard-versus-bing-chat-the-ultimate-showdown-in-ai-assistants/"><u>Google Bard Versus Bing Chat: The Ultimate Showdown in AI Assistants</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-and-why-italy-enacted-an-instantaneous-ban-on-chatgpt-services/"><u>How and Why Italy Enacted an Instantaneous Ban on ChatGPT Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-seamlessly-integrate-microsoft-copilot-on-a-macbook-pro/"><u>How to Seamlessly Integrate Microsoft Copilot on a MacBook Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/intellectual-frontier-can-computers-triumph/"><u>Intellectual Frontier: Can Computers Triumph?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/interactive-guide-to-chatgpts-shared-link-system/"><u>Interactive Guide to ChatGPT's Shared Link System</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/syncing-youtube-audio-to-film-compositions-for-2024/"><u>Syncing YouTube Audio to Film Compositions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-rise-of-autonomous-computing-with-windows/"><u>The Rise of Autonomous Computing with Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-iphone-photography-playbook-prime-angles-uncovered-for-2024/"><u>The Ultimate iPhone Photography Playbook Prime Angles Uncovered for 2024</u></a></li>
 </ul></div>
 

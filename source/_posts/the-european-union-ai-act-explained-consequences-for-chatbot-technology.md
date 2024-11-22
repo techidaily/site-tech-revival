@@ -1,7 +1,7 @@
 ---
 title: "The European Union AI Act Explained: Consequences for Chatbot Technology"
-date: 2024-11-10T18:20:06.660Z
-updated: 2024-11-12T08:01:29.384Z
+date: 2024-11-15T01:13:06.005Z
+updated: 2024-11-21T17:20:57.942Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,7 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
  However, it's important to understand[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) so that you can use it efficiently. By having a better understanding of how it was created and trained and how it generates responses, you will be able to make the most of it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Hasn't ChatGPT Affected the Search Engines So Far?
@@ -57,18 +54,15 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 
  Therefore, processing real-time information is the first significant hurdle ChatGPT needs to overcome to compete directly with search engines.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. ChatGPT Can Generate Incorrect Response
 
  Despite being AI-driven, ChatGPT often gives inaccurate responses. OpenAI, the parent company of ChatGPT, admits that the chatbot sometimes generates inaccurate answers. The company has listed this shortcoming as one of the limitations of its product on its official blog.
 
 ![ChatGPT Saying It Can Also Generate Wrong Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-also-generate-wrong-answers-and-explains-why-it-does-so.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. ChatGPT Is Less Credible
 
@@ -78,19 +72,14 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 
 ![ChatGPT  Saying It Can't Add References](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-add-references.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can[sign up and start using ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) in just a few minutes. If you haven't tried it yet, take advantage of it to enhance your productivity. Although ChatGPT isn't ready to disrupt the search engine industry just yet, does it have the potential to do so in the future?
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT Capable of Disrupting Search Engines in the Future?
@@ -122,10 +111,7 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 ![ChatGPT Saying It Can't Generate Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-generate-images.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Let ChatGPT Evolve
@@ -151,21 +137,14 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-lightweightscreencapture-no-fuss-just-fun/"><u>[New] 2024 Approved LightweightScreenCapture - No Fuss, Just Fun</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-advanced-hd-screen-documentation-gadgets/"><u>[Updated] 2024 Approved Advanced HD Screen Documentation Gadgets</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-pioneering-desktop-livestreams-with-tiktoks-features/"><u>[Updated] 2024 Approved Pioneering Desktop Livestreams with TikTok's Features</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-motorola-moto-g14-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Motorola Moto G14</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-14-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 14 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-media-format-transformation-reliable-technique-for-turning-flv-into-premium-mp3-soundtracks/"><u>Mastering Media Format Transformation: Reliable Technique for Turning FLV Into Premium MP3 Soundtracks</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204336445-mastering-the-red-screen-dilemma-expert-tips-and-tricks-unveiled/"><u>Mastering the Red Screen Dilemma: Expert Tips and Tricks Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolving-webm-imports-expert-guide-on-fixing-adobe-media-encoder-glitches/"><u>Resolving WebM Imports: Expert Guide on Fixing Adobe Media Encoder Glitches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-setting-up-the-crew-sports-extension-in-kodi-version-190-matrix/"><u>Step-by-Step Guide to Setting Up The Crew Sports Extension in Kodi Version 19.0 Matrix</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-a-matrix-compatible-daemon-addon-in-kodi/"><u>Step-by-Step Guide: Setting Up a Matrix-Compatible Daemon Addon in Kodi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/stream-recording-mastery-capturing-live-audio-with-audacity-on-pc/"><u>Stream Recording Mastery: Capturing Live Audio with Audacity on PC</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-dilemma-is-linking-accounts-via-facebook-login-safe-and-practical/"><u>The Dilemma: Is Linking Accounts Via Facebook Login Safe & Practical?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-editing-obs-videos-without-a-watermark-top-7-tools-compared/"><u>Ultimate Guide to Editing OBS Videos without a Watermark – Top 7 Tools Compared</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-how-to-on-changing-tta-audio-tracks-into-desired-formats-such-as-flac-wav-or-mp3-for-higher-quality-sound/"><u>Ultimate How-To on Changing TTA Audio Tracks Into Desired Formats Such as FLAC, WAV or MP3 for Higher Quality Sound</u></a></li>
-<li><a href="https://win-superb.techidaily.com/upcoming-cost-of-keeping-your-pc-updated-microsoft-introduces-fees-for-windows-1/"><u>Upcoming Cost of Keeping Your PC Updated: Microsoft Introduces Fees for Windows 1</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-seamless-chromeos-screeen-logging-for-2024/"><u>[New] Seamless ChromeOS Screeen Logging for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-step-by-step-guide-to-seeing-whos-watching/"><u>2024 Approved A Step-by-Step Guide to Seeing Who's Watching</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-in-action-the-7-key-areas-of-current-use-you-need-to-know/"><u>ChatGPT in Action: The 7 Key Areas of Current Use You Need to Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-in-finance-exploring-5-key-drawbacks-for-cryptocurrency-market-prediction/"><u>ChatGPT in Finance: Exploring 5 Key Drawbacks for Cryptocurrency Market Prediction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/code-comparison-evaluating-github-copilot-and-chatgpt-for-effective-coding-practices/"><u>Code Comparison: Evaluating GitHub Copilot and ChatGPT for Effective Coding Practices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/controlling-ai-ensuring-positive-integration/"><u>Controlling AI: Ensuring Positive Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gaming-experience-with-the-ultimate-sound-discover-the-best-in-wireless-audio-epos-gtw/"><u>Elevate Your Gaming Experience with the Ultimate Sound: Discover the Best in Wireless Audio - EPOS GTW</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/excellence-in-flight-choosing-superior-drone-motor-technology-for-2024/"><u>Excellence in Flight Choosing Superior Drone Motor Technology for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-videos-on-facebook-the-transfer-guide-for-2024/"><u>Twitter Videos on Facebook The Transfer Guide for 2024</u></a></li>
 </ul></div>
 

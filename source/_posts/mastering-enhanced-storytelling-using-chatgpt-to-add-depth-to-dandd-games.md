@@ -1,7 +1,7 @@
 ---
 title: "Mastering Enhanced Storytelling: Using ChatGPT to Add Depth to D&D Games"
-date: 2024-11-05T16:38:01.369Z
-updated: 2024-11-11T16:51:14.775Z
+date: 2024-11-19T21:15:20.161Z
+updated: 2024-11-21T16:18:31.770Z
 tags:
   - chatgpt
   - open-ai
@@ -44,13 +44,6 @@ After Installing Python, you can download Auto-GPT from GitHub.
 
 **Source code.zip** is for Windows, while**Source code.tar.gz** is for Linux and MacOS. First, download the file for your operating system, then copy the folder and paste it into your desired location.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 2: Configure Auto-GPT
 
  Since AutoGPT uses OpenAI's GPT model, you must generate an API key from OpenAI to act as your credential to use their product.
@@ -62,6 +55,10 @@ After Installing Python, you can download Auto-GPT from GitHub.
 ![Create API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-create-test-key.jpg)
 3. Now you have your API key, go to your Auto-GPT folder and open the**.env** file using Notepad.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
 4. Once opened, scroll down to the**LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
 
@@ -70,16 +67,7 @@ After Installing Python, you can download Auto-GPT from GitHub.
  This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 3: Install Auto-GPT Dependencies
@@ -119,6 +107,10 @@ Congratulations! You have successfully Installed Auto-GPT.
 
 ![Running Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-recipe-generator-thinking.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once you give your last goal, you can hit enter for Auto-GPT to run.
 
  While running, you can see the AI's thoughts, reasoning, plan, and criticism. For every action of the AI assistant, you will be asked to authorize its plan to execute. You can do so by typing "y" as yes.
@@ -129,31 +121,21 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 
 ![AutoGPT downloading file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-recipe-generator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This makes this[AI potentially dangerous](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) ; that's why Auto-GPT always asks you for authorization before executing plans. Always read and understand your AI assistant's thoughts, reasoning, and plan before authorizing its actions.
 
  After every action of the AI, you can also provide your feedback to help the AI with its task.
 
 ![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
 
 After making the recipe, our AI has now completed its task.
 
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To view the output, go to your Auto-GPT folder and**open auto-gpt-workspace** .
 
@@ -162,16 +144,7 @@ After making the recipe, our AI has now completed its task.
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Auto-GPT Limitations
@@ -187,10 +160,7 @@ After making the recipe, our AI has now completed its task.
  Using GPT-4 will noticeably reduce hallucinations and improve overall performance. However, its context size is still limited to 8,000 tokens. After reaching the 8k-token mark, GPT-4 will start losing context starting from the beginning of the task, affecting results. Furthermore, using GPT-4 is several times pricier than GPT-3.5 ([each GPT token has a cost](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) ). You'll want to set limits through your API account.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Future of Auto-GPT
@@ -214,22 +184,15 @@ After making the recipe, our AI has now completed its task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-selecting-the-best-mac-sniping-solutions/"><u>[New] In 2024, Selecting the Best Mac Sniping Solutions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-the-artisans-guide-to-creating-sound-alterations-without-cost/"><u>[New] In 2024, The Artisan's Guide to Creating Sound Alterations Without Cost</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-new-tech-horizon-with-microsofts-hololens-review/"><u>[New] The New Tech Horizon with Microsoft's HoloLens Review</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-a-guide-to-formulating-successful-product-sponsorships-in-youtubespace/"><u>[Updated] In 2024, A Guide to Formulating Successful Product Sponsorships in YouTubespace</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-whole-viewpoint-vs-multiplanar-imaging-techniques/"><u>[Updated] In 2024, Whole Viewpoint vs Multiplanar Imaging Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-quick-and-cool-tips-for-insta-collage-creation/"><u>[Updated] Quick & Cool Tips for Insta Collage Creation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advanced-coding-techniques-using-codegpt-within-vs-code/"><u>Advanced Coding Techniques Using CodeGPT Within VS Code</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-your-path-to-higher-youtube-spotlight-for-2024/"><u>Charting Your Path to Higher YouTube Spotlight for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-and-crypto-investment-analysis-5-key-reasons-to-think-twice/"><u>ChatGPT and Crypto Investment Analysis - 5 Key Reasons to Think Twice</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-best-ai-counselors-5-groundbreaking-bots-transforming-mental-health-support/"><u>Discover the Best AI Counselors: 5 Groundbreaking Bots Transforming Mental Health Support</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Pop 8? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/identifying-and-handling-potential-chatgpt-scam-websites-a-comprehensive-guide/"><u>Identifying & Handling Potential ChatGPT Scam Websites: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-possible-to-reach-chatgpt-through-a-virtual-private-network-vpn/"><u>Is It Possible to Reach ChatGPT Through a Virtual Private Network (VPN)?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/m3-apple-silicon-revolutionizes-computing-discover-its-far-reaching-effects-beyond-macbooks-and-imacs-zdnet/"><u>M3 Apple Silicon Revolutionizes Computing – Discover Its Far-Reaching Effects Beyond MacBooks & iMacs | ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-the-thoughts-of-top-international-technology-leaders-on-ai/"><u>Navigating Through the Thoughts of Top International Technology Leaders on AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secure-your-ai-conversations-preventing-unintended-information-leaks-through-model-inversion/"><u>Secure Your AI Conversations: Preventing Unintended Information Leaks Through Model Inversion</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-rise-of-smart-crime-exploring-5-ai-techniques-used-by-hackers/"><u>The Rise of Smart Crime: Exploring 5 AI Techniques Used by Hackers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-every-word-a-comprehensive-guide-to-zoom-transcription-tools-for-2024/"><u>[Updated] Capturing Every Word A Comprehensive Guide to Zoom Transcription Tools for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-streamline-your-way-to-a-thriving-biz-youtube-channel/"><u>[Updated] In 2024, Streamline Your Way to a Thriving Biz YouTube Channel</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-ai-an-easy-to-understand-explanation/"><u>Demystifying AI: An Easy-to-Understand Explanation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/digging-up-drowned-chatgpt-memories/"><u>Digging Up Drowned ChatGPT Memories</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-best-5-chatbot-therapeutic-solutions-for-coping-with-emotional-struggles/"><u>Discover the Best 5 Chatbot Therapeutic Solutions for Coping with Emotional Struggles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-quintet-of-elements-that-catapulted-chatgpt-to-worldwide-success/"><u>Discover the Quintet of Elements That Catapulted ChatGPT to Worldwide Success</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-insights-from-toms-tech-analysis-your-guide-to-modern-gadgets/"><u>Expert Insights From Tom's Tech Analysis - Your Guide to Modern Gadgets</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-12-pro-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 12 Pro Max Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turn-off-youtubes-quick-video-buffering-feature/"><u>In 2024, Turn Off YouTube's Quick Video Buffering Feature</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-depth-insight-on-selecting-superior-valheim-seeds/"><u>In-Depth Insight on Selecting Superior Valheim Seeds</u></a></li>
 </ul></div>
 

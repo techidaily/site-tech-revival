@@ -1,7 +1,7 @@
 ---
 title: "Battle for Brilliance: Is Advanced Gemini or Plush ChatGPT+ Better?"
-date: 2024-11-11T06:40:51.587Z
-updated: 2024-11-12T00:48:15.834Z
+date: 2024-11-15T21:21:09.836Z
+updated: 2024-11-22T01:50:06.099Z
 tags:
   - chatgpt
   - open-ai
@@ -34,9 +34,17 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
  It's important to keep in mind that you pick a language that's relatively easy to learn. English speakers find learning languages such as Mandarin, Russian, and Japanese hard. While ChatGPT can write in all languages, you're better off getting a tutor if you want to nail the pronunciation and overall fluency for the more complex languages.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Building Your Vocabulary
 
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Expanding your vocabulary is a good place to start when you're trying to learn a new language. You want to learn how to pronounce common words and understand how/why they are used in various situations. As you can imagine, GPT-4's conversational skills can easily handle this process.
 
@@ -46,16 +54,13 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
  The result shows that GPT-4 has a better understanding of context in comparison to its predecessor. This is just one of the many[differences between GPT 3.5 and GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Practice Conversational Skills
 
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While learning certain words and phrases in a vacuum is good, all that practice is wasted if you don't build conversational skills. With ChatGPT, you can hold conversations in any language you want. For example, we asked ChatGPT to talk with us in French, and the result was impressive.
 
@@ -64,10 +69,7 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Learn Grammar and Syntax
@@ -77,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
  Grammar and syntax provide the structure and rules necessary to communicate and understand others. ChatGPT can help you learn the grammar and syntax rules by providing real-time feedback, explanations, and examples during written interactions. Since ChatGPT is all about interactivity, it does a better job here than most language-learning apps.
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Personalized Tests
 
@@ -100,13 +95,6 @@ Here's how you can create your own personalized tests:
 3. Determine the test length by specifying the number of questions. You can also set a time limit, but you'll have to time yourself.
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Cultural Learning
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
@@ -114,6 +102,10 @@ Here's how you can create your own personalized tests:
  Languages and cultures are closely intertwined. By learning a new language, you can gain insight into the traditions, values, customs, and history of those who speak the language. While learning a language with ChatGPT, you can ask for cultural context, references, and social norms that are present in the language. This helps you understand how native speakers communicate.
 
  You can also get insights into cultural phenomena such as historical events, festivals, celebrations, and more. Then, you can ask ChatGPT to provide you with resources such as movies, books, and music in the language you're trying to learn. The key here is to ask anything you can think of about the language and culture.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. How Does It Compare to Other Alternatives?
 
@@ -142,20 +134,24 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-perfect-tiktok-start-mac-based-production-strategies-for-2024/"><u>[New] Perfect TikTok Start Mac-Based Production Strategies for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-secrets-revealed-a-detailed-look-at-google-podcasting/"><u>[New] Secrets Revealed A Detailed Look at Google Podcasting</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-easy-steps-to-extract-instagram-video-files-from-pcmac/"><u>[Updated] Easy Steps to Extract Instagram Video Files From PC/Mac</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-prolong-your-snapstreak-legacy-with-ease-for-2024/"><u>[Updated] Prolong Your Snapstreak Legacy with Ease for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-installation-guide-with-drivers-for-the-startech-vga-to-usb-converter/"><u>Easy Installation Guide with Drivers for the StarTech VGA to USB Converter</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-embed-chatgpt-into-your-windows-application-seamlessly/"><u>How to Embed ChatGPT Into Your Windows Application Seamlessly</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-ai-with-claude-2-functions-features-and-uses-explained/"><u>Mastering AI with Claude 2: Functions, Features, and Uses Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigate-privacy-email-change-with-protonbrowser-plugin/"><u>Navigate Privacy: Email Change with ProtonBrowser Plugin</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-eus-ai-act-and-chatbots-like-chatgpt/"><u>Navigating the EU's AI Act & Chatbots Like ChatGPT</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sketch-serious-snickers-for-2024/"><u>Sketch Serious Snickers for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-5-video-metadata-tools-for-editing-and-reviewing-meta-information/"><u>Top 5 Video Metadata Tools for Editing & Reviewing Meta Information</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-ranked-list-of-top-5-ai-prompt-design-courses-online/"><u>Ultimate Guide: Ranked List of Top 5 AI Prompt Design Courses Online</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-10-leading-competitors-of-chatgpt-in-the-ai-world/"><u>Unveiling 10 Leading Competitors of ChatGPT in the AI World</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/whats-next-after-gpt-4-speculations-surrounding-the-upcoming-gpt-5-release/"><u>What's Next After GPT-4? Speculations Surrounding the Upcoming GPT-5 Release</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-expert-guide-to-android-time-lapse-video-magic/"><u>[New] 2024 Approved Expert Guide to Android Time-Lapse Video Magic</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-top-ideas-to-spice-up-your-daily-snapchat-routine/"><u>[Updated] 2024 Approved Top Ideas to Spice Up Your Daily Snapchat Routine</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728484859642-windows-11/"><u>安全に初期設定を行い、データ保護を最優先: Windows 11の新しいセットアップへの挑戦方法</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-code-the-story-of-virtual-reality-for-2024/"><u>Beyond Code The Story of Virtual Reality for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-forefront-ai-surpass-chatgpt-in-conversational-intelligence-and-machine-learning-innovations/"><u>Can Forefront AI Surpass ChatGPT in Conversational Intelligence and Machine Learning Innovations?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/caution-your-data-and-chatgpt-on-mobile/"><u>Caution: Your Data & ChatGPT on Mobile</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/charting-the-course-how-far-back-does-ais-innovation-go/"><u>Charting the Course: How Far Back Does AI's Innovation Go?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-source-material-a-closer-look-at-potential-plagiarism/"><u>ChatGPT and Source Material: A Closer Look at Potential Plagiarism</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-vs-google-bard-face-off-determining-the-superior-conversational-ai/"><u>ChatGPT Vs. Google Bard Face-Off: Determining the Superior Conversational AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-the-unseen-co-host-of-my-podcast/"><u>ChatGPT: The Unseen Co-Host of My Podcast</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-apples-latest-artificial-intelligence-revealed-during-wwdc-2024/"><u>Decoding Apple's Latest Artificial Intelligence Revealed During WWDC 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dont-just-compare-learn-how-siri-stands-out-from-chatgpt/"><u>Don't Just Compare! Learn How Siri Stands Out From ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-language-models-unveiling-the-7-enhancements-of-googles-bard-with-palm-2-upgrade/"><u>Elevating Language Models: Unveiling the 7 Enhancements of Google's Bard with PaLM 2 Upgrade</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-unparalleled-in-game-audio-quality-with-the-top-rated-gaming-speakers-now-discounted-at-best-buy/"><u>Experience Unparalleled In-Game Audio Quality with the Top Rated Gaming Speakers - Now Discounted at Best Buy!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-started-on-instagram-a-compreh/"><u>Get Started on Instagram: A Compreh</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-solutions-for-asus-network-unlock-by-drfone-android/"><u>In 2024, Best Solutions for Asus Network Unlock</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974606177-lenovo-tap-latency-issue-now-fixed/"><u>Lenovo Tap Latency Issue, Now Fixed</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/troubleshooting-windows-backup-error-no-usable-reader-found-find-three-effective-fixes/"><u>Troubleshooting Windows Backup Error: 'No Usable Reader Found' - Find Three Effective Fixes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Realme Narzo N55? | Dr.fone</u></a></li>
 </ul></div>
 

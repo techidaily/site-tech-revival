@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Here: GPT-4's Role in Shaping the Art of Home Improvement"
-date: 2024-11-10T16:02:06.850Z
-updated: 2024-11-11T19:31:33.961Z
+date: 2024-11-18T22:39:17.276Z
+updated: 2024-11-22T01:09:08.289Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
  Furthermore, Read Aloud can speak in 37 different languages but will also try to auto-detect whatever language it's reading.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 Personalized Responses
 
  ChatGPT's Custom Instructions give you greater control over how the AI chatbot responds to your inputs.[ChatGPT's custom instructions can range](https://www.makeuseof.com/best-ways-to-use-chatgpt-custom-instructions/) from in-depth information about your life, business, or otherwise, to simple instructions, such as making sure it only uses imperial measurements or always responds with your name.
@@ -52,10 +56,7 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
  That's a small example, but illustrates how you might shape ChatGPT's output towards your daily use, saving you time each day.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 ChatGPT Memory and Temporary Chat
@@ -74,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Temporary Chat
 
  Now, when OpenAI launched ChatGPT's Memory feature, many were worried about the additional privacy implications. ChatGPT already uses a lot of data to continually train its models, and with the addition of memory, some were worried there would be no way to converse with ChatGPT privately.
@@ -88,10 +82,7 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 ![chatgpt temporary chat option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-temporary-chat-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [OpenAI](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
@@ -106,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
  The only real downside to the ChatGPT Plus free trial is that anyone taking it has to sign up for an account using a credit or debit card—which means the card will be charged straight away when the trial ends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Shared Links
 
  If the person you invite to trial ChatGPT is put off by the credit card sign-up, you could share your ChatGPT conversation with them instead.[ChatGPT's shared links launched in May 2023](https://www.makeuseof.com/what-are-chatgpt-shared-links-how-do-they-work/) and offer a way for ChatGPT users to share conversations outside the confines of the web interface or the smartphone app.
@@ -113,10 +108,7 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 ![chatgpt shared links with share name option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-shared-links-with-share-name-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Anyone with the link can view the ChatGPT conversation. Those with a ChatGPT account can continue the conversation, taking over from you (making it a somewhat collaborative process). Those without an account can just scroll through and see what transpired between you and the AI chatbot.
@@ -136,21 +128,22 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-intrinsic-insights-for-instant-identification-in-fb-for-2024/"><u>[New] Intrinsic Insights for Instant Identification in FB for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-seamless-transition-turning-srt-into-sub/"><u>2024 Approved Seamless Transition Turning SRT Into SUB</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027686597-2024dvd/"><u>2024年度用に選ばれた、日本語対応DVDコピー転送プログラムベストセレクション - 無料ダウンロード</u></a></li>
-<li><a href="https://win-blog.techidaily.com/crusader-kings-iii-stability-fixes-for-windows-and-pc-users/"><u>Crusader Kings III Stability Fixes for Windows and PC Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027953701-dvd/"><u>DVD映画のセグメントを切り取るための効果的なテクニック</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How Can I Create My Pokemon Overworld Maps On Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c210-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-redmi-a2-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-step-by-step-guide-solving-teardown-app-crashes/"><u>Ultimate Step-by-Step Guide: Solving Teardown App Crashes</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/understanding-the-causes-of-geforce-experience-closure-errors-expert-tips-and-fixes/"><u>Understanding the Causes of GeForce Experience Closure Errors: Expert Tips & Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/uploading-m4a-audio-files-on-youtube-a-step-by-step-guide/"><u>Uploading M4A Audio Files on YouTube: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/webmwindows/"><u>WebM動画パック作成のためのWindowsマニュアル</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/wmpmov/"><u>WMPにおける動画形式MOVの再生課題と解決策</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/youtube-hd-video-download-techniques-achieve-1080p-quality/"><u>YouTube HD Video Download Techniques - Achieve 1080P Quality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726026905445-windows-11/"><u>ゲームバーのトラブルシューティング：Windows 11で始まった新しい不具合</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-beginning-creators-guide-top-8-free-youtube-tutorials/"><u>[New] In 2024, Beginning Creator's Guide Top 8 Free YouTube Tutorials</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mastering-airborne-shots-the-pivotal-role-of-dji-spark-in-selfie-culture/"><u>[Updated] 2024 Approved Mastering Airborne Shots The Pivotal Role of DJI Spark in Selfie Culture</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-best-free-video-editing-programs-you-should-know/"><u>[Updated] Best Free Video Editing Programs You Should Know</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-sending-streaming-content-linking-fb-vids-and-whatsapp-messages/"><u>2024 Approved Sending Streaming Content Linking FB Vids & WhatsApp Messages</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-epson-xp-420-printer-software-update-and-download-instructions/"><u>Get the Newest Epson XP-420 Printer Software Update & Download Instructions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/getting-and-installing-new-drivers-for-canon-pixma-mg2522-step-by-step-instructions/"><u>Getting and Installing New Drivers for Canon Pixma MG2522 - Step-by-Step Instructions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/premier-platform-for-seminar-titles-for-2024/"><u>Premier Platform for Seminar Titles for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-xlivedll-file-not-detected-issue-a-comprehensive-guide/"><u>Resolving the xlive.dll File Not Detected Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-visual-intelligence-discover-these-8-clever-uses-of-chaturategpt/"><u>Revolutionizing Visual Intelligence: Discover These 8 Clever Uses of ChaturateGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-strategies-for-boosting-academic-research-with-ai-technology/"><u>Top 4 Strategies for Boosting Academic Research with AI Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-games-tale-6-creative-uses-of-chatgpt-in-video-game-writing/"><u>Transform Your Game's Tale: 6 Creative Uses of ChatGPT in Video Game Writing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-claude-2-powerful-capabilities-at-your-fingertips/"><u>Understanding Claude 2: Powerful Capabilities at Your Fingertips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-concerns-a-comprehensive-look-at-why-chatgpt-may-not-be-ideal-for-macos-environments/"><u>Understanding the Concerns: A Comprehensive Look at Why ChatGPT May Not Be Ideal for macOS Environments</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-a-world-of-possibilities-top-4-innovative-ai-storybuilders/"><u>Unlock a World of Possibilities: Top 4 Innovative AI Storybuilders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-gptbot-impact-on-tech-and-content-blockers/"><u>Unraveling GPTBot - Impact on Tech and Content Blockers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/utilizing-ai-conversation-getting-chatgpt-on-board-for-vehicle-enhancements/"><u>Utilizing AI Conversation: Getting ChatGPT on Board for Vehicle Enhancements</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-claude-3-wont-miss-the-mark-in-4-key-areas-compared-to-gpt-3/"><u>Why Claude 3 Won't Miss the Mark in 4 Key Areas Compared to GPT-3</u></a></li>
 </ul></div>
 

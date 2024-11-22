@@ -1,7 +1,7 @@
 ---
 title: "PaLM 2 Vs. GPT-4: Unveiling Key Differences"
-date: 2024-11-04T20:19:53.780Z
-updated: 2024-11-11T18:11:38.206Z
+date: 2024-11-15T17:25:12.515Z
+updated: 2024-11-21T19:05:15.362Z
 tags:
   - chatgpt
   - open-ai
@@ -34,15 +34,27 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 
 ![Using Siri on an iPhone on a white table.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/siri-on-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You may think ChatGPT is your one-stop shop for anything and everything you need, but there's one major setback you may not be aware of. ChatGPT has absolutely no real-time access to current events, and its knowledge is limited to data from September 2021 and older. So, you will not receive an answer if you try to ask for any sort of update.
 
  For example, if you try to ask the chatbot to tell you today's weather or the date of Queen Elizabeth's death, it will tell you it does not have access to current weather conditions and that Queen Elizabeth is still alive according to its knowledge. Live events and breaking news are also no-shows for ChatGPT.
 
  Siri, on the other hand, can give you real-time updates on the weather and other things like the stock market, and its database is updated regularly, so it does not have a knowledge cutoff as old as ChatGPT does. Siri will immediately tell you the date Queen Elizabeth passed away and what the weather will be like tomorrow.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Engaging in Conversations
 
 ![Person Using ChatGPT on Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cchatgpt-on-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One of the biggest reasons ChatGPT is as popular as it is today is its ability to engage in conversations, similar to how a human would converse.
 
@@ -64,23 +76,9 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 
  However, if you want to use ChatGPT with voice and integrate it into your iPhone, there's a way, and we've explained it in detail towards the end of this article.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Executing Basic Commands
 
 ![iOS 16.2 Siri shutdown prompt on iPhone offering the Cancel and Power Off options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/apple-ios-16-2-siri-prompt-turn-off-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  One of the most significant differences between the two emerges when executing tasks. This is where Siri excels, and it's also where its primary purpose lies. As Apple's official virtual assistant, the AI model is here to help make your everyday tasks easier and more efficient.
 
@@ -89,10 +87,7 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
  ChatGPT simply does not have the means to integrate with other apps and devices, and it cannot associate itself with any of your smart home devices. It cannot provide you with the current status of any physical object or device, thereby making it useless in this department. Simply put, this is just not the purpose it was built for.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Answering Your Questions
@@ -107,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 
  When ChatGPT is posed with the same questions, it will do all the hard work for you. It will run through all the data it has and give you a well-formulated answer, so you don't have to spend your time poring over large chunks of text.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use Both Siri and ChatGPT for the Best Results
 
  While they're both great in their own ways, there's a way you can get the best of both worlds! Here's a[detailed guide of how you can use ChatGPT with Siri](https://www.makeuseof.com/how-to-use-chatgpt-with-siri-on-iphone/) , but we'll do a quick overview for you here:
@@ -126,14 +114,11 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 
 ![OpenAI profile options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-profile-options.jpg)
 
-![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
 
 ![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
 
@@ -150,18 +135,19 @@ Now:
 
 ![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Now all you have to say is, "Hey Siri, launch ChatGPT 1.2.4," and the chatbot will work. You can also use shortcuts apart from the one listed above, so make sure to pick out the option you find easiest.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Siri vs. ChatGPT: Two Completely Different AI Models
 
@@ -184,24 +170,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-20plus-laughs-no-boundaries-crafting-memes-across-metaverse-realms/"><u>[New] 20+ Laughs, No Boundaries Crafting Memes Across Metaverse Realms</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/outube-artistry-designing-channels-visual-assets-bannersicons/"><u>[New] YouTube Artistry Designing Channels' Visual Assets (Banners/Icons)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-livestream-tech-for-gaming-enthusiasts/"><u>[Updated] Leading Livestream Tech For Gaming Enthusiasts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-top-sites-for-fetching-got-ringtone-downloads-for-2024/"><u>[Updated] Top Sites for Fetching GoT Ringtone Downloads for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-excel-productivity-with-effective-chatgpt-techniques/"><u>Boosting Excel Productivity with Effective ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/embrace-linux-and-ai-how-to-run-chatgpt-on-ubuntu-with-shell-command-line-tips/"><u>Embrace Linux and AI: How to Run ChatGPT on Ubuntu with Shell Command Line Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essentials-of-capturing-free-visual-display-vids/"><u>Essentials of Capturing Free Visual Display Vids</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-underutilized-features-of-chatgpt-for-enhanced-efficiency/"><u>Exploring Underutilized Features of ChatGPT for Enhanced Efficiency</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-hd-to-hyper-hd-the-eizo-monitor-revolution-with-cg318-4k-for-2024/"><u>From HD to Hyper HD The EIZO Monitor Revolution with CG318-4K for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/future-at-hand-ready-for-8-personalized-gpts/"><u>Future at Hand: Ready for 8 Personalized GPTs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/illuminating-artificial-intelligences-shadows-black-boxes-exposed/"><u>Illuminating Artificial Intelligence's Shadows: Black Boxes Exposed</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-realme-gt-neo-5-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Realme GT Neo 5 FRP Locks</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-11-pro-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-integrity-of-chatgpt-under-scrutiny-factual-accuracy-and-potential-deception/"><u>The Integrity of ChatGPT Under Scrutiny: Factual Accuracy and Potential Deception</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-pros-and-cons-of-using-chatgpt-plus-a-detailed-analysis/"><u>The Pros and Cons of Using ChatGPT Plus: A Detailed Analysis</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tune-and-time-lapses-creating-music-videos-with-your-phone-for-2024/"><u>Tune & Time Lapses Creating Music Videos with Your Phone for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unmasking-bingchatgpt-coin-schemes-strategies-to-identify-and-steer-clear-from-scams/"><u>Unmasking BingChatGPT Coin Schemes: Strategies to Identify and Steer Clear From Scams</u></a></li>
-<li><a href="https://common-error.techidaily.com/unraveling-opengl-glitches-effective-techniques-for-a-smooth-minecraft-experience/"><u>Unraveling OpenGL Glitches: Effective Techniques for a Smooth Minecraft Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-you-should-consider-this-weighing-the-pros-and-cons-of-using-a-local-llm/"><u>Why You Should Consider This: Weighing the Pros and Cons of Using a Local LLM</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-maximizing-impact-with-customized-youtube-audiences/"><u>[New] 2024 Approved Maximizing Impact with Customized Youtube Audiences</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-extraordinary-top-ranked-vr-game-perks-for-2024/"><u>[New] Extraordinary Top-Ranked VR Game Perks for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-significance-of-proper-slug-line-usage/"><u>[New] In 2024, The Significance of Proper Slug Line Usage</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-simplifying-powerpoint-presentation-captures-for-2024/"><u>[Updated] Simplifying PowerPoint Presentation Captures for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-subscriber-surge-strategy-on-flexible-budget-for-2024/"><u>[Updated] Subscriber Surge Strategy on Flexible Budget for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/8-best-webcam-filters-for-streaming/"><u>8 Best Webcam Filters For Streaming</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y55s-5g-2023-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y55s 5G (2023) to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-the-issue-resolving-assassins-creed-origins-launch-errors/"><u>Overcome the Issue: Resolving 'Assassin's Creed Origins' Launch Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recovery-of-missing-widgets-and-icons-on-windows-11/"><u>Recovery of Missing Widgets and Icons on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-benefits-how-my-ai-transforms-snapchat-beyond-being-merely-fun/"><u>Top 6 Benefits: How My AI Transforms Snapchat Beyond Being Merely Fun</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-strategies-leveraging-chatgpt-skills-for-data-analysis-success/"><u>Top 6 Strategies: Leveraging ChatGPT Skills for Data Analysis Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-incredible-google-chrome-add-ons-enhancing-your-chatgpt-experience/"><u>Top 7 Incredible Google Chrome Add-Ons Enhancing Your ChatGPT Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-chromium-boosters-harnessing-ai-to-elevate-your-productivity-game/"><u>Top 8 Chromium Boosters: Harnessing AI to Elevate Your Productivity Game</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-vision-mastering-ai-art-with-free-dall-e-3-through-bing/"><u>Transform Your Vision: Mastering AI Art with Free DALL-E 3 Through Bing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-your-search-with-microsofts-ai-enhanced-bing-the-future-is-here/"><u>Transforming Your Search with Microsoft's AI-Enhanced Bing: The Future Is Here</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/try-these-6-cutting-edge-gratis-alternatives-to-sora-by-microsoft/"><u>Try These 6 Cutting-Edge, Gratis Alternatives to Sora by Microsoft</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unchecked-faith-in-ai-consider-these-6-reasons-instead/"><u>Unchecked Faith in AI? Consider These 6 Reasons Instead</u></a></li>
 </ul></div>
 
