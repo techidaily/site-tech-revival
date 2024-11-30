@@ -1,7 +1,7 @@
 ---
 title: "Breaking Through GPT-3 Limits: Solving Four Common Problems"
-date: 2024-11-18T16:27:05.019Z
-updated: 2024-11-21T20:29:15.527Z
+date: 2024-11-23T20:10:23.453Z
+updated: 2024-11-29T17:35:18.794Z
 tags:
   - chatgpt
   - open-ai
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
  Here are a few examples of specific proofreading focuses and the corrections that ChatGPT suggested when given the prompts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Check Words for Spelling
 
  This small paragraph was entered into ChatGPT to look for purposely misspelled words.
@@ -54,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 ![asking ChatGPT to proofread this paragraph for punctuation mistakes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/punctuation.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT's answer to any punctuation mistakes in the paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/punctuation-answer.jpeg)
 
  ChatGPT was able to correct all the punctuation errors. This included replacing the question marks with periods and placing commas where they were needed.
@@ -64,13 +64,13 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 ![Asking ChatGPT to proofread paragraph for grammar mistakes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/grammar.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT's proofreading answer to grammatical errors in paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/grammar-answer.jpeg)
 
  ChatGPT was impressive with its ability to correct all grammar mistakes. Not only was it able to detect the subject-verb agreement issues, but it also found multiple errors with tense. As an added bonus, ChatGPT also corrected the order placement of multiple subjects in a sentence.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check Passive Voice
 
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
  Impressively, ChatGPT found all the passive voice issues and was able to make the proper changes to make the sentences active voice.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Check Everything at Once
@@ -92,23 +92,23 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 ![Asking ChatGPT to Proofread a Paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/just-proofread.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT's answers to proofreading a paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/just-proofread-answers.jpeg)
 
- ChatGPT fixed all the mistakes—however, it also claimed that it fixed issues that weren’t there. For example, it said that “ChatGPT should be capitalized” and that a period should be added to the second sentence when both of those suggestions already existed in the original.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ ChatGPT fixed all the mistakes—however, it also claimed that it fixed issues that weren’t there. For example, it said that “ChatGPT should be capitalized” and that a period should be added to the second sentence when both of those suggestions already existed in the original.
 
 ## Types of Written Work ChatGPT Can Proofread
 
  There is no limit to what type of written work ChatGPT can proofread. From emails and academic essays to blog posts and creative writing, ChatGPT can help to find a missing comma and passive voice. Even if you[use ChatGPT to write your cover letter](https://www.makeuseof.com/write-cover-letter-using-chatgpt/) , you can still ask it to be proofread afterward in case there’s a simple mistake that needs correcting.
 
  When using ChatGPT as a proofreader, the best practice is to only give it small sections of your work at a time. This will allow you to review every change it offers to make sure it is correct without overwhelming you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When to Use a Human Professional Instead
 
@@ -120,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
  It is a great tool and writers can[use ChatGPT to succeed in this new age of technology](https://www.makeuseof.com/tips-writers-to-succeed-ai-content/) . However, it is important to know the limitations of AI—it can’t beat the experience of a trained human professional.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Look Out For
 
  ChatGPT is upfront when you ask if it can proofread your work. It says it’s not perfect and could make mistakes. It is incredibly important to consider every suggestion it makes and know whether it is correct or not.
@@ -127,14 +131,10 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 ![ChatGPT's send a message screen with explaination that it may produce wrong information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/send-a-message.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Furthermore, ChatGPT may try to overcorrect your work—meaning the paragraph you put in comes out reading like ChatGPT wrote it. It’s important to make sure that your finished written work is still your own writing. If you copy and paste overcorrected work, you are risking the chance of it getting[flagged by an AI-generated content checker](https://www.makeuseof.com/accurate-ai-text-detectors/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try Using ChatGPT to Find Errors in Your Own Work
 
@@ -157,20 +157,20 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-audience-connection-implementing-a-triplet-of-copywriting-tactics-in-fb-ads/"><u>[New] Audience Connection Implementing a Triplet of Copywriting Tactics in FB Ads</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-mastering-the-balance-visuals-and-sound-in-media-creation/"><u>[Updated] In 2024, Mastering the Balance Visuals and Sound in Media Creation</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/mkv5/"><u>最高の無料MKV圧縮ソフト5推薦</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battling-bugs-fixing-forest-guardians-crash-issues-on-your-computer/"><u>Battling Bugs - Fixing Forest Guardians Crash Issues on Your Computer</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-streamlit-success-top-5-tools-for-stellar-visuals/"><u>In 2024, Streamlit Success Top 5 Tools for Stellar Visuals</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-infinix-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Infinix Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-s-finest-the-ultimate-list-of-2d-animation-software-free-paid-and-everything-in-between/"><u>New In 2024, S Finest The Ultimate List of 2D Animation Software Free, Paid, and Everything In Between</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/securing-conversations-with-ai-tech/"><u>Securing Conversations with AI Tech</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/smart-choices-the-finest-android-screenshot-tools-5/"><u>Smart Choices The Finest Android Screenshot Tools, 5</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/spearheading-development-mastery-in-using-the-chatgpt-api/"><u>Spearheading Development: Mastery in Using the ChatGPT API</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/strategies-for-tagging-and-recognizing-personalized-ai-in-live-chatgpt-exchanges/"><u>Strategies for Tagging and Recognizing Personalized AI in Live ChatGPT Exchanges</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ai-duel-assessing-notion-ai-against-openais-gpt-3/"><u>The AI Duel: Assessing Notion AI Against OpenAI's GPT-3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-language-model-arena-gpt-vs-bert-explained/"><u>The Language Model Arena: GPT Vs. BERT Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-new-voice-revolution-in-luxury-cars/"><u>The New VOICE Revolution in Luxury Cars</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-crafting-chatgpt-prompts-for-the-gym-enthusiasts/"><u>The Ultimate Guide to Crafting ChatGPT Prompts for the Gym Enthusiasts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ow-to-live-stream-to-youtube-with-wirecast/"><u>[New] How to Live Stream to Youtube with Wirecast?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-dynamic-shots-infusing-energy-into-your-youtube-videos/"><u>2024 Approved Dynamic Shots Infusing Energy Into Your YouTube Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-your-gpt-experience-steer-clear-of-mistakes/"><u>Enhancing Your GPT Experience: Steer Clear of Mistakes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ensuring-accuracy-a-guide-to-confirming-health-tips-with-ai-tools-like-chatgpt/"><u>Ensuring Accuracy: A Guide to Confirming Health Tips with AI Tools Like ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/fortnite-optimized-on-unsupported-gpus-winning-fixes-and-tweaks/"><u>Fortnite Optimized on Unsupported GPUs: Winning Fixes and Tweaks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fraudgpt-exposed-comprehensive-guide-to-safeguarding-from-this-hazardous-bot/"><u>FraudGPT Exposed: Comprehensive Guide to Safeguarding From This Hazardous Bot</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-idea-to-manuscript-9-ways-chatgpt-transforms-your-novel-writing-journey/"><u>From Idea to Manuscript: 9 Ways ChatGPT Transforms Your Novel Writing Journey</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/get-rid-of-corrupt-excel-2013-file-by-stellar-guide/"><u>Get Rid of corrupt Excel 2013 File</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/getting-started-with-chatgpts-enhanced-tools/"><u>Getting Started with ChatGPT's Enhanced Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-vs-huggingface-duel-who-wins/"><u>GPT Vs. Huggingface Duel: Who Wins?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpts-future-foresight-versus-astrology-wonders/"><u>GPT’s Future Foresight Versus Astrology Wonders</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-remotely-erase-iphone-and-ipad-data/"><u>How to Remotely Erase iPhone and iPad Data</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ratchet-and-clank-reboot-rediscovering-a-beloved-franchise-through-enhanced-graphics-and-gameplay/"><u>Ratchet and Clank Reboot: Rediscovering a Beloved Franchise Through Enhanced Graphics and Gameplay</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-tutorial-for-chatgpt-plugins-from-install-to-implementation/"><u>The Ultimate Tutorial for ChatGPT Plugins: From Install to Implementation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-when-microsoft-office-msodll-is-unavailable/"><u>Troubleshooting Steps for When Microsoft Office mso.dll Is Unavailable</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Explore the Extraordinary Functionality of Snapchat's My AI - Here Are Eight Convincing Factors
-date: 2024-11-16T00:48:07.737Z
-updated: 2024-11-21T22:26:24.683Z
+date: 2024-11-25T17:16:59.447Z
+updated: 2024-11-30T04:16:25.829Z
 tags:
   - chatgpt
   - open-ai
@@ -30,16 +30,12 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 
  But what is Perplexity AI really about, and can you use it instead of Google?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Perplexity AI, and What Can You Do With It?
 
 ![screenshot showing perplexity ai on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-16-123353-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Perplexity AI is a conversational search engine that uses natural language text to answer questions. It was founded in 2022 by a quartet of former AI researchers from OpenAI and Meta: Aravind Srinivas, Andy Konwiski, Denis Yarats, and Johnny Ho.
@@ -49,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
  The Perplexity app is a mix of the[best features from ChatGPT](https://www.makeuseof.com/chatgpt-features-you-arent-using-but-should/) and Google. It features a chat interface similar to ChatGPT’s and a Related section similar to Google’s People also ask.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Perplexity AI Instead of Google Search
@@ -58,10 +54,14 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 
 ![perplexity app discover page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-discover-page-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![perplexity app library page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-library-page-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -73,7 +73,7 @@ Close
  Perplexity is free to use. However, you can upgrade to its Pro plan ($20/month) for access to additional features, such as unlimited access to its more powerful AI models like OpenAI's GPT-4, Anthropic's Claude 3 Opus and Sonnet, and Mistral's Large, plus support for images and files, and better support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can Perplexity AI Replace Google?
@@ -105,20 +105,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-conquering-low-light-challenges-in-filming/"><u>[New] In 2024, Conquering Low-Light Challenges in Filming</u></a></li>
-<li><a href="https://win-special.techidaily.com/windows-11115/"><u>「永久擦除Windows 11/11電腦的5種方法」</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/clonage-hddsshd-logiciel-gratuit-pour-windows-111087-tutoriels-faciles-a-suivre-par-sshd-cloner/"><u>Clonage HDD/SSHD : Logiciel Gratuit Pour Windows 11/10/8/7 - Tutoriels Faciles À Suivre Par SSHD Cloner</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-complete-process-of-recording-your-fb-messenger-conversations/"><u>In 2024, The Complete Process of Recording Your FB Messenger Conversations</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/streamlabs-rival-tools-unveiled/"><u>Streamlabs' Rival Tools Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-of-finance-emoji-counseling-and-the-threat-of-gpt-ais-whats-next/"><u>The Future of Finance: Emoji Counseling & the Threat of GPT AIs - What's Next?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-of-work-how-stable-is-a-career-in-artificlete-prompt-design/"><u>The Future of Work: How Stable Is a Career in Artificlete Prompt Design?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-homeowners-manual-to-ai-and-chatgpt/"><u>The Homeowner's Manual to AI & ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-showcase-top-4-ai-driven-plot-generators/"><u>The Ultimate Showcase: Top 4 AI-Driven Plot Generators</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-tutorial-on-enhancing-google-sheets-and-docs-with-advanced-ai-chatgpt/"><u>The Ultimate Tutorial on Enhancing Google Sheets & Docs with Advanced AI - ChatGPT</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/trending-topics-the-best-10-music-videos-on-fb/"><u>Trending Topics The Best 10 Music Videos on FB</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-how-to-repair-a-non-responsive-spacebar-in-windows-10/"><u>Troubleshooting Fixes: How to Repair a Non-Responsive Spacebar in Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-nvidias-ai-foundation-services-tailored-access-for-diverse-users/"><u>Understanding NVIDIA’s AI Foundation Services: Tailored Access for Diverse Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-chatgpt-subscriptions-a-look-at-why-theyre-closed-and-when-they-might-reopen/"><u>Unlocking ChatGPT Subscriptions: A Look at Why They're Closed & When They Might Reopen</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-explore-the-world-of-custom-thumbnails-top-6-tools-reviewed/"><u>[Updated] In 2024, Explore the World of Custom Thumbnails - Top 6 Tools Reviewed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-inspirational-homebuilds-for-snapshot-enthusiasts/"><u>[Updated] In 2024, Inspirational Homebuilds for Snapshot Enthusiasts</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/come-ripristinare-il-backup-sul-tuo-windows-server-201/"><u>Come Ripristinare Il Backup Sul Tuo Windows Server 201</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-engaging-crafting-compelling-reddit-content/"><u>In 2024, The Art of Engaging Crafting Compelling Reddit Content</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-7-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-updating-your-android-system-and-applications/"><u>Step-by-Step Guide: Updating Your Android System & Applications</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-se-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone SE Making It Possible</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-calculations-discover-the-triad-of-key-applications-for-chatgpt-integrated-with-wolfram-technology/"><u>Transforming Calculations: Discover the Triad of Key Applications for ChatGPT Integrated with Wolfram Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-walkthrough-activating-and-using-auto-gpt-in-ubuntu-environment/"><u>Ultimate Walkthrough: Activating and Using Auto-GPT in Ubuntu Environment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-the-full-potential-of-gpt-3-with-chatbot-liberation-techniques/"><u>Unleashing the Full Potential of GPT-3 with Chatbot Liberation Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-superior-performance-7-reasons-why-palm-2-is-a-game-changer-for-googles-bard/"><u>Unlocking Superior Performance: 7 Reasons Why PaLM 2 Is a Game-Changer for Google's Bard</u></a></li>
 </ul></div>
 

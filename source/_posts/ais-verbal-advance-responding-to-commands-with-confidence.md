@@ -1,7 +1,7 @@
 ---
 title: "AI's Verbal Advance: Responding to Commands with Confidence"
-date: 2024-11-16T18:19:37.146Z
-updated: 2024-11-21T16:48:11.893Z
+date: 2024-11-23T19:35:10.363Z
+updated: 2024-11-29T17:36:30.355Z
 tags:
   - chatgpt
   - open-ai
@@ -23,12 +23,16 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is GPT-4 Turbo?
 
 ![gpt-4 logo on smartphone screen](https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-photo/portland-usa-mar-15-2023-webpage-2275173419)
 
@@ -38,17 +42,9 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
  Right now, the best way to use GPT-4 Turbo for free is via Microsoft Copilot. It may seem weird that you have to go through Microsoft instead of OpenAI, but the two companies have a really close relationship. As such, it's not unusual to see OpenAI's features appear within Microsoft's AI assistants.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use GPT-4 Turbo for Free With Microsoft Copilot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
@@ -58,12 +54,16 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
  If you want to bring Copilot up faster, you can do so by pressing**Win + C** . Or, if you're lucky enough to own a[laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/) , just press that to bring up the assistant at any time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don't have a Copilot button yet or use a different operating system, you can still use the[Copilot website](https://copilot.microsoft.com/) . Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
  If you're on mobile, you can download the[Copilot app for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032122/https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en&gl=US) or[iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) . The app has a toggle when you open it that enables or disables GPT-4\. It may not be the Turbo version, but it should still be powerful enough to handle your queries.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Get the Most Out of GPT-4 Turbo
@@ -101,22 +101,19 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-scrutinizing-software-for-video-editing-the-bandicam-camtasia-comparison/"><u>[New] 2024 Approved Scrutinizing Software for Video Editing The Bandicam-Camtasia Comparison</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-monthly-earnings-from-youtube-as-a-content-creator/"><u>[New] In 2024, Monthly Earnings From YouTube as a Content Creator</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1-flipchm-pro-advanced-conversion-tool-from-3d-chm-files-to-interactive-ebooks-flipbuildercom/"><u>1. FlipCHM Pro: Advanced Conversion Tool From 3D CHM Files to Interactive eBooks - FlipBuilder.com</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/apex-sites-for-rich-3d-experiences-with-lustrous-text-art-for-2024/"><u>Apex Sites for Rich 3D Experiences with Lustrous Text Art for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/duel-of-the-devices-github-copilot-vs-openais-gpt/"><u>Duel of the Devices: GitHub Copilot Vs. OpenAI's GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elons-explanation-grok-ai-functionality-relevance-and-associated-costs/"><u>Elon's Explanation: Grok AI Functionality, Relevance & Associated Costs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-tools-for-educators-identifying-gpt-powered-content-created-by-students/"><u>Essential Tools for Educators: Identifying GPT-Powered Content Created by Students</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-resolving-non-functional-realtek-mic-situations/"><u>Expert Tips: Resolving Non-Functional Realtek Mic Situations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-influential-role-of-ai-chatbots-on-digital-content-creation-8-key-points/"><u>Exploring The Influential Role Of AI Chatbots On Digital Content Creation – 8 Key Points</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-latest-amd-radeon-professional-w5700-drivers-for-windows-versions-update-now/"><u>Get Your Latest AMD Radeon Professional W5700 Drivers for Windows Versions - Update Now!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-avoidance-of-ai-in-keys-can-secure-your-windows-11-install/"><u>How Avoidance of AI in Keys Can Secure Your Windows 11 Install</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-effective-and-trustworthy-are-automated-fitness-regimes-designed-by-chatgpt/"><u>How Effective and Trustworthy Are Automated Fitness Regimes Designed by ChatGPT?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-effective-is-chatgpt-as-a-writing-error-detector-and-corrector-tool/"><u>How Effective Is ChatGPT as a Writing Error Detector and Corrector Tool?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/implications-of-continuous-data-flow-to-chatgpt-a-guide-to-its-effect-on-individuals/"><u>Implications of Continuous Data Flow to ChatGPT: A Guide to Its Effect on Individuals</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-pc-compatible-sony-ps3-mimicry-tools-top-picks/"><u>In 2024, PC-Compatible Sony PS3 Mimicry Tools Top Picks</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/melody-mavericks-navigate-the-world-of-music-quizzes/"><u>Melody Mavericks: Navigate the World of Music Quizzes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-fundamentals-of-high-impact-asmr-filming-and-editing/"><u>[New] The Fundamentals of High-Impact ASMR Filming & Editing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-top-choices-full-sweep-video-recording-systems/"><u>[New] Top Choices Full Sweep Video Recording Systems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-enhancing-creativity-step-by-step-utilization-of-the-background-eraser-tool/"><u>[Updated] Enhancing Creativity Step-by-Step Utilization of the Background Eraser Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/7-ways-generative-ai-will-change-the-job-market/"><u>7 Ways Generative AI Will Change the Job Market</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-revolutionized-browsing-how-to-optimize-the-bing-app-experience-on-android-phones/"><u>AI Revolutionized Browsing: How to Optimize the Bing App Experience on Android Phones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/anticipating-the-worst-the-incremental-decline-of-security-in-generative-ai-systems/"><u>Anticipating the Worst: The Incremental Decline of Security in Generative AI Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-v29-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo V29 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artful-expression-outperforms-algorithmic-text-crafting/"><u>Artful Expression Outperforms Algorithmic Text Crafting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-college-essays-balancing-innovation-with-tradition/"><u>ChatGPT and College Essays: Balancing Innovation with Tradition?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-crypto-trading-synergy-five-techniques-to-supercharge-your-investments/"><u>ChatGPT and Crypto Trading Synergy: Five Techniques to Supercharge Your Investments</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-perfect-ringtones-from-popular-tiktok-audio-tracks/"><u>Crafting Perfect Ringtones From Popular TikTok Audio Tracks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-13t-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi 13T Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/true-academic-success-beyond-chatgpts-capabilities/"><u>True Academic Success Beyond ChatGPT's Capabilities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-future-my-experience-testing-face-recognition-biometric-locks-a-game-changer-in-home-security-zdnet/"><u>Unlocking the Future: My Experience Testing Face Recognition Biometric Locks - A Game Changer in Home Security | ZDNet</u></a></li>
 </ul></div>
 

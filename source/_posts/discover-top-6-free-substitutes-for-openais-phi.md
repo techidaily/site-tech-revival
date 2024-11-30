@@ -1,7 +1,7 @@
 ---
 title: Discover Top 6 Free Substitutes for OpenAI's Phi
-date: 2024-10-21T18:16:11.578Z
-updated: 2024-10-22T16:01:19.823Z
+date: 2024-11-24T01:06:08.789Z
+updated: 2024-11-30T02:19:19.184Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -51,24 +55,22 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -79,17 +81,7 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -115,14 +107,15 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-picks-the-leading-18-webcam-capture-apps/"><u>[New] Expert Picks The Leading 18 Webcam Capture Apps</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-most-popular-wedding-countdown-clocks-a-top-10-list-androidios/"><u>[New] In 2024, The Most Popular Wedding Countdown Clocks A Top 10 List (Android/iOS)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-gamers-guides-essential-tips-for-recording-riveting-races/"><u>[Updated] 2024 Approved Gamers' Guides Essential Tips for Recording Riveting Races</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722044292166-access-chatgpt-for-free-discover-our-5-key-tips/"><u>Access ChatGPT for Free - Discover Our 5 Key Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722193779525-beware-of-fake-chatgpt-desktop-apps-these-are-actually-malware/"><u>Beware of Fake ChatGPT Desktop Apps: These Are Actually Malware!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-efficiency-3-insightful-approaches-to-utilizing-the-chatgpt-wolfram-plugin/"><u>Maximize Efficiency: 3 Insightful Approaches to Utilizing the ChatGPT-Wolfram Plugin</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-ultimate-playbook-for-exceptional-obs-studio-content/"><u>The Ultimate Playbook for Exceptional OBS Studio Content</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-hidden-gem-discovering-chatgpts-ios-mobile-application/"><u>Unveiling the Hidden Gem: Discovering ChatGPT's iOS Mobile Application!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-downloading-chatgpt-for-mobile-might-not-be-worth-it-heres-why/"><u>Why Downloading ChatGPT for Mobile Might Not Be Worth It – Here’s Why</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-pixelperfect-screener-chromes-native-tool/"><u>[Updated] In 2024, PixelPerfect Screener Chrome's Native Tool</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-xiaomi-redmi-note-13-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi Redmi Note 13 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/gameplay-on-the-go-essential-advice-for-traveling-gamers/"><u>Gameplay on the Go: Essential Advice for Traveling Gamers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/installation-woes-practical-solutions-for-optional-features-on-windows-11-and-11-pro/"><u>Installation Woes: Practical Solutions for Optional Features on Windows 11 & 11 Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-invisible-fortress-using-nightshade-to-guard-artistic-expression/"><u>The Invisible Fortress: Using Nightshade to Guard Artistic Expression</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-science-of-simulated-conversations-understanding-chatbot-communication-skills/"><u>The Science of Simulated Conversations: Understanding Chatbot Communication Skills</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-unseen-pitfalls-in-delegating-to-machine-intelligence/"><u>The Unseen Pitfalls in Delegating to Machine Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-veracity-of-chatgpt-understanding-when-to-believe-what-you-read-online/"><u>The Veracity of ChatGPT – Understanding When to Believe What You Read Online</u></a></li>
 </ul></div>
 

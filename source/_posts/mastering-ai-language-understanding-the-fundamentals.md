@@ -1,7 +1,7 @@
 ---
 title: "Mastering AI Language: Understanding the Fundamentals"
-date: 2024-11-15T19:11:25.080Z
-updated: 2024-11-21T22:48:14.044Z
+date: 2024-11-25T01:33:09.792Z
+updated: 2024-11-30T07:52:48.421Z
 tags:
   - chatgpt
   - open-ai
@@ -20,15 +20,15 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Copilot Pro?](https://www.makeuseof.com/copilot-vs-copilot-pro/#what-is-copilot-pro)
 * [How Much Does Copilot Pro Cost?](https://www.makeuseof.com/copilot-vs-copilot-pro/#how-much-does-copilot-pro-cost)
 * [Should You Upgrade to Copilot Pro?](https://www.makeuseof.com/copilot-vs-copilot-pro/#should-you-upgrade-to-copilot-pro)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
  And you'll be very pleased to hear that isn't changing any time soon—but Microsoft is rolling out Copilot Pro, a new subscription model for its free AI companion, featuring new capabilities, custom GPT support, and deeper integration into its Microsoft 365 suite.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Copilot Pro?
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
  All in all, Microsoft wants Copilot Pro to be "a single AI experience that runs across your devices," providing a unified AI tool that's familiar with every bit of software you use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Much Does Copilot Pro Cost?
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
  Given the deeper integration of Copilot Pro into Microsoft's ecosystem, the $20 subscription could make Pro a valuable tool versus other tools that are useful in terms of AI but lack specific integrations with regularly used software, especially in business and productivity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Upgrade to Copilot Pro?
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, given the extensive number of free features Copilot has, I don't expect many folks will be disappointed. Deeper integration with Microsoft 365 is great if you use those tools, but if you're using Copilot as an enhanced internet search engine, these updates won't mean much to you.
@@ -106,21 +106,22 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-10-financially-friendly-live-streaming-apps-ios-and-android-reviewed/"><u>[New] 10 Financially Friendly Live Streaming Apps IOS & Android Reviewed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-outreach-with-strategic-partner-selection-on-youtube/"><u>[Updated] In 2024, Enhancing Outreach with Strategic Partner Selection on YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-apowersoft-screen-record-unveiled-top-alternatives-reviewed/"><u>2024 Approved Apowersoft Screen Record Unveiled - Top Alternatives Reviewed</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-motion-capturer-polaroids-camplus-action-wrap-up/"><u>2024 Approved The Ultimate Motion Capturer Polaroid's Cam+ Action Wrap-Up</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209841400-9780996278034-ama-deus/"><u>Ama-Deus | Free Book</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-motorola-razr-40-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Razr 40 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/hybrid-marketing-strategy-combining-facebook-linkedin-and-youtube-for-business-growth/"><u>Hybrid Marketing Strategy: Combining Facebook, LinkedIn, and YouTube for Business Growth</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-watermark-free-video-editing-7-essential-tools-for-2024/"><u>New Watermark-Free Video Editing 7 Essential Tools for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/spearhead-your-proposals-with-intelligent-chatgpt-tech/"><u>Spearhead Your Proposals with Intelligent ChatGPT Tech</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/stay-connected-anywhere-the-ultimate-guide-to-activating-chatgpt-through-chatgpt-everywhere/"><u>Stay Connected Anywhere: The Ultimate Guide to Activating ChatGPT Through 'ChatGPT Everywhere'</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-utilizing-agentgpt-for-ai-agent-deployment-in-your-browser/"><u>Step-by-Step Guide to Utilizing AgentGPT for AI Agent Deployment in Your Browser</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamline-your-workflow-6-chatgpt-add-ons-you-should-reconsider-using/"><u>Streamline Your Workflow: 6 ChatGPT Add-Ons You Should Reconsider Using</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ten-tech-titans-insights-on-artificial-intelligence-an-in-depth-analysis/"><u>Ten Tech Titans' Insights on Artificial Intelligence: An In-Depth Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-essentials-of-using-llama-2-for-business-success/"><u>The Essentials of Using Llama 2 for Business Success</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-evolving-battleground-of-digital-defenses/"><u>The Evolving Battleground of Digital Defenses</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-m6-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from M6 5G</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-audio-first-video-second-comparing-podcast-vs-youtube-for-2024/"><u>[New] Audio First, Video Second? Comparing Podcast vs YouTube for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-decoding-revenue-how-much-do-creators-earn-on-youtube/"><u>[New] Decoding Revenue How Much Do Creators Earn on Youtube?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-voice-transformation-visionaries-morphvox-edition/"><u>2024 Approved Voice Transformation Visionaries MorphVOX Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-tecno-spark-20-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Tecno Spark 20 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-realme-c55-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme C55 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-master-pip-feature-while-consuming-youtube-videos-on-iphones/"><u>In 2024, Master PIP Feature While Consuming YouTube Videos on iPhones</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/pixelmaster-record-download-use-and-assessment/"><u>PixelMaster Record Download, Use & Assessment</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-2010-files-for-free-stellar-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel 2010 Files for Free | Stellar</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/silicon-witnesses-the-comic-side-of-computing-history-and-cybersecurity/"><u>Silicon Witnesses: The Comic Side of Computing History & Cybersecurity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steer-clear-the-risky-google-bard-download-warning/"><u>Steer Clear: The Risky Google Bard Download Warning</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tech-made-easy-installing-the-latest-version-of-llama-2-locally/"><u>Tech Made Easy: Installing the Latest Version of Llama 2 Locally</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-pathway-to-obscurity-ending-the-facebook-era/"><u>The Pathway to Obscurity: Ending the Facebook Era</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-securely-exporting-your-data-from-chatgpt-for-future-use/"><u>The Ultimate Guide: Securely Exporting Your Data From ChatGPT for Future Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/titans-of-tech-talk-blending-blizzards-magic-with-microsofts-machine-intelligence-interview/"><u>Titans of Tech Talk: Blending Blizzard's Magic with Microsoft's Machine Intelligence [Interview]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-thrilling-new-capabilities-of-bard-introduced-at-googles-2023-developer-conference/"><u>Top 7 Thrilling New Capabilities of BARD Introduced at Google's 2023 Developer Conference</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-creating-custom-tasks-for-chatgpt-the-best-methods/"><u>Ultimate Guide to Creating Custom Tasks for ChatGPT - The Best Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-public-private-and-personal-ai-key-distinctions-explained/"><u>Understanding Public, Private & Personal AI: Key Distinctions Explained</u></a></li>
 </ul></div>
 

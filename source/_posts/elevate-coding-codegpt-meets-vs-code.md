@@ -1,7 +1,7 @@
 ---
 title: "Elevate Coding: CodeGPT Meets VS Code"
-date: 2024-11-17T01:01:24.223Z
-updated: 2024-11-21T20:03:43.413Z
+date: 2024-11-25T22:41:17.566Z
+updated: 2024-11-29T21:07:18.368Z
 tags:
   - chatgpt
   - open-ai
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  However, the current AI models like ChatGPT-4 and Google Bard haven't yet advanced to a point they can consistently pass the Turing test. In fact, if you're familiar with AI, you can[spot AI-generated text](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The 5 Best Turing Test Alternatives
 
  It's possible that[future AI models like ChatGPT-5](https://www.makeuseof.com/when-will-gpt5-launch/) could pass the Turing test. If that happens, we would need different tests combined with the Turing test to identify if we're talking to an AI or a human. Here are the best Turing test alternatives:
@@ -54,9 +50,17 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  According to a research paper published on[PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112) , the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the[visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
@@ -66,12 +70,16 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the[thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014.
 
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However,[artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Reverse Turing Test
@@ -84,24 +92,16 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes[AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
@@ -125,20 +125,20 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-storytelling-infuse-your-videos-and-stories-with-tunes/"><u>[Updated] In 2024, Instagram Storytelling Infuse Your Videos & Stories with Tunes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-review-is-aurora-revolutionary/"><u>2024 Approved In-Depth Review Is Aurora Revolutionary?</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-secure-network-shadows-in-windows/"><u>Crafting Secure Network Shadows in Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-12-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 12 Pro Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-masterclass-using-magix-video-pro-x/"><u>In 2024, Masterclass Using Magix Video Pro X</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-iphone-15-pro-max-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your iPhone 15 Pro Max has bad ESN or blacklisted IMEI?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/reviewing-tech-trends-the-vlle-method-for-2024/"><u>Reviewing Tech Trends The VLLE Method for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-ultimate-youtube-editors-handbook-a-step-by-step-journey/"><u>The Ultimate YouTube Editor's Handbook A Step-by-Step Journey</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-digital-landscapes-the-impact-of-ai-powered-search-engines-on-modern-sites/"><u>Transforming Digital Landscapes: The Impact of AI-Powered Search Engines on Modern Sites</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ubuntu-meets-ai-automating-with-auto-gpt/"><u>Ubuntu Meets AI: Automating with Auto-GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-metaphorical-comparison-of-the-internet-to-a-universal-free-library-system/"><u>Understanding the Metaphorical Comparison of the Internet to a Universal, Free Library System</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-ai-potential-the-finest-20-chatgpt-prompts-curated-via-github-platforms/"><u>Unleashing AI Potential: The Finest 20 ChatGPT Prompts Curated via Github Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unreliable-outcomes-with-zerogpt-here-are-4-instances-to-prove-it/"><u>Unreliable Outcomes with ZeroGPT? Here Are 4 Instances to Prove It</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-mechanics-of-on-device-ai-an-informative-guide/"><u>Unveiling the Mechanics of On-Device AI: An Informative Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-mechanics-how-are-chatbots-programmed-to-engage-in-dialogue-with-humans/"><u>Unveiling the Mechanics: How Are Chatbots Programmed to Engage in Dialogue with Humans?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-your-content-choose-these-top-10-reel-apps/"><u>[New] Mastering Your Content Choose These Top 10 Reel Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-perpetual-screen-snapshot/"><u>[New] Perpetual Screen Snapshot</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unveiling-8-leading-cost-effective-open-source-video-solutions/"><u>[New] Unveiling 8 Leading Cost-Effective Open Source Video Solutions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-champions-of-3d-spatial-displays/"><u>[Updated] Champions of 3D Spatial Displays</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Xiaomi Civi 3 Disney 100th Anniversary Edition to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigate-hdri-windows-powered-editing-wonders/"><u>Navigate HDRI Windows-Powered Editing Wonders</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tutorial-activate-gpts-beta-browser-and-plugin-functionality/"><u>Tutorial: Activate GPT's Beta Browser & Plugin Functionality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-ai-hallucinations-identification-and-detection-strategies/"><u>Understanding AI Hallucinations: Identification & Detection Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-fraudgpt-essential-tips-to-safeguard-against-cyber-threats/"><u>Understanding FraudGPT: Essential Tips to Safeguard Against Cyber Threats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-creative-solutions-top-8-applications-of-chatgpt-in-visual-fields/"><u>Unlocking Creative Solutions: Top 8 Applications of ChatGPT in Visual Fields</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-document-mysteries-with-chatgpts-4-reading-techniques/"><u>Unlocking Document Mysteries with ChatGPT's 4 Reading Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-the-ai-talk-twist-gpt-vs-bingbot-breakdown/"><u>Unraveling the AI Talk Twist: GPT Vs. BingBot Breakdown</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-googles-gemini-the-evolution-of-its-ai-quest/"><u>Unveiling Google's Gemini: The Evolution of Its AI Quest</u></a></li>
 </ul></div>
 

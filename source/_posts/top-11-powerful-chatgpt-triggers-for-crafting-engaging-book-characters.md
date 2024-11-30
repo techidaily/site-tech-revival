@@ -1,7 +1,7 @@
 ---
 title: Top 11 Powerful ChatGPT Triggers for Crafting Engaging Book Characters
-date: 2024-11-18T00:48:14.306Z
-updated: 2024-11-21T18:42:25.510Z
+date: 2024-11-25T20:53:32.311Z
+updated: 2024-11-29T18:12:05.259Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
 ![Find Your Next Book gives you book recommendations based on your ChatGPT prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-find-your-next-book.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Author Screenshot by Mihir Patkar - No attribution required
 
  Find Your Next Book (FYNB) calls it an AI-powered librarian. The bot, based on OpenAI, has "read" a large database of books and can now recommend what you should read based on any query. It processes natural language and urges you to specify your queries in detail. So rather than writing something like "a murder mystery,"[write an effective ChatGPT prompt](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) like "a murder mystery set in the future but not in a dystopian world."
@@ -37,12 +33,16 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
  FYNB will take a few minutes to process your request and then give you one recommendation at a time. The recommendation page includes a summary of why the AI thinks the book's topics match what you are looking to read, as well as a non-AI-generated description of the book, like what you're likely to find on the back cover. If you aren't happy with the result, click the "Next Book" button for another recommendation with the same prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2.[Sona](https://www.readthistwice.com/sona) (Web): Quickly Browse a Long List of AI-Recommended Books
 
 ![Sona is an AI book recommendation engine by the makers of Read This Twice that makes AI prompt results easy to read](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-read-this-twice-sona.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -53,16 +53,12 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
  However, in the results, Sona disappointingly doesn't rely on Read This Twice's core expertise by showing which books are recommended by someone influential. There is a workaround to that, though. If you register on the site, you'll be able to add these books to your personal library and go there to see who has promoted the book.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3.[Next Three Books](https://www.nextthreebooks.com/) (Web): Filter Book Recommendations by Type, Genre, Length, Style
 
 ![Next Three Books suggests three titles from a ChatGPT prompt, and lets you filter results by genre, writing style, length, and type of book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-next-three-books.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -83,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
 ![Readow uses AI to recommend books based on what you've liked in the past](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-readow.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Author Screenshot by Mihir Patkar - No attribution required
 
  Most AI-powered book recommendation sites want to use the power of ChatGPT to let you write a simple sentence about what you're looking for, just like you would ask a friend. But figuring out the right prompt can be difficult if you're not used to this. If you're struggling with the other apps, try Readow.
@@ -99,13 +99,13 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
 ![BooksAI can summarize a book without spoilers, or give a detailed summary broken down by chapters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Author Screenshot by Mihir Patkar - No attribution required
 
 ![BooksAI uses ChatGPT to summarize any book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -138,22 +138,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-youtube-shorts-a-beginners-guide-to-video-crafting/"><u>[Updated] Exploring YouTube Shorts A Beginner's Guide to Video Crafting</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-guide-to-podcast-style-unboxing/"><u>[Updated] The Ultimate Guide to Podcast-Style Unboxing</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/claim-the-future-how-claude-redefines-data-insights-and-solutions/"><u>Claim the Future: How Claude Redefines Data Insights and Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-strong-and-weak-ai-an-in-depth-look-at-what-sets-them-apart/"><u>Comparing Strong and Weak AI: An In-Depth Look at What Sets Them Apart</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-compilation-of-20-best-github-chatgpt-sessions/"><u>Comprehensive Compilation of 20 Best Github ChatGPT Sessions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-j5-tactical-prov1-led-flashlight-analysis-sturdy-and-miniature-design/"><u>Comprehensive J5 Tactical ProV1 LED Flashlight Analysis – Sturdy and Miniature Design</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cooking-up-wellness-can-chatgpt-guide-you-through-healthy-recipes/"><u>Cooking Up Wellness: Can ChatGPT Guide You Through Healthy Recipes?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/craft-a-copycat-ai-writer-guidelines-on-training-chatgpt-like-you-do/"><u>Craft a Copycat AI Writer: Guidelines on Training ChatGPT Like You Do</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creating-an-account-with-just-your-email-steps-for-signing-up-to-chatgpt-and-other-messaging-services/"><u>Creating an Account with Just Your Email: Steps for Signing Up to ChatGPT and Other Messaging Services</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-impact-of-shape-on-ml-transparency/"><u>Decoding the Impact of ShapE on ML Transparency</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-25-prime-festive-season-ipad-discounts-your-ultimate-guide-to-saving-big-powered/"><u>Discover 25 Prime Festive Season iPad Discounts - Your Ultimate Guide to Saving Big, Powered</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-future-key-insights-into-next-gen-cyber-threats-and-prevention/"><u>Discover the Future: Key Insights Into Next-Gen Cyber Threats & Prevention</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oppo-f25-pro-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Oppo F25 Pro 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-get-cheap-quality-gopro-cameras-today/"><u>In 2024, How to Get Cheap, Quality GoPro Cameras Today</u></a></li>
-<li><a href="https://fox-access.techidaily.com/ios-integration-listening-to-podcasts-made-easy/"><u>IOS Integration Listening to Podcasts Made Easy</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/optimizing-power-usage-unlocking-secrets-of-the-windows-10-battery-diagnostics-feature/"><u>Optimizing Power Usage: Unlocking Secrets of the Windows 10 Battery Diagnostics Feature</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-digital-chromatic-conventions-in-media-production/"><u>[New] Digital Chromatic Conventions in Media Production</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-youtubes-virality-secrets-effective-hashtag-strategies/"><u>[New] In 2024, YouTube's Virality Secrets Effective Hashtag Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-audio-no-cost-lut-repository-summary/"><u>[New] Premium Audio No-Cost LUT Repository Summary</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlining-post-processing-with-effective-use-of-luts-in-pscc/"><u>[Updated] Streamlining Post-Processing with Effective Use of LUTs in PSCC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-analysis-of-gemini-vs-chatgpt-plus-determining-top-performance/"><u>Advanced Analysis of Gemini Vs. ChatGPT Plus - Determining Top Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008596947-assassins-creed-odyssey-pc-version-now-stable-and-crash-free/"><u>Assassin's Creed Odyssey PC Version Now Stable and Crash-Free</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721893029951-breaking-down-twitters-new-axe-feature-exploring-chatgpt-issues-linus-tech-tips-security-breach-and-an-in-depth-look-at-trojan-viruses/"><u>Breaking Down Twitter’s New 'Axe' Feature: Exploring ChatGPT Issues, Linus Tech Tips Security Breach, and an In-Depth Look at Trojan Viruses.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721947116928-discover-talk-directly-to-chatgpt/"><u>Discover: Talk Directly to ChatGPT!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722134124453-easy-enrollment-start-using-microsofts-ai-boosted-search-service-now/"><u>Easy Enrollment: Start Using Microsoft's AI-Boosted Search Service Now</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cut-editing-time-in-half-with-these-adobe-premiere-shortcuts/"><u>In 2024, Cut Editing Time in Half with These Adobe Premiere Shortcuts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-video-compression-in-imovie-tips-and-tricks-for-optimal-quality-retention/"><u>Mastering Video Compression in iMovie: Tips and Tricks for Optimal Quality Retention</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722157283102-revolutionize-your-internet-experience-with-these-7-must-have-chatgpt-extensions-for-enhanced-browsing-interactions/"><u>Revolutionize Your Internet Experience with These 7 Must-Have ChatGPT Extensions for Enhanced Browsing Interactions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solve-sd-card-disappearance-in-pcs-explore-window/"><u>Solve SD Card Disappearance in PC's Explore Window</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-claude-ai-the-ultimate-guide-on-usage-and-advantages/"><u>Unveiling Claude AI: The Ultimate Guide on Usage & Advantages</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-switching-to-chatgpts-desktop-application-is-a-smart-choice-over-using-its-online-version/"><u>Why Switching to ChatGPT's Desktop Application Is a Smart Choice Over Using Its Online Version</u></a></li>
 </ul></div>
 

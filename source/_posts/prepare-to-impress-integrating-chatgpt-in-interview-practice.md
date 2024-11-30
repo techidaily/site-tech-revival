@@ -1,7 +1,7 @@
 ---
 title: "Prepare to Impress: Integrating ChatGPT in Interview Practice"
-date: 2024-11-14T19:16:29.157Z
-updated: 2024-11-21T20:46:58.492Z
+date: 2024-11-24T04:42:36.824Z
+updated: 2024-11-29T16:40:37.610Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s OpenAI Got to Do With the New AI-Powered Bing?
@@ -35,12 +35,16 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
 ![openai logo on code background feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/openai-logo-on-code-background-feature.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft recently invested nearly 10 billion dollars into OpenAI, and Bing’s new AI prowess is just the start of this long-term strategic partnership.
 
  According to[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's New in Bing?
 
@@ -56,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
 
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's New in Microsoft Edge?
 
  Over the past few years, Microsoft has significantly improved Edge with incredible features that have allowed it to compete directly against Google Chrome. With the latest capabilities of Bing + AI, Microsoft has made Edge even more potent with new AI features and an updated look.
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Bing Reinvents Web Searching
@@ -101,21 +101,14 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-refine-your-remote-sessions-zoom-in-effectively/"><u>[Updated] 2024 Approved Refine Your Remote Sessions Zoom in Effectively</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-obs-or-streamlabs-experts-take-on-best-live-broadcast-software/"><u>2024 Approved OBS or Streamlabs? Expert's Take on Best Live Broadcast Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-growth-fueling-a-new-wave-of-security-threats/"><u>AI Growth: Fueling a New Wave of Security Threats</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-practice-queries-for-crypto-and-gpt-blend/"><u>Best-Practice Queries for Crypto & GPT Blend</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-emotional-awareness-mastering-eq-with-chatgpt/"><u>Boosting Emotional Awareness: Mastering EQ with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-we-trust-chatgpts-answers-separating-fact-from-fiction/"><u>Can We Trust ChatGPT's Answers - Separating Fact From Fiction</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-you-trust-chatgpt-with-personal-information-addressing-privacy-matters/"><u>Can You Trust ChatGPT with Personal Information? Addressing Privacy Matters</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-vs-google-bard-showdown-evaluating-top-performers-in-ai-conversations/"><u>ChatGPT Vs. Google Bard Showdown: Evaluating Top Performers in AI Conversations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-proofreading-partner/"><u>ChatGPT: Proofreading Partner?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210062336-9786074525885-el-poder-de-la-oracion/"><u>El poder de la oración | Free Book</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-smooth-gameplay-fix-your-ping-and-lag-in-chivalry-2-using-modern-techniques-2024-insights/"><u>Mastering Smooth Gameplay: Fix Your Ping and Lag in Chivalry 2 Using Modern Techniques (2024 Insights)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/no-cost-screen-record-the-ultimate-win11-tools-1-5-listing-for-2024/"><u>No-Cost Screen Record The Ultimate Win11 Tools #1-5 Listing for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-the-potential-of-still-photos-through-video-creation-in-pixiz-for-2024/"><u>Unlock the Potential of Still Photos Through Video Creation in Pixiz for 2024</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/wireless-iphone-datentransfer-ohne-zurucksetzen-mit-fonetool-mobilgerate/"><u>Wireless iPhone-Datentransfer Ohne Zurücksetzen Mit FoneTool - Mobilgeräte</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-harnessing-instagram-video-potential-crafting-a-strong-marketing-strategy/"><u>[New] 2024 Approved Harnessing Instagram Video Potential Crafting a Strong Marketing Strategy</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-what-is-mixed-reality-in-2024/"><u>[New] What Is Mixed Reality, In 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-livestream-platform-push-facebook-vs-youtube-and-periscope/"><u>[Updated] In 2024, Livestream Platform Push Facebook Vs. YouTube & Periscope</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/customize-your-screenscape-google-meets-dynamic-background-switch/"><u>Customize Your Screenscape Google Meet's Dynamic Background Switch</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-tips-for-capturing-stunning-close-up-footage/"><u>In 2024, Pro Tips for Capturing Stunning Close-Up Footage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-the-distinctions-gpt-4-vs-gpt-4-turbo-vs-phi-a-comparative-analysis/"><u>Unraveling the Distinctions: GPT-4 Vs. GPT-4 Turbo Vs. Phi - A Comparative Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-7-diverse-programming-assistants-to-gpt/"><u>Unveiling 7 Diverse Programming Assistants to GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-top-six-ways-chatgpt-has-impacted-our-lives/"><u>Unveiling the Top Six Ways ChatGPT Has Impacted Our Lives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/which-wins-analyzing-llama-3-against-gpt-4-performance/"><u>Which Wins? Analyzing Llama 3 Against GPT-4 Performance</u></a></li>
 </ul></div>
 

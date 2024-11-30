@@ -1,7 +1,7 @@
 ---
 title: My Podcast Journey with AI Texting
-date: 2024-11-01T02:36:31.792Z
-updated: 2024-11-03T01:59:52.295Z
+date: 2024-11-23T01:45:54.809Z
+updated: 2024-11-30T08:16:35.480Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Speak to ChatGPT
 
  ChatGPT's Whisper integration allows you to use your voice to speak with ChatGPT instead of typing. The beauty of this lies in the fact that you can speed up your prompts instead of typing long and descriptive sentences.
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
  To access ChatGPT's voice input feature on your phone, you'll need to download and install the official ChatGPT app for mobile devices. Once you sign in with your OpenAI account, you're all set to take advantage of the Whisper feature.
 
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
@@ -56,30 +64,17 @@ Close
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -87,10 +82,7 @@ Close
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
@@ -112,19 +104,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-quality-screen-recording-for-windows-10-pro/"><u>[Updated] Top Quality Screen Recording for Windows 10 Pro</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/2024s-a-list-of-external-cddvd-players-expertly-curated-top-drives-for-tech-savvy-users/"><u>2024'S A-List of External CD/DVD Players: Expertly Curated Top Drives for Tech Savvy Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-automation-8-critical-reasons-why-content-writers-shouldnt-depend-on-ai-chatbots/"><u>Beyond Automation: 8 Critical Reasons Why Content Writers Shouldn't Depend on AI Chatbots</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/building-tailored-chatbot-solutions-with-custom-data-integration/"><u>Building Tailored Chatbot Solutions with Custom Data Integration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-plus-vs-free-gpt-n-unveiling-the-advantages-that-make-it-worth-your-investment/"><u>ChatGPT Plus Vs. Free GPT-N: Unveiling the Advantages That Make It Worth Your Investment</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-paperclip-conundrum-insights-into-ai-development-and-ethics/"><u>Decoding the Paperclip Conundrum: Insights Into AI Development and Ethics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-how-learning-chatgpt-can-advance-your-job-search-and-performance/"><u>Discover How Learning ChatGPT Can Advance Your Job Search & Performance</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-zte-axon-40-lite-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked ZTE Axon 40 Lite Phone | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-unlock-the-secrets-of-great-video-tutorial-production/"><u>In 2024, Unlock the Secrets of Great Video Tutorial Production</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-realme-10t-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Realme 10T 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/regaining-access-effective-strategies-to-recover-the-forgotten-admin-password-of-your-hyper-v-virtual-environment/"><u>Regaining Access: Effective Strategies to Recover the Forgotten Admin Password of Your Hyper-V Virtual Environment</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/revealing-the-quintessential-5-titling-visionaries-online/"><u>Revealing the Quintessential 5 Titling Visionaries Online</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/rise-above-top-tactics-for-a-standout-youtube-live-without-million-followers/"><u>Rise Above Top Tactics for a Standout Youtube Live without Million Followers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tap-into-gpt-4-for-zero-expense-explore-these-5-free-gateways/"><u>Tap Into GPT-4 for Zero Expense: Explore These 5 FREE Gateways</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fcps-ultimate-effect-upgrade-the-best-10-plugins/"><u>[New] FCP’s Ultimate Effect Upgrade The Best 10 Plugins</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-urban-elegance-best-6-modern-mc-mansions/"><u>[New] In 2024, Urban Elegance Best 6 Modern MC Mansions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-premium-video-artwork-download-at-no-cost-today/"><u>Enjoy Premium Video Artwork - Download at No Cost Today!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-using-wireless-earbuds-on-your-switch-is-it-possible-with-airpods/"><u>Guide: Using Wireless Earbuds on Your Switch - Is It Possible With AirPods?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-subtitling-in-final-cut-pro-x-tips-and-tricks-for-2024/"><u>New The Ultimate Guide to Subtitling in Final Cut Pro X Tips and Tricks for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguarding-your-information-with-tailored-ai-tools/"><u>Safeguarding Your Information with Tailored AI Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/scrutinizing-creativity-boost-vs-maintaining-authenticity-via-ai/"><u>Scrutinizing Creativity Boost vs Maintaining Authenticity via AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/skype-vs-snapchat-top-8-in-ai-divergence/"><u>Skype vs Snapchat: Top 8 in AI Divergence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/speaking-up-how-chatgpt-by-openai-answers-prompts-vocally/"><u>Speaking Up: How ChatGPT by OpenAI Answers Prompts Vocally</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/starting-your-journey-as-a-prompt-engineer-key-steps-and-strategies/"><u>Starting Your Journey as a Prompt Engineer: Key Steps and Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-risks-of-using-artificial-intelligence-chatbots-for-creating-authentic-windows-11-keycodes/"><u>The Risks of Using Artificial Intelligence Chatbots for Creating Authentic Windows 11 Keycodes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-teaching-with-artificial-intelligence-8-inspiring-reasons-every-instructor-should-embrace-it/"><u>Transform Your Teaching with Artificial Intelligence: 8 Inspiring Reasons Every Instructor Should Embrace It</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-pcs-cooling-with-noctuas-back-in-business-exceptional-120mm-airflow-at-a-steal-for-99/"><u>Upgrade Your PC's Cooling with Noctua's Back in Business – Exceptional 120Mm Airflow at a Steal for $99!</u></a></li>
 </ul></div>
 

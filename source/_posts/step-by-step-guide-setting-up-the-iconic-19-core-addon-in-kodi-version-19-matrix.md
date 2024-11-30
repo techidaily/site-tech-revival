@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up the Iconic 19 Core Addon in Kodi Version 19 Matrix"
-date: 2024-09-09 17:56:35
-updated: 2024-09-11 11:33:26
+date: 2024-11-28T20:42:33.887Z
+updated: 2024-11-29T17:18:36.528Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/3e56236a6a85ebcb93515ebe970da664f41c03cdc9a40751e6b62b7a56683a32.jpg
@@ -75,7 +75,15 @@ Tips: You can also click on the “**Parameter settings**” button to [change t
 
 ![Windows Media Audio to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-2.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Media Audio to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-2-mobi.webp) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Convert WMA Files to MP3 Now
 
@@ -86,6 +94,10 @@ Go back to the main interface, and click the triangle button to specify an outpu
 ![WMA File to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-3.webp) 
 
 ![WMA File to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-3-mobi.webp) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Also Read: [Play WMA on iPhone](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) | [Play WMA on Android](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) | [Five WMA Editors](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
@@ -101,10 +113,18 @@ Step 3: Click on “**Import Settings**” from the “**Files (General)**” ta
 
 ![Convert WMA to MP3 Mac](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-4-mobi.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Find the files you want to convert in the library. Or you can add the local files to the library by selecting “**File**” > “**Add File**”.  
 Step 4: Select the WMA file, click the “**File**” menu and select “**Convert**” > “**Create MP3 Version**”. Then your WMA files can be converted to MP3.
 
 ![Convert WMA Files to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-5.webp) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Convert WMA Files to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-5-mobi.webp) 
 
@@ -116,10 +136,18 @@ Another desktop WMA to MP3 free converter is VLC. VLC is an open-source media pl
 
 ![VLC Convert WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-6-mobi.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 1: Open VLC media player, go to “**Media**” > “**Convert/Save**” in the menu bar, you can also directly press the shortcut key “**Ctrl+R**”.  
 Step 2: Hit the “**\+ Add**” button to import the WMA files and press the “**Convert/Save**” button below.  
 Step 3: Navigate to the Profile part and select “**Audio-MP3**” from the drop-down list.  
 Step 4: Click on “**Browse**” to specify an output file and hit the “**Start**” button to start the conversion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. ZamZar (Online)
 
@@ -142,6 +170,10 @@ If the size of your WMA files exceeds the maximum file size of ZamZar, you can a
 
 ![Convert WMA to MP3 Online Free](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-8.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Convert WMA to MP3 Online Free](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-8-mobi.webp) 
 
 The conversion steps are quite easy. Just follow the simple tutorial below:
@@ -157,6 +189,10 @@ Then you can download the converted MP3 files.
 The five listed methods are all free and easy to handle. Besides WMA to MP3 conversion, you can also take them to solve other format incompatibility issues and play the video and audio files anywhere and anytime. But it is still recommended to use desktop converters to convert multiple or large files due to the file limitations of online tools. Just choose one converter compatible with your operating system and start converting now!
 
 ## FAQs about WMA to MP3 Conversion
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q1\. What is WMA and MP3?
 
@@ -193,13 +229,15 @@ WonderFox HD Video Converter Factory Pro
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png "Back to Top")](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -207,3 +245,27 @@ WonderFox HD Video Converter Factory Pro
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/est-youtube-to-mp3-converters-free-download-onlinewinmac/"><u>[New] Best YouTube to MP3 Converters Free Download [Online/Win/Mac]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capturing-attention-striking-shots-for-youtube-success/"><u>[New] In 2024, Capturing Attention Striking Shots for YouTube Success</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-into-every-detail-a-deep-dive-into-dji-phantom-4/"><u>[Updated] 2024 Approved Into Every Detail A Deep Dive Into DJI Phantom 4</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-androids-video-recording-techniques-explored/"><u>[Updated] In 2024, Android's Video Recording Techniques Explored</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-13-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone 13</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-chargetechs-high-capacity-27000mah-power-bank/"><u>Comprehensive Review of the ChargeTech's High-Capacity 27000mAh Power Bank</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/lautstarke-und-nicht-bootende-festplatten-problemlosung-fur-interne-and-externe-laufwerke/"><u>Lautstarke Und Nicht Bootende Festplatten - Problemlösung Für Interne & Externe Laufwerke</u></a></li>
+<li><a href="https://windows11.techidaily.com/lightweight-window-navigators-ram-usage-tested-and-rated/"><u>Lightweight Window Navigators: Ram Usage Tested and Rated</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/mastering-the-restore-filelistonly-function-in-microsoft-sql-server/"><u>Mastering the RESTORE FILELISTONLY Function in Microsoft SQL Server</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-synergy-between-onlyoffice-docspace-and-chatgpt-elevating-workplace-performance-to-new-heights/"><u>The Synergy Between OnlyOffice Docspace and ChatGPT: Elevating Workplace Performance to New Heights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-choosing-between-chatgpt-and-bing-chat-for-ai-conversations/"><u>The Ultimate Guide to Choosing Between ChatGPT and Bing Chat for AI Conversations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-showdown-chatgpt-vs-gemini-for-programming-excellence/"><u>The Ultimate Showdown: ChatGPT Vs. Gemini for Programming Excellence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-walkthrough-to-implementing-gpt-3-in-playground-mode-by-openai/"><u>The Ultimate Walkthrough to Implementing GPT-3 in Playground Mode by OpenAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-ai-detection-applications-for-educators-and-managers-identifying-chatgpt-usage/"><u>Top 4 AI Detection Applications for Educators & Managers: Identifying ChatGPT Usage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-strategies-for-crafting-engaging-games-with-chatgpts-scriptwriting-skills/"><u>Top 6 Strategies for Crafting Engaging Games with ChatGPT's Scriptwriting Skills</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-benefits-for-educators-embracing-artifice-intelligence-in-the-classroom/"><u>Top 8 Benefits for Educators Embracing Artifice Intelligence in the Classroom</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-digital-discovery-microsoft-bings-leap-into-ai-enhanced-search/"><u>Transforming Digital Discovery: Microsoft Bing's Leap Into AI-Enhanced Search</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unclogging-saturation-issue-gpt-in-windows/"><u>Unclogging Saturation Issue: GPT in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-binge-on-max-right-now-our-expert-selection/"><u>What to Binge on Max Right Now? Our Expert Selection!</u></a></li>
+</ul></div>
+

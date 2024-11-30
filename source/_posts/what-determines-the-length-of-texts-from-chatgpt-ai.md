@@ -1,7 +1,7 @@
 ---
 title: What Determines the Length of Texts From ChatGPT AI?
-date: 2024-11-18T22:48:04.733Z
-updated: 2024-11-21T17:42:39.205Z
+date: 2024-11-25T01:41:05.160Z
+updated: 2024-11-30T00:34:07.564Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/7e02bd572984315c91b0feee5bb97c59ecfef3acd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is GPT-4?
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/7e02bd572984315c91b0feee5bb97c59ecfef3acd
  It has been trained on a massive corpus of text data and can perform a wide range of[natural language processing](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) tasks with impressive accuracy and fluency.
 
  Before its public launch, the prospect of GPT-4 generated huge excitement in the AI community due to its touted capabilities and potential applications in various fields. Now, GPT-4 is here, but how can you access it?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Access GPT-4 on ChatGPT
 
@@ -49,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/7e02bd572984315c91b0feee5bb97c59ecfef3acd
  For the free tier users, to get started with GPT-4, you'll need a ChatGPT Plus subscription. So, how do you upgrade to ChatGPT Plus?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Upgrade to ChatGPT Plus
@@ -64,19 +68,15 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 ![ChatGPT plus comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-comparison.jpg)
 4. Up next, you'll be redirected to a page to provide your credit card details and other billing information. Provide all the required information and make payment.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Once your payment has been confirmed, you should now have access to the OpenAI GPT-4 model alongside the older GPT-3.5 default and GPT-3.5 legacy models.
 6. Choose the GPT-4 model from the drop-down on your ChatGPT chat interface, select the mode you want, and start using GPT-4 with ChatGPT.  
 ![screenshot of ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-code-interpreter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  One way to be sure you're using the GPT-4 model instead of the older models is to check the color of the OpenAI logo that precedes ChatGPT's responses. GPT-3.5 model responses are preceded with a green-white logo, while GPT-4 responses are preceded with a black-white logo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is the Difference Between GPT-3.5 and GPT-4?
 
@@ -91,7 +91,7 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
  GPT-4 is a multimodal AI model with a significantly larger context window, able to process both text and image inputs. Its full capabilities were demoed during the official GPT-4 announcement event but have not been pushed to the public, likely due to a shortage of computer chips needed to back the massive amount of compute power required for such features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Usage Cap
@@ -129,14 +129,24 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-15-pro-max-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-iphone-13-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the iPhone 13 Without Previous Owner?</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-minecraft-launcher-problem-code-0x803f8001-in-win/"><u>Resolving Minecraft Launcher Problem Code 0X803F8001 in Win</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-novels-characters-using-these-11-powerful-ai-prompt-techniques/"><u>Revolutionize Your Novel's Characters Using These 11 Powerful AI Prompt Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/safeguard-digital-assets-block-ai-bots/"><u>Safeguard Digital Assets: Block AI Bots</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/six-budget-friendly-artificial-intelligence-options/"><u>Six Budget-Friendly Artificial Intelligence Options</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamline-content-creation-using-hix-ai-plus-gpt-4-technology/"><u>Streamline Content Creation Using HIX AI + GPT-4 Technology</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-lava-yuva-2-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Lava Yuva 2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-complete-guide-for-stable-play-of-horizon-zero-dawn-on-desktops/"><u>Troubleshooting Complete Guide for Stable Play of Horizon Zero Dawn on Desktops</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-maximizing-efficiency-video-capturing-in-adobe-presenter/"><u>[New] 2024 Approved Maximizing Efficiency Video Capturing in Adobe Presenter</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-periscope-stars-in-snapchat-highlights-for-2024/"><u>[New] Periscope Stars in Snapchat Highlights for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-adjusting-obs-encoding-settings-for-2024/"><u>[Updated] Adjusting OBS Encoding Settings for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-cutting-edge-techniques-a-guide-to-next-level-effectiveness-in-your-youtube-ads/"><u>[Updated] In 2024, Cutting-Edge Techniques A Guide to Next-Level Effectiveness in Your YouTube Ads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-auto-gpts-efficacy-without-gpt-4/"><u>Decoding Auto-GPT’s Efficacy without GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-top-reasons-why-enterprises-are-cutting-off-chatgpt-access/"><u>Discover the Top Reasons Why Enterprises Are Cutting Off ChatGPT Access</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/educational-edge-5-innovative-ways-for-students-to-harness-the-power-of-chatgpt/"><u>Educational Edge: 5 Innovative Ways for Students to Harness the Power of ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-content-game-with-8-essential-ai-tools-for-writers/"><u>Elevate Your Content Game with 8 Essential AI Tools for Writers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-content-creation-top-8-artificial-intelligence-resources-for-writers/"><u>Enhancing Content Creation: Top 8 Artificial Intelligence Resources for Writers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-guide-to-generating-unique-images-with-microsoft-copilot-technology/"><u>Expert Guide to Generating Unique Images with Microsoft Copilot Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-alternatives-the-reasons-to-avoid-using-artificial-intelligence-in-generating-windows-11-product-keys/"><u>Exploring Alternatives: The Reasons to Avoid Using Artificial Intelligence in Generating Windows 11 Product Keys</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-finest-free-ai-creation-software/"><u>Exploring the Finest Free AI Creation Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-process-of-ai-transfer-learning-key-concepts-unveiled/"><u>Exploring the Process of AI Transfer Learning - Key Concepts Unveiled</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-v27e-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/maximize-conversion-rates-using-cutting-edge-cookiebot-solutions/"><u>Maximize Conversion Rates Using Cutting-Edge Cookiebot Solutions</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-an-ai-video-generator-in-2024/"><u>New What Is an AI Video Generator, In 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-vpn-connection-issues-here-are-7-effective-solutions/"><u>Struggling with iPhone VPN Connection Issues? Here Are 7 Effective Solutions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/winrecovery-your-key-to-regaining-lost-data/"><u>WinRecovery: Your Key to Regaining Lost Data</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What Does the Co-Pilot Extension Do for ChatGPT?
-date: 2024-11-20T23:03:13.600Z
-updated: 2024-11-21T18:52:44.219Z
+date: 2024-11-24T21:49:39.755Z
+updated: 2024-11-30T02:02:55.961Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Prompt Perfect
 
  The responses you get from the ChatGPT are only as good as the prompts you provide. But prompting can be tricky--it's a game of hits and misses. Prompt Perfect is a ChatGPT plugin that helps you[craft well-structured and effective prompts that will get you the results you want](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) .
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
 
 ![ChatGPT Prompt perfect plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-perfect-plugin-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Link Reader
 
  Another useful ChatGPT plugin is the aptly named Link Reader plugin. Although its primary function is reading the content of the links you provide, when paired with other ChatGPT plugins, there's a lot you can do with it. From summarizing the content of web pages to fact-checking news, the possibilities are endless.
@@ -41,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
  In the example below, we paired the Link Reader plugin with ChatGPT's inbuilt browsing feature to fact-check a news article.
 
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. InstaCart
 
@@ -56,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
 
 ![InstaCart and ChatGPT in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/instacart-and-chatgpt-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When we replied "yes," InstaCart generated a link to a shopping list of the remaining ingredient we'll need to cook Jollof rice.
 
 ![Jollof Rice shopping list by InstaCart ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/jollof-rice-shopping-list-by-instacart-chatgpt-plugin.jpg)
@@ -63,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
 
 ![InstarCart Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/instarcart-plugin-in-action.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Wolfram
 
@@ -80,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
 
  Wolfram was able to run the generated information against its database to check for accuracy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. ChatWithPDF
 
  The ChatWithPDF plugin does exactly what the name suggests. With this handy tool, you can effortlessly[use ChatGPT to extract information from any PDF file](https://www.makeuseof.com/chatgpt-read-pdf-ways/) by simply providing a link to it. No additional steps are required—just share the PDF link in your prompt and begin asking your questions.
@@ -96,15 +104,7 @@ Does GPT-4 have visual input abilities? Use the PDF at the URL "<https://cdn.ope
 
 ![GPT-4 visual input abilities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/gpt-4-visual-input-abilities.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Turns out another important use case is making sense of technical documents like this.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Video Insights
 
@@ -118,10 +118,6 @@ What's the YouTube video at this URL (<https://www.youtube.com/watch?v=OFvXuyITw
 
 Yes, it was a spot-on description of the video if you're wondering.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. SceneXplain
 
  SceneXplain is a hidden gem we found tucked away in the ChatGPT plugin store. What does it do? It takes an image URL as input and returns a detailed description of the image. It is quite impressive in describing complex scenes with multiple people and objects. When we tried it, its descriptions of 12 of the 14 images we tried were spot on, although it can be a bit overly artistic or dramatic in its choice of words. On its own, SceneXplain might not have a lot of use cases. But when combined with other tools, it comes quite handy.
@@ -129,6 +125,10 @@ Yes, it was a spot-on description of the video if you're wondering.
  We drew an image of a web page layout and asked ChatGPT to create an HTML and CSS code that replicates the layout by invoking SceneXplain. The results weren't too far off the mark.
 
 ![SceneXplain plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/scenexplain-plugin-in-action.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To use the plugin, use a prompt like:
 
@@ -143,7 +143,7 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 ![There is an AI for that ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/there-is-an-ai-for-that-chatgpt-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. What to Watch
@@ -153,7 +153,7 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
  If your prompting skills aren't particularly strong, you'll find it useful. However, if you know your way around ChatGPT prompts, you might be better off using your own ChatGPT prompts, in which case we recommend checking out our comprehensive[guide on using ChatGPT to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Embrace ChatGPT Plugins
@@ -175,18 +175,22 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-max-views-max-impact-discover-best-posting-days/"><u>[New] 2024 Approved Max Views, Max Impact Discover Best Posting Days</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-behind-the-scenes-of-music-enhanced-snapchats/"><u>[New] Behind the Scenes of Music-Enhanced Snapchats</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-comprehensive-guide-to-permanently-sever-tiktok-connection/"><u>[Updated] Comprehensive Guide to Permanently Sever TikTok Connection</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-picks-scrutinizing-active-and-leading-recorders-feats/"><u>[Updated] In 2024, Top Picks Scrutinizing Active and Leading Recorder's Feats</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-13-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 13 How to Bypass?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/efficient-srt-to-sub-conversion-strategies/"><u>Efficient SRT to SUB Conversion Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-chatgpt-discussions-seamlessly-through-the-use-of-organizational-folders/"><u>Navigating ChatGPT Discussions Seamlessly Through the Use of Organizational Folders</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimizing-dietary-habits-using-ai-insights/"><u>Optimizing Dietary Habits Using AI Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-setting-up-chatgpt-on-linux-with-bavarder/"><u>Step-by-Step Tutorial: Setting Up ChatGPT on Linux with Bavarder</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/strategies-for-integrating-chatgpt-into-remote-team-huddles/"><u>Strategies for Integrating ChatGPT Into Remote Team Huddles</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamline-your-routine-9-chatgpt-hacks-for-a-hassle-free-day/"><u>Streamline Your Routine: 9 ChatGPT Hacks for a Hassle-Free Day</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-dual-edge-of-ai-on-mental-health-services/"><u>The Dual Edge of AI on Mental Health Services</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/king-the-secrets-elevating-your-youtube-presence-in-gameplay/"><u>Unlocking the Secrets Elevating Your YouTube Presence in Gameplay</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-revenue-revolution-unlocking-the-potential-of-your-youtube-channel-on-mobile/"><u>[New] In 2024, Revenue Revolution Unlocking the Potential of Your YouTube Channel on Mobile</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-transformative-role-of-luts-in-visual-artistry-for-2024/"><u>[New] The Transformative Role of LUTs in Visual Artistry for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-game-on-essential-samsung-gear-vr-experiences/"><u>[Updated] 2024 Approved Game On Essential Samsung Gear VR Experiences</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-frontiers-in-3d-visualization-tech/"><u>[Updated] Frontiers in 3D Visualization Tech</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-6-plus-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 6 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-landscape-of-artificial-intelligence-oversight-key-players-and-frameworks/"><u>Exploring the Landscape of Artificial Intelligence Oversight: Key Players and Frameworks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-role-of-generative-ai-in-propagating-fake-news-what-we-need-to-know/"><u>Exploring the Role of Generative AI in Propagating Fake News: What We Need to Know</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-online-converter-convert-video-to-mp3-fast-and-reliable-by-movavi/"><u>Free Online Converter: Convert Video to MP3 - Fast & Reliable by Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/github-copilot-vs-chatgpt-which-is-better-for-programming/"><u>GitHub Copilot Vs. ChatGPT: Which Is Better for Programming?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-enhanced-research-methods-for-essays/"><u>GPT-Enhanced Research Methods for Essays</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-implementing-chatgpt-widget-functionality-on-your-android-device/"><u>Guide: Implementing ChatGPT Widget Functionality on Your Android Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-chatgpts-access-to-latest-info-affects-us-all-insights-and-analysis/"><u>How ChatGPT’s Access to Latest Info Affects Us All: Insights and Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-googles-cutting-edge-palm-2-revolutionize-large-language-models/"><u>How Does Google's Cutting-Edge PaLM 2 Revolutionize Large Language Models?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-gpt-4all-work-unraveling-the-process-and-principles/"><u>How Does GPT-4All Work? Unraveling the Process and Principles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-efficient-use-of-obs-with-zoom-video-platform/"><u>In 2024, Efficient Use of OBS with Zoom Video Platform</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-xiaomi-13t-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Xiaomi 13T Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/transforming-rmvb-files-to-avi-format-a-step-by-step-guide-for-quick-and-cost-free-conversion-online/"><u>Transforming RMVB Files to AVI Format: A Step-by-Step Guide for Quick & Cost-Free Conversion Online</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Future of AI Generative Models - Is GPT-5 Already in Development?
-date: 2024-11-14T19:41:58.256Z
-updated: 2024-11-21T17:46:58.219Z
+date: 2024-11-22T22:14:27.903Z
+updated: 2024-11-30T00:17:56.459Z
 tags:
   - chatgpt
   - open-ai
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 
  You can use[ChatGPT](https://chat.openai.com/) ’s basic features for free, and you can type numerous responses into the app. On top of that, you can get ChatGPT Plus—which costs $20 per month. ChatGPT Plus offers access during periods when lots of other people are using the platform, along with other useful features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Drafting Ideas
 
  You’ll find many[online AI tools for content creation](https://www.makeuseof.com/best-online-ai-tools-content-creation/) , so how do Notion AI and ChatGPT compare in this respect? Notion AI has several tools to help you draft ideas for articles, videos, podcasts, and more.
@@ -44,25 +40,29 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 
 ![Notion AI Brainstorm Idea Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-brainstorm-idea.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see from the example below, we’ve asked Notion AI to brainstorm ideas related to sports.
 
 ![Notion AI Sport Ideas Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-sport-ideas.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Notion AI also lets you draft social media posts, press releases, blog posts, and more.
 
  When using ChatGPT, you can also generate ideas for your projects. After signing in to your account, you can ask the bot to come up with a list of different things that you can then research further.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Creating Summaries of Existing Pages
 
 ![Blog Topics ChatGPT Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/blog-topics-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [You can do several useful things in Notion](https://www.makeuseof.com/useful-things-to-do-notion/) , such as making pages that enable you to organize all of your projects better. As you use the app more frequently, keeping your notes together will become more important— and you’ll also want to make what you’ve written easy for others to understand. Notion AI can help you in this respect.
 
@@ -71,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 ![Notion AI Page Summary Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-page-summary.jpg)
 
  When using ChatGPT, you can ask the tool to provide summaries on different topics. If you’ve created a conversation, you can get it to provide an overview by typing**“summarize this conversation so far”** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Finding Answers to Questions
 
@@ -89,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 ![Translate Notion AI Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/translate-notion-ai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With ChatGPT, you also have the option to translate different things. You can ask the tool how you can say various words and phrases in other languages, and it’s also possible to translate your entire conversation. To do this, type**“translate this entire conversation into \[language\]”** at the bottom of your screen.
@@ -97,11 +101,7 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 ![ChatGPT Page Translation Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-page-translation.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Stability
@@ -143,24 +143,20 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ractical-techniques-for-rapid-deletion-of-comments-for-2024/"><u>[New] Practical Techniques for Rapid Deletion of Comments for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-distort-image-distance-worry-photo-editing-trick/"><u>2024 Approved Distort Image, Distance Worry Photo Editing Trick</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-pull-off-professional-video-edits-with-ken-burns-effect/"><u>2024 Approved Pull Off Professional Video Edits with Ken Burns Effect</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-prompting-made-easy-discover-7-game-changing-tactics-and-hacks/"><u>AI Prompting Made Easy: Discover 7 Game-Changing Tactics and Hacks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/android-users-guide-setting-up-voicegpt-your-hands-free-ai-companion/"><u>Android Users Guide: Setting Up VoiceGPT, Your Hands-Free AI Companion</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/arena-of-artificial-intelligence-gpt-vs-bing-conversation-masters/"><u>Arena of Artificial Intelligence: GPT Vs. Bing Conversation Masters</u></a></li>
-<li><a href="https://win-blog.techidaily.com/convertissez-vos-fichiers-ogg-en-oga-gratuitement-sur-internet-avec-movavi/"><u>Convertissez Vos Fichiers Ogg en Oga Gratuitement Sur Internet Avec Movavi</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/excellent-camcorders-with-facing-panel/"><u>Excellent Camcorders with Facing Panel</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-panoramic-portals-cutting-edge-filmscapes/"><u>In 2024, Panoramic Portals Cutting-Edge Filmscapes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/melodypulse-recorder-downloads-guide/"><u>Melodypulse Recorder Downloads Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mobile-and-desktop-techniques-for-youtube-short-video-submission/"><u>Mobile & Desktop Techniques for YouTube Short Video Submission</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/techniques-for-fast-vimeo-videos-for-2024/"><u>Techniques for Fast Vimeo Videos for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nokia-130-music-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nokia 130 Music</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-free-on-premise-windows-ai-with-gpt4all/"><u>Unlock Free, On-Premise Windows AI with GPT4All</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-free-potential-why-copilot-is-your-go-to-for-gpt-4-turbo/"><u>Unlocking Free Potential: Why Copilot Is Your Go-To for GPT-^4 Turbo</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-potential-7-ways-to-harness-chatgpts-visual-abilities/"><u>Unlocking Potential: 7 Ways to Harness ChatGPT's Visual Abilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721788024716-unveiling-the-future-can-we-expect-a-gpt-5-soon-launch-predictions-inside/"><u>Unveiling the Future: Can We Expect a GPT-5 Soon? Launch Predictions Inside!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-power-of-claude-how-this-ai-tool-can-elevate-your-tech-game/"><u>Unveiling the Power of Claude: How This AI Tool Can Elevate Your Tech Game</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/urgent-enhancements-to-revolutionize-gpts-plugin-ecosystem/"><u>Urgent Enhancements to Revolutionize GPT's Plugin Ecosystem</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-methodology-for-adding-srt-in-mp4-files/"><u>[New] In-Depth Methodology for Adding SRT in MP4 Files</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-nature-backdrop-sketches-essential-downloads-for-videographers-for-2024/"><u>[New] Nature Backdrop Sketches Essential Downloads for Videographers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-smartest-ways-to-track-wedding-dates-ios-and-android-style/"><u>[Updated] In 2024, Smartest Ways to Track Wedding Dates, iOS & Android Style</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-refine-your-images-quickly-freepaid-lut-options-for-canon-for-2024/"><u>[Updated] Refine Your Images Quickly - Free/Paid LUT Options for Canon for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-filmmakers-guide-to-enhancing-close-ups-using-kinemaster/"><u>[Updated] The Filmmaker’s Guide to Enhancing Close-Ups Using Kinemaster</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-smooth-sailing-easy-recording-tips-for-your-logitech-cam/"><u>2024 Approved Smooth Sailing Easy Recording Tips for Your Logitech Cam</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-nvidia-graphics-drivers-on-your-microsoft-surface-book/"><u>Download & Install NVIDIA Graphics Drivers on Your Microsoft Surface Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-upcoming-decade-of-cyber-vigilance-7-predictions/"><u>The Upcoming Decade of Cyber Vigilance: 7 Predictions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-9-benefits-switching-to-chatgptplus-membership/"><u>Top 9 Benefits: Switching to ChatGPT+ Membership</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-career-journey-with-chatgpt-discover-6-compelling-reasons-to-start-now/"><u>Transform Your Career Journey with ChatGPT – Discover 6 Compelling Reasons to Start Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-scholarly-research-with-advanced-ai-tools-the-top-4-ways/"><u>Transforming Scholarly Research with Advanced AI Tools - The Top 4 Ways</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-distinctions-public-ai-private-ai-and-personal-ai-explained/"><u>Understanding the Distinctions: Public AI, Private AI, and Personal AI Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-time-and-intelligence-gpt-powered-wearables-on-the-rise/"><u>Unlocking Time and Intelligence: GPT-Powered Wearables on the Rise</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-gpt-liberation-techniques/"><u>Unveiling GPT Liberation Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unveiling-the-secrets-of-monetizing-instagram-successfully/"><u>Unveiling the Secrets of Monetizing Instagram Successfully</u></a></li>
 </ul></div>
 

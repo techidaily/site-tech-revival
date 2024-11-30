@@ -1,7 +1,7 @@
 ---
 title: "Improving User Experience: The Future of ChatGPT Plugin Platforms"
-date: 2024-10-31T16:23:15.464Z
-updated: 2024-11-02T21:14:21.885Z
+date: 2024-11-29T01:42:35.356Z
+updated: 2024-11-29T23:53:11.191Z
 tags:
   - chatgpt
   - open-ai
@@ -26,9 +26,17 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do ChatGPT Plugins Work?
 
 ![Monitor screen showing ChatGPT landing page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/monitor-screen-showing-chatgpt-landing-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT plugins are software components integrated into[the ChatGPT platform](https://www.makeuseof.com/how-does-chatgpt-work/) . They provide ChatGPT with additional information, such as up-to-date news or data from proprietary sources, and enable ChatGPT to perform specific actions on behalf of users.
 
@@ -39,10 +47,7 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
  Then, ChatGPT could use these plugins to fetch relevant information and insert them into the email draft. It could also use the plugins to send emails, schedule a meeting, or update a task's status.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do You Sign Up for ChatGPT Plugins?
@@ -50,10 +55,7 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
 ![chatgpt plugin page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plugin-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Currently, the ChatGPT plugins feature is only available to ChatGPT Plus subscribers, and you have to join a waitlist to get access. You can[sign up for ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) by clicking on**Upgrade** **to** **Plus** on the left tab on the ChatGPT interface.
@@ -66,10 +68,7 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
 4. Click**Join Waitlist** to submit the form.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Joining ChatGPT's Plugins Waitlist
@@ -91,18 +90,24 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-top-10-innovative-tweets-de-followers-and-cleanup-apps/"><u>[New] 2024 Approved Top 10 Innovative Tweets De-Followers & Cleanup Apps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-efficiently-storing-instagram-reels-two-simplified-techniques/"><u>[Updated] Efficiently Storing Instagram Reels Two Simplified Techniques</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-step-by-step-enabling-screen-capture-on-macos/"><u>[Updated] In 2024, Step-by-Step Enabling Screen Capture on MacOS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-top-10-impactful-instagram-tags-for-maximum-reach/"><u>2024 Approved Top 10 Impactful Instagram Tags for Maximum Reach</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/chatcam-save-extractor-for-facebook-for-2024/"><u>ChatCam Save Extractor for Facebook for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/efficiency-in-academia-the-chatgpt-technique/"><u>Efficiency in Academia: The ChatGPT Technique</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/journey-through-win11-settings-mouse-mastery-essentials/"><u>Journey Through Win11 Settings: Mouse Mastery Essentials</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-user-persona-creation-enhancing-outcomes-with-chatgpt/"><u>Mastering User Persona Creation: Enhancing Outcomes with ChatGPT</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/secrets-of-the-trade-in-sourcing-professional-filmmakers/"><u>Secrets of the Trade in Sourcing Professional Filmmakers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-artisans-path-empowering-writers-with-chatgpt/"><u>The Artisan’s Path: Empowering Writers with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-coders-choice-chatgpt-or-gemini-which-wins-in-automated-programming/"><u>The Ultimate Coder's Choice: ChatGPT or Gemini, Which Wins in Automated Programming</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-restoring-missing-mfc-42d-dll-error-solutions-and-best-practices/"><u>Ultimate Guide to Restoring Missing MFC 42D DLL: Error Solutions and Best Practices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/dvdwinx-hd-video-converter-deluxe-dvdand/"><u>ダイナミックなDVD生成：WinX HD Video Converter Deluxe DVD作り入門！超シンプルのヒント&テクニック</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-linux-screenshot-solutions-the-ultimate-guide/"><u>[New] 2024 Approved Linux Screenshot Solutions The Ultimate Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-maximizing-instagram-accessing-free-filters-via-searches/"><u>[New] 2024 Approved Maximizing Instagram Accessing Free Filters via Searches</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-a-compre-folio-for-understanding-du-recorders-features/"><u>[Updated] 2024 Approved A Compre Folio for Understanding Du Recorder's Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-synergizing-visual-elements-best-text-plugins-reviewed/"><u>[Updated] 2024 Approved Synergizing Visual Elements Best Text Plugins Reviewed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-avoiding-common-pitfalls-with-zoom-recording-methods/"><u>[Updated] In 2024, Avoiding Common Pitfalls with Zoom Recording Methods</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mobile-sound-shakers-the-ultimate-playlist/"><u>[Updated] Mobile Sound Shakers The Ultimate Playlist</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-ai-for-everyone/"><u>Decoding AI for Everyone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/halt-youtubes-automatic-video-screening/"><u>Halt YouTube's Automatic Video Screening</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-protect-your-privacy-from-chatgpt-the-complete-opt-out-strategy/"><u>How to Protect Your Privacy From ChatGPT – The Complete Opt-Out Strategy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-look-gpt4alls-intricate-process/"><u>Inside Look: GPT4All's Intricate Process</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/invisibility-cloak-techniques-for-your-chatgpt-exchanges-without-erasing-them/"><u>Invisibility Cloak Techniques for Your ChatGPT Exchanges Without Erasing Them</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/italys-sudden-intervention-against-chatgpt-use/"><u>Italy's Sudden Intervention Against ChatGPT Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-vector-databases-for-improved-ai-performance-and-efficiency/"><u>Leveraging Vector Databases for Improved AI Performance and Efficiency</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastering-video-acquisition-top-10-vimeo-downloader-software-for-2024/"><u>Mastering Video Acquisition Top 10 Vimeo Downloader Software for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-away-from-chatgpt-here-are-the-10-superior-choices/"><u>Navigate Away From ChatGPT? Here Are the 10 Superior Choices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-the-new-frontier-of-hobbies-using-chatgpts-my-bot-power/"><u>Navigate the New Frontier of Hobbies: Using ChatGPT's My Bot Power</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-the-body-stream-hiccup-on-chatgpt-learn-about-these-nine-strategies-for-resolution/"><u>Overcoming the 'Body Stream' Hiccup on ChatGPT: Learn About These Nine Strategies for Resolution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-and-simple-guide-to-installing-chatgpt-on-your-linux-system-using-bavarder/"><u>Quick and Simple Guide to Installing ChatGPT on Your Linux System Using Bavarder</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor Magic5 Ultimate | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Clarifying Intellectual Property Rights: The Insider's Guide to Who Claims Copyright on AI Artistic Outputs"
-date: 2024-10-15T16:18:49.694Z
-updated: 2024-10-22T17:39:14.586Z
+date: 2024-11-26T21:32:30.083Z
+updated: 2024-11-29T20:56:32.472Z
 tags:
   - chatgpt
   - open-ai
@@ -36,18 +36,23 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 
 ![chatgpt no feelings or emotions text march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-no-feelings-or-emotions-text.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
 
@@ -55,22 +60,12 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can AI Be Rude to You?
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
@@ -82,16 +77,7 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Interact With AI How You Want
@@ -115,14 +101,20 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-hobby-to-career-the-transition-to-youtube-gaming/"><u>[New] 2024 Approved From Hobby to Career The Transition to YouTube Gaming</u></a></li>
-<li><a href="https://extra-information.techidaily.com/acquiring-unmarked-visuals-for-your-business-for-2024/"><u>Acquiring Unmarked Visuals for Your Business for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/claude-2-unveiled-insight-into-its-purpose-and-utility/"><u>Claude 2 Unveiled: Insight Into Its Purpose and Utility</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conceptual-mastery-combining-ai-and-brainstorming/"><u>Conceptual Mastery: Combining AI & Brainstorming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/content-originality-challenges-artificial-intelligence/"><u>Content Originality Challenges Artificial Intelligence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/context-revolution-gemini-15s-million-token-journey/"><u>Context Revolution: Gemini 1.5'S Million Token Journey</u></a></li>
-<li><a href="https://win-tips.techidaily.com/discover-the-best-gmail-backup-tools-for-windows-pcs-top-picks-and-benefits-explained/"><u>Discover the Best Gmail Backup Tools for Windows PCs: Top Picks and Benefits Explained</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-setting-up-a-portable-version-of-aomei-backupper/"><u>Step-by-Step Guide: Setting Up a Portable Version of AOMEI Backupper</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-from-xml-to-srt-a-step-by-step-solution-approach/"><u>[New] 2024 Approved From XML to SRT A Step-by-Step Solution Approach</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-screen-caption-composer/"><u>[New] On-Screen Caption Composer</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-advanced-tips-for-bordered-instagram-photography-for-2024/"><u>[Updated] Advanced Tips for Bordered Instagram Photography for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-leading-cable-modems-of-2024-expert-recommendations-inside/"><u>Discover the Leading Cable Modems of 2024: Expert Recommendations Inside</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-video-reach-optimize-tags-for-600esplus-growth/"><u>Elevate Video Reach Optimize Tags for $6,00Es+ Growth</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-vivo-y100a-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo Y100A Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-to-soundtrack-the-complete-conversion-manual-for-2024/"><u>Instagram to Soundtrack The Complete Conversion Manual for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-nokia-c12-plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Nokia C12 Plus without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-thoughts-into-poetic-expressions-how-chatgpt-can-help-you-write-an-inspiring-book-of-poems/"><u>Transforming Thoughts Into Poetic Expressions: How ChatGPT Can Help You Write an Inspiring Book of Poems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transparency-in-ai-generated-dialogues-origins/"><u>Transparency in AI-Generated Dialogues' Origins</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trouble-using-chatgpt-uncover-its-current-status-with-these-cufficient-methods/"><u>Trouble Using ChatGPT? Uncover Its Current Status With These Cufficient Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-the-location-of-desktop-wallpaper-images/"><u>Uncover the Location of Desktop Wallpaper Images</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-openais-shap-e-how-does-it-work-and-what-functions-offer/"><u>Understanding OpenAI's SHAP-E: How Does It Work and What Functions Offer?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-career-opportunnities-discover-how-chatgpt-can-boost-your-linkedin-profile/"><u>Unlocking Career Opportunnities: Discover How ChatGPT Can Boost Your LinkedIn Profile</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-web-insights-the-ultimate-guide-to-cutting-edge-ai-search-engines/"><u>Unlocking Web Insights: The Ultimate Guide to Cutting-Edge AI Search Engines</u></a></li>
 </ul></div>
 

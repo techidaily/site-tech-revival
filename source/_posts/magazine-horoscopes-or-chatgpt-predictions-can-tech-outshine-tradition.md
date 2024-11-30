@@ -1,7 +1,7 @@
 ---
 title: Magazine Horoscopes or ChatGPT Predictions – Can Tech Outshine Tradition?
-date: 2024-11-20T16:04:06.477Z
-updated: 2024-11-21T21:20:45.006Z
+date: 2024-11-28T04:10:27.264Z
+updated: 2024-11-30T01:59:13.954Z
 tags:
   - chatgpt
   - open-ai
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
  You can still[use ChatGPT like a search engine](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) . Just make sure you don’t take its answers at face value; otherwise, you might publish misleading information. As a general rule, always compare AI responses with official resources.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Language Models Like GPT-3 Follow Templates
 
  Modern AI platforms use[sophisticated language models like GPT-3](https://www.makeuseof.com/what-is-gpt-3-and-is-it-really-the-future-of-creative-work/) . They execute aggressive machine and deep learning methods to produce human-like text.
@@ -49,12 +45,16 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 ![ChatGPT Generated a 200-Word Article on Cats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-on-cats.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, compare it with the below photo. You’ll notice that the response follows the exact template, although this one talks about dogs.
 
 ![ChatGPT Generated a 200-Word Article on Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-about-dogs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Overdependence on AI Makes You a Lazy Researcher
 
@@ -68,21 +68,21 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
 ![Copy.ai Generates an Article on Taking Care of Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-on-dogs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  AI avoids inaccuracies by generating generic responses. Take the above piece as an example. When we asked an AI writing tool to talk about dog care, it focused on super-common tips, which readers have likely seen multiple times. The below photo also shows that its insights came from an unreliable source.
 
 ![Copy.ai Lists Down Article Sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-sources.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Generic pieces rarely gain traffic. To attract readers and score higher SERP rankings, write original articles that are exclusive to your site. Stop rewriting stuff that everyone already knows.
 
  Of course, you can still discuss general subjects. Just make sure you cover a unique angle or stand that aligns with your branding and image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. AI Generates the Same Results for Similar Questions
 
@@ -99,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
  Despite their advancements in mimicking human-like text, chatbots and writing tools still have limitations. They can’t wholly replicate tone. AI follows predetermined, formulaic templates, even when instructed to adopt a specific tone.
 
  It’s best to curate articles yourself. Remember that consistent branding plays a crucial role in retaining site visitors. The content you publish, your layout, and the conclusions you assert should resonate with your target audience. Give them reasons to come back to your site.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Writing Tools Don’t Incorporate SEO Tactics Into Its Pieces
 
@@ -121,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
  With that said, they’re still unoriginal. Chatbots and writing tools only escape plagiarism technicalities through formulaic paraphrasing. Spinning bypasses many plagiarism detectors, after all.
 
  Writers have differing opinions about the morality of publishing AI content and plagiarism, but as a respectable professional, you should do your own research. Never risk plagiarizing content. Study the topics for yourself, draw logical conclusions, then convey them in your own words.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use AI Chatbots Responsibly
 
@@ -143,15 +143,16 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-snapseed-simplified-photo-editing-made-accessible/"><u>[New] Snapseed Simplified Photo Editing Made Accessible</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-how-tos-selecting-free-powerful-iphoneipad-edits/"><u>[Updated] How-To's Selecting Free, Powerful iPhone/iPad Edits</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-unleashing-potential-in-4k-with-top-gimbals-selection-for-2024/"><u>[Updated] Unleashing Potential in 4K with Top Gimbals Selection for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevating-dungeons-and-dragons-boosting-gameplay-with-chatgpt/"><u>Elevating Dungeons & Dragons: Boosting Gameplay with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/empowered-parenting-with-ai-the-ultimate-chatgpt-and-generative-tech-roadmap-for-families/"><u>Empowered Parenting with AI: The Ultimate ChatGPT & Generative Tech Roadmap for Families</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-social-content-creation-using-chatgpt-for-superior-results/"><u>Enhance Social Content Creation Using ChatGPT for Superior Results</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-google-bard-top-7-advantages-of-using-palm-2-technology/"><u>Enhancing Google Bard: Top 7 Advantages of Using PaLM 2 Technology</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/from-camera-to-community-shared-videos-on-twtplustumble-for-2024/"><u>From Camera to Community Shared Videos on Twt+Tumble for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-spotify-premiums-pricing-justified-examining-its-essential-7-attributes/"><u>Is Spotify Premium's Pricing Justified? Examining Its Essential 7 Attributes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/say-goodbye-to-airdrop-problems-swiftly-solve-them-using-these-16-key-guides/"><u>Say Goodbye to AirDrop Problems – Swiftly Solve Them Using These 16 Key Guides!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-explore-the-best-free-online-video-capture-platforms/"><u>[New] Explore the Best Free Online Video Capture Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-memorable-narratives-in-book-videos/"><u>2024 Approved Memorable Narratives in Book Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-job-application-with-chatgpt-powered-resumes-expert-tips-and-tricks/"><u>Boost Your Job Application with ChatGPT-Powered Resumes: Expert Tips & Tricks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-auto-gpt-stand-alone-without-relying-on-gpt-narratives/"><u>Can Auto-GPT Stand Alone Without Relying on GPT-Narratives?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chaos-in-communication-why-hackers-love-gpt/"><u>Chaos in Communication: Why Hackers Love GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-for-images-discover-8-unique-ways-to-enhance-visual-communication/"><u>ChatGPT for Images: Discover 8 Unique Ways to Enhance Visual Communication</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-between-google-bard-and-bing-chat-which-cutting-edge-bot-reigns-supreme/"><u>Choosing Between Google Bard and Bing Chat: Which Cutting-Edge Bot Reigns Supreme?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/crafting-compelling-docu-scripts-a-step-by-step-guide/"><u>Crafting Compelling Docu-Scripts A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-guide-convert-your-dvds-into-avi-format-on-mac/"><u>Effortless Guide: Convert Your DVDs Into AVI Format on Mac</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-x-flip-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protect-your-iphone-how-safe-are-in-car-chargers-expert-reviews-and-findings-from-zdnets-comprehensive-tests/"><u>Protect Your iPhone: How Safe Are In-Car Chargers? Expert Reviews & Findings From ZDNet's Comprehensive Tests</u></a></li>
 </ul></div>
 

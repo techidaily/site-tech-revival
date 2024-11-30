@@ -1,7 +1,7 @@
 ---
 title: "Alerting Public: Beware of Fake 'ChatGPT Windows' Apps"
-date: 2024-11-05T22:36:10.166Z
-updated: 2024-11-12T09:47:36.697Z
+date: 2024-11-29T02:44:39.636Z
+updated: 2024-11-29T16:00:48.250Z
 tags:
   - chatgpt
   - open-ai
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
  Join us for a chat about the week's important tech news that matters, along with tips and tricks concerning keylogger malware, and a ChatGPT scam that can fool anyone. We've also got the lowdown on how to change your email address--it's tougher than you think...
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -55,27 +59,20 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-convenient-techniques-for-saving-youtube-videos/"><u>[Updated] Convenient Techniques for Saving YouTube Videos</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-motorola-razr-40-ultra-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Motorola Razr 40 Ultra Phone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/anthropic-ai-accessing-claude-3-prompts/"><u>Anthropic AI: Accessing Claude 3 Prompts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-magic-of-llama-2s-technology/"><u>Decoding the Magic of Llama 2'S Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dissecting-googles-artificinas-intelligence-project-gemini/"><u>Dissecting Google's Artificinas Intelligence Project Gemini</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-images-not-displaying-correctly-on-windows-1011/"><u>How to Resolve Images Not Displaying Correctly on Windows 10/11?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-problems-when-your-discord-voice-chats-wont-connect/"><u>How to Resolve Problems When Your Discord Voice Chats Won't Connect</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/how-to-resolve-the-error-when-windows-doesnt-recognize-gpeditmsc/"><u>How To Resolve The Error When Windows Doesn't Recognize GPEDIT.MSC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For OnePlus 11R? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-your-ultimate-tech-bargain-exclusive-october-2024-prime-day-laptops-features-and-deals/"><u>Secure Your Ultimate Tech Bargain: Exclusive October 2024 Prime Day Laptops Features & Deals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/steps-to-operate-the-nvidia-rtx-powered-conversational-ai-bot-on-pc/"><u>Steps to Operate the NVIDIA RTX-Powered Conversational AI Bot on PC</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-xiaomi-mix-fold-3-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Xiaomi Mix Fold 3 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-strategies-for-leveraging-chatgpts-custom-commands/"><u>Top 5 Strategies for Leveraging ChatGPT's Custom Commands</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-key-aspects-you-should-evaluate-before-choosing-an-ai-chatbot-platform/"><u>Top 7 Key Aspects You Should Evaluate Before Choosing an AI Chatbot Platform</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-privacy-levels-in-vr-apps-meta-and-facebook/"><u>Understanding Privacy Levels in VR Apps: Meta & Facebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-deciphering-the-mechanics-of-whatsapp-calls-for-2024/"><u>[New] Deciphering the Mechanics of WhatsApp Calls for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-through-the-complexities-of-copyright-on-instagrams-music-platform/"><u>[New] Navigating Through the Complexities of Copyright on Instagram’s Music Platform</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-beyond-reality-comparing-metaverse-and-multiverse/"><u>[Updated] 2024 Approved Beyond Reality Comparing Metaverse & Multiverse</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtube-adjust-your-video-privacy-settings/"><u>[Updated] Mastering YouTube Adjust Your Video Privacy Settings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/9-effective-strategies-utilizing-chatgpt-for-improved-wellness/"><u>9 Effective Strategies: Utilizing ChatGPT for Improved Wellness</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/9-strategies-harnessing-gpt-for-novel-drafting/"><u>9 Strategies: Harnessing GPT for Novel Drafting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-comprehensive-breakdown-detecting-deceptive-bingchatgpt-token-ploys/"><u>A Comprehensive Breakdown: Detecting Deceptive BingChatGPT Token Ploys</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/achieve-more-with-ai-8-ways-to-integrate-chatgpt-into-your-business-model/"><u>Achieve More with AI: 8 Ways to Integrate ChatGPT Into Your Business Model</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-conversationalists-compared-is-it-chatgpt-or-bing-chat-that-wins-the-battle-of-bot-intelligence/"><u>AI Conversationalists Compared: Is It ChatGPT or Bing Chat That Wins the Battle of Bot Intelligence?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-de-fichiers-nef-vers-tiff-directement-sur-internet-avec-movavi-service-gratuit/"><u>Conversion De Fichiers NEF Vers TIFF Directement Sur Internet Avec Movavi - Service Gratuit</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722205360116-create-stunning-visuals-in-minutes-top-7-ai-driven-presentation-tools-revealed/"><u>Create Stunning Visuals in Minutes: Top 7 AI-Driven Presentation Tools Revealed!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-how-to-extract-youtube-media-directly/"><u>In 2024, How to Extract YouTube Media Directly</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/launch-cutting-edge-av1-encode-tool-ready-for-immediate-use-on-both-hardware-and-software-platforms/"><u>Launch: Cutting-Edge AV1 Encode Tool Ready for Immediate Use on Both Hardware and Software Platforms</u></a></li>
+<li><a href="https://facebook.techidaily.com/potential-breakup-on-the-horizon-fb-and-giphys-future/"><u>Potential Breakup on the Horizon: FB & Giphy's Future?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-overcoming-the-game-breaking-bug-causing-dauntless-to-crash-on-desktop/"><u>Solved: Overcoming the Game-Breaking Bug Causing Dauntless to Crash on Desktop</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Interaction: The Ultimate List of 10 Advanced GPT Variants Beating Out Original ChatGPT"
-date: 2024-11-17T01:40:28.334Z
-updated: 2024-11-21T18:38:47.064Z
+date: 2024-11-29T08:40:24.560Z
+updated: 2024-11-30T01:29:56.931Z
 tags:
   - chatgpt
   - open-ai
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 ![ChatGPT displaying text adventure game output in code blocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-displaying-text-adventure-game-output-in-code-blocks.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you can see, this is more compact and easier to look at than the default look.
@@ -114,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -135,7 +139,7 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
@@ -167,7 +171,7 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclude Your Prompt
@@ -185,16 +189,12 @@ And finally, don’t forget to actually start the game:
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
@@ -319,20 +319,20 @@ And finally, don’t forget to actually start the game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-old-world-wonders-iphone-x-portraits-for-2024/"><u>[Updated] Old World Wonders – iPhone X Portraits for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-obs-studio-guide-to-facebook-live-broadcasts-for-2024/"><u>[Updated] The Ultimate OBS Studio Guide to Facebook Live Broadcasts for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-deep-dive-into-surface-laptop-studio-2s-creative-edge/"><u>A Deep Dive Into Surface Laptop Studio 2’S Creative Edge</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-redmi-note-13-proplus-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Xiaomi Redmi Note 13 Pro+ 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/balancing-human-touch-and-machine-precision-in-editing/"><u>Balancing Human Touch and Machine Precision in Editing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-chatbot-conversations-with-these-7-strategies/"><u>Boost Your Chatbot Conversations with These 7 Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-anytime-anywhere-mastering-the-use-of-chatgpt-everywhere-app-for-constant-conversation/"><u>ChatGPT Anytime, Anywhere: Mastering the Use of 'ChatGPT Everywhere' App for Constant Conversation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-jailbreaks-gone-silent-unveiling-7-reasons-why-theyre-no-longer-viable/"><u>ChatGPT Jailbreaks Gone Silent: Unveiling 7 Reasons Why They're No Longer Viable</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/clearing-the-air-on-ai-bot-fallacies-top-9-dissected/"><u>Clearing the Air on AI Bot Fallacies - Top 9 Dissected</u></a></li>
-<li><a href="https://win-dash.techidaily.com/comprehensive-troubleshooting-and-driver-update-assistance-for-dell-latitude-e6430-systems-with-windows/"><u>Comprehensive Troubleshooting and Driver Update Assistance for Dell Latitude E6430 Systems with Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-on-saving-your-chatgpt-history/"><u>Comprehensive Tutorial on Saving Your ChatGPT History</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/meta-vrs-quest-3-reveal-discover-pricing-strategy-anticipated-launch-date-and-detailed-specifications-for-immersive-experience/"><u>Meta VR's Quest 3 Reveal: Discover Pricing Strategy, Anticipated Launch Date, and Detailed Specifications for Immersive Experience</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/tp-link-av2000-powerline-adapter-review-excellent-speeds-but-subpar-design/"><u>TP-Link AV2000 Powerline Adapter Review: Excellent Speeds, But Subpar Design</u></a></li>
-<li><a href="https://article-tips.techidaily.com/unveiling-the-art-of-written-visual-narratives-a-guide-on-docuscripts-for-2024/"><u>Unveiling the Art of Written Visual Narratives A Guide on Docuscripts for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-fast-techniques-to-recover-deleted-reddit-posts/"><u>[New] 2024 Approved Fast Techniques to Recover Deleted Reddit Posts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-conquer-podcast-production-with-garageband-skills-for-2024/"><u>[New] Conquer Podcast Production with GarageBand Skills for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-harnessing-instagram-video-potential-crafting-a-strong-marketing-strategy-for-2024/"><u>[New] Harnessing Instagram Video Potential Crafting a Strong Marketing Strategy for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-boundless-savings-for-your-captured-moments/"><u>[Updated] 2024 Approved Boundless Savings for Your Captured Moments</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-craft-your-story-with-immersive-youtube-video-editing-tips/"><u>[Updated] Craft Your Story with Immersive YouTube Video Editing Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bluetooth-remotes-and-controllers-for-easy-shooting/"><u>2024 Approved Bluetooth Remotes and Controllers for Easy Shooting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-uncover-the-future-leading-innovations-in-vr-handwear/"><u>2024 Approved Uncover the Future Leading Innovations in VR Handwear</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/between-bing-chat-and-chatgpt-a-freelancers-decision-matrix-8-essential-criteria-explained/"><u>Between Bing Chat & ChatGPT: A Freelancer’s Decision Matrix - 8 Essential Criteria Explained</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/cafwavwindows-10/"><u>CAFからWAVへのシームレス変換：Windows 10ユーザー向けガイド</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-best-camera-apps-to-shoot-and-record-videos-on-iphone-and-andriod-phones/"><u>In 2024, Best Camera Apps to Shoot and Record Videos on iPhone and Andriod Phones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722071225389-twitters-smiley-sweep-linuss-tech-truths-trojans-explained-and-gpt-glitches/"><u>Twitters Smiley Sweep, Linus’s Tech Truths, Trojans Explained, & GPT Glitches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-power-of-llama-2-a-comprehensive-exploration-for-users/"><u>Unveiling the Power of Llama 2: A Comprehensive Exploration for Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/utilizing-gpt-3-in-your-python-projects-best-practices-and-tips/"><u>Utilizing GPT-3 in Your Python Projects: Best Practices & Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-chatgpt-is-crucial-for-modern-job-seekers-and-workforce/"><u>Why ChatGPT Is Crucial for Modern Job Seekers and Workforce</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/writing-with-heart-where-machines-cant-venture/"><u>Writing with Heart: Where Machines Can’t Venture</u></a></li>
 </ul></div>
 

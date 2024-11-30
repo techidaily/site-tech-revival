@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Fear of AI: Top 8 Teacher Insights"
-date: 2024-11-19T19:41:49.341Z
-updated: 2024-11-22T00:55:16.387Z
+date: 2024-11-23T19:46:44.810Z
+updated: 2024-11-30T04:26:31.272Z
 tags:
   - chatgpt
   - open-ai
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is the Turing Test?
 
@@ -50,7 +46,11 @@ Here is the standard interpretation of the Turing Test:
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Drawbacks of the Turing Test
@@ -63,9 +63,17 @@ Here is the standard interpretation of the Turing Test:
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
@@ -78,7 +86,7 @@ Here is the standard interpretation of the Turing Test:
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Google's LaMBDA
@@ -91,10 +99,6 @@ Here is the standard interpretation of the Turing Test:
 
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Advancement of Computer Intelligence
 
  In recent years, artificial intelligence has seen major advancements. The public spotlight has been focused on ChatGPT since its official launch in November 2022\. Furthermore,[Google introduced its generative AI, Bard](https://www.makeuseof.com/google-bard-first-impressions/) . This is currently available to users in the UK and the United States.
@@ -102,10 +106,6 @@ Here is the standard interpretation of the Turing Test:
  Computer intelligence focuses on deep learning technologies, natural language processing, reinforcement learning, generative adversarial networks, and edge computing with IoT integration. All of which have seen significant advancements in the past five years. These areas continue to evolve at an incredible rate thanks to computer intelligence being used to improve itself.
 
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if[AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ChatGPT
 
@@ -136,17 +136,18 @@ Here is the standard interpretation of the Turing Test:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-copyright-protection-for-instatunes/"><u>[New] 2024 Approved Copyright Protection for InstaTunes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-inside-screen-recorder-reviews-top10plus/"><u>[New] Inside Screen Recorder Reviews #Top10+</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-secrets-revealed-mastering-minecraft-recordings-on-a-macbook-pro/"><u>[New] Secrets Revealed Mastering Minecraft Recordings on a MacBook Pro</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-a-step-by-step-on-youtube-annotations-for-2024/"><u>[Updated] A Step-by-Step on YouTube Annotations for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-f25-pro-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-love-lines-a-modern-approach-to-mates/"><u>ChatGPT Love Lines: A Modern Approach to Mates</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/collaborative-productivity-in-google-docs-and-spreadsheets-via-gpt/"><u>Collaborative Productivity in Google Docs & Spreadsheets via GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-engaging-youtube-content-mastering-the-art-of-writing-scripts-with-chatgpt/"><u>Crafting Engaging YouTube Content: Mastering the Art of Writing Scripts with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expanding-accessibility-how-you-can-enjoy-chatgpt-on-your-android-device/"><u>Expanding Accessibility: How You Can Enjoy ChatGPT on Your Android Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-ultimate-list-of-chatgpt-replacements/"><u>Explore the Ultimate List of ChatGPT Replacements</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-full-image-display-on-instagram-a-step-by-step-guide/"><u>Mastering the Art of Full Image Display on Instagram: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigate-the-virtual-realm-with-confidence-the-perfect-console-selection-and-extras-to-empower-young-gamers/"><u>Navigate the Virtual Realm with Confidence: The Perfect Console Selection and Extras to Empower Young Gamers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-optimize-visual-output-with-free-luts-in-your-obs-studio-setup/"><u>[Updated] In 2024, Optimize Visual Output with Free LUTs in Your OBS Studio Setup</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-transform-your-visuals-master-11-key-techniques-for-color-correction/"><u>[Updated] Transform Your Visuals Master 11 Key Techniques for Color Correction</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/e-a-livestream-king-the-best-webcams-for-youtube-stars/"><u>Become a Livestream King The Best Webcams for YouTube Stars</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bot-privacy-hazards-essential-3-insights-to-consider/"><u>Bot Privacy Hazards: Essential 3 Insights to Consider</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-driven-techniques-for-successful-interview-prep/"><u>ChatGPT-Driven Techniques for Successful Interview Prep</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-comedy-capabilities-an-insight-into-whether-machines-can-truly-be-funny/"><u>ChatGPT's Comedy Capabilities: An Insight Into Whether Machines Can Truly Be Funny</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-right-conversational-agent-snapchats-my-ai-vs-chatgpt/"><u>Choosing the Right Conversational Agent: Snapchat's My AI Vs. ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-conversational-companions-le-chat-vs-gpt-3/"><u>Comparing Conversational Companions: Le Chat vs GPT-3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquering-challenges-with-gpt-3-openai-style/"><u>Conquering Challenges with GPT-3, OpenAI Style</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-realme-gt-5-pro-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Realme GT 5 Pro.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-connection-issues-and-prevent-packet-loss-in-discord/"><u>How To Resolve Connection Issues and Prevent Packet Loss in Discord?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Infinix Note 30i? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-laugh-out-loud-top-video-dubbing-apps-for-comedy-and-fun/"><u>Updated In 2024, Laugh-Out-Loud Top Video Dubbing Apps for Comedy and Fun</u></a></li>
 </ul></div>
 

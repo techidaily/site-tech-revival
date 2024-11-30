@@ -1,7 +1,7 @@
 ---
 title: "The Fusion Frontier: Eight Ways Artificial Intelligence Merges Real with Unreal"
-date: 2024-11-17T19:17:30.077Z
-updated: 2024-11-21T20:57:53.817Z
+date: 2024-11-28T06:56:54.711Z
+updated: 2024-11-30T06:56:20.317Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is the Turing Test Outdated?
 
 ![man questions robot turing test example feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/man-questions-robot-turing-test-example-feature.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vector/robot-scientist-facing-turing-test-artificial-1651840888)
 
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10
 
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the[New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
@@ -66,25 +62,25 @@ thumbnail: https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10
 
  Beyond that, if an AI and a human are shown multiple images side by side and asked to identify realistic images, the human would have the cognitive ability to pass the test. This is because AI models find it difficult to distinguish images that don't look like they were taken in the real world. In fact, that's the reason why you can[identify AI-generated images](https://www.makeuseof.com/how-to-identify-ai-generated-image/) using anomalies that don't make sense.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. The Lovelace 2.0 Test
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the[thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014.
 
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However,[artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Reverse Turing Test
 
 ![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the[reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
 
@@ -93,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes[AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. AI Classification Framework
@@ -103,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -125,16 +125,22 @@ thumbnail: https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-audacitys-secrets-creating-smooth-soundscapes/"><u>[New] In 2024, Audacity's Secrets Creating Smooth Soundscapes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-effective-techniques-for-creating-authenticity-in-client-praise-videos/"><u>[New] In 2024, Effective Techniques for Creating Authenticity in Client Praise Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-school-based-videography-crafting-quality-content/"><u>[New] In 2024, School-Based Videography Crafting Quality Content</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-up-to-date-strategies-for-youtube-earnings/"><u>[New] In 2024, Up-to-Date Strategies for YouTube Earnings</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-unlock-the-value-of-viewership-a-clear-concise-guide-to-evaluating-youtube-earnings/"><u>[Updated] In 2024, Unlock the Value of Viewership A Clear, Concise Guide to Evaluating YouTube Earnings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-fall-enhancements-for-apple-devices-unveiling-latest-tech-in-iphone-ipad-mac-with-ai-capabilities-zdnet-report/"><u>Exploring Fall Enhancements for Apple Devices: Unveiling Latest Tech in iPhone, iPad, Mac with AI Capabilities (ZDNet Report)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-latest-editing-additions-to-dall-e-3-room-for-improvement-still-present/"><u>Exploring the Latest Editing Additions to DALL-E 3 - Room for Improvement Still Present</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fact-checking-truthgpt-coin-scam-or-innovative-crypto-opportunity/"><u>Fact-Checking TruthGPT Coin: Scam or Innovative Crypto Opportunity?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-template-to-personalization-how-to-develop-a-unique-chatgpt-experience-using-gpt-techniques/"><u>From Template to Personalization: How to Develop a Unique ChatGPT Experience Using GPT Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/goal-achievement-made-easy-chatgpts-health-blueprint/"><u>Goal Achievement Made Easy: ChatGPT's Health Blueprint</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722166852869-the-secret-mobile-app-for-chatgpt-users-get-started-on-ios-instantly/"><u>The Secret Mobile App for ChatGPT Users: Get Started on iOS Instantly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-agriculture-adventures-the-ultimate-farmers-game-guide-for-2024/"><u>[New] Agriculture Adventures The Ultimate Farmer's Game Guide for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-best-practices-for-hospitals-social-media-health-promos/"><u>[New] In 2024, Best Practices for Hospitals' Social Media Health Promos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-procedure-for-severing-digital-bonds/"><u>[New] In 2024, The Procedure for Severing Digital Bonds</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ncrease-clicks-and-watch-time-with-best-in-class-thumbnails-for-youtube/"><u>[New] Increase Clicks and Watch Time with Best-in-Class Thumbnails for YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-haunting-shots-next-gen-action-hddc/"><u>2024 Approved Haunting Shots Next-Gen Action HDDC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-conversational-ai-can-transform-your-search-for-love-and-compannce/"><u>How Conversational AI Can Transform Your Search for Love and Compannce</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-chatgpt-translate-codes-its-crucial-role-in-tech-innovations/"><u>How Does ChatGPT Translate Codes? Its Crucial Role in Tech Innovations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-excel-surpasses-gpt-based-interaction/"><u>How Excel Surpasses GPT-Based Interaction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-machine-learning-is-revolutionizing-the-world-of-games/"><u>How Machine Learning Is Revolutionizing the World of Games</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-effectively-acquire-and-integrate-auto-cutting-edge-gpt-into-your-system/"><u>How to Effectively Acquire and Integrate Auto-Cutting-Edge GPT Into Your System.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-utilize-chatgpt-for-creating-effective-youtube-content-scripts/"><u>How to Utilize ChatGPT for Creating Effective YouTube Content Scripts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-look-at-digital-dialogues-in-social-media/"><u>In-Depth Look at Digital Dialogues in Social Media</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ios-enthusiasts-rejoice-discover-how-to-install-and-use-chatgpt-now/"><u>IOS Enthusiasts Rejoice! Discover How to Install and Use ChatGPT Now</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/outlook-vs-gmail-showdown-determining-the-supreme-email-solution/"><u>Outlook vs Gmail Showdown: Determining the Supreme Email Solution</u></a></li>
+<li><a href="https://driver-download.techidaily.com/samsung-laptop-drivers-download-and-update-for-windows-easily/"><u>Samsung Laptop Drivers Download and Update for Windows Easily</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-joyful-adventure-awaits-embracing-fun-with-pokemon-shining-pearl/"><u>The Joyful Adventure Awaits: Embracing Fun with Pokémon Shining Pearl</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership/"><u>Updated 2024 Approved Best Live Streaming Platforms To Engage Audiences and Increase Viewership</u></a></li>
 </ul></div>
 

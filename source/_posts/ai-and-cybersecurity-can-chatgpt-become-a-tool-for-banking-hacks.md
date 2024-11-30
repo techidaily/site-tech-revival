@@ -1,7 +1,7 @@
 ---
 title: "AI and Cybersecurity: Can ChatGPT Become a Tool for Banking Hacks?"
-date: 2024-11-15T20:37:29.683Z
-updated: 2024-11-22T01:32:19.569Z
+date: 2024-11-26T06:09:00.095Z
+updated: 2024-11-30T07:53:36.178Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -63,21 +63,18 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-quick-and-easy-snapshot-in-zoom-video-call/"><u>[New] 2024 Approved Quick and Easy Snapshot in Zoom Video Call</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-zoom-meetings-unveiled-maximizing-video-clarity/"><u>[Updated] Zoom Meetings Unveiled Maximizing Video Clarity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/halt-and-rewind-mastering-live-streams-on-twitch-for-2024/"><u>Halt & Rewind Mastering Live Streams on Twitch for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-m14-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy M14 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-lava-blaze-curve-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Lava Blaze Curve 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/mastering-video-editing-replacing-audio-tracks-a-comprehensive-guide-part-1-for-2024/"><u>Mastering Video Editing Replacing Audio Tracks - A Comprehensive Guide (Part 1) for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ready-for-adventure-with-vision-pro-travel-mode-uncover-everything-you-need-to-know-first-a-guide-by-zdnet/"><u>Ready for Adventure with Vision Pro Travel Mode? Uncover Everything You Need to Know First - A Guide by ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-crafting-images-via-ai-using-chatgpt/"><u>Step-by-Step Guide: Crafting Images via AI Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-llm-comparisons-who-reigns-supreme-between-bard-chatgpt-and-offline-alpaca/"><u>Top LLM Comparisons: Who Reigns Supreme Between Bard, ChatGPT and Offline Alpaca?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-large-language-models-a-comprehensive-guide/"><u>Understanding Large Language Models: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/universal-chatgpt-open-doors-worldwide-communication/"><u>Universal ChatGPT: Open Doors, Worldwide Communication</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-ai-potential-insights-into-vector-databases/"><u>Unlocking AI Potential: Insights Into Vector Databases</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unravel-computer-confusions-with-gpts-guidance/"><u>Unravel Computer Confusions with GPT's Guidance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-apples-understated-game-changing-ai-at-wwdc-the-feature-that-will-define-the-future-digitalhorizons/"><u>Unveiling Apple's Understated, Game-Changing AI at WWDC: The Feature That Will Define the Future | DigitalHorizons</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-eight-key-benefits-why-educators-need-to-welcome-artificial-intelligence-in-the-classroom/"><u>Unveiling Eight Key Benefits: Why Educators Need to Welcome Artificial Intelligence in the Classroom</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-get-your-grip-on-video-transferring-how-to-download-igtv-easily/"><u>[New] 2024 Approved Get Your Grip on Video Transferring How to Download IGTV Easily</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-enjoy-games-not-glitches-use-nvidia-for-2024/"><u>[New] Enjoy Games, Not Glitches - Use NVIDIA for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigate-past-edgenuity-stealthy-study-strategies/"><u>2024 Approved Navigate Past Edgenuity Stealthy Study Strategies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-spark-your-spirit-a-collection-of-10-uplifting-movies/"><u>2024 Approved Spark Your Spirit A Collection of 10 Uplifting Movies</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-no-longer-freezes-how-the-issue-is-fixed/"><u>Cyberpunk 2077 No Longer Freezes: How the Issue Is Fixed!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-secret-language-of-success-top-20-market-phrases/"><u>In 2024, The Secret Language of Success - Top 20 Market Phrases</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-path-to-success-for-ai-is-beating-the-turing-test-achievable/"><u>The Path to Success for AI: Is Beating the Turing Test Achievable?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-study-habits-with-chatgpts-note-taking-wizardry/"><u>Transform Your Study Habits with ChatGPT's Note-Taking Wizardry</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-on-device-artificial-intelligence-and-its-working-principles/"><u>Understanding On-Device Artificial Intelligence and Its Working Principles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-extraordinary-conversations-9-advantages-in-chatgptplus/"><u>Unlock Extraordinary Conversations - 9 Advantages in ChatGPT+</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-insights-from-chatgpt-your-ultimate-step-by-step-tutorial/"><u>Unlocking Insights From ChatGPT: Your Ultimate Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-top-contender-is-it-chatgpt-plus-or-perplexity/"><u>Unveiling the Top Contender: Is It ChatGPT Plus or Perplexity?</u></a></li>
 </ul></div>
 

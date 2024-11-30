@@ -1,7 +1,7 @@
 ---
 title: Evaluating the Security of AI-Powered Conversations
-date: 2024-11-19T01:46:17.374Z
-updated: 2024-11-21T19:04:37.544Z
+date: 2024-11-28T05:09:04.761Z
+updated: 2024-11-29T19:21:50.389Z
 tags:
   - chatgpt
   - open-ai
@@ -33,22 +33,22 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  If you're on a Windows PC, you'll need to rely on third-party workarounds like[Whisper Desktop to turn your voice to text in real time](https://www.makeuseof.com/windows-whisper-desktop-guide/) .
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Send ChatGPT Prompts With Your Voice
 
@@ -64,26 +64,26 @@ Close
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
 
@@ -104,21 +104,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-invisible-viewers-for-fb-chronicles/"><u>[Updated] 2024 Approved Invisible Viewers for FB Chronicles</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-optimizing-control-switch-pro-for-steam-gaming/"><u>2024 Approved Optimizing Control Switch Pro for Steam Gaming</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-racing-game-compilation/"><u>2024 Approved Ultimate Racing Game Compilation</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/debut-visual-capturing-analysis-for-2024/"><u>Debut Visual Capturing Analysis for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-12-pro-max-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 12 Pro Max to Factory Settings? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/lead-with-zero-dollars-old-soccer-management-on-windows/"><u>Lead with Zero Dollars: Old Soccer Management on Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/predicting-the-role-of-ai-in-transforming-developer-routines/"><u>Predicting the Role of AI in Transforming Developer Routines</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-find-x6-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Find X6 has been deleted.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/reimagine-your-note-taking-chatgpts-revolutionary-method/"><u>Reimagine Your Note Taking - ChatGPT's Revolutionary Method</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-internet-queries-the-best-ai-integrated-search-engine-options/"><u>Revolutionize Your Internet Queries: The Best AI Integrated Search Engine Options</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/sifting-the-real-from-the-virtual-confirming-reliability-of-chatgpt-and-ai-generated-health-tips/"><u>Sifting the Real From the Virtual: Confirming Reliability of ChatGPT and AI-Generated Health Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/snapchats-intelligent-assistant-my-ai-vs-the-power-of-chatgpt-which-fits-your-needs-better/"><u>Snapchat’s Intelligent Assistant, My AI Vs. The Power of ChatGPT – Which Fits Your Needs Better?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/study-smarter-not-harder-top-5-student-friendly-chatgpt-applications/"><u>Study Smarter, Not Harder: Top 5 Student-Friendly ChatGPT Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-chatgpt-technique-for-improving-emotional-intelligence-skills/"><u>The ChatGPT Technique for Improving Emotional Intelligence Skills</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-and-overcoming-framerate-issues-in-dying-light/"><u>Troubleshooting & Overcoming Framerate Issues in Dying Light</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unlock-the-secret-sauce-of-making-money-with-vimeo-ads/"><u>[New] Unlock the Secret Sauce of Making Money with Vimeo Ads</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-optimize-and-upload-more-content-to-youtube/"><u>[Updated] Optimize and Upload More Content to YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-sky-high-security-the-prime-5-cloud-choices-for-2024/"><u>[Updated] Sky High Security The Prime 5 Cloud Choices for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-stream-like-a-pro-on-youtube-best-webcams-reviewed/"><u>2024 Approved Stream Like a Pro on YouTube Best Webcams Reviewed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-paper-feed-efficiency-on-win10-printers/"><u>Enhance Paper Feed Efficiency on WIN10 Printers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-dynamics-of-shared-links-in-chatgpt/"><u>Exploring the Dynamics of Shared Links in ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-giants-of-nlp-six-leading-large-language-ai-models-unveiled/"><u>Exploring the Giants of NLP: Six Leading Large Language AI Models Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-realm-of-specific-instructions-in-gpt-3-dialogues/"><u>Exploring the Realm of Specific Instructions in GPT-3 Dialogues</u></a></li>
+<li><a href="https://games-able.techidaily.com/face-off-fun-the-coolest-two-person-phone-games-top-15/"><u>Face-Off Fun: The Coolest Two-Person Phone Games (Top 15)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/from-talk-to-text-proven-strategies-for-quality-recordings/"><u>From Talk To Text Proven Strategies for Quality Recordings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-spot-and-comprehend-ai-induced-visual-deceptions-or-ai-hallucinations/"><u>How to Spot and Comprehend AI-Induced Visual Deceptions, or 'AI Hallucinations'</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-trustworthy-are-ai-assistants-like-chatgpt-and-bard-in-providing-accurate-financial-recommendations/"><u>How Trustworthy Are AI Assistants Like ChatGPT and Bard in Providing Accurate Financial Recommendations?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/humor-in-ai-tracing-computer-evolution-and-enhancing-online-privacy/"><u>Humor in AI: Tracing Computer Evolution & Enhancing Online Privacy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/identifying-suspicious-chatgpt-websites-safely/"><u>Identifying Suspicious ChatGPT Websites Safely</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/immediate-prohibition-understanding-italys-sudden-ban-on-chatgpt/"><u>Immediate Prohibition: Understanding Italy's Sudden Ban on ChatGPT</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-sifting-through-the-elements-of-instagram-stories/"><u>In 2024, Sifting Through the Elements of Instagram Stories</u></a></li>
+<li><a href="https://video-capture.techidaily.com/stepwise-guide-to-optimal-zoom-audio-recording-for-2024/"><u>Stepwise Guide to Optimal Zoom Audio Recording for 2024</u></a></li>
 </ul></div>
 

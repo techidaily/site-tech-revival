@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Biz Tools: Embracing ChatGPT & Whisper APIs"
-date: 2024-10-18T18:58:29.847Z
-updated: 2024-10-22T19:16:51.288Z
+date: 2024-11-25T19:14:10.888Z
+updated: 2024-11-30T05:52:29.646Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/f29f99d4419c1c54f223ae0fe4e25f224aa2e0b29
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The [ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to [totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/f29f99d4419c1c54f223ae0fe4e25f224aa2e0b29
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
@@ -45,16 +53,7 @@ thumbnail: https://thmb.techidaily.com/f29f99d4419c1c54f223ae0fe4e25f224aa2e0b29
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Skype Gets AI Features
@@ -66,10 +65,7 @@ thumbnail: https://thmb.techidaily.com/f29f99d4419c1c54f223ae0fe4e25f224aa2e0b29
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
@@ -83,16 +79,7 @@ thumbnail: https://thmb.techidaily.com/f29f99d4419c1c54f223ae0fe4e25f224aa2e0b29
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -118,18 +105,18 @@ thumbnail: https://thmb.techidaily.com/f29f99d4419c1c54f223ae0fe4e25f224aa2e0b29
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-audience-focus-the-ultimate-guide-to-creating-powerful-tiktok-captions/"><u>[New] 2024 Approved Audience Focus The Ultimate Guide to Creating Powerful TikTok Captions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-rhythm-and-reels-instagrams-music-playbook-for-2024/"><u>[New] Rhythm & Reels Instagram’s Music Playbook for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-legal-fb-music-streaming-hub/"><u>[Updated] Legal FB Music Streaming Hub</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-share-the-moment-how-to-post-on-twitter/"><u>[Updated] Share the Moment How To Post on Twitter</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-generative-ai-understanding-its-processes-and-major-corporate-applications/"><u>Demystifying Generative AI: Understanding Its Processes and Major Corporate Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-list-of-8-innovative-ai-tools-for-smartphones/"><u>Discover the Ultimate List of 8 Innovative AI Tools for Smartphones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-huggingchat-a-free-open-source-solution-competing-with-chatgpt/"><u>Discovering HuggingChat: A Free, Open-Source Solution Competing with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-elite-six-worlds-premier-large-language-ai-models/"><u>Exploring the Elite Six: World's Premier Large Language AI Models</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-how-to-quickly-fix-audio-importing-issues-in-adobe-premiere-pro/"><u>New 2024 Approved How to Quickly Fix Audio Importing Issues in Adobe Premiere Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-correcting-pdhdll-file-not-found-issues/"><u>Step-by-Step Guide: Correcting 'pdh.dll' File Not Found Issues</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/transform-paperwork-into-digital-format-on-ios-mastering-the-art-of-ocr-with-iscanbook-go/"><u>Transform Paperwork Into Digital Format on iOS: Mastering the Art of OCR with iScanBook Go!</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-full-range-of-steams-player-rewards/"><u>Unlock the Full Range of Steam's Player Rewards</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-hidden-links-resuscitate-windows-networks/"><u>Unveiling Hidden Links: Resuscitate Windows Networks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-finding-cost-effective-buys-on-gopros/"><u>[New] Finding Cost-Effective Buys on GoPros</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-high-fidelity-windows-playlists/"><u>[New] High-Fidelity Windows Playlists</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-guide-to-androids-best-multiparty-calls-for-2024/"><u>[New] The Ultimate Guide to Android's Best Multiparty Calls for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-cutting-edge-broadcasting-dslr-use-for-facebook-live-on-pcmac/"><u>2024 Approved Cutting-Edge Broadcasting DSLR Use for Facebook Live on PC/Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/auto-gpts-value-beyond-gpt-4-access/"><u>Auto-GPT's Value Beyond GPT-4 Access</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beware-of-these-chatbot-tools-a-comparison-with-chatgpt/"><u>Beware of These Chatbot Tools - A Comparison with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-the-turing-test-top-five-innovative-approaches-to-evaluating-artifice-intelligence-today/"><u>Beyond the Turing Test: Top Five Innovative Approaches to Evaluating Artifice Intelligence Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bingchatgpt-coin-conspiracies-decoded-unveiling-and-protecting-against-digital-scams/"><u>BingChatGPT Coin Conspiracies Decoded: Unveiling and Protecting Against Digital Scams</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/building-dialogue-dynamics-tailoring-ai-through-create-a-gpt/"><u>Building Dialogue Dynamics: Tailoring AI Through Create a GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722214295682-dipole-transitions-such-as-electronic-excitations-within-atoms-or-molecules/"><u>Dipole Transitions (Such as Electronic Excitations Within Atoms or Molecules)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-s24-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/tune-in-to-success-the-art-of-audio-amalgamation-for-fb-video-posts-for-2024/"><u>Tune in to Success The Art of Audio Amalgamation for FB Video Posts for 2024</u></a></li>
 </ul></div>
 

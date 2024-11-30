@@ -1,7 +1,7 @@
 ---
 title: "Avoid These Pitfalls: Why ChatGPT Isn't Ideal for Medical Guidance"
-date: 2024-10-31T17:09:09.566Z
-updated: 2024-11-03T00:13:35.407Z
+date: 2024-11-23T01:25:56.456Z
+updated: 2024-11-29T21:06:43.601Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A Fake ChatGPT Extension Is Targeting Facebook Users
 
  Facebook and Chrome users are being targeted by a malicious browser extension using the well-known name of the[AI-powered chatbot ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) .
@@ -37,10 +41,7 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably[sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Thousands of Facebook Accounts May Have Been Compromised
@@ -50,10 +51,7 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Malicious App Has Been Removed from Chrome
@@ -61,10 +59,7 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT's Name Is Consistently Used by Scammers
@@ -86,24 +81,22 @@ Guardio took to Twitter to warn readers of the malicious campaign.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-essential-checklist-archiving-internet-music-with-ease/"><u>[Updated] 2024 Approved The Essential Checklist Archiving Internet Music with Ease</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-essential-procedures-instilling-stopwatch-capabilities-in-broadcast-encoders/"><u>2024 Approved Essential Procedures Instilling Stopwatch Capabilities in Broadcast Encoders</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ranking-the-top-5-video-frame-capturers/"><u>2024 Approved Ranking the Top 5 Video Frame Capturers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-gpt-be-depended-on-for-accurate-wellbeing-advice/"><u>Can GPT Be Depended on for Accurate Wellbeing Advice?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/computational-math-chatgpts-role/"><u>Computational Math: ChatGPT’s Role</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-transfer-learning-within-artificial-intelligence-technology/"><u>Demystifying Transfer Learning Within Artificial Intelligence Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fixed-assassins-creed-mirage-not-launching-2024-tips/"><u>Fixed Assassin's Creed Mirage Not Launching - 2024 Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-z-flip-5-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy Z Flip 5 FRP?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/how-effective-is-the-netgear-ex3700-wi-fi-expansion-device-an-in-depth-examination-of-its-pros-cons-and-real-user-experiences/"><u>How Effective Is the Netgear EX3700 Wi-Fi Expansion Device? An In-Depth Examination of Its Pros, Cons, and Real User Experiences</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-plus-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Plus to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g22-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia G22 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/interpretation-inquiry-which-wins-gpt3-or-google/"><u>Interpretation Inquiry: Which Wins, GPT3 or Google?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-worth-investing-in-auto-gpt-when-gpt-4-isnt-an-option/"><u>Is It Worth Investing in Auto-GPT When GPT-4 Isn't an Option?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/securing-every-moment-tips-for-reliable-capture-of-google-meet-sessions/"><u>Securing Every Moment Tips for Reliable Capture of Google Meet Sessions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamline-workflows-with-these-10-innovative-chatgpt-pdf-add-ons/"><u>Streamline Workflows with These 10 Innovative ChatGPT PDF Add-Ons</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-essential-guide-to-the-tp-link-re200-ac750-wireless-extender-a-readers-price-smart-insight/"><u>The Essential Guide to the TP-Link RE200 (AC750) Wireless Extender: A Reader's Price-Smart Insight</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-path-forward-for-responsible-ai-development/"><u>The Path Forward for Responsible AI Development</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-new-possibilities-how-chatgpt-and-whisper-api-integration-transforms-your-business/"><u>Unlocking New Possibilities: How ChatGPT & Whisper API Integration Transforms Your Business</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlocking-speed-instant-signature-background-cleanup/"><u>[Updated] Unlocking Speed Instant Signature Background Cleanup</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/15-simple-ways-to-integrate-gpt-into-workflow/"><u>15 Simple Ways to Integrate GPT Into Workflow</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/achieve-mastery-in-ai-conversational-design-through-these-5-premier-online-courses/"><u>Achieve Mastery in AI Conversational Design Through These 5 Premier Online Courses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-resolving-non-functional-gesture-inputs/"><u>Diagnosing and Resolving Non-Functional Gesture Inputs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/explore-the-world-of-video-calls-hangouts-for-android/"><u>Explore the World of Video Calls Hangouts for Android</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-screen-recording-on-skype-innovative-uses-of-obs/"><u>Mastering Screen Recording on Skype Innovative Uses of OBS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-aimp4/"><u>Online AIMP4 투영어 변환 편집기 - 무료 제공</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/streamlining-your-youtube-presence-with-best-video-formats/"><u>Streamlining Your YouTube Presence with Best Video Formats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-online-discoveries-with-perplexity-ai-the-premier-tool-for-smart-google-searches/"><u>Transform Your Online Discoveries with Perplexity AI - The Premier Tool for Smart Google Searches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-your-approach-to-interviews-with-chatgpt/"><u>Transforming Your Approach to Interviews with ChatGPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-install-your-logitech-momo-racing-wheel-on-windowsmac-step-by-step/"><u>Ultimate Guide: Install Your Logitech MOMO Racing Wheel on Windows/Mac - Step by Step</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-your-potential-sign-up-for-enhanced-chatgpt-plugins-today/"><u>Unlock Your Potential: Sign Up for Enhanced ChatGPT Plugins Today!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-creativity-in-your-presentations-through-chatgpt/"><u>Unlocking Creativity in Your Presentations Through ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-key-traits-of-gpt-4-and-gpt-35/"><u>Unveiling Key Traits of GPT-4 and GPT-3.5</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-truth-can-we-trust-chatgpts-originality-and-sources/"><u>Unveiling the Truth: Can We Trust ChatGPT's Originality and Sources?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-every-career-path-needs-chatgpt-proficiency-exploring-the-top-six-advantages/"><u>Why Every Career Path Needs ChatGPT Proficiency – Exploring the Top Six Advantages</u></a></li>
 </ul></div>
 

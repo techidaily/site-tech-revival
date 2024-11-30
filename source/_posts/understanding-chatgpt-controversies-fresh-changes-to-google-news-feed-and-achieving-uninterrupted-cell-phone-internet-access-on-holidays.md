@@ -1,7 +1,7 @@
 ---
 title: Understanding ChatGPT Controversies, Fresh Changes to Google News Feed, and Achieving Uninterrupted Cell Phone Internet Access on Holidays
-date: 2024-11-01T18:29:57.979Z
-updated: 2024-11-02T21:57:29.690Z
+date: 2024-11-28T17:49:27.320Z
+updated: 2024-11-29T23:10:05.064Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -59,29 +63,21 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-top-phones-that-seamlessly-integrate-with-the-latest-gear-vr/"><u>[New] Top Phones That Seamlessly Integrate with the Latest Gear VR</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-how-quicktime-screen-recording-with-audio/"><u>[Updated] 2024 Approved [How] QuickTime Screen Recording with Audio</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-riddle-me-this-the-ultimate-room-conundrums/"><u>[Updated] Riddle Me This The Ultimate Room Conundrums</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-guide-to-sustainable-visual-effects-equipment-for-2024/"><u>[Updated] Ultimate Guide to Sustainable Visual Effects Equipment for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-the-right-ai-companion-claude-vs-chatgpt-for-daily-use/"><u>Choosing the Right AI Companion: Claude Vs. ChatGPT for Daily Use</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creative-writing-with-ai-crafting-poems-using-chatgpt/"><u>Creative Writing with AI: Crafting Poems Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-mechanisms-of-generative-ai-in-search-leading-compannies-applications/"><u>Exploring the Mechanisms of Generative AI in Search: Leading Compannies' Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fast-track-to-using-microsoft-copilot-with-your-macos-devices/"><u>Fast Track to Using Microsoft Copilot with Your macOS Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/groundbreaking-release-openai-unveils-innovative-gpt-4-ai/"><u>Groundbreaking Release: OpenAI Unveils Innovative GPT-4 AI</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-se-2022-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone SE (2022) Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/identifying-bingchatgpt-token-fraud-a-guide-to-recognizing-and-protecting-yourself-from-cryptocurrency-deception/"><u>Identifying BingChatGPT Token Fraud: A Guide to Recognizing & Protecting Yourself From Cryptocurrency Deception</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-evolution-of-editing-software-reviewed-magix-vpx/"><u>In 2024, The Evolution of Editing Software Reviewed Magix VPX</u></a></li>
-<li><a href="https://extra-information.techidaily.com/leveraging-instagrams-capabilities-for-podcast-promotion/"><u>Leveraging Instagram's Capabilities for Podcast Promotion</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-troubleshooting-for-non-printing-canon-printers/"><u>Quick Troubleshooting for Non-Printing Canon Printers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-phenomenon-of-ai-chatbots-an-insight-into-their-popularity-surge/"><u>The Phenomenon of AI Chatbots: An Insight Into Their Popularity Surge</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-ranking-ai-powered-search-engines-your-ultimate-guide/"><u>Top-Ranking AI-Powered Search Engines: Your Ultimate Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/unfollow-path-severing-social-media-connections/"><u>Unfollow Path: Severing Social Media Connections</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-cost-efficient-pc-video-harvesters/"><u>[New] Cost-Efficient PC Video Harvesters</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-pathway-for-storytellers-mastery-over-facebook-live-feature/"><u>[New] The Ultimate Pathway for Storytellers Mastery Over Facebook Live Feature</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-expressiveness-in-yt-adopting-emojis/"><u>[Updated] 2024 Approved Expressiveness in YT Adopting Emojis</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-nostalgia-unleashed-a-guide-to-fb-archives/"><u>[Updated] 2024 Approved Nostalgia Unleashed A Guide to FB Archives</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-note-13-pro-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Xiaomi Redmi Note 13 Pro 5G has native HEVC support?</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/guia-gratuita-para-recuperar-particiones-borradas-en-windows-11-8-y-7/"><u>Guía Gratuita Para Recuperar Particiones Borradas en Windows 11, 8 Y 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-a54-5g-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-lenovo-thinkphone-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Lenovo ThinkPhone to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolve-screen-imperfections-a-step-by-step-guide-to-restoring-accurate-colors-and-clear-images/"><u>Resolve Screen Imperfections: A Step-by-Step Guide to Restoring Accurate Colors & Clear Images</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-interpretability-openais-shape-explained/"><u>Understanding Interpretability: OpenAI's ShapE Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-potential-the-impactful-arrival-of-gpt-4s-advanced-ai-on-do-it-yourself-industry-practices/"><u>Unleashing Potential: The Impactful Arrival of GPT-4's Advanced AI on Do-It-Yourself Industry Practices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-smartphone-deals-and-combatting-malware/"><u>Unlocking Smartphone Deals & Combatting Malware</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-chatgpts-native-tools-functions-and-potential-uses/"><u>Unveiling ChatGPT's Native Tools: Functions and Potential Uses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-gptzero-your-guide-to-spotting-synthetic-writings-in-the-digital-age/"><u>Unveiling GPTZero: Your Guide to Spotting Synthetic Writings in the Digital Age</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/vibrant-meals-on-demand-gpts-cooking-guide/"><u>Vibrant Meals on Demand: GPT's Cooking Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/weighing-up-pros-and-cons-making-sense-of-chatgpt-plus-features/"><u>Weighing Up Pros and Cons: Making Sense of ChatGPT Plus Features</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

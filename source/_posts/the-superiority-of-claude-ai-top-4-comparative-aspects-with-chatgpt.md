@@ -1,7 +1,7 @@
 ---
 title: "The Superiority of Claude AI: Top 4 Comparative Aspects with ChatGPT"
-date: 2024-11-19T20:26:33.787Z
-updated: 2024-11-21T22:55:43.263Z
+date: 2024-11-23T20:13:51.329Z
+updated: 2024-11-30T01:56:42.415Z
 tags:
   - chatgpt
   - open-ai
@@ -20,16 +20,16 @@ thumbnail: https://thmb.techidaily.com/7104eb033fbf632865800cb348d315fa27012665c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Claude Is Better at Creative Writing](https://www.makeuseof.com/reasons-use-claude-3-instead-of-chatgpt/#claude-is-better-at-creative-writing)
 * [Claude Offers Multimodality for Free](https://www.makeuseof.com/reasons-use-claude-3-instead-of-chatgpt/#claude-offers-multimodality-for-free)
 * [Larger Context Window](https://www.makeuseof.com/reasons-use-claude-3-instead-of-chatgpt/#larger-context-window)
 * [More Messages Per Hour](https://www.makeuseof.com/reasons-use-claude-3-instead-of-chatgpt/#more-messages-per-hour)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/7104eb033fbf632865800cb348d315fa27012665c
 * Claude boasts a larger context window and potentially more messages per hour than ChatGPT.
 
  In the AI chatbot space, ChatGPT has been the undisputed leader since its launch in November 2022\. However, with the release of Claude 3, it is increasingly looking like ChatGPT might be losing that title. Here are four reasons you should consider switching from ChatGPT to Claude.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1 Claude Is Better at Creative Writing
 
@@ -62,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/7104eb033fbf632865800cb348d315fa27012665c
 
 ![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
 
 ![Claude escapes cliche writing example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-escapes-cliche.jpg)
@@ -77,26 +77,26 @@ Here's ChatGPT's take:
 ![Coconut to wealth by ChatGPT writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 And here's Claude's take:
 
 ![Coconut to wealth by Claude writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-claude.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 Claude Offers Multimodality for Free
 
 ![screengrab of the claude ai homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-screengrab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Besides Google's Gemini AI chatbot, there are hardly any major AI chatbots in the market that offer Claude's multimodal features for free. With the free version of ChatGPT, all you get is text generation abilities, and that's it. No file uploads for analysis, no image processing, nothing else! On the other hand, Claude offers these premium features on its free tier. So, you can use image prompting or upload files for analysis on the chatbot for free if you use the free beta version of the bot.
 
@@ -139,22 +139,24 @@ And here's Claude's take:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-mastering-instagrams-live-feature-without-your-identity-for-2024/"><u>[New] Mastering Instagram's Live Feature Without Your Identity for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/riority-picks-high-rated-graphics-cards-for-seamless-playback-for-2024/"><u>[New] Priority Picks High-Rated Graphics Cards for Seamless Playback for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-video-quality-at-its-best-webcams-for-superior-podcasting/"><u>[Updated] Video Quality at Its Best Webcams for Superior Podcasting</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-kingdoms-collide-ranking-top-7-total-war-historical-games/"><u>2024 Approved Kingdoms Collide Ranking Top 7 Total War Historical Games</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-stealthy-sound-suppression-techniques-for-fade-out/"><u>2024 Approved Stealthy Sound Suppression Techniques for Fade-Out</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/7-effective-strategies-to-address-the-chatgpt-body-stream-error-a-comprehensive-guide/"><u>7 Effective Strategies to Address the ChatGPT Body Stream Error – A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-enhanced-resume-craftsmayer-with-chatgpt-innovations/"><u>AI-Enhanced Résume Craftsmayer with ChatGPT Innovations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/archiving-made-simple-saving-chatgpt-talks/"><u>Archiving Made Simple: Saving ChatGPT Talks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-6-rise-of-creative-tools/"><u>Artificial Intelligence: 6 Rise of Creative Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-turing-exploring-modern-approaches-to-ai-evaluation/"><u>Beyond Turing: Exploring Modern Approaches to AI Evaluation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/build-your-web-presence-faster-how-chatgpt-can-assist-in-4-stages/"><u>Build Your Web Presence Faster: How ChatGPT Can Assist in 4 Stages</u></a></li>
-<li><a href="https://article-files.techidaily.com/cutting-edge-techniques-for-video-production-in-windows-photos-for-2024/"><u>Cutting-Edge Techniques for Video Production in Windows Photos for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-asus-rog-phone-8-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Asus ROG Phone 8 Phone Without Password?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-boosting-podcast-quality-using-the-focusrite-scarlet-cu2-expert-insights-from-zdnet/"><u>The Ultimate Guide to Boosting Podcast Quality Using the Focusrite Scarlet Cu2 | Expert Insights From ZDNET</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/topo-5-innovativi-strategie-del-2024-per-potenziare-la-qualita-dellimmagine/"><u>Topo 5 Innovativi Strategie Del 2024 per Potenziare La Qualità Dell'Immagine</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-is-a-vector-database-and-how-do-they-boost-ai/"><u>What Is a Vector Database, and How Do They Boost AI?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-you-should-tap-into-chatgpts-expertise-for-medical-guidance-a-seven-point-guide/"><u>Why You Should Tap Into ChatGPT's Expertise for Medical Guidance: A Seven-Point Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/treamers-picks-top-5-noise-canceling-headsets-for-2024/"><u>[New] Streamer's Picks Top 5 Noise-Canceling Headsets for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-wirecast-review-and-alternatives/"><u>[New] Wirecast Review and Alternatives</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-reversing-the-consequences-of-a-youtube-ban/"><u>2024 Approved Reversing the Consequences of a YouTube Ban</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/best-low-cost-subtitles-and-downloader-companion-for-2024/"><u>Best Low-Cost Subtitles & Downloader Companion for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/hottest-tiktok-trials-step-up-and-join-in/"><u>Hottest TikTok Trials - Step Up and Join In</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-quietude-kingdoms-ultimate-zen-pc-games/"><u>In 2024, Quietude Kingdoms Ultimate Zen PC Games</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-creativity-for-free-using-dall-e-3-on-the-microsoft-bing-search-engine/"><u>Maximize Creativity for Free: Using DALL-E 3 on the Microsoft Bing Search Engine</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-generative-ai-successfully-the-7-blunders-you-must-dodge/"><u>Navigating Generative AI Successfully: The 7 Blunders You Must Dodge</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-modern-life-top-9-tips-from-chatgpt-experts/"><u>Navigating Modern Life: Top 9 Tips From ChatGPT Experts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-gen-ai-methods-elevating-web-search-standards/"><u>Next-Gen AI Methods Elevating Web Search Standards</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protecting-privacy-how-not-to-save-conversations-with-chatgpt/"><u>Protecting Privacy: How Not to Save Conversations with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reimagining-coding-with-non-chatgpt-ai-innovations/"><u>Reimagining Coding with Non-ChatGPT AI Innovations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/scam-or-solution-delving-into-truthgpt-token/"><u>Scam or Solution? Delving Into TruthGPT Token</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-ai-chatting-on-ubuntu-how-to-connect-with-chatgpt-via-shell-command-line-interface/"><u>Seamless AI Chatting on Ubuntu: How to Connect with ChatGPT via Shell Command Line Interface</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-ai-integration-for-windows-systems/"><u>Seamless AI Integration for Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-problems-when-upgrading-to-windows-1903-a-step-by-step-guide/"><u>Solving Problems When Upgrading to Windows 1903: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/transform-your-pdf-documents-into-flip-books-online-convert-files-seamlessly-and-personalize-them-with-a-range-of-design-options-flipbuildercom/"><u>Transform Your PDF Documents Into Flip Books Online: Convert Files Seamlessly and Personalize Them with a Range of Design Options [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-data.techidaily.com/troubleshooting-failed-phone-calls-after-updating-to-ios-eby/"><u>Troubleshooting Failed Phone Calls After Updating to iOS Eby</u></a></li>
 </ul></div>
 

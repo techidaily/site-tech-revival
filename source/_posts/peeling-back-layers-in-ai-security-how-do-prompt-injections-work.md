@@ -1,7 +1,7 @@
 ---
 title: "Peeling Back Layers in AI Security: How Do Prompt Injections Work?"
-date: 2024-11-15T22:25:30.055Z
-updated: 2024-11-21T18:26:50.153Z
+date: 2024-11-26T22:40:59.924Z
+updated: 2024-11-30T06:39:44.756Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 * [Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#full-access-to-advanced-data-analysis-file-uploads-vision-and-web-browsing)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -65,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
 
  If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
@@ -75,21 +79,17 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
  You must have a Plus subscription to create custom GPTs. Paying will let you[build a custom GPT with your own data](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) and documents, which can then be shared with friends and colleagues or published freely on the marketplace.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Generate Images With DALL-E
 
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
 
  We are uncertain how this will translate to Free users' access to the GPT store, seeing as many custom GPTs rely on DALL-E. But it's very likely going to be completely unavailable until you pay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5  Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App
 
@@ -101,13 +101,13 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
  OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
 ![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Advanced data analysis, file uploads, vision, and web browsing were once features exclusive to OpenAI's paying customers. That has now changed, and all of these are available to Free users but with more limits. The limits include fewer prompts, fewer file uploads, and lower priority access to these services during peak hours.
 
@@ -132,19 +132,22 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-resource-list-open-source-imagery-sanctuary/"><u>[New] Ultimate Resource List Open-Source Imagery Sanctuary</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-ways-to-screen-record-on-android/"><u>[Updated] 2024 Approved Best Ways to Screen Record on Android</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-optimal-srt-tweaks-elevating-your-computing-for-2024/"><u>[Updated] Optimal SRT Tweaks Elevating Your Computing for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-entertainment-top-6-ways-snapchats-my-ai-transforms-your-experience/"><u>Beyond Entertainment: Top 6 Ways Snapchat's My AI Transforms Your Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/blocking-access-from-robotic-scrappers-how-to-shield-your-site-from-openai-bots/"><u>Blocking Access From Robotic Scrappers: How to Shield Your Site From OpenAI Bots</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-ai-revolutionize-fortune-telling-with-chatgpts-predictive-abilities/"><u>Can AI Revolutionize Fortune Telling with ChatGPT's Predictive Abilities?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-we-depend-on-chatgpts-answers-exploring-the-ais-truthfulness-and-reliability/"><u>Can We Depend on ChatGPT's Answers? Exploring the AI’s Truthfulness and Reliability</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-plugin-sync-troubles-how-to-overcome-connection-errors/"><u>ChatGPT Plugin Sync Troubles: How to Overcome Connection Errors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-your-champion-a-side-by-side-evaluation-of-chatgpt-plus-vs-perplex3-in-the-ai-chatbot-arena/"><u>Choosing Your Champion: A Side-by-Side Evaluation of ChatGPT Plus Vs. Perplex^3 in the AI Chatbot Arena</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/evaluating-inshot-is-it-truly-top-notch/"><u>Evaluating InShot Is It Truly Top-Notch?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Oppo F23 5G? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/professional-shutter-sense-the-prime-6-4k-dslr-selections/"><u>Professional Shutter Sense The Prime 6 4K DSLR Selections</u></a></li>
-<li><a href="https://solve-help.techidaily.com/1725285273048-winxdvd-digiarty/"><u>WinXDVD 対応 Digiarty ソフトウェア・問い合わせ内訳 - 最新情報をお見せします</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-journeying-beyond-boundaries-jaunt-vr-analysis/"><u>[New] In 2024, Journeying Beyond Boundaries Jaunt VR Analysis</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-itunes-video-management-made-simple/"><u>[Updated] 2024 Approved ITunes Video Management Made Simple</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/exploring-leading-email-strategies-key-lessons-from-2020s-premier-articles-enhanced-by-massmail-solutions/"><u>Exploring Leading Email Strategies: Key Lessons From 2020'S Premier Articles, Enhanced by MassMail Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-leap-into-the-tiktok-live-crowd-a-quick-guide/"><u>In 2024, Leap Into the TikTok Live Crowd A Quick Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/limited-time-offer-save-up-to-45-on-all-max-annual-subscriptions/"><u>Limited-Time Offer: Save up to 45% on All Max Annual Subscriptions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-extended-delay-in-signal-exchange-the-0x80070079-timeout-problem/"><u>Overcoming the Extended Delay in Signal Exchange: The 0X80070079 Timeout Problem</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photo-editing-achieving-focus-with-distortions-for-2024/"><u>Photo Editing Achieving Focus with Distortions for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/propel-chatgpt-forward-top-9-must-have-plugins-here/"><u>Propel ChatGPT Forward: Top 9 Must-Have Plugins Here</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tech-talk-alert-exploring-mobile-phone-ransomware-50-solutions-and-chatgpts-podcast-contribution/"><u>Tech Talk Alert: Exploring Mobile Phone Ransomware, $50 Solutions & ChatGPT's Podcast Contribution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-inner-workings-of-an-ai-prompt-injection-assault-on-tech-systems/"><u>The Inner Workings of an AI Prompt Injection Assault on Tech Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-power-to-personalize-building-custom-gpt-models-through-chatgpts-new-update/"><u>The Power to Personalize: Building Custom GPT Models Through ChatGPT's New Update</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-benefits-of-leveraging-chatgpt-for-your-medical-inquiries/"><u>Top 7 Benefits of Leveraging ChatGPT for Your Medical Inquiries</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-realistic-applications-of-auto-gpt-for-everyday-users/"><u>Top 8 Realistic Applications of Auto-GPT for Everyday Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-ideas-into-pictures-an-ultimate-guide-to-ai-driven-image-generation-via-chatgpt/"><u>Transform Your Ideas Into Pictures: An Ultimate Guide to AI-Driven Image Generation via ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trustworthy-approaches-to-authenticate-health-recommendations-from-artificial-intelligence-programs/"><u>Trustworthy Approaches to Authenticate Health Recommendations From Artificial Intelligence Programs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unmasking-truthgpt-a-look-into-its-core-police-oversight-the-case-of-mullvad-vpn-raid-navigating-the-best-free-pc-gaming-options-understanding-mechanical-ke21/"><u>Unmasking TruthGPT - A Look Into Its Core; Police Oversight: The Case of Mullvad VPN Raid; Navigating the Best Free PC Gaming Options; Understanding Mechanical Keyboard Features</u></a></li>
 </ul></div>
 

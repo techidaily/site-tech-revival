@@ -1,7 +1,7 @@
 ---
 title: The Mechanics of AI Black Boxes Explained for Better Insight and Transparency
-date: 2024-11-18T16:49:59.295Z
-updated: 2024-11-21T22:28:23.148Z
+date: 2024-11-28T22:43:10.429Z
+updated: 2024-11-30T07:22:58.035Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -63,17 +63,15 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-techniques-to-reformat-macscreenshot-extensions/"><u>[New] In 2024, Techniques to Reformat MacScreenshot Extensions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-best-video-grabbers-for-mac/"><u>[Updated] Best Video Grabbers for Mac</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-share-screen-on-skype-when-working-at-home-for-2024/"><u>[Updated] How to Share Screen on Skype When Working at Home for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/browsing-made-memorable-the-leading-screen-recorder-software/"><u>Browsing Made Memorable The Leading Screen Recorder Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/developer-access-granted-apple-unveils-visionpro-sdk-and-hardware-kit-application-process-technews/"><u>Developer Access Granted: Apple Unveils VisionPro SDK and Hardware Kit Application Process – TechNews</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-update-hp-laserjet-p1606dn-printer-drivers-for-windows-operating-systems/"><u>Download & Update HP LaserJet P1606dn Printer Drivers for Windows Operating Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-impact-of-vector-databases-on-artificial-intelligence-progress/"><u>Exploring the Impact of Vector Databases on Artificial Intelligence Progress</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/first-steps-in-ai-unveiling-the-top-9-essential-tools/"><u>First Steps in AI: Unveiling the Top 9 Essential Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/grand-theft-auto-v-crashes-a-comprehensive-guide-to-stabilizing-your-gameplay-experience/"><u>Grand Theft Auto V Crashes: A Comprehensive Guide to Stabilizing Your Gameplay Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-artificial-intelligence-in-bing-comprehensive-guide-to-empowered-android-browsing/"><u>Harnessing Artificial Intelligence in Bing: Comprehensive Guide to Empowered Android Browsing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-chatgpt-to-construct-engaging-websites/"><u>Harnessing ChatGPT to Construct Engaging Websites</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/immediate-integration-how-to-harness-gpt-4-with-chatgpt-right-now/"><u>Immediate Integration: How to Harness GPT-4 with ChatGPT Right Now!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-skyrocketing-subscribers-5-proven-strategies-for-igtv-success-for-2024/"><u>[New] Skyrocketing Subscribers 5 Proven Strategies for IGTV Success for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-expedite-your-file-format-journey-from-srt-to-txt/"><u>[Updated] 2024 Approved Expedite Your File Format Journey From SRT to TXT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-illustration-journey-merging-dall-e-and-gpt-4-capabilities/"><u>AI Illustration Journey: Merging DALL-E & GPT-4 Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-3d-printing-skills-by-utilizing-chatgpts-powerful-tools-and-insights/"><u>Boost Your 3D Printing Skills by Utilizing ChatGPT's Powerful Tools and Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-productivity-advanced-techniques-for-note-taking-via-chatgpt/"><u>Boost Your Productivity: Advanced Techniques for Note-Taking via ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-workout-routine-with-expert-tips-on-writing-efficient-chatgpt-queries/"><u>Boost Your Workout Routine with Expert Tips on Writing Efficient ChatGPT Queries</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/exploring-milestones-mondlys-last-10-years/"><u>Exploring Milestones: Mondly’s Last 10 Years</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029880424-handbrake/"><u>HandBrakeで動画を最適化するための簡単なガイド: コンパクト形式へ</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-6-plus-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 6 Plus Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-netflix-connectivity-detecting-downtime-and-fixes/"><u>Understanding Netflix Connectivity: Detecting Downtime & Fixes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "From Idea to Interaction: Creating Specialized AI with GPT"
-date: 2024-11-17T23:25:41.857Z
-updated: 2024-11-21T17:40:00.253Z
+date: 2024-11-26T04:15:29.956Z
+updated: 2024-11-30T07:11:32.823Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Supply ChatGPT With a URL
 
  ChatGPT can reference URLs that you supply it with. This means that if the PDF file is online, getting ChatGPT to reference it is super easy. A URL is a[web address that comprises five key components](https://www.makeuseof.com/what-are-key-url-elements/) . We don’t need to go into detail here, all you need to know is the web address of the PDF you want to reference.
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 
 ![Screenshot of response to PDF query on the US constitution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-response-to-pdf-query-on-the-us-constitution.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are[limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/) , especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
 ## 2\. Copy Text From the PDF
@@ -46,22 +46,18 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
 
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Convert the PDF Into a Text Document
@@ -80,10 +76,14 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the**Save As** command to save it as a Word or text document as preferred.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Install and Use an Extension
@@ -117,21 +117,15 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-beginners-guide-to-zoom-webinars/"><u>[New] In 2024, Beginner’s Guide to Zoom Webinars</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mastering-camera-roll-sharing-in-just-a-few-steps/"><u>[Updated] 2024 Approved Mastering Camera Roll Sharing in Just a Few Steps</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-elite-mac-video-editing-programs-sierra-edition-for-2024/"><u>[Updated] Elite Mac Video Editing Programs Sierra Edition for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-how-to-zoom-tiktok-videos/"><u>[Updated] In 2024, How to Zoom TikTok Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-quickening-your-live-feed-on-periscope-platform/"><u>[Updated] Quickening Your Live Feed on Periscope Platform</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-websites-for-downloading-snapchat-ringtone/"><u>Best Websites For Downloading Snapchat Ringtone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-essence-of-chatgpts-interpreter-why-it-matters-in-ai-development/"><u>Decoding the Essence of ChatGPT's Interpreter: Why It Matters in AI Development</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-critical-6-elements-to-reflect-on-with-chatgpt-usage-in-therapy-and-counseling/"><u>Discover the Critical 6 Elements to Reflect on with ChatGPT Usage in Therapy and Counseling</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-possibilities-mastering-board-games-and-image-creation-with-your-gpt-powered-bots/"><u>Discover the Possibilities: Mastering Board Games & Image Creation with Your GPT-Powered Bots</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-why-chatgpt-skyrockets-to-global-audience-favorite-in-minutes/"><u>Discover Why ChatGPT Skyrockets to Global Audience Favorite in Minutes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/disguised-dangers-identifying-phony-chatgpt-tools/"><u>Disguised Dangers: Identifying Phony ChatGPT Tools</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/effortless-melodies-free-facebook-download/"><u>Effortless Melodies Free Facebook Download</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-mobile-browsing-with-bings-new-ai-technology-now-compatible-with-ios-and-android-systems/"><u>Elevate Your Mobile Browsing with Bing's New AI Technology – Now Compatible with iOS and Android Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-writing-with-chatgpt-discover-the-11-best-character-development-prompts-for-authors/"><u>Elevate Your Writing with ChatGPT - Discover the 11 Best Character Development Prompts for Authors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-solutions-to-restore-charge-on-a-malfunctioning-macbook-pro-gadgetgurutips/"><u>Free Solutions to Restore Charge on a Malfunctioning MacBook Pro | GadgetGuruTips</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-the-cosmos-with-star-wars-squadrons-an-engrossing-flight-simulation-game-revealed/"><u>Navigating the Cosmos with Star Wars: Squadrons – An Engrossing Flight Simulation Game Revealed</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-unleashing-potential-your-guide-to-making-blockbuster-youtube-videos/"><u>[New] In 2024, Unleashing Potential Your Guide to Making Blockbuster Youtube Videos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-copyright-clearance-for-creative-uploads-on-tiktok/"><u>[Updated] 2024 Approved Copyright Clearance for Creative Uploads on TikTok</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-envision-amusing-meme-concepts-adobe-based/"><u>[Updated] 2024 Approved Envision Amusing Meme Concepts, Adobe-Based</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-tech-tips-for-perfect-video-captures-for-2024/"><u>[Updated] Tech Tips for Perfect Video Captures for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-in-stardee-world-expert-tips-and-tricks/"><u>Overcoming Launch Errors in Stardee World - Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-insight-into-ai-hallucinations-tips-for-spotting-them-effectively/"><u>The Insight Into AI Hallucinations: Tips for Spotting Them Effectively</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-dall-es-creative-images-from-webp-to-pngjpg/"><u>Transforming DALL-E's Creative Images From WebP to PNG/JPG</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-gptbot-reasons-behind-website-restrictions/"><u>Understanding GPTBot: Reasons Behind Website Restrictions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-top-three-privacy-threats-linked-with-using-chatbots/"><u>Understanding the Top Three Privacy Threats Linked with Using Chatbots</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-enduring-power-of-the-lg-gram-156-laptop-an-in-depth-look-at-its-remarkable-battery-life-and-portability/"><u>Unveiling the Enduring Power of the LG Gram 15.6 Laptop: An In-Depth Look at Its Remarkable Battery Life & Portability</u></a></li>
 </ul></div>
 

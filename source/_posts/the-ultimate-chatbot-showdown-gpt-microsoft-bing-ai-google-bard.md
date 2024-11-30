@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Chatbot Showdown: GPT, Microsoft Bing AI, Google Bard"
-date: 2024-11-16T01:07:20.216Z
-updated: 2024-11-22T01:54:52.840Z
+date: 2024-11-23T22:57:35.190Z
+updated: 2024-11-29T19:20:02.572Z
 tags:
   - chatgpt
   - open-ai
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What You Need to Know About AI Chatbots
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
@@ -44,27 +40,15 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
@@ -76,9 +60,17 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -97,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
@@ -112,9 +104,17 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
@@ -159,22 +159,22 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-5-best-title-makers-online/"><u>[Updated] 5 Best Title Makers Online</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-compose-better-yi-4k-footage-must-have-accessories-for-2024/"><u>[Updated] Compose Better YI 4K Footage Must-Have Accessories for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-master-organization-with-mematics-toolkit-for-2024/"><u>[Updated] Master Organization with Mematic's Toolkit for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bert-vs-gpt-explaining-nlps-pioneering-models/"><u>BERT vs GPT: Explaining NLP's Pioneering Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/clash-of-tech-titans-exploring-8-key-differences-between-snapchats-my-ai-and-microsofts-bing-chat-on-skype/"><u>Clash of Tech Titans: Exploring 8 Key Differences Between Snapchat's My AI & Microsoft's Bing Chat on Skype</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-nokia-c12-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Nokia C12 Pro for Free? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-chuckle-away-with-premium-complimentary-meme-templates/"><u>In 2024, Chuckle Away with Premium Complimentary Meme Templates</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-tecno-camon-30-pro-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Tecno Camon 30 Pro 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-code-generation-without-chatgpt-exploring-7-effective-alternatives/"><u>Seamless Code Generation without ChatGPT: Exploring 7 Effective Alternatives</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-homemaking-gpt-strategies-for-a-perfected-routine/"><u>Seamless Homemaking: GPT Strategies for a Perfected Routine</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/steps-to-remote-connectivity-using-chatgpt-anytime-anywhere-through-chatgpt-everywhere/"><u>Steps to Remote Connectivity: Using ChatGPT Anytime, Anywhere Through ChatGPT Everywhere</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/talk-to-ai-anytime-anywhere-get-chatgpt-for-your-android/"><u>Talk to AI Anytime, Anywhere - Get ChatGPT for Your Android</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-anthropic-guide-to-claude-3-mastery/"><u>The Anthropic Guide to Claude 3 Mastery</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-case-for-local-llm-9-pros-9-cons/"><u>The Case for Local LLM: 9 Pros, 9 Cons</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-essentials-of-using-llama-abbreviated-as-llama-2-what-you-need-to-know/"><u>The Essentials of Using Llama Abbreviated as LLAMA 2: What You Need to Know</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-intricacies-of-ai-benefits-and-potential-risks/"><u>The Intricacies of AI: Benefits & Potential Risks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-combating-an-unresponsive-obs-camera-input-stream/"><u>[New] 2024 Approved Combating an Unresponsive OBS Camera Input Stream</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astering-youtube-standard-studio-or-beta-progress/"><u>[New] Mastering YouTube Standard Studio or Beta Progress</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-immersive-ventures-how-google-cardboard-stacks-up-against-samsung-vr-for-2024/"><u>[Updated] Immersive Ventures How Google Cardboard Stacks Up Against Samsung VR for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-spotlight-on-windows-11-innovations/"><u>2024 Approved Spotlight on Windows 11 Innovations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-chatgpts-personalized-directive-function-work-and-what-possibilities-does-it-offer/"><u>How Does ChatGPT's Personalized Directive Function Work, and What Possibilities Does It Offer?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-excel-outperforms-chatgpt-in-data-management-discover-3-ways/"><u>How Excel Outperforms ChatGPT in Data Management - Discover 3 Ways!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-is-generative-artificnal-intelligence-paving-the-way-for-information-manipulation/"><u>How Is Generative Artificnal Intelligence Paving the Way for Information Manipulation?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-asus-rog-phone-7-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Asus ROG Phone 7 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-plan-your-getaway-with-7-free-ai-travel-assistants-and-chatgpt-for-instant-routes/"><u>How to Plan Your Getaway with 7 Free AI Travel Assistants & ChatGPT for Instant Routes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-agni-2-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Lava Agni 2 5G Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-user-exchanges-influence-ai-upgrades-in-chatgpt/"><u>How User Exchanges Influence AI Upgrades in ChatGPT?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfectiphone-podcast-guide-seamlessly-download-from-anywhere/"><u>In 2024, PerfectiPhone Podcast Guide – Seamlessly Download From Anywhere</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/interfacing-gpt-technology-with-household-automation/"><u>Interfacing GPT Technology With Household Automation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-ai-assistance-from-chatgpt-lifesaving-in-outdoor-emergencies/"><u>Is AI Assistance From ChatGPT Lifesaving in Outdoor Emergencies?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-ais-insight-more-accurate-chatgpt-vs-traditional-astrology-forecasting/"><u>Is AI's Insight More Accurate: ChatGPT Vs. Traditional Astrology Forecasting</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/show-audio-waveform-and-add-waveform-animation-in-premiere-protutor-for-2024/"><u>Show Audio Waveform and Add Waveform Animation in Premiere ProTutor for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-secrets-to-choosing-movie-trailers-music/"><u>Unveiling the Secrets to Choosing Movie Trailers' Music</u></a></li>
 </ul></div>
 

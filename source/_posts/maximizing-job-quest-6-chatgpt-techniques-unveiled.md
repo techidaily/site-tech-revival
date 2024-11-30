@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Job Quest: 6 ChatGPT Techniques Unveiled"
-date: 2024-11-19T21:36:47.424Z
-updated: 2024-11-22T01:28:46.100Z
+date: 2024-11-24T00:27:15.158Z
+updated: 2024-11-30T04:07:45.298Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Image Input and Output Capabilities
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
  In this example, I asked ChatGPT for recipes for the items visible in the fridge.
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
@@ -67,10 +63,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
 
@@ -85,6 +77,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -104,17 +100,21 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
@@ -137,21 +137,21 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-blend-zoom-events-smoothly-into-phone-and-desktop-plans-efficiently/"><u>[Updated] In 2024, Blend Zoom Events Smoothly Into Phone & Desktop Plans Efficiently</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/6-effective-strategies-to-minimize-ai-misinterpretations-through-smart-prompting/"><u>6 Effective Strategies to Minimize AI Misinterpretations Through Smart Prompting</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-journey-through-openais-gpt-generations/"><u>A Journey Through OpenAI’s GPT Generations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722044292166-access-chatgpt-for-free-discover-our-5-key-tips/"><u>Access ChatGPT for Free - Discover Our 5 Key Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-machine-intelligence-beyond-traditional-trials/"><u>Assessing Machine Intelligence Beyond Traditional Trials</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/automated-prose-perfection-the-hix-way/"><u>Automated Prose Perfection: The HIX Way</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722193779525-beware-of-fake-chatgpt-desktop-apps-these-are-actually-malware/"><u>Beware of Fake ChatGPT Desktop Apps: These Are Actually Malware!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722212256665-chatgpt-desktop-still-coming-soon-discover-exceptional-open-source-counterparts-now/"><u>ChatGPT Desktop Still Coming Soon? Discover Exceptional Open Source Counterparts Now</u></a></li>
-<li><a href="https://discover-help.techidaily.com/easy-guide-to-compressing-dvd-9-into-compact-dvd-5-formats/"><u>Easy Guide to Compressing DVD-9 Into Compact DVD-5 Formats</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhance-real-time-broadcasts-our-picks-for-9-prime-filters/"><u>Enhance Real-Time Broadcasts Our Picks for 9 Prime Filters</u></a></li>
-<li><a href="https://win-blog.techidaily.com/geforce-experience-error-resolution-a-step-by-step-walkthrough-for-users/"><u>GeForce Experience Error Resolution - A Step-by-Step Walkthrough for Users</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-14-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone 14 Pro to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Motorola Moto G Stylus 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-nova-y91-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Nova Y91</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-realme-note-50-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Realme Note 50 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ar-glasses-trends-a-comprehensive-review-by-zdnet/"><u>Top AR Glasses Trends : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-strategies-for-perfecting-igtv-video-titles/"><u>[New] 2024 Approved Strategies for Perfecting IGTV Video Titles</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-veiled-vocal-keepers-ios-and-android-secretive-sound-tools/"><u>[New] 2024 Approved Veiled Vocal Keepers IOS & Android Secretive Sound Tools</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-crafting-social-stardom-30-ingenious-tiktok-nicknames-to-consider/"><u>[New] Crafting Social Stardom 30 Ingenious TikTok Nicknames to Consider</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-effortlessly-add-youtube-videos-to-google-slate-decks/"><u>[Updated] 2024 Approved Effortlessly Add YouTube Videos to Google Slate Decks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fine-tuning-your-approach-to-360-videos-on-facebook-for-2024/"><u>[Updated] Fine-Tuning Your Approach to 360 Videos on Facebook for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-elite-circle-of-connectivity-facebook-twitter-instagram-and-youtube-breakdown/"><u>Exploring the Elite Circle of Connectivity: Facebook, Twitter, Instagram & YouTube Breakdown</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-fix-the-chatgpt-error-communicating-with-plugin-service-issue/"><u>How to Fix the ChatGPT Error Communicating With Plugin Service Issue</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-reno-10-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo Reno 10 5G Device</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-ready-hp-designjet-500-printer-software-and-drivers-available-now/"><u>Install Ready: HP DesignJet 500 Printer Software & Drivers Available Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/integrating-ai-duo-chatgpt-meets-siri-in-ios-world/"><u>Integrating AI Duo: ChatGPT Meets Siri in iOS World</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leverage-cutting-edge-ai-with-copilots-integration-of-free-gpt-4-turbo-capabilities/"><u>Leverage Cutting-Edge AI with Copilot's Integration of FREE GPT-4 Turbo Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-art-of-quick-content-creation-combining-chatgpt-and-microsoft-word/"><u>Master the Art of Quick Content Creation: Combining ChatGPT and Microsoft Word</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-interactive-storytelling-leveraging-chatgpt-for-video-game-scripts/"><u>Mastering Interactive Storytelling: Leveraging ChatGPT for Video Game Scripts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-your-output-8-ai-technologies-to-streamline-content-creation/"><u>Maximize Your Output: 8 AI Technologies to Streamline Content Creation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-conversational-ai-results-the-art-of-developing-chatgpt-user-profiles/"><u>Maximizing Conversational AI Results: The Art of Developing ChatGPT User Profiles</u></a></li>
 </ul></div>
 

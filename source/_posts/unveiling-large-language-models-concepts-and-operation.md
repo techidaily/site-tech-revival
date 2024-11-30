@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Large Language Models: Concepts & Operation"
-date: 2024-11-18T16:17:07.425Z
-updated: 2024-11-21T17:26:26.687Z
+date: 2024-11-22T16:11:58.790Z
+updated: 2024-11-29T19:06:37.645Z
 tags:
   - chatgpt
   - open-ai
@@ -32,21 +32,13 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -70,20 +62,28 @@ Close
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
 
@@ -104,18 +104,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-iphone-night-pics-101-enhancing-dark-images/"><u>[New] In 2024, IPhone Night Pics 101 Enhancing Dark Images</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-6-minecraft-village-house-ideas/"><u>[New] In 2024, Top 6 Minecraft Village House Ideas</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-with-clarity-five-minecraft-zooming-hacks/"><u>[Updated] Explore with Clarity Five Minecraft Zooming Hacks</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/boost-conversions-with-cookiebot-integration-optimized-user-experience-and-analytics-solutions/"><u>Boost Conversions with Cookiebot Integration – Optimized User Experience & Analytics Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-your-preferred-ai-assistant-bard-chatgpt-or-offline-alpaca/"><u>Choosing Your Preferred AI Assistant: Bard, ChatGPT or Offline Alpaca?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-features-of-ai-tools-the-distinct-edge-of-copilot-pro-over-regular-copilot/"><u>Comparing Features of AI Tools: The Distinct Edge of Copilot Pro Over Regular Copilot</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-unveiling-the-secrets-of-openai/"><u>Comprehensive Guide: Unveiling the Secrets of OpenAI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-insight-into-chatgpt-and-its-versatile-uses-with-generative-ai-technology/"><u>Comprehensive Insight Into ChatGPT and Its Versatile Uses with Generative AI Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/contrasting-ai-giants-is-llama-3-outshining-gpt-4-in-performance/"><u>Contrasting AI Giants - Is Llama 3 Outshining GPT-4 in Performance?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/counteracting-text-slyness-openais-anti-deception-ai/"><u>Counteracting Text Slyness: OpenAI's Anti-Deception AI</u></a></li>
-<li><a href="https://win-able.techidaily.com/microbes-decompose-organic-matter-fix-atmospheric-nitrogen-and-help-suppress-plant-diseases-contributing-to-a-cycle-of-nutrients-and-maintaining-soil-health433/"><u>Microbes Decompose Organic Matter, Fix Atmospheric Nitrogen, and Help Suppress Plant Diseases, Contributing to a Cycle of Nutrients and Maintaining Soil Health</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/premiere-pro-utilizing-lut-techniques/"><u>Premiere Pro Utilizing LUT Techniques</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-infinix-smart-7-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Infinix Smart 7 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-the-world-of-facebook-cover-vids-explained-for-2024/"><u>[New] Navigating the World of Facebook Cover Vids Explained for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-ensuring-realness-in-your-instagram-photos/"><u>2024 Approved Ensuring Realness in Your Instagram Photos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/6-ways-to-use-chatgpt-for-remote-and-freelance-work/"><u>6 Ways to Use ChatGPT for Remote and Freelance Work</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showdown-2023-chatgpt-vs-google-bard-choosing-the-best-virtual-assistant/"><u>AI Showdown 2023: ChatGPT Vs. Google Bard - Choosing the Best Virtual Assistant</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-banks-and-pc-users-at-risk-of-ai-driven-cyber-attacks-using-technologies-like-chatgpt-heres-what-you-need-to-know/"><u>Are Banks and PC Users at Risk of AI-Driven Cyber Attacks Using Technologies Like ChatGPT? Here's What You Need to Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-income-the-best-8-chatgpt-side-jobs-that-can-pay-off-big/"><u>Boost Your Income: The Best 8 ChatGPT Side Jobs That Can Pay Off Big</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-7-plus-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 7 Plus & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/real-time-broadcasting-tools-discover-the-best-live-streaming-with-manycams-virtual-camera/"><u>Real-Time Broadcasting Tools: Discover the Best Live Streaming with ManyCam's Virtual Camera</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-instantly-update-your-gtx-1660-graphics-card-driver/"><u>Step-by-Step Guide to Instantly Update Your GTX 1660 Graphics Card Driver</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mline-cross-platform-listening-convert-spotify-playlists-to-youtube-videos/"><u>Streamline Cross-Platform Listening Convert Spotify Playlists to YouTube Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-power-of-claude-3-features-for-todays-user/"><u>Unveiling the Power of Claude 3: Features for Today's User</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721889191547-which-code-companion-reigns-supreme-github-copilot-or-chaturbate-the-ultimate-developer-guide/"><u>Which Code Companion Reigns Supreme? GitHub Copilot or Chaturbate – The Ultimate Developer Guide.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-chatgpt-took-the-lead-an-insight-into-its-phenomenal-surge-as-a-top-rated-app/"><u>Why ChatGPT Took the Lead: An Insight Into Its Phenomenal Surge as a Top-Rated App</u></a></li>
 </ul></div>
 

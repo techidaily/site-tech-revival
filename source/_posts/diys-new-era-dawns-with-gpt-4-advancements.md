@@ -1,7 +1,7 @@
 ---
 title: DIY's New Era Dawns With GPT-4 Advancements
-date: 2024-11-19T23:19:14.338Z
-updated: 2024-11-21T19:06:54.549Z
+date: 2024-11-24T06:00:19.822Z
+updated: 2024-11-29T20:08:48.516Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI-Powered Bing Comes to Mobile
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Skype Gets AI Features
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -105,24 +105,17 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-exploring-biggest-fifa-footage-trends-in-graphics/"><u>[Updated] 2024 Approved Exploring Biggest FIFA Footage Trends in Graphics</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-foremost-companies-pioneering-vr-technology/"><u>2024 Approved Foremost Companies Pioneering VR Technology</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-telegram-web-navigation/"><u>2024 Approved Mastering the Art of Telegram Web Navigation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-code-to-cocktails-how-effective-is-chatgpt-at-concocting-liquid-innovations/"><u>From Code to Cocktails: How Effective Is ChatGPT at Concocting Liquid Innovations?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/functional-and-futuristic-the-comprehensive-review-of-acers-xf2-40/"><u>Functional and Futuristic: The Comprehensive Review of Acer's XF2-40</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-writers-block-free-explore-the-top-e-5-innovative-writing-tools-powered-by-ai/"><u>Get Writer's Block-Free: Explore the Top E 5 Innovative Writing Tools Powered by AI</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-create-user-personas-in-chatgpt-for-better-results/"><u>How to Create User Personas in ChatGPT for Better Results</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-notorious-code-28-error-in-windows-device-manager-a-step-by-step-guide/"><u>How to Fix the Notorious 'Code 28' Error in Windows Device Manager: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/identifying-and-avoiding-the-top-5-bots-fraudulent-schemes/"><u>Identifying and Avoiding the Top 5 Bots' Fraudulent Schemes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/implement-now-eight-cutting-edge-ai-language-models-for-personalization/"><u>Implement Now: Eight Cutting-Edge AI Language Models for Personalization</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-possible-to-learn-healthier-cooking-skills-with-chatgpt/"><u>Is It Possible to Learn Healthier Cooking Skills with ChatGPT?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-openai-struggling-to-maintain-oversight-on-chatgpt/"><u>Is OpenAI Struggling to Maintain Oversight on ChatGPT?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-ai-artistry-with-these-8-essential-dall-e-3-prompt-techniques/"><u>Master AI Artistry with These 8 Essential DALL-E 3 Prompt Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premium-webcam-choices-enhancing-zoom-communication/"><u>Premium Webcam Choices Enhancing Zoom Communication</u></a></li>
-<li><a href="https://fox-links.techidaily.com/project-pics-blend-outside-focus-with-radial-filters-psx-for-2024/"><u>Project Pics Blend Outside Focus with Radial Filters PSX for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-smartphone-with-these-8-essential-ai-apps-compatible-with-iphone-and-android/"><u>Revolutionize Your Smartphone with These 8 Essential AI Apps (Compatible With iPhone & Android)</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/rising-above-expectations-the-impressive-nokia-72-smartphone-reviewed/"><u>Rising Above Expectations: The Impressive Nokia 7.2 Smartphone Reviewed</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-universal-chorus-of-commendable-educationists/"><u>The Universal Chorus of Commendable Educationists</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/aximize-reach-essential-youtube-seo-tools-unlocked-for-2024/"><u>[New] Maximize Reach Essential YouTube SEO Tools Unlocked for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-soundscapes-synergy-video-and-music-pairing-for-2024/"><u>[New] Soundscapes Synergy Video and Music Pairing for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-strategic-use-of-youtube-cards-and-markup/"><u>2024 Approved Strategic Use of YouTube Cards & Markup</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquer-effective-chatgpt-dialogue-with-these-5-essential-prompt-strategies/"><u>Conquer Effective ChatGPT Dialogue with These 5 Essential Prompt Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-ai-the-possible-threats-in-the-digital-age/"><u>Decoding AI: The Possible Threats in the Digital Age</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-linguistic-giants-the-bert-and-gpt-dichotomy/"><u>Decoding Linguistic Giants: The BERT and GPT Dichotomy</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-the-world-of-social-networking-with-facebook-twitter-instagram-and-youtube/"><u>Discover the World of Social Networking with Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/do-we-need-to-be-kind-to-our-digital-helpers-like-chatgpt-amazons-alexa-and-apples-siri/"><u>Do We Need to Be Kind to Our Digital Helpers Like ChatGPT, Amazon's Alexa, and Apple's Siri?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easing-tension-through-conversations-the-role-of-chatgpt-in-coping-with-stress/"><u>Easing Tension Through Conversations: The Role of ChatGPT in Coping With Stress</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamline-your-wedding-countdown-the-best-androidios-clock-apps-guide/"><u>Streamline Your Wedding Countdown The Best Android/iOS Clock Apps Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/tailor-made-edits-customizing-videos-in-studio/"><u>Tailor-Made Edits Customizing Videos in Studio</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/transferring-phonebook-info-flawlessly-upgrading-contacts-from-an-outdated-iphone-to-a-modern-one/"><u>Transferring Phonebook Info Flawlessly: Upgrading Contacts From an Outdated iPhone to a Modern One</u></a></li>
 </ul></div>
 

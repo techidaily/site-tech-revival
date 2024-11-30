@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Here: How Machine Learning Revolutionizes Online Discovery and Site Interaction"
-date: 2024-11-17T00:07:37.469Z
-updated: 2024-11-21T21:34:09.578Z
+date: 2024-11-28T20:37:45.749Z
+updated: 2024-11-29T17:09:28.842Z
 tags:
   - chatgpt
   - open-ai
@@ -25,16 +25,12 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Increased AI-Powered Attacks
 
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Throughout 2022 and 2023, we've seen just how advanced AI systems currently are. The most notable AI-based service launched during this time is ChatGPT, a language processing tool powered by artificial intelligence. Not long after its launch, stories began surfacing about[cybercriminals using ChatGPT to write malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) . While the malware only seemed to be a simple Python-based script, it showed that AI can, in fact, be leveraged maliciously.
 
@@ -52,15 +48,15 @@ It was also stated in the same report that:
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
 
  It's the gravity of supply chain's influence that has made it an attractive target for cybercriminals. As the demand for mass production and global shipping increases, so does the impact of hacks on supply chain systems.
 
  According to[Cybersecurity Hub](https://www.cshub.com/events-supply-chain-threats) , the number of supply chain attacks has risen by 74 percent over the past three years. The site also reported that it takes an average of 287 days to detect a supply chain attack, giving malicious actors plenty of time to steal data or disrupt services. In 2024, we may see this increase in supply chain attacks continue, or even evolve in sophistication.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Further Adoption of Zero-Trust Systems
 
@@ -72,13 +68,13 @@ It was also stated in the same report that:
 
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Further Exploit of EV Security Systems
 
 ![close up shot of electric car charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ev-charging-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gone are the days when a car was just a mechanical vehicle with a radio. Now, we can use Bluetooth, Wi-Fi, and even NFC in our cars. These wireless connections, along with a reliance on software, have opened the door for cybercriminals.
 
@@ -92,10 +88,6 @@ It was also stated in the same report that:
 
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  IoT devices make our day-to-day lives possible. Whether you're using your smartphone, smart speaker, smartwatch, or anything similar, IoT is facilitating your actions. In short IoT is a blanket term covering all interconnected devices. This network of connected "things" forms its own[Internet of Things (IoT)](https://www.makeuseof.com/tag/what-is-internet-of-things/) . It's this increased connectivity forming the Internet of Things that has attracted cybercriminals.
 
  The reason for this is similar to the increased focus on EV hacking. Not only do IoT devices rely on software, but they also use wireless connections to communicate with each other. These two elements leave a door open for exploits, be it through software vulnerabilities, malware, or inside actors.
@@ -103,6 +95,10 @@ It was also stated in the same report that:
  According to a[Statista report](https://www.statista.com/statistics/1377569/worldwide-annual-internet-of-things-attacks/) , global IoT cyberattacks increased by over 243 percent between 2018 and 2022, from 32.7 million annual attacks, to a shocking 112.29 million.
 
  Because of this growing threat, smart home and IoT security is expected to see an improvement throughout 2024\. Providing patches for vulnerabilities, offering more security features (such as encryption and two-factor authentication), and conducting regular code audits can all help to fend of cyberattacks aimed towards IoT devices and smart homes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Further Exploit of Cloud Platforms
 
@@ -124,6 +120,10 @@ It was also stated in the same report that:
 
  As we continue to see more conflicts, tragedies, and scandals arise, there's no doubt that cybercriminals will continue to try and profit from other people's hardships.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Each Year Brings New Cybersecurity Threats
 
  As 2023 comes to its conclusion, it's important to keep 2024's top security trends and predictions in mind. Remaining security-literate helps you fend off threats and better prepare yourself for malicious campaigns. No one knows for sure what 2024 will bring for the cybersecurity realm, but consider keeping the above in mind, as they'll very likely make an appearance.
@@ -143,16 +143,21 @@ It was also stated in the same report that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-full-exploration-of-the-sj7s-high-definition-star-cameras-for-action-for-2024/"><u>[Updated] Full Exploration of the SJ7's High-Definition Star Cameras for Action for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/corrective-actions-for-chatgpts-third-party-service-misalignment/"><u>Corrective Actions for ChatGPT's Third-Party Service Misalignment</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-truthgpt-coin-is-it-a-revolutionary-asset-or-a-fraudulent-scheme/"><u>Decoding TruthGPT Coin: Is It a Revolutionary Asset or a Fraudulent Scheme?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-nlp-mastery-comparing-gpt-and-bert-systems/"><u>Demystifying NLP Mastery: Comparing GPT and BERT Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discovering-your-windows-11-release-and-update-details-a-step-by-step-guide/"><u>Discovering Your Windows 11 Release & Update Details: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/distinguishing-features-of-auto-gpt-and-its-contrast-with-chatgpt/"><u>Distinguishing Features of Auto-GPT and Its Contrast with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/do-machines-have-joking-abilities-uncovering-the-past-of-portable-computers-plus-breakthroughs-in-secure-network-access/"><u>Do Machines Have Joking Abilities? Uncovering the Past of Portable Computers + Breakthroughs in Secure Network Access</u></a></li>
-<li><a href="https://win-able.techidaily.com/fifa-20-on-pc-stability-guide-top-tips-to-prevent-game-crashes/"><u>FIFA 20 on PC Stability Guide: Top Tips to Prevent Game Crashes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-realme-narzo-60-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Realme Narzo 60 5G Without PUK Codes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-realme-narzo-60-pro-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Realme Narzo 60 Pro 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-live-feed-perfection-top-free-screen-capture-apps-reviewed/"><u>[New] 2024 Approved Live Feed Perfection Top Free Screen Capture Apps Reviewed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unraveling-post-upload-functionality-in-youtube-videos/"><u>[Updated] 2024 Approved Unraveling Post-Upload Functionality in YouTube Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-se-2022-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone SE (2022) Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-realme-11x-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Realme 11X 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-epson-es-400-scanner-drivers-on-windows-quick-and-easy-steps/"><u>Install Your Epson ES-400 Scanner Drivers on Windows: Quick and Easy Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-how-to-easily-distribute-ps4-games-amongst-pals-in-202atury/"><u>Step-by-Step Guide: How to Easily Distribute PS4 Games Amongst Pals in 202Atury</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-comparative-edge-of-innovation-five-significant-differences-that-set-gpt-4-apart-from-gpt-35/"><u>The Comparative Edge of Innovation: Five Significant Differences that Set GPT-^4 Apart From GPT-3.5</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dark-side-of-chatgpt-uncovering-the-5-most-prevalent-scams/"><u>The Dark Side of ChatGPT: Uncovering the 5 Most Prevalent Scams</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-role-of-ai-in-transforming-mental-health-support-promises-and-perils/"><u>The Role of AI in Transforming Mental Health Support: Promises and Perils</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-strategies-transforming-chatgpt-into-the-ultimate-rpg-dungeon-master/"><u>Top 6 Strategies: Transforming ChatGPT Into the Ultimate RPG Dungeon Master</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/top-empfohlene-clone-software-fur-pny-ssds-auf-windows-die-umfassendste-losung/"><u>Top Empfohlene Clone-Software Für PNY SSDs Auf Windows - Die Umfassendste Lösung</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/uncover-new-books-with-these-5-innovative-ai-book-suggestion-services/"><u>Uncover New Books with These 5 Innovative AI Book Suggestion Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-claude-3-comprehensive-insights-into-its-features-and-uses/"><u>Understanding Claude 3: Comprehensive Insights Into Its Features and Uses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-intellectual-property-who-holds-the-rights-to-artificial-intelligence-generated-content/"><u>Understanding Intellectual Property: Who Holds the Rights to Artificial Intelligence Generated Content?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-potential-how-chatgpt-can-refine-your-lifestyle-choices/"><u>Unlocking Potential: How ChatGPT Can Refine Your Lifestyle Choices</u></a></li>
 </ul></div>
 

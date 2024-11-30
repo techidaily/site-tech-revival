@@ -1,7 +1,7 @@
 ---
 title: "From Simple to Sophisticated: AI Dialogue Journey"
-date: 2024-10-21T17:24:29.611Z
-updated: 2024-10-22T16:23:36.591Z
+date: 2024-11-26T23:25:00.421Z
+updated: 2024-11-29T19:15:07.616Z
 tags:
   - chatgpt
   - open-ai
@@ -30,18 +30,15 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. chat-gpt-pc.online
 
  Security researchers at Cyble Research and Intelligence Labs (CRIL) uncovered cybercriminals using the domain "chat-gpt-pc.online" to attract unsuspecting users into downloading a supposed ChatGPT Windows desktop client. This client, however, contained the RedLine [info-stealing malware](https://www.makeuseof.com/what-is-an-infostealer/).
 
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. openai-pc-pro.online
 
@@ -50,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
  The domain is promoted by “Chat GPT AI,” a popular ChatGPT-themed Facebook page, a page that frequently posts about ChatGPT and [OpenAI’s Jukebox](https://www.makeuseof.com/what-is-openai-jukebox-ai-music/). The posts often contain links to malicious domains, including openai-pc-pro.online.
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. chat-gpt-pc.online
 
@@ -66,15 +67,16 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. AI Photo
 
@@ -85,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -104,16 +99,7 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
@@ -143,24 +129,24 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-strategies-for-successful-youtube-monetization/"><u>[New] 2024 Approved Strategies for Successful YouTube Monetization</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-firefox-x-pie-mode-decoded-for-everyday-users/"><u>[Updated] Firefox X-Pie Mode Decoded for Everyday Users</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-next-gen-editors-the-ultimate-selection-of-instagram-tools/"><u>[Updated] In 2024, Next-Gen Editors The Ultimate Selection of Instagram Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-ai-be-a-boon-or-bane-for-mental-support-systems/"><u>Can AI Be a Boon or Bane for Mental Support Systems?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-under-scrutiny-investigating-potential-copyright-infringement/"><u>ChatGPT Under Scrutiny: Investigating Potential Copyright Infringement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-the-ai-thats-revolutionizing-video-content-crafting/"><u>ChatGPT: The AI That's Revolutionizing Video Content Crafting</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-role-in-elevating-your-job-application-process-with-6-key-methods/"><u>ChatGPT's Role in Elevating Your Job Application Process with 6 Key Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-the-right-llm-unraveling-the-pros-and-cons-quickly/"><u>Choosing the Right LLM: Unraveling the Pros & Cons Quickly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conquer-language-varieties-chatgpt-techniques/"><u>Conquer Language Varieties: ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creative-writing-revolution-with-chatgpt-uncovering-its-strengths-and-weaknesses/"><u>Creative Writing Revolution with ChatGPT – Uncovering Its Strengths and Weaknesses</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciding-between-ai-assistants-for-developers-chatgpt-versus-gemini-in-coding-abilities/"><u>Deciding Between AI Assistants for Developers: ChatGPT Versus Gemini in Coding Abilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-nlps-role-versus-mls-role/"><u>Deciphering NLP's Role Versus ML's Role</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-dapper-durable-lx310bt-turntable/"><u>Discover the Dapper, Durable LX310BT Turntable</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/get-your-hogwarts-adventure-going-smoothly-with-our-essential-guide-top-8-fixes-for-startup-crashes/"><u>Get Your Hogwarts Adventure Going Smoothly with Our Essential Guide - Top 8 Fixes for Startup Crashes</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-essential-list-top-16-best-free-video-viewers/"><u>In 2024, Essential List Top 16 Best Free Video Viewers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-by-toms-electronics-guide/"><u>In-Depth Analysis by Tom's Electronics Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-virtualdub-vs-the-competition-a-comprehensive-review-and-alternative-options-for-2024/"><u>New Virtualdub Vs. The Competition A Comprehensive Review and Alternative Options for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tips-for-finding-and-setting-up-toshibe-printercopier-drivers-in-windows-os/"><u>Tips for Finding and Setting up Toshibe Printer/Copier Drivers in Windows OS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-exploring-how-tseries-harnesses-revenue-from-online-viewer-base-youtube/"><u>[New] Exploring How TSeries Harnesses Revenue From Online Viewer Base (YouTube)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-ultimate-newbies-roadmap-building-a-channel-making-cash/"><u>[Updated] 2024 Approved The Ultimate Newbie's Roadmap Building a Channel, Making Cash</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-art-of-iphone-photo-collage-assembly/"><u>[Updated] Explore the Art of iPhone Photo Collage Assembly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-from-slides-to-screens-easy-recording-techniques-for-2024/"><u>[Updated] From Slides to Screens Easy Recording Techniques for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-the-screen-a-deep-dive-into-who-we-communicate-with-on-the-web/"><u>Beyond the Screen: A Deep Dive Into Who We Communicate With on the Web</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-efficiency-at-the-office-with-chatgpt-your-digital-sidekick/"><u>Boost Efficiency at the Office with ChatGPT, Your Digital Sidekick</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-ai-experience-discover-7-actionable-insights-for-better-results/"><u>Boost Your AI Experience: Discover 7 Actionable Insights for Better Results</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-ai-performance-with-vector-database-technology-explained/"><u>Boosting AI Performance with Vector Database Technology Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypassing-phone-numbers-how-to-use-apps-and-apis-easily/"><u>Bypassing Phone Numbers: How to Use Apps and APIs Easily</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbot-chef-mastering-wholesome-cuisine-through-chatgpt/"><u>Chatbot Chef: Mastering Wholesome Cuisine Through ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-vs-google-translate-which-tool-delivers-more-accurate-translations/"><u>ChatGPT vs Google Translate - Which Tool Delivers More Accurate Translations?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-methods-for-saving-and-sharing-your-chatgpt-interactions/"><u>Comprehensive Methods for Saving and Sharing Your ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquer-your-worries-stress-reduction-techniques-with-chatgpt/"><u>Conquer Your Worries: Stress Reduction Techniques with ChatGPT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-base-windows-to-high-end-win11-sleekness-for-2024/"><u>From Base Windows to High-End Win11 Sleekness for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-lava-yuva-2-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Lava Yuva 2 Pro Phones</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-whats-ideal-for-you-understanding-vimeo-membership-tiers/"><u>In 2024, What's Ideal for You? Understanding Vimeo Membership Tiers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-lines-best-comedy-video-concepts-for-the-social-media-sphere/"><u>Laugh Lines Best Comedy Video Concepts for the Social Media Sphere</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-mobile-video-production-made-easy-top-apps-with-music-features-for-2024/"><u>New Mobile Video Production Made Easy Top Apps with Music Features for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unveiling-the-methods-of-malware-propagation-through-spam-a-deep-dive/"><u>Unveiling the Methods of Malware Propagation Through Spam: A Deep Dive</u></a></li>
 </ul></div>
 

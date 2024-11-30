@@ -1,7 +1,7 @@
 ---
 title: "Leveraging ChatGPT: A Guide to Enhancing Video Game Storytelling"
-date: 2024-11-10T22:47:30.397Z
-updated: 2024-11-11T21:42:43.385Z
+date: 2024-11-26T02:33:49.075Z
+updated: 2024-11-30T06:45:18.237Z
 tags:
   - chatgpt
   - open-ai
@@ -24,9 +24,17 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1.[Solve the Murders](https://solvethemurders.com/) (Web): Chat With AI Suspects to Solve a Murder Mystery
 
 ![In Solve the Murders, you play a detective who has chat with AI suspects in a murder mystery to find out who the killer is](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-solve-the-murders.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -36,22 +44,12 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2.[Gron](https://www.gron.games/game) (Web): Retro RPG Game to Find Clues and Chat With Suspects
 
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -63,10 +61,7 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3.[Mystery-o-Matic](https://mystery-o-matic.com/) (Web): New Murder Mystery Generated Daily Randomly
@@ -85,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
 ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Author Screenshot by Mihir Patkar - No attribution required
 
  Hollywood mystery writer G. T. Karber offers one new murder mystery logic puzzle daily at his website Murdle. The long-running successful website has already led to three books of murder mysteries, written by Karber and generated by "Moriarty", a proprietary algorithm capable of planning a million murders a minute.
@@ -99,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
  Murdle follows a similar system to Mystery-o-Matic, giving you three or four suspects, three or four locations, and three or four murder weapons every day. The mysteries get more difficult with each day, with Monday being the easiest and Sunday requiring the skills of Sherlock Holmes.
 
  You play as Detective Logico and are given a series of clues and evidence, which you can use with the cross-referencing charting to match suspects, locations, and weapons. It's best to start off with the mini-Murdle tutorial and then get to the daily puzzles. When you're ready to make your accusation, you'll need to say who the murderer was, how they did it, and where the ghastly act took place.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Create Your Own ChatGPT Murder Mystery
 
@@ -121,17 +113,16 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-fb-tunes-unlimited-playlist-for-2024/"><u>[Updated] FB Tunes Unlimited Playlist for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-download-vimeo-video-to-mp3/"><u>[Updated] How to Download Vimeo Video to MP3</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-leveraging-both-platforms-a-detailed-guide-to-youtube-facebook-linking-for-2024/"><u>[Updated] Leveraging Both Platforms A Detailed Guide to YouTube-Facebook Linking for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-understanding-your-instagram-stories-visibility/"><u>2024 Approved Understanding Your Instagram Stories Visibility</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-and-account-intrusions-are-bank-customers-in-danger-from-chat-based-bots/"><u>AI and Account Intrusions: Are Bank Customers in Danger From Chat-Based Bots?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-the-latest-ai-companion-app-experience-gpt-powered-conversations-for-free-on-windows/"><u>Download the Latest AI Companion App: Experience GPT-Powered Conversations for Free on Windows!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-balancing-act-lowering-audio-levels/"><u>In 2024, Balancing Act Lowering Audio Levels</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/interact-using-ai-discover-the-best-6-apps-for-chatting-through-documents-and-pdfs-like-chatgpt/"><u>Interact Using AI: Discover the Best 6 Apps for Chatting Through Documents & PDFs Like ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-contenders-in-llm-showdown-bard-chatgpt-and-offline-alpaca-battle-it-out/"><u>Top Contenders in LLM Showdown: Bard, ChatGPT and Offline Alpaca Battle It Out!</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-ranking-music-slide-show-creator-apps-find-your-perfect-match/"><u>Top-Ranking Music Slide Show Creator Apps: Find Your Perfect Match</u></a></li>
-<li><a href="https://win-dash.techidaily.com/upgrade-your-game-with-the-newest-amd-vega-driver-versions-user-friendly-tutorial-inside/"><u>Upgrade Your Game with the Newest AMD Vega Driver Versions - User-Friendly Tutorial Inside</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/yi-drone-in-4k-a-filmmakers-dream/"><u>Yi Drone in 4K A Filmmaker’s Dream</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rofessional-video-lighting-gear-guide-17/"><u>[New] Professional Video Lighting Gear Guide (#17)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unveiling-the-top-methods-of-video-and-screenshots/"><u>[New] Unveiling the Top Methods of Video & Screenshots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-ai-powered-chatgpt-be-your-lifesaver-in-the-wild/"><u>Can AI-Powered ChatGPT Be Your Lifesaver in the Wild?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-we-depend-on-ai-like-chatgpt-for-reliable-health-insights/"><u>Can We Depend on AI Like ChatGPT for Reliable Health Insights?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-smartwatch-synergy-six-breakthrough-advantages-for-users/"><u>ChatGPT and Smartwatch Synergy: Six Breakthrough Advantages for Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-top-ai-chatbots-who-reigns-supreme-chatgpt-microsoft-bing-ai-or-googles-bard/"><u>Comparing Top AI Chatbots: Who Reigns Supreme - ChatGPT, Microsoft Bing AI or Google's Bard?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-guide-steps-to-successfully-downloading-and-setting-up-auto-gpt/"><u>Complete Guide: Steps to Successfully Downloading & Setting Up Auto-GPT</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/converti-file-aiff-in-formato-mp4-online-e-gratuitamente-con-movavi/"><u>Converti File AIFF in Formato MP4 Online E Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-unmatched-mounting-best-tripod-solutions-for-smartphones/"><u>In 2024, Unmatched Mounting Best Tripod Solutions for Smartphones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/snowball-rally-highlights-from-the-beijing-games-2022/"><u>Snowball Rally Highlights From the Beijing Games, 2022</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-new-apple-tv-4k-3rd-generation/"><u>The Ultimate Guide to the New Apple TV 4K (3Rd Generation)</u></a></li>
 </ul></div>
 

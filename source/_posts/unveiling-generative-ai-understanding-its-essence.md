@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Generative AI: Understanding Its Essence"
-date: 2024-11-20T00:25:32.927Z
-updated: 2024-11-22T00:01:17.849Z
+date: 2024-11-23T07:38:45.369Z
+updated: 2024-11-30T04:44:21.138Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 * [What Is Copilot Pro?](https://www.makeuseof.com/copilot-vs-copilot-pro/#what-is-copilot-pro)
 * [How Much Does Copilot Pro Cost?](https://www.makeuseof.com/copilot-vs-copilot-pro/#how-much-does-copilot-pro-cost)
 * [Should You Upgrade to Copilot Pro?](https://www.makeuseof.com/copilot-vs-copilot-pro/#should-you-upgrade-to-copilot-pro)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -45,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
  And you'll be very pleased to hear that isn't changing any time soon—but Microsoft is rolling out Copilot Pro, a new subscription model for its free AI companion, featuring new capabilities, custom GPT support, and deeper integration into its Microsoft 365 suite.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Copilot Pro?
@@ -61,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 
  All in all, Microsoft wants Copilot Pro to be "a single AI experience that runs across your devices," providing a unified AI tool that's familiar with every bit of software you use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Much Does Copilot Pro Cost?
 
 [Microsoft Copilot Pro](https://www.microsoft.com/en-us/store/b/copilotpro) will cost $20 per month per user, and officially launched on January 14, 2024.
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
  Given the deeper integration of Copilot Pro into Microsoft's ecosystem, the $20 subscription could make Pro a valuable tool versus other tools that are useful in terms of AI but lack specific integrations with regularly used software, especially in business and productivity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Upgrade to Copilot Pro?
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, given the extensive number of free features Copilot has, I don't expect many folks will be disappointed. Deeper integration with Microsoft 365 is great if you use those tools, but if you're using Copilot as an enhanced internet search engine, these updates won't mean much to you.
@@ -106,16 +106,18 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-free-subtitle-services-the-ultimate-convertors-guide/"><u>[New] Free Subtitle Services The Ultimate Convertors Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/etworking-galore-places-for-youtube-affiliate-marketing/"><u>[New] Networking Galore Places for YouTube Affiliate Marketing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-essentials-of-youtubes-cc-license-for-filmakers/"><u>[Updated] In 2024, The Essentials of YouTube's CC License for Filmakers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-nba-game-views-the-ultimate-guide-15-methods/"><u>[Updated] NBA Game Views The Ultimate Guide (15 Methods)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-brief-overview-of-the-historical-journey-of-electrified-transportation/"><u>A Brief Overview of the Historical Journey of Electrified Transportation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-rivalry-unique-approach-to-shared-creative-task/"><u>AI Rivalry: Unique Approach to Shared Creative Task</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avoid-installing-the-dangerous-google-bard-application-its-infested-with-viruses/"><u>Avoid Installing The Dangerous 'Google Bard' Application – It's Infested With Viruses</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/awaiting-gpt-5-when-can-we-expect-its-launch-and-enhanced-capabilities/"><u>Awaiting GPT-5: When Can We Expect Its Launch and Enhanced Capabilities?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-chatgpts-capabilities-discovering-5-reasons-for-its-ineffectiveness-in-crypto-trading-analysis/"><u>Beyond ChatGPT's Capabilities: Discovering 5 Reasons for Its Ineffectiveness in Crypto Trading Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/change-in-command-sam-altmans-exit-from-openai-and-its-potential-impact-on-chatgpt/"><u>Change in Command: Sam Altman's Exit From OpenAI and Its Potential Impact on ChatGPT</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-14-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 14 Passcode without a Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-of-mobile-8-ranked-free-and-premium-apps-for-androids-video-tiles/"><u>[New] Best of Mobile #8 Ranked Free & Premium Apps for Android's Video Tiles</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-decoding-how-to-grab-youtube-captions-3-effective-techniques-revealed-for-2024/"><u>[New] Decoding How To Grab YouTube Captions 3 Effective Techniques Revealed for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-elite-e-commerce-outposts-your-ultimate-gift-enclosure-hub/"><u>[Updated] Elite E-Commerce Outposts Your Ultimate Gift Enclosure Hub</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-trending-memes-galore-unique-themes-for-any-event-for-2024/"><u>[Updated] Trending Memes Galore Unique Themes for Any Event for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-fixes-for-deadly-technical-issues-within-modern-warfare-and-battle-royale-warzone/"><u>Essential Fixes for Deadly Technical Issues Within Modern Warfare & Battle Royale Warzone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-does-itel-p40-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Itel P40 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/master-your-media-best-ios-players-for-phones-and-tablets-for-2024/"><u>Master Your Media Best iOS Players for Phones & Tablets for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-insights-the-advantages-and-disadvantages-of-chatgpt-in-crafting-stories/"><u>Unveiling Insights: The Advantages & Disadvantages of ChatGPT in Crafting Stories</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-major-pitfalls-a-look-at-openais-chatgpt/"><u>Unveiling the Major Pitfalls: A Look at OpenAI's ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-superior-six-of-large-scale-nlp-ai-technologies/"><u>Unveiling the Superior Six of Large Scale NLP AI Technologies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/utilizing-chatgpt-for-custom-trainer-approaches/"><u>Utilizing ChatGPT for Custom Trainer Approaches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/who-can-harness-the-potential-of-nvidias-adaptable-ai-foundations-an-examination-of-its-functionality-and-reach/"><u>Who Can Harness the Potential of NVIDIA’s Adaptable AI Foundations? An Examination of Its Functionality and Reach.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-choosing-chatgpt-can-be-your-smartest-move-for-health-tips/"><u>Why Choosing ChatGPT Can Be Your Smartest Move for Health Tips</u></a></li>
 </ul></div>
 

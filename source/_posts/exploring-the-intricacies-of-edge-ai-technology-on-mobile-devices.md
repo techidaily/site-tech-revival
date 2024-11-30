@@ -1,7 +1,7 @@
 ---
 title: Exploring the Intricacies of Edge AI Technology on Mobile Devices
-date: 2024-10-15T17:08:17.602Z
-updated: 2024-10-22T17:44:53.468Z
+date: 2024-11-23T05:26:54.817Z
+updated: 2024-11-29T22:31:46.720Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,7 @@ thumbnail: https://thmb.techidaily.com/7ac5f26a6db87f846700248f8f73ccc48783db9e1
 ![person typing on laptop next to stethoscope on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/stetho-laptop-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Monitoring a patient's progress to ensure they're not taking steps backward is a very important step in recovery. While a human professional can do this well, the number of individuals requiring mental health support makes it difficult for human personnel to keep up with the demand.
@@ -68,34 +65,22 @@ thumbnail: https://thmb.techidaily.com/7ac5f26a6db87f846700248f8f73ccc48783db9e1
  Though this all seems very promising, there are also[dangers associated with using AI](https://www.makeuseof.com/is-ai-dangerous-5-immediate-risks-of-artificial-intelligence/) in the mental health field and other ways that AI can worsen mental health in general.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Can AI Worsen Mental Health?
 
  While AI has significant potential to improve mental healthcare, there are also risks and dangers in the adoption of this fast-evolving technology.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Increased Reliance on AI
 
  Over the past few decades, the rise of smart technology has led many people to rely on phones, PCs, tablets, and other devices to simplify and enhance their lives. Whether they're chatting on social media, streaming movies, browsing for new clothes, or simply getting some work done, technology usually stands as the backbone. Many people are even[addicted to their smartphones](https://www.makeuseof.com/smartphone-addiction-how-overcome-negative-habit/) or computers, which can have a huge impact on their lives.
 
  So, when AI becomes prominent across various industries, it could have a detrimental effect on mental health. For instance, an individual may opt to[use AI for their education](https://www.makeuseof.com/reasons-teachers-embrace-ai/) , work, entertainment, and other elements of their social life. This, in turn, may lead to something of an AI addiction. There are already plenty of people addicted to social media, online shopping, and online gaming today, which can often give way to feelings of anxiety and very real social and financial problems.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Lack of Human Contact
 
@@ -105,13 +90,14 @@ thumbnail: https://thmb.techidaily.com/7ac5f26a6db87f846700248f8f73ccc48783db9e1
 
 ![hands reaching out to each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hands-reaching-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  At the moment, humans are seen as much more effective at conducting therapy than machines, and this may always be the case. This is why the application of AI in the mental health field should be regulated and monitored very carefully so that patients are still receiving the best care possible.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI Giving Faulty Advice or Solutions
@@ -139,18 +125,15 @@ thumbnail: https://thmb.techidaily.com/7ac5f26a6db87f846700248f8f73ccc48783db9e1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-diving-deeper-into-webcam-possibilities/"><u>[New] 2024 Approved Diving Deeper Into Webcam Possibilities</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-from-free-to-fortune-carryminatis-youtube-transformation-ajey/"><u>[New] 2024 Approved From Free to Fortune CarryMinati’s YouTube Transformation (Ajey)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-swift-systems-for-securing-presentations/"><u>[New] 2024 Approved Swift Systems for Securing Presentations</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oneplus-11r-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-ipad-video-editing-apps-top-picks-for-for-2024/"><u>Best iPad Video Editing Apps Top Picks For for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/important-8-gpt-advice-for-enhancing-concentration-in-a-digital-era/"><u>Important 8 GPT Advice for Enhancing Concentration in a Digital Era</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-the-search-stream-find-the-query-shoe-fashion-trends-note-any-relevant-data-such-as-clicks-impressions-click-through-rate-ctr-average-positioning-for-var8/"><u>In the Search Stream, Find the Query Shoe Fashion Trends. Note Any Relevant Data Such as Clicks, Impressions, Click-Through Rate (CTR), Average Positioning for Various Result Positions, and More.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-depth-look-at-dall-e-3s-integrated-edit-functionality-and-its-development-journey/"><u>In-Depth Look at DALL-E 3'S Integrated Edit Functionality and Its Development Journey</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-there-a-drop-in-chatgpts-cognitive-abilities-insights-from-openai/"><u>Is There a Drop in ChatGPT's Cognitive Abilities? Insights From OpenAI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-to-streamline-corporate-operations-and-strategy/"><u>Leveraging ChatGPT to Streamline Corporate Operations and Strategy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-gpt-naming-techniques-for-personalizing-chatgpt-interactions-with-custom-ais/"><u>Leveraging GPT Naming Techniques for Personalizing ChatGPT Interactions with Custom AIs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-movies-with-yi-4k-hero-for-2024/"><u>Mastering Movies with YI 4K HERO for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/optimal-gadget-replacement-interval/"><u>Optimal Gadget Replacement Interval</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-mastering-mobile-apps-for-luts/"><u>[New] 2024 Approved Mastering Mobile Apps for LUTs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-top-tips-for-effective-story-emoji-integration-on-instagram-for-2024/"><u>[Updated] Top Tips for Effective Story Emoji Integration on Instagram for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/busting-text-imitations-openais-ai-sleuth-for-chatgpt/"><u>Busting Text Imitations: OpenAI's AI Sleuth for ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-artifice-intelligence-elicit-genuine-laughter-the-role-of-chatgpt-in-crafting-comedy/"><u>Can Artifice Intelligence Elicit Genuine Laughter? The Role of ChatGPT in Crafting Comedy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-artificnial-intelligence-guidance-from-chatgpt-keep-you-safe-outdoors/"><u>Can Artificnial Intelligence Guidance From ChatGPT Keep You Safe Outdoors?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/copilot-mode-free-access-to-gpt-4s-best-features/"><u>Copilot Mode: Free Access to GPT-4's Best Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-often-should-you-change-your-steam-account-password/"><u>How Often Should You Change Your Steam Account Password?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-a-simple-guide-changing-your-voice-in-online-battles-pubg/"><u>In 2024, A Simple Guide Changing Your Voice in Online Battles (PUBG)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-converter-gratuito-para-mp3-on-line-ferramentas-e-servicos-acessiveis-a-todos/"><u>Movavi Converter Gratuito Para MP3 On-Line - Ferramentas E Serviços Acessíveis a Todos</u></a></li>
+<li><a href="https://fox-search.techidaily.com/sudden-disappearance-of-files-in-folder-fix-it-now-with-these-7-methods/"><u>Sudden Disappearance of Files in Folder - Fix It Now with These 7 Methods</u></a></li>
 </ul></div>
 

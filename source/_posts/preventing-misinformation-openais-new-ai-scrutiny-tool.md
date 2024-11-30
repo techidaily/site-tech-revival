@@ -1,7 +1,7 @@
 ---
 title: "Preventing Misinformation: OpenAI's New AI Scrutiny Tool"
-date: 2024-10-27T22:07:02.688Z
-updated: 2024-11-02T20:35:12.156Z
+date: 2024-11-25T20:31:09.157Z
+updated: 2024-11-29T21:28:31.840Z
 tags:
   - chatgpt
   - open-ai
@@ -38,22 +38,12 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
 
  On top of this, Decktopus also generates multiple layouts for its slides, so you can adjust it that way. If you really don’t like what Decktopus has created, you can also regenerate the presentation in its entirety to get a new AI response.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2.[SlidesAI.io](https://www.slidesai.io/)
 
 ![A Screenshot of the SlidesAI io Google Slides Add-on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/slides-ai-presentation-generator-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re looking for an AI presentation generator that works directly within Google Slides, then you can’t go wrong with SlidesAI.io. That's because SlidesAI.io is a Google Workspace add-on.
@@ -69,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
 ![A Screenshot of Tome s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tome-ai-presentation-generator-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re looking for a comprehensive presentation tool full of features, then Tome might just be exactly what you’re looking for. Features such as custom themes, fonts, and logos, are all present with Tome. If you’re looking for collaborative tools or[how to make a presentation more interactive](https://www.makeuseof.com/make-presentations-interactive-google-slides-presenter-view/) , then you can find that too.
@@ -82,15 +69,16 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
  This includes creating AI images to match your content, creating a new slide with your content, converting a document into a presentation, or simply making one from scratch. Tome works quickly and efficiently with these AI tools, and you can easily make impressive presentations in mere moments.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4.[GPT_PPT](https://gpt-ppt.neftup.app/)
 
 ![A Screenshot of GPT PPT s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_ppt-presentation-generator-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re looking for something that can quickly generate a functioning presentation or slide show, then GPT\_PPT is a great little tool for doing just that. To use GPT\_PPT, all you have to do is sign up and type out what you want your presentation to be. From there, GPT\_PPT will automatically create a brief PowerPoint covering the points that you laid out.
 
@@ -120,18 +108,15 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
 
 ![A Screenshot of MagicSlides AI Presentation Generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/magicslides-ai-presentation-generator-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  MagicSlides is a Google Slides add-on that aims to work like ChatGPT for your presentations. To use MagicSlides, all you have to do is enter your topic, though you can also include additional information such as reference material and instructions.
 
  You can also choose to include images, which the AI will choose from Pexels. These images are entirely free-to-use, and match the content of the slide decently enough. The presentations produced with MagicSlides are pretty good. The content is organized by dot points and feels natural.
 
  The looks, however, leave a little to be desired. There are options to adjust the theme when the presentation is generated, but they're not super easy to use. You can always use the theme features that are already present in Google Slides to fix this, however.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make a Presentation Like Never Before
 
@@ -152,19 +137,20 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-crafted-perfection-ranking-the-best-7-stardew-mods-7/"><u>[New] In 2024, Crafted Perfection Ranking the Best 7 Stardew Mods (#7)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-from-script-to-screen-animating-stories-using-wmm/"><u>[New] In 2024, From Script to Screen Animating Stories Using WMM</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-othe-for-2024/"><u>[New] The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Othe for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-aligning-content-quality-with-instagrams-user-base-for-2024/"><u>[Updated] Aligning Content Quality with Instagram's User Base for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/battle-through-borderlands-3-launch-problems-with-these-11-pro-tips/"><u>Battle Through Borderlands 3 Launch Problems with These 11 Pro Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-the-limits-10-ai-breakthroughs/"><u>Beyond the Limits: 10 AI Breakthroughs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/can-you-expect-the-same-life-span-from-an-ev-as-you-would-from-a-conventional-gasoline-car/"><u>Can You Expect the Same Life Span From an EV as You Would From a Conventional Gasoline Car?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creative-writing-enhanced-by-gpts-nine-techniques/"><u>Creative Writing Enhanced by GPT's Nine Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dvacet-vehlasych-metu-pokusu-konverzovat-dat-na-mp4-kompletni-navod-s-movavi-konvertorem/"><u>Dvacet Věhlasých Métů Pokusu Konverzovat DAT Na MP4 - Kompletní Návod S Movavi Konvertorem</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-pro-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 Pro iOS System? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-motorola-edge-40-pro-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Motorola Edge 40 Pro Phone Forgot Password</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-personalized-ai-writing-tips-on-training-your-own-chatgpt/"><u>Mastering the Art of Personalized AI Writing: Tips on Training Your Own ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/peering-into-chatgpt-transformative-generative-tech-insights/"><u>Peering Into ChatGPT: Transformative Generative Tech Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transferring-your-conversations-from-chatgpt/"><u>Step-by-Step Guide: Transferring Your Conversations From ChatGPT</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-grasping-the-nuances-in-youtube-viewer-reactions/"><u>[New] In 2024, Grasping the Nuances in YouTube Viewer Reactions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-endless-entertainment-the-science-behind-youtube-loops-for-2024/"><u>[Updated] Endless Entertainment The Science Behind YouTube Loops for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-masterclass-converting-twitter-vids-to-eye-catching-engaging-gifs/"><u>2024 Approved Masterclass Converting Twitter Vids to Eye-Catching, Engaging GIFs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-evolution-from-tools-to-smart-assistants/"><u>AI Evolution: From Tools to Smart Assistants</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-transfer-learning-explained-insights-into-cross-domain-adaptation/"><u>AI Transfer Learning Explained: Insights Into Cross-Domain Adaptation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-vocab-unveiled-essential-language-for-the-tech-world/"><u>AI Vocab Unveiled: Essential Language for the Tech World</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ais-journey-from-sci-fi-to-reality-discovering-eight-pathways-that-blur-factual-lines-with-creative-dreamscapes/"><u>AI's Journey From Sci-Fi to Reality: Discovering Eight Pathways That Blur Factual Lines with Creative Dreamscapes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/blending-human-ideas-with-ai-imagery-in-chatgpt-4-and-dall-e/"><u>Blending Human Ideas with AI Imagery in ChatGPT-4 & DALL-E</u></a></li>
+<li><a href="https://facebook.techidaily.com/censorship-dispute-trumps-lawsuit-against-major-platforms/"><u>Censorship Dispute: Trump's Lawsuit Against Major Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721997493278-chatgpt-desktop-still-in-limbo-here-are-5-best-open-source-programs-to-satisfy-your-ai-needs/"><u>ChatGPT Desktop Still in Limbo? Here Are 5 Best Open Source Programs to Satisfy Your AI Needs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-balancing-consistency-and-quality-a-key-to-increasing-youtube-viewership/"><u>In 2024, Balancing Consistency & Quality A Key to Increasing YouTube Viewership</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezes-mastering-the-fixes-for-stable-total-war-warhammer-iii-gameplay/"><u>No More Freezes! Mastering the Fixes for Stable Total War: Warhammer III Gameplay</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/raf-png/"><u>무료 RAF PNG 이미지를 원각할 수 있는 방법 - 온라인 가이드</u></a></li>
 </ul></div>
 

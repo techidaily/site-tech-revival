@@ -1,7 +1,7 @@
 ---
 title: An In-Depth Look at Claude Pro’s Differences From GPT++
-date: 2024-11-17T00:56:58.003Z
-updated: 2024-11-21T23:11:11.155Z
+date: 2024-11-24T06:21:10.896Z
+updated: 2024-11-30T02:35:12.513Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -53,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
  The more context you provide your AI tool, the better of a response you'll receive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2 Ask for More Information After Getting an Initial Answer
 
@@ -69,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
@@ -79,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
  This tip is especially important if you want to use AI tools like DALL-E 3 to generate images. I've often noticed that first drafts sometimes don't yield what I'm looking for, and there could also be problems like defects for items like flags.
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Don't Make Your AI Multitask
 
@@ -95,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
  Sometimes, you'll begin a prompt and realize you forgot to add further information. When this happens, stop or edit the current prompt and include those details before re-generating your answer.
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
@@ -119,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
@@ -147,20 +147,18 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-making-sounds-count-windows-10-audio-guide/"><u>[New] Making Sounds Count Windows 10 Audio Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-game-plan-for-creating-a-hit-youtube-introduction-trailer/"><u>[Updated] In 2024, The Game Plan for Creating a Hit YouTube Introduction Trailer</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-browser-speedy-solutions-for-slow-chrome-problems/"><u>Boost Your Browser: Speedy Solutions for Slow Chrome Problems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conquer-digital-disruption-with-these-8-essential-chatgpt-prompts-you-need-now/"><u>Conquer Digital Disruption with These 8 Essential ChatGPT Prompts You Need Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-precise-chatgpt-prompts-in-health-and-wellness/"><u>Crafting Precise ChatGPT Prompts in Health & Wellness</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dissecting-codegpt-future-of-automated-source-coding/"><u>Dissecting CodeGPT: Future of Automated Source Coding</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dont-get-duped-uncovering-5-notorious-chatgpt-consumer-traps/"><u>Don't Get Duped: Uncovering 5 Notorious ChatGPT Consumer Traps</u></a></li>
-<li><a href="https://win-bits.techidaily.com/easy-guide-to-moving-files-between-two-ssds-simple-tutorial/"><u>Easy Guide to Moving Files Between Two SSDs - Simple Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-digital-interactions-with-these-powerful-prompt-crafting-methods/"><u>Elevate Your Digital Interactions with These Powerful Prompt-Crafting Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevating-your-search-game-with-ai-at-bing/"><u>Elevating Your Search Game with AI at Bing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-ideas-a-compilation-of-top-5-ai-writers/"><u>Enhance Ideas: A Compilation of Top 5 AI Writers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-s23-ultra-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy S23 Ultra to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-iphone-frozen-on-recovery-screen-effective-solutions-and-tips/"><u>How to Resolve iPhone Frozen on Recovery Screen: Effective Solutions & Tips</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y200-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y200 is off? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/save-big-get-20-discount-on-top-rated-nomad-accessories-iphone-cases-portable-chargers-and-more-techsavvy/"><u>Save Big: Get 20% Discount on Top-Rated Nomad Accessories - iPhone Cases, Portable Chargers & More | TechSavvy</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-transform-your-pubg-audio-gameplay-fast/"><u>[New] Transform Your PUBG Audio Gameplay Fast</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streammaster-showdown-obs-or-shadowplay/"><u>[Updated] StreamMaster Showdown OBS or ShadowPlay?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725288961011-dvdmp4/"><u>DVDプレイヤー用MP4動画を効果的に変換・記録するためのパソコンとスマホのチュートリアル</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-3d-to-immersive-understanding-virtual-realitys-evolution-for-2024/"><u>From 3D to Immersive Understanding Virtual Reality's Evolution for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-easily-implement-codegpt-into-vs-code-for-enhanced-coding-experience/"><u>How To Easily Implement CodeGPT Into VS Code for Enhanced Coding Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/illuminating-the-ai-realm-upsides-and-downfalls/"><u>Illuminating the AI Realm: Upsides & Downfalls</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-budget-deals-on-high-quality-gopros/"><u>In 2024, Budget Deals on High-Quality GoPros</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-turbocharge-video-on-snapchat-new-users-edition/"><u>In 2024, Turbocharge Video on Snapchat New Users Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/intuitive-talking-to-ai-try-this-chrome-tool/"><u>Intuitive Talking to AI? Try This Chrome Tool!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-ai-like-chatgpt-posing-a-risk-to-seo-and-search-engine-dominance/"><u>Is AI Like ChatGPT Posing a Risk to SEO and Search Engine Dominance?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/learning-nutritious-recipes-with-chatgpt-a-guide/"><u>Learning Nutritious Recipes with ChatGPT: A Guide</u></a></li>
 </ul></div>
 

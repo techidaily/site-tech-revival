@@ -1,7 +1,7 @@
 ---
 title: "Understanding Generative AI: The Future Technology Unveiled"
-date: 2024-11-18T17:25:13.287Z
-updated: 2024-11-22T01:33:55.489Z
+date: 2024-11-26T00:27:59.325Z
+updated: 2024-11-30T01:21:51.936Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is a Vector Database?
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
  Vector databases are services that can easily be integrated with a pre-trained model, many of which will need an[API key to access the service](https://www.makeuseof.com/chatgpt-api-complete-guide/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are Vector Embeddings
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 ![Two and three dimensional vectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/dimensional-vector.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
 
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Are Vector Embeddings Important?
 
@@ -77,15 +77,15 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
 
 1. **Creation of vector embeddings:** Based on the type of data, a vector embedding model is used to generate vector embeddings to be indexed. These embedding models are what turn words, images, videos, and audio into numbers/embeddings.
 2. **Indexing:** Once vector embeddings have been generated, they can now be stored on a vector database such as Pinecone, Milvus, and Chroma. These vector databases use various algorithms, such as product quantization (PQ) and locality-sensitive hashing (LSH), to index each embedding for quick and efficient storing and retrieval of data.
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Popular Vector Databases
 
@@ -97,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 * **Weaviate:** Offers schema discovery, real-time updates, semantic search, and contextualizing data. With these features, Weaviate is often used to create personalized experience systems for applications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Future of Vector Databases
@@ -121,21 +121,21 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-guide-video-recording-with-vlc/"><u>[Updated] Essential Guide Video Recording with VLC</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-mastering-color-correction-and-grading/"><u>[Updated] Ultimate Guide Mastering Color Correction & Grading</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-the-impact-of-generative-systems-on-truth/"><u>Deciphering the Impact of Generative Systems on Truth</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-ai-evaluating-the-possible-hazards-involved/"><u>Decoding AI: Evaluating the Possible Hazards Involved</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-predictive-ai-its-operational-wizardry/"><u>Decoding Predictive AI: Its Operational Wizardry</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-bingchattercrypto-tokens-insights-into-identifying-potential-digital-deception-in-blockchain-ventures/"><u>Demystifying BingChatterCrypto Tokens: Insights Into Identifying Potential Digital Deception in Blockchain Ventures</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-ai-advantage-with-bing-get-started-guide/"><u>Discover the AI Advantage with Bing: Get Started Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-power-of-microsoft-copilot-with-these-amongst-4-reasons-to-switch-from-chatgpt/"><u>Discover the Power of Microsoft Copilot with These Amongst 4 Reasons to Switch From ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-gptzero-your-toolkit-for-spotting-artificnated-writing-online/"><u>Discovering GPTZero: Your Toolkit for Spotting Artificnated Writing Online</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-oneplus-ace-3-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change OnePlus Ace 3 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-reno-10-pro-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-speedy-streams-ios-media-on-your-pc/"><u>In 2024, Speedy Streams IOS Media on Your PC</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-financial-flip-understanding-1-million-views-payoff/"><u>In 2024, The Financial Flip Understanding 1 Million Views Payoff</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-the-streaming-platform-faceoff-twitch-versus-youtube-analysis/"><u>In 2024, The Streaming Platform Faceoff Twitch Versus YouTube Analysis</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/maximizing-impact-uploading-srt-subtitles-to-popular-networks-seamlessly/"><u>Maximizing Impact Uploading SRT Subtitles to Popular Networks Seamlessly</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/uncover-the-beauty-and-hidden-rpg-depth-of-mlb-the-show-19-in-our-comprehensive-analysis/"><u>Uncover the Beauty and Hidden RPG Depth of MLB The Show 19 in Our Comprehensive Analysis</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-exploring-screen-recording-with-zdsoft-for-2024/"><u>[New] Exploring Screen Recording with ZDSoft for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-enhancing-meeting-success-with-microsoft-teams-snap-camera/"><u>[Updated] 2024 Approved Enhancing Meeting Success with Microsoft Teams Snap Camera</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-chromebook-picks-of-2eplus24-how-hp-and-lenovo-stack-up-among-competitors-insights-from-zdnet/"><u>Discover the Ultimate Chromebook Picks of 2E+24: How HP and Lenovo Stack Up Among Competitors | Insights From ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-students-avoiding-common-mistakes-with-chatgpt/"><u>Effective Strategies for Students: Avoiding Common Mistakes with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elon-musk-and-his-cutting-edge-innovation-delving-deep-into-truthgpt/"><u>Elon Musk and His Cutting-Edge Innovation: Delving Deep Into TruthGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-and-exploit-how-to-use-openais-api-capabilities/"><u>Explore & Exploit: How to Use OpenAI's API Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-gptzero-your-guide-to-spotting-artificially-crafted-text-online/"><u>Exploring GPTZero: Your Guide to Spotting Artificially Crafted Text Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-non-flexible-modifications-of-gpt/"><u>Exploring Non-Flexible Modifications of GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-features-of-claude-2-understanding-its-capabilities/"><u>Exploring the Features of Claude 2: Understanding Its Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-usability-of-chatgpt-in-proofreading-tasks-a-detailed-insight/"><u>Exploring the Usability of ChatGPT in Proofreading Tasks: A Detailed Insight</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-your-wireless-keyboard-issues-on-windows-step-by-step-guide/"><u>Fix Your Wireless Keyboard Issues on Windows – Step-by-Step Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-13-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 13</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-screenflow-pros-mac-saga-full-evaluation-report/"><u>In 2024, ScreenFlow Pro's Mac Saga - Full Evaluation Report</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-15-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 15</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Reno 11 5G | Dr.fone</u></a></li>
 </ul></div>
 

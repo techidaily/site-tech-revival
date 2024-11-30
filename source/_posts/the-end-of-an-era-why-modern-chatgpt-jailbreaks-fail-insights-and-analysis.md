@@ -1,7 +1,7 @@
 ---
 title: "The End of an Era: Why Modern ChatGPT Jailbreaks Fail - Insights and Analysis"
-date: 2024-11-15T22:08:28.737Z
-updated: 2024-11-21T21:18:09.356Z
+date: 2024-11-29T03:32:17.094Z
+updated: 2024-11-29T18:15:33.911Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -63,22 +63,16 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-socialsnatcher-grab-and-save-twitter-vids-in-a-flash/"><u>[New] 2024 Approved SocialSnatcher Grab and Save Twitter Vids in a Flash</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-what-is-triller-all-you-know-about-this-tiktok-alternative/"><u>[New] 2024 Approved What Is Triller - All You Know About This TikTok Alternative</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-ultimate-online-destinations-for-3d-shimmering-letters/"><u>[Updated] 2024 Approved Ultimate Online Destinations for 3D Shimmering Letters</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bring-intelligent-ai-driven-search-to-your-fingertps-now-compatible-with-ios-and-android-by-bing/"><u>Bring Intelligent AI-Driven Search to Your Fingertps, Now Compatible with iOS and Android by Bing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/building-bridges-between-humans-and-ai-discovering-the-potential-careers-in-prompt-design/"><u>Building Bridges Between Humans and AI: Discovering the Potential Careers in Prompt Design</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatbots-face-off-exploring-the-differences-between-chatgpt-and-claude/"><u>Chatbots Face-Off: Exploring the Differences Between ChatGPT and Claude</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-plugin-pitfalls-which-ones-dont-deliver-value/"><u>ChatGPT Plugin Pitfalls: Which Ones Don't Deliver Value?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparative-analysis-of-two-powerhouse-language-models-gpt-and-bert/"><u>Comparative Analysis of Two Powerhouse Language Models - GPT and BERT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-ais-impact-on-creative-work-ownership-insights-into-copyright-law-for-algorithmic-creations/"><u>Deciphering AI's Impact on Creative Work Ownership: Insights Into Copyright Law for Algorithmic Creations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-to-apply-chatgpt-in-cognitive-behavioral-therapy-sessions/"><u>Effective Strategies to Apply ChatGPT in Cognitive Behavioral Therapy Sessions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-getting-chatgpt-assistance-with-automotive-modifications/"><u>Effective Strategies: Getting ChatGPT Assistance with Automotive Modifications</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-avi-manipulation-techniques-top-programs-for-trimming-rotating-and-combining-videos/"><u>Quick and Simple AVI Manipulation Techniques – Top Programs for Trimming, Rotating & Combining Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unbeatable-free-webcam-matchups-for-2024/"><u>Unbeatable Free Webcam Matchups for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/understanding-2023s-push-for-shorter-more-impactful-facebook-videos-for-2024/"><u>Understanding 2023'S Push for Shorter, More Impactful Facebook Videos for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/vegaspro-2019-update-changes-and-impacts/"><u>VegasPro 2019 Update Changes & Impacts</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-1110-hacks-swift-recovery-of-synapse-functions/"><u>Windows 11/10 Hacks: Swift Recovery of Synapse Functions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-audiovisual-harmony-adding-sounds-to-instagram-clips-for-2024/"><u>[New] Audiovisual Harmony Adding Sounds to Instagram Clips for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-coding-experience-10-chatgpt-vs-code-combos/"><u>Enhancing Coding Experience: 10 ChatGPT VS Code Combos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-domestic-life-using-chatgpt-tools/"><u>Enhancing Domestic Life Using ChatGPT Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-trustworthiness-in-ai-does-chatgpt-speak-truthfully/"><u>Evaluating Trustworthiness in AI: Does ChatGPT Speak Truthfully?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exclusive-realms-for-artificial-intelligence-prompt-sharing/"><u>Exclusive Realms for Artificial Intelligence Prompt Sharing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-trendsetting-visualizations-for-the-year-ahead/"><u>In 2024, Trendsetting Visualizations for the Year Ahead</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-ipad-generation-whats-new-in-apples-tablet-lineup/"><u>Latest iPad Generation: What's New in Apple's Tablet Lineup</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211412901-9783892016083-mi-vida-que-yo-mismo-elegi/"><u>Mi vida que yo mismo elegí | Free Book</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/wav-in-movien-kostenloos-online-verwerpen-met-movavi-gratis-digitale-movie-conversion-voorprofessionals/"><u>WAV in Movien Kostenloos Online Verwerpen Met Movavi - Gratis Digitale Movie Conversion Voorprofessionals</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Creating Compelling D&D Characters with AI Tools - ChatGPT and DALL-E Strategies
-date: 2024-11-19T19:26:16.088Z
-updated: 2024-11-21T21:02:50.313Z
+date: 2024-11-22T21:56:13.639Z
+updated: 2024-11-30T02:58:31.646Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 * [DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#dall-e-39-s-editing-tools-are-useful-but-need-work-and-a-little-persistence)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
  The only issue is that they don't do what OpenAI advertises, and it's a mixed bag as to whether you'll get the edits you want. But still, it's a start of what's to come for DALL-E 3 editing, and this is how they work.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are DALL-E 3's Editing Tools?
 
  They've been a while coming, but OpenAI has finally added editing functionality to DALL-E 3 in ChatGPT Plus. Prior to this, you could attempt to make edits to your DALL-E 3 creations, but it would typically always result in a completely fresh image being generated. Even if the prompts used to create the edited image were extremely similar to the first prompt, due to the very nature of generative AI, the output could be significantly different.
@@ -54,15 +50,15 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
 ![dalle 3 editing tools example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-example.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 However, it's a mixed bag.
 
 [OpenAI's official blog](https://help.openai.com/en/articles/9055440-editing-your-images-with-dall-e) example shows DALL-E adding cherry blossoms to a Ukiyo-e-style image of cat, and it working perfectly. In my experience, DALL-E's editing tools struggle to add such detailed imagery to an existing image and, for the most part, can't process requests of this nature.
 
  That's not to say the editing tools don't work. They can absolutely remove features and make small changes, as detailed below, but it's all on a small scale.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use DALL-E 3's Editing Tool
 
@@ -80,6 +76,10 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Adding and Changing
 
  DALL-E 3 can make some changes to images, but again, it depends on the scale of what you're asking. Small additions and changes are possible, but most of the time, DALL-E's editing tool can't process what is asked.
@@ -88,13 +88,13 @@ Close
 
 ![dalle 3 editing tools close up human eye](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Pretty decent, if a little odd (eyelash reflections?!), but I wanted to switch the iris color to blue-green instead, resulting in this image:
 
 ![dalle 3 editing tools close up human eye changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye-changed-colour.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The color is slightly dull but unchanged, and some features are warped slightly.
 
@@ -103,7 +103,7 @@ Close
 ![dalle 3 editing tools tiger yeti claymation style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-tiger-yeti-claymation-style.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Again, the original image is good, has sharp, vibrant colors, and matches the prompt. However, I wanted to switch the yeti to a different type of scary animal.
@@ -143,15 +143,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-economical-action-filmmaking-gear-for-the-aspiring-pro/"><u>[New] Economical Action Filmmaking Gear for the Aspiring Pro</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-how-to-reverse-videos-on-android/"><u>[Updated] 2024 Approved How to Reverse Videos on Android?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-these-7-excellent-options-instead-of-using-chatgpt-on-your-phone/"><u>Discover These 7 Excellent Options Instead of Using ChatGPT on Your Phone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-days-ahead-9-ways-gpt-streamlines-your-world/"><u>Effortless Days Ahead: 9 Ways GPT Streamlines Your World</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-chatgpt-plus-for-maximum-benefit/"><u>Evaluating ChatGPT Plus for Maximum Benefit</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-elite-artificial-intelligence-prompt-destinations-the-top-seven-spaces/"><u>Exploring Elite Artificial Intelligence Prompt Destinations: The Top Seven Spaces</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-reset-a-ps5-controller-and-when-you-should/"><u>How to Reset a PS5 Controller (and When You Should)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c51-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme C51 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-the-definitive-guide-to-gadgets-and-systems/"><u>Inside Tom's Hardware: The Definitive Guide to Gadgets and Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-users-no-more-crashes-fix-your-gas-station-simulator-today/"><u>PC Users, No More Crashes! Fix Your Gas Station Simulator Today</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-yoga-enthusiasts-go-to-guide-on-youtube/"><u>[New] Yoga Enthusiasts' Go-To Guide on YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-grok-ai-elon-musks-new-project-unveiling-its-potential-and-pricing-details/"><u>Demystifying Grok AI: Elon Musk's New Project - Unveiling Its Potential & Pricing Details</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-selection-of-ai-prompt-builders-for-advanced-ai-assistants/"><u>Discover the Ultimate Selection of AI Prompt Builders for Advanced AI Assistants</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-the-power-of-huggingchat-a-cost-free-rival-to-chatgpt/"><u>Discovering the Power of HuggingChat – A Cost-Free Rival to ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dive-into-ai-deployment-auto-gpt-step-by-step/"><u>Dive Into AI Deployment (Auto-GPT) Step-by-Step</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-installation-of-the-chatgpt-application-on-windows-systems/"><u>Easy Installation of the ChatGPT Application on Windows Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/fb-and-giphy-in-trouble-selling-possibility-explored/"><u>FB and Giphy in Trouble? Selling Possibility Explored</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-6s-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 6s Plus Passcode not Working?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-7-ultimate-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Asus ROG Phone 7 Ultimate Phone with Broken Screen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-y200-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo Y200 Android SIM Unlock APK</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-insight-into-editing-magic-a-thorough-review-of-anthropics-smart-photo-editor/"><u>Ultimate Insight Into Editing Magic: A Thorough Review of Anthropics' Smart Photo Editor</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-video-formats-which-is-more-effective-av1-or-vp9-for-2024/"><u>Understanding Video Formats Which Is More Effective, AV1 or VP9 for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-enhance-your-experience-with-chatgpt-plus-here-are-9-compelling-reasons/"><u>Why Enhance Your Experience with ChatGPT Plus? Here Are 9 Compelling Reasons</u></a></li>
 </ul></div>
 

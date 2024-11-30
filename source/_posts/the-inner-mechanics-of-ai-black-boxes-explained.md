@@ -1,7 +1,7 @@
 ---
 title: The Inner Mechanics of AI Black Boxes Explained
-date: 2024-11-20T20:07:18.333Z
-updated: 2024-11-22T00:08:41.158Z
+date: 2024-11-26T22:51:15.554Z
+updated: 2024-11-29T19:16:45.440Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
  Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925.
@@ -48,7 +52,7 @@ Close
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2.[Oregon Trail](https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail)
@@ -62,7 +66,7 @@ Close
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
@@ -74,7 +78,7 @@ Close
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
@@ -96,7 +100,7 @@ Close
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
@@ -110,10 +114,6 @@ Close
  The custom GPT Cookie Clicker is decidedly different. You're still building up a cookie empire in a similar style, but because ChatGPT doesn't run automated commands and cannot keep the numbers ticking over like the original game, it requires more input.
 
  Still, if you're into idle games and want to try something different, it could be worth a try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
 
@@ -144,15 +144,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-rapid-reader-advanced-windows-photoshop/"><u>[Updated] 2024 Approved Rapid Reader - Advanced Windows Photoshop</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-64gb-ideal-for-light-video-content/"><u>[Updated] In 2024, 64Gb Ideal for Light Video Content?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-optimal-sound-settings-win/"><u>[Updated] Optimal Sound Settings WIN</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1728501725598-onedrive/"><u>如何在OneDrive上完成数据恢复：精准操作方法解析</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/create-stunning-images-with-dall-e-t-how-to-leverage-it-for-free-on-bing/"><u>Create Stunning Images with DALL-E T: How to Leverage It for Free on Bing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-email-game-5-free-ai-assistants-to-master-professional-writing-with-chatgpt-and-instant-email-summaries/"><u>Elevate Your Email Game: 5 Free AI Assistants to Master Professional Writing With ChatGPT & Instant Email Summaries</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exceeding-the-bounds-of-chatgpt-tokens-techniques-and-considerations/"><u>Exceeding the Bounds of ChatGPT Tokens: Techniques and Considerations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/four-ways-artificial-intelligence-transforms-academic-research-efficiency/"><u>Four Ways Artificial Intelligence Transforms Academic Research Efficiency</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-t2-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo T2 5G Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-lava-yuva-3-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Lava Yuva 3 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elite-audio-modifying-tools-tailored-to-youtube-creators/"><u>[Updated] 2024 Approved Elite Audio Modifying Tools Tailored to YouTube Creators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/adapt-and-conquer-6-proven-techniques-for-flourishing-in-an-age-of-artificial-intelligence-at-work/"><u>Adapt & Conquer: 6 Proven Techniques for Flourishing in an Age of Artificial Intelligence at Work</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-driven-versification-how-to-compose-captivating-poems-using-chatgpt/"><u>AI-Driven Versification: How to Compose Captivating Poems Using ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-driven-workflow-dynamics-for-devs/"><u>AI-Driven Workflow Dynamics for Devs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-explained-the-key-factors-distinguishing-strong-from-weak-ai/"><u>Artificial Intelligence Explained: The Key Factors Distinguishing Strong From Weak AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-ai-surpass-newspaper-horoscopes-in-predicting-what-lies-ahead-for-you/"><u>Can AI Surpass Newspaper Horoscopes in Predicting What Lies Ahead for You?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/challenge-yourself-with-chatgpts-hottest-gaming-delights/"><u>Challenge Yourself with ChatGPT’s Hottest Gaming Delights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-a-study-buddy-5-practical-applications-for-school-goers/"><u>ChatGPT as a Study Buddy: 5 Practical Applications for School-Goers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-can-it-generate-trustworthy-and-efficient-fitness-regimes-tailored-for-you/"><u>ChatGPT: Can It Generate Trustworthy and Efficient Fitness Regimes Tailored For You?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/copilot-for-cost-free-comprehensively-conquered-by-gpt-4/"><u>Copilot for Cost-Free, Comprehensively Conquered by GPT-4</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-cutting-edge-geforce-rtx-3080-ti-drivers-compatible-with-windows-1087/"><u>Download Cutting-Edge GeForce RTX 3080 Ti Drivers Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-nokia-c02-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Nokia C02 Phones? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-magic-5-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Honor Magic 5 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/journey-through-soundscapes-value-in-paww-wavesound-3-gear/"><u>Journey Through Soundscapes: Value in Paww Wavesound 3 Gear</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-dx11-and-wwe-2k-battlegrounds-level-100-functionality-glitches/"><u>Overcoming DX11 and WWE 2K: Battlegrounds Level 10.0 Functionality Glitches</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/reel-revolution-enjoying-twitter-videos-at-ultimate-quality-for-2024/"><u>Reel Revolution Enjoying Twitter Videos at Ultimate Quality for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tracking-down-the-intel-hardware-driver-installer/"><u>Tracking Down the Intel Hardware Driver Installer</u></a></li>
 </ul></div>
 

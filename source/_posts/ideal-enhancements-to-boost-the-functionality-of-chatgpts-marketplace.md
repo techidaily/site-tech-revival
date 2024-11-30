@@ -1,7 +1,7 @@
 ---
 title: Ideal Enhancements to Boost the Functionality of ChatGPT's Marketplace
-date: 2024-11-15T16:17:16.472Z
-updated: 2024-11-21T17:53:02.189Z
+date: 2024-11-25T20:19:47.178Z
+updated: 2024-11-30T02:36:16.596Z
 tags:
   - chatgpt
   - open-ai
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/c878f30c184513e5e2ecdd904a42a40c824bea0f8
 
 ![Snapchat My AI Explaining the Elements of an Image of a Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/my-ai-recognizing-image-of-person.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  That said, these chatbots follow different restrictions. My AI generally has fewer rules than ChatGPT—it might perform a broader range of tasks.
@@ -54,10 +50,6 @@ Close
 
 ![Snapchat My AI Roleplaying as Ash Ketchum from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-roleplay-request.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Snapchat My AI Continuing the Roleplay Request to Portray Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-continuing-roleplay-request.jpg)
 
 Close
@@ -70,19 +62,15 @@ Close
 
 ![Asking Snapchat About the Weather Tomorrow in Manila](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-snapchat.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Try testing the limits of My AI’s accuracy. It pulls updated information from various publications and resources, including those on international events.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Snapchat’s Location Services Are Wholly Utilized
 
@@ -91,14 +79,22 @@ Close
 ![Asking Snapchat About Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-test.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Just note that Snapchat also displays your active location if you enable GPS services. But you can turn off this feature to ensure more privacy, Click your avatar on the top-left corner of the screen, then go to >**Settings** \>**Privacy Controls** \>**My Location** . Toggle the Ghost Mode button to hide your location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. My AI Solves Intermediate Word Problems Correctly
 
@@ -108,15 +104,15 @@ Close
 
 ![Asking Snapchat a Probability and Statistics Math Problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-word-problem-probability.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
 
 Close
 
  Try rephrasing word problems that My AI answers wrong. You’ll generate better output if you compose clear, detailed prompts—avoid vague phrasing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Snapchat Continuously Updates My AI
 
@@ -125,6 +121,10 @@ Close
  These incidents shouldn’t have happened in the first place, but in fairness to Snapchat, it quickly resolved My AI’s security issues. The company enforced stricter guidelines shortly after these reports.
 
  Snapchat also adds new features consistently. Take My AI’s image prompting feature as an example. The chatbot is getting way better at recognizing images, even ones you take yourself. Meanwhile, other chatbots have yet to adopt image prompting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try Snapchat’s New AI Assistant
 
@@ -147,22 +147,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-leaders-in-next-gen-sensory-devices/"><u>[New] 2024 Approved Leaders in Next-Gen Sensory Devices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-easy-setup-making-a-direct-path-for-youtube-subscribers/"><u>[Updated] 2024 Approved Easy Setup Making a Direct Path for YouTube Subscribers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-essence-of-scripting-for-film/"><u>[Updated] The Essence of Scripting for Film</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unveiling-the-power-of-the-participant-grids-in-google-meet/"><u>2024 Approved Unveiling the Power of the Participant Grids in Google Meet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-beginners-guide-to-biometrics-and-its-applications/"><u>A Beginner's Guide to Biometrics and Its Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-test-of-creativity-amongst-3-leading-chatbots-who-excelled/"><u>A Test of Creativity Amongst 3 Leading Chatbots - Who Excelled?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advancing-crypto-discussions-via-gpt-innovations/"><u>Advancing Crypto Discussions via GPT Innovations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-communicators-from-idea-to-interaction-using-gpt/"><u>AI Communicators: From Idea to Interaction - Using GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722169736514-chatgpt-conversations-not-storing-heres-how-you-can-fix-it/"><u>ChatGPT Conversations Not Storing? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722189837875-discover-the-new-ai-revolution-chatgpt-now-available-on-iphones/"><u>Discover the New AI Revolution: ChatGPT Now Available on iPhones!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easily-monitor-hard-drive-capacity-on-windows-10-a-comprehensive-tutorial/"><u>Easily Monitor Hard Drive Capacity on Windows 10 - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/effortless-integration-posting-twitter-vids-on-instagram-profile-for-2024/"><u>Effortless Integration Posting Twitter Vids on Instagram Profile for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-advanced-webcam-and-chat-software-rankings/"><u>In 2024, Advanced Webcam & Chat Software Rankings</u></a></li>
-<li><a href="https://common-error.techidaily.com/investigating-unintended-boot-sequences-on-windows-10-systems-and-preventive-measures/"><u>Investigating Unintended Boot Sequences on Windows 10 Systems & Preventive Measures</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722046806470-is-using-chatgpt-compromising-your-online-privacy-a-deep-dive-analysis/"><u>Is Using ChatGPT Compromising Your Online Privacy? A Deep Dive Analysis.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722208971214-ransomware-crackdown-unlock-your-phone-for-just-50-plus-chatgpts-role-in-crafting-our-podcast-stories/"><u>Ransomware Crackdown: Unlock Your Phone for Just $50 + ChatGPT's Role in Crafting Our Podcast Stories</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-you-shouldnt-trust-chatgpt-with-confidential-information/"><u>Why You Shouldn't Trust ChatGPT With Confidential Information</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-landscape-of-3d-color-grading-tools/"><u>[Updated] Navigating the Landscape of 3D Color Grading Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-5-esteemed-platforms-for-easy-text-effect-implementation/"><u>2024 Approved 5 Esteemed Platforms for Easy Text Effect Implementation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-youtubthumbnail-guide-for-mac-users/"><u>2024 Approved The Ultimate YoutubThumbnail Guide for Mac Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-unveiling-the-powerful-samsung-galaxy-tab-s5e-experience/"><u>Comprehensive Review: Unveiling the Powerful Samsung Galaxy Tab S5e Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-messaging-disclose-whereabouts-easily/"><u>Facebook Messaging: Disclose Whereabouts Easily</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/introduce-circular-smoothing-transition-via-adobe-photoshop-for-2024/"><u>Introduce Circular Smoothing Transition via Adobe Photoshop for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-around-these-6-recurring-chatgpt-hiccups-quick-fix-tips/"><u>Navigate Around These 6 Recurring ChatGPT Hiccups - Quick Fix Tips!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/personalized-book-selection-simplified-top-5-ai-driven-literature-services/"><u>Personalized Book Selection Simplified: Top 5 AI-Driven Literature Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/power-up-any-web-session-integrating-agentgpts-ais/"><u>Power Up Any Web Session – Integrating AgentGPT's AIs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/privacy-concerns-surrounding-the-use-of-chatgpt-what-you-need-to-know/"><u>Privacy Concerns Surrounding the Use of ChatGPT: What You Need to Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-chatgpt-on-your-pc-with-windows/"><u>Step-by-Step Guide: Setting Up ChatGPT on Your PC with Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-mfc42dll-file-cannot-be-found-issues/"><u>Ultimate Guide: Resolving 'MFC42.DLL File Cannot Be Found' Issues</u></a></li>
 </ul></div>
 

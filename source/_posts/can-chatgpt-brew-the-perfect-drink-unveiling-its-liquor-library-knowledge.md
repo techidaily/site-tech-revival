@@ -1,7 +1,7 @@
 ---
 title: Can ChatGPT Brew the Perfect Drink? Unveiling Its Liquor Library Knowledge
-date: 2024-10-19T17:48:43.486Z
-updated: 2024-10-22T18:04:45.898Z
+date: 2024-11-26T18:33:20.215Z
+updated: 2024-11-29T21:49:42.526Z
 tags:
   - chatgpt
   - open-ai
@@ -26,9 +26,17 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do ChatGPT Plugins Work?
 
 ![Monitor screen showing ChatGPT landing page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/monitor-screen-showing-chatgpt-landing-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT plugins are software components integrated into[the ChatGPT platform](https://www.makeuseof.com/how-does-chatgpt-work/) . They provide ChatGPT with additional information, such as up-to-date news or data from proprietary sources, and enable ChatGPT to perform specific actions on behalf of users.
 
@@ -39,10 +47,7 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
  Then, ChatGPT could use these plugins to fetch relevant information and insert them into the email draft. It could also use the plugins to send emails, schedule a meeting, or update a task's status.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do You Sign Up for ChatGPT Plugins?
@@ -50,16 +55,7 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 ![chatgpt plugin page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plugin-page.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Currently, the ChatGPT plugins feature is only available to ChatGPT Plus subscribers, and you have to join a waitlist to get access. You can[sign up for ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) by clicking on**Upgrade** **to** **Plus** on the left tab on the ChatGPT interface.
@@ -72,10 +68,7 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 4. Click**Join Waitlist** to submit the form.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Joining ChatGPT's Plugins Waitlist
@@ -97,21 +90,20 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-from-basics-to-blockbusters-building-an-audience-on-gaming-channels/"><u>[New] 2024 Approved From Basics to Blockbusters Building an Audience on Gaming Channels</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-gateway-to-youtube-stardom-via-studio-expertise/"><u>[New] In 2024, The Gateway to YouTube Stardom via Studio Expertise</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-visual-vibes-building-a-repertoire-of-shareable-fb-and-insta-videos/"><u>[Updated] Visual Vibes Building a Repertoire of Shareable FB & Insta Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-the-viewfinder-top-6-android-and-ios-video-apps/"><u>2024 Approved Beyond the Viewfinder Top 6 Android and iOS Video Apps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-filmmakers-ally-expert-advice-for-video-creation-in-windows-10/"><u>2024 Approved The Filmmaker's Ally Expert Advice for Video Creation in Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/analyzing-the-reasons-for-increased-security-breaches-on-chatgpt-accounts/"><u>Analyzing the Reasons for Increased Security Breaches on ChatGPT Accounts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-bots-separating-truth-from-ai-mythology/"><u>Beyond Bots: Separating Truth From AI Mythology</u></a></li>
-<li><a href="https://games-able.techidaily.com/breaking-language-barriers-in-emulated-games/"><u>Breaking Language Barriers in Emulated Games</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/building-your-own-personalized-chatgpt-a-step-by-step-guide/"><u>Building Your Own Personalized ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-ai-giants-chatgpt-vs-google-bard-who-wins-the-conversation/"><u>Comparing AI Giants: ChatGPT vs Google Bard – Who Wins the Conversation?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conquer-web-design-complexities-using-gpts-fourfold-methodology/"><u>Conquer Web Design Complexities Using GPT’s Fourfold Methodology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/counterfeit-chatbot-tool-compromises-tiktok-login-data/"><u>Counterfeit Chatbot Tool Compromises TikTok Login Data</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creative-catalysts-da-vincis-triumph-in-image-generation-ai/"><u>Creative Catalysts: Da Vinci’s Triumph in Image Generation AI</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/making-the-switch-discover-key-differences-between-iphone-and-android-options/"><u>Making the Switch? Discover Key Differences Between iPhone and Android Options</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repair-guide-for-aoc-screen-malfunction-compatibility-with-windows-11-devices/"><u>Repair Guide for AOC Screen Malfunction Compatibility with Windows 11 Devices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-6-plus-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-decoding-instagrams-reels-and-stories-evolution-for-2024/"><u>[New] Decoding Instagram's Reels and Stories Evolution for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-ultimate-user-friendly-untangle-for-youtube-earnings-assessment/"><u>[New] The Ultimate User-Friendly Untangle for YouTube Earnings Assessment</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-perfecting-your-live-stream-our-picks-from-the-top-6-microphones-for-2024/"><u>[Updated] Perfecting Your Live Stream Our Picks From the Top 6 Microphones for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/direct-video-tweet-sharing-content-without-including-others-tweets/"><u>Direct Video Tweet Sharing Content Without Including Others' Tweets</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-reverse-error-code-0x80780119-in-windows/"><u>Guide to Reverse Error Code 0X80780119 in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-14-plus-using-icloud-website-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 14 Plus using icloud website</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-the-power-of-chatgpt-to-design-interactive-story-based-rpg-games/"><u>Leveraging the Power of ChatGPT to Design Interactive Story-Based RPG Games</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/llama-2-quickstart-your-path-to-successful-offline-setup-and-download/"><u>Llama 2 Quickstart: Your Path to Successful Offline Setup and Download</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-on-smartphones-a-step-by-step-walkthrough-for-android-and-ios-users/"><u>Mastering ChatGPT on Smartphones: A Step-by-Step Walkthrough for Android & iOS Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-a-guide-for-aspiring-freelancers/"><u>Mastering ChatGPT: A Guide for Aspiring Freelancers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-writing-crafting-a-poetry-collection-with-chatgpt/"><u>Mastering the Art of Writing: Crafting a Poetry Collection with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-chatgpts-current-suspension-unveiling-the-reasons-and-anticipated-return-windows/"><u>Navigating ChatGPT's Current Suspension: Unveiling the Reasons and Anticipated Return Windows.</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-easy-path-to-crafting-your-audio-book-a-detailed-tutorial/"><u>New In 2024, The Easy-Path to Crafting Your Audio Book A Detailed Tutorial</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pro-gopro-filming-tips-for-flawless-results/"><u>Pro Gopro Filming Tips for Flawless Results</u></a></li>
 </ul></div>
 

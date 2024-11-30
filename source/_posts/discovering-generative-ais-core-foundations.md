@@ -1,7 +1,7 @@
 ---
 title: Discovering Generative AI's Core Foundations
-date: 2024-10-15T16:24:54.632Z
-updated: 2024-10-22T19:40:59.989Z
+date: 2024-11-29T06:14:38.202Z
+updated: 2024-11-30T02:35:14.830Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Potential Risks of Generative AI to Spread Disinformation
 
@@ -42,6 +46,10 @@ False news can be categorized into three types:
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -52,14 +60,11 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -72,13 +77,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -86,6 +84,10 @@ Here's the fictitious article that ChatGPT came up with:
  Additionally, political adversaries may use deepfake audio and videos to tarnish the reputation of their opponents, manipulating public sentiment with the help of AI. So[AI-generated deepfakes pose numerous threats in the future](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/) . According to a 2023[Reuters report](https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/) , the rise of AI technology could impact America's 2024 elections. The report highlights the accessibility of tools like Midjourney and DALL-E that can easily create fabricated content and influence people's collective opinions.
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
 
@@ -96,10 +98,7 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
@@ -112,13 +111,6 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -141,18 +133,24 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unlock-visual-storytelling-potential-with-snapchat-edits/"><u>2024 Approved Unlock Visual Storytelling Potential with Snapchat Edits</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canoscan-lide-120-program-installation-guide-with-updated-drivers/"><u>CanoScan LiDE 120 Program Installation Guide with Updated Drivers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cross-language-communication-unlocking-chatgpts-multilingual-potential/"><u>Cross-Language Communication: Unlocking ChatGPT's Multilingual Potential</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-gpt4alls-functionality/"><u>Decoding GPT4All's Functionality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-mathematical-conundrums/"><u>Decoding Mathematical Conundrums</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-best-chatgpt-enabled-applications-for-interacting-with-text-in-pdfs/"><u>Discover the Best ChatGPT-Enabled Applications for Interacting with Text in PDFs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/engage-with-gpt-3s-beta-web-integration-advances/"><u>Engage with GPT-3's Beta Web Integration Advances</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-the-huion-kamvas-gt-191-pen-display-a-vast-space-for-creativity-unleashed/"><u>Expert Analysis of the Huion Kamvas GT-191 Pen Display – A Vast Space for Creativity Unleashed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exploring-the-ins-and-outs-of-quantum-hdr/"><u>Exploring the Ins and Outs of Quantum HDR</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-itel-a70-frp-by-drfone-android/"><u>How Can We Bypass Itel A70 FRP?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-v29-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo V29 Pro For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-s23-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy S23 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-soundscape-integration-for-statements/"><u>In 2024, Soundscape Integration for Statements</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-4k-resolution-unveiled-in-chroma-focused-lenses/"><u>[New] 4K Resolution Unveiled in Chroma-Focused Lenses</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ow-to-swiftly-excise-your-youtube-comment-spam/"><u>[New] How to Swiftly Excise Your Youtube Comment Spam</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-broadcast-strategies-share-twitch-videos-on-fb/"><u>[Updated] In 2024, Broadcast Strategies Share Twitch Videos on FB</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-path-to-perfect-streams-streamlabs-plus-obs-for-mac-users/"><u>[Updated] The Path to Perfect Streams Streamlabs + OBS for Mac Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1-easily-transform-your-screen-recordings-into-audio-files-mp3-conversion-guide/"><u>1. Easily Transform Your Screen Recordings Into Audio Files: MP3 Conversion Guide</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1728473604840-nvme-ssd/"><u>大容量サムスンNVMe SSDへのセーフバッキング:クローニング手順ガイド</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175712434-discover-exceptional-cooling-value-the-thermalight-phantom-spirit-120-se-now-available-at-an-unbeatable-price-of-just-35/"><u>Discover Exceptional Cooling Value: The Thermalight Phantom Spirit 120 SE, Now Available at an Unbeatable Price of Just $35</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/free-windows-software-perfect-tv-recording-techniques-for-2024/"><u>Free Windows Software Perfect TV Recording Techniques for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-ai-innovations-comprehensive-strategies-to-maximize-bings-potential-on-your-android-phone/"><u>Navigating Through AI Innovations: Comprehensive Strategies to Maximize Bing's Potential on Your Android Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/privacy-paranoia-the-risks-of-sharing-with-chatgpt/"><u>Privacy Paranoia: The Risks of Sharing with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steer-clear-of-data-mining-with-chatgpt-exit/"><u>Steer Clear of Data Mining with ChatGPT Exit</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-into-the-future-use-8-bespoke-ai-options/"><u>Step Into the Future: Use 8 Bespoke AI Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tap-into-ai-bing-search-how-to-sign-up/"><u>Tap Into AI Bing Search: How to Sign Up</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-creative-catalyst-or-counterfeit-assessing-chatgpt/"><u>The Creative Catalyst or Counterfeit: Assessing ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dawn-of-transcendent-communication-unpacking-googles-palm-2-model/"><u>The Dawn of Transcendent Communication: Unpacking Google’s PaLM 2 Model</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-easy-way-to-convert-dall-e-3-artwork-from-webp-files-to-compatible-jpg-or-png-options/"><u>The Easy Way To Convert DALL-E 3 Artwork From WebP Files to Compatible JPG or PNG Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-humor-algorithm-exploring-the-ability-of-artificial-intelligence-to-craft-jokes/"><u>The Humor Algorithm: Exploring the Ability of Artificial Intelligence to Craft Jokes</u></a></li>
 </ul></div>
 

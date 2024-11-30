@@ -1,7 +1,7 @@
 ---
 title: "Prompt Engineering 101: The Roadmap to Establishing Yourself as an Expert"
-date: 2024-11-17T18:08:32.816Z
-updated: 2024-11-21T16:20:42.346Z
+date: 2024-11-22T22:09:08.047Z
+updated: 2024-11-29T19:37:04.655Z
 tags:
   - chatgpt
   - open-ai
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -48,16 +48,22 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-directing-content-flow-uploading-imovie-films-to-youtube-for-2024/"><u>[Updated] Directing Content Flow Uploading IMovie Films to YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-broadcasting-innovations-combining-tv-and-social-media/"><u>[Updated] In 2024, Broadcasting Innovations Combining TV & Social Media</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-poco-c55-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Poco C55 Phone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-realme-11-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Realme 11 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c32-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Nokia C32 Phone with Broken Screen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tips-for-posting-and-sharing-links-to-chatgpt-dialogues/"><u>Tips for Posting and Sharing Links to ChatGPT Dialogues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-chrome-productivity-boosts-with-cutting-edge-ai-technology/"><u>Top 8 Chrome Productivity Boosts with Cutting-Edge AI Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-9-strategies-using-chatgpt-to-enhance-your-novel-writing-process/"><u>Top 9 Strategies: Using ChatGPT to Enhance Your Novel Writing Process</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-artificial-intelligence-systems-for-online-researchers/"><u>Top Artificial Intelligence Systems for Online Researchers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/triggering-gpt-alerts-for-detecting-con-art-ai-systems/"><u>Triggering GPT Alerts for Detecting Con Art AI Systems</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unlocking-the-full-potential-of-googles-podcast-tools-for-2024/"><u>Unlocking the Full Potential of Google's Podcast Tools for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-optimal-mp4-to-fb-video-solution/"><u>[New] In 2024, Optimal MP4-to-FB Video Solution</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-next-gen-cinema-a-virtual-leap-forward/"><u>[Updated] Next-Gen Cinema A Virtual Leap Forward</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mac-efficiency-for-academics-audio-record-of-classroom-learning/"><u>2024 Approved Mac Efficiency for Academics Audio Record of Classroom Learning</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210010457-9781591939184-crystal-healing/"><u>Crystal Healing | Free Book</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-download-and-upgrade-of-microsoft-drivers-on-various-windows-versions/"><u>Effortless Download and Upgrade of Microsoft Drivers on Various Windows Versions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-trip-diary-to-hype-inducing-haul-the-editors-playbook-for-2024/"><u>From Trip Diary to Hype-Inducing Haul The Editor's Playbook for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-chatgpt-skyrocketed-unveiling-5-key-reasons-for-its-rapid-rise/"><u>How ChatGPT Skyrocketed: Unveiling 5 Key Reasons for Its Rapid Rise</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-far-can-you-take-your-conversations-with-chatgpt/"><u>How Far Can You Take Your Conversations with ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-microsoft-is-revolutionizing-search-with-ai-integration-in-bing/"><u>How Microsoft Is Revolutionizing Search with AI Integration in Bing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-export-and-share-your-chatgpt-dialogues-using-these-apps/"><u>How to Export and Share Your ChatGPT Dialogues Using These Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-leverage-chatgpt-technology-for-effective-cover-letter-writing/"><u>How to Leverage ChatGPT Technology for Effective Cover Letter Writing</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y100i-power-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y100i Power 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-the-world-of-hugging-face-discovering-how-it-transforms-ai-research/"><u>Inside the World of Hugging Face: Discovering How It Transforms AI Research</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/integrating-chatgpt-plugins-made-simple/"><u>Integrating ChatGPT Plugins Made Simple</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-artificial-intelligence-notetakers-reviewed/"><u>Leading Artificial Intelligence Notetakers Reviewed</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-game-changing-apple-macbook-air-2020-unveiling-the-power-of-the-revolutionary-m1-processor/"><u>The Game-Changing Apple MacBook Air (2020) – Unveiling the Power of the Revolutionary M1 Processor</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Realme Narzo N53 | Dr.fone</u></a></li>
 </ul></div>
 

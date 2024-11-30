@@ -1,7 +1,7 @@
 ---
 title: "AI Dictionary: The Definitive Guide to Tech Terms"
-date: 2024-11-20T00:44:39.709Z
-updated: 2024-11-21T16:37:01.696Z
+date: 2024-11-28T07:16:31.992Z
+updated: 2024-11-30T06:00:43.881Z
 tags:
   - chatgpt
   - open-ai
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2.[Gron](https://www.gron.games/game) (Web): Retro RPG Game to Find Clues and Chat With Suspects
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -57,12 +57,16 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3.[Mystery-o-Matic](https://mystery-o-matic.com/) (Web): New Murder Mystery Generated Daily Randomly
 
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -72,17 +76,9 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
 
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4.[Murdle](https://murdle.com/) (Web): Daily Murder Mystery Logic Puzzles
 
 ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -91,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
  Murdle follows a similar system to Mystery-o-Matic, giving you three or four suspects, three or four locations, and three or four murder weapons every day. The mysteries get more difficult with each day, with Monday being the easiest and Sunday requiring the skills of Sherlock Holmes.
 
  You play as Detective Logico and are given a series of clues and evidence, which you can use with the cross-referencing charting to match suspects, locations, and weapons. It's best to start off with the mini-Murdle tutorial and then get to the daily puzzles. When you're ready to make your accusation, you'll need to say who the murderer was, how they did it, and where the ghastly act took place.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Create Your Own ChatGPT Murder Mystery
 
@@ -113,21 +113,19 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-wdcsam64prewin8sys-turned-off-core-isolation/"><u>[Fixed] wdcsam64_prewin8.sys Turned Off Core Isolation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ultimate-compilation-of-ios-compatible-ps2-games/"><u>2024 Approved Ultimate Compilation of iOS-Compatible PS2 Games</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/beyond-the-steam-deck-unlocking-mobile-style-play-with-steam-on-pcs/"><u>Beyond the Steam Deck: Unlocking Mobile-Style Play with Steam on PCs</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/chat-to-tune-downloader-for-fb/"><u>Chat to Tune Downloader for FB</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/global-tech-showdown-loongsons-newest-16-core-chip-echos-performance-of-intel-ice-lake-and-xeon-silver/"><u>Global Tech Showdown: Loongson's Newest 16-Core Chip Echos Performance of Intel Ice Lake and Xeon Silver</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-tips-for-capturing-clear-facetime-dialogues-on-screen/"><u>In 2024, Top Tips for Capturing Clear FaceTime Dialogues on Screen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/integrating-editing-features-in-dall-e-3-room-for-improvement-ahead/"><u>Integrating Editing Features in DALL-E 3: Room for Improvement Ahead</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/keep-your-information-safe-how-to-unsubscribe-from-chatgpt-services/"><u>Keep Your Information Safe: How to Unsubscribe From ChatGPT Services</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/keeping-it-confidential-how-to-ensure-chatgpt-doesnt-archive-your-dialogue/"><u>Keeping It Confidential: How to Ensure ChatGPT Doesn't Archive Your Dialogue</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/linguistic-legends-ai-translation-faceoff/"><u>Linguistic Legends: AI Translation Faceoff</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-chatgpt-interactions-with-these-5-essential-strategies/"><u>Master ChatGPT Interactions With These 5 Essential Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastery-of-malware-chatgpts-podcast-assistants/"><u>Mastery of Malware: ChatGPT's Podcast Assistants</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-website-build-success-with-chatgpts-ai-assistance/"><u>Maximizing Website Build Success with ChatGPT's AI Assistance</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfect-cone-capture-equipment-for-2024/"><u>Perfect Cone Capture Equipment for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tiktok-pouring-15-billion-into-the-indonesian-digital-shopping-sphere-a-breakdown-by-zdnet/"><u>TikTok Pouring $1.5 Billion Into the Indonesian Digital Shopping Sphere: A Breakdown by ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-unraveling-the-world-of-hardware/"><u>Tom's Tech Insights: Unraveling the World of Hardware</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-social-to-storage-iphone-and-android-gif-savings-for-2024/"><u>[Updated] From Social to Storage IPhone & Android GIF Savings for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-master-class-review-of-dji-inspire-2-for-2024/"><u>[Updated] Master Class Review of DJI Inspire 2 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/customize-your-own-gpt-explore-chatgpts-new-feature-for-tailored-ai-models/"><u>Customize Your Own GPT: Explore ChatGPT's New Feature for Tailored AI Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-differences-microsofts-bing-and-chatgpt-on-a-comparative-scale/"><u>Decoding the Differences: Microsoft's Bing and ChatGPT on a Comparative Scale.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-8-creative-applications-of-chatgpt-vision-technology-for-enhanced-content-creation/"><u>Discover 8 Creative Applications of ChatGPT Vision Technology for Enhanced Content Creation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-leading-8-artificial-intelligence-extensions-for-chrome-users-seeking-improved-output/"><u>Discover the Leading 8 Artificial Intelligence Extensions for Chrome Users Seeking Improved Output</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-presentation-design-unleashed-leveraging-chatgpts-power/"><u>Effortless Presentation Design Unleashed: Leveraging ChatGPT's Power</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-career-with-chatgpt-discover-the-6-essential-reasons-to-learn-it-now/"><u>Elevate Your Career with ChatGPT: Discover the 6 Essential Reasons to Learn It Now</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/fast-track-video-scaling-for-perfect-mac-display/"><u>Fast-Track Video Scaling for Perfect Mac Display</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfect-virtual-presentations-using-video-filters-on-zoom/"><u>In 2024, Perfect Virtual Presentations Using Video Filters on Zoom</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-explore-a-variety-of-inexpensive-camera-models-suitable-for-making-slow-motion-footage-without-compromising-quality-for-2024/"><u>New Explore a Variety of Inexpensive Camera Models Suitable for Making Slow-Motion Footage without Compromising Quality for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-8-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 8 Prevention & Solution</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-complete-manual-to-mobile-igtv-video-acquisition-for-2024/"><u>The Complete Manual to Mobile IGTV Video Acquisition for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-10-best-webcam-recorders-for-windows-10/"><u>The Ultimate List 10 Best Webcam Recorders for Windows 10</u></a></li>
 </ul></div>
 

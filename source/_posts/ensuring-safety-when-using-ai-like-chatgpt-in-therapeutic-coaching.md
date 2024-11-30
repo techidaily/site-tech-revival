@@ -1,7 +1,7 @@
 ---
 title: Ensuring Safety When Using AI Like ChatGPT in Therapeutic Coaching
-date: 2024-11-19T16:43:07.289Z
-updated: 2024-11-22T01:15:50.165Z
+date: 2024-11-28T20:03:06.409Z
+updated: 2024-11-30T00:28:11.406Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 ![gpt-4 language model with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-4-language-model-with-openai-logo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One of the most pronounced advantages of the GPT-4 model over GPT-3.5 is its ability to provide more creative replies to prompts. Don't get me wrong; GPT-3.5 is very creative. There's a long list of[creative things you can do with ChatGPT that uses the model](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) . However, it already outperforms many large language models in terms of creativity.
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
  For example, if you ask both models to complete a creative task like writing a poem using both English and French on each line of the poem,[ChatGPT powered by the latest GPT-4 model](https://www.makeuseof.com/how-to-use-gpt4/) will deliver better results. While GPT-4's response would use both languages on every line, GPT-3.5 would alternate between both languages instead, with each line using one language and the next using the other.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. GPT-4 vs. GPT-3.5: Image or Visual Inputs
@@ -57,7 +57,7 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 ![Image of Shield Representing Cybersecurity ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/behavior-based-safety-tips-featured-image.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While GPT-4 is not perfect, the measures it adopts to ensure safer responses are a welcomed upgrade from that of the GPT-3.5 model. With GPT-3.5, OpenAI took a more moderation-based approach to safety. In other words, some of the safety measures were more of an afterthought. OpenAI monitored what users did and the questions they asked, identified flaws, and tried to fix them on the go.
@@ -75,12 +75,16 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
  In GPT-4, hallucination is still a problem. However, according to the GPT-4 technical report, the new model is 19% to 29% less likely to hallucinate when compared to the GPT-3.5 model. But this isn't just about the technical report. Responses from the GPT-4 model on ChatGPT are noticeably more factual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
 
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A less talked about difference between GPT-4 and GPT-3.5 is the context window and context size. A context window is how much data a model can retain in its "memory" during a chat session and for how long. GPT-4 has a significantly better context size and window than its predecessor model.
 
@@ -89,10 +93,6 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
  An issue with GPT-3.5 is the propensity of the model to go off-topic or fail to follow instructions as you progress during the course of a conversation. You could, for instance, tell the model to address you by your name, and it would do so for a while but then fail to follow the instructions along the way. Although this problem still exists with the GPT-4 model, it is less of an issue because of a better context window.
 
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## GPT-4: A Step Up from GPT-3.5
 
@@ -113,22 +113,20 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-craft-a-chic-google-collage-in-minutes-not-hours/"><u>2024 Approved Craft a Chic Google Collage in Minutes, Not Hours</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-discovering-the-best-10-online-tools-for-vimeo-videos/"><u>2024 Approved Discovering the Best 10 Online Tools for Vimeo Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-key-steps-for-applying-fades-in-digital-audio-editing/"><u>2024 Approved Key Steps for Applying Fades in Digital Audio Editing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-android-a-step-by-step-approach-to-sound-customization/"><u>2024 Approved Navigating Android A Step-by-Step Approach to Sound Customization</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/desired-upgrades-for-chatgpt-plugin-marketplace-a-user-centric-perspective/"><u>Desired Upgrades for ChatGPT Plugin Marketplace: A User-Centric Perspective</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-leading-7-spaceships-selling-ai-generated-content/"><u>Discover the Leading 7 Spaceships Selling AI Generated Content</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-installation-of-auto-gpt-for-ubuntu-enthusiasts-a-complete-guide/"><u>Effortless Installation of Auto-GPT for Ubuntu Enthusiasts - A Complete Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expanding-supported-encoder-catalogs/"><u>Expanding Supported Encoder Catalogs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-one-language-to-another-utilizing-chatgpt-effectively/"><u>From One Language to Another: Utilizing ChatGPT Effectively</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gptbot-explained-an-overview-of-the-cutting-edge-technology-and-its-online-barriers/"><u>GPTBot Explained - An Overview of the Cutting-Edge Technology and Its Online Barriers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guarding-against-imitations-of-chatgpt-apps/"><u>Guarding Against Imitations of ChatGPT Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-do-shared-links-in-chatgpt-enhance-user-interaction-unveiling-the-process/"><u>How Do Shared Links in ChatGPT Enhance User Interaction? Unveiling The Process</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-fact-check-health-information-from-chatgpt-and-ai-sources/"><u>How to Fact-Check Health Information From ChatGPT and AI Sources</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/mejora-tu-navegacion-en-windows-10-con-tacticas-de-optimizacion-efectivas/"><u>Mejora Tu Navegación en Windows 10 Con Tácticas De Optimización Efectivas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-phishing-detection-with-smartfilter-in-windows/"><u>Optimize Phishing Detection with SmartFilter in Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-the-art-of-live-view-in-google-maps/"><u>Ultimate Guide: Mastering the Art of Live View in Google Maps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/etting-the-most-out-of-live-sports-on-youtube-tv/"><u>[New] Getting the Most Out of Live Sports on YouTube TV</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-how-to-live-stream-on-twitter-for-2024/"><u>[Updated] How to Live Stream on Twitter for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-adding-value-to-visuals-implementing-watermarks-in-instagram/"><u>[Updated] In 2024, Adding Value to Visuals Implementing Watermarks in Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bluetooth-sync-how-to-connect-several-speakers-with-one-source/"><u>Bluetooth Sync: How to Connect Several Speakers with One Source</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-insert-a-vimeo-video-into-powerpoint-for-2024/"><u>How to Insert a Vimeo Video Into PowerPoint for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-to-make-facebook-video-ads-in-an-creative-way-in-2024/"><u>How to Make Facebook Video Ads in An Creative Way, In 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-power-of-gpt-3-on-openais-interactive-platform/"><u>Navigating the Power of GPT-3 on OpenAI's Interactive Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-edge-computing-with-on-device-ai-a-comprehensive-guide/"><u>Navigating the World of Edge Computing with On-Device AI: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protect-yourself-from-cyber-risks-is-google-bard-an-unsafe-download/"><u>Protect Yourself From Cyber Risks: Is Google Bard an Unsafe Download?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/relying-on-chatgpt-a-lifeline-or-a-misguidance-in-the-great-outdoors/"><u>Relying on ChatGPT: A Lifeline or a Misguidance in the Great Outdoors?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionary-dialogue-engine-anticipated-traits-of-gpt-5/"><u>Revolutionary Dialogue Engine: Anticipated Traits of GPT-5</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/secure-chats-unveiled-explore-the-possibptions-of-duckduckgos-ai-for-private-discussions-with-chatgpt-and-others/"><u>Secure Chats Unveiled: Explore the Possibptions of DuckDuckGo's AI for Private Discussions With ChatGPT and Others</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-setting-up-gotoaddons-for-kodi-your-premier-one-stop-entertainment-hub/"><u>Step-by-Step Tutorial: Setting Up GoTo_Addons for Kodi, Your Premier One-Stop Entertainment Hub</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-mysterious-usb-device-failures-learn-the-fixes-here/"><u>Troubleshoot and Resolve Mysterious USB Device Failures - Learn the Fixes Here</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unlocking-the-full-potential-of-morphvox-alchemy/"><u>Unlocking the Full Potential of MorphVOX Alchemy</u></a></li>
 </ul></div>
 
