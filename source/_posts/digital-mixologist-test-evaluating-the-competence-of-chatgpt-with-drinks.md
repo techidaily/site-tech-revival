@@ -1,7 +1,7 @@
 ---
 title: "Digital Mixologist Test: Evaluating the Competence of ChatGPT with Drinks"
-date: 2024-11-26T18:27:35.395Z
-updated: 2024-11-29T16:18:14.322Z
+date: 2024-12-06T16:23:35.497Z
+updated: 2024-12-08T16:41:55.290Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -107,24 +107,18 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-mac-screenshot-format-reconfiguration-guide-for-2024/"><u>[New] Mac Screenshot Format Reconfiguration Guide for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-redefine-your-digital-world-with-latest-windows-10-gaming-and-apps/"><u>[New] Redefine Your Digital World with Latest Windows 10 Gaming & Apps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2023s-best-cam-recorders-a-curated-selection-of-18-for-2024/"><u>2023'S Best Cam Recorders A Curated Selection of 18 for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-screenshot-expertise-checker/"><u>2024 Approved ScreenShot Expertise Checker</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-gt-5-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme GT 5 Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/elite-road-warriors-game-list-for-2024/"><u>Elite Road Warriors' Game List for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-guide-for-cost-free-live-broadcast-on-smartphones/"><u>Essential Guide for Cost-Free Live Broadcast on Smartphones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-build-a-custom-chatgpt-with-your-own-data/"><u>How to Build a Custom ChatGPT With Your Own Data</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-enhance-your-document-interaction-with-these-6-powerful-chatgpt-inspired-pdf-tools/"><u>How to Enhance Your Document Interaction with These 6 Powerful ChatGPT-Inspired PDF Tools</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-samsung-galaxy-s23-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Samsung Galaxy S23 Ultra Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2003-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2003 document with Digital Signature - (Tutorial)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-approaches-for-combining-chatgpt-with-your-google-drive-files/"><u>Innovative Approaches for Combining ChatGPT with Your Google Drive Files</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-claude-ai-superior-to-chatgpt-analyzing-top-tier-artificial-intelligence-conversationalists/"><u>Is Claude AI Superior to ChatGPT? Analyzing Top-Tier Artificial Intelligence Conversationalists</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/linguistic-boundaries-gpts-processing-edge/"><u>Linguistic Boundaries: GPT's Processing Edge</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/making-the-right-call-with-local-language-model-choices/"><u>Making the Right Call with Local Language Model Choices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-the-internet-realm-perplexity-ai-the-premiere-tool-for-supercharged-google-queries/"><u>Master the Internet Realm: Perplexity AI, the Premiere Tool for Supercharged Google Queries</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-adding-chatgpt-extensions-the-ultimate-enrollment-tutorial/"><u>Mastering the Art of Adding ChatGPT Extensions – The Ultimate Enrollment Tutorial</u></a></li>
-<li><a href="https://extra-support.techidaily.com/maximizing-impact-with-reddit-essential-tips-revealed-for-2024/"><u>Maximizing Impact with Reddit - Essential Tips Revealed for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-productivity-leverage-chatgpt-for-effective-time-control-methods/"><u>Maximizing Productivity: Leverage ChatGPT for Effective Time Control Methods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-champion-complimentary-timer-tech/"><u>[New] Champion Complimentary Timer Tech</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-lens-based-enlightenment-guide-to-editing-brilliance/"><u>[New] Lens-Based Enlightenment Guide to Editing Brilliance</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-direct-from-twitter-posting-engaging-video-content-on-snapchat/"><u>[Updated] In 2024, Direct From Twitter Posting Engaging Video Content on Snapchat</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-singing-siblings-shine-on-tiktok/"><u>[Updated] In 2024, Singing Siblings Shine on TikTok</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-comprehensive-tutorial-on-activating-and-deactivating-windows-1ns-secure-login-setting/"><u>A Comprehensive Tutorial on Activating and Deactivating Windows 1N's Secure Login Setting</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bargain-bin-alert-score-the-apple-macbook-air-with-m2-chip-for-just-749-on-amazons-october-prime-day-tech-news/"><u>Bargain Bin Alert! Score the Apple MacBook Air with M2 Chip for Just $749 on Amazon's October Prime Day - Tech News.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bringing-the-mac-magic-to-pcs-objectdocks-new-life-ushers-in-unprecedented-functionality-for-windows-11-users/"><u>Bringing the Mac Magic to PCs: ObjectDock's New Life Ushers in Unprecedented Functionality for Windows 11 Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-tutorial-how-to-share-and-save-apple-notes-across-devices/"><u>Complete Tutorial: How to Share and Save Apple Notes Across Devices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-smooth-performance-logitech-mouse-drivers-for-windows-users/"><u>Ensure Smooth Performance: Logitech Mouse Drivers for Windows Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-gpu-acceleration-on-your-pc-a-guide-to-optimizing-windows-10-and-11/"><u>Unlocking GPU Acceleration on Your PC: A Guide to Optimizing Windows 10 & 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-concealed-data-a-comprehensive-guide-to-revealing-and-locating-hidden-files-on-your-mac/"><u>Unveiling Concealed Data: A Comprehensive Guide to Revealing and Locating Hidden Files on Your Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/upcoming-windows-11-end-of-life-in-one-year-what-can-you-do-now/"><u>Upcoming Windows 11 End of Life in One Year: What Can You Do Now?</u></a></li>
 </ul></div>
 

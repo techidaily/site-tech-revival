@@ -1,7 +1,7 @@
 ---
 title: "Key Considerations: Choosing ChatGPT Wisely for Psychological Support"
-date: 2024-11-26T04:55:39.805Z
-updated: 2024-11-29T22:36:28.832Z
+date: 2024-12-07T16:44:00.413Z
+updated: 2024-12-08T16:21:30.403Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is a Vector Database?
@@ -38,33 +38,25 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
  Vector databases are services that can easily be integrated with a pre-trained model, many of which will need an[API key to access the service](https://www.makeuseof.com/chatgpt-api-complete-guide/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are Vector Embeddings
 
  In simple terms, vector embeddings, or simply embeddings, are numerical representations of a subject or a word. For example, a two-dimensional embedding might look like "2, -3", where 2 represents two units in the positive direction along the x-axis, while -3 represents a negative three units along the y-axis. While a three-dimensional embedding would look like "2, -3, 5", where five places the data point 5 units in the positive direction of the z-axis.
 
 ![Two and three dimensional vectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/dimensional-vector.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
 
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Are Vector Embeddings Important?
 
  Having the ability to plot the location of data in mathematical space allows computers to understand the relationship between data points and how strongly correlated they are to each other. By knowing the degree of correlation between each data point, an AI model will have the capability to understand queries in a contextual manner like a human would.
 
  Without understanding semantics or context, an AI may provide logically correct but contextually wrong answers. For example, the AI may misinterpret the phrase "He had a heavy heart as he walked away" as a guy with a heart condition instead of a guy feeling sad or burdened.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Vector Databases Help Boost AI
 
@@ -78,18 +70,26 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 * **Anomaly Detection:** By recording actions as embeddings, an[AI model can make the world more secure](https://www.makeuseof.com/ai-cybersecurity-making-world-more-secure/) by detecting anomalies and certain outliers based on the norm. AI Anomaly detection is now a popular tool for fraud detection, system monitoring, and network intrusion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How a Vector Database Works
 
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
 
 1. **Creation of vector embeddings:** Based on the type of data, a vector embedding model is used to generate vector embeddings to be indexed. These embedding models are what turn words, images, videos, and audio into numbers/embeddings.
 2. **Indexing:** Once vector embeddings have been generated, they can now be stored on a vector database such as Pinecone, Milvus, and Chroma. These vector databases use various algorithms, such as product quantization (PQ) and locality-sensitive hashing (LSH), to index each embedding for quick and efficient storing and retrieval of data.
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Popular Vector Databases
 
@@ -121,22 +121,24 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-top-10-tips-for-mastering-magix-video-pro-x/"><u>[New] 2024 Approved Top 10 Tips for Mastering Magix Video Pro X</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-gamers-guide-to-high-quality-live-recording-for-2024/"><u>[New] Gamers' Guide to High-Quality Live Recording for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-dynamic-timelines-constructing-animated-narratives-in-movie-maker/"><u>[New] In 2024, Dynamic Timelines Constructing Animated Narratives in Movie Maker</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nfographic-spotlight-on-emerging-23-trends/"><u>[New] Infographic Spotlight on Emerging '23 Trends</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-step-by-step-guide-to-viewing-vr-films-and-games-on-ios/"><u>[New] Step-by-Step Guide to Viewing VR Films & Games on IOS</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-guide-to-ios-auditory-pleasures/"><u>2024 Approved The Ultimate Guide to iOS Auditory Pleasures</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-brother-hl-2280dw-printer-drivers-for-windows-11-10-8-and-e/"><u>Download Brother HL-2280DW Printer Drivers for Windows 11, 10, 8 & E</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1154463-9781577316916-el-poder-del-ahora/"><u>El poder del ahora | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamline-document-management-and-collaboration-with-onlyoffices-chatgpt-feature/"><u>Streamline Document Management & Collaboration with ONLYOFFICE's ChatGPT Feature</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamlining-virtual-gatherings-leveraging-chatgpts-power-for-efficient-team-communication/"><u>Streamlining Virtual Gatherings: Leveraging ChatGPT's Power for Efficient Team Communication</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tackling-chatgpts-character-restrictions/"><u>Tackling ChatGPT's Character Restrictions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-art-of-ux-constructing-personas-via-chatgpt-insights/"><u>The Art of UX: Constructing Personas via ChatGPT Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-essential-steps-to-overcome-chatgpt-restrictions/"><u>The Essential Steps to Overcome ChatGPT Restrictions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-evolution-of-dall-e-integrated-editing-tools-surface-with-areas-needing-development/"><u>The Evolution of DALL-E: Integrated Editing Tools Surface with Areas Needing Development</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-five-key-factors-prompting-businesses-to-ban-chatgpt-technology/"><u>The Five Key Factors Prompting Businesses to Ban ChatGPT Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-hidden-dangers-evaluating-the-risk-to-personal-data-with-chatgpt/"><u>The Hidden Dangers: Evaluating the Risk to Personal Data with ChatGPT</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-cutting-large-videos-on-mac-heres-how-to-do-it-quickly-and-effortlessly-for-2024/"><u>Updated Cutting Large Videos on Mac? Heres How to Do It Quickly and Effortlessly for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-high-end-drones-get-yours-now/"><u>[Updated] In 2024, High-End Drones Get Yours Now</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-why-are-recommended-youtube-movies-elusive-on-facebook-for-2024/"><u>[Updated] Why Are Recommended YouTube Movies Elusive on Facebook for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-s18e-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-mac-compatible-video-players-top-5-picks-for-streaming-m4v-content/"><u>Best Mac-Compatible Video Players: Top 5 Picks for Streaming M4V Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-instant-mp3-accelerator-solutions-on-mac-try-them-out-now/"><u>Get Instant MP3 Accelerator Solutions on Mac - Try Them Out Now!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Motorola Phone with Broken Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-eye-catching-podcast-logos-step-by-step-creation/"><u>In 2024, Eye-Catching Podcast Logos Step-by-Step Creation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715859563655-in-2024-leading-12-screen-recorders-no-time-limit/"><u>In 2024, Leading 12 Screen Recorders, No Time Limit!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iphone-1212-pro/"><u>IPhone 12/12 Proに最適!スタート時に必見のフリーミュージックアプリリスト</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-macos-tools-for-quick-and-safe-removal-of-drm-from-protected-tracks/"><u>Leading macOS Tools for Quick and Safe Removal of DRM From Protected Tracks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macos-screen-recording-tutorial-capture-your-iphones-activity-with-ease/"><u>MacOS Screen Recording Tutorial: Capture Your iPhone's Activity with Ease</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/preserve-your-legacy-transforming-older-images-into-modern-videos-for-2024/"><u>Preserve Your Legacy Transforming Older Images Into Modern Videos for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/should-you-upgrade-to-the-iphone-15-pro-max-or-stick-with-the-galaxy-s23-ultra/"><u>Should You Upgrade to the iPhone 15 Pro Max or Stick with the Galaxy S23 Ultra?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/swift-solutions-for-recording-video-talks/"><u>Swift Solutions for Recording Video Talks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-no-cost-tools-for-effortless-fps-adjustment-in-macos-and-windows/"><u>Top 5 No-Cost Tools for Effortless FPS Adjustment in macOS & Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-handbrake-effective-ways-to-resolve-invalid-source-problems/"><u>Troubleshooting Handbrake: Effective Ways to Resolve Invalid Source Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-selection-of-exercise-dvds-for-optimal-physique-and-health/"><u>Ultimate Selection of Exercise DVDs for Optimal Physique and Health</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy S24 | Dr.fone</u></a></li>
 </ul></div>
 

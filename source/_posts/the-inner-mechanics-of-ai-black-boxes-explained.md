@@ -1,7 +1,7 @@
 ---
 title: The Inner Mechanics of AI Black Boxes Explained
-date: 2024-11-26T22:51:15.554Z
-updated: 2024-11-29T19:16:45.440Z
+date: 2024-12-07T16:46:37.172Z
+updated: 2024-12-08T16:09:43.356Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Murder Mystery Mayhem](https://www.makeuseof.com/best-chatgpt-games-to-play/#murder-mystery-mayhem)
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
@@ -51,10 +55,6 @@ Close
 
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2.[Oregon Trail](https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail)
 
  Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not_the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
@@ -65,10 +65,6 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -78,7 +74,7 @@ Close
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
@@ -88,6 +84,10 @@ Close
  When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the[Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0) , which is a custom AI art tool that will create your "cartridge."
 
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
 
@@ -100,7 +100,7 @@ Close
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
@@ -144,22 +144,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elite-audio-modifying-tools-tailored-to-youtube-creators/"><u>[Updated] 2024 Approved Elite Audio Modifying Tools Tailored to YouTube Creators</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/adapt-and-conquer-6-proven-techniques-for-flourishing-in-an-age-of-artificial-intelligence-at-work/"><u>Adapt & Conquer: 6 Proven Techniques for Flourishing in an Age of Artificial Intelligence at Work</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-driven-versification-how-to-compose-captivating-poems-using-chatgpt/"><u>AI-Driven Versification: How to Compose Captivating Poems Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-driven-workflow-dynamics-for-devs/"><u>AI-Driven Workflow Dynamics for Devs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-explained-the-key-factors-distinguishing-strong-from-weak-ai/"><u>Artificial Intelligence Explained: The Key Factors Distinguishing Strong From Weak AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-ai-surpass-newspaper-horoscopes-in-predicting-what-lies-ahead-for-you/"><u>Can AI Surpass Newspaper Horoscopes in Predicting What Lies Ahead for You?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/challenge-yourself-with-chatgpts-hottest-gaming-delights/"><u>Challenge Yourself with ChatGPT’s Hottest Gaming Delights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-as-a-study-buddy-5-practical-applications-for-school-goers/"><u>ChatGPT as a Study Buddy: 5 Practical Applications for School-Goers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-can-it-generate-trustworthy-and-efficient-fitness-regimes-tailored-for-you/"><u>ChatGPT: Can It Generate Trustworthy and Efficient Fitness Regimes Tailored For You?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/copilot-for-cost-free-comprehensively-conquered-by-gpt-4/"><u>Copilot for Cost-Free, Comprehensively Conquered by GPT-4</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-cutting-edge-geforce-rtx-3080-ti-drivers-compatible-with-windows-1087/"><u>Download Cutting-Edge GeForce RTX 3080 Ti Drivers Compatible with Windows 10/8/7</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-nokia-c02-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Nokia C02 Phones? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-magic-5-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Honor Magic 5 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/journey-through-soundscapes-value-in-paww-wavesound-3-gear/"><u>Journey Through Soundscapes: Value in Paww Wavesound 3 Gear</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-dx11-and-wwe-2k-battlegrounds-level-100-functionality-glitches/"><u>Overcoming DX11 and WWE 2K: Battlegrounds Level 10.0 Functionality Glitches</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/reel-revolution-enjoying-twitter-videos-at-ultimate-quality-for-2024/"><u>Reel Revolution Enjoying Twitter Videos at Ultimate Quality for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tracking-down-the-intel-hardware-driver-installer/"><u>Tracking Down the Intel Hardware Driver Installer</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-top-5-chrome-plug-ins-for-effortless-facebook-video-downloads/"><u>[New] Top 5 Chrome Plug-Ins for Effortless Facebook Video Downloads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/amplifying-obs-visual-appeal-with-free-high-quality-luts-for-2024/"><u>Amplifying OBS Visual Appeal with Free, High-Quality LUTs for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-artificnial-intelligence-assistants-deciding-between-microsofts-bing-chat-or-googles-chatgpt/"><u>Best Artificnial Intelligence Assistants? Deciding Between Microsoft's Bing Chat or Google's ChatGPT.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-of-the-bots-which-ai-delivers-on-a-unique-challenge/"><u>Best of the Bots: Which AI Delivers on a Unique Challenge?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-toolkit-crafting-efficient-web-apps-from-scratch/"><u>ChatGPT as Your Toolkit: Crafting Efficient Web Apps From Scratch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connect-any-device-to-your-icloud-gallery-mastering-cross-platform-sharing/"><u>Connect Any Device to Your iCloud Gallery – Mastering Cross-Platform Sharing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy M14 5G?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-how-to-spot-and-attract-premium-videographers/"><u>In 2024, How to Spot and Attract Premium Videographers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-10-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark 10 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/maximum-frame-quality-for-slow-motion-videos-for-2024/"><u>Maximum Frame Quality for Slow Motion Videos for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protecting-art-from-ai-utilizing-nightshades-as-a-preventive-measure/"><u>Protecting Art From AI: Utilizing Nightshades as a Preventive Measure</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/subscriberlull-when-will-gpt-converse-again/"><u>SubscriberLull: When Will GPT Converse Again?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-power-and-potential-of-claude-2/"><u>The Power and Potential of Claude 2</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-y56-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo Y56 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/when-chatbots-betray-you-the-threats-of-neural-network-reverse-engineering-attacks/"><u>When Chatbots Betray You: The Threats of Neural Network Reverse Engineering Attacks</u></a></li>
 </ul></div>
 

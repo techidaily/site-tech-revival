@@ -1,7 +1,7 @@
 ---
 title: "The End of an Era: Why Modern ChatGPT Jailbreaks Fail - Insights and Analysis"
-date: 2024-11-29T03:32:17.094Z
-updated: 2024-11-29T18:15:33.911Z
+date: 2024-12-05T16:39:55.831Z
+updated: 2024-12-08T16:30:29.158Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -63,16 +63,20 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-audiovisual-harmony-adding-sounds-to-instagram-clips-for-2024/"><u>[New] Audiovisual Harmony Adding Sounds to Instagram Clips for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-coding-experience-10-chatgpt-vs-code-combos/"><u>Enhancing Coding Experience: 10 ChatGPT VS Code Combos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-domestic-life-using-chatgpt-tools/"><u>Enhancing Domestic Life Using ChatGPT Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-trustworthiness-in-ai-does-chatgpt-speak-truthfully/"><u>Evaluating Trustworthiness in AI: Does ChatGPT Speak Truthfully?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exclusive-realms-for-artificial-intelligence-prompt-sharing/"><u>Exclusive Realms for Artificial Intelligence Prompt Sharing</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-trendsetting-visualizations-for-the-year-ahead/"><u>In 2024, Trendsetting Visualizations for the Year Ahead</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/latest-ipad-generation-whats-new-in-apples-tablet-lineup/"><u>Latest iPad Generation: What's New in Apple's Tablet Lineup</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211412901-9783892016083-mi-vida-que-yo-mismo-elegi/"><u>Mi vida que yo mismo elegí | Free Book</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/wav-in-movien-kostenloos-online-verwerpen-met-movavi-gratis-digitale-movie-conversion-voorprofessionals/"><u>WAV in Movien Kostenloos Online Verwerpen Met Movavi - Gratis Digitale Movie Conversion Voorprofessionals</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crack-the-code-unearthing-hidden-gems-in-youtubes-archive/"><u>[New] 2024 Approved Crack the Code Unearthing Hidden Gems in YouTube's Archive</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/1728507376844-windows-11-3/"><u>如何在升级到 Windows 11 时保护数据：3 个有效的方法</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/aac-to-wav-conversion-en-online-gratis-movavi/"><u>AAC to WAV Conversion en Online Gratis - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ais-comedy-chronicles-testing-if-machines-can-spark-laughter/"><u>AI's Comedy Chronicles: Testing if Machines Can Spark Laughter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-tombstones-decoding-messages-from-the-other-side-in-our-digital-conversations/"><u>Beyond Tombstones: Decoding Messages From the Other Side in Our Digital Conversations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-get-fired-for-using-chatgpt-analyzing-10-possible-scenarios/"><u>Can You Get Fired for Using ChatGPT? Analyzing 10 Possible Scenarios</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/convenient-curvature-creation-techniques-in-pixels-for-2024/"><u>Convenient Curvature Creation Techniques in Pixels for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620231712-explore-and-capture-in-style-ranking-the-5-superior-gopro-cameras-on-the-market/"><u>Explore & Capture in Style: Ranking the 5 Superior GoPro Cameras on the Market!</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-increased-speed-in-nitro-noticeable/"><u>Is Increased Speed in Nitro Noticeable?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-chapter-openais-advanced-ai-model-gpt-4/"><u>Next Chapter: OpenAI's Advanced AI Model GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-resolution-steps-handling-chatgpt-maxed-out-alerts-on-windows-systems/"><u>Quick Resolution Steps: Handling ChatGPT Maxed-Out Alerts on Windows Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-myth-of-vanished-iphone-pictures-learn-these-8-recovery-tactics/"><u>The Myth of Vanished iPhone Pictures - Learn These 8 Recovery Tactics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-artificeus-unveiling-the-perils-of-advanced-intelligence/"><u>Understanding Artificeus: Unveiling the Perils of Advanced Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-impact-of-artificial-intelligence-chatbot-moderation-on-users/"><u>Understanding the Impact of Artificial Intelligence Chatbot Moderation on Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Magazine Horoscopes or ChatGPT Predictions – Can Tech Outshine Tradition?
-date: 2024-11-28T04:10:27.264Z
-updated: 2024-11-30T01:59:13.954Z
+date: 2024-12-03T16:13:43.633Z
+updated: 2024-12-08T16:14:21.674Z
 tags:
   - chatgpt
   - open-ai
@@ -44,16 +44,12 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
 ![ChatGPT Generated a 200-Word Article on Cats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-on-cats.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, compare it with the below photo. You’ll notice that the response follows the exact template, although this one talks about dogs.
 
 ![ChatGPT Generated a 200-Word Article on Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-about-dogs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Overdependence on AI Makes You a Lazy Researcher
@@ -64,21 +60,17 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
  Before writing, make sure you study your subject. Extensive research is the core of every well-written piece—spend at least 30 to 60 minutes reading online sources. You can provide value by comparing resources, laying down verified facts, and asserting well-founded conclusions. Simply paraphrasing what chatbots say is senseless.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. AI Scrapes Commonly Published Information
 
 ![Copy.ai Generates an Article on Taking Care of Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-on-dogs.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  AI avoids inaccuracies by generating generic responses. Take the above piece as an example. When we asked an AI writing tool to talk about dog care, it focused on super-common tips, which readers have likely seen multiple times. The below photo also shows that its insights came from an unreliable source.
 
 ![Copy.ai Lists Down Article Sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-sources.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Generic pieces rarely gain traffic. To attract readers and score higher SERP rankings, write original articles that are exclusive to your site. Stop rewriting stuff that everyone already knows.
 
@@ -94,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
 ![ChatGPT Generates Dog Articles in Different Tones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-dog-articles-examples.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  AI writing tools and chatbots can structure responses in certain ways. For instance, the above photo shows that ChatGPT could form professional and casual variations of the same topic. Generally, if you insert specific keywords into your prompts, you’ll trigger detailed changes.
 
  Despite their advancements in mimicking human-like text, chatbots and writing tools still have limitations. They can’t wholly replicate tone. AI follows predetermined, formulaic templates, even when instructed to adopt a specific tone.
@@ -108,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
  If you want top-ranking pages, focus on providing value. Haphazardly instructing writing tools and chatbots to stuff keywords into lengthy, generic blogs yields negligible results. Search engines might even qualify your site as spam.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Many Premium Plagiarism Checkers Flag AI-Generated Pieces
 
 ![Plagiarism Checker Results of AI-Generated Text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/plagiarism-checker-results.jpg)
@@ -119,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
  Writers have differing opinions about the morality of publishing AI content and plagiarism, but as a respectable professional, you should do your own research. Never risk plagiarizing content. Study the topics for yourself, draw logical conclusions, then convey them in your own words.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use AI Chatbots Responsibly
@@ -143,16 +143,18 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-explore-the-best-free-online-video-capture-platforms/"><u>[New] Explore the Best Free Online Video Capture Platforms</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-memorable-narratives-in-book-videos/"><u>2024 Approved Memorable Narratives in Book Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-job-application-with-chatgpt-powered-resumes-expert-tips-and-tricks/"><u>Boost Your Job Application with ChatGPT-Powered Resumes: Expert Tips & Tricks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-auto-gpt-stand-alone-without-relying-on-gpt-narratives/"><u>Can Auto-GPT Stand Alone Without Relying on GPT-Narratives?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chaos-in-communication-why-hackers-love-gpt/"><u>Chaos in Communication: Why Hackers Love GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-for-images-discover-8-unique-ways-to-enhance-visual-communication/"><u>ChatGPT for Images: Discover 8 Unique Ways to Enhance Visual Communication</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-between-google-bard-and-bing-chat-which-cutting-edge-bot-reigns-supreme/"><u>Choosing Between Google Bard and Bing Chat: Which Cutting-Edge Bot Reigns Supreme?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/crafting-compelling-docu-scripts-a-step-by-step-guide/"><u>Crafting Compelling Docu-Scripts A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/effortless-guide-convert-your-dvds-into-avi-format-on-mac/"><u>Effortless Guide: Convert Your DVDs Into AVI Format on Mac</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-x-flip-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/protect-your-iphone-how-safe-are-in-car-chargers-expert-reviews-and-findings-from-zdnets-comprehensive-tests/"><u>Protect Your iPhone: How Safe Are In-Car Chargers? Expert Reviews & Findings From ZDNet's Comprehensive Tests</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-a-compreranly-approach-to-high-quality-ps3-video-capture/"><u>2024 Approved A Compreranly Approach to High-Quality PS3 Video Capture</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/authenticity-audit-filtering-out-pretend-facebook-fans/"><u>Authenticity Audit Filtering Out Pretend Facebook Fans</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comment-installer-et-utiliser-correctement-le-logiciel-winxdvd-une-guidance-etape-par-etape/"><u>Comment Installer Et Utiliser Correctement Le Logiciel WinXDVD : Une Guidance Étape Par Étape</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/connect-with-ease-the-ultimate-guide-to-contacting-digiatry/"><u>Connect with Ease: The Ultimate Guide to Contacting Digiatry</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gli-strumenti-e-le-tecniche-piu-efficace-per-ridurre-al-minimo-le-dimensioni-dei-file-mov-i-segreti-per-lefficienza/"><u>Gli Strumenti E Le Tecniche Più Efficace per Ridurre Al Minimo Le Dimensioni Dei File MOV – I Segreti Per L'Efficienza</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-bard-the-next-challenger-to-dominant-chatgpt/"><u>Google's 'Bard': The Next Challenger to Dominant ChatGPT</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-on-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How to Screen Share on Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-diverse-technology-scrutiny-easeus-edition/"><u>In 2024, Diverse Technology Scrutiny EaseUS Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/kann-man-mit-handbrake-av1-videos-kodieren/"><u>Kann Man Mit HandBrake AV1-Videos Kodieren?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/les-10-meilleurs-outils-avances-pour-lamelioration-video-ia-sans-cout-compatible-windows-et-mac/"><u>Les 10 Meilleurs Outils Avancés Pour L'Amélioration Vidéo IA Sans Coût, Compatible Windows Et Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-transition-step-by-step-tutorial-for-digitizing-dvds-on-windows-mac-os-and-smartphones/"><u>Seamless Transition: Step-by-Step Tutorial for Digitizing DVDs on Windows, Mac OS, and Smartphones</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-the-hottest-meme-accounts-for-emotional-rollerscoasters-for-2024/"><u>The Ultimate Guide The Hottest Meme Accounts for Emotional Rollerscoasters for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-pitfalls-in-utilizing-chatgpt-for-crafting-engaging-content/"><u>Top 4 Pitfalls in Utilizing ChatGPT for Crafting Engaging Content</u></a></li>
 </ul></div>
 

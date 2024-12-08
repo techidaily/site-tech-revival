@@ -1,7 +1,7 @@
 ---
 title: "PaLM 2 Vs. GPT-4: Unveiling Key Differences"
-date: 2024-11-23T19:12:40.837Z
-updated: 2024-11-30T08:01:49.439Z
+date: 2024-12-05T16:33:47.011Z
+updated: 2024-12-08T16:58:01.998Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Siri vs. ChatGPT: How Are They Different?
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 ![Using Siri on an iPhone on a white table.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/siri-on-iphone-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You may think ChatGPT is your one-stop shop for anything and everything you need, but there's one major setback you may not be aware of. ChatGPT has absolutely no real-time access to current events, and its knowledge is limited to data from September 2021 and older. So, you will not receive an answer if you try to ask for any sort of update.
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
  For example, if you try to ask the chatbot to tell you today's weather or the date of Queen Elizabeth's death, it will tell you it does not have access to current weather conditions and that Queen Elizabeth is still alive according to its knowledge. Live events and breaking news are also no-shows for ChatGPT.
 
  Siri, on the other hand, can give you real-time updates on the weather and other things like the stock market, and its database is updated regularly, so it does not have a knowledge cutoff as old as ChatGPT does. Siri will immediately tell you the date Queen Elizabeth passed away and what the weather will be like tomorrow.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Engaging in Conversations
 
@@ -63,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 ### Activation
 
 ![voice recognition homepod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/voice-recognition-homepo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit:[Apple](https://support.apple.com/en-us/HT204753)
 
@@ -86,13 +86,13 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 
  ChatGPT simply does not have the means to integrate with other apps and devices, and it cannot associate itself with any of your smart home devices. It cannot provide you with the current status of any physical object or device, thereby making it useless in this department. Simply put, this is just not the purpose it was built for.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Answering Your Questions
 
 ![A ChatGPT screenshot showing a personalized output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-personalized-responses.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Siri and ChatGPT both hold power to answer your queries, albeit in slightly different ways. Put forth a question for Siri, and it will give you a short and sweet response.
 
@@ -114,15 +114,7 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 
 ![OpenAI profile options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-profile-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
 
@@ -137,17 +129,25 @@ Now:
 
 ![english version of ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/english-version-chatgpt.jpg)
 
-![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)
+
 ![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Now all you have to say is, "Hey Siri, launch ChatGPT 1.2.4," and the chatbot will work. You can also use shortcuts apart from the one listed above, so make sure to pick out the option you find easiest.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Siri vs. ChatGPT: Two Completely Different AI Models
 
@@ -170,16 +170,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-discover-the-lesser-known-page-picks-for-memelings-for-2024/"><u>[Updated] Discover the Lesser-Known Page Picks for Memelings for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-magix-vst-transform-your-home-studio-setup/"><u>2024 Approved Magix VST Transform Your Home Studio Setup</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-mobile-editing-hacks-for-visual-storytelling/"><u>2024 Approved Mobile Editing Hacks for Visual Storytelling</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725286346607-winxvideo-ai/"><u>如何利用Winxvideo AI教學與指南: 進行影片編輯、拍攝和壓縮程序</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generative-toolbelt-ranking-notion-and-gpt-3s-capabilities/"><u>Generative Toolbelt: Ranking Notion and GPT-3's Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpt-4-decoded-a-step-towards-social-verification/"><u>GPT-4 Decoded: A Step Towards Social Verification</u></a></li>
-<li><a href="https://win-help.techidaily.com/gratuitamente-converti-i-file-ogv-in-mp4-online-utilizzo-di-movavi-per-la-conversione-video-facile-e-veloce/"><u>Gratuitamente Converti I File OGV in MP4 Online - Utilizzo Di Movavi per La Conversione Video Facile E Veloce</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-reliable-is-chatgpt-when-it-comes-to-creating-safe-effective-workout-plans-specifically-tailored-to-you/"><u>How Reliable Is ChatGPT When It Comes To Creating Safe, Effective Workout Plans Specifically Tailored To You?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-evaluate-artificial-intelligence-chatbots-top-7-characteristics-for-optimal-service/"><u>How To Evaluate Artificial Intelligence Chatbots: Top 7 Characteristics for Optimal Service</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-xiaomi-redmi-note-12r-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Xiaomi Redmi Note 12R to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcome-system-errors-install-updated-nvidia-drivers/"><u>Overcome System Errors - Install Updated Nvidia Drivers!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-timeless-tale-of-roguelike-and-roguelite/"><u>[Updated] 2024 Approved The Timeless Tale of Roguelike and Roguelite</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unlock-youtube-monetization-with-500-subscribers/"><u>[Updated] Unlock YouTube Monetization with 500 Subscribers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-guiding-principles-for-speech-conversion-in-google-translate/"><u>2024 Approved Guiding Principles for Speech Conversion in Google Translate</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/accelerate-your-4k-video-workflow-mastering-h265-encoding-and-decoding-with-advanced-hardware-techniques/"><u>Accelerate Your 4K Video Workflow: Mastering H.265 Encoding and Decoding with Advanced Hardware Techniques</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/comprehensive-tutorial-successfully-downloading-and-installing-windows-11-arm-version-via-iso-file/"><u>Comprehensive Tutorial: Successfully Downloading & Installing Windows 11 ARM Version via ISO File</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-visuals-saving-and-downloading-on-smartphones/"><u>In 2024, Twitter's Visuals Saving and Downloading on Smartphones</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/pth-video-metrics-at-your-fingertips-social-blade-for-youtube-for-2024/"><u>In-Depth Video Metrics at Your Fingertips Social Blade for YouTube for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-dvd-storage-capacity-write-over-47gb-onto-a-disc-using-windows-1011-a-visual-guide/"><u>Maximizing DVD Storage Capacity: Write over 4.7GB Onto a Disc Using Windows 10/11 - A Visual Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mejore-sus-graficos-de-video-con-la-interpolacion-de-cuadros-mediante-inteligencia-artificial-para-mejorar-los-fps-y-transiciones-sin-esfuerzo/"><u>Mejore Sus Gráficos De Video Con La Interpolación De Cuadros Mediante Inteligencia Artificial Para Mejorar Los FPS Y Transiciones Sin Esfuerzo</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-infinix-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Infinix without backup.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-winxvideo-ai-tutorial-how-to-upgrade-your-gpu-drivers-in-windows/"><u>Ultimate Winxvideo AI Tutorial: How to Upgrade Your GPU Drivers in Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-hp-omnibook-a-leap-beyond-past-models-insider-review-on-zdnet/"><u>Unveiling HP OmniBook: A Leap Beyond Past Models - Insider Review on ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-11dvd-shrink/"><u>Windows 11におけるDVD Shrink利用ガイド: 日本語版ダウンロードと使用手順</u></a></li>
 </ul></div>
 

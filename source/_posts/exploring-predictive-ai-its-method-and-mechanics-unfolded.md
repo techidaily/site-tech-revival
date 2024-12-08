@@ -1,7 +1,7 @@
 ---
 title: "Exploring Predictive AI: Its Method and Mechanics Unfolded"
-date: 2024-11-25T04:41:49.059Z
-updated: 2024-11-29T20:58:54.694Z
+date: 2024-12-05T16:50:15.395Z
+updated: 2024-12-08T16:32:37.753Z
 tags:
   - chatgpt
   - open-ai
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/bef0ee80271c03bca8fa1ceeb9bd487dbcf95a1c3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Potential Risks of Generative AI to Spread Disinformation
@@ -42,13 +42,13 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -60,11 +60,11 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
- Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -78,7 +78,7 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -88,6 +88,10 @@ Here's the fictitious article that ChatGPT came up with:
  Additionally, political adversaries may use deepfake audio and videos to tarnish the reputation of their opponents, manipulating public sentiment with the help of AI. So[AI-generated deepfakes pose numerous threats in the future](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/) . According to a 2023[Reuters report](https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/) , the rise of AI technology could impact America's 2024 elections. The report highlights the accessibility of tools like Midjourney and DALL-E that can easily create fabricated content and influence people's collective opinions.
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
 
@@ -107,10 +111,6 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -133,18 +133,18 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-essential-tips-for-crafting-gifs-for-2024/"><u>[New] Essential Tips for Crafting GIFs for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-podcasts-versus-youtube-finding-your-preferred-outlet/"><u>[Updated] Podcasts Versus YouTube Finding Your Preferred Outlet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ace-your-adventures-with-gopro-tips/"><u>Ace Your Adventures with GoPro Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-the-mechanics-of-chatgpt-shared-links/"><u>Demystifying the Mechanics of ChatGPT Shared Links</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-versatile-powers-of-chatgpt-with-these-8-strategies/"><u>Discover the Versatile Powers of ChatGPT with These 8 Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-storytelling-harnessing-the-power-of-chatgpt/"><u>Elevate Storytelling: Harnessing the Power of ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-dos-and-donts-navigating-generative-ai-effectively-avoiding-common-errors/"><u>Essential Dos and Don'ts: Navigating Generative AI Effectively (Avoiding Common Errors)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-guide-to-engaging-chatgpt-through-top-rated-github-triggers/"><u>Essential Guide to Engaging ChatGPT Through Top-Rated GitHub Triggers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-chatgpt-for-proofreading-tasks/"><u>Evaluating ChatGPT for Proofreading Tasks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Motorola Moto G84 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essential-guide-to-youtube-thumbnail-crafting-mac/"><u>In 2024, The Essential Guide to YouTube Thumbnail Crafting (Mac)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-vacation-budget-secure-significant-deals-on-lodging-transport-and-entertainment-park-tickets-with-our-expert-travel-shopper-club-zdnet/"><u>Maximize Your Vacation Budget: Secure Significant Deals on Lodging, Transport and Entertainment Park Tickets with Our Expert Travel Shopper Club | ZDNET</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/prime-choices-for-budget-conscious-consumers-4k-viewing-for-2024/"><u>Prime Choices for Budget-Conscious Consumers' 4K Viewing for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-firefoxs-best-screenshot-add-ons/"><u>[New] Firefox's Best Screenshot Add-Ons</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-10-gif-recorder-mac/"><u>[New] In 2024, Top 10 Gif Recorder Mac</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-top-5-budget-friendly-pinterest-video-grabs-for-2024/"><u>[Updated] Top 5 Budget-Friendly Pinterest Video Grabs for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tutorial-transforming-photos-into-works-of-art/"><u>2024 Approved Tutorial Transforming Photos Into Works of Art</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/all-in-one-digital-media-toolkit-dvd-to-hd-conversion-online-video-downloads-and-high-quality-dvd-burning/"><u>All-in-One Digital Media Toolkit: DVD to HD Conversion, Online Video Downloads, and High-Quality DVD Burning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dialogic-tools-for-mythmaking-gpts-promise/"><u>Dialogic Tools for Mythmaking: GPT's Promise</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-access-the-ultimate-list-of-top-video-game-music-you-can-download-now/"><u>Free Access - The Ultimate List of Top Video Game Music You Can Download Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/identifying-individuals-who-preserved-your-insta-posts-a-comprehensive-guide/"><u>Identifying Individuals Who Preserved Your Insta Posts: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audio-dimming-the-live-approach/"><u>In 2024, Audio Dimming The Live Approach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-platforms-for-premium-4k-streaming-content-your-definitive-selection-guide/"><u>Leading Platforms for Premium 4K Streaming Content: Your Definitive Selection Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-for-cloning-movies-youve-rented-online-redbox-netflix-and-amazon-methods/"><u>Step-by-Step Tutorial for Cloning Movies You've Rented Online: Redbox, Netflix & Amazon Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-3-leading-tools-for-drm-free-audiobook-conversion-a-comprehensive-guide/"><u>Top 3 Leading Tools for DRM-Free Audiobook Conversion: A Comprehensive Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-from-basic-to-brilliant-advanced-title-techniques-in-fcpx/"><u>Updated 2024 Approved From Basic to Brilliant Advanced Title Techniques in FCPX</u></a></li>
 </ul></div>
 

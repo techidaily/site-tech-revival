@@ -1,7 +1,7 @@
 ---
 title: "Prompt Engineering 101: The Roadmap to Establishing Yourself as an Expert"
-date: 2024-11-22T22:09:08.047Z
-updated: 2024-11-29T19:37:04.655Z
+date: 2024-12-01T16:51:29.040Z
+updated: 2024-12-08T16:09:39.714Z
 tags:
   - chatgpt
   - open-ai
@@ -48,22 +48,22 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-optimal-mp4-to-fb-video-solution/"><u>[New] In 2024, Optimal MP4-to-FB Video Solution</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-next-gen-cinema-a-virtual-leap-forward/"><u>[Updated] Next-Gen Cinema A Virtual Leap Forward</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mac-efficiency-for-academics-audio-record-of-classroom-learning/"><u>2024 Approved Mac Efficiency for Academics Audio Record of Classroom Learning</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210010457-9781591939184-crystal-healing/"><u>Crystal Healing | Free Book</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-download-and-upgrade-of-microsoft-drivers-on-various-windows-versions/"><u>Effortless Download and Upgrade of Microsoft Drivers on Various Windows Versions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-trip-diary-to-hype-inducing-haul-the-editors-playbook-for-2024/"><u>From Trip Diary to Hype-Inducing Haul The Editor's Playbook for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-chatgpt-skyrocketed-unveiling-5-key-reasons-for-its-rapid-rise/"><u>How ChatGPT Skyrocketed: Unveiling 5 Key Reasons for Its Rapid Rise</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-far-can-you-take-your-conversations-with-chatgpt/"><u>How Far Can You Take Your Conversations with ChatGPT?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-microsoft-is-revolutionizing-search-with-ai-integration-in-bing/"><u>How Microsoft Is Revolutionizing Search with AI Integration in Bing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-export-and-share-your-chatgpt-dialogues-using-these-apps/"><u>How to Export and Share Your ChatGPT Dialogues Using These Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-leverage-chatgpt-technology-for-effective-cover-letter-writing/"><u>How to Leverage ChatGPT Technology for Effective Cover Letter Writing</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-y100i-power-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y100i Power 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-the-world-of-hugging-face-discovering-how-it-transforms-ai-research/"><u>Inside the World of Hugging Face: Discovering How It Transforms AI Research</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/integrating-chatgpt-plugins-made-simple/"><u>Integrating ChatGPT Plugins Made Simple</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leading-artificial-intelligence-notetakers-reviewed/"><u>Leading Artificial Intelligence Notetakers Reviewed</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-game-changing-apple-macbook-air-2020-unveiling-the-power-of-the-revolutionary-m1-processor/"><u>The Game-Changing Apple MacBook Air (2020) – Unveiling the Power of the Revolutionary M1 Processor</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-achieve-cinematic-quality-with-ipad-time-lapses/"><u>[Updated] In 2024, Achieve Cinematic Quality with iPad Time-Lapses</u></a></li>
+<li><a href="https://win-superb.techidaily.com/5aac5l2v5b6e5bui5paz566x5lit5ogi5b6p6kkr6zqu6zui55qe5b2x54mhic0g6iez6auy54sh5lik55qe5lplusu5b6p5oqa5ben/"><u>如何從廢料箱中恢復被隔離的影片 - 至高無上的修復技巧</u></a></li>
+<li><a href="https://fox-access.techidaily.com/begin-animation-ease-in-transition/"><u>Begin Animation Ease-In Transition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-earnings-with-side-hustles-like-chatgpt-expert-advice-on-custom-pc-assembly-and-retro-gaming-handhelds/"><u>Boosting Earnings with Side Hustles Like ChatGPT, Expert Advice on Custom PC Assembly & Retro Gaming Handhelds</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-versions-unveiled-browsing-capabilities-vs-plugin-features-which-suits-you-best/"><u>ChatGPT Versions Unveiled: Browsing Capabilities Vs. Plugin Features – Which Suits You Best?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crypto-market-predictions-with-chatgpt-here-are-the-5-drawbacks-you-need-to-know/"><u>Crypto Market Predictions with ChatGPT? Here Are the 5 Drawbacks You Need to Know</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-spelling-mistakes-in-english-the-top-100/"><u>Essential Spelling Mistakes in English: The Top 100</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/phony-botnet-chrome-addon-steals-social-media-passwords/"><u>Phony Botnet Chrome Addon: Steals Social Media Passwords</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solve-your-lenovos-backlit-keyboard-problem-with-these-easy-tips-and-tricks/"><u>Solve Your Lenovo's Backlit Keyboard Problem with These Easy Tips and Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-undoing-sent-emails-in-microsoft-outlook/"><u>Step-by-Step Guide: Undoing Sent Emails in Microsoft Outlook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-era-of-on-the-spot-knowledge-with-chatgpt-and-its-significance-to-society/"><u>The Era of On-the-Spot Knowledge with ChatGPT and Its Significance to Society</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-real-number-of-youtube-views-you-need-to-make-a-living-for-2024/"><u>The Real Number of YouTube Views You Need to Make a Living for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-pick-for-kids-fun-expert-evaluation-of-the-maisto-rc-rock-crawler/"><u>Top Pick for Kid's Fun - Expert Evaluation of the Maisto RC Rock Crawler</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-mundane-human-resources-workflows-using-5-strategic-chatgpt-cues/"><u>Transform Mundane Human Resources Workflows Using 5 Strategic ChatGPT Cues</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/forming-your-spotify-list-into-a-youtube-music-collection/"><u>Transforming Your Spotify List Into a YouTube Music Collection</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-advanced-ai-with-anthropics-claude-3-a-step-by-step-guide-to-their-new-prompt-platform/"><u>Unlocking Advanced AI with Anthropic's Claude 3: A Step-by-Step Guide to Their New Prompt Platform</u></a></li>
 </ul></div>
 

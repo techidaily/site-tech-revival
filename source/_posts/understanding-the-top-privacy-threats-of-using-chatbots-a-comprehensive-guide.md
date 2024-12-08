@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Top Privacy Threats of Using Chatbots: A Comprehensive Guide"
-date: 2024-11-25T02:12:40.382Z
-updated: 2024-11-29T19:25:47.385Z
+date: 2024-12-01T16:01:08.101Z
+updated: 2024-12-08T16:09:40.958Z
 tags:
   - chatgpt
   - open-ai
@@ -23,22 +23,22 @@ thumbnail: https://thmb.techidaily.com/6079315b4a8f6d3d142f95147af6d1bac63be2253
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is TruthGPT?
 
 ![Man Holding Artificial Intelligence Sticky Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  TruthGPT is a proposed AI model aimed at addressing the ills of existing models that powers the likes of ChatGPT and Bard, with particular emphasis on truth and safety. According to Elon Musk, TruthGPT will be a "maximum truth-seeking" AI that understands the nature of the universe and would be unlikely to destroy humanity because it sees humans as a critical component of the universe.
 
 Maximum truth-seeking AI? Understand the nature of the universe?
 
  You'll be forgiven if Musk's description doesn't give you a clear picture of what exactly he's trying to build. However, you'll get a better idea of what he's talking about by looking at why he's trying to build it in the first place.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Is Elon Musk Building TruthGPT?
 
@@ -48,13 +48,13 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
  Elon Musk, who recently authored an open letter calling for a[moratorium on the development of powerful AI](http://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) models (specifically those more powerful than GPT-4), believes AI is moving too fast. He believes we need to slow down and reevaluate our approach to AI safety before AI "takes control." TruthGPT is a large language model (LLM) that promises to address these two core concerns with today's AI systems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Would TruthGPT Look Like?
 
 ![artificial brain doing data analytics ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mou-article-banner.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The first hint into how TruthGPT would look is in the name. Considering the "GPT" appendage, TruthGPT will likely have a similar architecture to ChatGPT. Remember, Elon Musk helped assemble OpenAI and the team that built ChatGPT's GPT model.
 
@@ -65,7 +65,7 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 So, is this idea of a maximum truth-seeking AI even practical?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Building TruthGPT Is a Huge Challenge
@@ -73,7 +73,7 @@ So, is this idea of a maximum truth-seeking AI even practical?
 ![Cogs on a machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pexels-pixabay-159298.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you[understand how large language models like GPT work](http://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) , it becomes clear that it is impractical to be correct at all times. Typically trained on a large dataset of internet data, a lot of it is, predictably, going to be false information, and LLM's have no inert way of telling fact from fiction.
@@ -105,19 +105,24 @@ So, is this idea of a maximum truth-seeking AI even practical?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/reating-high-impact-yt-cover-images/"><u>[New] Creating High-Impact YT Cover Images</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-simplified-pathway-facebook-vids-to-mp4-720p-and-1080p-hd-free/"><u>[New] Simplified Pathway Facebook Vids to MP4, 720P & 1080P HD Free</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-discover-the-epic-android-video-editor-apps/"><u>[Updated] 2024 Approved Discover the Epic Android Video Editor Apps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-understanding-the-invisible-aspects-of-stories/"><u>[Updated] Understanding the Invisible Aspects of Stories</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-pewdiepies-paycheck-profile-a-glimpse-into-his-earnings/"><u>2024 Approved PewDiePie’s Paycheck Profile – A Glimpse Into His Earnings</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-xiaomi-14-ultra-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Xiaomi 14 Ultra to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-mobile-communication-activate-bings-ai-conversations-on-your-android-device/"><u>Mastering Mobile Communication: Activate Bing's AI Conversations on Your Android Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mercedes-benz-vehicles-get-smarter-with-ai-assistant-chatgpt-and-voice-navigation/"><u>Mercedes-Benz Vehicles Get Smarter with AI Assistant ChatGPT and Voice Navigation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/my-ai-snapchat-vs-chatgpt-which-is-better-for-your-interactive-experience/"><u>My AI (Snapchat) Vs. ChatGPT - Which Is Better For Your Interactive Experience?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-realm-of-localized-machine-intellect-an-analysis-of-its-functionality/"><u>Navigating the Realm of Localized Machine Intellect: An Analysis of Its Functionality</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimal-steadicam-devices-for-professional-drone-cinematography-for-2024/"><u>Optimal Steadicam Devices for Professional Drone Cinematography for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-spreadsheet-phobia-a-step-by-step-guide-to-leveraging-chatgpt-in-excel/"><u>Overcoming Spreadsheet Phobia: A Step-by-Step Guide to Leveraging ChatGPT in Excel</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/perfected-techniques-for-high-quality-webp-to-jpg-conversion/"><u>Perfected Techniques for High-Quality WebP to JPG Conversion</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/smartwatch-evolution-how-chatgpt-is-shaping-the-future-with-6-cutting-edge-applications/"><u>Smartwatch Evolution: How ChatGPT Is Shaping the Future with 6 Cutting-Edge Applications</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-charting-new-heights-with-popular-youtube-content/"><u>[Updated] Charting New Heights with Popular YouTube Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-personalize-your-screen-time-with-these-top-6-creator-identifying-questions/"><u>[Updated] Personalize Your Screen Time with These Top 6 Creator-Identifying Questions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/44cm44ot44oh44kq5yaf5a6544gu6zplusz5aow5ps55zae5pa55rov44ks5a2m44g2ic0g44ki44oj44oq44kk44k544ks44kk44oj44cn/"><u>「ビデオ内容の音声改善方法を学ぶ - アドバイスガイド」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showdown-determining-the-leading-ai-chatbot-among-chatgpt-microsofts-bing-brain-and-google-bard/"><u>AI Showdown: Determining the Leading AI Chatbot Among ChatGPT, Microsoft's Bing Brain & Google Bard</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-knowledge-sharing-broad-impact/"><u>ChatGPT Knowledge Sharing: Broad Impact</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-revamping-your-network-with-updated-broadcom-drivers-on-windows-10-issues-fixed/"><u>Comprehensive Guide: Revamping Your Network with Updated Broadcom Drivers on Windows 10 (Issues Fixed)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/vering-potential-youtubes-role-in-modern-education-strategies/"><u>Discovering Potential YouTube's Role in Modern Education Strategies</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/enhance-online-insights-with-the-advanced-features-of-cookiebot-technology/"><u>Enhance Online Insights with the Advanced Features of Cookiebot Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-chatgpt-utilizing-recent-information-impacts-society-as-a-whole/"><u>How ChatGPT Utilizing Recent Information Impacts Society as a Whole</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-identify-hard-drive-specs-on-windows/"><u>How to Identify Hard Drive Specs on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-possible-for-ai-to-create-humourful-content-plus-tracing-back-laptop-development-and-enhancements-in-vpn-services/"><u>Is It Possible for AI to Create Humourful Content? Plus: Tracing Back Laptop Development & Enhancements in VPN Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leverage-ai-to-transform-how-you-handle-pdfs-quickly/"><u>Leverage AI to Transform How You Handle PDFs Quickly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-the-potential-of-chatgpt-through-its-advanced-custom-instruction-set/"><u>Leveraging the Potential of ChatGPT Through Its Advanced Custom Instruction Set</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protect-your-digital-space-insight-into-the-rise-of-attacks-against-chatgpt-accounts/"><u>Protect Your Digital Space: Insight Into the Rise of Attacks Against ChatGPT Accounts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-ultimate-guide-to-budget-drone-flights/"><u>The Ultimate Guide to Budget Drone Flights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-blunders-to-bypass-in-your-journey-of-chatgpt-powered-content-writing/"><u>Top 5 Blunders to Bypass in Your Journey of ChatGPT-Powered Content Writing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/ultimate-guide-to-improve-frame-rate-in-war-thunder-updated-tips/"><u>Ultimate Guide to Improve Frame Rate in War Thunder (Updated Tips )</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-pubg-structures-load-issues-effectively/"><u>Ultimate Guide: Resolving PUBG Structures Load Issues Effectively</u></a></li>
 </ul></div>
 

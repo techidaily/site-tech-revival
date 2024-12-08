@@ -1,7 +1,7 @@
 ---
 title: "Become an Expert at Prompt Engineering: The Top Five Course Picks for AI Mastery"
-date: 2024-11-25T08:41:43.477Z
-updated: 2024-11-30T01:25:42.643Z
+date: 2024-12-06T17:05:54.189Z
+updated: 2024-12-08T16:15:40.908Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 * [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -58,18 +54,18 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
- The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -81,7 +77,11 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -107,15 +107,24 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-spotlight-on-figure-skaters-2022-edition/"><u>[New] Spotlight on Figure Skaters 2022 Edition</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-a-comprehensible-approach-uploading-snapchat-images-offline/"><u>[Updated] A Comprehensible Approach Uploading Snapchat Images Offline</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-leading-video-call-options-safe-small-enterprises-guide/"><u>[Updated] In 2024, Leading Video Call Options Safe Small Enterprises Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-stream-reversal-manual-an-18-step-guide-to-control-your-broadcast/"><u>2024 Approved The Stream Reversal Manual An 18-Step Guide to Control Your Broadcast</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-c67-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme C67 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/9-best-strategies-boosting-your-well-being-with-chatgpt/"><u>9 Best Strategies: Boosting Your Well-Being with ChatGPT</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-itel-p55plus-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Itel P55+</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722209223632-become-an-in-demand-bug-hunter-join-openais-reward-scheme-today/"><u>Become an In-Demand Bug Hunter; Join OpenAI’s Reward Scheme Today</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/voice-driven-ai-interaction-5-key-methods-to-direct-chatgpt-via-your-own-words/"><u>Voice-Driven AI Interaction: 5 Key Methods to Direct ChatGPT via Your Own Words</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/whats-new-in-chatgpt-unveiling-key-enhancements-for-a-better-user-experience/"><u>What’s New in ChatGPT? Unveiling Key Enhancements for a Better User Experience</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-broadcasting-strategies-for-youtube-facebook-twitch-and-others/"><u>[New] 2024 Approved Broadcasting Strategies for YouTube, Facebook, Twitch, and Others</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-essential-tips-for-vimeo-video-logging/"><u>[New] 2024 Approved Essential Tips for Vimeo Video Logging</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-beyond-the-boundaries-limitations-in-vr/"><u>[New] In 2024, Beyond the Boundaries Limitations in VR</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-holamac-pro-premium-macos-dvd-to-mov-video-converter-app-free-trial-available/"><u>1) HolaMac Pro: Premium MacOS DVD-to-MOV Video Converter App (Free Trial Available)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/10-effekthabe-tipps-zum-beschleunigen-ihres-ios-11-iphoneipads/"><u>10 Effekthabe Tipps Zum Beschleunigen Ihres iOS 11 iPhone/iPads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1724765845108-macx-dvd-ripper-pro/"><u>無料ダウンロード: MacX DVD Ripper Pro 最新リリース情報 - 日本語</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-stellar-google-play-pass-with-a-tiny-hitch/"><u>A Stellar Google Play Pass with a Tiny Hitch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/buy-macx-goodies-the-ultimate-e-commerce-hub-for-your-computer-needs/"><u>Buy MacX Goodies: The Ultimate E-Commerce Hub for Your Computer Needs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exclusive-oneplus-blowout-deals-your-ultimate-guide-to-savings/"><u>Exclusive OnePlus Blowout Deals: Your Ultimate Guide to Savings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fixing-low-disk-space-alerts-for-mobile-editors-overcoming-the-not-enough-storage-error-on-apple-devices/"><u>Fixing Low Disk Space Alerts for Mobile Editors: Overcoming the Not Enough Storage Error on Apple Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-correctly-set-up-your-synaptics-touchpad-on-windows-explorer/"><u>How to Correctly Set Up Your Synaptics Touchpad on Windows eXplorer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-realme-c55-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Realme C55?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-lava-yuva-2-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Lava Yuva 2 PC | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ideal-methods-for-streaming-and-archiving-sports-events/"><u>In 2024, Ideal Methods for Streaming and Archiving Sports Events</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-scrambled-video-playback-fixing-handbrake-dvd-ripper-issues-for-windows-and-macos/"><u>Solving Scrambled Video Playback: Fixing Handbrake DVD Ripper Issues for Windows and macOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-downloading-your-data-from-icloud-backups/"><u>Step-by-Step Guide: Downloading Your Data From iCloud Backups</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-guide-installing-displaylink-drivers-on-new-windows-11-systems/"><u>The Ultimate Guide: Installing DisplayLink Drivers on New Windows 11 Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-videos-into-quality-audio-tracks-quick-guide-for-mp4-to-mp3-conversion-with-free-software/"><u>Transform Your Videos Into Quality Audio Tracks – Quick Guide for MP4 to MP3 Conversion with Free Software.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wie-man-kostengunstig-gesicherte-filme-auf-der-dvd-mit-macx-dvd-ripper-ohne-kosten-rippt/"><u>Wie Man Kostengünstig Gesicherte Filme Auf Der DVD Mit MacX DVD Ripper Ohne Kosten Rippt</u></a></li>
 </ul></div>
 

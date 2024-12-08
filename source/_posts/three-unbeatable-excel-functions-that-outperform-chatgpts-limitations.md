@@ -1,7 +1,7 @@
 ---
 title: Three Unbeatable Excel Functions That Outperform ChatGPT's Limitations
-date: 2024-11-28T21:26:22.444Z
-updated: 2024-11-30T07:58:49.829Z
+date: 2024-12-06T16:04:50.016Z
+updated: 2024-12-08T16:03:59.255Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is NVIDIA AI Foundations?
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
  NVIDIA AI Foundations is available in three models: NeMo, Picasso, and BioNeMo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### NVIDIA NeMo
@@ -58,13 +58,13 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [NVIDIA Picasso](https://www.nvidia.com/en-us/gpu-cloud/picasso/) is a generative AI model that works similarly to[OpenAI's DALL-E image creator](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) . However, NVIDIA Picasso is not limited to images only since it can also turn text into video or 3D content.
 
  In addition, NVIDIA Picasso is made for software creators, service providers, and businesses intending to train AI models using copyright or licensed data. Alternatively, using pre-trained models, you could add text prompts to create images, videos, and 3D content from scratch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NVIDIA BioNeMo
 
@@ -76,16 +76,12 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
  Beyond that, pharmaceutical scientists can choose from six different AI models of BioNemo depending on their scope of research. This could revolutionize[the future of the healthcare industry](https://www.makeuseof.com/ai-will-power-future-healthcare/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Who Can Use NVIDIA AI Foundations?
 
 ![NVIDIA AI Foundations ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-ai-foundations.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models)
@@ -93,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
  NVIDIA's AI Foundations isn't available to the general public. However, you can request early access by filling up your company's details on NVIDIA's website. Once your business application is approved, you can access the AI models through a browser or[a dedicated API](https://www.makeuseof.com/what-is-api/) .
 
  So far, a few companies like Getty Images, Adobe, and Shutterstock have partnered with NVIDIA to develop text-to-image or video AI models. Similarly, more than a dozen big companies, including Deloitte and Morningstar, have already implemented NVIDIA's AI language models into their business operations. Biotech companies like Amgen and Insilico Medicine are also using NVIDIA's BioNeMo to develop drugs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NVIDIA'S AI Foundation is a Game Changer
 
@@ -115,17 +115,15 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-alternative-software-for-laptoppc-video-editing/"><u>[New] In 2024, Alternative Software for Laptop/PC Video Editing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-software-solutions-for-monitoring-hashtags-on-twitter/"><u>Best Software Solutions for Monitoring Hashtags on Twitter</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/digiarty-video-converter-specialized-for-dvd-and-media-format-transformation/"><u>Digiarty Video Converter - Specialized for DVD and Media Format Transformation</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-google-pixel-8-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Google Pixel 8 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-successfully-addressing-windows-loadlibrary-failure-with-error-1114/"><u>Expert Tips for Successfully Addressing Windows 'LoadLibrary' Failure with Error 1114</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-securely-download-and-install-brother-l2absolutely-here-are-five-new-seo-friendly-titles-similar-to-brother-mfc-l2700dw-driver-download-and-install-f73/"><u>How To: Securely Download and Install Brother L2absolutely! Here Are Five New SEO-Friendly Titles Similar to Brother MFC-L2700DW Driver Download & Install for Windows:</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-want-to-join-video-content-creators-who-already-produce-stop-motion-videos-on-instagram-in-this-article-we-are-going-to-show-you-how-to-make-a-stop-moti/"><u>New Want to Join Video Content Creators Who Already Produce Stop Motion Videos on Instagram? In This Article We Are Going to Show You How to Make a Stop Motion Video on Instagram with and without the Bui</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-for-implementing-gpt-nput-text-with-python/"><u>Step-by-Step Instructions for Implementing GPT-Nput Text with Python</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-utilizing-anthropics-claude-tools/"><u>Step-by-Step: Utilizing Anthropic's Claude Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-evolution-of-ai-testing-moving-past-the-turing-benchmark-with-new-approaches/"><u>The Evolution of AI Testing: Moving Past the Turing Benchmark with New Approaches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-evolving-role-of-ai-powered-conversational-agents-in-shaping-modern-content-production/"><u>The Evolving Role of AI-Powered Conversational Agents in Shaping Modern Content Production</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-elevating-video-production-the-advantages-of-bandicams-technology/"><u>[Updated] Elevating Video Production The Advantages of Bandicam's Technology</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-gaming-giants-tussle-with-video-powerhouse-youtube/"><u>2024 Approved The Gaming Giant's Tussle with Video Powerhouse YouTube</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-how-to-mix-audio-tracks-into-one-file-for-a-video/"><u>In 2024, How to Mix Audio Tracks Into One File for A Video?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pre-purchase-checklist-choosing-the-right-printer-for-you/"><u>Pre-Purchase Checklist: Choosing the Right Printer for You</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-utilizing-the-windows-dir-command-effectively/"><u>Step-by-Step Tutorial on Utilizing the Windows DIR Command Effectively</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-integrating-wsl-into-your-windows-lnksi-microsofts-latest-operating-system-innovation/"><u>Step-by-Step Tutorial: Integrating WSL Into Your Windows ˈlɪnksi, Microsoft’s Latest Operating System Innovation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tech-bargains-on-prime-shopping-event-secure-your-devices-with-premium-surge-protectors/"><u>Tech Bargains on Prime Shopping Event: Secure Your Devices with Premium Surge Protectors!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-game-changer-in-next-gen-gaming-how-microsofts-upscaler-justifies-the-hype-around-copilotplus-pcs/"><u>The Game-Changer in Next-Gen Gaming: How Microsoft's Upscaler Justifies the Hype Around CoPilot+ PCs</u></a></li>
 </ul></div>
 

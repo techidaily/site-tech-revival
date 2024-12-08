@@ -1,7 +1,7 @@
 ---
 title: "Peeling Back Layers in AI Security: How Do Prompt Injections Work?"
-date: 2024-11-26T22:40:59.924Z
-updated: 2024-11-30T06:39:44.756Z
+date: 2024-12-01T16:08:39.969Z
+updated: 2024-12-08T16:09:26.063Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 * [Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#get-early-access-to-chatgpt-voice-mode-and-the-chatgpt-desktop-app)
 * [Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#full-access-to-advanced-data-analysis-file-uploads-vision-and-web-browsing)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Free users get limited access to GPT-4o, the latest AI model, while Plus subscribers get more messages and guaranteed availability.
@@ -47,9 +43,17 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
  Well, here are some reasons you might want to keep your ChatGPT Plus sub.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 More Access to GPT-4o
 
 ![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) [is OpenAI's latest flagship GPT model](http://www.makeuseof.com/how-gpt-4o-works-is-it-free/) , which it states is twice as fast as GPT-4 Turbo and 50% cheaper (when using APIs). However, Free users are not granted unlimited access to GPT-4o. OpenAI provides Free users with "limited access to GPT-4o."
 
@@ -65,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
 
  If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
@@ -83,13 +83,13 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
 
  We are uncertain how this will translate to Free users' access to the GPT store, seeing as many custom GPTs rely on DALL-E. But it's very likely going to be completely unavailable until you pay.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5  Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App
 
@@ -102,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
  OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
@@ -132,22 +132,16 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-journeying-beyond-boundaries-jaunt-vr-analysis/"><u>[New] In 2024, Journeying Beyond Boundaries Jaunt VR Analysis</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-itunes-video-management-made-simple/"><u>[Updated] 2024 Approved ITunes Video Management Made Simple</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/exploring-leading-email-strategies-key-lessons-from-2020s-premier-articles-enhanced-by-massmail-solutions/"><u>Exploring Leading Email Strategies: Key Lessons From 2020'S Premier Articles, Enhanced by MassMail Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-leap-into-the-tiktok-live-crowd-a-quick-guide/"><u>In 2024, Leap Into the TikTok Live Crowd A Quick Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/limited-time-offer-save-up-to-45-on-all-max-annual-subscriptions/"><u>Limited-Time Offer: Save up to 45% on All Max Annual Subscriptions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-extended-delay-in-signal-exchange-the-0x80070079-timeout-problem/"><u>Overcoming the Extended Delay in Signal Exchange: The 0X80070079 Timeout Problem</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/photo-editing-achieving-focus-with-distortions-for-2024/"><u>Photo Editing Achieving Focus with Distortions for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/propel-chatgpt-forward-top-9-must-have-plugins-here/"><u>Propel ChatGPT Forward: Top 9 Must-Have Plugins Here</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tech-talk-alert-exploring-mobile-phone-ransomware-50-solutions-and-chatgpts-podcast-contribution/"><u>Tech Talk Alert: Exploring Mobile Phone Ransomware, $50 Solutions & ChatGPT's Podcast Contribution</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-inner-workings-of-an-ai-prompt-injection-assault-on-tech-systems/"><u>The Inner Workings of an AI Prompt Injection Assault on Tech Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-power-to-personalize-building-custom-gpt-models-through-chatgpts-new-update/"><u>The Power to Personalize: Building Custom GPT Models Through ChatGPT's New Update</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-benefits-of-leveraging-chatgpt-for-your-medical-inquiries/"><u>Top 7 Benefits of Leveraging ChatGPT for Your Medical Inquiries</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-realistic-applications-of-auto-gpt-for-everyday-users/"><u>Top 8 Realistic Applications of Auto-GPT for Everyday Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-ideas-into-pictures-an-ultimate-guide-to-ai-driven-image-generation-via-chatgpt/"><u>Transform Your Ideas Into Pictures: An Ultimate Guide to AI-Driven Image Generation via ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trustworthy-approaches-to-authenticate-health-recommendations-from-artificial-intelligence-programs/"><u>Trustworthy Approaches to Authenticate Health Recommendations From Artificial Intelligence Programs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unmasking-truthgpt-a-look-into-its-core-police-oversight-the-case-of-mullvad-vpn-raid-navigating-the-best-free-pc-gaming-options-understanding-mechanical-ke21/"><u>Unmasking TruthGPT - A Look Into Its Core; Police Oversight: The Case of Mullvad VPN Raid; Navigating the Best Free PC Gaming Options; Understanding Mechanical Keyboard Features</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-blueprint-for-capturing-compelling-powerpoint-presentations/"><u>[New] In 2024, The Blueprint for Capturing Compelling PowerPoint Presentations</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-achieve-peaceful-nights-with-expert-recommended-asmr/"><u>2024 Approved Achieve Peaceful Nights with Expert-Recommended ASMR</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-online-presence-partnering-with-top-seo-professionals-at-digiarty/"><u>Boost Your Online Presence: Partnering with Top SEO Professionals at Digiarty!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fixing-your-dvd-remote-control-issues-a-step-by-step-guide/"><u>Fixing Your DVD Remote Control Issues - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-early-access-to-ios-181-beta-with-advanced-apple-technologies-learn-the-installation-steps-now-digital-trends-insight/"><u>Get Early Access to IOS 18.1 Beta with Advanced Apple Technologies - Learn the Installation Steps Now | Digital Trends Insight</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/la-forma-optima-de-convertir-archivos-avchd-m2ts-en-mp4-sin-perdida-de-calidad-top-5-tecnicas/"><u>La Forma Optima De Convertir Archivos AVCHD M2TS en MP4 Sin Pérdida De Calidad - Top 5 Técnicas</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/las-maquinetas-ideales-reproductores-de-video-4k-uhd-escoltando-a-pcmac/"><u>Las Maquinetas Ideales: Reproductores De Vídeo 4K UHD Escoltando a PC/Mac</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolved-wan-port-troubles-in-windows-xp-fixed/"><u>Resolved: WAN Port Troubles in Windows XP [FIXED]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-guide-transforming-1080p-videos-into-720p-without-compromising-on-quality/"><u>Seamless Guide: Transforming 1080P Videos Into 720P Without Compromising on Quality</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/635197-9781451632996-the-laws-of-prosperity/"><u>The Laws of Prosperity | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-repairing-scavengers-game-errors-for-a-smooth-pc-experience/"><u>Troubleshooting and Repairing 'Scavengers' Game Errors for a Smooth PC Experience</u></a></li>
 </ul></div>
 

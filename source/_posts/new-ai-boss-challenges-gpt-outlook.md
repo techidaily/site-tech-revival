@@ -1,7 +1,7 @@
 ---
 title: New AI Boss Challenges GPT Outlook
-date: 2024-11-26T03:14:49.144Z
-updated: 2024-11-29T19:44:35.453Z
+date: 2024-12-03T16:17:48.127Z
+updated: 2024-12-08T16:39:59.367Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
  When Google launched Bard in March 2023, there were many reasons to be excited. Finally, OpenAI's ChatGPT monopoly would be broken, and we'd get worthy competition.
 
  But Bard was never the AI titan people hoped for, and GPT-4 remains the dominant generative AI chat bot platform. Now, Google's Gemini is here—but is the long-awaited AI model better than ChatGPT?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is Google's Gemini AI Model?
 
@@ -71,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
  When any new AI model is launched, it is tested against OpenAI's GPT AI models, which are generally accepted as the state-of-the-art model other models should be held up against. So, using Bard and ChatGPT, we tested Gemini's ability in math, creative writing, code generation, and accurately processing image inputs.
@@ -85,6 +85,10 @@ We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
 
  We tried another attempt at making it interpret an image while testing its problem-solving and coding ability. We gave Bard, running Gemini Pro, a screenshot and asked it to interpret and write HTML and CSS code to replicate the screenshot.
@@ -97,28 +101,24 @@ Here's the source screenshot.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
@@ -144,18 +144,20 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-mastering-instagram-video-posts/"><u>[New] 2024 Approved Mastering Instagram Video Posts</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/guia-diaria-para-dias-de-la-semana-en-espanol/"><u>Guía Diaria Para Días De La Semana en Español</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-elevate-your-role-on-windows-computers/"><u>How to Elevate Your Role on Windows Computers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-sparkle-with-screenshots-vlogging-for-value-creation/"><u>In 2024, Sparkle with Screenshots Vlogging for Value Creation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-the-tech-giants-move-microsoft-buys-out-blizzard-exploring-future-of-ai-artistry-and-polyglot-systems-podcast/"><u>Inside the Tech Giant's Move: Microsoft Buys Out Blizzard, Exploring Future of AI Artistry and Polyglot Systems [Podcast]</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-llama-2-installation-the-complete-guide-for-beginners/"><u>Mastering LLaMA 2 Installation: The Complete Guide for Beginners</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-market-unveiling-7-premier-choices-for-ai-powered-prompts-online/"><u>Mastering the Market: Unveiling 7 Premier Choices for AI-Powered Prompts Online</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/mastering-virtual-console-with-top-5-ps3-emulators-for-2024/"><u>Mastering Virtual Console with Top 5 PS3 Emulators for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210877209-9781609255404-mind-into-matter/"><u>Mind into Matter | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-the-most-frequent-hurdles-in-automating-gpt-installation/"><u>Overcoming the Most Frequent Hurdles in Automating GPT Installation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pioneering-personalized-ais-crafting-your-own-chatgpt/"><u>Pioneering Personalized AIs: Crafting Your Own ChatGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-maneuvers-beat-the-windows-lag-on-sw-bf2/"><u>Swift Maneuvers: Beat the Windows Lag on SW BF2</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-xiaomi-redmi-note-12-proplus-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Xiaomi Redmi Note 12 Pro+ 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-markets-top-picks-premier-drone-gimbals/"><u>[Updated] Market's Top Picks Premier Drone Gimbals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-intova-edge-x-action-camera-review/"><u>2024 Approved Intova Edge X Action Camera Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pioneering-seven-water-resilient-camera-brands/"><u>2024 Approved Pioneering Seven Water-Resilient Camera Brands</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-mobvoi-ticwatch-e2-analysis-bargain-price-vs-quality-concerns/"><u>Affordable Mobvoi TicWatch E2 Analysis: Bargain Price vs Quality Concerns</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-real-world-applications-the-top-7-uses-of-chatgpt/"><u>Exploring Real-World Applications: The Top 7 Uses of ChatGPT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-silent-issues-solutions-when-lost-ark-game-lacks-audio/"><u>Fixing Silent Issues: Solutions When 'Lost Ark' Game Lacks Audio</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-utilizing-quoras-poe-for-interacting-with-ai-chatbots-and-llms/"><u>Guide: Utilizing Quora's POE for Interacting with AI Chatbots and LLMs</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-activate-and-navigate-picture-in-picture-view-on-your-smartphone/"><u>How to Activate and Navigate Picture-in-Picture View on Your Smartphone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protect-yourself-from-phony-chatgpt-chrome-add-ons-that-steal-social-media-logins-and-passwords/"><u>Protect Yourself From Phony ChatGPT Chrome Add-Ons That Steal Social Media Logins and Passwords</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sierras-best-the-top-5-choices-for-mac-video-editing/"><u>Sierra's Best The Top 5 Choices for Mac Video Editing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/tap-into-silence-disabling-recommended-content-on-ig-for-2024/"><u>Tap Into Silence Disabling Recommended Content on IG for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-basics-of-ai-decoded-for-everyone/"><u>The Basics of AI Decoded for Everyone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-inspiring-prompts-for-stunning-images-with-dall-e-3/"><u>Top 8 Inspiring Prompts for Stunning Images with DALL-E 3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-grok-by-elon-musk-demystifying-its-functions-and-determining-your-budget/"><u>Unveiling Grok by Elon Musk – Demystifying Its Functions & Determining Your Budget</u></a></li>
 </ul></div>
 

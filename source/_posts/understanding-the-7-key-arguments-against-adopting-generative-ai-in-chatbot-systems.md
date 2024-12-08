@@ -1,7 +1,7 @@
 ---
 title: Understanding the 7 Key Arguments Against Adopting Generative AI in Chatbot Systems
-date: 2024-11-26T04:53:47.058Z
-updated: 2024-11-29T23:15:44.848Z
+date: 2024-12-06T17:02:31.414Z
+updated: 2024-12-08T16:24:59.949Z
 tags:
   - chatgpt
   - open-ai
@@ -20,20 +20,12 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is Google's Gemini AI Model?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#what-is-google-39-s-gemini-ai-model)
 * [How to Use Google Gemini AI](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#how-to-use-google-gemini-ai)
 * [How Gemini Compares to GPT-3.5 and GPT-4](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#how-gemini-compares-to-gpt-3-5-and-gpt-4)
 * [Is Gemini Better than ChatGPT?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#is-gemini-better-than-chatgpt)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -61,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
@@ -81,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
@@ -97,29 +89,37 @@ Here's the source screenshot.
 
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
 
@@ -144,17 +144,18 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-pictorial-humor-ranking-10-memes-by-creativity/"><u>[New] In 2024, Pictorial Humor Ranking #10 Memes by Creativity</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-simplified-methods-for-logging-google-voice-calls/"><u>[New] In 2024, Simplified Methods for Logging Google Voice Calls</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-intuitive-methods-to-log-your-google-voice-conversations/"><u>[New] Intuitive Methods to Log Your Google Voice Conversations</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210067800-9781922132499-dying-to-know/"><u>Dying to Know | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ensuring-authenticity-how-to-distinguish-real-from-fake-chatgpt-ios-apps/"><u>Ensuring Authenticity: How to Distinguish Real From Fake ChatGPT iOS Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-good-to-great-ai-discover-four-key-motivators-for-transitioning-to-claude-amoeba-claude-3-rather-than-chatgpt/"><u>From Good to Great AI: Discover Four Key Motivators for Transitioning to Claude Amoeba (Claude) 3 Rather Than ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-scam-alert-to-twitsignature-metas-progressive-stride/"><u>From Scam Alert to TwitSignature: Meta's Progressive Stride</u></a></li>
-<li><a href="https://app-tips.techidaily.com/half-of-all-biz-marketers-now-leverage-ai-tools-insights-from-zdnet/"><u>Half of All Biz Marketers Now Leverage AI Tools: Insights From ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-nvidias-ai-foundations-shape-the-landscape-for-customized-generative-ai-knowing-your-eligibility/"><u>How Does NVIDIA's AI Foundations Shape the Landscape for Customized Generative AI? Knowing Your Eligibility</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-leave-a-life360-group-on-google-pixel-fold-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Google Pixel Fold Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-motorola-g54-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Motorola G54 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pic-deformations-a-toolbox-guide-for-2024/"><u>Pic Deformations A Toolbox Guide for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unleash-potential-10-top-motivational-gems/"><u>[New] Unleash Potential 10 Top Motivational Gems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-keeping-balance-in-the-world-of-immersive-virtuality-for-2024/"><u>[Updated] Keeping Balance in the World of Immersive Virtuality for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-free-youtube-to-wav-downloader-and-converter-tools-top-picks-for-high-quality-audio-extraction/"><u>Best Free YouTube to WAV Downloader & Converter Tools: Top Picks for High-Quality Audio Extraction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/handbrake-enhancement-fix-restoring-full-title-display-for-improved-media-conversion-experience/"><u>HandBrake Enhancement Fix: Restoring Full Title Display for Improved Media Conversion Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-oneplus-12r-easily-by-drfone-android/"><u>How To Unlock a OnePlus 12R Easily?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-quick-file-scan-in-windows/"><u>Navigating Quick File Scan in Windows</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-free-game-downloads-the-top-10plus-sites-you-need-for-2024/"><u>New Free Game Downloads The Top 10+ Sites You Need for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-13-mini-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 13 mini</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-guide-swift-recovery-of-your-iphone-using-icloud-without-a-time-consuming-process/"><u>Quick Guide: Swift Recovery of Your iPhone Using iCloud Without a Time-Consuming Process</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slime-to-the-rescue-effective-methods-for-deep-cleaning-your-keyboard-at-home-digitalhealthtips/"><u>Slime to the Rescue! Effective Methods for Deep-Cleaning Your Keyboard at Home | DigitalHealthTips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-for-shifting-media-files-between-a-mac-and-iphone-xsxr/"><u>Step-by-Step Instructions for Shifting Media Files Between a Mac and iPhone XS/XR</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-converting-hd-dvd-iso-files-to-premium-avi-format-on-your-mac/"><u>Ultimate Guide: Converting HD DVD ISO Files to Premium AVI Format on Your Mac</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo V29 Pro | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Mastery: Expert Advice on How to Optimize Your Use of Microsoft's Cutting-Edge Language AI"
-date: 2024-11-29T06:03:55.757Z
-updated: 2024-11-30T05:56:18.828Z
+date: 2024-12-05T17:08:42.749Z
+updated: 2024-12-08T16:20:00.157Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Can Help Cybercriminals Hack Your PC
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 ![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hackers, including script kiddies, can[use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -97,21 +97,20 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a38-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/guia-rapida-para-sincronizar-tu-carpeta-local-con-onedrive-en-windows-11/"><u>Guía Rápida Para Sincronizar Tu Carpeta Local Con OneDrive en Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-quick-should-your-pc-operate-efficiently/"><u>How Quick Should Your PC Operate Efficiently?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-a-502-bad-gateway-error/"><u>How to Fix a 502 Bad Gateway Error</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-realme-c67-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme C67 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-s18-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo S18 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/launching-a-vlog-essential-equipmentapps/"><u>Launching a Vlog Essential Equipment/Apps</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210003801-9781761034848-lucid-dreaming/"><u>Lucid Dreaming | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-success-6-strategies-for-excelling-amidst-artificial-intelligence-revolution/"><u>Navigating Success: 6 Strategies for Excelling Amidst Artificial Intelligence Revolution</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-chatgpts-default-add-ons-insights-into-their-roles-and-applications/"><u>Navigating Through ChatGPT's Default Add-Ons: Insights Into Their Roles and Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-wellness-queries-here-are-7-good-points-to-choose-chatgpt-as-your-ai-doctor/"><u>Navigating Wellness Queries? Here Are 7 Good Points to Choose ChatGPT as Your AI Doctor</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/no-deterioration-in-chatgpt-ai-says-openai/"><u>No Deterioration in ChatGPT AI, Says OpenAI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/perfecting-your-craft-the-role-of-chatgpt-in-freelance-writing-success/"><u>Perfecting Your Craft: The Role of ChatGPT in Freelance Writing Success</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pioneering-artistic-journey-via-microsofts-innovative-imagery-toolkit/"><u>Pioneering Artistic Journey via Microsoft’s Innovative Imagery Toolkit</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/questioning-authority-has-openai-relinquished-supervision-over-chatgpt/"><u>Questioning Authority: Has OpenAI Relinquished Supervision Over ChatGPT?</u></a></li>
-<li><a href="https://howto.techidaily.com/samsung-galaxy-a23-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A23 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-best-qpr-index-for-sluggish-video-content/"><u>[New] 2024 Approved Best QPR Index for Sluggish Video Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-fist-of-legends-highest-rated-kung-fu-virtual-battles/"><u>[Updated] Fist of Legends Highest-Rated Kung Fu Virtual Battles</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-speak-clearly-on-discord-via-tts/"><u>[Updated] How to Speak Clearly on Discord via TTS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beware-of-updating-to-ios-16-potential-risks-and-tips-for-safe-installation-tech-insights/"><u>Beware of Updating to iOS 16: Potential Risks and Tips for Safe Installation | Tech Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/direct-vs-additional-gpt-tools-for-effective-communication/"><u>Direct Vs. Additional GPT Tools for Effective Communication</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-tools-for-advancing-skills-in-ai-prompt-design-discover-7-key-solutions/"><u>Essential Tools for Advancing Skills in AI Prompt Design - Discover 7 Key Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harnessing-virtual-discussions-with-gpt-3-expertise/"><u>Harnessing Virtual Discussions with GPT-3 Expertise</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-nokia-105-classic-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Nokia 105 Classic Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mimicry-ai-extension-hijacks-social-network-credentials/"><u>Mimicry AI Extension: Hijacks Social Network Credentials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/move-flawlessly-convert-wav-files-to-mov-format-for-free-with-the-movavi-online-tool/"><u>Move Flawlessly: Convert WAV Files to MOV Format for Free with the Movavi Online Tool</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-gamer-era-starts-djis-mavic-air-versus-spark-battle/"><u>New Gamer Era Starts DJI’s Mavic Air Versus Spark Battle</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-audio-files-new-world-how-to-convert-srt-effortlessly/"><u>The Audio Files' New World How to Convert SRT Effortlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transcending-boundaries-understanding-the-mechanisms-of-ai-transfer-learning/"><u>Transcending Boundaries: Understanding the Mechanisms of AI Transfer Learning</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-your-potent-ai-agent-top-tactics-for-perfectly-structured-chatgpt-prompts/"><u>Unleash Your Potent AI Agent: Top Tactics for Perfectly Structured ChatGPT Prompts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-microsoft-bing-ai-chat-a-detailed-walkthrough-for-android-users/"><u>Unlocking Microsoft Bing AI Chat: A Detailed Walkthrough for Android Users</u></a></li>
 </ul></div>
 

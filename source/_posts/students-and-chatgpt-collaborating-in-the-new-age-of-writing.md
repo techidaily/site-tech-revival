@@ -1,7 +1,7 @@
 ---
 title: "Students and ChatGPT: Collaborating in the New Age of Writing"
-date: 2024-11-23T17:51:40.861Z
-updated: 2024-11-30T07:10:44.891Z
+date: 2024-12-01T16:48:52.955Z
+updated: 2024-12-08T16:43:36.600Z
 tags:
   - chatgpt
   - open-ai
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
  Despite these nuances, ChatGPT and Bing execute similar functions. With the correct prompts, they could write essays, answer general knowledge queries, recap books, and scrutinize arguments, among other tasks. Just expect varied responses based on their trained datasets.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Conversational Language
@@ -46,15 +46,19 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 
 ![Having a Casual, Normal Conversation With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-normal-conversation.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the other hand,[Bing AI uses GPT-4](https://blogs.bing.com/search/march%5F2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4) , an iteration of ChatGPT’s language model. Its output sounds casual and genuine.
 
 ![Generating Creative Responses from Microsoft Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-bing-creative-responses.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Currently, you can only[access GPT-4 on ChatGPT](https://www.makeuseof.com/how-to-use-gpt4/) by upgrading to ChatGPT Plus for $20 a month.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Data Accuracy
 
@@ -67,10 +71,14 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 ![Asking Bing AI About ChatGPT Launch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-giving-precise-dates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’s also worth noting that Bing's AI cites sources. Neither platform guarantees 100% accuracy, but knowing which resources to double-check streamlines fact-checking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Mathematical Precision
 
@@ -83,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 ![ChatGPT Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solving-physics-questions.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Bing AI answers the same physics question correctly.
@@ -91,7 +99,7 @@ Bing AI answers the same physics question correctly.
 ![Bing AI Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bing-ai-solving-physics-question.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Security Measures
@@ -114,10 +122,6 @@ Bing AI answers the same physics question correctly.
 
  Perhaps the only limitation of Bing AI is that it doesn’t run on third-party browsers, like Mozilla Firefox, Safari, and Google Chrome. You’ll have to download Microsoft Edge. Although seemingly trivial, you might find it inconvenient if Edge isn’t your default browser.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Sign-Up Process
 
 [Signing up for ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) is really quite simple. Just create an OpenAI account, register for ChatGPT, and wait for the confirmation. Most people get instant access.
@@ -125,6 +129,10 @@ Bing AI answers the same physics question correctly.
  On the contrary,[signing up for the new Bing AI](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) initially took longer. The first users spent weeks on the waitlist before getting approved, especially those outside the U.S.
 
 ![Bing AI Welcome Upon Getting Approved](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-introduction.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Thankfully, Microsoft since lifted the waitlist. Users gain instant access after creating an email account and downloading Microsoft Edge.
 
@@ -142,17 +150,9 @@ Bing AI answers the same physics question correctly.
 
  Instead of feeding Bing's AI and ChatGPT generic prompts, curate unique ones based on their language models. The quality of their responses depends on your prompts. Aim to maximize the AI tool’s datasets without violating its guidelines.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Fees
 
 ![ChatGPT Plus Pricing at $20 Per Month](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-pricing.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ChatGPT is a free, robust multipurpose chatbot. Users can execute plenty of tasks with the GPT-3.5 language model. But if you need a more sophisticated AI assistant, OpenAI offers[ChatGPT Plus](https://openai.com/blog/chatgpt-plus) for $20 a month.
 
@@ -187,22 +187,24 @@ Bing AI answers the same physics question correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-mouthwatering-movies-how-to-make-your-food-videography-shine-for-2024/"><u>[New] Mouthwatering Movies How to Make Your Food Videography Shine for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-5-mac-video-tools-beyond-standard-bandicam/"><u>[Updated] 2024 Approved Top 5 Mac Video Tools Beyond Standard Bandicam</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-video-dimensions-and-story-size-the-ultimate-guide-for-perfect-posts/"><u>[Updated] Instagram Video Dimensions & Story Size [The Ultimate Guide for Perfect Posts]</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-handbook-to-zooms-online-presentation-features/"><u>[Updated] The Ultimate Handbook to Zoom's Online Presentation Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/achieve-optimal-wellbeing-formulating-and-pursuing-personal-health-ambitions-using-chatgpt/"><u>Achieve Optimal Wellbeing: Formulating and Pursuing Personal Health Ambitions Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/activate-chatgpt-widget-for-android-ease/"><u>Activate ChatGPT Widget for Android Ease</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-command-expertise-select-online-mastery-series/"><u>AI Command Expertise: Select Online Mastery Series</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-writing-with-chatgpt-a-guide-to-9-creative-uses-for-content-makers/"><u>Boost Your Writing with ChatGPT: A Guide to 9 Creative Uses for Content Makers</u></a></li>
-<li><a href="https://win-dash.techidaily.com/improve-connectivity-with-the-latest-tp-link-usb-400-bluetooth-drivers-and-firmware/"><u>Improve Connectivity with the Latest TP-Link USB 400 Bluetooth Drivers and Firmware</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-100-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor 100</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/revolutionary-drone-motors-the-quintessential-guide-to-flight-excellence-for-2024/"><u>Revolutionary Drone Motors The Quintessential Guide to Flight Excellence for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-alienware-aurora-r11-assessment-ultimate-gaming-computer/"><u>Top Alienware Aurora R11 Assessment: Ultimate Gaming Computer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/vital-upgrades-to-revolutionize-the-gpt-plugin-registry/"><u>Vital Upgrades to Revolutionize the GPT Plugin Registry</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-is-openais-shap-e-and-what-can-it-do/"><u>What Is OpenAI's Shap-E, and What Can It Do?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-teachers-should-embrace-not-dread-ai-8-insights/"><u>Why Teachers Should Embrace, Not Dread AI (8 Insights)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/will-ai-ever-triumph-over-the-turing-test-an-in-depth-analysis/"><u>Will AI Ever Triumph Over the Turing Test? An In-Depth Analysis</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-top-10-capture-cards-for-youtube-you-should-know/"><u>[Updated] In 2024, The Top 10 Capture Cards for YouTube You Should Know</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-propeller-market-for-top-tier-fpv-drones/"><u>[Updated] Navigating the Propeller Market for Top-Tier FPV Drones</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-step-by-step-guide-transitioning-from-your-iphone-76s6se-to-the-latest-iphone-xiphone-question/"><u>1. Step-by-Step Guide: Transitioning From Your iPhone 7/6S/6/SE to the Latest iPhone X/iPhone # Question</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-top-rated-video-format-transcoder-convert-avi-mp4-and-more-compatible-with-all-devices-macpciosandroid/"><u>1. Top Rated Video Format Transcoder: Convert AVI, MP4 & More Compatible with All Devices (Mac/PC/iOS/Android)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-detailed-guide-to-advanced-usage-in-macs-preview-app/"><u>2024 Approved Detailed Guide to Advanced Usage in Mac's Preview App</u></a></li>
+<li><a href="https://media-tips.techidaily.com/a-comprehensive-guide-on-converting-aac-audio-tracks-to-mp3-without-itunes/"><u>A Comprehensive Guide on Converting AAC Audio Tracks to MP3 Without iTunes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-side-by-side-look-at-echo-dot-and-apples-homepod-mini-who-wins/"><u>A Side-by-Side Look at Echo Dot and Apple's HomePod Mini - Who Wins?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-dat-file-upgrade-to-premium-mp4-format-on-pc-and-mac-systems/"><u>Effortless DAT File Upgrade to Premium MP4 Format on PC and Mac Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-20-copyright-free-pubg-background-galleries/"><u>Essential 20 Copyright-Free PUBG Background Galleries</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/hilfe-beim-festlegen-der-region-fur-dvds-in-ihrem-apple-macbook-oder-imac-einfache-losungen-erklart/"><u>Hilfe Beim Festlegen Der Region Für DVDs in Ihrem Apple MacBook Oder iMac: Einfache Lösungen Erklärt</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-how-to-securely-extract-and-convert-youtube-audios-as-mp3/"><u>In 2024, How To Securely Extract and Convert YouTube Audios as MP3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mpeg-conversion-tips-for-macbook-users-easily-transforming-mkv-videos/"><u>MPEG Conversion Tips for MacBook Users - Easily Transforming MKV Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-handbrake-unable-to-process-corrupted-sections-a-guide/"><u>Resolving 'HandBrake Unable to Process Corrupted Sections: A Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-on-free-3d-video-extraction-secrets-to-download-premium-hd-videos-from-youtube-and-vimeo-effortlessly/"><u>Step-by-Step Guide on Free 3D Video Extraction: Secrets to Download Premium HD Videos From YouTube and Vimeo Effortlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-any-flv-file-into-different-formats-using-the-user-friendly-macx-free-video-conversion-tool-for-macos-users/"><u>Transform Any FLV File Into Different Formats Using the User-Friendly MacX FREE Video Conversion Tool for macOS Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-top-rated-vr-video-transformers-for-seamless-virtual-reality-editing/"><u>Ultimate Guide: Top-Rated VR Video Transformers for Seamless Virtual Reality Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/uncovering-the-ultimate-ios-device-controller-for-macintosh-computers-see-options-inside/"><u>Uncovering the Ultimate iOS Device Controller for Macintosh Computers – See Options Inside!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-the-new-iphone-16-pro-is-my-top-choice-over-the-iphone-16-max-insights-from-apples-latest-reveal/"><u>Why the New iPhone 16 Pro Is My Top Choice Over the iPhone 16 Max - Insights From Apple's Latest Reveal</u></a></li>
 </ul></div>
 

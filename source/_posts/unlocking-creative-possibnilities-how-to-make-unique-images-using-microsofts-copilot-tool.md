@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Creative Possibnilities: How to Make Unique Images Using Microsoft's Copilot Tool"
-date: 2024-11-28T03:56:28.506Z
-updated: 2024-11-29T16:31:26.845Z
+date: 2024-12-02T16:45:40.662Z
+updated: 2024-12-08T16:04:14.889Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/8144bf8226080671f18a2bf4e92c933c6cecfac8b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Purpose
 
@@ -46,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/8144bf8226080671f18a2bf4e92c933c6cecfac8b
 
 ![Generating Creative Responses from Microsoft Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-bing-creative-responses.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Currently, you can only[access GPT-4 on ChatGPT](https://www.makeuseof.com/how-to-use-gpt4/) by upgrading to ChatGPT Plus for $20 a month.
 
 ## 3\. Data Accuracy
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/8144bf8226080671f18a2bf4e92c933c6cecfac8b
  ChatGPT has explicit disclaimers about data inaccuracy. The platform occasionally produces incorrect information since it carries limited knowledge of events after 2021\. It doesn’t even know its own release date.
 
 ![Asking ChatGPT About Its Launch Date](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-making-precise-answers.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Whereas Bing AI’s advanced language model and integrated search engine produce more reliable, precise data. Unlike ChatGPT, Microsoft didn’t train Bing on limited datasets. Instead, it uses its search engine to pull timely, relevant information about world events and general knowledge questions.
 
@@ -79,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/8144bf8226080671f18a2bf4e92c933c6cecfac8b
 ![ChatGPT Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solving-physics-questions.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Bing AI answers the same physics question correctly.
@@ -87,11 +83,11 @@ Bing AI answers the same physics question correctly.
 ![Bing AI Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bing-ai-solving-physics-question.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Security Measures
@@ -105,6 +101,14 @@ Bing AI answers the same physics question correctly.
  Bing's AI bot faces similar cybersecurity risks. It combats them by enforcing stricter limitations, reducing the platform’s susceptibility to jailbreaking. Conversations get terminated if you mention anything unusual.
 
 ![Bing AI Ends Conversation for Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bingai-security-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Accessibility
 
@@ -122,15 +126,15 @@ Bing AI answers the same physics question correctly.
 
 ![Bing AI Welcome Upon Getting Approved](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-introduction.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Thankfully, Microsoft since lifted the waitlist. Users gain instant access after creating an email account and downloading Microsoft Edge.
 
 ## 8\. Functionality
 
 ![Setting Custom Instructions for Prompts on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/custom-instructions-on-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Bing's AI bot has a more advanced language model and broader dataset, boosting its functionality over ChatGPT. It even uses its search engine before responding. You can expect to get more accurate, reliable responses and up-to-date information.
 
@@ -152,10 +156,6 @@ Bing AI answers the same physics question correctly.
 
  Although affordable, subscription fees are unnecessary expenses. Instead of losing $240 per year on ChatGPT Plus, explore Bing's AI first. It already runs on GPT-4, and since[Microsoft plans to monetize Bing through advertisements](https://www.reuters.com/technology/microsofts-bing-plans-ai-ads-early-pitch-advertisers-2023-02-17/) , the platform will likely stay free.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Token Limits
 
  AI-driven chatbots like[ChatGPT learn from user chats through contextual memory](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) . It enables them to reference previous inputs, thus improving output accuracy and relevance as the conversation goes on. The responses improve as you provide information.
@@ -165,7 +165,7 @@ Bing AI answers the same physics question correctly.
  These restrictions vary per platform.[ChatGPT has a high upper limit](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) that can process around 3,000 words per turn, assuming they’re all relevant and related. Meanwhile, Bing AI has a much smaller limit. It caps users to 30 turns, after which you must start a new conversation or restate your custom instructions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Use Bing's AI or ChatGPT?
@@ -187,21 +187,24 @@ Bing AI answers the same physics question correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-inside-the-immersive-evolution-vrs-present-state-and-foreseen-obstacles/"><u>[New] Inside the Immersive Evolution VR's Present State and Foreseen Obstacles</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-infinix-smart-8-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Infinix Smart 8.</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y28 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-nvidia-geforce-rtx-3090-drivers-compatible-with-windows-1087-download-now/"><u>Latest NVIDIA GeForce RTX 3090 Drivers: Compatible with Windows 10/8/7 - Download Now</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movaviapngpng/"><u>Movavi無料：APNGファイルをPNG形式に直してくだ#!</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-free-wmv-video-combining-tools-2023-edition/"><u>New In 2024, Best Free WMV Video Combining Tools 2023 Edition</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/solutions-rapides-pour-empecher-lexplorateur-windows-de-se-lancer-automatiquement-avec-des-techniques-pratiques/"><u>Solutions Rapides Pour Empêcher L'Explorateur Windows De Se Lancer Automatiquement Avec Des Techniques Pratiques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tech-wizardry-unveiled-eradicate-chromes-window-freezes-in-windows-11-instantly/"><u>Tech Wizardry Unveiled: Eradicate Chrome's Window Freezes in Windows 11 Instantly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-textual-adventures-with-chatgpt/"><u>The Art of Textual Adventures with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-tension-with-gpt-help/"><u>Transform Your Tension with GPT Help</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/turing-test-upgrades-top-5-contemporary-approaches/"><u>Turing Test Upgrades: Top 5 Contemporary Approaches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-need-for-stricter-ai-oversight-insights-from-openais-leader/"><u>Understanding the Need for Stricter AI Oversight: Insights From OpenAI's Leader</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-secrets-of-ai-understanding-top-29-industry-terms-and-concepts/"><u>Unlock the Secrets of AI: Understanding Top 29 Industry Terms and Concepts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-excel-superiority-tasks-it-executes-better-than-chatgpt/"><u>Unlocking Excel Superiority: Tasks It Executes Better Than ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-hidden-potential-5-underused-features-of-chatgpt-you-need-to-know-about/"><u>Unlocking Hidden Potential: 5 Underused Features of ChatGPT You Need to Know About</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-most-prominent-large-scale-linguistic-ai-models/"><u>Unveiling the Most Prominent Large Scale Linguistic AI Models</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-saving-movies-effortlessly-pc-mac-and-iosandroid/"><u>[New] Saving Movies Effortlessly PC, Mac & iOS/Android</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-windows-11-optimal-hd-video-converter-pro-transform-mkv-avchd-wmv-to-various-formats-with-ease-for-iphoneipadandroidmicrosoft-devices-compatibility/"><u>1. Windows 11 Optimal HD Video Converter Pro: Transform MKV, AVCHD, WMV to Various Formats with Ease for iPhone/iPad/Android/Microsoft Devices Compatibility</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-free-dvd-players-for-pc-and-mac-download-guide-and-comparison-review/"><u>Best Free DVD Players for PC and Mac - Download Guide & Comparison Review</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/1726029855013-clipchamp/"><u>Clipchampで簡単な手順：テキストから音声への無料変換ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/commemorating-18-years-of-innovation-digiartys-exclusive-limited-edition-collection/"><u>Commemorating 18 Years of Innovation - DigiArty's Exclusive Limited Edition Collection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/current-months-best-value-packed-deals-from-verizon/"><u>Current Month's Best Value-Packed Deals From Verizon</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-meizu-21-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Meizu 21 Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fastest-mac-compatible-iphone-dvd-ripper-quick-and-easy-conversion-of-dvds-to-iphones/"><u>Fastest Mac-Compatible iPhone DVD Ripper: Quick & Easy Conversion of DVDs to iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-predictive-emoji-issues-7-fast-solutions-for-your-iphoneipad/"><u>Fixing Predictive Emoji Issues: 7 Fast Solutions for Your iPhone/iPad</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-downloads-top-tamil-and-telugu-films-in-ultra-high-definition-uhd-quality/"><u>Free Downloads: Top Tamil and Telugu Films in Ultra High Definition (UHD) Quality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-showbox-downloads-get-the-app-on-mac-iphone-and-ipad/"><u>Free ShowBox Downloads: Get the App on Mac, iPhone & iPad</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-your-copy-the-ultimate-free-download-guide-for-the-mtvmovieandtelevisionawards2022/"><u>Get Your Copy: The Ultimate Free Download Guide for the #MTVMovieAndTelevisionAwards_2022</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guia-paso-a-paso-sobre-como-convertir-facilmente-tus-archivos-m4b-en-formatos-de-video-mkv-utilizando-herramientas-online-gratuitas/"><u>Guía Paso a Paso Sobre Cómo Convertir Fácilmente Tus Archivos M4B en Formatos De Video MKV Utilizando Herramientas Online Gratuitas</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-the-hevc-standard-impacts-quality-and-efficiency-of-4k8k-streaming-content/"><u>How the HEVC Standard Impacts Quality and Efficiency of 4K/8K Streaming Content</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-12-proplus-5g-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from 12 Pro+ 5G</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ipod/"><u>IPod対応の動画を簡単に変換して再生するための詳細ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/professionelle-workout-dvds-fur-die-optimale-gesundheit-die-beliebtesten-empfehlungen-von-experten/"><u>Professionelle Workout-DVDs Für Die Optimale Gesundheit - Die Beliebtesten Empfehlungen Von Experten</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-strategies-when-intel-systemgraphics-driver-utility-fails-on-desktop/"><u>Solution Strategies When Intel System/Graphics Driver Utility Fails on Desktop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleashing-potential-how-boosted-edge-computing-is-shaping-future-careers-insights-from-zdnet/"><u>Unleashing Potential: How Boosted Edge Computing Is Shaping Future Careers - Insights From ZDNet</u></a></li>
 </ul></div>
 

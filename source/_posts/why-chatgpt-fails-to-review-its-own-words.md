@@ -1,7 +1,7 @@
 ---
 title: Why ChatGPT Fails to Review Its Own Words
-date: 2024-11-29T04:19:16.185Z
-updated: 2024-11-30T06:11:14.076Z
+date: 2024-12-07T16:55:39.607Z
+updated: 2024-12-08T16:06:00.517Z
 tags:
   - chatgpt
   - open-ai
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -60,9 +56,17 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use [third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
 
@@ -78,10 +82,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Multi-Modal Voice and Video Interactions
 
  Everyone [wanted to see more modality in ChatGPT](https://www.makeuseof.com/gpt-5-features-we-want-to-see/) . The new ChatGPT-4o model gives access to multi-modal voice and video interaction, allowing users to engage in continuous voice and video conversations with ChatGPT, like making a video call with a human assistant. ChatGPT-4o's conversation support, video capability, and human-like voice and emotions make this new feature different from other voice assistants.
@@ -93,7 +93,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Upgraded Code Analysis
@@ -105,20 +105,20 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
@@ -141,19 +141,20 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-boosting-status-appeal-integrating-emojis-into-discord/"><u>[Updated] Boosting Status Appeal Integrating Emojis Into Discord</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screening-the-best-selecting-premium-macos-recording-apps/"><u>[Updated] In 2024, Screening the Best Selecting Premium macOS Recording Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-new-horizons-top-5-samsung-gear-vr-games/"><u>2024 Approved Exploring New Horizons - Top 5 Samsung Gear VR Games</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/are-there-size-constraints-on-gpt-3-responses/"><u>Are There Size Constraints on GPT-3 Responses?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-chatbot-software-for-conversing-and-scrutinizing-documents-a-guide-to-6-applications/"><u>Best Chatbot Software for Conversing and Scrutinizing Documents: A Guide to 6 Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/building-your-own-chatai-with-gpt-foundations/"><u>Building Your Own ChatAI with GPT Foundations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/businesses-dilemnas-five-arguments-for-keeping-ai-out/"><u>Businesses' Dilemnas: Five Arguments for Keeping AI Out</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-personal-movieseries-recommender/"><u>ChatGPT as Your Personal Movie/Series Recommender</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-desktop-software-for-windows-is-a-myth-dont-fall-victim-to-malware/"><u>ChatGPT Desktop Software for Windows Is a Myth – Don't Fall Victim to Malware</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-moto-g34-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Moto G34 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-crafting-a-cinematic-short-blending-images-and-melodies/"><u>In 2024, Crafting a Cinematic Short Blending Images and Melodies</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unveiling-the-leading-8-open-source-business-meeting-solutions/"><u>In 2024, Unveiling the Leading 8 Open-Source Business Meeting Solutions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-realme-gt-neo-5-se-by-fonelab-android-recover-data/"><u>Recover lost data from Realme GT Neo 5 SE</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-file-ogv-in-wmv-senza-costi-il-guida-completa-di-movavi/"><u>Trasforma I Tuoi File OGV in WMV Senza Costi: Il Guida Completa Di Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/digiarty18/"><u>紀念DigiArty第18周年：限定特別企劃展示</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/converting-and-watching-your-itunes-drm-encrypted-m4v-files-using-vlc/"><u>Converting and Watching Your iTunes DRM-Encrypted M4V Files Using VLC</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/die-wichtigsten-kriterien-von-computersystemen-detaillierte-anleitung-zur-verstandigung-der-systemanforderungen/"><u>Die Wichtigsten Kriterien Von Computersystemen - Detaillierte Anleitung Zur Verständigung Der Systemanforderungen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-and-convert-your-favorite-netflix-films-get-mp4-versions-for-free/"><u>Download & Convert Your Favorite Netflix Films: Get MP4 Versions For Free!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-iphone-6-plus-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From iPhone 6 Plus</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-print-problems-canon-printer-guide-in-windows-10/"><u>Fixing Print Problems: Canon Printer Guide in Windows 10</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/funimate-video-mastery-a-comprehensible-guide-for-2024/"><u>Funimate Video Mastery A Comprehensible Guide for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-a15-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy A15 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ilm-whiz-for-2024/"><u>NanoFilm Whiz for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/syncing-songs-safely-with-insta-rules/"><u>Syncing Songs Safely with Insta Rules</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-most-laugh-out-loud-youtube-clips-of-20162017-a-ranked-list/"><u>The Most Laugh-Out-Loud YouTube Clips of 2016/2017 - A Ranked List!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-tips-resolving-your-iphones-inability-to-restore-correctly/"><u>Troubleshooting Tips: Resolving Your iPhone’s Inability to Restore Correctly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tune-into-savings-effortlessly-secure-record-downloads-via-pandoras-official-downloader-app/"><u>Tune Into Savings: Effortlessly Secure Record Downloads via Pandora's Official Downloader App</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-converting-avchd-files-to-mp4-without-losing-quality/"><u>Ultimate Guide: Converting AVCHD Files to MP4 Without Losing Quality</u></a></li>
 </ul></div>
 

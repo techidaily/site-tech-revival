@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Potential of ChatGPT: The Perfect Co-Op for RPG Sessions"
-date: 2024-11-24T00:54:52.056Z
-updated: 2024-11-29T16:29:40.084Z
+date: 2024-12-05T16:35:55.462Z
+updated: 2024-12-08T16:56:39.537Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -48,11 +52,11 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
- The more context you provide your AI tool, the better of a response you'll receive.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The more context you provide your AI tool, the better of a response you'll receive.
 
 ## 2 Ask for More Information After Getting an Initial Answer
 
@@ -66,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
@@ -77,16 +85,12 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -96,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -103,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
  When designing your prompt, be very specific about what you don't want in your results. For example, if you're planning a trip, you may want to mention that you don't want to join tours or would prefer to avoid popular spots.
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
@@ -117,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
  If you're using AI to create art, it's also a good idea to upload images that the AI tool can use as examples. Meanwhile, if you want to[use Photo AI](https://www.makeuseof.com/what-is-photo-ai/) or similar tools for pictures of yourself, uploading selfies, headshots, and other images will help you achieve what you want.
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
@@ -147,24 +147,22 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-best-choices-elite-ringtone-developers-iphone/"><u>[New] 2024 Approved Best Choices Elite Ringtone Developers iPhone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dissecting-youtubes-activities-post-uploading-videos/"><u>[New] 2024 Approved Dissecting YouTube's Activities Post-Uploading Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-optimizing-your-workflow-with-bandicams-screen-recorder-features/"><u>[New] In 2024, Optimizing Your Workflow with Bandicam’s Screen Recorder Features</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-changing-frozen-moments-into-sequential-movies/"><u>2024 Approved Changing Frozen Moments Into Sequential Movies</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-unveiling-the-secrets-of-instagrams-musical-emoji-usage/"><u>2024 Approved Unveiling the Secrets of Instagram's Musical Emoji Usage</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-virtual-realms-deconstructed-insights-into-vr-ar-and-mr/"><u>2024 Approved Virtual Realms Deconstructed Insights Into VR, AR, and MR</u></a></li>
-<li><a href="https://techtrends.techidaily.com/die-besten-programme-und-websites-zum-konvertieren-von-youtube-in-mp3-audio-dateien-vergleich-der-top-10-losungen/"><u>Die Besten Programme Und Websites Zum Konvertieren Von YouTube in MP3 Audio Dateien - Vergleich Der Top 10 Lösungen</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ensuring-your-childs-safety-on-discord-with-easy-parental-control-setup/"><u>Ensuring Your Child’s Safety on Discord with Easy Parental Control Setup</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-the-value-of-auto-gpt-in-the-absence-of-gpt-4-is-it-still-a-smart-choice/"><u>Evaluating the Value of Auto-GPT in the Absence of GPT-4: Is It Still a Smart Choice?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/experience-seamless-research-make-perplexity-your-preferred-choice-the-pinnacle-of-ai-powered-google-search-unused-potential/"><u>Experience Seamless Research: Make Perplexity Your Preferred Choice, the Pinnacle of AI-Powered Google Search Unused Potential.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-artificial-intelligence-chatbots-and-their-attraction-factor/"><u>Exploring Artificial Intelligence Chatbots and Their Attraction Factor</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/future-proof-your-job-6-key-practices-for-excelling-in-an-ai-infused-workplace/"><u>Future-Proof Your Job: 6 Key Practices for Excelling in an AI-Infused Workplace</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/getting-past-blocks-solutions-for-4-common-problems/"><u>Getting Past Blocks: Solutions for 4 Common Problems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-the-chatgpt-desktop-application-surpasses-the-web-interface-in-functionality/"><u>How the ChatGPT Desktop Application Surpasses the Web Interface in Functionality</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 7 Plus</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Oppo Reno 11F 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-grok-ai-decoding-elon-musks-breakthrough-technology-and-cost-implications/"><u>Inside Grok AI: Decoding Elon Musk’s Breakthrough Technology and Cost Implications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-openai-losing-grip-on-chatgpts-management/"><u>Is OpenAI Losing Grip on ChatGPT's Management?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/language-model-battle-royale-who-takes-first-place-between-bard-chatgpt-and-offline-alpaca/"><u>Language Model Battle Royale: Who Takes First Place Between Bard, ChatGPT & Offline Alpaca?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-achieve-higher-interactions-mastering-the-art-of-square-videos/"><u>[New] Achieve Higher Interactions Mastering the Art of Square Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-adjust-privacy-settings-for-secure-online-viewing/"><u>2024 Approved Adjust Privacy Settings for Secure Online Viewing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ding-tools-for-crafting-superior-video-titles-and-tags-for-2024/"><u>5 Leading Tools for Crafting Superior Video Titles and Tags for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/digital-fortresses-fate-projecting-7-new-realities/"><u>Digital Fortresses' Fate: Projecting 7 New Realities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/empower-your-parenthood-with-a-comprehensive-guide-to-chatgpt-and-ai-innovations/"><u>Empower Your Parenthood with a Comprehensive Guide to ChatGPT and AI Innovations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-every-aspect-breakthroughs-in-apples-artificial-intelligence-showcased-at-wwdc-24/"><u>Exploring Every Aspect: Breakthroughs in Apple’s Artificial Intelligence Showcased at WWDC 24</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-good-to-great-understanding-the-five-main-upgrades-of-microsofts-gpt-4-over-gpt-35/"><u>From Good to Great: Understanding the Five Main Upgrades of Microsoft's GPT-4 over GPT-3.5</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-10-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 10 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-empowering-tiktok-sharing-on-twitter-networks/"><u>In 2024, Empowering TikTok Sharing on Twitter Networks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-sony-xperia-5-v-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Sony Xperia 5 V Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leverage-your-voice-five-strategies-to-manage-chatgpt/"><u>Leverage Your Voice: Five Strategies to Manage ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-chatgpt-blockades-understanding-four-primary-triggers-and-effective-fixes/"><u>Overcoming ChatGPT Blockades: Understanding Four Primary Triggers & Effective Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silence-a-guide-to-resolve-hdmi-sound-issues-between-your-computer-and-screentv/"><u>Solving the Silence: A Guide to Resolve HDMI Sound Issues Between Your Computer and Screen/TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-linking-your-laptop-and-tv-using-an-hdmi-cable/"><u>Step-by-Step Guide: Linking Your Laptop and TV Using an HDMI Cable</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-creative-dall-e-3-text-prompts-to-generate-stunning-images/"><u>Top 8 Creative DALL-E 3 Text Prompts to Generate Stunning Images</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-gpt-4-a-guide-to-five-complimentary-gateways/"><u>Unlocking GPT-4: A Guide to Five Complimentary Gateways</u></a></li>
 </ul></div>
 

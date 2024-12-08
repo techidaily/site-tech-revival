@@ -1,7 +1,7 @@
 ---
 title: "Expand Your Horizons with ChatGPT: A Guide to Using It in Various Languages"
-date: 2024-11-25T21:29:20.544Z
-updated: 2024-11-30T08:10:55.433Z
+date: 2024-12-03T16:06:37.842Z
+updated: 2024-12-08T16:31:12.785Z
 tags:
   - chatgpt
   - open-ai
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
 * [How to Filter and Favorite AIPRM Prompts](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#how-to-filter-and-favorite-aiprm-prompts)
 * [How to Create AIPRM Prompts](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#how-to-create-aiprm-prompts)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Crafting effective prompts for ChatGPT is crucial for quality responses. AIPRM offers a vast library of expert prompts.
@@ -48,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
  AIPRM is a[ChatGPT prompt creation Chrome extension](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/) with an extensive library of prompts created by a community of experts. The prompts are designed to help you create better AI-generated responses and save time. AIPRM's curated prompts cover a vast range of topics, including marketing, copywriting, DevOps, productivity, and software engineering, to name a few.
 
  In addition to the extensive library of community prompts, you can also use AIPRM for ChatGPT to create and save AI prompts for future use. This feature is especially useful if you have specific needs or frequently work on similar topics. It means you won't need to spend time crafting a new prompt for the same task each time you use ChatGPT.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is the AIPRM Chrome Extension Free?
 
@@ -71,17 +63,21 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
 4. This should automatically direct you to your ChatGPT homepage, where you will see a terms & conditions popup for the AIPRM extension. Tick the checkbox to agree and click**Confirm.**  
 ![AIPRM terms and conditions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-terms-conditions-chatgpt.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You should now see the AIPRM dashboard on your ChatGPT page.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use the AIPRM for ChatGPT Chrome Extension
 
  To get started, go to your ChatGPT account. You should see the AIPRM dashboard on your homepage. Click the**thumbs-up or down** icon on the green popup that appears to dismiss it. You can now use the extension directly from your ChatGPT account.
 
 ![The AIPRM green popup in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-green-popup.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As you can see, there are several tabs in the AIPRM dashboard, including:
 
@@ -94,11 +90,11 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
 ![The AIPRM for ChatGPT dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-chatgpt-dashboard.jpeg)
 
- You can start using AIPRM prompts by clicking the**Public** tab and scrolling through the list of available prompts. For instance, you can select the**Midjourney Prompt Generator** to get a detailed and descriptive prompt to generate a unique AI image. Type a keyword, and it will generate a detailed and descriptive prompt, which you can copy and paste into Midjourney.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can start using AIPRM prompts by clicking the**Public** tab and scrolling through the list of available prompts. For instance, you can select the**Midjourney Prompt Generator** to get a detailed and descriptive prompt to generate a unique AI image. Type a keyword, and it will generate a detailed and descriptive prompt, which you can copy and paste into Midjourney.
 
 ## How to Filter and Favorite AIPRM Prompts
 
@@ -108,11 +104,11 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
 ![The AIPRM for ChatGPT Activity filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/filter-aiprm-prompts.jpeg)
 
- Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the**Star** icon next to the prompt to add it to your**Favorites** tab. Next, go to the**Favorites** tab to view and access all your saved prompts.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the**Star** icon next to the prompt to add it to your**Favorites** tab. Next, go to the**Favorites** tab to view and access all your saved prompts.
 
 ## How to Create AIPRM Prompts
 
@@ -136,6 +132,10 @@ To create a custom AIPRM prompt:
 
 ![AIPRM for ChatGPT prompt template creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-prompt-template-creation.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once your prompt is saved, you can find it under the**Own** tab.
 
  You have just created your first AIPRM prompt! Test it out and see what kind of response you get from ChatGPT. You can always edit your prompt by clicking the**pencil** icon next to it.
@@ -157,22 +157,19 @@ To create a custom AIPRM prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-exploring-social-boundaries-sign-up-for-a-facebook-profile/"><u>[New] 2024 Approved Exploring Social Boundaries Sign Up for a Facebook Profile</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-superior-way-of-stitching-gopro-recordings-in-extended-spherical-videos/"><u>[New] Superior Way of Stitching GoPro Recordings in Extended Spherical Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-saturate-scenes-with-circular-edge-dilution-photosuite/"><u>[Updated] 2024 Approved Saturate Scenes with Circular Edge Dilution PhotoSuite</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-easy-way-to-spruce-up-your-youtube-feedback-with-emojis/"><u>[Updated] In 2024, The Easy Way to Spruce Up Your YouTube Feedback with Emojis</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ending-auto-bluetooth-activation-in-win11/"><u>Ending Auto-Bluetooth Activation in Win11</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-honor-play-40c-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor Play 40C Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mental-healing-on-the-rise-with-top-5-bot-counselors/"><u>Mental Healing on the Rise with Top 5 Bot Counselors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigate-the-future-of-cryptos-best-chatbot-tools-featuring-chatgpt-for-traders/"><u>Navigate the Future of Cryptos: Best Chatbot Tools Featuring ChatGPT for Traders</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-nearby-areas-for-an-immersive-roblox-experience-for-2024/"><u>Navigating Nearby Areas for an Immersive Roblox Experience for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-hugging-face-clarifying-its-essence-and-practical-uses/"><u>Navigating Through Hugging Face - Clarifying Its Essence & Practical Uses</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/no-phone-number-necessary-step-by-step-guide-to-signing-up-on-chatgpt-telegram-and-more/"><u>No-Phone-Number Necessary: Step-by-Step Guide to Signing Up on ChatGPT, Telegram & More</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/poetic-creation-simplified-unleash-your-inner-bard-with-chatgpt/"><u>Poetic Creation Simplified: Unleash Your Inner Bard with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/probing-into-the-rights-behind-machine-made-masterpieces/"><u>Probing Into the Rights Behind Machine-Made Masterpieces</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protecting-your-data-from-the-top-9-fake-ai-assistant-viruses-and-malware-programs/"><u>Protecting Your Data From the Top 9 Fake AI Assistant Viruses and Malware Programs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/proven-strategies-for-effective-gpt-3-application-at-openai/"><u>Proven Strategies for Effective GPT-3 Application at OpenAI</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-applications-from-your-mac/"><u>Step-by-Step Guide: Removing Applications From Your Mac</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-innovative-strategies-for-hosting-zero-cost-online-courses/"><u>[New] Innovative Strategies for Hosting Zero-Cost Online Courses</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-soft-endings-dimming-down-music-tracks-in-premiere-pro/"><u>[Updated] Crafting Soft Endings Dimming Down Music Tracks in Premiere Pro</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-convert-youtube-videos-to-mp3-songs-on-mac/"><u>[Updated] How to Convert YouTube Videos to MP3 Songs on Mac</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-quick-tips-for-iphones-screen-recording-for-2024/"><u>[Updated] Quick Tips for iPhones Screen Recording for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sky-cameras-battle-dji-pro-versus-gopro-fury/"><u>[Updated] Sky Cameras Battle DJI Pro Versus GoPro Fury</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-guide-to-professional-thumbnail-dimensions-for-youtube-for-2024/"><u>[Updated] The Essential Guide to Professional Thumbnail Dimensions for YouTube for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-sonys-advanced-playstation-vr2-an-immersive-glimpse-into-future-gaming/"><u>Discovering Sony's Advanced PlayStation VR2 - An Immersive Glimpse Into Future Gaming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-prevent-meta-from-leveraging-your-social-media-images-for-ai-training-on-instagram-and-facebook/"><u>How to Prevent Meta From Leveraging Your Social Media Images for AI Training on Instagram & Facebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-ralink-rt3290-drivers-for-windows-11-8-and-7-systems/"><u>How to Successfully Update Ralink RT3290 Drivers for Windows 11, 8 & 7 Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-y200-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo Y200 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-garmin-virb-ultra-30-your-companion-for-outdoor-capture/"><u>In 2024, Garmin VIRB Ultra 30 – Your Companion for Outdoor Capture</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-your-chatgpt-chat-history-vanishing-learn-these-simple-tricks-for-persistent-conversation-storage/"><u>Is Your ChatGPT Chat History Vanishing? Learn These Simple Tricks for Persistent Conversation Storage!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/localize-ai-art-creation-with-stable-diffusion-on-your-personal-computer/"><u>Localize AI Art Creation with Stable Diffusion on Your Personal Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-ai-image-generation-with-chatgpt-and-dall-e-integration-techniques/"><u>Mastering the Art of AI Image Generation with ChatGPT & DALL-E Integration Techniques</u></a></li>
 </ul></div>
 

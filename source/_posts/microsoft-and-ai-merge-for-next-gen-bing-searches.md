@@ -1,7 +1,7 @@
 ---
 title: Microsoft and AI Merge for Next-Gen Bing Searches
-date: 2024-11-25T07:25:55.759Z
-updated: 2024-11-30T05:42:58.640Z
+date: 2024-12-05T16:43:43.412Z
+updated: 2024-12-08T17:04:21.025Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
  Arguments exist for and against setting up a local LLM on your computer. We'll cut the hype and bring you the facts. Should you use a local LLM?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Pros of Using Local LLMs
 
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
@@ -45,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
  Why are people so hyped about setting up their own[large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) on their computers? Beyond the hype and bragging rights, what are some practical benefits?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Less Censorship
@@ -54,21 +50,17 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
  Today, both[chatbots have been so tightly censored](https://www.makeuseof.com/what-is-chatbot-censorship/) that they won't even help you write a fictional crime novel with violent scenes. Some AI chatbots won't even talk about religion or politics. Although LLMs you can set up locally aren't entirely censorship-free, many of them will gladly do the thought-provoking things the public-facing chatbots won't do. So, if you don't want a robot lecturing you about morality when discussing topics of personal interest, running a local LLM might be the way to go.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Better Data Privacy
 
  One of the primary reasons people opt for a local LLM is to ensure that whatever happens on their computer stays on their computer. When you use a local LLM, it's like having a conversation privately in your living room—no one outside can listen in. Whether you're experimenting with your credit card details or having sensitive personal conversations with the LLM, all the resulting data is stored only on your computer. The alternative is using publicly-facing LLMs like GPT-4, which gives the companies in charge access to your chat information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offline Usage
 
  With the internet being widely affordable and accessible, offline access might seem like a trivial reason to use a local LLM. Offline access could become especially critical in remote or isolated locations where internet service is unreliable or unavailable. In such scenarios, a local LLM operating independently of an internet connection becomes a vital tool. It allows you to continue doing whatever you want to do without interruption.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Cost Savings
 
@@ -82,11 +74,19 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
 ![An illustration of a young boy using ChatGPT on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-child.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Before you make the switch, there are some downsides to using a local LLM you should consider.
 
 ### 1\. Resource Intensive
 
  To run a performant local LLM, you'll need high-end hardware. Think powerful CPUs, lots of RAM, and likely a dedicated GPU. Don't expect a $400 budget laptop to provide a good experience. Responses will be painfully slow, especially with larger AI models. It's like running cutting-edge video games—you need beefy specs for optimal performance. You may even need specialized cooling solutions. The bottom line is that local LLMs require an investment in top-tier hardware to get the speed and responsiveness you enjoy on web-based LLMs (or even improve on that). The computing demands on your end will be significant compared to using web-based services.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Slower Responses and Inferior Performance
 
@@ -125,24 +125,22 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-active-recorder-assessment-industry-standards-met-in-2024/"><u>[Updated] Active Recorder Assessment Industry Standards Met, In 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-metaverse-madness-top-tips-for-crafting-hitsome-memes/"><u>[Updated] Metaverse Madness Top Tips for Crafting Hitsome Memes</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-unlocking-video-excellence-on-tiktok-through-effective-templates-use/"><u>[Updated] Unlocking Video Excellence on TikTok Through Effective Templates Use</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/access-chatgpt-effortlessly-discover-5-free-alternatives/"><u>Access ChatGPT Effortlessly - Discover 5 Free Alternatives</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/access-the-power-of-gpt-4-without-spending-a-penny-discover-these-5-approaches/"><u>Access the Power of GPT-4 Without Spending a Penny: Discover These 5 Approaches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ace-any-interview-with-the-help-of-chatgpt-a-step-by-step-guide/"><u>Ace Any Interview with the Help of ChatGPT - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ace-job-applications-with-confidence-write-a-professional-resume-using-chatgpt/"><u>Ace Job Applications With Confidence - Write a Professional Resume Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ais-impact-a-parents-guide-to-chatgpt/"><u>AI's Impact: A Parent's Guide to ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-the-impactful-elements-of-using-chatgpt-as-a-complementary-tool-in-mental-health-care/"><u>Assessing the Impactful Elements of Using ChatGPT as a Complementary Tool in Mental Health Care</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-ai-interactions-with-these-7-must-have-chatgpt-chrome-extensions/"><u>Boost Your AI Interactions with These 7 Must-Have ChatGPT Chrome Extensions!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-productivity-expert-tips-on-using-chatgpt-for-efficient-note-taking/"><u>Boost Your Productivity: Expert Tips on Using ChatGPT for Efficient Note-Taking</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-household-efficiency-with-ai-assistance/"><u>Boosting Household Efficiency with AI Assistance</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-sound-driver-problems-on-a-windows-7-pc/"><u>Diagnosing and Repairing Sound Driver Problems on a Windows 7 PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhance-in-built-soundscape-resolving-windows-1n-11s-muted-sound-dilemma/"><u>Enhance In-Built Soundscape: Resolving Windows 1N 11'S Muted Sound Dilemma</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fix-your-device-with-updated-elan-smbus-driver-step-by-step-guide-for-windows-users/"><u>Fix Your Device with Updated ELAN Smbus Driver: Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-non-working-windows-performance-indicator/"><u>Fixing Non-Working Window's Performance Indicator</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-making-every-gift-discovery-special/"><u>In 2024, Making Every Gift Discovery Special</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-no-cost-video-blurring-the-best-online-tools-and-techniques-for-2024/"><u>Updated No-Cost Video Blurring The Best Online Tools and Techniques for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-comical-connections-top-websites-for-funny-phone-sounds/"><u>[Updated] In 2024, Comical Connections Top Websites for Funny Phone Sounds</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2020-iphone-battery-drainage-solutions-enhance-your-iphones-battery-life-with-effective-tips-and-apps/"><u>2020 iPhone Battery Drainage Solutions - Enhance Your iPhones' Battery Life with Effective Tips and Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1724766621231-macx-video-converter-pro/"><u>如何在线立即购买MacX Video Converter Pro！</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boost-your-traffic-with-our-cutting-edge-cookiebot-technology/"><u>Boost Your Traffic with Our Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boosting-performance-top-tips-for-gamers-using-windows-11/"><u>Boosting Performance: Top Tips for Gamers Using Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/converting-mkv-videos-to-mp4-format-a-step-by-step-guide-using-vlc-media-player/"><u>Converting MKV Videos to MP4 Format: A Step-by-Step Guide Using VLC Media Player</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-free-up-memory-on-your-32gb-or/"><u>How to Free Up Memory on Your 32GB Or</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-realme-gt-3-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Realme GT 3 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-poco-m6-pro-4g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Poco M6 Pro 4G FRP Bypass</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ipadusb/"><u>IPadへUSBメモリインストール手順／効果的にデータ転送するためのガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macx-dvdapple-tvmac/"><u>MacX: 簡単な方法でDVDをApple TVファイルにMac上で変換する</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/migrar-archivos-de-mpeg-4-a-formato-avi-online-sin-coste-adicional-guia-paso-a-paso-con-movavi/"><u>Migrar Archivos De MPEG-4 a Formato AVI Online Sin Coste Adicional: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-cyberpunk-2077s-issues-with-lags-and-frame-drops/"><u>Resolved: Cyberpunk 2077'S Issues with Lags & Frame Drops</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-avchd-to-prores-conversion-techniques-using-advanced-software-solutions/"><u>Seamless AVCHD to ProRes Conversion Techniques Using Advanced Software Solutions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/614572-9781439145449-the-spaceships-of-the-visitors/"><u>The Spaceships of the Visitors | Free Book</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oppo-k11-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Oppo K11 5G FRP Bypass</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iphoneand20/"><u>スマホで楽しむ！iPhoneの人気動画ダウンロード&保存アプリトップ20(免費版・有料版)</u></a></li>
 </ul></div>
 

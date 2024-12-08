@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Fear of AI: Top 8 Teacher Insights"
-date: 2024-11-23T19:46:44.810Z
-updated: 2024-11-30T04:26:31.272Z
+date: 2024-12-02T17:00:07.593Z
+updated: 2024-12-08T16:33:30.258Z
 tags:
   - chatgpt
   - open-ai
@@ -46,11 +46,11 @@ Here is the standard interpretation of the Turing Test:
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Drawbacks of the Turing Test
@@ -64,18 +64,18 @@ Here is the standard interpretation of the Turing Test:
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the last ten years, there have been two main claims that the Turing Test has been passed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Eugene Goostman
 
@@ -84,10 +84,6 @@ Here is the standard interpretation of the Turing Test:
  Since 2014 there have been many speculations and controversies surrounding the claim. One of the main criticisms against Eugene Goostman was the deceptive lowering of Turing Test criteria. The developers claimed the computer to be a 13-year-old boy who does not natively speak English and lives far enough away from modern society to be ignorant of topics such as geography, pop culture, etc.
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Google's LaMBDA
 
@@ -106,6 +102,10 @@ Here is the standard interpretation of the Turing Test:
  Computer intelligence focuses on deep learning technologies, natural language processing, reinforcement learning, generative adversarial networks, and edge computing with IoT integration. All of which have seen significant advancements in the past five years. These areas continue to evolve at an incredible rate thanks to computer intelligence being used to improve itself.
 
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if[AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ChatGPT
 
@@ -136,18 +136,18 @@ Here is the standard interpretation of the Turing Test:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-optimize-visual-output-with-free-luts-in-your-obs-studio-setup/"><u>[Updated] In 2024, Optimize Visual Output with Free LUTs in Your OBS Studio Setup</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-transform-your-visuals-master-11-key-techniques-for-color-correction/"><u>[Updated] Transform Your Visuals Master 11 Key Techniques for Color Correction</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/e-a-livestream-king-the-best-webcams-for-youtube-stars/"><u>Become a Livestream King The Best Webcams for YouTube Stars</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bot-privacy-hazards-essential-3-insights-to-consider/"><u>Bot Privacy Hazards: Essential 3 Insights to Consider</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-driven-techniques-for-successful-interview-prep/"><u>ChatGPT-Driven Techniques for Successful Interview Prep</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-comedy-capabilities-an-insight-into-whether-machines-can-truly-be-funny/"><u>ChatGPT's Comedy Capabilities: An Insight Into Whether Machines Can Truly Be Funny</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-the-right-conversational-agent-snapchats-my-ai-vs-chatgpt/"><u>Choosing the Right Conversational Agent: Snapchat's My AI Vs. ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-conversational-companions-le-chat-vs-gpt-3/"><u>Comparing Conversational Companions: Le Chat vs GPT-3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conquering-challenges-with-gpt-3-openai-style/"><u>Conquering Challenges with GPT-3, OpenAI Style</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-realme-gt-5-pro-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Realme GT 5 Pro.</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-connection-issues-and-prevent-packet-loss-in-discord/"><u>How To Resolve Connection Issues and Prevent Packet Loss in Discord?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Infinix Note 30i? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-laugh-out-loud-top-video-dubbing-apps-for-comedy-and-fun/"><u>Updated In 2024, Laugh-Out-Loud Top Video Dubbing Apps for Comedy and Fun</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-top-6-web-based-tiktok-to-audio-converter-free/"><u>[Updated] Top 6 Web-Based TikTok to Audio Converter Free</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1726028682136-clipchamp/"><u>「Clipchamp」ビデオにおすすめ曲を挟む方法：ステップバイステップ</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-june-24th-edition-solving-the-new-york-times-puzzle-379-expert-insights-and-answers/"><u>1. 'June 24Th Edition: Solving The New York Times Puzzle #379 - Expert Insights & Answers'</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-revitalize-your-online-identity-top-5-indicators-its-time-to-update-your-email/"><u>1. Revitalize Your Online Identity: Top 5 Indicators It's Time to Update Your Email</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2-decode-todays-nyt-masterpiece-comprehensive-answers-to-connections-hints-august-8-update-423/"><u>2. Decode Today's NYT Masterpiece: Comprehensive Answers to Connections Hints – August 8 Update (#423)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-exclusive-listing-top-15-platforms-for-gopro-optimal-use/"><u>2024 Approved Exclusive Listing Top 15 Platforms for GoPro Optimal Use</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-filmoras-route-to-convert-avi-to-eye-catching-gifs/"><u>2024 Approved Filmora’s Route to Convert AVI to Eye-Catching GIFs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/august-7th-new-york-times-puzzle-insights-and-solutions-edition-422-discover-the-secrets/"><u>August 7Th New York Times Puzzle Insights & Solutions, Edition #422 - Discover the Secrets!</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/discover-the-top-10-platforms-offering-free-online-movie-viewing-instantly/"><u>Discover the Top 10 Platforms Offering Free Online Movie Viewing Instantly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/game-changing-fixes-for-lost-ark-smoother-experience-with-better-fps-control/"><u>Game-Changing Fixes for Lost Ark - Smoother Experience with Better FPS Control</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-13-pro-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 13 Pro Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/microsofts-hololens-adventure-a-3d-visionary-experience-for-2024/"><u>Microsoft’s HoloLens Adventure – A 3D Visionary Experience for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-best-smart-home-upgrade-in-depth-review-of-the-tp-link-tapo-s505d-smart-wi-fi-dimmer-switch/"><u>Unveiling the Best Smart Home Upgrade: In-Depth Review of the TP-Link Tapo S505D Smart Wi-Fi Dimmer Switch</u></a></li>
 </ul></div>
 

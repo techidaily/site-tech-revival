@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Risk: Are Alternative ChatGPT Plugins Secure to Use?"
-date: 2024-11-28T16:52:13.702Z
-updated: 2024-11-30T08:22:58.177Z
+date: 2024-12-03T16:12:34.393Z
+updated: 2024-12-08T17:12:25.838Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
@@ -31,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -46,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the Open-Source ChatGPT Desktop Application?
 
  ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
@@ -62,15 +54,19 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -81,7 +77,11 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -107,22 +107,17 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-finest-17-laptop-models-dominating-2024s-tech-scene/"><u>Discover the Finest 17 Laptop Models Dominating 2024'S Tech Scene</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-coding-game-on-a-budget-tapping-into-the-power-of-gpt-4-via-copilots-free-toolkit/"><u>Elevate Your Coding Game on a Budget: Tapping Into the Power of GPT-4 via Copilot's Free Toolkit</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-iphone-6s-plus-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from iPhone 6s Plus or iPad?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-into-tomorrow-latest-apps-and-gaming-on-windows-10/"><u>In 2024, Step Into Tomorrow Latest Apps & Gaming on Windows 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-eliminating-unwanted-straight-lines-across-your-monitor/"><u>Step-by-Step Guide: Eliminating Unwanted Straight Lines Across Your Monitor</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-essence-of-generative-ai-in-a-nutshell/"><u>The Essence of Generative AI in a Nutshell</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-hidden-dangers-of-relying-on-ai-chatbots-for-windows-11-key-generation-explained/"><u>The Hidden Dangers of Relying on AI Chatbots for Windows 11 Key Generation Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-non-experts-guide-to-ai/"><u>The Non-Expert's Guide to AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-walkthrough-getting-started-with-microsoft-copilot-on-mac-osx/"><u>The Ultimate Walkthrough: Getting Started with Microsoft Copilot on Mac OSX</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-unexpected-suspension-of-chatgpt-in-italy-reasons-and-implications/"><u>The Unexpected Suspension of ChatGPT in Italy - Reasons and Implications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-20-essential-conversations-with-chatgpt-uncovered-gems-on-github/"><u>Top 20 Essential Conversations with ChatGPT: Uncovered Gems on GitHub</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-frequent-chatgpt-issues-solutions-unveiled/"><u>Top 6 Frequent ChatGPT Issues: Solutions Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-digital-resources-for-enhancing-your-ability-in-crafting-effective-prompts/"><u>Top 7 Digital Resources for Enhancing Your Ability in Crafting Effective Prompts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/training-leaders-before-deploying-artificial-intelligence-insights-from-zdnet/"><u>Training Leaders Before Deploying Artificial Intelligence: Insights From ZDNet</u></a></li>
-<li><a href="https://win-data.techidaily.com/upgrade-to-requirejs-for-a-streamlined-user-experience-on-windows-10-and-11/"><u>Upgrade to RequireJS for a Streamlined User Experience on Windows 10 and 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unlocking-the-secrets-to-efficient-image-capturing/"><u>[New] 2024 Approved Unlocking the Secrets to Efficient Image Capturing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-tips-and-tricks-for-clearing-cluttered-backdrops-in-figma/"><u>2024 Approved Tips and Tricks for Clearing Cluttered Backdrops in Figma</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai2024-iphoneandroid5/"><u>AI駆使した2024年度版: IPhone/Android両用、動画高画質化アプリトップ5選!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/benchmark-testing-of-the-linksys-ea8300-router-revolutionary-approach-to-synchronizing-your-tech-ecosystem/"><u>Benchmark Testing of the Linksys EA8300 Router: Revolutionary Approach to Synchronizing Your Tech Ecosystem</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-free-software-downloading-top-3-windows-1011-dvd-ripping-tools-full-versions-available/"><u>Best Free Software: Downloading Top 3 Windows 10/11 DVD Ripping Tools - Full Versions Available</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-windows-10-update-issue-0x80240034-error-solution-explained/"><u>How to Overcome the Windows 10 Update Issue – 0X80240034 Error Solution Explained</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-complete-insight-visionpro-x-review-the-2023-edition-explored/"><u>In 2024, Complete Insight VisionPro X Review – The 2023 Edition Explored</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-enhance-your-iphones-photography-top-rated-film-and-shot-accessories/"><u>In 2024, Enhance Your iPhone's Photography Top-Rated Film & Shot Accessories</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/key-factors-in-choosing-the-right-secondhand-ipad/"><u>Key Factors in Choosing the Right Secondhand iPad</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-your-library-convert-dvds-for-free-using-winx-dvd-ripper-supporting-iphone-and-android-playback-formats-mp4-and-avi/"><u>Unlock Your Library: Convert DVDs for Free Using WinX DVD Ripper Supporting iPhone and Android Playback Formats MP4 & AVI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-disney-content-a-step-by-step-guide-to-removing-copyright-restrictions/"><u>Unlocking Disney Content: A Step-by-Step Guide to Removing Copyright Restrictions</u></a></li>
 </ul></div>
 

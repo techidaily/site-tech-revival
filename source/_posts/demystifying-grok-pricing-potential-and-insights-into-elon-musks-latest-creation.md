@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Grok: Pricing, Potential & Insights Into Elon Musk's Latest Creation"
-date: 2024-11-28T02:21:02.377Z
-updated: 2024-11-30T00:53:50.417Z
+date: 2024-12-04T16:58:48.856Z
+updated: 2024-12-08T16:28:54.004Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It doesn't make a difference if you're polite to AI. This is because AI like ChatGPT, Alexa, or Siri cannot process emotions like humans, and it won't be offended if you're not polite.
 
  AI uses[machine learning and deep learning](https://www.makeuseof.com/tag/machine-learning-algorithms/) algorithms to process data and answer your queries. This means it doesn't rely on personal opinion to decide.
@@ -37,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 ![chatgpt no feelings or emotions text march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-no-feelings-or-emotions-text.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
@@ -47,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
@@ -57,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can AI Be Rude to You?
@@ -65,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  AI chatbots also present biased opinions since they've learned from humans, and, at times,[AI will hallucinate answers](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) and deliver them with confidence. However, we're still in the early days of AI adoption, and leading tech companies like OpenAI and Microsoft acknowledge that AI systems will improve with more user feedback. GPT-4 is testament to that improvement since it has safer responses than GPT 3.5,[among other differences](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
 
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Interact With AI How You Want
 
@@ -101,16 +101,17 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-no-screen-only-silence-a6400-dilemma/"><u>[New] 2024 Approved No Screen, Only Silence A6400 Dilemma</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-reviewing-videoshow-in-its-fullest-for-24-edition/"><u>[New] 2024 Approved Reviewing VideoShow in Its Fullest for '24 Edition</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-mobile-and-dslr-shooting-igtv-with-perfection/"><u>[Updated] 2024 Approved Mastering Mobile & DSLR Shooting IGTV with Perfection</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/acer-expands-3d-display-options-with-latest-range-of-affordable-monitors-and-laptops/"><u>Acer Expands 3D Display Options with Latest Range of Affordable Monitors & Laptops</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-thriving-livestreams-strategies-for-beginners-with-low-followers/"><u>In 2024, Thriving Livestreams Strategies for Beginners with Low Followers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/narrative-crafting-via-chatgpt-text-games/"><u>Narrative Crafting via ChatGPT Text Games</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-fresh-twitter-conspiracies-the-inception-of-meta-verification-and-a-deep-dive-into-chatgpt/"><u>Navigating Through Fresh Twitter Conspiracies: The Inception of Meta Verification & A Deep Dive Into ChatGPT-</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/next-level-imagery-discovering-8-powerful-dall-e-3-creative-triggers/"><u>Next Level Imagery: Discovering 8 Powerful DALL-E 3 Creative Triggers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/nourish-and-delight-ai-driven-culinary-techniques-youll-love/"><u>Nourish and Delight: AI-Driven Culinary Techniques You'll Love</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-unleash-your-creativity-simple-gopro-hd-video-editing-techniques-for-2024/"><u>Updated Unleash Your Creativity Simple GoPro HD Video Editing Techniques for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oneplus-open-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On OnePlus Open? Fixed | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/daptive-content-strategies-for-optimal-youtube-performance-for-2024/"><u>[New] Adaptive Content Strategies for Optimal YouTube Performance for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-top-10-for-streamed-television/"><u>[Updated] Navigating the Top 10 for Streamed Television</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-your-video-sessions-with-zoom-on-youtube-platform/"><u>2024 Approved Tailoring Your Video Sessions with Zoom on YouTube Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027038471-gif/"><u>完璧なGIFを作成:対象の背景を透明にする方法トップ５推薦</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-chatgpt-challenge-established-online-search-platforms-for-supremacy/"><u>Can ChatGPT Challenge Established Online Search Platforms for Supremacy?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/getting-started-with-microsoft-copilot-on-macos-systems/"><u>Getting Started with Microsoft Copilot on macOS Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-15-plus-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 15 Plus Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-a-perfect-photomontage-like-a-pro/"><u>In 2024, Crafting a Perfect PhotoMontage Like a Pro</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-google-meet-live-streaming-for-beginners-stepwise-guide-to-youtube/"><u>In 2024, Google Meet Live-Streaming for Beginners Stepwise Guide to YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-working-in-prompt-engineering-validated-by-industry-trends-analyzing-key-considerations/"><u>Is Working in Prompt Engineering Validated by Industry Trends? Analyzing Key Considerations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-crypto-trades-with-chatgpt-explore-5-innovative-uses-for-better-returns/"><u>Mastering Crypto Trades with ChatGPT: Explore 5 Innovative Uses for Better Returns</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-gamefi-struggles-to-convert-gamer-audiences/"><u>Why GameFi Struggles to Convert Gamer Audiences</u></a></li>
 </ul></div>
 

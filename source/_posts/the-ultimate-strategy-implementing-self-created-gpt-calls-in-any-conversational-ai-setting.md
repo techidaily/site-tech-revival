@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Strategy: Implementing Self-Created GPT Calls in Any Conversational AI Setting"
-date: 2024-11-27T03:54:31.151Z
-updated: 2024-11-30T06:43:03.744Z
+date: 2024-12-03T16:20:12.085Z
+updated: 2024-12-08T16:24:30.790Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
  To compare Google Bard and Bing AI Chat, we derived a simple test. We used them to conduct research for an imaginary article on atmospheric CO2 levels and climate change. This enabled us to draw comparisons on several metrics, including the quality and size of the response, the accuracy of the data, and ease of use.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bing Chat vs. Google Bard: Response Quality
 
  We began by asking both platforms an identical question: "How do modern-day CO2 levels compare to the last ice age?"
@@ -40,23 +36,19 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
 
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The first notable difference is the approach taken in quantifying CO2 levels. Rather than list CO2 levels in terms of ppm, Bing Chat presented the data in terms of percentages.
 
  The length and tone of the responses also differed. The Bing Chat response was shorter and more restrained, not offering opinions on the problem or potential solutions.
 
  Bard produced a longer answer that also discussed the problem and the need to take urgent action. This was outside the focus of the question, but it confirms just how quickly the tone and direction of any research can be swayed depending on the tool you use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Response Accuracy
 
@@ -70,15 +62,7 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![Screenshot Bard  CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Ease of Use
 
@@ -98,6 +82,10 @@ We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As both platforms are going through rapid development, the user experience will continue to improve.
 
 ## What Are the Differences Between the Language Models?
@@ -110,9 +98,17 @@ We did manage to get a response from Bard by rewording the prompt.
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Is Best for You: Bing Chat or Google Bard?
 
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This is a case of choosing the right tool for the right job. When we compare the performance of both platforms, Bing Chat seems to edge it. However, there are some provisos to consider. The first is that the Microsoft offering is a more complete product, while Bard is still rough around the edges.
 
@@ -125,6 +121,10 @@ We did manage to get a response from Bard by rewording the prompt.
  Both tools are incredibly powerful and can generate intelligent answers to any prompt. But both have pros and cons, and the ultimate choice is likely to be decided by factors like user preferences and the desired output type.
 
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Era of the Chatbot Is Upon Us
 
@@ -147,19 +147,20 @@ We did manage to get a response from Bard by rewording the prompt.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-social-media-wiz-how-to-create-captivating-slideshow-stories-for-facebook/"><u>[New] Social Media Wiz How to Create Captivating Slideshow Stories for Facebook</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-5-android-emulators-for-playstation-2-gaming/"><u>[Updated] Top 5 Android Emulators for PlayStation 2 Gaming</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ructing-an-inviting-subscribe-link-for-youtube-enthusiasts-for-2024/"><u>Constructing an Inviting Subscribe Link for YouTube Enthusiasts for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-5-free-chatgpt-powered-tools-to-craft-professional-emails-and-inbox-summaries-effortlessly/"><u>Discover the Ultimate 5 Free ChatGPT-Powered Tools to Craft Professional Emails & Inbox Summaries Effortlessly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dive-into-ai-nine-gatherings-for-novices/"><u>Dive Into AI: Nine Gatherings for Novices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortlessly-elevate-your-ai-experience-free-powerful-and-smart-with-gpt-4-and-copilot/"><u>Effortlessly Elevate Your AI Experience: Free, Powerful and Smart with GPT-4 & Copilot</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-client-satisfaction-developing-bespoeke-exercise-programs-using-chatgpt/"><u>Enhancing Client Satisfaction: Developing Bespoeke Exercise Programs Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-reasons-no-place-for-chatgpt-in-crypto-research/"><u>Essential Reasons: No Place for ChatGPT in Crypto Research</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-best-obs-settings-for-low-end-pc/"><u>In 2024, Best OBS Settings for Low-End PC</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-silence-by-design-techniques-for-gradually-dimming-soundtracks-in-premiere-pro/"><u>In 2024, Silence by Design Techniques for Gradually Dimming Soundtracks in Premiere Pro</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/g-the-most-of-your-youtube-thumbnail-space-for-2024/"><u>Making the Most of Your YouTube Thumbnail Space for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pickus-claim-the-ultimate-editor-or-just-another-featured-app-in-android/"><u>PickU's Claim – The Ultimate Editor or Just Another Featured App in Android?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rearrange-window-orientation-via-windows-ui/"><u>Rearrange Window Orientation via Windows UI</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-low-end-pc-visual-recorders/"><u>[New] 2024 Approved Low-End PC Visual Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-explore-the-best-ios-options-to-simulate-your-favorite-psp-classics/"><u>[New] In 2024, Explore the Best iOS Options to Simulate Your Favorite PSP Classics</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nveiling-carryminatis-channel-economics-ajey/"><u>[New] Unveiling CarryMinati's Channel Economics (Ajey)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-navigating-vector-editing-beyond-magixs-domain/"><u>2024 Approved Navigating Vector Editing Beyond Magix's Domain</u></a></li>
+<li><a href="https://fox-links.techidaily.com/best-editors-on-smartphones-for-dji-footage-excellence-for-2024/"><u>Best Editors on Smartphones for DJi Footage Excellence for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-blu-ray-dvd-and-4k-uhd-the-ultimate-guide-to-choosing-the-best-format/"><u>Comparing Blu-Ray, DVD & 4K UHD: The Ultimate Guide to Choosing the Best Format</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-amd-radeon-rx-590-drivers-on-windows-step-by-step-guide/"><u>Download & Install AMD Radeon RX 590 Drivers on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effective-techniques-for-merging-pie-charts-in-excel-a-step-by-step-guide/"><u>Effective Techniques for Merging Pie Charts in Excel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-fix-common-itunes-issues-a-comprehensive-guide/"><u>How to Fix Common Itunes Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macx-dvd-ripper-pro-professionnel-convertisseur-de-dvd-pour-mac-os-x-en-mp4-protege-ideal-pour-liphone-et-lipad/"><u>MacX DVD Ripper Pro: Professionnel Convertisseur De DVD Pour Mac OS X en MP4 Protegé - Idéal Pour L'iPhone Et L'iPad</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/master-the-art-of-saving-newgrounds-videos-online-learn-these-3-hassle-free-strategies-today/"><u>Master the Art of Saving Newgrounds Videos Online - Learn These 3 Hassle-Free Strategies Today!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-itunes-error-code-9-a-step-by-step-guide-for-iphone-and-ipad-users/"><u>Resolving iTunes Error Code 9: A Step-by-Step Guide for iPhone and iPad Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-the-issue-troubleshooting-imovie-export-errors-across-iphone-ipad-and-mac/"><u>Solving the Issue: Troubleshooting iMovie Export Errors Across iPhone, iPad and Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-how-to-use-built-in-mac-camera-for-high-quality-recording/"><u>Step-by-Step Tutorial: How to Use Built-In Mac Camera for High-Quality Recording</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-freeware-de-compression-video-pour-mac-en-2023-designez-le-votre/"><u>Top Freeware De Compression Vidéo Pour MAC en 2023 - Designez Le Vôtre</u></a></li>
 </ul></div>
 

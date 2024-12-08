@@ -1,7 +1,7 @@
 ---
 title: "The European Union AI Act Explained: Consequences for Chatbot Technology"
-date: 2024-11-26T16:46:25.085Z
-updated: 2024-11-30T03:51:11.249Z
+date: 2024-12-05T16:44:10.457Z
+updated: 2024-12-08T16:51:01.170Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Does ChatGPT Differ From Search Engines?
 
  The most significant difference between ChatGPT and search engines is how they respond to user requests.
@@ -38,13 +34,13 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 
 ![Comparing Response of ChatGPT With Google Search Engine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/comparing-response-of-chatgpt-with-google-search-engine.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Shortly put, ChatGPT can help you find a definite answer to any question without having to search through numerous web pages on search engines. So, the chatbot eliminates additional effort, answers your question more precisely, and saves you time.
 
  However, it's important to understand[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) so that you can use it efficiently. By having a better understanding of how it was created and trained and how it generates responses, you will be able to make the most of it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Hasn't ChatGPT Affected the Search Engines So Far?
 
@@ -56,17 +52,21 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 
 ![ChatGPT Apologizing For Not Having any Information About Events Happened in 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-apologizing-for-not-having-information-about-events-happened-in-2022.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Therefore, processing real-time information is the first significant hurdle ChatGPT needs to overcome to compete directly with search engines.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. ChatGPT Can Generate Incorrect Response
 
  Despite being AI-driven, ChatGPT often gives inaccurate responses. OpenAI, the parent company of ChatGPT, admits that the chatbot sometimes generates inaccurate answers. The company has listed this shortcoming as one of the limitations of its product on its official blog.
 
 ![ChatGPT Saying It Can Also Generate Wrong Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-also-generate-wrong-answers-and-explains-why-it-does-so.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. ChatGPT Is Less Credible
 
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 ![ChatGPT  Saying It Can't Add References](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-add-references.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can[sign up and start using ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) in just a few minutes. If you haven't tried it yet, take advantage of it to enhance your productivity. Although ChatGPT isn't ready to disrupt the search engine industry just yet, does it have the potential to do so in the future?
@@ -111,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 ![ChatGPT Saying It Can't Generate Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-generate-images.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Let ChatGPT Evolve
@@ -137,17 +137,22 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-premium-voice-capture-apps-on-mac-the-best-five-ranked/"><u>[New] 2024 Approved Premium Voice Capture Apps on Mac The Best Five Ranked</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-abletons-art-of-softening-soundscapes/"><u>[Updated] 2024 Approved Ableton's Art of Softening Soundscapes</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/easy-guide-capturing-and-streaming-videos-with-audio-across-pc-mac-ios-and-android/"><u>Easy Guide: Capturing and Streaming Videos with Audio Across PC, Mac, iOS & Android</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-oppo-a1x-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Oppo A1x 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/safeguard-your-privacy-understanding-chatgpt-opt-out-options-explained/"><u>Safeguard Your Privacy: Understanding ChatGPT Opt-Out Options Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/sharpen-your-deduction-skills-with-our-selection-of-4-immersive-ai-murder-riddles/"><u>Sharpen Your Deduction Skills With Our Selection of 4 Immersive AI Murder Riddles</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/smart-algorithms-for-better-web-visibility-and-navigation/"><u>Smart Algorithms for Better Web Visibility and Navigation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/smart-study-habits-how-students-should-steer-clear-of-misusing-chatgpt/"><u>Smart Study Habits: How Students Should Steer Clear of Misusing ChatGPT</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-set-up-stable-diffusion-for-desktop-use-in-windows-through-gui/"><u>Step-by-Step Tutorial: Set Up Stable Diffusion for Desktop Use in Windows Through GUI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tailored-instructions-for-setting-up-microsoft-copilot-on-apple-systems/"><u>Tailored Instructions for Setting Up Microsoft Copilot on Apple Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-y36-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo Y36 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-mp4-encoder-software-del-2023-un-passo-passo-per-ottimizzare-i-tuoi-file-video/"><u>Top MP4 Encoder Software Del 2023: Un Passo-Passo per Ottimizzare I Tuoi File Video</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-tale-bearers-school-distinguished-dothee-for-2024/"><u>[New] Tale Bearers School - Distinguished Dothee for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-navigating-vimeo-success-strategies-for-staff-picked-videos-for-2024/"><u>[Updated] Navigating Vimeo Success Strategies for Staff-Picked Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-upgrade-your-mac-with-macos-sierra-simplified/"><u>2024 Approved How to Upgrade Your Mac with macOS Sierra Simplified</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guiding-machines-to-mankinds-ethical-path/"><u>Guiding Machines to Mankind's Ethical Path</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-y78t-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo Y78t Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y28-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y28 5G Device</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-13-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 13 to PC | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-auto-gpt-a-worthwhile-choice-if-you-dont-have-gpt-4-at-your-disposal/"><u>Is Auto-GPT a Worthwhile Choice If You Don't Have GPT-4 at Your Disposal?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mac-mastery-installing-and-making-the-most-of-microsoft-copilot/"><u>Mac Mastery: Installing and Making the Most of Microsoft Copilot</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-setup-overcoming-typical-obstacles-in-auto-gtp-implementation/"><u>Mastering the Setup: Overcoming Typical Obstacles in Auto-GTP Implementation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nine-pathways-ais-journey-in-content-creation/"><u>Nine Pathways: AI's Journey in Content Creation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-communicating-with-chatgpt-for-car-modification-support/"><u>Step-by-Step: Communicating with ChatGPT for Car Modification Support</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-emotional-support-with-our-top-picks-for-5-cutting-edge-therapy-bots/"><u>Transform Emotional Support with Our Top Picks for 5 Cutting-Edge Therapy Bots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-risks-the-six-main-cybersecurity-concerns-associated-with-using-chatgpt/"><u>Understanding Risks: The Six Main Cybersecurity Concerns Associated with Using ChatGPT</u></a></li>
 </ul></div>
 

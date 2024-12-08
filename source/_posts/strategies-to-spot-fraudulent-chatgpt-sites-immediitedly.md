@@ -1,7 +1,7 @@
 ---
 title: Strategies to Spot Fraudulent ChatGPT Sites Immediitedly
-date: 2024-11-22T16:57:00.502Z
-updated: 2024-11-29T20:52:12.538Z
+date: 2024-12-02T16:18:54.982Z
+updated: 2024-12-08T16:51:15.802Z
 tags:
   - chatgpt
   - open-ai
@@ -43,7 +43,7 @@ Type prompts such as:
 ![Screenshot ofChatGPT response to exercise prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-ofchatgpt-response-to-exercise-prompt.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The AI chatbot generates a series of solid workout plans that don’t sound too different from the advice you might get in some of those great[workout apps you’ll stick with for the long haul](https://www.makeuseof.com/best-workout-apps/) .
@@ -53,6 +53,10 @@ Type prompts such as:
  It’s notable that however you frame your prompt, ChatGPT spells out from the very first line of its answer that “I am an AI language model and not a certified fitness trainer” and advises you to consult with a healthcare professional or qualified fitness expert to devise a plan to suit your individual needs.
 
  However, ChatGPT could be a great source of initial advice if you're just after a general workout plan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use ChatGPT to Get Advice on Meal Plans or Find New Recipes
 
@@ -78,19 +82,19 @@ Type prompts such as:
 
 ![Screenshot of ChatGPT response to forming good sleep habits prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-forming-good-sleep-habits-prompt.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Use ChatGPT for Mindfulness and Meditation
 
  If you like the idea of meditation but not the reality of joining a class or practicing in front of strangers, ChatGPT can prove a great tool for giving you mindfulness and meditation ideas. Depending on your needs, you could ask for techniques for meditation or even phrases to help you to be mindful. For example, the simple prompt, “Provide some ideas for a mindful moment,” gave me excellent practical advice, such as breathing, walking in nature, and mindful eating.
 
 ![Screenshot of ChatGPT response to meditation information prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-meditation-information-prompt.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use ChatGPT for Journaling Prompts
 
@@ -101,26 +105,22 @@ Type prompts such as:
 ![Screenshot of ChatGPT response to journaling prompt question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-journaling-prompt-question.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Use ChatGPT as a Medical Symptom Checker
 
  ChatGPT can be used as a virtual symptom checker to help you identify and interpret any health symptoms and provide guidance on your next steps. It can help you decide whether you should seek medical attention and even provide suggestions for self-care measures you may wish to consider first, such as over-the-counter medications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Use ChatGPT to Get Health Advice
 
  ChatGPT can give you access to a vast range of medical information beyond simply checking symptoms. You can ask specific questions and get advice tailored to your individual health needs. Since this instant database is available free of charge from your own home, without requiring you to make appointments and consult medical experts, it brings the further advantage of relieving strain on medical services.
 
  As the technology and the AI database develops continually, there are many[reasons to consider using ChatGPT for health advice](https://www.makeuseof.com/reasons-consider-using-chatgpt-health-advice/) . Of course, you must verify any health advice provided in this manner, so here’s[how to fact-check health information from ChatGPT and AI sources](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Use ChatGPT to Understand and Manage Medications
 
@@ -163,21 +163,16 @@ Type prompts such as:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-a-friendly-tour-how-to-join-and-chill-with-peers-live-on-tiktok-for-2024/"><u>[New] A Friendly Tour How To Join and Chill with Peers Live on TikTok for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-sdr-to-hdri-pioneers-expert-tips-and-techniques/"><u>[New] In 2024, SDR to HDRI Pioneers Expert Tips and Techniques</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-exporting-tweets-as-webmaac-audio/"><u>[Updated] 2024 Approved Exporting Tweets as WebM/AAC Audio</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-a-stepwise-approach-to-successfully-posting-srt-files-in-new-media/"><u>[Updated] A Stepwise Approach to Successfully Posting SRT Files in New Media</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-dive-into-ios-screenshots-a-comprehensive-youtube-guide-for-2024/"><u>[Updated] Dive Into iOS Screenshots A Comprehensive YouTube Guide for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/macx-mediatrans-ios-iphone-ipad-mac/"><u>全功能MacX MediaTrans: 一站式iOS多媒體整理管理 - 讓你的 iPhone， iPad 和 Mac 電腦間流暢共享照片、音樂及影片</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/checking-for-breaches-in-chatgpt-systems/"><u>Checking for Breaches in ChatGPT Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparative-speeds-chatgpt-4s-laggard-legacy-vs-gpt-35/"><u>Comparative Speeds: ChatGPT-4's Laggard Legacy vs GPT-3.5</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-presentations-with-chatgpt-a-step-by-step-guide/"><u>Crafting Presentations with ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deep-dive-into-ai-intelligence-understanding-the-variance-among-gpt-4-turbo-and-o-versions/"><u>Deep Dive Into AI Intelligence: Understanding the Variance Among GPT-4, Turbo, & O Versions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-ai-categories-insights-into-public-vs-private-vs-personal-ai/"><u>Demystifying AI Categories - Insights Into Public vs Private vs Personal AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dissecting-linguistics-tech-nlp-vs-ml/"><u>Dissecting Linguistics Tech: NLP vs ML</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-skycraft-copilot-pro-explained/"><u>Elevate Your Skycraft - Copilot Pro Explained</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oppo-reno-9a-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Oppo Reno 9A Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/masterclass-in-visual-enhancement-from-muted-sdr-to-stunning-hdri-for-2024/"><u>Masterclass in Visual Enhancement From Muted SDR to Stunning HDRI for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/whatsapp-expertise-essential-tips-and-tricks-for-proficiency-for-2024/"><u>WhatsApp Expertise Essential Tips and Tricks for Proficiency for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rhythmic-reworks-for-enhanced-imovie-experience/"><u>[Updated] Rhythmic Reworks for Enhanced iMovie Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/alert-how-to-protect-yourself-from-horrifying-online-abduction-hoax-calls/"><u>Alert: How to Protect Yourself From Horrifying Online Abduction Hoax Calls</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/arcshell-ar-5-review/"><u>Arcshell AR-5 Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/before-its-too-late-exploring-five-strategies-to-maintain-your-windows-pc-zdnet/"><u>Before It's Too Late: Exploring Five Strategies to Maintain Your Windows 지원 제한되는 PC | ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-the-silent-phone-effective-remedies-to-restore-your-iphones-ringtones/"><u>Diagnosing the 'Silent Phone': Effective Remedies to Restore Your iPhone's Ringtones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easily-watch-mtsm2ts-movies-and-tv-shows-on-your-mac-with-these-top-ranked-free-tools/"><u>Easily Watch MTS/M2TS Movies and TV Shows on Your Mac with These Top-Ranked Free Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/lenovo-laptop-capture-tutorial-a-step-by-step-guide-to-easy-screen-snapping/"><u>Lenovo Laptop Capture Tutorial: A Step-by-Step Guide to Easy Screen Snapping</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macx-hd-video-converter-professional-per-windows-acquisto-diretto-e-personalizzato-scelta-perfetta-per-i-professionisti/"><u>MacX HD Video Converter Professional per Windows: Acquisto Diretto E Personalizzato - Scelta Perfetta per I Professionisti</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transferring-your-dvd-content-into-final-cut-pro-x-for-advanced-video-editing/"><u>Step-by-Step Guide: Transferring Your DVD Content Into Final Cut Pro X for Advanced Video Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-vob-to-mpeg-transformation-on-macos-improve-media-experience-with-easy-steps/"><u>Streamline VOB to MPEG Transformation on macOS – Improve Media Experience with Easy Steps!</u></a></li>
 </ul></div>
 

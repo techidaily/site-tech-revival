@@ -1,7 +1,7 @@
 ---
 title: "Elevate Coding: CodeGPT Meets VS Code"
-date: 2024-11-25T22:41:17.566Z
-updated: 2024-11-29T21:07:18.368Z
+date: 2024-12-01T17:08:14.241Z
+updated: 2024-12-08T17:05:30.855Z
 tags:
   - chatgpt
   - open-ai
@@ -24,9 +24,17 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is the Turing Test Outdated?
 
 ![man questions robot turing test example feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/man-questions-robot-turing-test-example-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vector/robot-scientist-facing-turing-test-artificial-1651840888)
 
@@ -51,16 +59,12 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  According to a research paper published on[PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112) , the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the[visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
@@ -71,16 +75,12 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the[thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014.
 
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However,[artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Reverse Turing Test
 
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
@@ -125,20 +125,24 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-mastering-your-content-choose-these-top-10-reel-apps/"><u>[New] Mastering Your Content Choose These Top 10 Reel Apps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-perpetual-screen-snapshot/"><u>[New] Perpetual Screen Snapshot</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-unveiling-8-leading-cost-effective-open-source-video-solutions/"><u>[New] Unveiling 8 Leading Cost-Effective Open Source Video Solutions</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-champions-of-3d-spatial-displays/"><u>[Updated] Champions of 3D Spatial Displays</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Xiaomi Civi 3 Disney 100th Anniversary Edition to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigate-hdri-windows-powered-editing-wonders/"><u>Navigate HDRI Windows-Powered Editing Wonders</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo K11x? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tutorial-activate-gpts-beta-browser-and-plugin-functionality/"><u>Tutorial: Activate GPT's Beta Browser & Plugin Functionality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-ai-hallucinations-identification-and-detection-strategies/"><u>Understanding AI Hallucinations: Identification & Detection Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-fraudgpt-essential-tips-to-safeguard-against-cyber-threats/"><u>Understanding FraudGPT: Essential Tips to Safeguard Against Cyber Threats</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-creative-solutions-top-8-applications-of-chatgpt-in-visual-fields/"><u>Unlocking Creative Solutions: Top 8 Applications of ChatGPT in Visual Fields</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-document-mysteries-with-chatgpts-4-reading-techniques/"><u>Unlocking Document Mysteries with ChatGPT's 4 Reading Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-the-ai-talk-twist-gpt-vs-bingbot-breakdown/"><u>Unraveling the AI Talk Twist: GPT Vs. BingBot Breakdown</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-googles-gemini-the-evolution-of-its-ai-quest/"><u>Unveiling Google's Gemini: The Evolution of Its AI Quest</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-customizing-iphone-tones-a-step-by-step-guide/"><u>[New] Customizing iPhone Tones A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-a-quick-dive-into-obs-zoom-fusion-steps/"><u>[New] In 2024, A Quick Dive Into OBS-Zoom Fusion Steps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-your-video-projects-with-superior-recorder-software/"><u>[New] Mastering Your Video Projects with Superior Recorder Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-auto-captioned-mastery-enhancing-visual-narratives/"><u>[Updated] Auto-Captioned Mastery Enhancing Visual Narratives</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-speech-reader-feedback-summary/"><u>[Updated] In 2024, Speech Reader Feedback Summary</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-srt-conversion-compendium-for-media-professionals/"><u>2024 Approved SRT Conversion Compendium for Media Professionals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725287005085-dvdmp4/"><u>速度と品質を重視したDVD動画の変換手順集【MP4編成】</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-solving-iphones-itunes-connection-mishaps/"><u>Comprehensive Guide: Solving iPhone's iTunes Connection Mishaps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-video-capture-made-simple-the-top-5-replacements-for-keepvid/"><u>Effortless Video Capture Made Simple: The Top 5 Replacements for KeepVid</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-tips-for-decreasing-the-size-of-mov-videos-efficiently-and-effectively/"><u>Expert Tips for Decreasing the Size of MOV Videos Efficiently and Effectively</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/h265-video-encoderconverter-pour-windows-11-and-macos-le-choix-de-la-qualite-superieure/"><u>H265 Video Encoder/Converter Pour Windows 11 & macOS - Le Choix De La Qualité Supérieure</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-y36i-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo Y36i Without PUK Codes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-top-10-online-video-editing-software-for-improved-content/"><u>In 2024, Top 10 Online Video Editing Software for Improved Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-preserving-your-dvd-library-using-vlc-media-player-inclusive-visuals/"><u>Step-by-Step Guide: Preserving Your DVD Library Using VLC Media Player - Inclusive Visuals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-ersatz-fur-convert2mp3-professionelle-alternativen-zur-mp3-bearbeitung-finden/"><u>Top-Ersatz Für Convert2MP3 - Professionelle Alternativen Zur MP3-Bearbeitung Finden</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-technological-devices-for-savvy-travellers-in-2e24/"><u>Top-Rated Technological Devices for Savvy Travellers in 2E24</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-1182024/"><u>Windows 11対応オススメメディアプレーヤートップ8選：2024年版が保存可能で完全無料</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winxvideo-artificial-intelligence-instant-download-for-mobile-users-ios-android/"><u>WinxVideo Artificial Intelligence: Instant Download for Mobile Users (iOS, Android)</u></a></li>
 </ul></div>
 

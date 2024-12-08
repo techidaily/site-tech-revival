@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Chatbot Showdown: GPT, Microsoft Bing AI, Google Bard"
-date: 2024-11-23T22:57:35.190Z
-updated: 2024-11-29T19:20:02.572Z
+date: 2024-12-05T17:17:38.956Z
+updated: 2024-12-08T16:37:51.657Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Know About AI Chatbots
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
  For the purposes of the test, we'll be running Stanford University's Alpaca 7B model—an adaptation of LLaMa—and pitching it against Bard and ChatGPT.
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Is the Easiest Large Language Model to Use?
 
@@ -61,16 +69,12 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -84,12 +88,16 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
@@ -104,17 +112,9 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
@@ -159,22 +159,22 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-combating-an-unresponsive-obs-camera-input-stream/"><u>[New] 2024 Approved Combating an Unresponsive OBS Camera Input Stream</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/astering-youtube-standard-studio-or-beta-progress/"><u>[New] Mastering YouTube Standard Studio or Beta Progress</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-immersive-ventures-how-google-cardboard-stacks-up-against-samsung-vr-for-2024/"><u>[Updated] Immersive Ventures How Google Cardboard Stacks Up Against Samsung VR for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-spotlight-on-windows-11-innovations/"><u>2024 Approved Spotlight on Windows 11 Innovations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-chatgpts-personalized-directive-function-work-and-what-possibilities-does-it-offer/"><u>How Does ChatGPT's Personalized Directive Function Work, and What Possibilities Does It Offer?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-excel-outperforms-chatgpt-in-data-management-discover-3-ways/"><u>How Excel Outperforms ChatGPT in Data Management - Discover 3 Ways!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-is-generative-artificnal-intelligence-paving-the-way-for-information-manipulation/"><u>How Is Generative Artificnal Intelligence Paving the Way for Information Manipulation?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-asus-rog-phone-7-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Asus ROG Phone 7 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-plan-your-getaway-with-7-free-ai-travel-assistants-and-chatgpt-for-instant-routes/"><u>How to Plan Your Getaway with 7 Free AI Travel Assistants & ChatGPT for Instant Routes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-agni-2-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Lava Agni 2 5G Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-user-exchanges-influence-ai-upgrades-in-chatgpt/"><u>How User Exchanges Influence AI Upgrades in ChatGPT?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfectiphone-podcast-guide-seamlessly-download-from-anywhere/"><u>In 2024, PerfectiPhone Podcast Guide – Seamlessly Download From Anywhere</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/interfacing-gpt-technology-with-household-automation/"><u>Interfacing GPT Technology With Household Automation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-ai-assistance-from-chatgpt-lifesaving-in-outdoor-emergencies/"><u>Is AI Assistance From ChatGPT Lifesaving in Outdoor Emergencies?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-ais-insight-more-accurate-chatgpt-vs-traditional-astrology-forecasting/"><u>Is AI's Insight More Accurate: ChatGPT Vs. Traditional Astrology Forecasting</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/show-audio-waveform-and-add-waveform-animation-in-premiere-protutor-for-2024/"><u>Show Audio Waveform and Add Waveform Animation in Premiere ProTutor for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-the-secrets-to-choosing-movie-trailers-music/"><u>Unveiling the Secrets to Choosing Movie Trailers' Music</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-hashtags-that-amplify-to-6k-views/"><u>[New] In 2024, Finding #Hashtags That Amplify to 6K Views</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-insights-into-instagram-follower-exits/"><u>[Updated] 2024 Approved Insights Into Instagram Follower Exits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-compreran-exploration-of-giroptics-panorama-for-2024/"><u>[Updated] Compreran Exploration of Giroptic's Panorama for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-how-to-easily-disableremove-youtube-shorts-permanently/"><u>[Updated] In 2024, How to Easily Disable/Remove YouTube Shorts Permanently?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-from-rookie-to-pro-unveiling-the-secrets-of-ginger-isle/"><u>2024 Approved From Rookie to Pro Unveiling the Secrets of Ginger Isle</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd-to-usb-conversion-tutorial-compatible-with-windows-or-macos-systems/"><u>DVD to USB Conversion Tutorial: Compatible with Windows or macOS Systems</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-user-engagement-via-cookiebot-technology/"><u>Enhance User Engagement via Cookiebot Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-latest-gadgets-at-toms-hardware-review-site/"><u>Expert Analysis on Latest Gadgets at Tom's Hardware Review Site</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/kostenlose-hochleistungsvideoschnittsoftware-fur-windows-1187-and-mac-beseitigung-unerwunschter-videoelemente/"><u>Kostenlose Hochleistungsvideoschnittsoftware Für Windows 11/8/7 & Mac - Beseitigung Unerwünschter Videoelemente</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-your-multimedia-transfers-with-winx-mediatrans-the-1-solution-for-shifting-content-from-iphone-ipad-tofrom-your-computer/"><u>Master Your Multimedia Transfers with WinX MediaTrans: The #1 Solution for Shifting Content From iPhone, iPad To/From Your Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/neurohormonal-blockade-with-raas-inhibitors-and-beta-blockers-is-a-cornerstone-treatment-aimed-at-mitigating-adverse-remodeling-processes/"><u>Neurohormonal Blockade with RAAS Inhibitors and Beta-Blockers Is a Cornerstone Treatment Aimed at Mitigating Adverse Remodeling Processes.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quality-retention-techniques-for-reducing-size-of-avi-video-clips-using-windows-10-tools/"><u>Quality Retention Techniques for Reducing Size of AVI Video Clips Using Windows 10 Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-no-cost-hd-4k-hevch265-media-player-software-options/"><u>Top No-Cost HD 4K HEVC/H.265 Media Player Software Options</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transforma-tus-videos-libremente-guia-para-convertir-archivo-wmv-en-mkv-sin-coste/"><u>Transforma Tus Videos Libremente: Guía Para Convertir Archivo WMV en MKV Sin Coste</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trouble-with-instachat-on-instagram-swift-repair-strategies/"><u>Trouble with InstaChat on Instagram? Swift Repair Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-top-hevc-converter-and-encoder-apps-for-h265-on-windows-11-and-macos/"><u>Ultimate Guide: Top HEVC Converter & Encoder Apps For H.265 On Windows 11 & macOS</u></a></li>
 </ul></div>
 

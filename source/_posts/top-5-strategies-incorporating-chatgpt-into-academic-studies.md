@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Strategies: Incorporating ChatGPT Into Academic Studies"
-date: 2024-11-27T20:12:09.182Z
-updated: 2024-11-29T16:12:23.292Z
+date: 2024-12-07T16:04:17.888Z
+updated: 2024-12-08T17:07:33.999Z
 tags:
   - chatgpt
   - open-ai
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Lack of Real-Time Data
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
  The cryptocurrency market is always changing. A coin can be worth $10 on Monday and then $5 on Tuesday. Because of this, real-time data is crucial in crypto trading, be it prices, trends, or predictions. Using outdated information can result in poor investments and a loss of funds, so it's important to be on top of things.
 
  Because ChatGPT has only been trained with data up to September 2021, it cannot provide up-to-date information on the crypto market. Without real-time data, it becomes almost impossible to make a wise crypto trading decision, so it's best not to rely on ChatGPT entirely here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. AI Hallucinations and Potential Biases
 
@@ -55,12 +51,16 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
  ChatGPT can hold a bias in certain scenarios due to its training data. According to[BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) , ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Fails to Give Personalized Financial Advice
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can certainly ask ChatGPT any number of questions about the crypto market, as well as use it for financial tips. But while this is possible, it may not be the best route to pursue.
 
@@ -71,12 +71,16 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Relies Heavily on Historical Data
 
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
 
@@ -85,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
  ChatGPT can be friendly and[even make jokes](https://www.makeuseof.com/can-ai-make-us-laugh/) , but this is all based on the data it has been trained with. You could certainly call it a smart program, as it is highly advanced by today's standards, but it is not an all-knowing entity.
 
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Lacks Insights Into Macroeconomic Factors
 
@@ -121,19 +121,22 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-simple-steps-for-incorporating-videos-into-articles/"><u>[Updated] Simple Steps for Incorporating Videos Into Articles</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-scrutinizing-the-economics-behind-short-video-earnings/"><u>2024 Approved Scrutinizing the Economics Behind Short Video Earnings</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/beginners-primer-on-turkey-written-and-spoken-language-patterns/"><u>Beginner's Primer on Turkey' Written & Spoken Language Patterns</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/do-real-world-dialogues-enhance-chatgpts-knowledge-base/"><u>Do Real-World Dialogues Enhance ChatGPT’s Knowledge Base?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/empower-your-windows-with-a-personalized-gratis-clone-of-the-chatgpt-ai/"><u>Empower Your Windows with a Personalized, Gratis Clone of the ChatGPT AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-artificial-companions-in-psychological-care/"><u>Evaluating Artificial Companions in Psychological Care</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evolving-digital-safety-navigating-through-7-trends/"><u>Evolving Digital Safety: Navigating Through 7 Trends</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/experts-choice-androids-best-large-group-calling/"><u>Expert's Choice Android's Best Large Group Calling</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fixing-common-glitches-in-chatgpt-login/"><u>Fixing Common Glitches in ChatGPT Login</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-concept-to-completion-the-ultimate-tutorial-on-producing-unique-imagery-with-microsoft-copilot-image-creator/"><u>From Concept to Completion: The Ultimate Tutorial on Producing Unique Imagery with Microsoft Copilot Image Creator</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-magic-vs-2-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor Magic Vs 2 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-meme-mastery-10-essential-apps-for-android-and-ios/"><u>In 2024, Meme Mastery 10 Essential Apps for Android and iOS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-professionals-drone-guide-top-5-recommendations-inside/"><u>In 2024, Professionals’ Drone Guide - Top 5 Recommendations Inside</u></a></li>
-<li><a href="https://win-web3.techidaily.com/microsofts-manager-controversy-the-unpopular-strategy-thats-brewing-trouble/"><u>Microsoft's Manager Controversy: The Unpopular Strategy That's Brewing Trouble</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-meme-making-made-simple-without-cost/"><u>[New] Meme-Making Made Simple, Without Cost</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-an-exclusive-guide-to-deck-to-deck-technology-durecorder/"><u>2024 Approved An Exclusive Guide to Deck-to-Deck Technology DuRecorder</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-zte-nubia-z60-ultra-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-vob-files-to-mp4-format-efficiently-using-windows-11-or-macos/"><u>Convert VOB Files to MP4 Format Efficiently Using Windows 11 or macOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-your-videos-for-free-mkv-to-mpgmp2mp4-with-our-top-pick-converters/"><u>Convert Your Videos for Free: MKV to MPG/MP2/MP4 with Our Top Pick Converters!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-fixing-your-software-after-an-unexpected-shutdown/"><u>Easy Solutions for Fixing Your Software After an Unexpected Shutdown</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-performance-naturally-the-ultimate-guide-to-accelerating-windows-1011/"><u>Enhance Performance Naturally: The Ultimate Guide to Accelerating Windows 10/11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/from-basic-to-pro-3-advanced-transition-techniques-in-fcp-for-2024/"><u>From Basic to Pro 3 Advanced Transition Techniques in FCP for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-mov-a-mp4-conversione-per-mac-and-pc-utilizzo-windows-10-e-11/"><u>Gratis MOV a MP4 Conversione per Mac & PC - Utilizzo Windows 10 E 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-vivo-frp-by-drfone-android/"><u>How Can We Bypass Vivo FRP?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-fix-windows-11-dvd-player-error-code-0x87e10bc6-complete-guide/"><u>How to Fix Windows 11 DVD Player Error Code 0X87E10BC6 - Complete Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-facebooks-hidden-search-a-guide-to-finding-individuals-effortlessly/"><u>Mastering Facebook's Hidden Search: A Guide to Finding Individuals Effortlessly</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-beyond-gopro-quik-top-pc-video-editing-software-options/"><u>New Beyond GoPro Quik Top PC Video Editing Software Options</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/ricostruisci-il-tuo-lavoro-i-metodi-piu-efficaci-per-recuperare-i-dati-eliminati-in-windows-10/"><u>Ricostruisci Il Tuo Lavoro! I Metodi Più Efficaci per Recuperare I Dati Eliminati in Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-sharing-your-fifa-world-cup-201/"><u>Step-by-Step Tutorial: Sharing Your FIFA World Cup 201</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-ripping-your-dvds-using-any-version-of-vlc-media-player/"><u>Ultimate Guide: Ripping Your DVDs Using Any Version of VLC Media Player</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/vr-dvd-vrdvd/"><u>VR DVD コピー手順：VR映像が記録されたDVDのバックアップ方法を学ぶ</u></a></li>
 </ul></div>
 

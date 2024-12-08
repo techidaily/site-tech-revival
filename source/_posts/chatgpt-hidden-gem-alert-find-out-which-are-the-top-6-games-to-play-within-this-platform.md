@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Hidden Gem Alert! Find Out Which Are the Top 6 Games to Play Within This Platform
-date: 2024-09-11T19:23:48.550Z
-updated: 2024-09-12T19:23:48.550Z
+date: 2024-12-01T16:59:15.893Z
+updated: 2024-12-08T17:05:29.875Z
 tags:
   - chatgpt
   - open-ai
@@ -15,13 +15,6 @@ thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f4
 
 ## How to Get Started with the Latest OpenAI GPT Store - Begin Using Today
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Access the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#how-to-access-the-gpt-store)
@@ -29,10 +22,7 @@ thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f4
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#is-it-worth-upgrading-to-chatgpt-plus-to-use-custom-gpts)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -46,16 +36,7 @@ thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f4
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Access the GPT Store
@@ -69,10 +50,7 @@ How do you know when you've been granted access?
  On the left sidebar of the ChatGPT interface, you should see**Explore GPTs** instead of simply**Explore** . Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Find the Best Custom GPTs in the GPT Store
@@ -84,32 +62,20 @@ How do you know when you've been granted access?
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click**Keep in sidebar** . This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
@@ -133,5 +99,23 @@ How do you know when you've been granted access?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-a-detailed-list-of-top-free-cross-platform-mobile-video-chats/"><u>[New] 2024 Approved A Detailed List of Top Free, Cross-Platform Mobile Video Chats</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-detailed-guide-to-advanced-usage-in-macs-preview-app-for-2024/"><u>[New] Detailed Guide to Advanced Usage in Mac's Preview App for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/roubleshoot-and-clear-your-youtube-pixel-voids/"><u>[New] Troubleshoot and Clear Your YouTube Pixel Voids</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unveiling-hidden-sights-in-google-meet-conferences-for-2024/"><u>[New] Unveiling Hidden Sights in Google Meet Conferences for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-inside-look-the-future-of-home-cam-recordings/"><u>[Updated] Inside Look The Future of Home Cam Recordings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-navigating-the-world-of-insta-influencers-5-pivotal-moves-and-results/"><u>[Updated] Navigating the World of Insta Influencers 5 Pivotal Moves and Results</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-strategies-for-effective-use-of-classroom-media-for-2024/"><u>[Updated] Strategies for Effective Use of Classroom Media for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-face-off-determining-if-chatgpt-or-gemini-leads-in-code-generation/"><u>AI Face-Off: Determining if ChatGPT or Gemini Leads in Code Generation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bert-vs-gpt-understanding-their-nlp-mechanisms/"><u>BERT vs GPT: Understanding Their NLP Mechanisms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-vs-bing-chat-whats-the-best-generative-ai-chatbot/"><u>ChatGPT Vs. Bing Chat: What's the Best Generative AI Chatbot?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/diy-car-enthusiasts-guide-leveraging-chatgpt-for-customization-tips/"><u>DIY Car Enthusiasts' Guide: Leveraging ChatGPT for Customization Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-fictional-personalities-quickly-the-definitive-list-of-ebxchatbot-prompts-for-authors/"><u>Enhance Fictional Personalities Quickly: The Definitive List of ebxChatbot Prompts for Authors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-fantasy-roleplay-gpt-and-ai-collaboration-in-dandd-creativity/"><u>Enhancing Fantasy Roleplay: GPT & AI Collaboration in D&D Creativity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/launchpad-logistics-streamlining-your-way-into-the-realm-of-reviews-channels/"><u>Launchpad Logistics Streamlining Your Way Into the Realm of Reviews Channels</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-halo-4s-critical-ue4-bugs-for-smooth-gaming/"><u>Troubleshooting Halo 4'S Critical UE4 Bugs for Smooth Gaming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-limitations-6-critical-concerns-with-unquestioned-faith-in-ai/"><u>Understanding the Limitations: 6 Critical Concerns with Unquestioned Faith in AI</u></a></li>
+</ul></div>
 

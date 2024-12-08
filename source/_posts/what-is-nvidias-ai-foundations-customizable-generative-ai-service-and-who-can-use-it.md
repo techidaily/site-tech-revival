@@ -1,7 +1,7 @@
 ---
 title: What Is NVIDIA's AI Foundations Customizable Generative AI Service and Who Can Use It?
-date: 2024-11-23T19:56:35.887Z
-updated: 2024-11-30T03:09:22.972Z
+date: 2024-12-06T16:42:46.396Z
+updated: 2024-12-08T16:33:31.293Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
  ChatGPT, OpenAI’s flagship AI product, has received a game-changing update with a bunch of new features. With several key updates rolling out simultaneously, OpenAI has truly spoiled ChatGPT users, particularly ChatGPT Plus subscribers.
 
  There's a lot to get through, and we don't want you to miss out—so we’ve explored the latest ChatGPT update to see how it will impact your experience with the AI chatbot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. The Arrival of GPT-4 Turbo
 
@@ -51,20 +47,20 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 ![chatgpt4 turbo data cut off point question november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt4-turbo-data-cut-off-point-question-november-2023.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Also, ChatGPT Plus users can rejoice—the cumbersome dropdown menu for switching between models will soon be retired. ChatGPT’s upgraded multimodal skills owing to GPT-4 Turbo’s upgrades will allow it to automatically select the optimal model for a given task, goodbye to manual toggling. This improvement may seem minor, but power users will appreciate not having to constantly switch models mid-conversation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Ability to Create Custom GPTs
 
  GPT-4 Turbo’s arrival is big news, but what you’ll perhaps find more exciting is the ability GPTs feature. In its simplest form, custom GPTs allow you to create mini versions of ChatGPT customized for specific purposes. ​I knocked up an example of an extremely basic custom GPT in seconds, asking the model to help me in Football Manager 2024.
 
 ![chatgpt custom gpt model football manager example november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-november-2023.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![chatgpt custom gpt model football manager example with suggestions november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-with-suggestions-november-2023.jpg)
 
@@ -75,7 +71,7 @@ Close
  You could make other custom GPTs as well, like one for movie recommendations primed with a database of films. Then prompt your custom movie bot anytime you want a recommendation. The best part is that you’ll eventually be able to share these specialized GPTs publicly and potentially profit when others find them useful. Custom GPTs allow you to easily customize ChatGPT for specialized purposes beyond its general knowledge without the need to write any code.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use Pre-Listed GPTs
@@ -83,6 +79,10 @@ Close
  You can build a custom GPT, or you can choose from a long list of hundreds of pre-built options to supercharge your prompting experience. Since they are optimized for particular functions, you can get even better responses than regular ChatGPT for niche uses. The[pre-built GPTs have already been primed](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) with specialized knowledge to supercharge performance for targeted prompting.
 
 ![list of new integrated chatgpt bots november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/list-of-new-integrated-chatgpt-bots-november-2023.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With so many to select from, you can find a tailored GPT for nearly any purpose you can imagine. Options include a Creative Writing Coach to provide feedback on your work, a Math Mentor to explain complex concepts, and a Trip Planner to craft your perfect vacation. You can even get a Laundry Buddy for stain help or a Game Time assistant to explain the rules for family game night. Each prebuilt option has niche expertise to deliver superior performance for prompts related to its focus area. With this expansive range of GPTs, you can easily find a customized AI with the ideal skills and knowledge to supercharge prompting in your unique domain of interest. GPTs allow you to tap into the power of customized AI without the effort of creating your own.
 
@@ -107,17 +107,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-enhancing-user-experience-with-responsive-html-designs-for-2024/"><u>[New] Enhancing User Experience with Responsive HTML Designs for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-combatting-iphones-difficulty-in-autofocusing/"><u>[New] In 2024, Combatting iPhone's Difficulty in Autofocusing</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-top-5-chrome-plug-ins-for-effortless-facebook-video-downloads/"><u>[New] In 2024, Top 5 Chrome Plug-Ins for Effortless Facebook Video Downloads</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-become-the-star-with-your-own-stories-guidelines-for-crafting-over-120-creative-snap-tales/"><u>[Updated] Become the Star with Your Own Stories Guidelines for Crafting over 120 Creative Snap Tales</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-tips-and-tricks-for-professional-gamers-on-youtube/"><u>[Updated] In 2024, Tips & Tricks for Professional Gamers on Youtube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-guide-to-adding-time-markers-on-youtubes/"><u>[Updated] The Ultimate Guide to Adding Time Markers on YouTubes</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/best-tools-for-restoring-bitlocker-in-windows-11-and-windows-10/"><u>Best Tools for Restoring BitLocker in Windows 11 & Windows 10</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/pinterest-avatar-recording-resolution-frame-rate-length-for-2024/"><u>Pinterest Avatar Recording Resolution, Frame Rate, Length for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-double-edged-sword-of-ai-benefits-versus-concerns/"><u>The Double-Edged Sword of AI: Benefits Versus Concerns</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-four-superior-features-of-the-claude-chatbot-that-set-it-apart-from-chatgpt/"><u>The Four Superior Features of the Claude Chatbot That Set It Apart From ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-spectrum-of-ai-innovation-and-associated-risks/"><u>The Spectrum of AI Innovation & Associated Risks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-ai-intellectual-property-rights/"><u>Understanding AI Intellectual Property Rights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-tips-and-tricks-for-clearing-cluttered-backdrops-in-figma-for-2024/"><u>[New] Tips and Tricks for Clearing Cluttered Backdrops in Figma for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-growth-catalysts-increasing-audience-engagement-on-youtube/"><u>[Updated] Growth Catalysts Increasing Audience Engagement on YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-keeping-the-laughs-iosandroid-methods-for-tweets-as-gifs-for-2024/"><u>[Updated] Keeping the Laughs IOS/Android Methods for Tweets as GIFs for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mcb-branding-elements-download-free-pack/"><u>[Updated] MCB Branding Elements Download Free Pack</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-missteps-an-ongoing-cybersecurity-scare/"><u>AI Missteps: An Ongoing Cybersecurity Scare</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-an-artificial-intelligence-companion-ensure-safety-in-natures-playgrounds/"><u>Can an Artificial Intelligence Companion Ensure Safety in Nature's Playgrounds?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deploying-artifice-intelligence-via-web-browsers-using-agentgpt/"><u>Deploying Artifice Intelligence via Web Browsers Using AgentGPT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/economical-choices-in-action-cinematography/"><u>Economical Choices in Action Cinematography</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-audio-freedom-with-discounted-sonos-roam-sl-grab-your-32-savings-now-get-the-best-on-zdnet/"><u>Experience Audio Freedom with Discounted Sonos Roam SL: Grab Your $32 Savings Now – Get the Best on ZDNET!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-art-of-verse-with-chatgpt-support/"><u>Navigating the Art of Verse with ChatGPT Support</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-3d-creations-using-chatgpts-intelligent-assistance/"><u>Revolutionize Your 3D Creations Using ChatGPT's Intelligent Assistance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-overcoming-call-reception-errors-on-your-samsung-galaxy-smartwatch/"><u>The Ultimate Fix: Overcoming Call Reception Errors on Your Samsung Galaxy Smartwatch</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Advanced Techniques: Taking and Organizing Notes Like a Pro with ChatGPT"
-date: 2024-11-26T21:44:13.305Z
-updated: 2024-11-29T17:38:20.025Z
+date: 2024-12-07T16:04:46.595Z
+updated: 2024-12-08T16:00:20.515Z
 tags:
   - chatgpt
   - open-ai
@@ -56,11 +56,15 @@ After Installing Python, you can download Auto-GPT from GitHub.
 3. Now you have your API key, go to your Auto-GPT folder and open the**.env** file using Notepad.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
 4. Once opened, scroll down to the**LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
 
@@ -76,6 +80,10 @@ pip install -r requirements.txt
 3. Once you press enter, your terminal will download and install all the required dependencies.  
 ![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-4.jpg)
 4. After installation, try opening Auto-GPT using:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 python -m autogpt  
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
@@ -101,12 +109,16 @@ Congratulations! You have successfully Installed Auto-GPT.
 ![Creating Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/recipe-generator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this example, we have named our AI assistant "Recipe-Generator." Its role is to make a recipe based on the top five ingredients readily available in the US. We've set the first three goals as parameters on what we expect the recipe will be and set the last two to tell Auto-GPT to save the file as TXT, then shutdown.
 
 ![Running Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-recipe-generator-thinking.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you give your last goal, you can hit enter for Auto-GPT to run.
 
@@ -124,29 +136,17 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 
 ![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
 
 After making the recipe, our AI has now completed its task.
 
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To view the output, go to your Auto-GPT folder and**open auto-gpt-workspace** .
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Auto-GPT Limitations
 
@@ -161,7 +161,7 @@ After making the recipe, our AI has now completed its task.
  Using GPT-4 will noticeably reduce hallucinations and improve overall performance. However, its context size is still limited to 8,000 tokens. After reaching the 8k-token mark, GPT-4 will start losing context starting from the beginning of the task, affecting results. Furthermore, using GPT-4 is several times pricier than GPT-3.5 ([each GPT token has a cost](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) ). You'll want to set limits through your API account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Future of Auto-GPT
@@ -185,16 +185,17 @@ After making the recipe, our AI has now completed its task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unrivaled-experience-with-these-top-12-pc-clicker-games/"><u>[New] 2024 Approved Unrivaled Experience with These Top 12 PC Clicker Games</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-crafting-impressive-instagram-story-bokeh-art-for-2024/"><u>[Updated] Crafting Impressive Instagram Story Bokeh Art for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-optimal-audio-bridge-for-podcasters/"><u>2024 Approved Optimal Audio Bridge for Podcasters</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/essential-tools-for-perfect-linux-screenshots/"><u>Essential Tools for Perfect Linux Screenshots</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/from-recovered-to-ready-migrating-e-mail-to-live-exchange/"><u>From Recovered to Ready: Migrating E-Mail to Live Exchange</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/game-changing-tech-expert-analysis-on-apples-latest-macbook-pro-13-inch-m1-2020/"><u>Game-Changing Tech: Expert Analysis on Apple's Latest MacBook Pro 13-Inch (M1, 2020)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-export-your-chatgpt-data/"><u>How to Export Your ChatGPT Data</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/key-to-performance-the-truth-about-mechanical-mice/"><u>Key to Performance: The Truth About Mechanical Mice</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leadership-in-learning-validating-chatgpts-educational-use/"><u>Leadership in Learning: Validating ChatGPT’s Educational Use</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-codegpt-installation-within-visual-studio-code-environment/"><u>Mastering CodeGPT Installation Within Visual Studio Code Environment</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unearthing-pleasure-in-the-world-of-pokemon-shining-pearl/"><u>Unearthing Pleasure in the World of Pokemon Shining Pearl</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-hangout-history-capture-and-keep/"><u>[New] Hangout History Capture & Keep</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-best-video-editor-for-vimeo/"><u>[Updated] Best Video Editor for Vimeo</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-master-level-techniques-for-attaching-srt-to-mp4-clips/"><u>[Updated] Master Level Techniques for Attaching SRT to MP4 Clips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725289947644-dvd/"><u>「すべてのDVDを容易にバックアップ！手軽な無料ダビングガイド」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-10-dvd-windows-10-dvd/"><u>最高の無料Windows 10 DVD再生プログラムを順位付け✨ - Windows 10 でDVD処理が簡単になるソフトウェア</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725290151400-ai/"><u>AI</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/android-freedom-the-most-popular-top-10-fb-video-extraction-tools-for-2024/"><u>Android Freedom The Most Popular Top 10 FB Video Extraction Tools for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-apple-ipad-mini-5-analysis-unveiling-the-compact-dynamo/"><u>Comprehensive Apple iPad Mini 5 Analysis: Unveiling the Compact Dynamo</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/youtube-artwork-hacks-snag-high-res-thumbnails-now-for-2024/"><u>Free YouTube Artwork Hacks - Snag High-Res Thumbnails Now for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a05s-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Itel A05s Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/utiliza-inteligencia-artificial-con-winxvideo-para-aumentar-tu-contenido-visual-a-hd-uhd-o-wqhd-conversion-a-4k8k10k/"><u>Utiliza Inteligencia Artificial Con Winxvideo Para Aumentar Tu Contenido Visual a HD, UHD O WQHD: ¡Conversión a 4K/8K/10K!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oneplus-ace-2v-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On OnePlus Ace 2V Device</u></a></li>
 </ul></div>
 

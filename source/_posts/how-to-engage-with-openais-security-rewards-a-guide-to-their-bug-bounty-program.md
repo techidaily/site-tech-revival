@@ -1,7 +1,7 @@
 ---
 title: "How to Engage with OpenAI's Security Rewards: A Guide to Their Bug Bounty Program"
-date: 2024-11-27T05:50:09.238Z
-updated: 2024-11-30T03:32:12.673Z
+date: 2024-12-05T16:11:52.502Z
+updated: 2024-12-08T17:09:41.863Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 
 ![Man writing code on a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/bug-bounty-programs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  OpenAI promises to protect you from liabilities or penalties if you follow its stated guidelines and will also acknowledge submissions and remedy validated vulnerabilities promptly. Furthermore, OpenAI claims it will publicly recognize your contribution if it is unique and leads to a configuration or code change.
 
  However, you cannot disclose your vulnerability-related findings to the public after submitting them.
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
  This[bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and[AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) . You may report these to[OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
@@ -58,12 +62,16 @@ The maximum reward you can earn is $20,000.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With a Bugcrowd account, you can click the "Submit Report" tab on the[Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Here, you must fill in the following information:
@@ -81,14 +89,10 @@ Here, you must fill in the following information:
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the[OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
 
@@ -97,10 +101,6 @@ Here, you must fill in the following information:
  These include server-side injection, server security misconfiguration,[cross-site scripting](https://www.makeuseof.com/tag/crosssite-scripting-xss-security-threat/) (XSS), insecure OS/firmware, insecure data storage,[cross-site request forgery](https://www.makeuseof.com/what-are-csrf-attacks-and-how-can-you-prevent-them/) (CSRF), and broken authentication and session management.
 
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
 
@@ -123,20 +123,20 @@ Here, you must fill in the following information:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-step-by-step-guide-enhancing-youtube-content-with-ios-recording/"><u>[New] 2024 Approved Step-by-Step Guide Enhancing YouTube Content with iOS Recording</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-tecno-camon-20-pro-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Camon 20 Pro 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-ai-master-bartending-exploring-chatgpts-cocktail-making-abilities/"><u>Can AI Master Bartending: Exploring ChatGPT's Cocktail-Making Abilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-and-cryptos-10-unbeatable-initiating-queries-for-insightful-exchanges/"><u>ChatGPT and Cryptos: 10 Unbeatable Initiating Queries for Insightful Exchanges</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-microsofts-gpt-variants-differentiating-gpt-4-gpt-4-turbo-and-gpt-n/"><u>Decoding Microsoft's GPT Variants: Differentiating GPT-4, GPT-4 Turbo, and GPT-N</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-magic-understanding-how-these-7-apps-utilize-gpt-narratives-of-cutting-edge-ai-technology/"><u>Decoding the Magic: Understanding How These 7 Apps Utilize GPT-Narratives of Cutting-Edge AI Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deep-dive-into-ai-types-unraveling-the-complexities-of-strong-and-weak-artificial-intelligence/"><u>Deep Dive Into AI Types: Unraveling the Complexities of Strong and Weak Artificial Intelligence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/design-your-balanced-eating-schedule-using-chatgpt-tips-and-strategies/"><u>Design Your Balanced Eating Schedule Using ChatGPT – Tips and Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/digital-dating-defrauders-ai-tools-unveiled/"><u>Digital Dating Defrauders: AI Tools Unveiled</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-balancing-act-a-comprehensive-guide-to-drone-gimbals/"><u>In 2024, Balancing Act A Comprehensive Guide to Drone Gimbals</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-instant-anonymity-shield-face-details/"><u>In 2024, Instant Anonymity Shield Face Details</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transformative-visual-experiences-with-tiktok-enhancements/"><u>In 2024, Transformative Visual Experiences with TikTok Enhancements</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solutions-for-resolving-d3dx933dll-file-not-found-missing-issues/"><u>Solutions for Resolving 'd3dx9_33.dll' File Not Found / Missing Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-why-you-cant-get-texts-from-android-devices-and-solutions/"><u>Troubleshooting iPhone: Why You Can't Get Texts From Android Devices and Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-5-online-film-editors/"><u>[New] Top 5 Online Film Editors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-essential-4-techniques-for-sharpening-iphone-hdr-videos-on-premiere-for-2024/"><u>[Updated] Essential 4 Techniques for Sharpening iPhone HDR Videos on Premiere for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/best-mp4-player-you-should-know/"><u>Best MP4 Player You Should Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chrome-plug-ins-for-productivity-the-best-8-ai-tools/"><u>Chrome Plug-Ins for Productivity: The Best 8 AI Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-the-link-between-paperclip-maximization-conundrum-and-ai-advancements/"><u>Deciphering the Link Between Paperclip Maximization Conundrum and AI Advancements</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-why-more-rigorous-rules-are-needed-in-ai-as-advocated-by-openais-founder/"><u>Exploring Why More Rigorous Rules Are Needed in AI, as Advocated by OpenAI’s Founder</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fixes-found-resolving-constant-crashes-in-samurai-warriors-5-pc-version/"><u>Fixes Found: Resolving Constant Crashes in Samurai Warriors 5 PC Version</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-migrate-your-android-information-to-iphone-at-no-cost-three-effective-strategies/"><u>How to Migrate Your Android Information to iPhone at No Cost – Three Effective Strategies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-a70-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Itel A70 Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-machine-minds-could-we-ever-beat-the-turing-test/"><u>Navigating Through Machine Minds – Could We Ever Beat the Turing Test?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pioneering-artistry-top-5-trailblazers-blending-visuals-plus-music-into-masterpieces-for-2024/"><u>Pioneering Artistry Top 5 Trailblazers Blending Visuals + Music Into Masterpieces for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguard-personal-data-from-ai-vulnerabilities-best-practices-for-securely-engaging-with-adaptive-gpt-models/"><u>Safeguard Personal Data From AI Vulnerabilities: Best Practices for Securely Engaging with Adaptive GPT Models</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-converting-avi-files-efficiently-into-quicktimes-preferred-mov-format/"><u>Step-by-Step Guide: Converting AVI Files Efficiently Into QuickTime's Preferred MOV Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-7-great-replacements-for-your-searches-on-chatgpt-mobile-by-openai/"><u>The Ultimate Guide: 7 Great Replacements for Your Searches on ChatGPT Mobile by OpenAI</u></a></li>
 </ul></div>
 

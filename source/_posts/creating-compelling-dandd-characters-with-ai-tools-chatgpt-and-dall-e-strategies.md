@@ -1,7 +1,7 @@
 ---
 title: Creating Compelling D&D Characters with AI Tools - ChatGPT and DALL-E Strategies
-date: 2024-11-22T21:56:13.639Z
-updated: 2024-11-30T02:58:31.646Z
+date: 2024-12-01T17:09:49.119Z
+updated: 2024-12-08T16:49:50.121Z
 tags:
   - chatgpt
   - open-ai
@@ -20,15 +20,15 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Are DALL-E 3's Editing Tools?](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#what-are-dall-e-3-39-s-editing-tools)
 * [How to Use DALL-E 3's Editing Tool](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#how-to-use-dall-e-3-39-s-editing-tool)
 * [DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#dall-e-39-s-editing-tools-are-useful-but-need-work-and-a-little-persistence)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
  OpenAI hears you and has added inline editing tools to DALL-E 3 in ChatGPT, allowing you to make tweaks to your creations without leaving the app.
 
  The only issue is that they don't do what OpenAI advertises, and it's a mixed bag as to whether you'll get the edits you want. But still, it's a start of what's to come for DALL-E 3 editing, and this is how they work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are DALL-E 3's Editing Tools?
 
@@ -55,10 +59,6 @@ However, it's a mixed bag.
 [OpenAI's official blog](https://help.openai.com/en/articles/9055440-editing-your-images-with-dall-e) example shows DALL-E adding cherry blossoms to a Ukiyo-e-style image of cat, and it working perfectly. In my experience, DALL-E's editing tools struggle to add such detailed imagery to an existing image and, for the most part, can't process requests of this nature.
 
  That's not to say the editing tools don't work. They can absolutely remove features and make small changes, as detailed below, but it's all on a small scale.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use DALL-E 3's Editing Tool
 
@@ -76,10 +76,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Adding and Changing
 
  DALL-E 3 can make some changes to images, but again, it depends on the scale of what you're asking. Small additions and changes are possible, but most of the time, DALL-E's editing tool can't process what is asked.
@@ -92,25 +88,25 @@ Close
 
 ![dalle 3 editing tools close up human eye changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye-changed-colour.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The color is slightly dull but unchanged, and some features are warped slightly.
 
  Next up, I prompted DALL-E to "create a 4k 2:1 claymation style image of a person wearing a tiger onesie skiing down a slope with a yeti background."
 
 ![dalle 3 editing tools tiger yeti claymation style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-tiger-yeti-claymation-style.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Again, the original image is good, has sharp, vibrant colors, and matches the prompt. However, I wanted to switch the yeti to a different type of scary animal.
 
 ![dalle 3 editing tools yeti removed from image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-yeti-removed-from-image.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Instead of swapping the yeti for a different animal, it's just completely gone. Instead, I returned to the original image and asked it to add another yeti, which it failed to do. It similarly failed when asked to add more trees to the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Adding Text
 
@@ -121,6 +117,10 @@ Close
  Next up, I went for a birthday card. This time around, DALL-E added "Happy Birthday" without being prompted, which is fine, given the theme. So, I asked it to add the date of the birthday on the card. Again, it failed to add the date to the card, but after a few rounds of prompting, it created a new image featuring the requested date. In this case, adding the date myself would have been easier, especially if I wanted to keep the original image.
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)
 
@@ -143,18 +143,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-yoga-enthusiasts-go-to-guide-on-youtube/"><u>[New] Yoga Enthusiasts' Go-To Guide on YouTube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-grok-ai-elon-musks-new-project-unveiling-its-potential-and-pricing-details/"><u>Demystifying Grok AI: Elon Musk's New Project - Unveiling Its Potential & Pricing Details</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-selection-of-ai-prompt-builders-for-advanced-ai-assistants/"><u>Discover the Ultimate Selection of AI Prompt Builders for Advanced AI Assistants</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-the-power-of-huggingchat-a-cost-free-rival-to-chatgpt/"><u>Discovering the Power of HuggingChat – A Cost-Free Rival to ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dive-into-ai-deployment-auto-gpt-step-by-step/"><u>Dive Into AI Deployment (Auto-GPT) Step-by-Step</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-installation-of-the-chatgpt-application-on-windows-systems/"><u>Easy Installation of the ChatGPT Application on Windows Systems</u></a></li>
-<li><a href="https://facebook.techidaily.com/fb-and-giphy-in-trouble-selling-possibility-explored/"><u>FB and Giphy in Trouble? Selling Possibility Explored</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-6s-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 6s Plus Passcode not Working?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-7-ultimate-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Asus ROG Phone 7 Ultimate Phone with Broken Screen</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-y200-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo Y200 Android SIM Unlock APK</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-insight-into-editing-magic-a-thorough-review-of-anthropics-smart-photo-editor/"><u>Ultimate Insight Into Editing Magic: A Thorough Review of Anthropics' Smart Photo Editor</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/understanding-video-formats-which-is-more-effective-av1-or-vp9-for-2024/"><u>Understanding Video Formats Which Is More Effective, AV1 or VP9 for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-enhance-your-experience-with-chatgpt-plus-here-are-9-compelling-reasons/"><u>Why Enhance Your Experience with ChatGPT Plus? Here Are 9 Compelling Reasons</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-specifications-detaillees-de-lia-winxvideo-guide-officiel-et-complet/"><u>1. Spécifications Détaillées De L'IA Winxvideo : Guide Officiel Et Complet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-image-quality-the-ultimate-guide-for-higher-resolutions/"><u>Boost Your Image Quality: The Ultimate Guide for Higher Resolutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/foremost-corporate-cloud-storage-hubs/"><u>Foremost Corporate Cloud Storage Hubs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-unrestricted-video-resizer-applications-ultimate-guide-to-watermark-free-options-online/"><u>Free, Unrestricted Video Resizer Applications: Ultimate Guide to Watermark-Free Options Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-your-beloved-youtube-clips-on-disc-with-our-top-rated-free-youtube-converter-for-dvds/"><u>Get Your Beloved YouTube Clips on Disc with Our Top-Rated, Free YouTube Converter for DVDs!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-films-anticipated-the-covid-19-pandemic-years-before-it-happened/"><u>How Films Anticipated the COVID-19 Pandemic Years Before It Happened</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-essential-techniques-for-efficient-utilization-of-zooms-whiteboard-feature/"><u>In 2024, Essential Techniques for Efficient Utilization of Zoom's Whiteboard Feature</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-novice-to-expert-a-comprehensive-guide-to-macs-preview-software/"><u>In 2024, From Novice to Expert A Comprehensive Guide to Mac's Preview Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-possible-to-utilize-nvenc-for-video-encoding-in-handbrake-comprehensive-tutorial-inside/"><u>Is It Possible to Utilize NVENC for Video Encoding in HandBrake? Comprehensive Tutorial Inside!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-iphone-ringtone-updates/"><u>Mastering iPhone Ringtone Updates</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-10-best-free-avi-concatenators-for-seamless-video-editing/"><u>New The 10 Best Free AVI Concatenators for Seamless Video Editing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/peeps-funny-photos-iphones-style/"><u>Peeps' Funny Photos, iPhones Style</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tcd-is-non-destructive-and-responds-to-any-compound-different-in-thermal-conductivity-from-the-carrier-gas-but-has-lower-sensitivity-than-other-detectors/"><u>TCD Is Non-Destructive and Responds to Any Compound Different in Thermal Conductivity From the Carrier Gas but Has Lower Sensitivity than Other Detectors.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/telechargement-gratuite-de-lecteur-video-high-definition-hdfull-hd-compatible-avec-les-ordinateurs-personnels/"><u>Téléchargement Gratuite De Lecteur Vidéo High Definition (HD/Full HD) Compatible Avec Les Ordinateurs Personnels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-full-spectrum-slomo-recording-app-evaluation/"><u>The Full Spectrum SloMo Recording App Evaluation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-meizu-21-by-drfone-android/"><u>Three Ways to Sim Unlock Meizu 21</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/upgrade-your-media-with-winxvideo-ai-intelligent-videoimage-enhancer-for-recording-editing-converting-and-more/"><u>Upgrade Your Media with Winxvideo AI: Intelligent Video/Image Enhancer for Recording, Editing, Converting & More</u></a></li>
 </ul></div>
 

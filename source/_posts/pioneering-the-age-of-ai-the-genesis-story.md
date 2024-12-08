@@ -1,7 +1,7 @@
 ---
 title: "Pioneering the Age of AI: The Genesis Story"
-date: 2024-11-28T21:34:34.087Z
-updated: 2024-11-29T16:36:33.413Z
+date: 2024-12-04T17:00:33.707Z
+updated: 2024-12-08T16:08:34.880Z
 tags:
   - chatgpt
   - open-ai
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is ChatGPT?
@@ -31,10 +31,14 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 ![artificial intelligence brain connected to human being](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-4389372_1920-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do People Use ChatGPT?
 
@@ -49,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
  These examples might make you think there’s[no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/) . However, that’s not an accurate assumption.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will ChatGPT Replace Programmers?
@@ -70,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some[criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) , ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Will ChatGPT Replace Other Jobs?
 
  You might wonder if[content writers should worry about ChatGPT](http://www.makeuseof.com/why-chatgpt-wont-take-writing-job/) taking their jobs. Fortunately, those professionals need not fear. ChatGPT responses are often repetitive and sometimes outdated, making them less valuable.
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
  Elsewhere, people are explicitly[formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and[spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Deserves Caution
@@ -107,17 +107,15 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-turning-on-adaptive-hdr-in-windows-11/"><u>[Updated] 2024 Approved Turning on Adaptive HDR in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-detailed-contrast-of-rokus-express-and-stick-streaming-devices/"><u>A Detailed Contrast of Roku's Express and Stick Streaming Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-v27-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo V27 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://win-webster.techidaily.com/comment-obtenir-le-mot-de-passe-du-panneau-dadministration-microsoft-windows/"><u>Comment Obtenir Le Mot De Passe Du Panneau D'Administration Microsoft Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-install-brother-mfc-7360n-printer-drivers-on-windows-10-8-and-7/"><u>Easy Guide: Install Brother MFC-7360N Printer Drivers on Windows 10, 8, and 7</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-ideas-to-epics-leveraging-chatgpt-for-unparalleled-story-crafting-skills/"><u>From Ideas to Epics: Leveraging ChatGPT for Unparalleled Story Crafting Skills</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generative-ai-in-messages-here-are-7-compelling-reasons-to-proceed-with-caution/"><u>Generative AI in Messages? Here Are 7 Compelling Reasons to Proceed with Caution</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-started-easy-instructions-for-activating-new-chatgpt-features-via-plugins/"><u>Get Started: Easy Instructions for Activating New ChatGPT Features via Plugins</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-custom-gpt-variants-outperform-standard-chatgpt-in-real-world-applications/"><u>How Custom GPT Variants Outperform Standard ChatGPT in Real-World Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-ensure-privacy-from-chatgpt-complete-opt-out-tutorial/"><u>How to Ensure Privacy From ChatGPT - Complete Opt-Out Tutorial</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oppo-a79-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Oppo A79 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/skip-the-hunt-exclusive-filmora-coupon-codes-inside-for-2024/"><u>Skip the Hunt Exclusive Filmora Coupon Codes Inside for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-capturing-adventures-with-right-tools-and-tech-for-2024/"><u>[New] Capturing Adventures with Right Tools & Tech for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-snapchat-enhancement-the-power-of-spotlight-feature/"><u>[Updated] 2024 Approved Snapchat Enhancement The Power of Spotlight Feature</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/acelere-el-rendimiento-de-su-animacion-utiliza-ia-en-la-interpolacion-de-fotogramas-para-optimizar-los-fps-y-facilitar-las-transiciones-perfectas/"><u>Acelere El Rendimiento De Su Animación: Utiliza IA en La Interpolación De Fotogramas Para Optimizar Los FPS Y Facilitar Las Transiciones Perfectas</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-reversed-display-orientation-on-win-11/"><u>Fixing Reversed Display Orientation on Win 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fixing-the-media-not-recognized-issue-in-popcorn-time-success/"><u>Fixing the ‘Media Not Recognized’ Issue in Popcorn Time - Success!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-10-spectacularly-free-luts-elevate-with-exclusive-purchase-options/"><u>In 2024, 10 Spectacularly Free LUTs; Elevate with Exclusive Purchase Options</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-examine-recorded-conversation/"><u>In 2024, Examine Recorded Conversation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nasipadiso/"><u>NAS機能搭載ソフトを使ってiPadにISOファイル再生するためのガイドブック</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/registratori-dello-schermo-migliori-per-windows-registra-intero-o-parte-dello-schermo/"><u>Registratori Dello Schermo Migliori per Windows: Registra Intero O Parte Dello Schermo</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Oppo A38? | Dr.fone</u></a></li>
 </ul></div>
 

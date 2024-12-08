@@ -1,7 +1,7 @@
 ---
 title: Is It Possible for ChatGPT to Create Secure & Efficient Exercise Routines Tailored Just for You?
-date: 2024-11-28T23:20:14.691Z
-updated: 2024-11-29T19:19:19.501Z
+date: 2024-12-02T16:17:56.524Z
+updated: 2024-12-08T17:00:17.909Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the Open-Source ChatGPT Desktop Application?
 
  ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
@@ -58,18 +54,18 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
- The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -81,7 +77,11 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -107,22 +107,16 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-quick-fixes-enhancing-colors-with-ps-tools/"><u>[New] Quick Fixes Enhancing Colors with PS Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-crescendo-of-creativity-adding-audio-to-ig-stories/"><u>[Updated] 2024 Approved Crescendo of Creativity Adding Audio to IG Stories</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-elite-audit-the-updated-parrot-ar-drone/"><u>[Updated] 2024 Approved Elite Audit The Updated Parrot AR Drone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamline-your-content-youtube-to-dailymotion-shift/"><u>2024 Approved Streamline Your Content YouTube to Dailymotion Shift</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-samsung-galaxy-s23-fe-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Samsung Galaxy S23 FE</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-se-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-removing-tiktok-watermarks-for-free-for-2024/"><u>New The Ultimate Guide to Removing TikTok Watermarks for Free for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-ai-communication-7-insider-tricks-to-elevate-your-prompt-skills/"><u>Revolutionize AI Communication: 7 Insider Tricks to Elevate Your Prompt Skills</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/smart-home-mastery-with-chatgpt-is-it-feasible/"><u>Smart Home Mastery With ChatGPT - Is It Feasible?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/soundscaping-with-ai-assistance-leveraging-chatgpts-capabilities-in-music-production-software/"><u>Soundscaping with AI Assistance: Leveraging ChatGPT's Capabilities in Music Production Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamline-document-production-mastering-chatgpt-integration-with-microsoft-word/"><u>Streamline Document Production: Mastering ChatGPT Integration with Microsoft Word</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamline-success-innovative-ways-chatgpt-enhances-time-planning/"><u>Streamline Success: Innovative Ways ChatGPT Enhances Time Planning</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-evolution-of-interactive-assistance-personalized-directives-in-ai/"><u>The Evolution of Interactive Assistance: Personalized Directives in AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-gpt-3-pathway-crafting-content-that-speaks-for-you/"><u>The GPT-3 Pathway: Crafting Content That Speaks for You</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-influence-of-artificial-intelligence-on-game-development-and-its-effects-on-the-gaming-sector/"><u>The Influence of Artificial Intelligence on Game Development and Its Effects on the Gaming Sector</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-next-big-thing-from-sony-a-comprehensive-guide-to-upcoming-innovations/"><u>The Next Big Thing From Sony – A Comprehensive Guide to Upcoming Innovations</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/top-10-sketch-tools-ideal-for-chromebook-users-for-2024/"><u>Top 10 Sketch Tools Ideal for Chromebook Users for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-making-money-from-youtube-shorts-key-elements-and-profit-possibilities/"><u>[New] In 2024, Making Money From YouTube Shorts Key Elements & Profit Possibilities</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-insiders-handbook-to-crafting-shareable-meme-gifs/"><u>[New] The Insider's Handbook to Crafting Shareable Meme GIFs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/crafting-a-bespoke-ai-helper-based-on-chatgpt-personalized-configuration-steps/"><u>Crafting a Bespoke AI Helper Based on ChatGPT Personalized Configuration Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-free-apps-for-watching-films-online-here-are-12-picks/"><u>Discover the Best Free Apps for Watching Films Online, Here Are 12 Picks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-camon-30-pro-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Camon 30 Pro 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-motorola-razr-40-ultra-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Motorola Razr 40 Ultra Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-latest-update-activating-chatgpts-beta-browser-and-plugin-options/"><u>Master the Latest Update: Activating ChatGPT’s Beta Browser and Plugin Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-openai-compendium-your-complete-reference/"><u>The Ultimate OpenAI Compendium: Your Complete Reference</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-audio-issues-fixing-low-volume-on-windows-11/"><u>Troubleshooting PC Audio Issues: Fixing Low Volume on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-firms-apprehensions-top-5-issues-with-gpt-in-workspaces/"><u>Unraveling Firms' Apprehensions: Top 5 Issues With GPT in Workspaces</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-best-selection-7-premium-free-audio-streaming-options-for-smartphones-and-tablets/"><u>Unveiling the Best Selection: 7 Premium-Free Audio Streaming Options for Smartphones & Tablets</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover the Best ChatGPT Plugins for Superior AI Prompts and Responses on Chrome
-date: 2024-11-27T01:31:35.379Z
-updated: 2024-11-30T07:39:16.456Z
+date: 2024-12-06T17:08:27.476Z
+updated: 2024-12-08T17:00:31.361Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Throughout 2022 and 2023, we've seen just how advanced AI systems currently are. The most notable AI-based service launched during this time is ChatGPT, a language processing tool powered by artificial intelligence. Not long after its launch, stories began surfacing about[cybercriminals using ChatGPT to write malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) . While the malware only seemed to be a simple Python-based script, it showed that AI can, in fact, be leveraged maliciously.
@@ -43,10 +43,6 @@ It was also stated in the same report that:
 > The proliferation and accessibility of emergent cyber and AI tools probably will help these actors bolster their malign information campaigns by enabling the creation of low-cost, synthetic text-, image-, and audio-based content with higher quality.
 
  It seems the continued adoption and development of AI will pose a threat to our cybersecurity, though the degree to which it affects us is yet to be seen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Increased Digital Supply Chain Attacks
 
@@ -63,7 +59,7 @@ It was also stated in the same report that:
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Zero-trust systems do not rely on any user or group of users to authenticate, monitor, or store data. Additionally, every user present in a zero-trust system must authorize access to a new user, otherwise the system remains off-limits to that individual. In short, a zero-trust system is designed not to trust any one individual. All users are assumed untrustworthy unless authentication is provided by other users.
@@ -88,10 +84,6 @@ It was also stated in the same report that:
 
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  IoT devices make our day-to-day lives possible. Whether you're using your smartphone, smart speaker, smartwatch, or anything similar, IoT is facilitating your actions. In short IoT is a blanket term covering all interconnected devices. This network of connected "things" forms its own[Internet of Things (IoT)](https://www.makeuseof.com/tag/what-is-internet-of-things/) . It's this increased connectivity forming the Internet of Things that has attracted cybercriminals.
 
  The reason for this is similar to the increased focus on EV hacking. Not only do IoT devices rely on software, but they also use wireless connections to communicate with each other. These two elements leave a door open for exploits, be it through software vulnerabilities, malware, or inside actors.
@@ -104,6 +96,10 @@ It was also stated in the same report that:
 
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.
 
  While cloud platforms are undeniably a convenient storage option, one's ability to access data anywhere with the correct credentials creates a problem. If a hacker manages to access someone's account, they can then look at any data stored on said account—work documents, ID photos, photos and videos, financial information, or anything else.
@@ -115,7 +111,7 @@ It was also stated in the same report that:
 ![laptop surrounded by cybersecurity buzzwords ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There's no shortage of scammers looking to profit from current events. We saw a slew of scams arise from the COVID-19 pandemic, but things don't stop there. The Russia-Ukraine war and the Israel-Palestine conflict have also been used throughout 2023 to squeeze money out of victims through social engineering.
@@ -123,6 +119,10 @@ It was also stated in the same report that:
  For instance, a scammer may email a potential victim claiming to be a representative for a charity. They provide a link to a donation page so that the recipient can provide some money for the cause. But in reality, the charity is either make-believe, or the sender is impersonating an employee from a well known charitable organization. The scammer may be looking for a one-off payment, but they could also be providing a link to a phishing site designed to steal the victim's payment details. Either way, the recipient ends up losing out.
 
  As we continue to see more conflicts, tragedies, and scandals arise, there's no doubt that cybercriminals will continue to try and profit from other people's hardships.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Each Year Brings New Cybersecurity Threats
 
@@ -143,14 +143,16 @@ It was also stated in the same report that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-tips-for-efficient-music-import-in-inshot-app/"><u>[New] 2024 Approved Tips for Efficient Music Import in InShot App</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-precision-and-artistry-the-ultimate-crossfade-playbook-with-audacity/"><u>[New] Precision and Artistry The Ultimate Crossfade Playbook with Audacity</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-elevate-your-chuckles-kapwings-meme-designer/"><u>[Updated] Elevate Your Chuckles Kapwing's Meme Designer</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-pro-tips-effortless-capture-of-hulu-videos-across-windowsmaciphone/"><u>2024 Approved Pro Tips Effortless Capture of Hulu Videos Across Windows/Mac/iPhone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-artificial-intelligence-understanding-ai-governance-and-oversight/"><u>Exploring the World of Artificial Intelligence: Understanding AI Governance and Oversight</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gptbots-quest-and-content-gatekeeping-an-internet-paradox/"><u>GPTBot's Quest & Content Gatekeeping – An Internet Paradox</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-shap-e-simplify-ml-complexities/"><u>How Does SHAP E Simplify ML Complexities?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-proven-techniques-for-stunning-timelapses-in-gopro-studio/"><u>In 2024, Proven Techniques for Stunning Timelapses in GoPro Studio</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovating-knowledge-exchange-the-essence-of-ais-transfer-learning/"><u>Innovating Knowledge Exchange: The Essence of AI's Transfer Learning</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-graphicgrind-studio/"><u>[New] 2024 Approved GraphicGrind Studio</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-organizing-virtual-gatherings-syncing-slack-with-filmoras-features/"><u>[New] 2024 Approved Organizing Virtual Gatherings Syncing Slack with Filmora's Features</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-elevate-your-creative-process-mastering-the-use-of-luts-in-pscc/"><u>[New] In 2024, Elevate Your Creative Process Mastering the Use of LUTs in PSCC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-shadowing-secrets/"><u>[Updated] Swift Shadowing Secrets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-gratis-il-migliore-software-dvd-copia-per-mac-pc-e-linux-versione-2020/"><u>Download Gratis: Il Migliore Software DVD Copia per Mac, PC E Linux - Versione 2020</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flip-to-fun-immediate-collage-making-tricks-for-2024/"><u>Flip to Fun Immediate Collage Making Tricks for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725289687470-handbrake/"><u>HandBrakeの動作不良解消 - 最新修正ガイドとトラブルシューティング</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/prime-line-up-the-best-9-free-youtube-logo-makers-reviewed/"><u>Prime Line-Up The Best 9 Free YouTube Logo Makers Reviewed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revive-and-protect-scratched-discs-seamless-dvd-restoration-ensuring-original-quality-preservation/"><u>Revive & Protect Scratched Discs: Seamless DVD Restoration Ensuring Original Quality Preservation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steps-to-remove-image-collections-on-iphones-models-up-to-iphone-15/"><u>Steps to Remove Image Collections on iPhones (Models Up to iPhone 15)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winx-dvd-kopieren-mit-iso-montage-eine-losung-fur-windows-11-8-und-7/"><u>WinX DVD Kopieren Mit ISO-Montage: Eine Lösung Für Windows 11, 8 Und 7</u></a></li>
 </ul></div>
 

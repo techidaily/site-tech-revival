@@ -1,7 +1,7 @@
 ---
 title: Copilot, Your Free Companion for GPT-4's Highest Outputs
-date: 2024-11-28T22:17:57.732Z
-updated: 2024-11-30T03:42:46.384Z
+date: 2024-12-07T16:43:55.867Z
+updated: 2024-12-08T16:32:19.966Z
 tags:
   - chatgpt
   - open-ai
@@ -23,10 +23,6 @@ It’s a very simple process, and you’ll want to do it again and again.
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Write a Prompt in ChatGPT
 
@@ -54,26 +50,18 @@ It’s a very simple process, and you’ll want to do it again and again.
  Paste your content into A2 by using**Cmd** +**V** on Mac or**Ctrl** +**V** on Windows. Despite selecting only one box, each line of text will be input into a new row.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Tidy Up the Content
 
 ![Google Sheets with quotes in one column and credits in another.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-remove-attirubtion.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  First, widen column A to the right. Hover your cursor over the connecting edge of A and B until the cursor changes to arrows, then click and drag A column until you can see the ends of your content within the column width.
 
  If your generated content has attribution labels, like quotes with speaker names or songs with artist names, then remove the attributions from the end of the quotes and type or paste them into column B. Resize the columns as needed.
 
  You can add more elements if required, but for most social media posts, you don’t want to overcrowd information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Label Your Columns
 
@@ -93,10 +81,6 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  For Microsoft Excel, go to**File** \>**Save as** ​​​​​​, and under File Format choose**CSV UTF-8 (Comma-delimited) (.csv)** ​​​​​​. But this could be different depending on which version of Microsoft Office you’re running.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Make Your Design in Canva
 
 ![Create a Design options in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-design-canva.jpg)
@@ -107,11 +91,23 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Canva template design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-template-design.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Add Text Placeholders
 
 ![Canva design with placeholder text.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placeholder-text-canva.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select the**Text** tool and write placeholders for your labels. Place them where your text will go on the design. Remember to give yourself space to accommodate different lengths of content.
 
@@ -123,12 +119,16 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Bulk Create app in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-app-canva.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select**Apps** on Canva’s left-hand menu and type “Bulk Create” in the search bar. Select the**Bulk Create** app.
 
 ![Canva Bulk Create options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-csv.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select**Upload CSV** and find your saved CSV file to open. Canva will identify your two sections of content and separate them, in this case, into a section of Quote content and another of Attribution content.
@@ -136,7 +136,7 @@ It’s a very simple process, and you’ll want to do it again and again.
 ![Canva CSV input.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/curly-brackets.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select your Quotes placeholder text, then right-click >**Connect Data** \>**\[QUOTES\]** . This inputs your data into Canva, shown by your label now written in curly brackets. Do this again for your second set of content, and any others you’re adding. Select**Continue** .
@@ -145,19 +145,23 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  You’ll see a list of all the content to be applied with checkboxes next to each item. To remove any text items, uncheck the box next to it. If you’re happy with all the content, keep them all checked and select**Generate Pages** . Ensure you don't have a pop-up blocker on as your designs will open in a new tab.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Review and Edit Your Designs
 
 ![Canva bulk designs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-bulk-designs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After generation, your designs appear on their own page in a new tab. Scroll to view them all. If you applied Bulk Create to more than one design, you’ll have alternate designs for each set of text.
 
  Now comes the most laborious part of bulk creation. Go through each design to review and edit it. Although they’ve each been created under the same parameters, some text may not fit correctly or in aesthetically pleasing ways. Resize or move the text to best fit each design.
 
  At this point you can also add emphasis to individual words with extra colors, bold or italics, or change the font for certain words or phrases. This isn’t possible to do with Bulk Create.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Save Your Bulk-Created Designs
 
@@ -168,10 +172,6 @@ It’s a very simple process, and you’ll want to do it again and again.
 ![Bulk designs on Mac Finder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-designs-on-mac.jpg)
 
  You can add your bulk content to a social media scheduling app, like Hootsuite or Later, to save even more time and to ensure regular posting. Bulk designs are great for weekly or monthly posts of a similar type, for example, Monday Motivation or monthly calendar posts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bulk Create Content With Canva and ChatGPT
 
@@ -192,22 +192,20 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/hannel-building-gear-a-quick-start-guide/"><u>[New] Channel-Building Gear A Quick Start Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1728476206641-windows-11-10-8-7/"><u>如何备份并移植Windows 11, 10, 8, 7中的已安装软件 - 三种策略</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721839676179-android-users-rejoice-chatgpt-is-here/"><u>Android Users Rejoice - ChatGPT Is Here!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722172629556-comparing-giants-gemini-and-chatgpt-unite/"><u>Comparing Giants: Gemini and ChatGPT Unite!</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/exploring-different-windows-store-application-models/"><u>Exploring Different Windows Store Application Models</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-realme-c55-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Realme C55? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-enhance-your-game-with-this-superb-cost-free-sound-altering-app/"><u>In 2024, Enhance Your Game with This Superb, Cost-Free Sound Altering App</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-streamlined-steps-simplifying-fishy-voice-swaps-on-windows-pcs/"><u>In 2024, Streamlined Steps Simplifying Fishy Voice Swaps on Windows PCs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-the-shortcut-beginning-command-line-sessions-right-where-you-need-them-on-pc/"><u>Master the Shortcut: Beginning Command Line Sessions Right Where You Need Them on PC</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/navigating-xbox-broadcasts-to-facebook-streams-for-2024/"><u>Navigating Xbox Broadcasts to Facebook Streams for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-day-the-4-best-uses-of-chatgpt-to-enhance-time-management/"><u>Transform Your Day: The 4 Best Uses of ChatGPT to Enhance Time Management</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-your-chatgpt-ban-insight-into-four-common-pitfalls-and-fixes/"><u>Troubleshooting Your ChatGPT Ban: Insight Into Four Common Pitfalls and Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-risks-top-6-ways-ai-may-fail-us/"><u>Understanding the Risks: Top 6 Ways AI May Fail Us</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-efficiency-install-and-operate-microsoft-copilot-on-your-macbook/"><u>Unlocking Efficiency: Install and Operate Microsoft Copilot on Your MacBook</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-best-apps-to-master-sound-transformation/"><u>Unveiling the Best Apps to Master Sound Transformation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-are-businesses-saying-no-to-chatgpt-exploring-5-main-reasons/"><u>Why Are Businesses Saying No to ChatGPT? Exploring 5 Main Reasons</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/will-robots-pass-the-ultimate-mind-game-insights-into-the-turing-test/"><u>Will Robots Pass the Ultimate Mind Game? Insights Into the Turing Test</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-3dr-a-singular-perspective-on-3d-printing-revolution/"><u>[New] '3DR' A Singular Perspective on 3D Printing Revolution</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ultimate-guide-to-high-speed-pc-controller-extensions/"><u>[New] 2024 Approved Ultimate Guide to High-Speed PC Controller Extensions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-expert-recommendations-the-best-handhited-hd-players-for-2024/"><u>[Updated] Expert Recommendations The Best Handhited HD Players for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagrams-top-25-leaders-in-digital-influence/"><u>[Updated] Instagram's Top 25 Leaders in Digital Influence</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-your-podcast-secrets-for-compelling-opening-videos/"><u>[Updated] Perfect Your Podcast Secrets for Compelling Opening Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connect-via-facebook-messenger-without-owning-a-facebook-account-possible/"><u>Connect via Facebook Messenger Without Owning a Facebook Account - Possible?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/playstation-vr-2s-wired-advantage-benefits-over-cable-free-virtual-reality/"><u>PlayStation VR #2'S Wired Advantage - Benefits Over Cable-Free Virtual Reality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sun-flashes-a-grin-nasa-captures-rare-image-amid-solar-activity-rumors/"><u>Sun Flashes a Grin: NASA Captures Rare Image Amid Solar Activity Rumors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-rivian-r1t-unveiled-transforming-the-electric-pickup-market-with-style-and-functionality/"><u>The Rivian R1T Unveiled: Transforming the Electric Pickup Market with Style and Functionality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-top-virtual-reality-innovations-a-historical-review-of-promising-tech-that-missed-its-mark/"><u>The Top Virtual Reality Innovations: A Historical Review of Promising Tech That Missed Its Mark</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-airdrops-how-they-work-in-the-cryptocurrency-world/"><u>Understanding Airdrops: How They Work in the Cryptocurrency World</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-mechanics-of-evs-a-guide-to-how-electric-cars-function/"><u>Understanding the Mechanics of EVs: A Guide to How Electric Cars Function</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/unlocking-hidden-insights-with-process-intelligence-on-complex-workflows/"><u>Unlocking Hidden Insights with Process Intelligence on Complex Workflows</u></a></li>
 </ul></div>
 

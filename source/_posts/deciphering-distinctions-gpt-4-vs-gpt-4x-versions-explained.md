@@ -1,7 +1,7 @@
 ---
 title: "Deciphering Distinctions: GPT-4 Vs. GPT-4x Versions Explained"
-date: 2024-11-28T21:14:03.928Z
-updated: 2024-11-29T17:29:23.909Z
+date: 2024-12-01T16:32:25.893Z
+updated: 2024-12-08T16:02:37.291Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 * [How to Opt-Out of ChatGPT's Chat History and Training Feature](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#how-to-opt-out-of-chatgpt-39-s-chat-history-and-training-feature)
 * [ChatGPT Data Collection You Can't Opt Out From](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#chatgpt-data-collection-you-can-39-t-opt-out-from)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can opt out of ChatGPT's use of your chat data for training, ensuring your conversations remain private.
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
  While ChatGPT is a fantastic AI tool, certain privacy concerns have surrounded it since its November 2022 launch. One such concern is OpenAI's use of user chat data to further train its LLMs.
 
  But worry not; you can opt out of having your chat data used, keeping your ChatGPT conversations private.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is ChatGPT's Chat History and Training Feature?
 
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
  However, in April 2023, OpenAI started offering users the choice to disable or enable chat history and training data collection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Opt-Out of ChatGPT's Chat History and Training Feature
@@ -65,12 +65,16 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 ![chatgpt sidebar menu options list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-sidebar-menu-options-list.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  First, click on your profile name at the bottom-left of the main page and head to**Settings & Beta** .
 
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In your settings, click on the**Data controls** option. Now, you'll see a setting named**Chat history & training** . This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
 
@@ -79,16 +83,12 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
 
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Data Collection You Can't Opt Out From
 
@@ -115,18 +115,20 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-conquering-video-production-hurdles-essential-filmora-tips-and-tricks/"><u>[New] Conquering Video Production Hurdles Essential Filmora Tips & Tricks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-windows-11-essential-upgrades/"><u>[New] Exploring Windows 11 Essential Upgrades</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-captioning-videos-efficiently-on-vimeo-platform/"><u>[Updated] In 2024, Captioning Videos Efficiently on Vimeo Platform</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-essential-chromes-leading-fb-video-grabs/"><u>2024 Approved Essential Chromes Leading FB Video Grabs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/6-troubleshooting-steps-to-address-and-resolve-auto-gpt-setup-difficulties/"><u>6 Troubleshooting Steps to Address and Resolve Auto-GPT Setup Difficulties</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/7-strategies-for-smoother-real-time-dialogue-with-chatgpt/"><u>7 Strategies for Smoother Real-Time Dialogue with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-comprehensive-look-at-chatgpt-versus-hugbingchat-performance/"><u>A Comprehensive Look at ChatGPT versus HugbingChat Performance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-breakthrough-unveiling-gpt-4s-potential-to-transform-diy-endeavors/"><u>AI Breakthrough: Unveiling GPT-4's Potential to Transform DIY Endeavors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/are-modern-ai-innovations-such-as-chatgpt-making-classic-academic-essay-writing-a-thing-of-the-past/"><u>Are Modern AI Innovations, Such as ChatGPT, Making Classic Academic Essay Writing a Thing of the Past?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/artistic-integrity-protection-outsmarting-generative-ai-with-nightshade-strategies/"><u>Artistic Integrity Protection: Outsmarting Generative AI with Nightshade Strategies</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-film-flair-in-frame-up-smart-setup-tips-for-stellar-videos/"><u>In 2024, Film Flair in Frame-Up Smart Setup Tips for Stellar Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-taking-twitters-short-form-stories-and-making-them-come-alive-as-gifs/"><u>In 2024, Taking Twitter's Short Form Stories and Making Them Come Alive as GIFS</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-note-30-vip-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Note 30 VIP Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-concealed-countenance-the-most-effective-blur-methods/"><u>[New] Concealed Countenance The Most Effective Blur Methods</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-spotifys-1-hitlist-rankings/"><u>[Updated] In 2024, Spotify's #1 Hitlist Rankings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-optimal-screen-capture-techniques-tunefab-style-for-2024/"><u>[Updated] Optimal Screen Capture Techniques - Tunefab Style for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-video-exporting-youtube-content-directed-to-facebook-stream/"><u>[Updated] Video Exporting YouTube Content Directed to Facebook Stream</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparison-of-chatgpt-and-huggingfaces-huggingchat-determining-the-superior-conversational-ai/"><u>Comparison of ChatGPT and HuggingFace's HuggingChat: Determining the Superior Conversational AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-mind-to-mural-chatgpts-role-in-ai-imagery/"><u>From Mind to Mural: ChatGPT's Role in AI Imagery</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-xs-max-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone XS Max? 5 Tips You Must Know</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unveiled-top-10-superior-gopro-housing-options/"><u>In 2024, Unveiled Top 10 Superior GoPro Housing Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-excel-in-no-time-with-chatgpt-insights/"><u>Master Excel in No Time With ChatGPT Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-gpt-3-a-step-by-step-guide-for-the-openai-sandbox/"><u>Mastering GPT-3: A Step-by-Step Guide for the OpenAI Sandbox</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reasons-to-avoid-installing-the-official-chatgpt-mobile-application/"><u>Reasons to Avoid Installing the Official ChatGPT Mobile Application</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-risks-associated-with-downloading-chatgpt-from-the-mac-digital-marketplace-a-detailed-guide/"><u>The Risks Associated with Downloading ChatGPT From the Mac Digital Marketplace – A Detailed Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-pick-the-ultimate-list-of-wireless-travel-routers/"><u>Top Pick: The Ultimate List of Wireless Travel Routers</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/transformate-gratuita-de-imagenes-jpg-a-jpeg-online-con-movavi/"><u>Transfórmate Gratuita De Imágenes JPG a JPEG Online Con Movavi</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1728466540553-windows-11/"><u>ファイル・フォルダが消えない？Windows 11での力任せ削除手段を学ぶ。</u></a></li>
 </ul></div>
 

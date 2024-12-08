@@ -1,7 +1,7 @@
 ---
 title: "Quick Start Guide: Activating and Configuring Auto-GPT on Ubuntu Systems"
-date: 2024-11-27T06:05:10.218Z
-updated: 2024-11-30T07:16:30.680Z
+date: 2024-12-05T17:15:25.606Z
+updated: 2024-12-08T16:25:44.798Z
 tags:
   - chatgpt
   - open-ai
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
  If you're wondering how ChatGPT stacks up against Google Translate as a translation tool, here's a [comparison of ChatGPT vs. Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/). Furthermore, did you know you can [use ChatGPT to help you learn a new language](https://www.makeuseof.com/how-chatgpt-plus-can-help-you-learn-a-language/)? Translating with ChatGPT is fast and accurate, but why not go the extra step and learn an entirely new language using an AI tutor?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Translate Languages With ChatGPT
 
  Translating with ChatGPT is easy. All you need to do is provide the text you want to translate and specify the language you want to translate it to, and ChatGPT will handle the rest. However, you can customize ChatGPT's language translation outputs, create unique language translation scenarios, and adjust many more aspects. ChatGPT is a generative AI tool, after all.
@@ -49,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
  Here are other important things you'll need to keep in mind to use ChatGPT efficiently as a translation tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Provide Context
@@ -60,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Of course, Google Translate will provide the same translation no matter how many times you attempt to translate it because it doesn't have a way to recognize contextual nuance. As per the screenshot above, ChatGPT will attempt to provide the most accurate translation depending on the provided context. Providing context can significantly improve the quality of your translation. If you are not sure how to provide context, here are some inspirations:
 
 * "Translate \[text to translate in Filipino\] to English from the perspective of a native Filipino speaker" should try to maintain as many cultural connotations as possible in a translation.
@@ -71,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 * "Translate \[text to translate\] to English. The text discusses a battle during WWII" should use appropriate military and historical terms.
 
  You can adjust each prompyour chosen languageosing, and ChatGPT will do the rest.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Declare the Type of Text
 
@@ -93,9 +81,17 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
 ![Translating with ChatGPT using style transfer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-using-style-transfer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The translation above uses the closest English equivalent of the corresponding Spanish words, while the one below uses words suitable for an audience not acquainted with soccer terms. However, it is interesting to note that both translations are considered accurate.
 
 ![An English translation using style transfer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/an-english-translation-using-style-transfer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To use style transfer when translating, use prompts like:
 
@@ -104,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 * Translate \[text to translate\] to \[target language\]. Use style transfer to make the translated text suitable for a \[target audience\]
 
  You might have to tweak and adjust the style you want, but the possibilities are effectively endless.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Account for Regional Differences
 
@@ -133,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
  Translation summaries are great when you're trying to communicate but don't necessarily have time to get deep into learning the language immediately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use a Fine-Tuned Instance of ChatGPT
@@ -158,6 +150,10 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
  For instance, in point six above, we talked about a word-translation pair. You can simply add your preferred translations of words to the ChatGPT Custom Instruction editor and have the chatbot use that preference across all chat sessions. If you spend time translating between two specific languages and use tricky, unique, or colloquial words and phrasing, this will speed up your ChatGPT language translation efforts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Replicate Linguistic Form
 
  Being able to replicate linguistic forms on demand is one of the most important advantages of ChatGPT as a translation tool over conventional translation tools. In certain texts, like those meant to entertain, the choice of words and phrases is always integral to creating entertainment value. Simply substituting different terms in another language may not preserve entertainment value.
@@ -171,6 +167,10 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
  You can get ChatGPT to translate while retaining at least some semblance of its original artistic or comic value. This can be achieved by instructing ChatGPT to retain its original form, preferably by providing an example ChatGPT can learn from. In the example in the screenshot below, we asked ChatGPT to translate some Spanish sentences while preserving the sense of humor, playfulness, rhyming, or creativity and staying true to the original meaning.
 
 ![Translation that preserves linguistic form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/translation-that-preserves-linguistic-form.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Of course, this is not a perfect translation example, but with a few prompt tweaks, there's more to achieve.
 
@@ -197,19 +197,24 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-script-strategies-for-captivating-youtube-audiences/"><u>[Updated] In 2024, Script Strategies for Captivating YouTube Audiences</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-streaming-showdown-the-duo/"><u>[Updated] Streaming Showdown The Duo</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-blueprint-of-youtubes-innovative-shorts-economy-model/"><u>2024 Approved The Blueprint of YouTube's Innovative Shorts Economy Model</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-the-advantages-of-switching-to-macos-11-big-sur-for-2024/"><u>Explore the Advantages of Switching to macOS 11 Big Sur for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/hacking-tiktoks-video-pace-efficiently/"><u>Hacking TikTok's Video Pace Efficiently</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-get-notified-when-someone-screenshots-disappearing-messages-on-messenger/"><u>How to Get Notified When Someone Screenshots Disappearing Messages on Messenger</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-elitebook-8460p-fresh-driver-downloads-and-quick-update-troubleshooting-for-windows-users/"><u>HP EliteBook 8460P: Fresh Driver Downloads & Quick Update Troubleshooting for Windows Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-future-tech-4-regulatory-avenues-for-ai-tools/"><u>Navigating Future Tech: 4 Regulatory Avenues for AI Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tailoring-professionals-messages-through-gpt-3/"><u>Tailoring Professionals' Messages Through GPT-3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tale-of-two-giants-which-one-wins-the-llama-3-challenge-or-gpt-4/"><u>Tale of Two Giants: Which One Wins - The Llama 3 Challenge or GPT-4</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-bounds-of-communication-with-chatgpt-overcoming-its-character-cap/"><u>The Bounds of Communication with ChatGPT: Overcoming Its Character Cap</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-nlp-frontier-gpt-vs-bert-a-detailed-analysis/"><u>The NLP Frontier: GPT Vs. BERT - A Detailed Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-7-ai-technologies-transforming-how-we-tackle-math-challenges/"><u>The Ultimate List of 7 AI Technologies Transforming How We Tackle Math Challenges</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-factors-behind-chatgpts-unprecedented-rise-as-the-quickest-scaling-application-ever/"><u>Top 5 Factors Behind ChatGPT's Unprecedented Rise as the Quickest Scaling Application Ever</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-accelerating-instagram-videos-quick-tips/"><u>[New] In 2024, Accelerating Instagram Videos Quick Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-recovering-the-solitary-sound-device/"><u>[New] In 2024, Recovering the Solitary Sound Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725289672677-mpc-be/"><u>「日本版のMPC-BEが必要な場合、ここから無料で安全にダウンロード＆インストール方法ガイド」</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comparing-digital-universes-meta-to-omni/"><u>Comparing Digital Universes Meta to Omni</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversoes-gratuitas-de-video-como-transformar-seus-arquivos-mts-em-mp4/"><u>Conversões Gratuitas De Vídeo: Como Transformar Seus Arquivos MTS Em MP4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/digiartys-guide-to-overcoming-not-found-pages-on-your-site/"><u>Digiarty's Guide to Overcoming 'Not Found' Pages on Your Site</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725287750112-dvd-2024/"><u>DVD コピー保護技術2024年解析と対策方法まとめ</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-version-of-your-huion-tablet-driver-download-and-setup-tips-for-windows/"><u>Get the Latest Version of Your Huion Tablet Driver - Download & Setup Tips for Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-realme-gt-5-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Realme GT 5 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-simplify-your-youtube-presence-with-flawless-shorts-thumbnails/"><u>In 2024, Simplify Your YouTube Presence with Flawless Shorts Thumbnails</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-top-5-alternative-editors-beyond-youtubes-limits/"><u>In 2024, Top 5 Alternative Editors Beyond Youtube's Limits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-dvd-surgery-implementing-subtitles-for-any-movie/"><u>Mastering the Art of DVD Surgery: Implementing Subtitles for Any Movie</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/melhores-ferramentas-de-roupa-de-cama-gratis-do-ano-guia-completo-para-2024-pela-movavi/"><u>Melhores Ferramentas De Roupa De Cama Grátis Do Ano: Guia Completo Para 2024 Pela Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/os-10-mais-fieis-conversores-de-dvd-para-mp4-compativeis-com-windows-10-e-11-alem-do-macos-em-2023/"><u>Os 10 Mais Fiéis Conversores De DVD Para MP4 Compatíveis Com Windows 10 E 11, Além Do macOS Em 2023</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-earphones-not-anymore-solve-airpods-sound-problems-on-windows-os/"><u>Silent Earphones? Not Anymore! Solve AirPods Sound Problems on Windows OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/smooth-switching-of-iphone-screen-orientation-for-optimal-full-screen-video-experience/"><u>Smooth Switching of iPhone Screen Orientation for Optimal Full-Screen Video Experience</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nsiders-approach-to-maximizing-youtube-video-revenue-for-2024/"><u>The Insider's Approach to Maximizing YouTube Video Revenue for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultracopy-elite-fastest-and-most-efficient-software-to-duplicate-securely-locked-dvds-on-windows-10-platform/"><u>UltraCopy Elite: Fastest & Most Efficient Software to Duplicate Securely Locked DVDs on Windows 10 Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/makemkv-dvdblu-ray/"><u>ダウンロードできるMakeMKVキー: 制限なし・無料DVD/Blu-Rayリッピング手順</u></a></li>
 </ul></div>
 

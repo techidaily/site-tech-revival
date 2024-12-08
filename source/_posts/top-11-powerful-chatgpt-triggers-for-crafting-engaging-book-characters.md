@@ -1,7 +1,7 @@
 ---
 title: Top 11 Powerful ChatGPT Triggers for Crafting Engaging Book Characters
-date: 2024-11-25T20:53:32.311Z
-updated: 2024-11-29T18:12:05.259Z
+date: 2024-12-02T16:43:57.288Z
+updated: 2024-12-08T16:58:01.820Z
 tags:
   - chatgpt
   - open-ai
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
  FYNB will take a few minutes to process your request and then give you one recommendation at a time. The recommendation page includes a summary of why the AI thinks the book's topics match what you are looking to read, as well as a non-AI-generated description of the book, like what you're likely to find on the back cover. If you aren't happy with the result, click the "Next Book" button for another recommendation with the same prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2.[Sona](https://www.readthistwice.com/sona) (Web): Quickly Browse a Long List of AI-Recommended Books
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 ![Sona is an AI book recommendation engine by the makers of Read This Twice that makes AI prompt results easy to read](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-read-this-twice-sona.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
  However, in the results, Sona disappointingly doesn't rely on Read This Twice's core expertise by showing which books are recommended by someone influential. There is a workaround to that, though. If you register on the site, you'll be able to add these books to your personal library and go there to see who has promoted the book.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3.[Next Three Books](https://www.nextthreebooks.com/) (Web): Filter Book Recommendations by Type, Genre, Length, Style
@@ -79,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
 ![Readow uses AI to recommend books based on what you've liked in the past](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-readow.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Author Screenshot by Mihir Patkar - No attribution required
 
  Most AI-powered book recommendation sites want to use the power of ChatGPT to let you write a simple sentence about what you're looking for, just like you would ask a friend. But figuring out the right prompt can be difficult if you're not used to this. If you're struggling with the other apps, try Readow.
@@ -90,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
  Readow simply wants you to tell its AI what your favorite books are, and it'll start suggesting recommendations based on your preferences. There is no limit on how many books you can add; in fact, the more books you add, the better it understands your taste and suggests results accordingly.
 
  Whenever you add or remove a personal favorite, Readow will update the results with 30 book recommendations. You can like books from the recommendations to add them to your favorites or delete them from the recommendations to indicate to the AI that it shouldn't suggest similar titles.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5.[BooksAI](https://booksai.app/) (Android, iOS): Got Recommendations? Read Spoiler-Free AI Summaries
 
@@ -103,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
 ![BooksAI uses ChatGPT to summarize any book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Author Screenshot by Mihir Patkar - No attribution required
 
 Close
@@ -118,6 +114,10 @@ Close
  BooksAI also gives you these summaries in nine languages and not just English, making it perfect for non-native speakers. The app also has lists of recommended readings from celebrities and influential minds.
 
 **Download:** BooksAI for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030240/https://play.google.com/store/apps/details?id=com.books.ai.books%5Fai) |[iOS](https://apps.apple.com/us/app/booksai-ai-book-summaries/id6450773082) (Free)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Give Serendipity a Chance
 
@@ -138,20 +138,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-digital-chromatic-conventions-in-media-production/"><u>[New] Digital Chromatic Conventions in Media Production</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-youtubes-virality-secrets-effective-hashtag-strategies/"><u>[New] In 2024, YouTube's Virality Secrets Effective Hashtag Strategies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premium-audio-no-cost-lut-repository-summary/"><u>[New] Premium Audio No-Cost LUT Repository Summary</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-streamlining-post-processing-with-effective-use-of-luts-in-pscc/"><u>[Updated] Streamlining Post-Processing with Effective Use of LUTs in PSCC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advanced-analysis-of-gemini-vs-chatgpt-plus-determining-top-performance/"><u>Advanced Analysis of Gemini Vs. ChatGPT Plus - Determining Top Performance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723008596947-assassins-creed-odyssey-pc-version-now-stable-and-crash-free/"><u>Assassin's Creed Odyssey PC Version Now Stable and Crash-Free</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721893029951-breaking-down-twitters-new-axe-feature-exploring-chatgpt-issues-linus-tech-tips-security-breach-and-an-in-depth-look-at-trojan-viruses/"><u>Breaking Down Twitter’s New 'Axe' Feature: Exploring ChatGPT Issues, Linus Tech Tips Security Breach, and an In-Depth Look at Trojan Viruses.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721947116928-discover-talk-directly-to-chatgpt/"><u>Discover: Talk Directly to ChatGPT!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722134124453-easy-enrollment-start-using-microsofts-ai-boosted-search-service-now/"><u>Easy Enrollment: Start Using Microsoft's AI-Boosted Search Service Now</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cut-editing-time-in-half-with-these-adobe-premiere-shortcuts/"><u>In 2024, Cut Editing Time in Half with These Adobe Premiere Shortcuts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mastering-video-compression-in-imovie-tips-and-tricks-for-optimal-quality-retention/"><u>Mastering Video Compression in iMovie: Tips and Tricks for Optimal Quality Retention</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722157283102-revolutionize-your-internet-experience-with-these-7-must-have-chatgpt-extensions-for-enhanced-browsing-interactions/"><u>Revolutionize Your Internet Experience with These 7 Must-Have ChatGPT Extensions for Enhanced Browsing Interactions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solve-sd-card-disappearance-in-pcs-explore-window/"><u>Solve SD Card Disappearance in PC's Explore Window</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-claude-ai-the-ultimate-guide-on-usage-and-advantages/"><u>Unveiling Claude AI: The Ultimate Guide on Usage & Advantages</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-switching-to-chatgpts-desktop-application-is-a-smart-choice-over-using-its-online-version/"><u>Why Switching to ChatGPT's Desktop Application Is a Smart Choice Over Using Its Online Version</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-experience-the-old-school-games-anywhere-with-best-in-class-pc-gb-emulators/"><u>[New] In 2024, Experience the Old School Games Anywhere with Best-in-Class PC GB Emulators</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-securing-social-streaming-download-strategies-unveiled-for-2024/"><u>[Updated] Securing Social Streaming Download Strategies Unveiled for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-streamline-your-soundwaves-moving-playlists-across-networks/"><u>2024 Approved Streamline Your Soundwaves Moving Playlists Across Networks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvdaviwinx-dvd-ripper/"><u>効率的にDVDをAVI形式に変換するためのWinX DVD Ripper入門 - 無料ソフトで楽しむ変換テクニック</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advanced-techniques-boost-your-board-game-expertise-and-image-making-with-chatgpts-intelligent-bot-solutions/"><u>Advanced Techniques: Boost Your Board Game Expertise and Image Making with ChatGPT's Intelligent Bot Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725285879778-ai60fps/"><u>AI超級填充器：加快補充速度達60fps，提供流暢的影片切換效果</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-top-notch-gear-with-toms-hardware-review-portal/"><u>Discover Top-Notch Gear with Tom's Hardware Review Portal</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guida-definitiva-per-il-miglior-masterizzatore-dvd-gratis-per-windows-1011-con-dettagli-di-installazione-e-revisioni-fedeli/"><u>Guida Definitiva per Il Miglior Masterizzatore DVD Gratis per Windows 10/11, Con Dettagli Di Installazione E Revisioni Fedeli</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-safe-is-it-to-use-the-pirate-bay-for-movies-a-complete-guide-on-security-and-risks/"><u>How Safe Is It To Use The Pirate Bay For Movies: A Complete Guide On Security And Risks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/immersive-viewing-ranked-10-best-mac-compatible-screens/"><u>Immersive Viewing Ranked #10, Best Mac-Compatible Screens</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-burning-a-dvd-from-an-existing-disc-using-windows-11-10-8-or-7/"><u>Step-by-Step Guide: Burning a DVD From an Existing Disc Using Windows 11, 10, 8 or 7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/techniques-pour-transferer-des-films-de-dvd-vers-un-ordinateur-sous-windows-11-10-ou-7-et-macos/"><u>Techniques Pour Transférer Des Films De Dvd Vers Un Ordinateur Sous Windows 11, 10 Ou 7 Et macOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-methods-to-bypass-drm-on-dvd-movies-including-5-free-solutions/"><u>Top 8 Methods to Bypass DRM on DVD Movies: Including 5 Free Solutions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-aesthetics-advanced-video-hue-balancing/"><u>YouTube Aesthetics Advanced Video Hue Balancing</u></a></li>
 </ul></div>
 

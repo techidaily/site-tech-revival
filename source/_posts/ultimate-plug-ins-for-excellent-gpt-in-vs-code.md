@@ -1,7 +1,7 @@
 ---
 title: Ultimate Plug-Ins for Excellent GPT in VS Code
-date: 2024-09-11T19:22:47.463Z
-updated: 2024-09-12T19:22:47.463Z
+date: 2024-12-06T16:19:24.118Z
+updated: 2024-12-08T16:46:36.052Z
 tags:
   - chatgpt
   - open-ai
@@ -22,10 +22,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
  On March 19, 2024,[OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in[custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do ChatGPT Plugins Work?
@@ -33,10 +30,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 ![Monitor screen showing ChatGPT landing page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/monitor-screen-showing-chatgpt-landing-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT plugins are software components integrated into[the ChatGPT platform](https://www.makeuseof.com/how-does-chatgpt-work/) . They provide ChatGPT with additional information, such as up-to-date news or data from proprietary sources, and enable ChatGPT to perform specific actions on behalf of users.
@@ -48,16 +42,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
  Then, ChatGPT could use these plugins to fetch relevant information and insert them into the email draft. It could also use the plugins to send emails, schedule a meeting, or update a task's status.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do You Sign Up for ChatGPT Plugins?
@@ -65,10 +50,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 ![chatgpt plugin page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plugin-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Currently, the ChatGPT plugins feature is only available to ChatGPT Plus subscribers, and you have to join a waitlist to get access. You can[sign up for ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) by clicking on**Upgrade** **to** **Plus** on the left tab on the ChatGPT interface.
@@ -81,10 +63,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 4. Click**Join Waitlist** to submit the form.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Joining ChatGPT's Plugins Waitlist
@@ -104,5 +83,24 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-10-best-online-learning-sites-like-udemy-for-2024/"><u>[New] 10 Best Online Learning Sites Like Udemy for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-sharpen-your-stream-top-5-video-improvement-tech/"><u>[New] 2024 Approved Sharpen Your Stream Top 5 Video Improvement Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transcending-visual-limits-with-hdr-technology/"><u>2024 Approved Transcending Visual Limits with HDR Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-role-in-organizing-your-day-a-4-step-guide/"><u>ChatGPT's Role in Organizing Your Day - A 4-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-bypass-key-traps-while-utilizing-chatgpt-in-your-content-creation-process/"><u>How to Bypass Key Traps While Utilizing ChatGPT in Your Content Creation Process</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/immediate-ban-alert-why-is-italy-prohibiting-the-use-of-chatgpt/"><u>Immediate Ban Alert: Why Is Italy Prohibiting the Use of ChatGPT?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-crafting-timeless-videos-with-retro-filmmaking-skills/"><u>In 2024, Crafting Timeless Videos with Retro Filmmaking Skills</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-amazfit-gtr-3-smartwatch-features-and-performance-review/"><u>In-Depth Analysis: Amazfit GTR 3 Smartwatch - Features & Performance Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/launch-postponed-expect-apples-ai-capabilities-in-october-according-to-insider-sources-technews/"><u>Launch Postponed: Expect Apple's AI Capabilities in October, According to Insider Sources - TechNews</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-youtube-permanently-stop-video-snips-complete-guide/"><u>Mastering YouTube Permanently Stop Video Snips [Complete Guide]</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/navigating-the-aspect-ratio-maze-for-twitter-media/"><u>Navigating the Aspect Ratio Maze for Twitter Media</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-emotional-isolation-how-to-engage-with-chatgpt-for-companionship/"><u>Overcoming Emotional Isolation: How to Engage with ChatGPT for Companionship</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-best-practice-manual-for-text-on-picture-edits/"><u>The Best Practice Manual for Text-on-Picture Edits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-language-learning-with-the-power-of-chatgpt-plus/"><u>Transforming Language Learning with the Power of ChatGPT Plus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-7-cutting-edge-ai-utilities-to-excel-in-math-problem-solving/"><u>Unveiling 7 Cutting-Edge AI Utilities to Excel in Math Problem-Solving</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-five-critical-reasons-why-chatgpt-skyrocketed-to-fame-quickly/"><u>Unveiling Five Critical Reasons Why ChatGPT Skyrocketed to Fame Quickly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/voice-activated-mastery-controlling-chatgpt-with-just-five-methods/"><u>Voice-Activated Mastery: Controlling ChatGPT with Just Five Methods</u></a></li>
+</ul></div>
 

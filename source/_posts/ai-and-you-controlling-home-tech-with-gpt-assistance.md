@@ -1,7 +1,7 @@
 ---
 title: "AI and You: Controlling Home Tech with GPT Assistance"
-date: 2024-11-25T06:37:17.087Z
-updated: 2024-11-30T05:32:46.361Z
+date: 2024-12-05T16:39:42.694Z
+updated: 2024-12-08T16:13:31.823Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 
 ![A tab showing a tab to install Python ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-install-python.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After Installing Python, you can download Auto-GPT from GitHub.
 
 **Download** :[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT/releases/tag/v0.4.7) (Free)
@@ -62,10 +66,6 @@ After Installing Python, you can download Auto-GPT from GitHub.
 
  This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 3: Install Auto-GPT Dependencies
 
  Now that you have configured Auto-GPT, it's time to install its dependencies through a terminal.
@@ -78,17 +78,13 @@ pip install -r requirements.txt
 4. After installation, try opening Auto-GPT using:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 python -m autogpt  
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
 
 Congratulations! You have successfully Installed Auto-GPT.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Auto-GPT
 
@@ -108,13 +104,13 @@ Congratulations! You have successfully Installed Auto-GPT.
 
 ![Creating Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/recipe-generator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In this example, we have named our AI assistant "Recipe-Generator." Its role is to make a recipe based on the top five ingredients readily available in the US. We've set the first three goals as parameters on what we expect the recipe will be and set the last two to tell Auto-GPT to save the file as TXT, then shutdown.
 
 ![Running Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-recipe-generator-thinking.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once you give your last goal, you can hit enter for Auto-GPT to run.
 
@@ -138,15 +134,19 @@ After making the recipe, our AI has now completed its task.
 
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To view the output, go to your Auto-GPT folder and**open auto-gpt-workspace** .
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
- Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
 
 ## Auto-GPT Limitations
 
@@ -161,7 +161,7 @@ After making the recipe, our AI has now completed its task.
  Using GPT-4 will noticeably reduce hallucinations and improve overall performance. However, its context size is still limited to 8,000 tokens. After reaching the 8k-token mark, GPT-4 will start losing context starting from the beginning of the task, affecting results. Furthermore, using GPT-4 is several times pricier than GPT-3.5 ([each GPT token has a cost](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) ). You'll want to set limits through your API account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Future of Auto-GPT
@@ -185,19 +185,15 @@ After making the recipe, our AI has now completed its task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-resolving-missing-sound-in-obs/"><u>[Updated] 2024 Approved Resolving Missing Sound in OBS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-master-the-art-of-movie-capture-on-any-device/"><u>[Updated] Master the Art of Movie Capture on Any Device</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/building-interactive-elements-a-guide-to-html-input-fields/"><u>Building Interactive Elements A Guide to HTML Input Fields</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-performing-apples-remote-diagnostics-on-iphone-hardware/"><u>Guide: Performing Apple's Remote Diagnostics on iPhone Hardware</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-make-your-wi-fi-visible-again-in-windows-11/"><u>How to Make Your Wi-Fi Visible Again in Windows 11?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-dslrs-for-animation-filmmaking-for-2024/"><u>Ideal DSLRs for Animation Filmmaking for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-non-openai-point-of-sale-systems-for-modern-commerce/"><u>Top Non-OpenAI Point-of-Sale Systems for Modern Commerce</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-hr-processes-with-these-5-creative-ai-prompt-solutions/"><u>Transform Your HR Processes with These 5 Creative AI Prompt Solutions</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/understanding-the-compatibility-of-your-pc-with-windows-11s-system-needs/"><u>Understanding the Compatibility of Your PC with Windows 11'S System Needs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-precision-in-mathematics-explore-the-best-7-ai-tools-to-conquer-arithmetic-obstacles/"><u>Unlock Precision in Mathematics: Explore the Best 7 AI Tools to Conquer Arithmetic Obstacles</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-productivity-potential-top-strategies-using-chatgpt-for-time-management/"><u>Unlock Productivity Potential: Top Strategies Using ChatGPT for Time Management</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-cybersecurity-threats-in-ai-the-functionality-behind-prompt-injection-attacks/"><u>Unveiling Cybersecurity Threats in AI: The Functionality Behind Prompt Injection Attacks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-how-chatgpt-generates-unique-responses-without-copying-sources/"><u>Unveiling How ChatGPT Generates Unique Responses Without Copying Sources</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-to-the-latest-version-of-wacom-istudio-draw-drivers-for-ultimate-control/"><u>Update to the Latest Version of Wacom iStudio Draw Drivers for Ultimate Control</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-securesave-professionals-assessment/"><u>[New] In 2024, SecureSave Professionals' Assessment</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-5-essential-tips-for-monetizing-your-content-finding-the-right-viewer-count/"><u>2024 Approved 5 Essential Tips for Monetizing Your Content Finding the Right Viewer Count</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-7-plus-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 7 Plus Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/digital-dollar-first-steps-in-youtubers-revenue-for-2024/"><u>Digital Dollar First Steps in YouTubers' Revenue for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/microsoft-copilot-vs-chatgpt-unveiling-4-critical-factors-that-set-it-apart/"><u>Microsoft Copilot Vs. ChatGPT: Unveiling 4 Critical Factors That Set It Apart</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/no-number-necessary-signing-up-for-chatgpt-telegram-whatsapp-with-alternative-methods/"><u>No-Number Necessary: Signing Up for ChatGPT, Telegram, WhatsApp with Alternative Methods</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-tutorial-recording-videos-with-display-and-sound-on-an-acer-computer/"><u>Step-by-Step Tutorial: Recording Videos with Display and Sound on an Acer Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-essential-criteria-for-selecting-a-superior-artificial-intelligence-chatbot-solution/"><u>The Essential Criteria for Selecting a Superior Artificial Intelligence Chatbot Solution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-connecting-your-samsung-remote-with-the-perfect-television/"><u>Ultimate Guide: Connecting Your Samsung Remote with the Perfect Television</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-chatgpt-with-its-native-modules-and-uses/"><u>Unlocking the Potential of ChatGPT with Its Native Modules and Uses</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: My Journey with ChatGPT in Crafting a Captivating Podcast - The Full Story
-date: 2024-09-11T19:22:50.085Z
-updated: 2024-09-12T19:22:50.085Z
+date: 2024-12-06T16:20:51.330Z
+updated: 2024-12-08T16:40:40.760Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,7 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
  By comparing the AI chatbot's workout plans to similar exercises and routines available now on websites and apps, it's easy to see what the chatbot gets right as well as highlight its potential weak spots. Here's what to know about ChatGPT and its use in the fitness realm.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is ChatGPT?
@@ -31,19 +28,6 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
  The[AI chatbot ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) by generating natural-sounding responses to prompts that you type. Although this type of technology has existed for a while, ChatGPT in particular is notable for its (mostly) accurate and intelligent responses.
 
  Despite a few limitations—the chatbot has limited information about the world after about 2021—it's useful for summarizing books, writing a resume, debugging code, and much more. But does it have enough information to design a workout plan for you? Here's how ChatGPT responded to common requests for three different types of workout plans.
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Basic Workout Plans From ChatGPT
 
@@ -58,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 ![ChatGPT workout plan for advanced athletes prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-advanced-athletes-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Meanwhile, a second plan for more seasoned athletes follows a similar format, including plenty of examples for cardio, core, and resistance training. Each section includes many options.
@@ -73,10 +54,7 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 ![Chat GPT injury recovery prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chat-gpt-injury-recovery-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  What if you are recovering from an injury? It's safest (and always recommended) to consult your doctor for any specific questions about how you can exercise with an injury or other health concern, but I wanted to see how the bot would respond.
@@ -92,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
  Next, I prompted the chatbot to create a running plan. It responded with several questions about my current fitness level, as well as overall training goals, to generate a more detailed response.
 
 ![ChatGPT 10K running plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-10k-running-plan-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  I responded to the questions in order, and it provided a multi-week plan. The plan is actually pretty solid, even taking potential injuries into account, but it didn't get into more granular details like pacing.
 
@@ -117,16 +88,7 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 ![ChatGPT strength training prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-strength-training-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Likewise, ChatGPT’s general strength training plan is also pretty dependable, calling for bodyweight exercises like squats and push-ups as well as dumbbell rows. It’s similar to what you might find from[top strength-training apps](https://www.makeuseof.com/best-weightlifting-apps/) .
@@ -134,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
  What if you have more specific questions about how to perform the exercises correctly? The chatbot can help with that, too.
 
 ![ChatGPT deadlifts prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-deadlifts-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In this example, I received detailed instructions on the correct way to do deadlifts. It offered helpful pointers about your stance, grip, and even breathing techniques in order to make the most of this particular exercise.
 
@@ -156,5 +122,26 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-your-blueprint-for-a-smooth-youtube-to-facebook-content-flow/"><u>[New] 2024 Approved Your Blueprint for a Smooth YouTube to Facebook Content Flow</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-a-beginners-guide-to-ios-screen-recording-for-2024/"><u>[New] A Beginner's Guide to iOS Screen Recording for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-exploring-the-world-of-digital-color-grading/"><u>[New] Exploring the World of Digital Color Grading</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tapered-music-transitions-an-intuitive-premiere-pro-tutorial/"><u>2024 Approved Tapered Music Transitions An Intuitive Premiere Pro Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-amazon-offers-before-black-friday-and-cyber-monday-insider-tips-for-savvy-shoppers/"><u>Best Amazon Offers Before Black Friday and Cyber Monday - Insider Tips for Savvy Shoppers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-the-mystery-the-role-and-ban-of-gpt-bot-in-online-spaces/"><u>Deciphering the Mystery: The Role and Ban of GPT Bot in Online Spaces</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-ai-restrictions-why-chatgpt-still-cant-be-freed-top-7-explanations/"><u>Decoding AI Restrictions: Why ChatGPT Still Can't Be Freed – Top 7 Explanations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easing-anxiety-with-intelligent-ai-help/"><u>Easing Anxiety with Intelligent AI Help</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-infinix-smart-8-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Smart 8 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003948697-if-switching-entirely-begin-with-a-gradual-transition-rather-than-an-abrupt-change/"><u>If Switching Entirely, Begin with a Gradual Transition Rather than an Abrupt Change</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-value-asmr-gear-premium-sound-affordably-priced/"><u>In 2024, Top Value ASMR Gear Premium Sound Affordably Priced</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/interacting-seamlessly-with-ai-the-new-voice-capabilities-of-chatgpt-by-openai/"><u>Interacting Seamlessly with AI: The New Voice Capabilities of ChatGPT by OpenAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-conversational-ai-a-reliable-companion-for-survival-skills-in-nature/"><u>Is Conversational AI a Reliable Companion for Survival Skills in Nature?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/methods-for-retaining-your-chatgpt-dialogues/"><u>Methods for Retaining Your ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/privacy-first-effective-ways-to-withdraw-from-chatgpt-services/"><u>Privacy First: Effective Ways to Withdraw From ChatGPT Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-document-handling-with-our-top-6-chatgpt-powered-conversation-aids/"><u>Revolutionize Document Handling with Our Top 6 ChatGPT-Powered Conversation Aids</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellars-swift-window-eraser-standard-version-the-ultimate-guide-to-permanently-deleting-files-and-folders-on-pcs/"><u>Stellar's Swift Window Eraser Standard Version: The Ultimate Guide to Permanently Deleting Files and Folders on PCs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-tips-transforming-chatgpt-into-the-ideal-dm-companion/"><u>Top 6 Tips: Transforming ChatGPT Into the Ideal DM Companion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-picks-for-kid-friendly-tablets-expert-parents-vote/"><u>Top Picks for Kid-Friendly Tablets, Expert Parents Vote!</u></a></li>
+</ul></div>
 

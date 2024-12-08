@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Implementing and Operating Plug-Ins for ChatGPT"
-date: 2024-11-23T06:13:07.055Z
-updated: 2024-11-30T04:07:15.146Z
+date: 2024-12-05T16:18:28.280Z
+updated: 2024-12-08T16:07:20.678Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is HuggingChat?
 
  We won't go into too much detail here, as by now, most people know[what generative AI chatbots are](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) . But it is worth touching on, as this will help you understand some underlying differences between the two chatbots.
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 * **Natural Language Search** : HuggingChat allows you to search the internet without relying on keyword queries.
 
  Now that we know all about HuggingChat, let's see how it stacks up against ChatGPT.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## HuggingChat vs. ChatGPT: How Do They Compare?
 
@@ -56,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  Next, we will look at other metrics and capabilities and compare the responses.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Large Language Models (LLMs)
 
  The beating heart of any AI chatbot is the LLM. These are the underlying datasets used to generate human-like responses to prompts. Each tool uses a different LLM, as described below.
@@ -69,16 +73,12 @@ As you can see, HuggingChat answered this easily.
 
 ![Screenshot of HuggingChat answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-answering-baseball-question.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
 ![Screenshot of ChatGPT answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-answering-baseball-question.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Summarizing Articles
@@ -89,23 +89,19 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
 ![Screenshot of ChatGPt summary with URL of article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summary-with-url-of-article.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The HuggingChat response wasn't bad but lacked some of the detail covered by ChatGPT.
 
 ![Screenshot of HuggingChat summarzing MUO article-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarzing-muo-article-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To test this ability further, we asked a similar question without entering the URL and using an article that was only published (it was "[What Are IPFS Phishing Attacks](https://www.makeuseof.com/what-are-ipfs-phishing-attacks-and-how-to-avoid-them) ," for reference). Again, both tools managed this admirably, as the images demonstrate.
 
 This was ChatGPT's effort:
 
 ![Screenshot of ChatGPT referencing an article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-referencing-an-article-without-a-url.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 HuggingChat's summary looked like this:
 
@@ -123,15 +119,19 @@ HuggingChat's summary looked like this:
 
 ![Screenshot of ChatGPT lovesong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-lovesong.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 And this was HuggingChat's.
 
 ![Screenshot HuggingChat love song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-huggingchat-love-song.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Shakespeare himself would be impressed with both of these!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Security and Privacy
 
@@ -180,17 +180,20 @@ Shakespeare himself would be impressed with both of these!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-boredom-be-gone-find-joy-with-these-top-15-humorists/"><u>[New] 2024 Approved Boredom Be Gone Find Joy with These Top 15 Humorists</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-cutting-edge-cams-for-novices-in-24/"><u>[Updated] 2024 Approved Cutting-Edge Cams for Novices in '24</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-cut-to-perfection-a-detailed-guide-on-youtube-short-video-making/"><u>[Updated] Cut to Perfection A Detailed Guide on YouTube Short Video Making</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/26-inbox-perfection-free-ai-email-assistance-at-its-peak/"><u>26 Inbox Perfection: Free AI Email Assistance at Its Peak</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5-revolutionary-ai-applications-for-personalized-reading-suggestions/"><u>5 Revolutionary AI Applications for Personalized Reading Suggestions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-students-secret-weapon-using-chatgpt-to-transform-your-approach-to-academic-research-and-essay-composition/"><u>A Student's Secret Weapon? Using ChatGPT to Transform Your Approach to Academic Research and Essay Composition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-assisted-fantasy-crafting-a-perfect-dandd-experience-with-gpt/"><u>AI-Assisted Fantasy: Crafting a Perfect D&D Experience with GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/are-emerging-technologies-like-chatgpt-posing-risks-to-standard-search-engines-market-share/"><u>Are Emerging Technologies Like ChatGPT Posing Risks to Standard Search Engines' Market Share?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectify-your-input-cannot-be-opened-error-in-windows-vlc/"><u>Rectify 'Your Input Cannot Be Opened' Error in Windows, VLC</u></a></li>
-<li><a href="https://facebook.techidaily.com/revolutionizing-chats-facebook-introduces-messenger-and-insta-tweaks/"><u>Revolutionizing Chats: Facebook Introduces Messenger & Insta Tweaks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/sh-creative-potential-with-free-effs/"><u>Unleash Creative Potential with Free Effs</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-the-unveiling-of-cambridges-cxu-audio-performance-a-2023-assessment/"><u>Updated In 2024, The Unveiling of Cambridges CXU Audio Performance - A 2023 Assessment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-artisans-approach-to-gathering-stock-visuals-for-use/"><u>[New] The Artisan's Approach to Gathering Stock Visuals for Use</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pro-hunters-choice-best-camcorders-unveiled/"><u>[Updated] Pro Hunters Choice Best Camcorders Unveiled</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-revolutionize-your-play-with-top-tips-for-ps4-gameplay-recording-for-2024/"><u>[Updated] Revolutionize Your Play with Top Tips for PS4 Gameplay Recording for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/addressing-car-gpt-issues-6-common-hurdles-and-their-remedies/"><u>Addressing Car GPT Issues: 6 Common Hurdles and Their Remedies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beware-of-ineffective-plugins-top-6-that-fall-short-compared-to-gpt/"><u>Beware of Ineffective Plugins: Top 6 That Fall Short Compared to GPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722875584214-get-ahead-of-the-curve-with-insider-details-on-googles-next-streaming-marvel-budget-availability-and-tech-breakdown/"><u>Get Ahead of the Curve with Insider Details on Google's Next Streaming Marvel - Budget, Availability & Tech Breakdown</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-a-recent-vac-penalty-in-dota-2/"><u>How to Overcome a Recent VAC Penalty in Dota 2</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fast-and-easy-10-high-resolution-passport-portraits-for-desktopweb-use/"><u>In 2024, Fast & Easy 10 High-Resolution Passport Portraits for Desktop/Web Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/installing-bavarder-linuxs-chatgpt-routine/"><u>Installing Bavarder: Linux's ChatGPT Routine</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-working-in-prompt-engineering-feasible-understand-key-considerations/"><u>Is Working in Prompt Engineering Feasible? Understand Key Considerations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/snapshot-vs-search-assistant-showdown-uncovering-8-major-contrasts-of-snapchat-and-bing-chat-on-skype/"><u>Snapshot Vs. Search Assistant Showdown: Uncovering 8 Major Contrasts of Snapchat and Bing Chat on Skype</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/speak-the-language-of-ai-5-voice-controlled-chatgpt-tips/"><u>Speak the Language of AI: 5 Voice-Controlled ChatGPT Tips</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/troubleshoot-invalid-directory-errors-on-your-dvd-drive-comprehensive-solution-steps-for-windows-1011-systems/"><u>Troubleshoot Invalid Directory Errors on Your DVD Drive: Comprehensive Solution Steps for Windows 10/11 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbox-pimaxs-vision-ahead-of-time-with-slip-ups/"><u>Unbox Pimax's Vision: Ahead of Time with Slip-Ups</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-insights-how-to-utilize-chatgpt-as-a-data-analyst-6-key-approaches/"><u>Unlocking Insights: How to Utilize ChatGPT as a Data Analyst (6 Key Approaches)</u></a></li>
 </ul></div>
 

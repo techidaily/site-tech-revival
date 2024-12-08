@@ -1,7 +1,7 @@
 ---
 title: "Understanding Generative Artificial Intelligence: How It Works and Who Is Implementing It?"
-date: 2024-11-24T05:04:55.596Z
-updated: 2024-11-30T02:58:28.399Z
+date: 2024-12-06T16:32:43.869Z
+updated: 2024-12-08T16:01:00.396Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. What's the Best Place to Start?
@@ -38,13 +38,13 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
  It's important to keep in mind that you pick a language that's relatively easy to learn. English speakers find learning languages such as Mandarin, Russian, and Japanese hard. While ChatGPT can write in all languages, you're better off getting a tutor if you want to nail the pronunciation and overall fluency for the more complex languages.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Building Your Vocabulary
 
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Expanding your vocabulary is a good place to start when you're trying to learn a new language. You want to learn how to pronounce common words and understand how/why they are used in various situations. As you can imagine, GPT-4's conversational skills can easily handle this process.
 
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 ## 3\. Practice Conversational Skills
 
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  While learning certain words and phrases in a vacuum is good, all that practice is wasted if you don't build conversational skills. With ChatGPT, you can hold conversations in any language you want. For example, we asked ChatGPT to talk with us in French, and the result was impressive.
 
@@ -80,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 ![ChatGPT Plus Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-test.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Quizzes and tests are a common feature of most language learning apps. It helps you to check your progress and determine your weak points. ChatGPT is quite good at creating such tests, but you must be creative with the prompts.
 
  We asked GPT-4 to construct a language test for us in French. It crafted a beginner level-quiz, remembering that we were new to the language from the previous context.
@@ -95,17 +87,25 @@ Here's how you can create your own personalized tests:
 3. Determine the test length by specifying the number of questions. You can also set a time limit, but you'll have to time yourself.
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Cultural Learning
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Languages and cultures are closely intertwined. By learning a new language, you can gain insight into the traditions, values, customs, and history of those who speak the language. While learning a language with ChatGPT, you can ask for cultural context, references, and social norms that are present in the language. This helps you understand how native speakers communicate.
 
  You can also get insights into cultural phenomena such as historical events, festivals, celebrations, and more. Then, you can ask ChatGPT to provide you with resources such as movies, books, and music in the language you're trying to learn. The key here is to ask anything you can think of about the language and culture.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. How Does It Compare to Other Alternatives?
 
@@ -134,15 +134,15 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-social-savvy-fetching-and-storing-twitters-animated-gifs/"><u>[New] 2024 Approved Social Savvy Fetching and Storing Twitter's Animated GIFs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-best-of-the-best-12-screen-capture-tools-no-end-for-2024/"><u>[New] Best of the Best 12 Screen Capture Tools (No End) for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-decide-on-video-frames-per-second-comparing-30-vs-60-for-2024/"><u>[New] How to Decide on Video Frames Per Second? Comparing 30 Vs. 60 for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-2023s-leading-platforms-for-picture-frame-adjustment-techniques/"><u>[Updated] 2023'S Leading Platforms for Picture Frame Adjustment Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlimited-outro-options-at-no-expense-online/"><u>[Updated] Unlimited Outro Options at No Expense Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/customizing-conversations-with-chatgpt-crafting-a-bot-that-reflects-your-unique-voice/"><u>Customizing Conversations with ChatGPT: Crafting a Bot that Reflects Your Unique Voice</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-the-operational-aspect-of-device-level-ai/"><u>Deciphering the Operational Aspect of Device-Level AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-artificial-intelligence-identifying-its-possible-threats/"><u>Demystifying Artificial Intelligence: Identifying Its Possible Threats</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-how-artificial-intelligence-can-revolutionize-education-top-8-benefits-for-educators/"><u>Discover How Artificial Intelligence Can Revolutionize Education: Top 8 Benefits for Educators</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixed-6-fixes-for-baldurs-gate-stuttering-and-freezing-issues/"><u>[Fixed] 6 Fixes for Baldur's Gate Stuttering & Freezing Issues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-speed-up-your-file-format-shift-from-srt-to-text-txt/"><u>[New] Speed-Up Your File Format Shift From SRT to Text (TXT)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-superior-app-dev-editors-top-15-selection/"><u>[Updated] Superior App Dev Editors Top 15 Selection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-future-with-verizons-enhanced-5g-network/"><u>Anticipating the Future with Verizon's Enhanced 5G Network</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-conversion-transforming-30fps-into-crisp-24fps-video/"><u>Effortless Conversion: Transforming 30Fps Into Crisp 24Fps Video</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-phones-display-with-free-4k-ultra-hd-wallpapers-and-screensavers-for-iphone-and-desktop-android/"><u>Enhance Your Phone's Display with FREE 4K Ultra HD Wallpapers & Screensavers for iPhone & Desktop Android!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-windowtop-calculator-stays-on-top/"><u>Ensuring Windowtop Calculator Stays on Top</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Infinix Smart 8? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/playbox-app-download-and-setup-on-ios-devices-no-jailbreaking-required/"><u>PlayBox App Download & Setup on iOS Devices - No Jailbreaking Required</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/proven-techniques-for-accessing-high-quality-8k-videos-without-compromise/"><u>Proven Techniques for Accessing High-Quality 8K Videos Without Compromise</u></a></li>
 </ul></div>
 

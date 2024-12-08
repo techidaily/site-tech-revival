@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the World of AI Chatbots: Why Are They Preferred by Users?"
-date: 2024-11-26T01:18:58.818Z
-updated: 2024-11-29T16:57:40.332Z
+date: 2024-12-04T16:04:24.239Z
+updated: 2024-12-08T16:06:04.798Z
 tags:
   - chatgpt
   - open-ai
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
  To compare Google Bard and Bing AI Chat, we derived a simple test. We used them to conduct research for an imaginary article on atmospheric CO2 levels and climate change. This enabled us to draw comparisons on several metrics, including the quality and size of the response, the accuracy of the data, and ease of use.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bing Chat vs. Google Bard: Response Quality
 
  We began by asking both platforms an identical question: "How do modern-day CO2 levels compare to the last ice age?"
@@ -44,23 +40,19 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
 
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The first notable difference is the approach taken in quantifying CO2 levels. Rather than list CO2 levels in terms of ppm, Bing Chat presented the data in terms of percentages.
 
  The length and tone of the responses also differed. The Bing Chat response was shorter and more restrained, not offering opinions on the problem or potential solutions.
 
  Bard produced a longer answer that also discussed the problem and the need to take urgent action. This was outside the focus of the question, but it confirms just how quickly the tone and direction of any research can be swayed depending on the tool you use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Response Accuracy
 
@@ -74,10 +66,14 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 ![Screenshot Bard CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Ease of Use
@@ -100,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
  As both platforms are going through rapid development, the user experience will continue to improve.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are the Differences Between the Language Models?
 
  The last major difference regards the "engines" that power both platforms. These Large Language Models (LLMs) are the underpinning technology. We don't need to go into great detail, but LLMs are important when choosing a platform.
@@ -110,13 +110,13 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Is Best for You: Bing Chat or Google Bard?
 
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This is a case of choosing the right tool for the right job. When we compare the performance of both platforms, Bing Chat seems to edge it. However, there are some provisos to consider. The first is that the Microsoft offering is a more complete product, while Bard is still rough around the edges.
 
@@ -153,22 +153,16 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-intuitive-podcast-beginnings-charismatic-hooks/"><u>[Updated] Intuitive Podcast Beginnings Charismatic Hooks</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-illustrator-way-adding-realistic-blur-to-your-pics/"><u>2024 Approved The Illustrator Way Adding Realistic Blur to Your Pics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/6-ways-to-use-chatgpt-for-home-productivity-routines/"><u>6 Ways to Use ChatGPT for Home Productivity Routines</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/back-4-blood-resolved-troubleshooting-guide-for-fixing-voice-chat-issues/"><u>Back 4 Blood: Resolved - Troubleshooting Guide for Fixing Voice Chat Issues</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-the-flashy-new-netgear-nighthawk-rax80-is-it-worth-it-for-a-future-ready-wi-fi-6-connection/"><u>Evaluating the Flashy New Netgear Nighthawk RAX80: Is It Worth It for a Future-Ready Wi-Fi 6 Connection?</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-dealing-with-applicationexe-has-halted-execution-errors-effectively/"><u>Expert Advice: Dealing with 'Application.exe Has Halted Execution' Errors Effectively</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/revive-disappeared-insv-footage-on-insta360-cameras-using-these-top-3-techniques/"><u>Revive Disappeared INSV Footage on Insta360 Cameras Using These Top 3 Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722017457710-the-ultimate-list/"><u>The Ultimate List:</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-asus-rog-phone-8-by-drfone-android/"><u>Three Ways to Sim Unlock Asus ROG Phone 8</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-advanced-capabilities-how-to-employ-chatgpt-addons-seamlessly/"><u>Unlocking Advanced Capabilities: How to Employ ChatGPT Addons Seamlessly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-ai-interaction-mastering-the-art-of-using-quoras-features-to-connect-with-advanced-chatbots-and-large-language-models/"><u>Unlocking AI Interaction: Mastering the Art of Using Quora's Features to Connect with Advanced Chatbots & Large Language Models</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-4-key-causes-behind-your-chatgpt-block-and-step-by-step-solutions/"><u>Unveiling 4 Key Causes Behind Your ChatGPT Block and Step-by-Step Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-distinctions-a-comprehensive-look-at-gpt-4-and-gpt-35/"><u>Unveiling the Distinctions: A Comprehensive Look at GPT-4 and GPT-3.5</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-power-shift-why-gemini-15s-strategy-with-a-million-tokens-is-revolutionary/"><u>Unveiling the Power Shift: Why Gemini 1.5’S Strategy With a Million Tokens Is Revolutionary</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/vector-databases-explained-the-key-to-advancing-ai-technologies/"><u>Vector Databases Explained: The Key to Advancing AI Technologies</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/windows-10-network-preferences-tutorial-how-to-switch-onoff-discovery-mode/"><u>Windows 10 Network Preferences Tutorial: How to Switch On/Off Discovery Mode</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-highest-rated-mobile-video-enhancers-for-gopro-footage-for-2024/"><u>[New] Highest-Rated Mobile Video Enhancers for GoPro Footage for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-immediate-halt-of-auto-recording-on-qt/"><u>[New] Immediate Halt of Auto-Recording on QT</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-motion-graphics-basic-knowledge-and-usage-for-2024/"><u>[New] Motion Graphics Basic Knowledge and Usage for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-choosing-the-best-video-editor-gopro-hero-vs-polaroid-cube/"><u>2024 Approved Choosing the Best Video Editor GoPro Hero Vs. Polaroid Cube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-a-prime-attraction-for-cyber-threats/"><u>ChatGPT: A Prime Attraction for Cyber Threats?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-pro-demystified-a-comparative-overview/"><u>Claude Pro Demystified: A Comparative Overview</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-exceptional-content-with-chatgpt-a-guide-for-creative-minds/"><u>Crafting Exceptional Content with ChatGPT: A Guide for Creative Minds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-note-30-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Note 30 5G Device</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unleash-your-live-stream-potential-with-superior-webcam-tech/"><u>In 2024, Unleash Your Live Stream Potential with Superior Webcam Tech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/no-number-no-problem-begin-your-journey-on-ai-chat-services-like-gpt-and-messaging-apps-today/"><u>No Number? No Problem! Begin Your Journey on AI Chat Services Like GPT and Messaging Apps Today</u></a></li>
 </ul></div>
 

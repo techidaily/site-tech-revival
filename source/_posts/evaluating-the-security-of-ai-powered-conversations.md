@@ -1,7 +1,7 @@
 ---
 title: Evaluating the Security of AI-Powered Conversations
-date: 2024-11-28T05:09:04.761Z
-updated: 2024-11-29T19:21:50.389Z
+date: 2024-12-03T16:46:05.021Z
+updated: 2024-12-08T16:47:50.475Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Speak to ChatGPT
 
  ChatGPT's Whisper integration allows you to use your voice to speak with ChatGPT instead of typing. The beauty of this lies in the fact that you can speed up your prompts instead of typing long and descriptive sentences.
@@ -32,17 +36,13 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
-![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
 Close
 
@@ -64,26 +64,26 @@ Close
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
 
@@ -104,22 +104,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-unlock-the-secret-sauce-of-making-money-with-vimeo-ads/"><u>[New] Unlock the Secret Sauce of Making Money with Vimeo Ads</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-optimize-and-upload-more-content-to-youtube/"><u>[Updated] Optimize and Upload More Content to YouTube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-sky-high-security-the-prime-5-cloud-choices-for-2024/"><u>[Updated] Sky High Security The Prime 5 Cloud Choices for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-stream-like-a-pro-on-youtube-best-webcams-reviewed/"><u>2024 Approved Stream Like a Pro on YouTube Best Webcams Reviewed</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-paper-feed-efficiency-on-win10-printers/"><u>Enhance Paper Feed Efficiency on WIN10 Printers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-dynamics-of-shared-links-in-chatgpt/"><u>Exploring the Dynamics of Shared Links in ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-giants-of-nlp-six-leading-large-language-ai-models-unveiled/"><u>Exploring the Giants of NLP: Six Leading Large Language AI Models Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-realm-of-specific-instructions-in-gpt-3-dialogues/"><u>Exploring the Realm of Specific Instructions in GPT-3 Dialogues</u></a></li>
-<li><a href="https://games-able.techidaily.com/face-off-fun-the-coolest-two-person-phone-games-top-15/"><u>Face-Off Fun: The Coolest Two-Person Phone Games (Top 15)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/from-talk-to-text-proven-strategies-for-quality-recordings/"><u>From Talk To Text Proven Strategies for Quality Recordings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-spot-and-comprehend-ai-induced-visual-deceptions-or-ai-hallucinations/"><u>How to Spot and Comprehend AI-Induced Visual Deceptions, or 'AI Hallucinations'</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-trustworthy-are-ai-assistants-like-chatgpt-and-bard-in-providing-accurate-financial-recommendations/"><u>How Trustworthy Are AI Assistants Like ChatGPT and Bard in Providing Accurate Financial Recommendations?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/humor-in-ai-tracing-computer-evolution-and-enhancing-online-privacy/"><u>Humor in AI: Tracing Computer Evolution & Enhancing Online Privacy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/identifying-suspicious-chatgpt-websites-safely/"><u>Identifying Suspicious ChatGPT Websites Safely</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/immediate-prohibition-understanding-italys-sudden-ban-on-chatgpt/"><u>Immediate Prohibition: Understanding Italy's Sudden Ban on ChatGPT</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-sifting-through-the-elements-of-instagram-stories/"><u>In 2024, Sifting Through the Elements of Instagram Stories</u></a></li>
-<li><a href="https://video-capture.techidaily.com/stepwise-guide-to-optimal-zoom-audio-recording-for-2024/"><u>Stepwise Guide to Optimal Zoom Audio Recording for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-from-live-streaming-to-lively-gifs-harnessing-vimeo-content/"><u>[New] In 2024, From Live Streaming to Lively Gifs Harnessing Vimeo Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-how-to-use-your-switch-pro-controller-on-steam/"><u>[Updated] 2024 Approved How to Use Your Switch Pro Controller on Steam</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ultimate-choice-15-superior-action-recorders/"><u>[Updated] 2024 Approved Ultimate Choice 15 Superior Action Recorders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-live-stream-perfection-an-experts-take-on-webcams/"><u>[Updated] In 2024, Live Stream Perfection An Expert's Take on WebCams</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unpacking-sharex-evaluation-and-replacements/"><u>[Updated] Unpacking ShareX Evaluation & Replacements</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2019-update-instagram-video-quality-and-resolution-explained/"><u>2019 Update: Instagram Video Quality and Resolution Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1724766453508-dvd/"><u>最新公式・マックDVDリッパーフリーエディション:初心者も簡単に使用できます</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-v29-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo V29 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xr21-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from XR21?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/icloud-backup-guide-securing-your-iphone-8-with-ios-11-data-sync/"><u>ICloud Backup Guide: Securing Your iPhone 8 with iOS 11 Data Sync</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-enhancing-engagement-professional-pc-techniques-for-youtube-editors/"><u>In 2024, Enhancing Engagement Professional PC Techniques for YouTube Editors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ios-17-on-the-horizon-do-experts-recommend-an-immediate-upgrade/"><u>IOS 17 on the Horizon: Do Experts Recommend an Immediate Upgrade?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/marking-18-years-digiartys-commemorative-special-initiative-unveiled/"><u>Marking 18 Years: DigiArty's Commemorative Special Initiative Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transferring-your-icloud-pictures-safely-a-step-by-step-guide/"><u>Transferring Your iCloud Pictures Safely: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-the-unrecognized-file-format-issue-with-handbrake/"><u>Troubleshooting the 'Unrecognized File Format' Issue with HandBrake</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-top-rated-mac-editing-software-for-stunning-home-videos/"><u>Ultimate Guide to Top-Rated Mac Editing Software for Stunning Home Videos</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721266994142-ultimate-iphone-data-rescue-experience-awaits-you-secure-download-option-available/"><u>Ultimate iPhone Data Rescue Experience Awaits You - Secure Download Option Available!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-top-macx-mobile-video-transformer-the-premier-no-cost-tool-for-editing-videos-on-your-smartphone/"><u>Ultimate Top MacX Mobile Video Transformer - The Premier No-Cost Tool for Editing Videos on Your Smartphone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/yl-computings-ford-f-250-background-images-and-decals/"><u>YL Computing's Ford F-250 Background Images & Decals</u></a></li>
 </ul></div>
 
