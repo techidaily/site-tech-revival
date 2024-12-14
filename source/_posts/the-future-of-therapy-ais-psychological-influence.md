@@ -1,7 +1,7 @@
 ---
 title: "The Future of Therapy: AI's Psychological Influence"
-date: 2024-09-11T19:26:18.680Z
-updated: 2024-09-12T19:26:18.680Z
+date: 2024-12-09T16:57:50.015Z
+updated: 2024-12-14T17:29:07.184Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 
  There's no denying that AI usage is on the rise, be it in manufacturing, education, cybersecurity, or even transport. But with this growing AI prevalence, should you be at all concerned about your mental health? Will AI improve or worsen mental health across the board?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Can AI Improve Mental Health?
 
  AI is already a big deal in a number of industries, including healthcare, transport, and finance. But you may not know that AI is also being experimented with in the mental health realm.
@@ -24,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
  Through this, researchers may be able to find new ways of supporting mental health patients and developing better forms of treatment. At the time of writing, AI is still in its infancy in terms of mental health applications, but this technology has a lot of potential in the mental healthcare industry.
 
  So, how, exactly, might AI prove useful here, and in what ways may it pose a risk?
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Providing Instant Advice and Support Using AI
 
@@ -47,10 +44,7 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 ![person typing on laptop next to stethoscope on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/stetho-laptop-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Monitoring a patient's progress to ensure they're not taking steps backward is a very important step in recovery. While a human professional can do this well, the number of individuals requiring mental health support makes it difficult for human personnel to keep up with the demand.
@@ -58,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
  This is where AI might be able to help. Using this technology, a patient could give inputs on how they're feeling and what they've been doing, and an AI system could then assess and evaluate the information provided to determine whether there is any cause for concern. The AI system could then alert the relevant parties so that action can be taken. This may lower the occurrences of mental health negligence, as a far greater number of people could be assessed regularly without the need for a human professional.
 
  But there are risks to consider here, and the AI system in use would have to be very thoroughly trained on how to spot possible red flags. Still, simply using this as an initial assessment could prove highly beneficial, both to doctors and patients.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Developing New Support Techniques With AI
 
@@ -75,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
  On top of this, AI has been proven to detect the presence of mental illnesses with a relatively high rate of accuracy. In a[2019 psychiatry report by IBM and the University of California](https://escholarship.org/content/qt9gx593b0/qt9gx593b0%5FnoSplash%5Fd814b6b41c76cb874050695d2bf30ced.pdf) , it was stated that, when testing AI in mental illness detection, accuracy ranged from 62 to 92 percent (depending on the AI system and training data used). While the lower ends of this range aren't too impressive, continued development may allow AI systems to reach a consistently high accuracy rate when detecting mental illnesses.
 
  Though this all seems very promising, there are also[dangers associated with using AI](https://www.makeuseof.com/is-ai-dangerous-5-immediate-risks-of-artificial-intelligence/) in the mental health field and other ways that AI can worsen mental health in general.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Can AI Worsen Mental Health?
 
@@ -102,31 +82,13 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 ![hands reaching out to each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hands-reaching-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At the moment, humans are seen as much more effective at conducting therapy than machines, and this may always be the case. This is why the application of AI in the mental health field should be regulated and monitored very carefully so that patients are still receiving the best care possible.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI Giving Faulty Advice or Solutions
@@ -134,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
  While AI is capable of some amazing things, it is also vulnerable to errors. This is a big concern when AI is being entrusted with people's mental health. Misjudging someone's state of mind, offering ineffective treatment, or misinterpreting important data could be catastrophic for the patient, so there are major considerations that need to be made here.
 
  There are plenty of things that can go wrong while using AI, particularly as it is in its early stages. System malfunctions, software bugs, and improper training can all lead to issues, with malicious attacks also posing a possible risk.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AI's Future in Mental Health Must Be Watched Carefully
 
@@ -152,5 +118,19 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-sound-symphony-music-within-whatsapp-statuses/"><u>[Updated] Sound Symphony Music Within WhatsApp Statuses</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unveiling-the-top-rated-srt-translators-for-zero-cost/"><u>2024 Approved Unveiling the Top-Rated SRT Translators for Zero Cost</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/6dvdwindowsmac/"><u>6推奨の無料DVDプレイヤーウェア選びガイド（Windows・Mac対応）</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-poco-x6-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-nubia-red-magic-8s-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Nubia Red Magic 8S Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-ai-assistance-the-ultimate-guide-to-using-chatgpt-within-your-vs-code-setup/"><u>Leveraging AI Assistance: The Ultimate Guide to Using ChatGPT Within Your VS Code Setup</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-3-video-converter-software-of-2019-for-mac-and-pc-transform-4k-to-hd/"><u>Top 3 Video Converter Software of 2019 for Mac and PC: Transform 4K to HD</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-gaming-graphics-cards-optimized-for-stunning-4k-movie-experience-on-desktop/"><u>Top Gaming Graphics Cards Optimized for Stunning 4K Movie Experience on Desktop</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-record-how-to-use-vimeo-record-to-capture-screen-and-webcam-for-2024/"><u>Vimeo Record How to Use Vimeo Record to Capture Screen and Webcam for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725290101576-windows-macos-hd4k/"><u>Windows 및 macOS에 대한 비디오 콘텐츠를 HD/4K로 제공하기 위한 향상 전략</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725286270538-iso/"><u>スマホでISO画像再生のコツ：高品質に保つテクニック</u></a></li>
+</ul></div>
 

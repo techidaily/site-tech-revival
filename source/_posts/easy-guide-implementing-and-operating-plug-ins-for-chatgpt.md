@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Implementing and Operating Plug-Ins for ChatGPT"
-date: 2024-12-05T16:18:28.280Z
-updated: 2024-12-08T16:07:20.678Z
+date: 2024-12-10T17:00:30.501Z
+updated: 2024-12-14T16:23:44.034Z
 tags:
   - chatgpt
   - open-ai
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is HuggingChat?
 
@@ -56,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  Next, we will look at other metrics and capabilities and compare the responses.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Large Language Models (LLMs)
 
  The beating heart of any AI chatbot is the LLM. These are the underlying datasets used to generate human-like responses to prompts. Each tool uses a different LLM, as described below.
@@ -77,10 +69,6 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
 ![Screenshot of ChatGPT answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-answering-baseball-question.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Summarizing Articles
 
  You can use URLs to "force" both tools to access more current data. We tested this ability by asking them to summarize a MakeUseOf article on[remotely accessing Android phones](https://www.makeuseof.com/tag/can-i-control-a-phone-with-my-computer-android/) . In the first instance, we provided the URL.
@@ -93,21 +81,29 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
 ![Screenshot of HuggingChat summarzing MUO article-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarzing-muo-article-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To test this ability further, we asked a similar question without entering the URL and using an article that was only published (it was "[What Are IPFS Phishing Attacks](https://www.makeuseof.com/what-are-ipfs-phishing-attacks-and-how-to-avoid-them) ," for reference). Again, both tools managed this admirably, as the images demonstrate.
 
 This was ChatGPT's effort:
 
 ![Screenshot of ChatGPT referencing an article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-referencing-an-article-without-a-url.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 HuggingChat's summary looked like this:
 
 ![Screenshot of HuggingChat summarizing article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarizing-article-without-a-url.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There isn't much difference between the two tools here, so let's see how they compare when we test them for creativity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## HuggingChat vs. ChatGPT: How Do They Compare Creatively?
 
@@ -119,18 +115,18 @@ HuggingChat's summary looked like this:
 
 ![Screenshot of ChatGPT lovesong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-lovesong.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 And this was HuggingChat's.
 
 ![Screenshot HuggingChat love song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-huggingchat-love-song.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Shakespeare himself would be impressed with both of these!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Security and Privacy
@@ -157,6 +153,10 @@ Shakespeare himself would be impressed with both of these!
 
  Ultimately, the choice between them will likely be driven more by user requirements than user preferences. As the tools are free and quick to access, checking both out is not a great hassle.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Are You a Hugger or a Chatter?
 
  These tools represent the future of human and machine interaction. Both are incredibly powerful, and it wasn't so long ago that the thought of having such tools at your fingertips would have seemed inconceivable.
@@ -180,20 +180,24 @@ Shakespeare himself would be impressed with both of these!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-artisans-approach-to-gathering-stock-visuals-for-use/"><u>[New] The Artisan's Approach to Gathering Stock Visuals for Use</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pro-hunters-choice-best-camcorders-unveiled/"><u>[Updated] Pro Hunters Choice Best Camcorders Unveiled</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-revolutionize-your-play-with-top-tips-for-ps4-gameplay-recording-for-2024/"><u>[Updated] Revolutionize Your Play with Top Tips for PS4 Gameplay Recording for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/addressing-car-gpt-issues-6-common-hurdles-and-their-remedies/"><u>Addressing Car GPT Issues: 6 Common Hurdles and Their Remedies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beware-of-ineffective-plugins-top-6-that-fall-short-compared-to-gpt/"><u>Beware of Ineffective Plugins: Top 6 That Fall Short Compared to GPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722875584214-get-ahead-of-the-curve-with-insider-details-on-googles-next-streaming-marvel-budget-availability-and-tech-breakdown/"><u>Get Ahead of the Curve with Insider Details on Google's Next Streaming Marvel - Budget, Availability & Tech Breakdown</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-a-recent-vac-penalty-in-dota-2/"><u>How to Overcome a Recent VAC Penalty in Dota 2</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fast-and-easy-10-high-resolution-passport-portraits-for-desktopweb-use/"><u>In 2024, Fast & Easy 10 High-Resolution Passport Portraits for Desktop/Web Use</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/installing-bavarder-linuxs-chatgpt-routine/"><u>Installing Bavarder: Linux's ChatGPT Routine</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-working-in-prompt-engineering-feasible-understand-key-considerations/"><u>Is Working in Prompt Engineering Feasible? Understand Key Considerations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/snapshot-vs-search-assistant-showdown-uncovering-8-major-contrasts-of-snapchat-and-bing-chat-on-skype/"><u>Snapshot Vs. Search Assistant Showdown: Uncovering 8 Major Contrasts of Snapchat and Bing Chat on Skype</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/speak-the-language-of-ai-5-voice-controlled-chatgpt-tips/"><u>Speak the Language of AI: 5 Voice-Controlled ChatGPT Tips</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/troubleshoot-invalid-directory-errors-on-your-dvd-drive-comprehensive-solution-steps-for-windows-1011-systems/"><u>Troubleshoot Invalid Directory Errors on Your DVD Drive: Comprehensive Solution Steps for Windows 10/11 Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/unbox-pimaxs-vision-ahead-of-time-with-slip-ups/"><u>Unbox Pimax's Vision: Ahead of Time with Slip-Ups</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-insights-how-to-utilize-chatgpt-as-a-data-analyst-6-key-approaches/"><u>Unlocking Insights: How to Utilize ChatGPT as a Data Analyst (6 Key Approaches)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-reverse-image-scanning-on-instagram-photos-for-2024/"><u>[Updated] Mastering Reverse Image Scanning on Instagram Photos for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm5asn6kap5qih44gq44ot44oh44kq57eo6zug5oml6acg44ks44kk44oj44cn/"><u>「大規模なビデオ編集手順ガイド」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm44or44k944kz44oz5lik44gn6zplusz5qw944ov44kh44kk44or44ks44oq44ol44ki5yyw44gx44gm5lplusd5a2y44gz44kl5yq55p6c55qe44gq5oml6acg44cn/"><u>「パソコン上で音楽ファイルをリニア化して保存する効果的な手順」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028377525-chrome/"><u>「ビリビリ動画ダウンロード：Chromeブラウザで学ぶコツ」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-free-conversion-guide-transforming-avi-files-into-flv-format-on-your-pc/"><u>1. Free Conversion Guide: Transforming AVI Files Into FLV Format on Your PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-transforming-viewers-experience-the-impact-of-text-on-youtube-media/"><u>2024 Approved Transforming Viewers' Experience The Impact of Text on YouTube Media</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2024mp4gif8/"><u>2024年の最適MP4GIF変換プラットフォームベスト8:一覧表示</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028631165-windows-10/"><u>画面上でのWindows 10マルチモーションブラウニング - 効果的な方法をご紹介</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/adobe-premiere-pro-step-by-step-guide-to-converting-your-edit-into-an-mp4-file/"><u>Adobe Premiere Pro: Step-by-Step Guide to Converting Your Edit Into an MP4 File</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminate-steam-slowness-proven-strategies-for-smoother-gameplay/"><u>Eliminate Steam Slowness: Proven Strategies for Smoother Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-failed-file-creation-error-30005-on-pcs/"><u>Fixing Failed File Creation: Error 30005 on PCs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/hack-the-system-avoid-video-ads-directly-on-fb/"><u>Hack the System Avoid Video Ads Directly on FB</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-14-pro-max-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/identifying-the-best-online-tv-service-providers/"><u>Identifying the Best Online TV Service Providers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-ai-art-with-paint-tool-sai-in-windows-11/"><u>Mastering AI Art with Paint Tool SAI in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726030419010-mp4/"><u>MP4ファイル内の映像と音声トラックを分離/結合する最適な方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726030378765-pc-dvd/"><u>PCへ移行して編集する: DVDビデオ素材焼き付けからの導入法</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/recuperacion-de-archivos-perdidos-tras-una-limpieza-completa-en-windows-11/"><u>Recuperación De Archivos Perdidos Tras Una Limpieza Completa en Windows 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-just-pick-it-up-to-edit-your-own-videos-quickly-and-see-what-this-microsoft-video-editor-can-do-for-you-for-2024/"><u>Updated Just Pick It up to Edit Your Own Videos Quickly and See What This Microsoft Video Editor Can Do for You for 2024</u></a></li>
 </ul></div>
 

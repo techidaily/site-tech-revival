@@ -1,7 +1,7 @@
 ---
 title: Streamline Workflow Using ChatGPT on Google Sheets, Tackling Tasks in Docs with Ease
-date: 2024-09-11T19:26:21.205Z
-updated: 2024-09-12T19:26:21.205Z
+date: 2024-12-12T16:57:58.389Z
+updated: 2024-12-14T17:18:06.501Z
 tags:
   - chatgpt
   - open-ai
@@ -18,10 +18,7 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
  A malicious Chrome extension using ChatGPT's name is being used to steal users' Facebook logins for malicious advertising.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A Fake ChatGPT Extension Is Targeting Facebook Users
@@ -39,10 +36,7 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably[sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Thousands of Facebook Accounts May Have Been Compromised
@@ -52,10 +46,7 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Malicious App Has Been Removed from Chrome
@@ -63,10 +54,7 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT's Name Is Consistently Used by Scammers
@@ -86,5 +74,24 @@ Guardio took to Twitter to warn readers of the malicious campaign.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-your-first-step-designing-attractive-videos-on-a-mac/"><u>[Updated] Your First Step Designing Attractive Videos on a Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvdwinxisodvd/"><u>【公式】DVDコピー専用WinXソフトウェアを無料で手に入れる！簡単な操作でISO形式、イメージ化、DVDフォルダーへの変換が可能。</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-minecraft-homestead-blueprint-series/"><u>2024 Approved Minecraft Homestead Blueprint Series</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-taking-stock-of-magix-project-management-app/"><u>2024 Approved Taking Stock of MAGIX Project Management App</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-essential-handbook-for-incorporating-music-into-ppt/"><u>2024 Approved The Essential Handbook for Incorporating Music Into PPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725287164725-dvd/"><u>数字艺术用户独有的DVD/视频转化软件 – 理解数码世界的关键伙伴</u></a></li>
+<li><a href="https://facebook.techidaily.com/censorship-dispute-trumps-lawsuit-against-major-platforms/"><u>Censorship Dispute: Trump's Lawsuit Against Major Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725290395151-dvd/"><u>DVD 複写技術：合法的に映像素材を保存する方法</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-cryptic-crimes-with-ai-partners-in-games/"><u>Explore Cryptic Crimes with AI Partners in Games</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guida-completa-per-ridurre-di-oltre-il-90-la-dimensnita-dei-file-video-hd4k8k-trucchi-e-soluzioni-innovative/"><u>Guida Completa per Ridurre Di Oltre Il 90% La Dimensnità Dei File Video HD/4K/8K: Trucchi E Soluzioni Innovative</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/handbrake-deinterlacing-explained-a-step-by-step-comprehensive-guide/"><u>HandBrake Deinterlacing Explained: A Step-by-Step Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-choosing-a-wi-fi-mesh-network-justified-by-its-benefits/"><u>Is Choosing a Wi-Fi Mesh Network Justified by Its Benefits?</u></a></li>
+<li><a href="https://win-superb.techidaily.com/seamless-transition-from-mbr-to-gpt-a-step-by-step-guide-to-preventing-data-loss/"><u>Seamless Transition From MBR to GPT: A Step-by-Step Guide to Preventing Data Loss</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-opening-and-viewing-heic-images-on-your-windows-10-or-11-computer/"><u>Step-by-Step Guide to Opening and Viewing HEIC Images on Your Windows (10 or 11) Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-changing-your-dvds-regional-code-restrictions/"><u>Step-by-Step Guide: Changing Your DVD's Regional Code Restrictions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/telechargement-de-logiciels-multimedias-centre-dassistance-en-ligne-pour-loutil-de-copie-de-films-sur-dvd-winx/"><u>Téléchargement De Logiciels Multimédias : Centre D'assistance en Ligne Pour L’outil De Copie De Films Sur DVD WinX</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Realme Note 50? | Dr.fone</u></a></li>
+</ul></div>
 

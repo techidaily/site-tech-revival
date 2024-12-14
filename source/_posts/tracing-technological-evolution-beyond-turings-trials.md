@@ -1,7 +1,7 @@
 ---
 title: Tracing Technological Evolution Beyond Turing's Trials
-date: 2024-09-11T19:27:46.942Z
-updated: 2024-09-12T19:27:46.942Z
+date: 2024-12-11T17:15:28.468Z
+updated: 2024-12-14T17:30:19.657Z
 tags:
   - chatgpt
   - open-ai
@@ -18,10 +18,7 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
  As the field of artificial intelligence continues to evolve at a dizzying pace, a new contender is poised to enter the playing field. TruthGPT, an AI chatbot proposed by tech billionaire Elon Musk, is generating a lot of buzz online.But what is TruthGPT? Why does Elon Musk want to create it? And how will it be different from the AI tools we already have?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is TruthGPT?
@@ -29,16 +26,7 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 ![Man Holding Artificial Intelligence Sticky Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  TruthGPT is a proposed AI model aimed at addressing the ills of existing models that powers the likes of ChatGPT and Bard, with particular emphasis on truth and safety. According to Elon Musk, TruthGPT will be a "maximum truth-seeking" AI that understands the nature of the universe and would be unlikely to destroy humanity because it sees humans as a critical component of the universe.
@@ -48,10 +36,7 @@ Maximum truth-seeking AI? Understand the nature of the universe?
  You'll be forgiven if Musk's description doesn't give you a clear picture of what exactly he's trying to build. However, you'll get a better idea of what he's talking about by looking at why he's trying to build it in the first place.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Is Elon Musk Building TruthGPT?
@@ -63,16 +48,7 @@ Maximum truth-seeking AI? Understand the nature of the universe?
  Elon Musk, who recently authored an open letter calling for a[moratorium on the development of powerful AI](http://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) models (specifically those more powerful than GPT-4), believes AI is moving too fast. He believes we need to slow down and reevaluate our approach to AI safety before AI "takes control." TruthGPT is a large language model (LLM) that promises to address these two core concerns with today's AI systems.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Would TruthGPT Look Like?
@@ -80,10 +56,7 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 ![artificial brain doing data analytics ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mou-article-banner.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The first hint into how TruthGPT would look is in the name. Considering the "GPT" appendage, TruthGPT will likely have a similar architecture to ChatGPT. Remember, Elon Musk helped assemble OpenAI and the team that built ChatGPT's GPT model.
@@ -93,13 +66,6 @@ Maximum truth-seeking AI? Understand the nature of the universe?
  The accuracy, or in Elon Musk's lingo, "truthfulness," of an AI model depends heavily on its training data and the training algorithm. We are not exactly sure how TruthGPT's training data would be sourced, but to get the best chance of building an LLM that's as "truthful" as possible, Elon Musk's TruthGPT would have to prioritize data from "truthful sources." But that's precisely the problem. Truth is a very subjective concept. What is true for me might not be true for you.
 
 So, is this idea of a maximum truth-seeking AI even practical?
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Building TruthGPT Is a Huge Challenge
 
@@ -132,5 +98,24 @@ So, is this idea of a maximum truth-seeking AI even practical?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-share-videos-on-facebook-in-2024/"><u>[New] How to Share Videos on Facebook, In 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-software-for-enthusiasts-top-5-ps1-emulators/"><u>[Updated] Essential Software for Enthusiasts Top 5 PS1 Emulators</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-evolving-your-tiktok-conclusion-designs/"><u>[Updated] Evolving Your TikTok Conclusion Designs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamers-galaxy-a-thousand-stars-in-gaming-for-2024/"><u>[Updated] Gamers' Galaxy A Thousand Stars in Gaming for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-iphone-and-android-gopro-apps-cutting-edge-edits/"><u>[Updated] Ideal iPhone & Android GoPro Apps Cutting-Edge Edits</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-amplifying-image-size-unchanged-crispness/"><u>[Updated] In 2024, Amplifying Image Size, Unchanged Crispness</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypassing-blunders-effective-strategies-to-prevent-errors-while-utilizing-champtgpt/"><u>Bypassing Blunders: Effective Strategies to Prevent Errors While Utilizing ChamptGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-bert-for-natural-language-processing-compared-to-generative-pre-trained-transformer-gpt/"><u>Demystifying BERT for Natural Language Processing Compared to Generative Pre-Trained Transformer (GPT)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-your-dream-job-with-ai-help/"><u>Discover Your Dream Job with AI Help</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c55-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Poco C55 Phone Without Password?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-task-automation-with-chatgpt-as-your-virtual-work-companion/"><u>Mastering Task Automation with ChatGPT as Your Virtual Work Companion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/neural-networks-and-the-threat-of-data-reverse-engineering/"><u>Neural Networks and the Threat of Data Reverse-Engineering</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/power-play-uncovering-the-excellence-of-ibuypower-y60s-premium-gaming-experience/"><u>Power Play: Uncovering the Excellence of iBuyPower Y60's Premium Gaming Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/shift-your-focus-to-claude-3-the-top-4-reasons-ahead/"><u>Shift Your Focus to Claude 3: The Top 4 Reasons Ahead</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ipad-productivity-apps-to-boost-efficiency-find-the-ideal-tools-from-zdnets-picks/"><u>Top iPad Productivity Apps to Boost Efficiency: Find the Ideal Tools From ZDNet's Picks!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trailblazing-with-tech-top-6-innovations-from-code-conductor/"><u>Trailblazing with Tech - Top 6 Innovations From Code Conductor</u></a></li>
+</ul></div>
 

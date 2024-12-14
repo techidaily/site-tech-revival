@@ -1,7 +1,7 @@
 ---
 title: The Reality of AI Influence on Journalism & Content Creation Jobs
-date: 2024-12-04T16:51:34.085Z
-updated: 2024-12-08T16:33:36.134Z
+date: 2024-12-13T18:11:12.181Z
+updated: 2024-12-14T16:10:41.049Z
 tags:
   - chatgpt
   - open-ai
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 ![A Screenshot of Decktopus AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/decktopus-ai-presentation-generator-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Decktopus is an AI-powered presentation generator that aims to simplify the process of making presentations for any situation, and getting started with it couldn't be easier. All you have to do is type out a description of what you want your presentation to be about. If you’re not sure, Decktopus can often provide some useful suggestions.
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
 ![A Screenshot of the SlidesAI io Google Slides Add-on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/slides-ai-presentation-generator-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re looking for an AI presentation generator that works directly within Google Slides, then you can’t go wrong with SlidesAI.io. That's because SlidesAI.io is a Google Workspace add-on.
 
  There are already Workspace add-ons that let you[use ChatGPT on Google Sheets and Google Docs](https://www.makeuseof.com/how-use-chatgpt-google-sheets/) , and SlidesAI.io aims to do the same by letting you use AI to generate entire presentations in Google Slides.
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
  Alternatively, you can ask SlidesAI.io to create a presentation using just a simple title. The process here is much the same. There are also options to customize the look of SlidesAI.io within the add-on, though you can always adjust the look using Google Slides' in-built tools as well if you so wish.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3.[Tome](https://tome.app/)
@@ -67,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 ![A Screenshot of Tome s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tome-ai-presentation-generator-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re looking for a comprehensive presentation tool full of features, then Tome might just be exactly what you’re looking for. Features such as custom themes, fonts, and logos, are all present with Tome. If you’re looking for collaborative tools or[how to make a presentation more interactive](https://www.makeuseof.com/make-presentations-interactive-google-slides-presenter-view/) , then you can find that too.
@@ -98,19 +94,23 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
 ![A Screenshot of ChatBA s AI Presentation Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatba-ai-presentation-generator-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatBA is an online AI presentation generation tool that allows you to quickly and easily create a complete presentation on just about any topic. With ChatBA, all you have to do is input the topic that you want a presentation on and leave the rest to the AI.
 
  The options with ChatBA are somewhat limited, but good for quick and short use cases. The presentations generated tend to be under ten slides long, and there's no way to adjust the size in any way. If you're looking to adjust the look of your presentation, there are a variety of themes to choose from, but if you want to make any substantial changes, you'll have to do so manually.
 
  ChatBA supports exporting in both PPTX and PDF file types, which is great if you already work in PowerPoint or are looking to present directly and want a PDF that you can easily share or present from.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7.[MagicSlides](https://www.magicslides.app)
 
 ![A Screenshot of MagicSlides AI Presentation Generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/magicslides-ai-presentation-generator-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  MagicSlides is a Google Slides add-on that aims to work like ChatGPT for your presentations. To use MagicSlides, all you have to do is enter your topic, though you can also include additional information such as reference material and instructions.
 
@@ -137,19 +137,24 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-step-into-the-world-of-vrecorder-downloading-and-using/"><u>[Updated] 2024 Approved Step Into the World of VRecorder Downloading and Using</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebooks-top-visual-discoveries-a-guide/"><u>[Updated] In 2024, Facebook's Top Visual Discoveries A Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-my-ultimate-list-of-6-best-features-of-samsung-dex/"><u>Discover My Ultimate List of 6 Best Features of Samsung DeX</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-unrivaled-benefits-why-you-shouldnt-think-twice-about-cancelling-apple-arcade/"><u>Discover the Unrivaled Benefits: Why You Shouldn't Think Twice About Cancelling Apple Arcade</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-image-management-in-google-photos-through-smart-collection-grouping-technology/"><u>Enhance Image Management in Google Photos Through Smart Collection Grouping Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exposing-atandts-misleading-promotion-of-non-existent-telecom-offering/"><u>Exposing AT&T's Misleading Promotion of Non-Existent Telecom Offering</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-insignia-crossover-usb-ethernet-driver-here/"><u>Get Your Insignia CrossOver USB Ethernet Driver Here!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/immobile-device-display-shift-the-secret-technique-for-rotating-your-iphoneipad/"><u>Immobile Device Display Shift: The Secret Technique for Rotating Your iPhone/iPad</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-investing-in-a-dual-sim-smartphone-a-smart-choice/"><u>Is Investing in a Dual-SIM Smartphone a Smart Choice?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000465975-navigate-effortlessly-with-the-updated-euro-truck-simulator-2-no-more-pc-crashing-concerns/"><u>Navigate Effortlessly with the Updated Euro Truck Simulator 2: No More PC Crashing Concerns!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionary-5-ai-apps-transforming-emotional-care/"><u>Revolutionary 5 AI Apps Transforming Emotional Care</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-8-plus-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 8 Plus</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-your-secrets-mastering-macos-keychain-password-recovery-techniques/"><u>Unlocking Your Secrets: Mastering macOS Keychain Password Recovery Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-elevate-your-streams-with-seamless-obspluszoom-integration-for-2024/"><u>[Updated] Elevate Your Streams with Seamless OBS+Zoom Integration for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-precision-evaluation-a-vll-approach-to-apps/"><u>[Updated] Precision Evaluation A VLL Approach to Apps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-honor-90-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Honor 90 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-mastering-the-art-of-finding-cost-effective-graphics/"><u>2024 Approved Mastering the Art of Finding Cost-Effective Graphics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/combining-the-power-of-chatgpt-and-siri-enhancing-iphone-functionality/"><u>Combining the Power of ChatGPT and Siri: Enhancing iPhone Functionality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/content-detection-failures-the-growing-crisis/"><u>Content Detection Failures: The Growing Crisis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/developers-insights-envisioning-the-impact-of-ai-integration-into-development-processes/"><u>Developers' Insights: Envisioning the Impact of AI Integration Into Development Processes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-speed-difference-why-is-chatgpt-4-lagging-behind-chatgpt-35/"><u>Exploring the Speed Difference: Why Is ChatGPT-4 Lagging Behind ChatGPT-3.5?</u></a></li>
+<li><a href="https://windows11.techidaily.com/guaranteeing-presence-of-startup-applications/"><u>Guaranteeing Presence of Startup Applications</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/insight-into-ais-impact-on-prompt-design-and-employment-sustainability/"><u>Insight Into AI's Impact on Prompt Design & Employment Sustainability</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210197108-9780760367001-life-unplugged/"><u>Life Unplugged | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/masterclass-building-an-interactive-story-rich-rpg-with-chatgpt-technology/"><u>Masterclass: Building an Interactive, Story-Rich RPG with ChatGPT Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-gpt-3-android-and-ios-integration/"><u>Navigating GPT-3: Android & iOS Integration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-ownership-issues-how-does-copyright-law-apply-to-creations-by-artificial-intelligence/"><u>Navigating Ownership Issues: How Does Copyright Law Apply to Creations by Artificial Intelligence?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-hidden-dangers-of-downloading-google-bard-appmalware-alert/"><u>The Hidden Dangers of Downloading Google Bard App—Malware Alert</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-tutorial-on-uploading-and-editing-video-clips-in-imovie/"><u>The Ultimate Tutorial on Uploading and Editing Video Clips in iMovie</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-the-distinction-null-vs-empty-strings-in-sql-databases/"><u>Understanding the Distinction: Null Vs. Empty Strings in SQL Databases</u></a></li>
+<li><a href="https://win11.techidaily.com/1719369400663-unleash-the-true-power-of-windows-screen-capture-toolkit/"><u>Unleash the True Power of Windows' Screen Capture Toolkit</u></a></li>
 </ul></div>
 

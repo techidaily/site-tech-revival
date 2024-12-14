@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Strategy: Implementing Self-Created GPT Calls in Any Conversational AI Setting"
-date: 2024-12-03T16:20:12.085Z
-updated: 2024-12-08T16:24:30.790Z
+date: 2024-12-13T17:04:06.231Z
+updated: 2024-12-14T17:27:09.946Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are the Differences between Google Bard and Bing Chat?
 
  Outwardly, both tools look similar. They both offer a simple interface with a text box to allow you to "chat" with them. However, dig a little deeper, and significant differences become apparent. To test the tools for yourself, you will need a Google and Microsoft account, although you might have to join a[waitlist for Google Bard](https://www.makeuseof.com/how-to-join-google-bard-ai-waitlist/) .
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
  There were differences between how both models approached the question. First up, we will look at Google Bard's answer.
 
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
 
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![Screenshot Bard  CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
 ## Bing Chat vs. Google Bard: Ease of Use
@@ -74,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
@@ -82,11 +90,11 @@ We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As both platforms are going through rapid development, the user experience will continue to improve.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are the Differences Between the Language Models?
 
@@ -99,16 +107,12 @@ We did manage to get a response from Bard by rewording the prompt.
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Is Best for You: Bing Chat or Google Bard?
 
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This is a case of choosing the right tool for the right job. When we compare the performance of both platforms, Bing Chat seems to edge it. However, there are some provisos to consider. The first is that the Microsoft offering is a more complete product, while Bard is still rough around the edges.
 
@@ -121,10 +125,6 @@ We did manage to get a response from Bard by rewording the prompt.
  Both tools are incredibly powerful and can generate intelligent answers to any prompt. But both have pros and cons, and the ultimate choice is likely to be decided by factors like user preferences and the desired output type.
 
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Era of the Chatbot Is Upon Us
 
@@ -147,20 +147,24 @@ We did manage to get a response from Bard by rewording the prompt.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-low-end-pc-visual-recorders/"><u>[New] 2024 Approved Low-End PC Visual Recorders</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-explore-the-best-ios-options-to-simulate-your-favorite-psp-classics/"><u>[New] In 2024, Explore the Best iOS Options to Simulate Your Favorite PSP Classics</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nveiling-carryminatis-channel-economics-ajey/"><u>[New] Unveiling CarryMinati's Channel Economics (Ajey)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-navigating-vector-editing-beyond-magixs-domain/"><u>2024 Approved Navigating Vector Editing Beyond Magix's Domain</u></a></li>
-<li><a href="https://fox-links.techidaily.com/best-editors-on-smartphones-for-dji-footage-excellence-for-2024/"><u>Best Editors on Smartphones for DJi Footage Excellence for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-blu-ray-dvd-and-4k-uhd-the-ultimate-guide-to-choosing-the-best-format/"><u>Comparing Blu-Ray, DVD & 4K UHD: The Ultimate Guide to Choosing the Best Format</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-amd-radeon-rx-590-drivers-on-windows-step-by-step-guide/"><u>Download & Install AMD Radeon RX 590 Drivers on Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effective-techniques-for-merging-pie-charts-in-excel-a-step-by-step-guide/"><u>Effective Techniques for Merging Pie Charts in Excel: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-fix-common-itunes-issues-a-comprehensive-guide/"><u>How to Fix Common Itunes Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/macx-dvd-ripper-pro-professionnel-convertisseur-de-dvd-pour-mac-os-x-en-mp4-protege-ideal-pour-liphone-et-lipad/"><u>MacX DVD Ripper Pro: Professionnel Convertisseur De DVD Pour Mac OS X en MP4 Protegé - Idéal Pour L'iPhone Et L'iPad</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/master-the-art-of-saving-newgrounds-videos-online-learn-these-3-hassle-free-strategies-today/"><u>Master the Art of Saving Newgrounds Videos Online - Learn These 3 Hassle-Free Strategies Today!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolving-itunes-error-code-9-a-step-by-step-guide-for-iphone-and-ipad-users/"><u>Resolving iTunes Error Code 9: A Step-by-Step Guide for iPhone and iPad Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solving-the-issue-troubleshooting-imovie-export-errors-across-iphone-ipad-and-mac/"><u>Solving the Issue: Troubleshooting iMovie Export Errors Across iPhone, iPad and Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-how-to-use-built-in-mac-camera-for-high-quality-recording/"><u>Step-by-Step Tutorial: How to Use Built-In Mac Camera for High-Quality Recording</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-freeware-de-compression-video-pour-mac-en-2023-designez-le-votre/"><u>Top Freeware De Compression Vidéo Pour MAC en 2023 - Designez Le Vôtre</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-pcs-ultimate-selection-of-ps3-emulation-tools/"><u>[New] In 2024, PC's Ultimate Selection of PS3 Emulation Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-prestige-pcs-and-laptops-technologys-elite/"><u>[Updated] In 2024, Prestige PCs & Laptops - Technology's Elite</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-next-gen-peripherals-exploring-virtual-reality-accessories/"><u>[Updated] Next-Gen Peripherals Exploring Virtual Reality Accessories</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-multi-platform-content-delivery-youtube-and-beyond/"><u>2024 Approved Mastering Multi-Platform Content Delivery YouTube & Beyond</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029263782-20248/"><u>2024年度にリリースされた、どんな制約もかけずに動画を変換できる驚くべき無料ツールベスト8 - 専門家の選び方</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726030352870-dvd/"><u>品質保持しつつDVD動画のサイズ縮小方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5yq55p6c55qe44gr44oi44kt44kq44oi44o844k344on44oz44ot44oh44kq44ks6kiy6yyy44gz44kl44gf44kb44gu5oml6acg/"><u>効果的にトキオモーションビデオを記録するための手順</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/access-and-save-your-favorite-films-anywhere-with-our-netflix-film-archivist/"><u>Access and Save Your Favorite Films Anywhere with Our Netflix Film Archivist</u></a></li>
+<li><a href="https://os-tips.techidaily.com/android-users-essential-toolkit-seamlessly-syncing-your-apps-with-proven-backup-and-restore-techniques/"><u>Android Users' Essential Toolkit: Seamlessly Syncing Your Apps with Proven Backup and Restore Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-digital-world-wonderfoxs-ultra-speed-hd604-transformer-for-lightning-fast-h264-conversions/"><u>Boost Your Digital World: WonderFox's Ultra-Speed HD604 Transformer for Lightning-Fast H264 Conversions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/capcut/"><u>CapCutで簡単にビデオの回転・逆転技術</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-audio-conversion-how-to-use-a-trustworthy-vox-converter-for-mp3-and-wav-formats/"><u>Effortless Audio Conversion: How to Use a Trustworthy VOX Converter for MP3 and WAV Formats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-guide-converting-mpeg-audio-to-mp3-a-beginner-friendly-method/"><u>Effortless Guide: Converting MPEG Audio to MP3 – A Beginner-Friendly Method</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-line-insertion-techniques-for-professional-word-presentations/"><u>Effortless Line Insertion Techniques for Professional Word Presentations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-vidme-video-downloads-discovering-the-best-three-strategies-to-save-your-favorites/"><u>Effortless Vidme Video Downloads: Discovering the Best Three Strategies to Save Your Favorites!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722960271567-latest-rtx-2080-graphic-cards-drivers-available-download-now-for-all-windows-platforms/"><u>Latest RTX 2080 Graphic Cards Drivers Available: Download Now for All Windows Platforms!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/macbook-cam-recording-tutorial/"><u>MacBook Cam Recording Tutorial</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-capturing-scrollable-content-in-images-on-windows-operating-systems/"><u>Step-by-Step Guide: Capturing Scrollable Content in Images on Windows Operating Systems</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-13t-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Xiaomi 13T won’t play MKV movies</u></a></li>
 </ul></div>
 

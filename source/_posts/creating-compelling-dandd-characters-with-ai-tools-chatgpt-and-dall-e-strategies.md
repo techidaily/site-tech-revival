@@ -1,7 +1,7 @@
 ---
 title: Creating Compelling D&D Characters with AI Tools - ChatGPT and DALL-E Strategies
-date: 2024-12-01T17:09:49.119Z
-updated: 2024-12-08T16:49:50.121Z
+date: 2024-12-13T17:50:34.812Z
+updated: 2024-12-14T18:21:31.859Z
 tags:
   - chatgpt
   - open-ai
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -42,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
  The only issue is that they don't do what OpenAI advertises, and it's a mixed bag as to whether you'll get the edits you want. But still, it's a start of what's to come for DALL-E 3 editing, and this is how they work.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are DALL-E 3's Editing Tools?
 
  They've been a while coming, but OpenAI has finally added editing functionality to DALL-E 3 in ChatGPT Plus. Prior to this, you could attempt to make edits to your DALL-E 3 creations, but it would typically always result in a completely fresh image being generated. Even if the prompts used to create the edited image were extremely similar to the first prompt, due to the very nature of generative AI, the output could be significantly different.
@@ -54,11 +46,19 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
 ![dalle 3 editing tools example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 However, it's a mixed bag.
 
 [OpenAI's official blog](https://help.openai.com/en/articles/9055440-editing-your-images-with-dall-e) example shows DALL-E adding cherry blossoms to a Ukiyo-e-style image of cat, and it working perfectly. In my experience, DALL-E's editing tools struggle to add such detailed imagery to an existing image and, for the most part, can't process requests of this nature.
 
  That's not to say the editing tools don't work. They can absolutely remove features and make small changes, as detailed below, but it's all on a small scale.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use DALL-E 3's Editing Tool
 
@@ -84,9 +84,17 @@ Close
 
 ![dalle 3 editing tools close up human eye](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Pretty decent, if a little odd (eyelash reflections?!), but I wanted to switch the iris color to blue-green instead, resulting in this image:
 
 ![dalle 3 editing tools close up human eye changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye-changed-colour.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The color is slightly dull but unchanged, and some features are warped slightly.
 
@@ -98,14 +106,10 @@ Close
 
 ![dalle 3 editing tools yeti removed from image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-yeti-removed-from-image.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Instead of swapping the yeti for a different animal, it's just completely gone. Instead, I returned to the original image and asked it to add another yeti, which it failed to do. It similarly failed when asked to add more trees to the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Adding Text
@@ -117,10 +121,6 @@ Close
  Next up, I went for a birthday card. This time around, DALL-E added "Happy Birthday" without being prompted, which is fine, given the theme. So, I asked it to add the date of the birthday on the card. Again, it failed to add the date to the card, but after a few rounds of prompting, it created a new image featuring the requested date. In this case, adding the date myself would have been easier, especially if I wanted to keep the original image.
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)
 
@@ -143,22 +143,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/1-specifications-detaillees-de-lia-winxvideo-guide-officiel-et-complet/"><u>1. Spécifications Détaillées De L'IA Winxvideo : Guide Officiel Et Complet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-image-quality-the-ultimate-guide-for-higher-resolutions/"><u>Boost Your Image Quality: The Ultimate Guide for Higher Resolutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/foremost-corporate-cloud-storage-hubs/"><u>Foremost Corporate Cloud Storage Hubs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-unrestricted-video-resizer-applications-ultimate-guide-to-watermark-free-options-online/"><u>Free, Unrestricted Video Resizer Applications: Ultimate Guide to Watermark-Free Options Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-your-beloved-youtube-clips-on-disc-with-our-top-rated-free-youtube-converter-for-dvds/"><u>Get Your Beloved YouTube Clips on Disc with Our Top-Rated, Free YouTube Converter for DVDs!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-films-anticipated-the-covid-19-pandemic-years-before-it-happened/"><u>How Films Anticipated the COVID-19 Pandemic Years Before It Happened</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-essential-techniques-for-efficient-utilization-of-zooms-whiteboard-feature/"><u>In 2024, Essential Techniques for Efficient Utilization of Zoom's Whiteboard Feature</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-novice-to-expert-a-comprehensive-guide-to-macs-preview-software/"><u>In 2024, From Novice to Expert A Comprehensive Guide to Mac's Preview Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-possible-to-utilize-nvenc-for-video-encoding-in-handbrake-comprehensive-tutorial-inside/"><u>Is It Possible to Utilize NVENC for Video Encoding in HandBrake? Comprehensive Tutorial Inside!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-iphone-ringtone-updates/"><u>Mastering iPhone Ringtone Updates</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-10-best-free-avi-concatenators-for-seamless-video-editing/"><u>New The 10 Best Free AVI Concatenators for Seamless Video Editing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/peeps-funny-photos-iphones-style/"><u>Peeps' Funny Photos, iPhones Style</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tcd-is-non-destructive-and-responds-to-any-compound-different-in-thermal-conductivity-from-the-carrier-gas-but-has-lower-sensitivity-than-other-detectors/"><u>TCD Is Non-Destructive and Responds to Any Compound Different in Thermal Conductivity From the Carrier Gas but Has Lower Sensitivity than Other Detectors.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/telechargement-gratuite-de-lecteur-video-high-definition-hdfull-hd-compatible-avec-les-ordinateurs-personnels/"><u>Téléchargement Gratuite De Lecteur Vidéo High Definition (HD/Full HD) Compatible Avec Les Ordinateurs Personnels</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-full-spectrum-slomo-recording-app-evaluation/"><u>The Full Spectrum SloMo Recording App Evaluation</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-meizu-21-by-drfone-android/"><u>Three Ways to Sim Unlock Meizu 21</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/upgrade-your-media-with-winxvideo-ai-intelligent-videoimage-enhancer-for-recording-editing-converting-and-more/"><u>Upgrade Your Media with Winxvideo AI: Intelligent Video/Image Enhancer for Recording, Editing, Converting & More</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-seasons-finest-ice-artistry-2022-highlights-for-2024/"><u>[New] Season's Finest Ice Artistry - 2022 Highlights for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-process-for-incorrante-youtube-playlist-integration/"><u>[New] The Ultimate Process for Incorrante YouTube Playlist Integration</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-best-webcams-for-youtube-livestreaming/"><u>[Updated] 2024 Approved Best Webcams for YouTube Livestreaming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-spectacular-photo-narrative-construction-suite/"><u>[Updated] Spectacular Photo Narrative Construction Suite</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-online-music-potential-with-imovie-and-youtube/"><u>[Updated] Unleashing Online Music Potential with iMovie & YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-free-video-merger-tools-a-2023-ranking-with-offers-included/"><u>Best Free Video Merger Tools: A 2023 Ranking with Offers Included</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-libre-de-raw-a-jpg-online-utilizar-el-servicio-web-sin-coste-alguno/"><u>Conversión Libre De RAW a JPG Online: Utilizar El Servicio Web Sin Coste Alguno</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-your-nef-images-to-jpeg-format-for-free-using-movavis-web-app/"><u>Convert Your NEF Images to JPEG Format for Free Using Movavi's Web App</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creative-visual-fx-hub-explore-movavis-editing-effect-toolkit/"><u>Creative Visual FX Hub - Explore Movavi's Editing Effect Toolkit</u></a></li>
+<li><a href="https://fox-links.techidaily.com/decoding-the-science-of-captivating-time-lapses-using-gopro/"><u>Decoding the Science of Captivating Time-Lapses Using GoPro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decouvrez-les-meilleurs-outils-denregistrement-audio-compatibles-avec-chrome-un-guide-complet/"><u>Découvrez Les Meilleurs Outils D'enregistrement Audio Compatibles Avec Chrome : Un Guide Complet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/engedely-nelkul-movavi-zoom-fusionalas-a-gyors-kapcsolatok-kezelesek-szempontjabol/"><u>Engedély Nélkül Movavi Zoom Fusiónálás - A Gyors Kapcsolatok Kezelések Szempontjából</u></a></li>
+<li><a href="https://facebook.techidaily.com/governance-guild-prepares-to-dictate-trumps-status-on-fb/"><u>Governance Guild Prepares to Dictate Trump's Status on FB.</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-motorola-g54-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Motorola G54 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-transforme-seus-arquivos-ogv-em-avi-gratuitamente-on-line-com-nosso-conversor-facil-de-usar/"><u>Movavi: Transforme Seus Arquivos OGV Em AVI Gratuitamente On-Line Com Nosso Conversor Fácil De Usar!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-the-net-an-in-depth-look-at-what-tagging-entails/"><u>Navigating Through the Net: An In-Depth Look at What 'Tagging' Entails</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformez-vos-videos-flv-en-avi-pour-free-sur-le-site-web-de-movavi-tutoriel-complet/"><u>Transformez Vos Vidéos FLV en AVI Pour Free Sur Le Site Web De Movavi - Tutoriel Complet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-selection-of-12-premium-linux-recording-apps-by-experts/"><u>Ultimate Selection of 12 Premium Linux Recording Apps by Experts</u></a></li>
 </ul></div>
 

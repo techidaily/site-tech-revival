@@ -1,7 +1,7 @@
 ---
 title: Safeguard Sensitive Data, Not ChatGPT
-date: 2024-12-02T17:01:29.753Z
-updated: 2024-12-08T16:10:06.322Z
+date: 2024-12-08T17:54:35.743Z
+updated: 2024-12-14T17:22:52.109Z
 tags:
   - chatgpt
   - open-ai
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
  The app was swiftly taken off the Apple Store after several bad reviews. Was this plugin developed by the same person? We are not sure. But it sure has the same function—absolutely nothing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Aaron Web Browser
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 ## 3\. AppyPie App Builder
 
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  AppyPie is a popular no-code app-building platform. It's relatively easy to use, and you can deploy fully functional mobile apps in a very short time without having to write a single line of code.
 
@@ -72,23 +68,19 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
 
  It, at least in theory, is supposed to be able to do something akin to[what AutoGPT does](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/) . Unfortunately, irrespective of the complexity of the task we set for it, the plugin couldn't deliver anything.
 
  It seems it was just applying a few prompt tricks and returning a not-so-enhanced copy of what ChatGPT would provide. There's really no sense of AI agents at work. It doesn't offer anything particularly different from what ChatGPT would do.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. A Movie Please (FilmFindr)
 
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The "A Movie Please" plugin is a movie recommendation tool to help ChatGPT users decide what to watch next. Although the plugin is not a dud (it actually makes movie recommendations), you're better off using ChatGPT without the plugin.
 
@@ -96,17 +88,25 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  For quality movie suggestions, you're better off prompting the base ChatGPT model directly[to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) . By going that route, you'll get far superior results compared to relying on the "A Movie Please" plugin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. ABC Website Maker
 
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
@@ -129,18 +129,18 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-economical-dslrmirrorless-systems/"><u>[New] 2024 Approved Economical DSLR/Mirrorless Systems</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-live-obs-video-on-instagram/"><u>[New] Live OBS Video on Instagram</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-dos-and-donts-the-essential-night-photography-checklist/"><u>[Updated] 2024 Approved Do's & Don'ts The Essential Night Photography Checklist</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-edit-vertical-videos-for-instagram-in-final-cut-pro-x-for-2024/"><u>[Updated] How to Edit Vertical Videos for Instagram in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-digital-video-conquerors-ultimate-toolkit-list/"><u>[Updated] In 2024, Digital Video Conquerors' Ultimate Toolkit List</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726222596582-flvmkv-movavi/"><u>自由下載優化：移動FLV到MKV - 利用Movavi格式更改器</u></a></li>
-<li><a href="https://fox-that.techidaily.com/capturing-memories-fix-your-iphones-unresponsive-camera-with-these-7-tips/"><u>Capturing Memories? Fix Your iPhone's Unresponsive Camera with These 7 Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-to-the-ai-breakthroughs-demonstrated-by-apple-at-wwdc-2024/"><u>Comprehensive Guide to the AI Breakthroughs Demonstrated by Apple at WWDC 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-multilingual-conversations-tips-for-leveraging-chatgpts-language-abilities/"><u>Navigating Multilingual Conversations: Tips for Leveraging ChatGPT's Language Abilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-evolution-of-dall-e-3-exploring-the-latest-edit-tools-with-room-for-perfection/"><u>The Evolution of DALL-E 3: Exploring the Latest Edit Tools with Room for Perfection</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-gpt-4-all-exploring-its-functionality/"><u>Understanding GPT-4 All: Exploring Its Functionality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-dialogue-potential-the-threefold-use-of-chatgpt-wolfram-plugin/"><u>Unraveling Dialogue Potential: The Threefold Use of ChatGPT-Wolfram Plugin</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-top-6-ai-applications-in-note-taking-excellence/"><u>Unveiling the Top 6 AI Applications in Note-Taking Excellence</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-demystifying-virtual-meetings-essential-tips-for-using-zoom-win10/"><u>[New] 2024 Approved Demystifying Virtual Meetings Essential Tips for Using Zoom (Win10)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-streamline-your-collaboration-secrets-to-perfectly-planned-google-meets-for-2024/"><u>[New] Streamline Your Collaboration Secrets to Perfectly Planned Google Meets for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-breakneck-speed-photo-display-on-your-pc/"><u>[Updated] In 2024, Breakneck Speed Photo Display on Your PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-power-upgrades-for-os-x-and-win-with-srt-systems/"><u>[Updated] Top 10 Power Upgrades for OS X and Win with SRT Systems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/all-about-creating-compelling-twitresponses-for-2024/"><u>All About Creating Compelling TwitResponses for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harnessing-the-potential-of-cookiebot-for-superior-web-presence/"><u>Harnessing the Potential of Cookiebot for Superior Web Presence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/new-buzz-on-psphone-unveiling-fresh-gossip-and-insights-for-gamers/"><u>New Buzz on PSPhone: Unveiling Fresh Gossip and Insights for Gamers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pcdiyandroid/"><u>PCでDIY：Android着信音になりきれる動画・音楽トラックの利用法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-and-easy-tips-for-moving-dvd-content-from-pc-to-iphone-77-plus-without-hitches/"><u>Quick & Easy Tips for Moving DVD Content From PC to iPhone 7/7 Plus Without Hitches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-guide-on-extracting-audio-from-dvds-with-minimal-effort/"><u>Seamless Guide on Extracting Audio From DVDs with Minimal Effort</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamlessly-viewing-dvd-movies-with-windows-11-a-simple-walkthrough/"><u>Seamlessly Viewing DVD Movies with Windows 11 - A Simple Walkthrough</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sns5/"><u>SNSコンテンツ保管に適したインスタチャット・ビデオ保存サイトベスト5!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-6-zero-cost-tools-for-converting-videos-to-the-efficient-av1-format/"><u>Top 6 Zero-Cost Tools for Converting Videos to the Efficient AV1 Format</u></a></li>
 </ul></div>
 

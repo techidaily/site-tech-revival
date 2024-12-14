@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Leader: Is It ChatGPT or Google Bard in Today’s AI Conversations?"
-date: 2024-12-04T16:25:22.813Z
-updated: 2024-12-08T17:07:34.643Z
+date: 2024-12-08T17:54:12.103Z
+updated: 2024-12-14T17:36:02.004Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. No More Waitlist for Bard AI
 
  While this isn't entirely a new feature per se, it's refreshing to know that Google has dropped the waitlist for using Bard and opened the chatbot to all. So, if you've been sneaking onto the Bard website using a VPN, it's time to drop the mask. Bard is now open to over 180 countries and territories.
@@ -31,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 ## 2\. Dark Theme
 
 ![Bard on Dark theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-on-dark-theme.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Dark mode is the new cool, and Google has finally listened to the request of Bard AI users by adding the dark mode feature to the Bard website. To toggle on dark mode, toggle**Use dark theme** in the bottom left corner of the Bard web interface. If you are accessing Bard from your mobile browser, you'll need to tap the menu icon in the top right corner of the Bard website to reveal the**Use dark theme** button in the bottom left corner.
 
@@ -45,12 +45,16 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
  We saw a glimpse of what could be possible. A future where Bard AI integrates with Google Maps, Sheets, and a range of exciting services from third-party developers. This has the potential to be genuinely game-changing. Well, that is if Google doesn't under-deliver, of course.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Image Prompting
 
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
 
@@ -58,17 +62,9 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
  In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Image Generation With Adobe Firefly
 
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit:[Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
@@ -77,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
  Although we aren't exactly sure how deeply integrated Bard AI will be with Abode Firefly, the demo at Google I/O gave a sneak peek at something exciting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Tools for Exporting Generated Content
@@ -91,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 ## 7\. Improved Code Generation
 
 ![Generating code with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-code-with-bard-ai.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  At launch, Bard AI couldn't write code—an embarrassing pitfall considering coding was one of the big hype surrounding the emergence of AI chatbots. However, Bard AI competitors like[ChatGPT have been helping people code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) since its debut. Google has now significantly ramped up Bard's coding abilities—so much so that a lot of precious presentation time was dedicated to discussing it at its Google I/O 2023 event.
 
@@ -117,19 +117,14 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-make-every-snap-count-top-15-tips-and-tricks/"><u>[New] How to Make Every Snap Count Top 15 Tips & Tricks</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-precision-techniques-for-messenger-content-extraction/"><u>[New] In 2024, Precision Techniques for Messenger Content Extraction</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-convenient-ways-to-archive-your-insta-story/"><u>[Updated] 2024 Approved Convenient Ways to Archive Your Insta Story</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-creating-captivating-thumbnails-for-youtube/"><u>[Updated] Creating Captivating Thumbnails for YouTube</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-integrating-vimeo-to-instagram-posts/"><u>[Updated] In 2024, Integrating Vimeo to Instagram Posts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-instant-screen-capture-pro-chrome-for-2024/"><u>[Updated] Instant Screen Capture Pro (Chrome) for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/1728488212750-office3/"><u>効果的で安価なOffice文書復元手順：3番手から最高の方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/digiarty-winx-dvd-official-website-your-trusted-source-for-secure-disk-management/"><u>Digiarty WinX DVD Official Website - Your Trusted Source for Secure Disk Management</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/estrategias-efectivas-para-instalar-y-usar-el-programa-de-embalaje-winxdvd-una-guia-completa/"><u>Estrategias Efectivas Para Instalar Y Usar El Programa De Embalaje WinXDVD: Una Guía Completa</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-enable-and-edit-subtitle-files-on-videos-with-vlc/"><u>How to Enable & Edit Subtitle Files on Videos with VLC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-y78-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Y78 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimizing-mp4-video-files-effective-strategies-for-reducing-size-while-maintaining-maximum-clarity/"><u>Optimizing MP4 Video Files: Effective Strategies for Reducing Size While Maintaining Maximum Clarity</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-budsplus-unboxed-a-hands-on-exploration/"><u>Samsung Galaxy Buds+ Unboxed: A Hands-On Exploration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-extending-your-windows-10-laptop-and-mobile-battery-life-with-smart-tips/"><u>Ultimate Guide: Extending Your Windows 10 Laptop and Mobile Battery Life with Smart Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-avoid-feed-overload-how-to-stop-followers/"><u>[Updated] Avoid Feed Overload How to Stop Followers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oppo-reno-10-pro-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Oppo Reno 10 Pro 5G?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversione-libera-online-da-wma-a-webm-esegui-il-tuo-trasferimento-con-facilita/"><u>Conversione Libera Online Da WMA a WebM - Esegui Il Tuo Trasferimento Con Facilità</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/criando-animacoes-incriveis-no-seculo-21-o-guia-definitivo-para-iniciantes-em-2024/"><u>Criando Animações Incríveis No Século 21: O Guia Definitivo Para Iniciantes Em 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/elevate-your-pronunciation-with-dynamic-tongue-twisters/"><u>Elevate Your Pronunciation with Dynamic Tongue Twisters</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ning-social-media-comment-standouts-for-2024/"><u>Examining Social Media Comment Standouts for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/making-your-iphone-smarter-how-apples-integration-of-google-gemini-into-ios-enhances-functionality-zdnet/"><u>Making Your iPhone Smarter: How Apple's Integration of Google Gemini Into iOS Enhances Functionality | ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-transform-your-mxf-media-into-various-formats-without-cost/"><u>Movavi: Transform Your MXF Media Into Various Formats Without Cost</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-mxfmkv/"><u>Movavi를 사용한 원격 MXF/MKV 영상 무료 변환 가이드 - 웹 편리티</u></a></li>
 </ul></div>
 

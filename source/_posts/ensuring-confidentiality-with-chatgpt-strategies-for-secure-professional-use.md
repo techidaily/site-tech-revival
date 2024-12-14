@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Confidentiality with ChatGPT: Strategies for Secure Professional Use"
-date: 2024-09-11T19:24:28.453Z
-updated: 2024-09-12T19:24:28.453Z
+date: 2024-12-07T17:25:04.738Z
+updated: 2024-12-14T17:03:11.961Z
 tags:
   - chatgpt
   - open-ai
@@ -20,16 +20,7 @@ thumbnail: https://thmb.techidaily.com/0a8efd832e4ff850ed2946c105917f658a3e5ec7d
  OpenAI's advanced chatbot may have reinvigorated the public's interest in artificial intelligence, but few have seriously contemplated the potential security risks associated with this product.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT: Security Threats and Issues
@@ -43,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/0a8efd832e4ff850ed2946c105917f658a3e5ec7d
  This just underscores how important it is to[limit what you share with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/) , which collects a staggering amount of data by default. Tech behemoth Samsung learned this the hard way, when a group of employees who had been using the chatbot as an assistant accidentally leaked confidential information to it.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT a Threat to Your Privacy?
@@ -54,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/0a8efd832e4ff850ed2946c105917f658a3e5ec7d
 ![ChatGPT logo on green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-threat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Security and privacy are not one and the same](https://www.makeuseof.com/privacy-anonymity-security-mean/) , but they are closely related and often intersect. If ChatGPT is a security threat, then it is also a threat to privacy, and vice versa. But what does this mean in more practical terms? What are ChatGPT's security and privacy policies like?
@@ -67,10 +52,7 @@ thumbnail: https://thmb.techidaily.com/0a8efd832e4ff850ed2946c105917f658a3e5ec7d
  In any case, you should be careful when using ChatGPT, especially[if you use it for work](https://www.makeuseof.com/things-you-can-do-with-chatgpt) , or to process sensitive information. As a general rule of thumb, you should not share with the bot what you wouldn't like the public to know.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Addressing the Security Risks Associated With ChatGPT
@@ -82,10 +64,7 @@ thumbnail: https://thmb.techidaily.com/0a8efd832e4ff850ed2946c105917f658a3e5ec7d
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Raising Awareness Is Key
@@ -107,5 +86,26 @@ thumbnail: https://thmb.techidaily.com/0a8efd832e4ff850ed2946c105917f658a3e5ec7d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/levate-your-yt-presence-and-skyrocket-to-1000plus-fans-for-2024/"><u>[New] Elevate Your YT Presence and Skyrocket To 1000+ Fans for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-demystifying-ps4s-capture-features-a-comprehensive-walkthrough/"><u>[Updated] In 2024, Demystifying PS4's Capture Features A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-nokia-c12-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Nokia C12 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-directly-posting-your-videos-from-idevice-to-youtube/"><u>2024 Approved Directly Posting Your Videos From iDevice to YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-users-utilize-cortanas-services-in-the-german-language-within-windows-1n-mobile-os/"><u>Can Users Utilize Cortana's Services in the German Language Within Windows 1N Mobile OS?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-tutorial-how-to-create-screen-videos-with-audio-on-windows-11/"><u>Complete Tutorial: How to Create Screen Videos with Audio on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvdmac/"><u>DVDがMacから出てくる理由と予防策を詳しく解説</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvdmp4-windows-10/"><u>DVDをMP4に自由に変換: Windows 10向け最適な無料ツールと使い方</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-successfully-duplicating-classic-and-latest-paramount-movies-onto-your-pc/"><u>Guide: Successfully Duplicating Classic and Latest Paramount Movies Onto Your PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-canon-pixma-mx490-drivers-available-for-download-on-windows-platforms/"><u>Latest Canon PIXMA MX490 Drivers Available for Download on Windows Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-zoom-on-a-chromebook-key-techniques/"><u>Mastering Zoom on a Chromebook Key Techniques</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-free-video-editing-software-top-10-picks-for-mp4-files/"><u>New 2024 Approved Free Video Editing Software Top 10 Picks for MP4 Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/repeat-this-process-for-your-dvd-drive-by-expanding-the-disk-drives-section-in-device-manager/"><u>Repeat This Process for Your DVD Drive by Expanding the Disk Drives Section in Device Manager.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-your-audio-files-and-playlists-into-mp3-format-on-pc/"><u>Step-by-Step Guide: Converting Your Audio Files and Playlists Into MP3 Format on PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-gratuit-logiciels-de-conversion-video-mp4-vers-et-depuis/"><u>Top 6 Gratuit Logiciels De Conversion Vidéo MP4 : Vers Et Depuis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transcodez-en-h264-gratuit-guide-detaille-pour-migrer-du-format-hevc-h2eplus8-a-windowsmacos/"><u>Transcodez en H.264 Gratuit : Guide Détaillé Pour Migrer Du Format HEVC (H.2e+8) À Windows/macOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-your-vob-files-into-mp4-format-a-comprehensive-guide-for-pc-and-mac-users/"><u>Transforming Your VOB Files Into MP4 Format: A Comprehensive Guide for PC and Mac Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-best-ssds-for-gamers-on-pc-ps5-and-xbox-insights-from-zdnet/"><u>Ultimate Guide to the Best SSDs for Gamers on PC, PS5, and Xbox | Insights From ZDNET</u></a></li>
+</ul></div>
 

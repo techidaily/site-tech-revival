@@ -1,7 +1,7 @@
 ---
 title: "Elevate Coding: CodeGPT Meets VS Code"
-date: 2024-12-01T17:08:14.241Z
-updated: 2024-12-08T17:05:30.855Z
+date: 2024-12-13T17:47:55.001Z
+updated: 2024-12-14T18:14:15.104Z
 tags:
   - chatgpt
   - open-ai
@@ -24,17 +24,9 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is the Turing Test Outdated?
 
 ![man questions robot turing test example feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/man-questions-robot-turing-test-example-feature.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vector/robot-scientist-facing-turing-test-artificial-1651840888)
 
@@ -46,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  However, the current AI models like ChatGPT-4 and Google Bard haven't yet advanced to a point they can consistently pass the Turing test. In fact, if you're familiar with AI, you can[spot AI-generated text](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The 5 Best Turing Test Alternatives
 
  It's possible that[future AI models like ChatGPT-5](https://www.makeuseof.com/when-will-gpt5-launch/) could pass the Turing test. If that happens, we would need different tests combined with the Turing test to identify if we're talking to an AI or a human. Here are the best Turing test alternatives:
@@ -54,13 +50,13 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the[New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. The Visual Turing Test
 
@@ -75,12 +71,16 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the[thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014.
 
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However,[artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reverse Turing Test
 
@@ -92,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes[AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
@@ -99,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -125,24 +125,16 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-customizing-iphone-tones-a-step-by-step-guide/"><u>[New] Customizing iPhone Tones A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-a-quick-dive-into-obs-zoom-fusion-steps/"><u>[New] In 2024, A Quick Dive Into OBS-Zoom Fusion Steps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-your-video-projects-with-superior-recorder-software/"><u>[New] Mastering Your Video Projects with Superior Recorder Software</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-auto-captioned-mastery-enhancing-visual-narratives/"><u>[Updated] Auto-Captioned Mastery Enhancing Visual Narratives</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-speech-reader-feedback-summary/"><u>[Updated] In 2024, Speech Reader Feedback Summary</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-srt-conversion-compendium-for-media-professionals/"><u>2024 Approved SRT Conversion Compendium for Media Professionals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725287005085-dvdmp4/"><u>速度と品質を重視したDVD動画の変換手順集【MP4編成】</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-solving-iphones-itunes-connection-mishaps/"><u>Comprehensive Guide: Solving iPhone's iTunes Connection Mishaps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-video-capture-made-simple-the-top-5-replacements-for-keepvid/"><u>Effortless Video Capture Made Simple: The Top 5 Replacements for KeepVid</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-tips-for-decreasing-the-size-of-mov-videos-efficiently-and-effectively/"><u>Expert Tips for Decreasing the Size of MOV Videos Efficiently and Effectively</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/h265-video-encoderconverter-pour-windows-11-and-macos-le-choix-de-la-qualite-superieure/"><u>H265 Video Encoder/Converter Pour Windows 11 & macOS - Le Choix De La Qualité Supérieure</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-y36i-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo Y36i Without PUK Codes</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-top-10-online-video-editing-software-for-improved-content/"><u>In 2024, Top 10 Online Video Editing Software for Improved Content</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-preserving-your-dvd-library-using-vlc-media-player-inclusive-visuals/"><u>Step-by-Step Guide: Preserving Your DVD Library Using VLC Media Player - Inclusive Visuals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-ersatz-fur-convert2mp3-professionelle-alternativen-zur-mp3-bearbeitung-finden/"><u>Top-Ersatz Für Convert2MP3 - Professionelle Alternativen Zur MP3-Bearbeitung Finden</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-technological-devices-for-savvy-travellers-in-2e24/"><u>Top-Rated Technological Devices for Savvy Travellers in 2E24</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-1182024/"><u>Windows 11対応オススメメディアプレーヤートップ8選：2024年版が保存可能で完全無料</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/winxvideo-artificial-intelligence-instant-download-for-mobile-users-ios-android/"><u>WinxVideo Artificial Intelligence: Instant Download for Mobile Users (iOS, Android)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-securing-youtube-tracks-at-no-cost-with-security-in-mind/"><u>[New] 2024 Approved Securing Youtube Tracks at No Cost, with Security in Mind</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-5-video-recording-software-timelapse-edition/"><u>[New] Best 5 Video Recording Software Timelapse Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-game-changing-tips-master-the-art-of-minecraft-capture-on-a-mac-for-2024/"><u>[New] Game-Changing Tips Master the Art of Minecraft Capture on a Mac for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-subtitle-tactics-for-instagrams-video-feed/"><u>[Updated] 2024 Approved Subtitle Tactics for Instagram's Video Feed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-facilite-transformez-des-fichiers-dts-en-aac-gratuits-avec-movavi-en-ligne/"><u>Conversion Facilite: Transformez Des Fichiers DTS en AAC Gratuits Avec Movavi en Ligne</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-uncharted-visual-narrative-evaluation-and-parallel-proposals/"><u>In 2024, Uncharted Visual Narrative Evaluation & Parallel Proposals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-art-of-editing-gifs-expert-strategies-for-inserting-text-on-animated-images/"><u>Master the Art of Editing GIFs: Expert Strategies for Inserting Text on Animated Images</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nytt-ansikte-nynakteri-discovera-din-flytande-rost-i-ett-frisparkande-video-en-runrig-voice-changer-tutorial/"><u>Nytt Ansikte, Nynäkteri? Discovera Din Flytande Röst I Ett Frisparkande Video - En Runrig Voice Changer Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/techniques-gratuites-en-ligne-pour-obtenir-les-sons-de-votre-video/"><u>Techniques Gratuites en Ligne Pour Obtenir Les Sons De Votre Vidéo</u></a></li>
+<li><a href="https://article-tips.techidaily.com/transitioning-shadows-a-minute-later/"><u>Transitioning Shadows A Minute Later</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/your-instagram-memories-unchained-and-safe/"><u>Your Instagram Memories, Unchained & Safe</u></a></li>
 </ul></div>
 

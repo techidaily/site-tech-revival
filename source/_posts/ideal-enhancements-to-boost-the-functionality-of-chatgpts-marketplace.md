@@ -1,7 +1,7 @@
 ---
 title: Ideal Enhancements to Boost the Functionality of ChatGPT's Marketplace
-date: 2024-12-03T17:12:57.249Z
-updated: 2024-12-08T16:30:53.728Z
+date: 2024-12-11T17:04:11.561Z
+updated: 2024-12-14T17:17:19.684Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/c878f30c184513e5e2ecdd904a42a40c824bea0f8
 ![Snapchat Logo on top of Blurred OpenAI Logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-openai-logo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Snapchat uses the same[large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLM) as ChatGPT. The GPT model is a powerful LLM that composes coherent paragraphs, adopts different writing styles, and uses everyday language. Its output almost seems indistinguishable from human writing.
@@ -38,23 +38,15 @@ thumbnail: https://thmb.techidaily.com/c878f30c184513e5e2ecdd904a42a40c824bea0f8
 
 ![Snapchat My AI Explaining the Details of an Image of an Object](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-recognizing-image-of-object.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Snapchat My AI Explaining the Elements of an Image of a Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/my-ai-recognizing-image-of-person.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
  That said, these chatbots follow different restrictions. My AI generally has fewer rules than ChatGPT—it might perform a broader range of tasks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Conversations Retain the Last 3,000 Words
 
@@ -68,7 +60,15 @@ Close
 
 ![Snapchat My AI Continuing the Roleplay Request to Portray Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-continuing-roleplay-request.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. My AI Can Pull Real-Time Information
 
@@ -81,7 +81,7 @@ Close
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -94,11 +94,11 @@ Close
 
 ![Asking Snapchat About Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-test.jpg)
 
-![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
 
 Close
 
@@ -147,20 +147,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ompact-content-leading-5-services-to-compress-video-urls-for-2024/"><u>[New] Compact Content Leading 5 Services to Compress Video URLs for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-comprehensive-review-top-vehicle-monitoring-devices/"><u>[New] In 2024, Comprehensive Review TOP Vehicle Monitoring Devices</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-top-places-for-free-text-visual-enhancements/"><u>[Updated] In 2024, Top Places for Free Text Visual Enhancements</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/windows-server-03/"><u>信頼性の高いWindows Server #03バックアップソリューション</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-unpacking-and-managing-rar-archives-in-linux/"><u>Comprehensive Guide: Unpacking and Managing .rar Archives in Linux</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-siri-and-popular-apps-with-apples-advanced-ai-capabilities/"><u>Enhancing Siri & Popular Apps with Apple's Advanced AI Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-upgrade-to-windows-11-step-by-step-instructions-and-tips/"><u>Free Upgrade to Windows 11: Step-by-Step Instructions and Tips</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-upgrading-your-mp4s-integrating-premium-srt-sound/"><u>In 2024, Upgrading Your MP4s Integrating Premium SRT Sound</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-stat-in-linux-a-comprehensive-guide/"><u>Mastering 'Stat' In Linux: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/netgear-nighthawk-x10-ad7200-router-unleashing-high-speed-wi-fi-connectivity-in-a-comprehensive-evaluation/"><u>Netgear Nighthawk X10 AD7200 Router: Unleashing High-Speed Wi-Fi Connectivity in a Comprehensive Evaluation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/organizing-success-with-microsoft-word-a-step-by-step-guide-to-crafting-your-own-digital-bullet-journal-for-goal-achievement/"><u>Organizing Success with Microsoft Word: A Step-by-Step Guide to Crafting Your Own Digital Bullet Journal for Goal Achievement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/patching-perfection-microsoft-resolves-issues-in-latest-windows-10-and-11-update-releases/"><u>Patching Perfection: Microsoft Resolves Issues in Latest Windows 10 & 11 Update Releases</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamlessly-integrate-and-use-windows-software-on-your-linux-system-with-our-top-tool-choice/"><u>Seamlessly Integrate and Use Windows Software on Your Linux System with Our Top Tool Choice</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-reactivating-predictive-emoji-on-apple-devices-swiftly/"><u>Troubleshooting Tips: Reactivating Predictive Emoji on Apple Devices Swiftly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/usb-graphics-card-fan-fixing-guide/"><u>USB Graphics Card Fan Fixing Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-discover-the-most-valuable-online-spots-for-free-photographs-for-2024/"><u>[New] Discover the Most Valuable Online Spots for Free Photographs for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nleashing-auditory-brilliance-without-a-mic-in-sight/"><u>[New] Unleashing Auditory Brilliance without a Mic in Sight</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-5-leading-tools-for-crafting-superior-video-titles-and-tags-for-2024/"><u>[Updated] 5 Leading Tools for Crafting Superior Video Titles and Tags for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-free-webm-players-how-to-play-webm-video-files/"><u>2024 Approved Best Free WebM Players How to Play WebM Video Files?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/apex-6-goliaths-large-scale-nlp-masters-revealed/"><u>Apex 6 Goliaths: Large-Scale NLP Masters Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/facing-trouble-with-chatgpt-follow-these-steps-to-check-its-availability-now/"><u>Facing Trouble with ChatGPT? Follow These Steps to Check Its Availability Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-your-workout-tips-for-crafting-superior-chatgpt-queries/"><u>Maximizing Your Workout: Tips for Crafting Superior ChatGPT Queries</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-best-online-strategies-and-tools-for-mastering-prompt-engineering/"><u>The Best Online Strategies and Tools for Mastering Prompt Engineering</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-tecno-camon-30-pro-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Tecno Camon 30 Pro 5G</u></a></li>
 </ul></div>
 

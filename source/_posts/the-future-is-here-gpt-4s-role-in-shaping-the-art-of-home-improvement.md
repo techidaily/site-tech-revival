@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Here: GPT-4's Role in Shaping the Art of Home Improvement"
-date: 2024-12-07T16:20:17.909Z
-updated: 2024-12-08T16:48:15.138Z
+date: 2024-12-09T17:57:54.252Z
+updated: 2024-12-14T18:00:00.665Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
  Furthermore, Read Aloud can speak in 37 different languages but will also try to auto-detect whatever language it's reading.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 Personalized Responses
 
  ChatGPT's Custom Instructions give you greater control over how the AI chatbot responds to your inputs.[ChatGPT's custom instructions can range](https://www.makeuseof.com/best-ways-to-use-chatgpt-custom-instructions/) from in-depth information about your life, business, or otherwise, to simple instructions, such as making sure it only uses imperial measurements or always responds with your name.
@@ -51,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
  That's a small example, but illustrates how you might shape ChatGPT's output towards your daily use, saving you time each day.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 ChatGPT Memory and Temporary Chat
 
  ChatGPT Memory and Temporary Chat are two features launching together, aimed to give ChatGPT better recall—and a way to avoid that recall altogether.
@@ -62,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 [ChatGPT's Memory](https://help.openai.com/en/articles/8590148-memory-faq) allows you to set specific information it should always remember about you. But that's not all. Over time, its memory can improve, learn details about you to add to its memory, and deliver improved accuracy and performance based upon this.
 
 ![openai chatgpt memory options and management panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-chatgpt-memory-options-and-management-panel.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [OpenAI](https://help.openai.com/en/articles/8590148-memory-faq)
 
@@ -76,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Temporary Chat
@@ -86,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 ![chatgpt temporary chat option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-temporary-chat-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [OpenAI](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
@@ -95,21 +91,25 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
  Unfortunately, at the time of writing, Temporary Chat mode is only available to a small number of users, limiting the amount of people using it. However, when it arrives, it'll be a useful tool for those moments you want to ask ChatGPT a question but don't want it linked to your profile forever more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Free Trial Invites
 
  Want to share ChatGPT Plus with your buddies, but they don't have the cash for the subscription? Well, you can use a ChatGPT Plus free trial invite to grant them a 14-day free ChatGPT Plus experience, with access to every feature.
 
  The only real downside to the ChatGPT Plus free trial is that anyone taking it has to sign up for an account using a credit or debit card—which means the card will be charged straight away when the trial ends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 Shared Links
 
  If the person you invite to trial ChatGPT is put off by the credit card sign-up, you could share your ChatGPT conversation with them instead.[ChatGPT's shared links launched in May 2023](https://www.makeuseof.com/what-are-chatgpt-shared-links-how-do-they-work/) and offer a way for ChatGPT users to share conversations outside the confines of the web interface or the smartphone app.
 
 ![chatgpt shared links with share name option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-shared-links-with-share-name-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Anyone with the link can view the ChatGPT conversation. Those with a ChatGPT account can continue the conversation, taking over from you (making it a somewhat collaborative process). Those without an account can just scroll through and see what transpired between you and the AI chatbot.
 
@@ -128,21 +128,24 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-secure-and-compelling-social-media-presentations-through-subtitle-sharing/"><u>[New] In 2024, Secure and Compelling Social Media Presentations Through Subtitle Sharing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools/"><u>[Updated] In 2024, Voice Reinvention with Technology Rankings of 7 Innovative Audio Tools</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-unraveling-youtubes-monetization-shifts-for-2024/"><u>[Updated] Unraveling YouTube's Monetization Shifts for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-driven-language-crafting-analyzing-its-impact-on-employment-stability/"><u>AI-Driven Language Crafting: Analyzing Its Impact on Employment Stability</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-seo-title-for-google-search-get-govee-smart-light-panel-deals-up-to-80-off-this-cyber-weekend-shopping-extravaganza/"><u>Best SEO Title for Google Search: Get Govee Smart Light Panel Deals Up to $80 Off This Cyber Weekend Shopping Extravaganza!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/challenger-googles-gemini-vs-chatgpt/"><u>Challenger: Google's Gemini Vs. ChatGPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-chatgpt-replacements/"><u>Discover the Ultimate List of ChatGPT Replacements</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-troubleshooting-techniques-for-preventing-manor-lords-from-crashing/"><u>Effective Troubleshooting Techniques for Preventing Manor Lords From Crashing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enigma-of-innovation-elons-new-frontier/"><u>Enigma of Innovation: Elon's New Frontier</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-issues-how-to-restore-functionality-of-the-windows-11-taskbar/"><u>Fixing Issues: How to Restore Functionality of the Windows 11 Taskbar</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-start-fresh-erasing-previous-gpt-talks/"><u>How to Start Fresh: Erasing Previous GPT Talks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/probing-tomorrows-shields-the-next-7-tech-trends/"><u>Probing Tomorrow's Shields: The Next 7 Tech Trends</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/safeguard-your-social-networks-exposing-the-rogue-chrome-plugin-mimicking-chatgpt-and-targeting-facebook-logins/"><u>Safeguard Your Social Networks: Exposing the Rogue Chrome Plugin Mimicking ChatGPT & Targeting Facebook Logins</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-superior-search-capabilities-with-perplexity-ai-the-top-ai-assistant-for-google/"><u>Unleash Superior Search Capabilities with Perplexity AI - The Top AI Assistant for Google</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/watch-dvds-on-windows-10-top-10-free-player-software-for-2024/"><u>Watch DVDs on Windows 10 Top 10 Free Player Software for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-poco-c50-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Poco C50 Phone Network-Ready</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/xplore-the-world-of-frames-5-free-youtube-tips-for-you/"><u>[New] Explore the World of Frames 5 Free YouTube Tips for You</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-easy-customization-free-youtube-visual-templates/"><u>[New] In 2024, Easy Customization Free YouTube Visual Templates</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-iphone-podcast-downloading-essentials-a-complete-walkthrough/"><u>[New] IPhone Podcast Downloading Essentials A Complete Walkthrough</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-elevating-your-snapping-game-tips-for-uninterrupted-streaks-for-2024/"><u>[Updated] Elevating Your Snapping Game Tips for Uninterrupted Streaks for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oppo-f23-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-in-the-workplace-differentiating-factors/"><u>ChatGPT in the Workplace: Differentiating Factors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-strategies-to-address-and-correct-stop-error-0xc00000e9-in-microsoft-windows/"><u>Comprehensive Strategies to Address and Correct Stop Error 0xC00000E9 in Microsoft Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-chatgpts-interpreter-6-essential-tasks/"><u>Discovering ChatGPT's Interpreter: 6 Essential Tasks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-advantages-of-real-time-data-usage-by-chatgpt-for-general-users/"><u>Exploring the Advantages of Real-Time Data Usage by ChatGPT for General Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-started-with-openais-newest-offering-the-personalized-gpt-hub-secure-your-spot-today/"><u>Get Started with OpenAI's Newest Offering: The Personalized GPT Hub - Secure Your Spot Today</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-google-pixel-8-pro-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Google Pixel 8 Pro Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/improving-ai-communication-skills-master-these-7-prompting-tactics-for-chatgpt/"><u>Improving AI Communication Skills: Master These 7 Prompting Tactics for ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-open-access-ai-chats-building-your-personal-freedomgpt-app-in-windows/"><u>Mastering Open Access AI Chats: Building Your Personal FreedomGPT App in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/perspectives-of-10-international-tech-innovators-on-machine-cognition/"><u>Perspectives of 10 International Tech Innovators on Machine Cognition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-writing-with-chatgpt-learn-our-top-six-tips-for-inspiration/"><u>Revolutionize Your Writing with ChatGPT: Learn Our Top Six Tips for Inspiration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-speaking-global-using-chatgpt-across-languages/"><u>The Ultimate Guide to Speaking Global: Using ChatGPT Across Languages</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-guide-to-swift-youtube-discussion-management-for-2024/"><u>The Ultimate Guide to Swift Youtube Discussion Management for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-5-dicas-essenciais-para-integrar-imagens-em-sua-producao-de-videos-otimizacao-seo/"><u>Top 5 Dicas Essenciais Para Integrar Imagens Em Sua Produção De Vídeos - Otimização SEO</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
 </ul></div>
 

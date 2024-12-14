@@ -1,7 +1,7 @@
 ---
 title: How to Get the Most of GPT's Browser Betas
-date: 2024-09-11T19:26:25.124Z
-updated: 2024-09-12T19:26:25.124Z
+date: 2024-12-11T16:00:29.037Z
+updated: 2024-12-14T17:42:06.689Z
 tags:
   - chatgpt
   - open-ai
@@ -29,10 +29,7 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 * [Resume by jobbright.ai](https://www.makeuseof.com/custom-gpts-that-make-chat-gpt-better/#resume-by-jobbright-ai)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -45,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
  So, here are the best custom GPTs that actually make ChatGPT a better tool for any situation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 [Diagrams: Show Me](https://chat.openai.com/g/g-5QhhdsfDj-diagrams-show-me)
 
  The Diagrams: Show Me GPT plugin quickly visualizes all kinds of information in diagrams. You can use this add-on to view promotion paths at companies you want to work for, and it’s also handy if you need general flow charts (for example, we asked Diagrams: Show Me to outline the process from freelancing to running an agency).
@@ -52,20 +53,10 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 ![The Diagrams: Show Me Custom GPT in Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-10-49-15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve created an initial prototype, you can make adjustments by giving the GPT new instructions. Alternatively, you can edit the image with code instead if you know how to. You can use Diagrams: Show Me to[optimize productivity with workflow diagrams](https://www.makeuseof.com/optimize-productivity-with-workflow-diagram/) for your personal and work projects.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2 [Canva](https://chat.openai.com/g/g-alKfVrz9K-canva)
 
@@ -83,19 +74,6 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 ![The Presentation Slides Custom GPT offering advice on how to outline a presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-01-04.png)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can ask Presentation Slides to outline your presentation, meaning that you can take what you like and adapt everything in your preferred presentation creator later. Besides organizing information, presentation slides can guide you in designing a layout that fits your project theme.
 
 ![Tips for designing a presentation offered by the Presentation Slides custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-00-54.png)
@@ -109,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
  You can ask Math Solver for help with simple and complex equations. The GPT walks you through how to solve each one and explains the concept. You also get useful related questions to help you continue enhancing your skills.
 
 ![The Math Solver Custom GPT ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-06-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Although Math Solver is good for understanding how to solve mathematical problems, you shouldn’t use it to cheat on your homework or exams. In fact, there are many[ways that you should not use ChatGPT as a student](https://www.makeuseof.com/chatgpt-not-use-student/) —such as relying on the program to write essays for you.
 
@@ -127,23 +109,11 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 ![Budget travel tips provided by the Travel Guide Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-15-08.png)
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 [Scholar GPT](https://chat.openai.com/g/g-kZ0eYXlJe-scholar-gpt)
@@ -152,14 +122,11 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 ![The Scholar GPT plugin analyzing a research paper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-25-26.png)
 
- Scholar GPT can analyze text from reputable websites, including Google Scholar and PubMed. Besides analyzing research papers, you can also ask the tool to give you the latest news in your industry. If you’d prefer to use research websites directly, start by checking out these[expert Google Scholar search tips](https://www.makeuseof.com/google-scholar-search-tips/) .
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Scholar GPT can analyze text from reputable websites, including Google Scholar and PubMed. Besides analyzing research papers, you can also ask the tool to give you the latest news in your industry. If you’d prefer to use research websites directly, start by checking out these[expert Google Scholar search tips](https://www.makeuseof.com/google-scholar-search-tips/) .
 
 ## 7 [Prompt Professor](https://chat.openai.com/g/g-qfoOICq1l-prompt-professor)
 
@@ -170,10 +137,7 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 ![The Prompt Professor custom GPT offering tips and feedback](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-30-32.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You also get tips on how to improve your prompt, which you can then make a note of in the future.
@@ -183,10 +147,7 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 ![Room for improvement offered by the Prompt Professor custom GPT ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-31-26.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8 [Code Tutor](https://chat.openai.com/g/g-HxPrv1p8v-code-tutor)
@@ -194,13 +155,6 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
  Are you new to the world of coding? If so, consider trying the Code Tutor GPT plugin. Code Tutor helps users understand different coding concepts and jargon, and it can also help you become more effective with implementation and planning processes.
 
 ![The Code Tutor Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-36-50.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Code Tutor can also help users with topics they may have for homework. The GPT often asks you to provide further context for every prompt you send, which helps it give you a more accurate answer.
 
@@ -216,25 +170,11 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 ![Gym, Fitness, & Training Planner GPT workout plan created](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-45-08.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10 [Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume)
 
  Are you looking for a new job or to change your career? If so, you’ll find several custom GPTs to help you on your search—including jobbright.ai’s version. When you upload your resume, the GPT will first extract the information from what you send. Then, after confirming that everything is accurate, you’ll get a feedback table with scores and comments on what you did well and could improve. Moreover, you get bulleted tips for enhancing your resume.
 
 ![The Resume by jobbright.ai plugin offering feedback on a resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-53-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Besides analyzing your resume, you can also ask the GPT for jobs related to your skills. If you’re planning a career change, consider checking out these[tools to help you successfully pivot](https://www.makeuseof.com/tools-to-pivot-your-career/) .
 
@@ -253,5 +193,24 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-30-second-guide-to-fast-fortnite-graphics/"><u>[New] 30-Second Guide to Fast Fortnite Graphics</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-simplified-steps-for-cutting-top-sports-videos/"><u>[New] In 2024, Simplified Steps for Cutting Top Sports Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-nubia-red-magic-8s-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Nubia Red Magic 8S Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd-shrinkwindows-1011/"><u>DVD Shrink在Windows 10/11无法运行？探索高效的软件供替代</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/el-salvadors-bitcoin-integration-paves-path-to-americas-singapore-insights-by-vaneck-advisor-and-yl-tech-solutions/"><u>El Salvador's Bitcoin Integration Paves Path to 'Americas Singapore': Insights by VanEck Advisor and YL Tech Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-tips-on-rapid-and-successful-vob-to-mov-file-transformation/"><u>Expert Tips on Rapid & Successful VOB to MOV File Transformation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-convert-hevc-video-files-to-mp4-without-quality-loss-a-comprehensive-guide/"><u>How to Convert HEVC Video Files to MP4 Without Quality Loss: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-vivo-s18-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Vivo S18 Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-quick-advice-preserving-gotomeetings-with-minimal-fuss/"><u>In 2024, Quick Advice Preserving GoToMeetings with Minimal Fuss</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-video-rotation-a-step-by-step-guide-using-windows-media-player/"><u>Mastering Video Rotation: A Step-by-Step Guide Using Windows Media Player</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/official-site-purchase-of-complete-winxvideo-ai-for-free-upgrade/"><u>Official Site Purchase of Complete Winxvideo AI for Free Upgrade</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-windows-10-lenovo-thinks-driver-update/"><u>Optimize Windows 10: Lenovo Thinks Driver Update</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-ranked-apple-device-management-software-seamlessly-shift-images-audio-files-and-clips-from-ios-devices-to-windows-systems-using-winx-mediatrans/"><u>Top-Ranked Apple Device Management Software: Seamlessly Shift Images, Audio Files, and Clips From iOS Devices to Windows Systems Using WinX MediaTrans™</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-solutions-for-apex-legends-leaf-error-2e22-fixes/"><u>Troubleshooting and Solutions for Apex Legends Leaf Error - 2E22 Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-step-by-step-tutorial-burning-discs-for-free-on-windows-11-with-illustrations/"><u>Ultimate Step-by-Step Tutorial: Burning Discs for Free on Windows 11 with Illustrations</u></a></li>
+<li><a href="https://article-helps.techidaily.com/vr-the-future-of-clinical-treatment-for-2024/"><u>VR The Future of Clinical Treatment for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tvdvd-digiarty/"><u>정품 TV/DVD 및 비디오 변환 솔루션 - Digiarty 소프트웨어 제공 회사</u></a></li>
+</ul></div>
 

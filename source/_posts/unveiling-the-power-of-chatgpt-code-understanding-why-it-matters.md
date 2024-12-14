@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Power of ChatGPT Code Understanding: Why It Matters"
-date: 2024-12-07T16:21:22.921Z
-updated: 2024-12-08T17:14:48.837Z
+date: 2024-12-13T16:53:25.875Z
+updated: 2024-12-14T16:15:43.199Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
 
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
 Close
@@ -43,7 +47,7 @@ Close
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Send ChatGPT Prompts With Your Voice
@@ -60,29 +64,25 @@ Close
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
@@ -104,21 +104,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-beneath-the-oceans-veil-tips-for-recording-top-notch-underwater-gopro-videos/"><u>[New] 2024 Approved Beneath the Ocean’s Veil Tips for Recording Top-Notch Underwater GoPro Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-elevate-your-game-with-immediate-skilled-valorant-thumbnails/"><u>[New] In 2024, Elevate Your Game with Immediate, Skilled Valorant Thumbnails</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-stunning-appraisal-and-alternative-suggestions/"><u>[Updated] Stunning Appraisal & Alternative Suggestions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-muse-writing-a-book-of-poems-made-easy/"><u>ChatGPT as Your Muse: Writing a Book of Poems Made Easy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-a-windows-application-journey/"><u>ChatGPT: A Windows Application Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gb-for-a-continuous-video-watched-daily-for-2024/"><u>GB for a Continuous Video Watched Daily for 2024</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-nokia-c110-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia C110 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-subtitled-quickly-converting-from-compressed-files/"><u>In 2024, Subtitled Quickly! Converting From Compressed Files</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-depth-analysis-chatgpt-versus-huggingchat-which-conversational-agent-reigns-supreme/"><u>In-Depth Analysis: ChatGPT versus HuggingChat – Which Conversational Agent Reigns Supreme?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-hardware-evaluations-toms-authoritative-perspective/"><u>In-Depth Hardware Evaluations: Tom's Authoritative Perspective</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pioneers-perspectives-the-next-wave-in-ai/"><u>Pioneers' Perspectives: The Next Wave in AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/superior-ai-collaboration-select-the-best-tools-for-prompts/"><u>Superior AI Collaboration: Select the Best Tools for Prompts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-crafting-personalized-chatgpt-directives/"><u>The Ultimate Guide to Crafting Personalized ChatGPT Directives</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-ipad-add-ons-for-a-superior-experience-expert-reviews-by-zdnet/"><u>The Ultimate Guide to iPad Add-Ons for a Superior Experience - Expert Reviews by ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-ray-tracing-a-comprehensive-guide/"><u>Understanding Ray Tracing: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-the-power-of-speech-interact-with-documents-and-pdfs-using-these-6-advanced-applications/"><u>Unleash the Power of Speech: Interact with Documents & PDFs Using These 6 Advanced Applications</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ssential-youtube-beauty-influencers-10-creators-to-watch/"><u>[New] Essential YouTube Beauty Influencers 10 Creators to Watch</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-discover-the-most-compelling-5-iphone-friendly-podcast-services/"><u>[Updated] Discover the Most Compelling 5 iPhone-Friendly Podcast Services</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-unveiling-the-elite-video-cameras-for-2-point-zero-four-two/"><u>[Updated] In 2024, Unveiling the Elite Video Cameras for 2 Point Zero Four Two</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-incorporating-obs-setting-up-a-countdown-scheduler/"><u>[Updated] Incorporating OBS Setting Up A Countdown Scheduler</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harness-the-full-potential-of-ai-dialogues-chrome-gpt-upgrade/"><u>Harness the Full Potential of AI Dialogues – Chrome GPT Upgrade</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-developers-feel-ai-will-impact-their-workflow/"><u>How Developers Feel AI Will Impact Their Workflow</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-infinix-smart-7-hd-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Infinix Smart 7 HD without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-itel-p55-5g-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Itel P55 5G has been deleted.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/smart-scheduling-made-simple-utilizing-chatgpt-to-optimize-your-day/"><u>Smart Scheduling Made Simple: Utilizing ChatGPT to Optimize Your Day</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-chatgpt-copilot-plugin-uncovering-its-functions-and-uses-in-detail/"><u>The ChatGPT Copilot Plugin: Uncovering Its Functions & Uses in Detail</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-browser-experience-7-essential-chatgpt-extensions-for-optimized-ai-engagement/"><u>Transform Browser Experience: 7 Essential ChatGPT Extensions for Optimized AI Engagement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unpacking-the-mysteries-of-googles-ai-gemini-its-research-focus/"><u>Unpacking the Mysteries of Google's AI Gemini: Its Research Focus</u></a></li>
 </ul></div>
 

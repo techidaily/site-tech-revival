@@ -1,7 +1,7 @@
 ---
 title: "The End of an Era: Why Modern ChatGPT Jailbreaks Fail - Insights and Analysis"
-date: 2024-12-05T16:39:55.831Z
-updated: 2024-12-08T16:30:29.158Z
+date: 2024-12-07T17:07:49.117Z
+updated: 2024-12-14T18:01:53.172Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -63,20 +63,18 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crack-the-code-unearthing-hidden-gems-in-youtubes-archive/"><u>[New] 2024 Approved Crack the Code Unearthing Hidden Gems in YouTube's Archive</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/1728507376844-windows-11-3/"><u>如何在升级到 Windows 11 时保护数据：3 个有效的方法</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/aac-to-wav-conversion-en-online-gratis-movavi/"><u>AAC to WAV Conversion en Online Gratis - Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ais-comedy-chronicles-testing-if-machines-can-spark-laughter/"><u>AI's Comedy Chronicles: Testing if Machines Can Spark Laughter</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-tombstones-decoding-messages-from-the-other-side-in-our-digital-conversations/"><u>Beyond Tombstones: Decoding Messages From the Other Side in Our Digital Conversations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-you-get-fired-for-using-chatgpt-analyzing-10-possible-scenarios/"><u>Can You Get Fired for Using ChatGPT? Analyzing 10 Possible Scenarios</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/convenient-curvature-creation-techniques-in-pixels-for-2024/"><u>Convenient Curvature Creation Techniques in Pixels for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620231712-explore-and-capture-in-style-ranking-the-5-superior-gopro-cameras-on-the-market/"><u>Explore & Capture in Style: Ranking the 5 Superior GoPro Cameras on the Market!</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-increased-speed-in-nitro-noticeable/"><u>Is Increased Speed in Nitro Noticeable?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/next-chapter-openais-advanced-ai-model-gpt-4/"><u>Next Chapter: OpenAI's Advanced AI Model GPT-4</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-resolution-steps-handling-chatgpt-maxed-out-alerts-on-windows-systems/"><u>Quick Resolution Steps: Handling ChatGPT Maxed-Out Alerts on Windows Systems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-myth-of-vanished-iphone-pictures-learn-these-8-recovery-tactics/"><u>The Myth of Vanished iPhone Pictures - Learn These 8 Recovery Tactics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-artificeus-unveiling-the-perils-of-advanced-intelligence/"><u>Understanding Artificeus: Unveiling the Perils of Advanced Intelligence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-impact-of-artificial-intelligence-chatbot-moderation-on-users/"><u>Understanding the Impact of Artificial Intelligence Chatbot Moderation on Users</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-charting-your-course-in-the-realm-of-youtube-shorts/"><u>[New] 2024 Approved Charting Your Course in the Realm of YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-charting-your-youtube-trajectory-essential-tools-from-social-blade/"><u>[New] 2024 Approved Charting Your YouTube Trajectory Essential Tools From Social Blade</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-step-by-step-guide-to-perfecting-slow-motion-on-your-android-device/"><u>[New] In 2024, Step-by-Step Guide to Perfecting Slow Motion on Your Android Device</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ken-burns-method-in-camtasia-9-explained-simply/"><u>[New] In 2024, The Ken Burns Method in Camtasia 9 Explained Simply</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/biography-breakthroughs-101-expert-tips-and-tricks-for-facebook-biographers-for-2024/"><u>Biography Breakthroughs 101 Expert Tips and Tricks for Facebook Biographers for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/celebrity-lawsuit-alert-why-artists-including-sarah-silverman-are-challenging-openai-and-metas-ai-use/"><u>Celebrity Lawsuit Alert: Why Artists Including Sarah Silverman Are Challenging OpenAI and Meta's AI Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/code-master-showdown-comparing-chatgpt-and-geminis-coding-skills/"><u>Code Master Showdown: Comparing ChatGPT and Gemini's Coding Skills</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-x-flip-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo X Flip</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-artificial-intelligence-top-tools-and-resources-amongst-beginner-circles-top-9/"><u>Navigating Artificial Intelligence: Top Tools and Resources Amongst Beginner Circles (Top 9)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-power-of-ai-understanding-what-is-codegpt-and-its-ability-to-code/"><u>The Power of AI: Understanding What Is CodeGPT and Its Ability To Code</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-best-free-video-to-dvd-converters-of-2024-a-comprehensive-guide/"><u>Top 7 Best Free Video-to-DVD Converters of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-your-chatgpt-top-4-causes-of-blocks-and-solutions/"><u>Unlocking Your ChatGPT: Top 4 Causes of Blocks and Solutions</u></a></li>
 </ul></div>
 

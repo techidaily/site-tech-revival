@@ -1,7 +1,7 @@
 ---
 title: Crafting Compelling Proposal Docs with ChatGPT - A Step-by-Step Guide
-date: 2024-09-11T19:25:16.257Z
-updated: 2024-09-12T19:25:16.257Z
+date: 2024-12-09T16:14:37.095Z
+updated: 2024-12-14T17:39:33.341Z
 tags:
   - chatgpt
   - open-ai
@@ -34,16 +34,7 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 ![Asking ChatGPT What Tropes to Avoid in a Crime Thriller Novel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-what-tropes-to-avoid-crime-thriller-novel.jpg)
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Simply ask "what is the best narrative structure for a crime thriller". Or, if there's something in your book that necessitates specialized knowledge, like how an ice skating tournament works, ask exactly that and ChatGPT will generate the relevant information in a summary.
@@ -58,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
 ![Asking ChatGPT to Check the Originality of Novel Concept](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-checking-the-originality-of-story-idea.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your story will most likely draw upon a widely recognized framework of narratives in literature and film, such as an alien invasion or a money heist. So you need to be very specific with your prompt to ensure that ChatGPT has every element of your story to check its originality.
 
 ## 3\. Generate an Organized Outline
@@ -68,19 +63,6 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
  Editing the outline is critical; add any details ChatGPT missed, remove things that you don't like, or ask the chatbot to generate a new outline altogether. Now you've got something to work with, and it didn't take all day to put together!
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Flesh Out the Characters and World
 
  If you don't have a clear vision of your characters or the world they're in, then you won't be able to paint a picture for your readers.
@@ -89,22 +71,23 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
 ![Asking ChatGPT to Elaborate on the World of Story Idea](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-elaborating-on-world-for-novel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The same goes for world. Don't know how to elaborate on "a dark forest"? Ask ChatGPT.
 
  You can add the results to your outline or in separate notes, but note it down somehow. Always refer back to these notes as you are writing.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Develop Your Plot
 
  Our foremost suggestion is to focus on character arc. Most readers tend to stay engaged when they genuinely care about the characters and their journey, even if the plot isn't phenomenal. But that doesn't mean that you should skimp on plot development.
 
  Whether you're struggling to go from scene to scene or need ideas for the overarching progression of your story, ChatGPT can help. You can even ask it for unique plot twist ideas if you want to steer clear of clichés.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Ask for Paraphrases and Synonyms
 
@@ -115,28 +98,12 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 ![Asking ChatGPT to Paraphrase My Own Written Work for Novel Draft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-paraphrasing-options-of-novel-scene.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Ask ChatGPT to paraphrase what you wrote. Don't copy-paste the results as it won't be able to capture the undertone of your story, but you might stumble upon better words to convey it.
 
  It might be worth including "show, don't tell" at the beginning of your prompt so you can get into the habit of creating an immersive story for your readers.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Check Your Grammar
 
@@ -154,25 +121,11 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
  If you have no idea where to begin, jot down the main themes of your story and ask ChatGPT to generate title ideas based on that. You can also do this for individual chapter names.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Generate Book Cover Art Ideas
 
  In addition to the title, the visuals of your book also play a crucial role in captivating readers. If you're hiring a photographer or graphic designer, it's essential to convey your artistic vision to them.
 
  While ChatGPT can't generate images, you can ask for some inspiration. Of course, you could always[use an AI art generator](https://www.makeuseof.com/ai-text-to-art-generators/) to visually illustrate your concept to your designer. Or, if you feel confident in your artistic skills, you could DIY it and[make your own book cover](https://www.makeuseof.com/how-to-design-make-book-cover/) .
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Harness the Power of ChatGPT for Your Novel
 
@@ -193,5 +146,21 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/2024-approved-a-compreran-analysis-asus-proart-pa-329qs-innovations-in-4k-monitoring/"><u>2024 Approved A Compreran Analysis Asus ProArt PA 329Q’s Innovations in 4K Monitoring</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4wmv-windows-10mac/"><u>無損失MP4からWMVへの変換手順 - Windows 10とMacユーザーに最適！</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/compresser-des-videos-de-grand-format-pour-whatsapp-avec-une-perte-minimale-de-qualite-decouvrez-le-guide-ultime/"><u>Compresser Des Videos De Grand Format Pour WhatsApp Avec Une Perte Minimale De Qualité : Découvrez Le Guide Ultime</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-dvd-management-with-winxdvd-authorized-software-for-advanced-dvd-ripping-intelligent-video-upgrades-and-seamless-iphone-data-movement/"><u>Expert DVD Management with WinXDVD: Authorized Software for Advanced DVD Ripping, Intelligent Video Upgrades, and Seamless iPhone Data Movement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expertentech-supportzentrum-fur-winx-dvd-ripper-und-videokonvertierungssoftware/"><u>Expertentech Supportzentrum Für WinX DVD-Ripper Und Videokonvertierungssoftware</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-gt-neo-5-se-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme GT Neo 5 SE to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-optimal-flight-the-lipo-selection-saga/"><u>In 2024, Unlocking Optimal Flight The LiPo Selection Saga</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-hdrs-impact-on-improved-video-workflow/"><u>In 2024, Unveiling HDR's Impact on Improved Video Workflow</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/metodos-mas-eficaces-para-minimizar-tamanos-de-archivos-video-para-correos-electronicos/"><u>Métodos Más Eficaces Para Minimizar Tamaños De Archivos Video Para Correos Electrónicos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mingda-magician-pro2-assessment-enormous-and-silent-print-output/"><u>Mingda Magician Pro2 Assessment: Enormous and Silent Print Output</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/top-ten-clandestine-corrections-for-artists-for-2024/"><u>Top Ten Clandestine Corrections for Artists for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-windows-movie-maker-downloading/"><u>Ultimate Guide Windows Movie Maker Downloading</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winx-mediatrans-the-ultimate-iphone-and-ipad-photo-music-video-manager-for-seamless-pc-to-mobile-transfer/"><u>WinX MediaTrans™: The Ultimate iPhone & iPad Photo Music Video Manager for Seamless PC to Mobile Transfer</u></a></li>
+</ul></div>
 

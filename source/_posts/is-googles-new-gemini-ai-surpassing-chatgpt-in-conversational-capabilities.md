@@ -1,7 +1,7 @@
 ---
 title: Is Google's New Gemini AI Surpassing ChatGPT in Conversational Capabilities?
-date: 2024-12-07T16:43:45.062Z
-updated: 2024-12-08T16:18:03.074Z
+date: 2024-12-07T16:37:12.209Z
+updated: 2024-12-14T17:24:15.374Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 * [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -43,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
@@ -60,13 +64,13 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -77,11 +81,7 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -107,18 +107,17 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-templates-transformed-a-visual-guide-to-logo-mastery/"><u>[Updated] In 2024, Templates Transformed A Visual Guide to Logo Mastery</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1726029975854-youtube/"><u>「YouTubeのショート動画」どうやって鑑賞し、記憶に残るように保管する？</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725285058936-windows-11/"><u>解決 Windows 11 安裝缺失備份資料的常見問題 - 關鍵指引</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5pya6ygp44gq5yuv55s744oa44km44oz44ot44o844oj44oe44o844or44go5lplusd5a2y44og44kv44ol44od44kv44ks44gu57s55lul/"><u>最適な動画ダウンロードツールと保存テクニックをご紹介</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-on-transferringcopying-dvds-as-iso-images-and-making-secure-backups-with-winx-dvd-software-pro/"><u>Comprehensive Tutorial on Transferring/Copying DVDs as ISO Images and Making Secure Backups with WinX DVD Software Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/digiarty-software-official-winx-dvd-support-site/"><u>Digiarty Software Official WinX DVD Support Site</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ensuring-anonymity-techniques-to-stop-chatgpt-from-memorizing-your-talks/"><u>Ensuring Anonymity: Techniques to Stop ChatGPT From Memorizing Your Talks</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagrams-best-practices-for-sensational-video-loops/"><u>In 2024, Instagram's Best Practices for Sensational Video Loops</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-potential-tubebuddy-and-channel-mastery/"><u>In 2024, Unlocking Potential TubeBuddy & Channel Mastery</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/leading-iphone-contact-restoration-tools-get-your-deleted-contacts-back/"><u>Leading iPhone Contact Restoration Tools: Get Your Deleted Contacts Back</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725288808169-mp4/"><u>MP4形式による変換、保存、ダウウンロード - 手順ガイドとコツの詰まった全集</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/musicfmpcanditunes/"><u>MusicFM曲をPCにダウンロード&アップロードiTunesにインポート可能</u></a></li>
-<li><a href="https://extra-support.techidaily.com/securing-the-best-presentation-of-subtitles-through-srt-uploads-for-2024/"><u>Securing the Best Presentation of Subtitles Through SRT Uploads for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-26-low-cost-strategies-capture-webinars-without-spending-money-for-2024/"><u>[Updated] 26 Low-Cost Strategies Capture Webinars Without Spending Money for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-top-8-hubs-for-3d-graffiti-typefaces-for-2024/"><u>[Updated] Top 8 Hubs for 3D Graffiti Typefaces for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-mobileflacwav/"><u>「Movavi Mobileで簡単にFLACをWAVにする完全チュートリアル」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726225734458-wavflac-movavi/"><u>直接瀏覽器中無限制地將WAV文件轉化成FLAC - Movavi流動轉換器</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-facile-des-photos-raw-vers-jpeg-avec-le-convertisseur-gratuit-de-movavi/"><u>Conversion Facile Des Photos RAW Vers JPEG Avec Le Convertisseur Gratuit De Movavi</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-not-responding-get-back-to-editing-with-these-fixes-for-2024/"><u>FCPX Not Responding? Get Back to Editing with These Fixes for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-video-converter-converteer-vob-naar-3gp-online-met-movavi/"><u>Gratis VIDEO-CONVERTER: Converteer VOB Naar 3GP Online Met Movavi</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-motorola-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Motorola Without PUK Codes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-apple-iphone-8-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on Apple iPhone 8 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-rpcrt4dll-file-missing-a-comprehensive-guide/"><u>Resolving RPCRT4.DLL File Missing: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-changing-video-formats-using-leading-web-based-tools/"><u>Step-by-Step Tutorial on Changing Video Formats Using Leading Web-Based Tools</u></a></li>
 </ul></div>
 

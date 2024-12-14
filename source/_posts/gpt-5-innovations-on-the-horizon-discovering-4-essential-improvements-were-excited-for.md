@@ -1,7 +1,7 @@
 ---
 title: "GPT-5 Innovations on the Horizon: Discovering 4 Essential Improvements We're Excited For"
-date: 2024-12-07T16:09:02.019Z
-updated: 2024-12-08T16:37:03.371Z
+date: 2024-12-11T16:14:29.403Z
+updated: 2024-12-14T17:52:15.940Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI-Powered Bing Comes to Mobile
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Skype Gets AI Features
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -101,18 +101,22 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-google-account-integration-for-private-youtube-video-sharing/"><u>[New] Google Account Integration for Private YouTube Video Sharing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-master-class-in-laptop-screenrec-software-use/"><u>[Updated] Master Class in Laptop ScreenRec Software Use</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-gaming-monitors-to-perfect-ps5-and-xbox-experience/"><u>2024 Approved Top 5 Gaming Monitors to Perfect PS5 and Xbox Experience</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-xr-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone XR? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-paperclip-conundrum-insights-into-ai-development-and-ethics/"><u>Decoding the Paperclip Conundrum: Insights Into AI Development and Ethics</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/effortless-rearrangement-of-your-personalized-lists/"><u>Effortless Rearrangement of Your Personalized Lists</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fast-track-to-using-microsoft-copilot-with-your-macos-devices/"><u>Fast Track to Using Microsoft Copilot with Your macOS Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/groundbreaking-release-openai-unveils-innovative-gpt-4-ai/"><u>Groundbreaking Release: OpenAI Unveils Innovative GPT-4 AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/identifying-bingchatgpt-token-fraud-a-guide-to-recognizing-and-protecting-yourself-from-cryptocurrency-deception/"><u>Identifying BingChatGPT Token Fraud: A Guide to Recognizing & Protecting Yourself From Cryptocurrency Deception</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-high-end-vision-booster-convert-with-clarity/"><u>In 2024, High-End Vision Booster Convert with Clarity</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-11-pro-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 11 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-personal-photo-intellectual-property/"><u>Navigating Personal Photo Intellectual Property</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-phenomenon-of-ai-chatbots-an-insight-into-their-popularity-surge/"><u>The Phenomenon of AI Chatbots: An Insight Into Their Popularity Surge</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-freebuy-one-lut-bundle-for-canon-pros/"><u>[New] Free/Buy-One-LUT Bundle for Canon Pros</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-techniques-for-high-quality-xbox-game-recordings-for-2024/"><u>[New] Techniques for High-Quality Xbox Game Recordings for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-celebrated-colours-top-instagram-filters/"><u>[Updated] 2024 Approved Celebrated Colours Top Instagram Filters</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-invest-in-insta-success-the-top-earners-playbook/"><u>[Updated] In 2024, Invest in Insta Success The Top Earners' Playbook</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-blue-band-promise-made-easy-snapping-strategies-for-2024/"><u>[Updated] The Blue Band Promise Made Easy Snapping Strategies for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mirth-makers-zombie-fashionistas/"><u>2024 Approved Mirth Makers Zombie Fashionistas</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/beide-ansatze-zur-ubertragung-und-schutz-neuer-daten-auf-einen-externen-speicherplatz/"><u>Beide Ansätze Zur Übertragung Und Schutz Neuer Daten Auf Einen Externen Speicherplatz</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-babbage-pioneering-ai-assessment-in-the-new-era/"><u>Beyond Babbage: Pioneering AI Assessment in the New Era</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-boundaries-top-8-ai-trends/"><u>Beyond Boundaries: Top 8 AI Trends</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-these-6-cost-free-alternatives-to-openais-sora-ai-technology/"><u>Discover These 6 Cost-Free Alternatives to OpenAI's Sora AI Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-data-to-decisions-the-journey-of-ai-through-transfer-learning/"><u>From Data to Decisions: The Journey of AI Through Transfer Learning</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-proficient-is-chatgpt-in-addressing-arithmetic-and-algebra-queries/"><u>How Proficient Is ChatGPT in Addressing Arithmetic and Algebra Queries?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-creative-thinking-generating-topics-using-mind-maps-and-chatgpt/"><u>Mastering Creative Thinking: Generating Topics Using Mind Maps & ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-setup-for-an-unrestricted-conversational-ai-hosting-freedomgpt-on-microsofts-os/"><u>Step-by-Step Setup for an Unrestricted Conversational AI: Hosting FreedomGPT on Microsoft's OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-effective-gpt-3-prompts-that-help-you-combat-online-interruptions/"><u>Top 8 Effective GPT-3 Prompts That Help You Combat Online Interruptions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-teachers-should-welcome-ai-in-the-classroom-discover-eight-compelling-reasons/"><u>Why Teachers Should Welcome AI in the Classroom: Discover Eight Compelling Reasons</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating NLP Titans: Understanding the GPT-BERT Chasm"
-date: 2024-09-11T19:28:06.712Z
-updated: 2024-09-12T19:28:06.712Z
+date: 2024-12-10T18:08:35.378Z
+updated: 2024-12-14T17:41:18.829Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,7 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
  OpenAI's advanced chatbot may have reinvigorated the public's interest in artificial intelligence, but few have seriously contemplated the potential security risks associated with this product.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT: Security Threats and Issues
@@ -37,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
  This just underscores how important it is to[limit what you share with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/) , which collects a staggering amount of data by default. Tech behemoth Samsung learned this the hard way, when a group of employees who had been using the chatbot as an assistant accidentally leaked confidential information to it.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT a Threat to Your Privacy?
@@ -48,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
 ![ChatGPT logo on green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-threat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Security and privacy are not one and the same](https://www.makeuseof.com/privacy-anonymity-security-mean/) , but they are closely related and often intersect. If ChatGPT is a security threat, then it is also a threat to privacy, and vice versa. But what does this mean in more practical terms? What are ChatGPT's security and privacy policies like?
@@ -61,10 +52,7 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
  In any case, you should be careful when using ChatGPT, especially[if you use it for work](https://www.makeuseof.com/things-you-can-do-with-chatgpt) , or to process sensitive information. As a general rule of thumb, you should not share with the bot what you wouldn't like the public to know.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Addressing the Security Risks Associated With ChatGPT
@@ -76,10 +64,7 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Raising Awareness Is Key
@@ -101,5 +86,24 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-barebones-calm-music-selection/"><u>[New] In 2024, Barebones Calm Music Selection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-framemorph-editor/"><u>[New] In 2024, FrameMorph Editor</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-enhanced-chromium-top-tools-ranked-by-productivity-boosts/"><u>AI-Enhanced Chromium: Top Tools Ranked by Productivity Boosts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/analyzing-if-chatgpt-borrows-or-generates-unique-text-from-its-database-of-knowledge/"><u>Analyzing if ChatGPT Borrows or Generates Unique Text From Its Database of Knowledge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-chatgpt-extensions-vulnerable-to-threats/"><u>Are ChatGPT Extensions Vulnerable to Threats?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/could-generative-artificial-intelligence-become-the-next-big-player-in-manufacturing-deception-online/"><u>Could Generative Artificial Intelligence Become the Next Big Player in Manufacturing Deception Online?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-how-chatgpt-boosts-your-linkedin-job-search-top-10-strategies/"><u>Discover How ChatGPT Boosts Your LinkedIn Job Search: Top 10 Strategies</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/excluding-specific-filesfolders-from-windows-defender-scans-a-step-by-step-guide-tips-and-tricks-with-yl-computing/"><u>Excluding Specific Files/Folders From Windows Defender Scans: A Step-by-Step Guide - Tips & Tricks with YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gptclosedqs-reopening-schedule-pursuit/"><u>GPTClosedQs: Reopening Schedule Pursuit</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-logitech-g-hub-not-responding-errors-for-windows-users/"><u>How to Resolve 'Logitech G Hub Not Responding' Errors for Windows Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-nokia-105-classic-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Nokia 105 Classic FRP</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/install-open-source-gpt-clone-for-free-on-your-windows-machine/"><u>Install Open Source GPT Clone for Free on Your Windows Machine</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/navigating-file-transfers-from-android-to-apple-devices-for-2024/"><u>Navigating File Transfers From Android to Apple Devices for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pioneering-conversations-is-claude-the-new-leader/"><u>Pioneering Conversations: Is Claude the New Leader?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722902338124-slash-your-spending-6-unbeatable-online-deal-destinations-revealed/"><u>Slash Your Spending: 6 Unbeatable Online Deal Destinations Revealed!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-tipping-point-for-ai-dialogue-which-leads-the-way/"><u>The Tipping Point for AI Dialogue: Which Leads the Way?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-bringing-your-sony-camcorder-videos-to-life-advanced-editing-techniques-for-2024/"><u>Updated Bringing Your Sony Camcorder Videos to Life Advanced Editing Techniques for 2024</u></a></li>
+</ul></div>
 

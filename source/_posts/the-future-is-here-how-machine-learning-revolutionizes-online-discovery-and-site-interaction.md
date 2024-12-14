@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Here: How Machine Learning Revolutionizes Online Discovery and Site Interaction"
-date: 2024-12-07T16:13:29.449Z
-updated: 2024-12-08T16:27:15.173Z
+date: 2024-12-07T16:06:45.485Z
+updated: 2024-12-14T17:00:10.046Z
 tags:
   - chatgpt
   - open-ai
@@ -40,13 +40,13 @@ It was also stated in the same report that:
 
  It seems the continued adoption and development of AI will pose a threat to our cybersecurity, though the degree to which it affects us is yet to be seen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Increased Digital Supply Chain Attacks
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
 
@@ -64,13 +64,13 @@ It was also stated in the same report that:
 
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Further Exploit of EV Security Systems
 
 ![close up shot of electric car charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ev-charging-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Gone are the days when a car was just a mechanical vehicle with a radio. Now, we can use Bluetooth, Wi-Fi, and even NFC in our cars. These wireless connections, along with a reliance on software, have opened the door for cybercriminals.
 
@@ -93,12 +93,16 @@ It was also stated in the same report that:
  Because of this growing threat, smart home and IoT security is expected to see an improvement throughout 2024\. Providing patches for vulnerabilities, offering more security features (such as encryption and two-factor authentication), and conducting regular code audits can all help to fend of cyberattacks aimed towards IoT devices and smart homes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Further Exploit of Cloud Platforms
 
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.
 
@@ -107,7 +111,7 @@ It was also stated in the same report that:
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Continued Topical Email Scams
@@ -119,10 +123,6 @@ It was also stated in the same report that:
  For instance, a scammer may email a potential victim claiming to be a representative for a charity. They provide a link to a donation page so that the recipient can provide some money for the cause. But in reality, the charity is either make-believe, or the sender is impersonating an employee from a well known charitable organization. The scammer may be looking for a one-off payment, but they could also be providing a link to a phishing site designed to steal the victim's payment details. Either way, the recipient ends up losing out.
 
  As we continue to see more conflicts, tragedies, and scandals arise, there's no doubt that cybercriminals will continue to try and profit from other people's hardships.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Each Year Brings New Cybersecurity Threats
 
@@ -143,22 +143,17 @@ It was also stated in the same report that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-organizing-your-skype-conversations-windowsmac-edition/"><u>[New] 2024 Approved Organizing Your Skype Conversations Windows/Mac Edition</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-10-kid-friendly-drone-recommendations/"><u>[New] In 2024, 10 Kid-Friendly Drone Recommendations</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-craft-your-fortune-terrarias-best-map-list-for-2024/"><u>[Updated] Craft Your Fortune Terraria's Best Map List for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-discreetly-conceal-identity-photo-edit-tip/"><u>[Updated] Discreetly Conceal Identity Photo Edit Tip</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-masters-list-of-affordable-and-premium-win-art-tools/"><u>2024 Approved Master's List of Affordable & Premium Win Art Tools</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/aspect-ratio-preferences-on-facebook-vids-for-2024/"><u>Aspect Ratio Preferences on Facebook Vids for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/file-logistics-unlocked-five-streamlined-techniques-for-computer-upload/"><u>File Logistics Unlocked Five Streamlined Techniques for Computer Upload</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-k11x-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo K11x to iPad | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-nightshade-protocols-for-safekeeping-art-against-ai/"><u>Navigating Nightshade Protocols for Safekeeping Art Against AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-isolation-with-chatgpt-a-comprehensive-guide/"><u>Overcoming Isolation with ChatGPT: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/playful-symbols-or-financial-sense/"><u>Playful Symbols or Financial Sense?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/side-gigs-with-ai-is-chagpt-the-future-of-freelancing/"><u>Side Gigs with AI - Is ChaGPT the Future of Freelancing?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-leap-forward-in-ai-understanding-the-five-principal-differences-between-gpt-4-and-gpt-35/"><u>The Leap Forward in AI: Understanding the Five Principal Differences Between GPT-4 & GPT-3.5</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-5-key-factors-for-businesses-prohibiting-chatgpt-access/"><u>Understanding the 5 Key Factors for Businesses Prohibiting ChatGPT Access</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-top-5-most-effective-ai-prompt-designers-to-boost-your-tools-capabilities/"><u>Unveiling the Top 5 Most Effective AI Prompt Designers to Boost Your Tool's Capabilities</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/virtual-masterclass-for-aspiring-filmmakers-on-youtube-for-2024/"><u>Virtual Masterclass for Aspiring Filmmakers on YouTube for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-the-chatgpt-desktop-application-outshines-its-online-counterpart/"><u>Why the ChatGPT Desktop Application Outshines Its Online Counterpart</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-insta-photo-and-video-reposts/"><u>[Updated] 2024 Approved Mastering Insta Photo & Video Reposts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-top-tweet-talent-social-medias-10-gems/"><u>[Updated] Top Tweet Talent Social Media’s 10 Gems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-motorola-moto-g04-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Motorola Moto G04 Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/full-spectrum-review-google-podcasts-app-explained-for-2024/"><u>Full Spectrum Review Google Podcasts App Explained for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-google-pixel-7a-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Google Pixel 7a</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-tecno-camon-30-pro-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Tecno Camon 30 Pro 5G Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-solutions-to-restore-sound-on-your-ts-video-files/"><u>Quick Solutions to Restore Sound on Your .TS Video Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reach-out-to-us-connecting-and-assistance-options/"><u>Reach Out to Us: Connecting & Assistance Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/samsung-smart-tvdvd/"><u>Samsung Smart TVのDVD再生ガイド：最新機種対応方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-m2ts-video-playback-on-windows-discover-how-to-install-essential-codecs-effortlessly/"><u>Seamless M2TS Video Playback on Windows: Discover How to Install Essential Codecs Effortlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamlessly-transform-xm-tracks-into-high-quality-mp3s-using-leading-xm-convertors/"><u>Seamlessly Transform XM Tracks Into High-Quality MP3s Using Leading XM Convertors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-an-inactive-iphoneipad-a-step-by-step-guide/"><u>Solving an Inactive iPhone/iPad: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

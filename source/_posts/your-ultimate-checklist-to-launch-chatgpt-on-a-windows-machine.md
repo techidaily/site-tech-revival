@@ -1,7 +1,7 @@
 ---
 title: Your Ultimate Checklist to Launch ChatGPT on a Windows Machine
-date: 2024-12-02T16:02:00.619Z
-updated: 2024-12-08T16:48:10.343Z
+date: 2024-12-13T17:21:19.182Z
+updated: 2024-12-14T17:20:45.565Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What You Need to Speak to ChatGPT
 
  ChatGPT's Whisper integration allows you to use your voice to speak with ChatGPT instead of typing. The beauty of this lies in the fact that you can speed up your prompts instead of typing long and descriptive sentences.
@@ -37,18 +33,26 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  If you're on a Windows PC, you'll need to rely on third-party workarounds like[Whisper Desktop to turn your voice to text in real time](https://www.makeuseof.com/windows-whisper-desktop-guide/) .
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Send ChatGPT Prompts With Your Voice
 
@@ -64,7 +68,7 @@ Close
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
@@ -74,16 +78,12 @@ Close
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
 
@@ -104,22 +104,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-crafting-compelling-game-replays-a-detailed-guide-for-sony-playstation-4/"><u>[New] 2024 Approved Crafting Compelling Game Replays A Detailed Guide for Sony PlayStation 4</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-essential-knowledge-zooming-into-clustered-rooms/"><u>[New] 2024 Approved Essential Knowledge Zooming Into Clustered Rooms</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-enhance-videos-on-vimeo-with-top-video-editors/"><u>[Updated] In 2024, Enhance Videos on Vimeo with Top Video Editors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-ranked-affordable-video-players-and-streaming-services-pc-and-mobile/"><u>Best-Ranked Affordable Video Players and Streaming Services (PC & Mobile)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-guide-discovering-every-image-on-your-windows-11-computer/"><u>Complete Guide: Discovering Every Image on Your Windows 11 Computer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/connecting-your-ps5-dualsense-wireless-controllers-with-windows-10-a-step-by-step-guide/"><u>Connecting Your PS5 DualSense Wireless Controllers with Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-a-multitude-of-authentic-mac-gaming-titles-across-steam-gog-and-epic-a-guide-to-finding-them/"><u>Discover a Multitude of Authentic Mac Gaming Titles Across Steam, GOG & Epic - A Guide to Finding Them</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-the-invisible-step-by-step-instructions-for-finding-and-displaying-hidden-files-in-macos/"><u>Discovering the Invisible: Step-by-Step Instructions for Finding and Displaying Hidden Files in macOS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-windows-11-at-no-cost-a-comprehensive-guide/"><u>Download Windows 11 at No Cost: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/embracing-the-appeal-my-journey-through-apples-seamless-ecosystem/"><u>Embracing the Appeal: My Journey Through Apple's Seamless Ecosystem</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhanced-integration-how-chromebook-compatibility-with-microsoft-office-and-onedrive-has-improved/"><u>Enhanced Integration: How Chromebook Compatibility with Microsoft Office & OneDrive Has Improved</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhanced-soundmastery-microsofts-clipchamp-boasts-improved-audio-editing-features/"><u>Enhanced Soundmastery: Microsoft's Clipchamp Boasts Improved Audio Editing Features</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/hace-un-mes-hace-un-dia-un-curso-semanal-en-espanol/"><u>Hace Un Mes, Hace Un Dia: Un Curso Semanal en Español</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oppo-find-n3-flip-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Oppo Find N3 Flip Without PUK Codes</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-rdr2-memory-issues-by-boosting-page-file-a-quick-guide/"><u>Resolve RDR2 Memory Issues by Boosting Page File - A Quick Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-realme-12plus-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Realme 12+ 5G Phone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-beginners-pathway-accelerating-snapchat-video-streams-for-2024/"><u>[New] The Beginner's Pathway Accelerating Snapchat Video Streams for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-enhancing-remote-collaboration-with-ease-mastering-skype-screen-share-capabilities/"><u>[Updated] 2024 Approved Enhancing Remote Collaboration with Ease Mastering Skype Screen-Share Capabilities</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mastering-the-art-of-live-image-capturing-on-screens/"><u>2024 Approved Mastering the Art of Live Image Capturing on Screens</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-safety-of-user-conversations/"><u>ChatGPT: Safety of User Conversations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/clade-to-victory-beating-chatgpt-in-the-ai-arena/"><u>Clade to Victory: Beating ChatGPT in the AI Arena</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/connect-with-artificial-intelligence-mastering-access-through-quora-for-cutting-edge-chatbots-and-llms/"><u>Connect with Artificial Intelligence: Mastering Access Through Quora for Cutting-Edge Chatbots and LLMs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/envisioning-the-next-leap-in-ai-desired-innovations-for-gpt-5/"><u>Envisioning the Next Leap in AI: Desired Innovations for GPT-5</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-dream-to-display-turning-ideas-into-ai-images/"><u>From Dream to Display: Turning Ideas Into AI Images</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-the-integration-of-chatgpt-and-whisper-apis-transforms-business-potential/"><u>How the Integration of ChatGPT & Whisper APIs Transforms Business Potential</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-harness-the-power-of-chatgpt-on-macos-systems/"><u>How to Harness the Power of ChatGPT on macOS Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-honor-magic5-ultimate-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Honor Magic5 Ultimate Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-mastering-creativity-top-10-yt-reaction-hacks/"><u>In 2024, Mastering Creativity Top 10 YT Reaction Hacks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-snapcraft-universe-top-8-photo-connector/"><u>In 2024, SnapCraft Universe Top 8 Photo Connector</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-v29-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo V29 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/masterhub-by-cooler-master-unveiling-a-revolutionary-modular-control-panel-rivaling-stream-deck-releases-this-summer/"><u>MasterHUB by Cooler Master: Unveiling a Revolutionary Modular Control Panel - Rivaling Stream Deck, Releases This Summer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-new-horizons-the-7-pivotal-ways-ai-will-shape-employment-trends/"><u>Navigating New Horizons: The 7 Pivotal Ways AI Will Shape Employment Trends</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-benefits-of-using-the-claude-ai-over-chatgpt-an-in-depth-comparison/"><u>Top 4 Benefits of Using the Claude AI over ChatGPT: An In-Depth Comparison</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-free-and-fantastic-top-10-webm-video-editors/"><u>Updated 2024 Approved Free and Fantastic Top 10 WebM Video Editors</u></a></li>
 </ul></div>
 

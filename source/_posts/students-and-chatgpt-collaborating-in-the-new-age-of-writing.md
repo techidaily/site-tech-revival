@@ -1,7 +1,7 @@
 ---
 title: "Students and ChatGPT: Collaborating in the New Age of Writing"
-date: 2024-12-01T16:48:52.955Z
-updated: 2024-12-08T16:43:36.600Z
+date: 2024-12-09T16:12:21.089Z
+updated: 2024-12-14T16:08:09.534Z
 tags:
   - chatgpt
   - open-ai
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 
  Despite these nuances, ChatGPT and Bing execute similar functions. With the correct prompts, they could write essays, answer general knowledge queries, recap books, and scrutinize arguments, among other tasks. Just expect varied responses based on their trained datasets.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Conversational Language
 
  ChatGPT and Bing both use the GPT model. This advanced natural language processing (NLP) system responds to prompts with human-like text. It answers follow-up questions, analyzes problems, and challenges non-factual statements.
@@ -46,19 +42,19 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 
 ![Having a Casual, Normal Conversation With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-normal-conversation.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the other hand,[Bing AI uses GPT-4](https://blogs.bing.com/search/march%5F2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4) , an iteration of ChatGPT’s language model. Its output sounds casual and genuine.
 
 ![Generating Creative Responses from Microsoft Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-bing-creative-responses.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Currently, you can only[access GPT-4 on ChatGPT](https://www.makeuseof.com/how-to-use-gpt4/) by upgrading to ChatGPT Plus for $20 a month.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Data Accuracy
 
@@ -66,19 +62,19 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 
 ![Asking ChatGPT About Its Launch Date](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-making-precise-answers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Whereas Bing AI’s advanced language model and integrated search engine produce more reliable, precise data. Unlike ChatGPT, Microsoft didn’t train Bing on limited datasets. Instead, it uses its search engine to pull timely, relevant information about world events and general knowledge questions.
 
 ![Asking Bing AI About ChatGPT Launch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-giving-precise-dates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’s also worth noting that Bing's AI cites sources. Neither platform guarantees 100% accuracy, but knowing which resources to double-check streamlines fact-checking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Mathematical Precision
 
@@ -90,17 +86,9 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 
 ![ChatGPT Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solving-physics-questions.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Bing AI answers the same physics question correctly.
 
 ![Bing AI Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bing-ai-solving-physics-question.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Security Measures
 
@@ -113,6 +101,10 @@ Bing AI answers the same physics question correctly.
  Bing's AI bot faces similar cybersecurity risks. It combats them by enforcing stricter limitations, reducing the platform’s susceptibility to jailbreaking. Conversations get terminated if you mention anything unusual.
 
 ![Bing AI Ends Conversation for Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bingai-security-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Accessibility
 
@@ -129,10 +121,6 @@ Bing AI answers the same physics question correctly.
  On the contrary,[signing up for the new Bing AI](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) initially took longer. The first users spent weeks on the waitlist before getting approved, especially those outside the U.S.
 
 ![Bing AI Welcome Upon Getting Approved](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-introduction.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Thankfully, Microsoft since lifted the waitlist. Users gain instant access after creating an email account and downloading Microsoft Edge.
 
@@ -154,11 +142,19 @@ Bing AI answers the same physics question correctly.
 
 ![ChatGPT Plus Pricing at $20 Per Month](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-pricing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT is a free, robust multipurpose chatbot. Users can execute plenty of tasks with the GPT-3.5 language model. But if you need a more sophisticated AI assistant, OpenAI offers[ChatGPT Plus](https://openai.com/blog/chatgpt-plus) for $20 a month.
 
  It runs on GPT-4, provides priority access, and responds faster.[ChatGPT Plus was initially limited to U.S. users](https://www.makeuseof.com/openai-launches-premium-chatgpt-subscription-service/) , but developers started granting overseas access from February 2023.
 
  Although affordable, subscription fees are unnecessary expenses. Instead of losing $240 per year on ChatGPT Plus, explore Bing's AI first. It already runs on GPT-4, and since[Microsoft plans to monetize Bing through advertisements](https://www.reuters.com/technology/microsofts-bing-plans-ai-ads-early-pitch-advertisers-2023-02-17/) , the platform will likely stay free.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Token Limits
 
@@ -167,6 +163,10 @@ Bing AI answers the same physics question correctly.
  But considering the computing power that contextual memory uses, developers usually set token limits on the volume of data that chatbots process. Irrelevant pieces of information are dropped once users hit the token limit.
 
  These restrictions vary per platform.[ChatGPT has a high upper limit](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) that can process around 3,000 words per turn, assuming they’re all relevant and related. Meanwhile, Bing AI has a much smaller limit. It caps users to 30 turns, after which you must start a new conversation or restate your custom instructions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should You Use Bing's AI or ChatGPT?
 
@@ -187,24 +187,24 @@ Bing AI answers the same physics question correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-top-10-capture-cards-for-youtube-you-should-know/"><u>[Updated] In 2024, The Top 10 Capture Cards for YouTube You Should Know</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-propeller-market-for-top-tier-fpv-drones/"><u>[Updated] Navigating the Propeller Market for Top-Tier FPV Drones</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1-step-by-step-guide-transitioning-from-your-iphone-76s6se-to-the-latest-iphone-xiphone-question/"><u>1. Step-by-Step Guide: Transitioning From Your iPhone 7/6S/6/SE to the Latest iPhone X/iPhone # Question</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-top-rated-video-format-transcoder-convert-avi-mp4-and-more-compatible-with-all-devices-macpciosandroid/"><u>1. Top Rated Video Format Transcoder: Convert AVI, MP4 & More Compatible with All Devices (Mac/PC/iOS/Android)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-detailed-guide-to-advanced-usage-in-macs-preview-app/"><u>2024 Approved Detailed Guide to Advanced Usage in Mac's Preview App</u></a></li>
-<li><a href="https://media-tips.techidaily.com/a-comprehensive-guide-on-converting-aac-audio-tracks-to-mp3-without-itunes/"><u>A Comprehensive Guide on Converting AAC Audio Tracks to MP3 Without iTunes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-side-by-side-look-at-echo-dot-and-apples-homepod-mini-who-wins/"><u>A Side-by-Side Look at Echo Dot and Apple's HomePod Mini - Who Wins?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-dat-file-upgrade-to-premium-mp4-format-on-pc-and-mac-systems/"><u>Effortless DAT File Upgrade to Premium MP4 Format on PC and Mac Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-20-copyright-free-pubg-background-galleries/"><u>Essential 20 Copyright-Free PUBG Background Galleries</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/hilfe-beim-festlegen-der-region-fur-dvds-in-ihrem-apple-macbook-oder-imac-einfache-losungen-erklart/"><u>Hilfe Beim Festlegen Der Region Für DVDs in Ihrem Apple MacBook Oder iMac: Einfache Lösungen Erklärt</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-how-to-securely-extract-and-convert-youtube-audios-as-mp3/"><u>In 2024, How To Securely Extract and Convert YouTube Audios as MP3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mpeg-conversion-tips-for-macbook-users-easily-transforming-mkv-videos/"><u>MPEG Conversion Tips for MacBook Users - Easily Transforming MKV Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolving-handbrake-unable-to-process-corrupted-sections-a-guide/"><u>Resolving 'HandBrake Unable to Process Corrupted Sections: A Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-on-free-3d-video-extraction-secrets-to-download-premium-hd-videos-from-youtube-and-vimeo-effortlessly/"><u>Step-by-Step Guide on Free 3D Video Extraction: Secrets to Download Premium HD Videos From YouTube and Vimeo Effortlessly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-any-flv-file-into-different-formats-using-the-user-friendly-macx-free-video-conversion-tool-for-macos-users/"><u>Transform Any FLV File Into Different Formats Using the User-Friendly MacX FREE Video Conversion Tool for macOS Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-top-rated-vr-video-transformers-for-seamless-virtual-reality-editing/"><u>Ultimate Guide: Top-Rated VR Video Transformers for Seamless Virtual Reality Editing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/uncovering-the-ultimate-ios-device-controller-for-macintosh-computers-see-options-inside/"><u>Uncovering the Ultimate iOS Device Controller for Macintosh Computers – See Options Inside!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-the-new-iphone-16-pro-is-my-top-choice-over-the-iphone-16-max-insights-from-apples-latest-reveal/"><u>Why the New iPhone 16 Pro Is My Top Choice Over the iPhone 16 Max - Insights From Apple's Latest Reveal</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-essential-techniques-for-erasing-background-elements-in-figma/"><u>[New] Essential Techniques for Erasing Background Elements in Figma</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-from-srt-to-the-future-mastering-xmlssattml-transforms/"><u>[New] In 2024, From SRT to the Future Mastering XML/SSA/TTML Transforms</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-guide-to-mass-downloading-a-complete-look-at-tiktok-archives/"><u>[New] In 2024, Guide to Mass Downloading A Complete Look at TikTok Archives</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/digital-darling-list-top-viewed-on-fb/"><u>Digital Darling List Top Viewed on FB</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/echo-chamber-new-tech-insights/"><u>Echo Chamber New Tech Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/football-manager-2021-pc-crash-fix-guide-stay-in-the-game-without-glitches/"><u>Football Manager 2021 PC Crash Fix Guide - Stay in the Game Without Glitches</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/free-online-jpggif-converters-the-best-10-list/"><u>Free Online JPG/GIF Converters The Best 10 List</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-12-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 12 online without SIM Card?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-format-transformation-easy-methods-for-switching-up-your-media-types/"><u>Mastering Format Transformation: Easy Methods for Switching Up Your Media Types</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp3-to-wav-conversion-at-no-cost-tips-and-tricks-for-windows-pcs/"><u>MP3 to WAV Conversion at No Cost - Tips and Tricks for Windows PCs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4mod/"><u>MP4形式へのMOD動画変換 -無料ソフトウェアの使用ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4mov/"><u>MP4からMOVへ:最新テクニックで効率的な動画変換方法を学ぶ</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-7025-and-nforce630a-resolved-windows-issue/"><u>Nvidia 7025 & nForce630a: Resolved Windows Issue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimize-your-listening-experience-with-high-quality-320kbps-mp3-conversion/"><u>Optimize Your Listening Experience with High-Quality 320Kbps MP3 Conversion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pccdusbwindows-1011/"><u>PCに楽曲をインポートするためのCDとUSB用Windows 10/11ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/personalized-youtube-content-saving-guide-secrets-of-downloading-video-clips-privately/"><u>Personalized YouTube Content Saving Guide - Secrets of Downloading Video Clips Privately</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-tips-how-to-switch-between-quicktime-and-other-video-formats-for-pcs-and-macbooks/"><u>Quick Tips: How to Switch Between QuickTime and Other Video Formats for PCs & MacBooks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/rescuing-missing-content-with-wonderfoxs-innovative-search-solutions/"><u>Rescuing Missing Content with WonderFox's Innovative Search Solutions!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ding-your-playlists-for-seamless-integration-from-spotify-to-youtube-music-for-2024/"><u>Upgrading Your Playlists for Seamless Integration From Spotify to YouTube Music for 2024</u></a></li>
 </ul></div>
 

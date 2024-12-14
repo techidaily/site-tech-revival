@@ -1,7 +1,7 @@
 ---
 title: "Art of AI Interaction: Top Tutorials for Commanders"
-date: 2024-12-07T16:45:34.308Z
-updated: 2024-12-08T16:43:42.906Z
+date: 2024-12-10T18:01:20.253Z
+updated: 2024-12-14T17:11:07.358Z
 tags:
   - chatgpt
   - open-ai
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/3bd086f6ddbea0000b61dea6630a396d485fdb4d6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Potential Risks of Generative AI to Spread Disinformation
@@ -42,13 +42,13 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -60,11 +60,11 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
- Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -78,7 +78,7 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -90,7 +90,7 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -133,16 +133,18 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-screen-reporter-toolkit-for-youtube-streamers/"><u>[New] 2024 Approved Best Screen Reporter Toolkit for YouTube Streamers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-complete-dynamics-review-2023-for-2024/"><u>[Updated] Complete Dynamics Review 2023 for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-unveil-10-filter-gems-to-elevate-your-tiktok-posts/"><u>[Updated] Unveil 10 Filter Gems to Elevate Your TikTok Posts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-tutorial-on-downloading-and-syncing-photos-from-icloud-onto-pcmac-and-iphone/"><u>Complete Tutorial on Downloading and Syncing Photos From iCloud Onto PC/Mac and iPhone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dreamworks-studios-greatest-animations-the-ultimate-top-10-collection/"><u>DreamWorks Studio's Greatest Animations: The Ultimate Top 10 Collection</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-methods-to-save-youtube-footage-to-ios-devices-from-macos-computers/"><u>Easy Methods to Save YouTube Footage to iOS Devices From macOS Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-start-menu-in-windows-11/"><u>How To Fix a Non-Responsive Start Menu in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/itunes-connection-issue-how-to-fix-invalid-response-when-linking-to-your-iphone/"><u>ITunes Connection Issue: How to Fix 'Invalid Response' When Linking to Your iPhone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722803065153-leading-handheld-gamers-choice-discover-the-finest-portable-devices-for-playtime/"><u>Leading Handheld Gamers' Choice: Discover the Finest Portable Devices for Playtime !</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solving-iphone-and-ipads-itunes-error-3194-effectively/"><u>Solving iPhone and iPad's iTunes Error 3194 Effectively</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-mac-maintenance-tools-of-2022-the-editors-picks-featured-on-zdnet/"><u>Top-Rated Mac Maintenance Tools of 2022: The Editor's Picks Featured on ZDNet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-professional-thumbnails-from-your-phone-for-youtube/"><u>[New] In 2024, Professional Thumbnails From Your Phone for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-elevate-your-youtube-presence-with-these-8-free-courses/"><u>[Updated] 2024 Approved Elevate Your YouTube Presence with These 8 Free Courses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hourly-highlight-reel-1-to-10-on-youtubes-view-chart-for-2024/"><u>[Updated] Hourly Highlight Reel #1 to #10 on YouTube's View Chart for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-reviewing-magix-music-production-for-budding-musicians-for-2024/"><u>[Updated] Reviewing Magix Music Production for Budding Musicians for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/web-teamszoom/"><u>悄々としたWebミーティングの記録: Teams・Zoom用隠密ガイド</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/alternative-methods-to-recharge-your-mobile-device-on-the-go/"><u>Alternative Methods to Recharge Your Mobile Device on the Go</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-epson-wf-3620-printer-drivers-compatible-with-windows-11-8-and-7/"><u>Download and Install Epson WF-3620 Printer Drivers: Compatible with Windows 11, 8, & 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oppo-a78-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Oppo A78 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-streaming-sky-sports-on-kodi-complete-tutorial-with-images/"><u>Step-by-Step Guide to Streaming Sky Sports on Kodi - Complete Tutorial with Images</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-accessing-high-quality-flac-music-on-ios-platforms/"><u>Step-by-Step Tutorial: Accessing High-Quality FLAC Music on iOS Platforms</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211364635-9781732769564-the-keys-to-the-kingdom-and-the-second-war-in-heaven/"><u>The Keys to the Kingdom, and the Second War in Heaven | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-essential-tools-for-creating-professional-youtube-videos-desktop-and-online-solutions/"><u>Top 7 Essential Tools for Creating Professional YouTube Videos: Desktop and Online Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-troubleshooting-steps-solving-the-video-cannot-be-uploaded-to-instagram-issue/"><u>Ultimate Troubleshooting Steps: Solving the 'Video Cannot Be Uploaded to Instagram' Issue</u></a></li>
 </ul></div>
 

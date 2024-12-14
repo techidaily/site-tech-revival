@@ -1,7 +1,7 @@
 ---
 title: Is the Power Dynamic Moving Away From OpenAI Regarding Its Oversight of ChatGPT?
-date: 2024-09-11T19:25:14.914Z
-updated: 2024-09-12T19:25:14.914Z
+date: 2024-12-08T17:42:59.022Z
+updated: 2024-12-14T16:38:12.965Z
 tags:
   - chatgpt
   - open-ai
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
  You can use this feature to generate codes, get answers, or have a quick brainstorming session with just your voice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What You Need to Speak to ChatGPT
 
  ChatGPT's Whisper integration allows you to use your voice to speak with ChatGPT instead of typing. The beauty of this lies in the fact that you can speed up your prompts instead of typing long and descriptive sentences.
@@ -37,19 +30,13 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -57,6 +44,10 @@ Close
  If you're on a Windows PC, you'll need to rely on third-party workarounds like[Whisper Desktop to turn your voice to text in real time](https://www.makeuseof.com/windows-whisper-desktop-guide/) .
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Send ChatGPT Prompts With Your Voice
 
@@ -71,36 +62,23 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
-![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
 
@@ -119,5 +97,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-bandicam-reconnaissance-a-comprehensive-review-of-its-features-for-2024/"><u>[New] Bandicam Reconnaissance A Comprehensive Review of Its Features for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-frame-it-right-essential-composition-rules-for-youtube-filmmaking/"><u>[New] In 2024, Frame It Right Essential Composition Rules for YouTube Filmmaking</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-understanding-youtubes-privacy-options-for-viewers/"><u>[New] In 2024, Understanding YouTube's Privacy Options for Viewers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-journey-through-updates-unveiling-lg-bp550-new/"><u>[New] Journey Through Updates Unveiling LG BP550 New</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/armth-in-visuals-ideal-winter-backgrounds-for-youtube-for-2024/"><u>[New] Warmth in Visuals Ideal Winter Backgrounds for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-autoplay-youtube-videos-on-facebook/"><u>[Updated] How to Autoplay Youtube Videos on Facebook?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-winx-convert-free-app-seamlessly-rip-dvd-movies-into-mp4-format-for-pc-and-iphone-usage/"><u>Download WinX Convert Free App – Seamlessly Rip DVD Movies Into MP4 Format for PC and iPhone Usage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd33eblog/"><u>DVDコピーツールデジュアリティについて学ぶ：33ページで詳細な解説を見るためには、彼らの公式ブログへ行ってくだeblog</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-video-editing-how-to-change-avchd-footage-to-mp4-without-costs-for-windows-10-users/"><u>Effortless Video Editing: How to Change AVCHD Footage to MP4 Without Costs for Windows 10 Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expertly-convert-your-videos-with-digiartys-professional-dvd-and-video-transformation-tools/"><u>Expertly Convert Your Videos with Digiarty's Professional DVD & Video Transformation Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/meet-the-game-changing-hp-laptop-defying-norms-with-a-style-that-outshines-apples-ambitions/"><u>Meet the Game-Changing HP Laptop: Defying Norms with a Style That Outshines Apple's Ambitions!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/perfektionierte-audiokonfigurationen-in-handbrake-ideal-fur-dvds-und-blu-ray-auf-plex-verbessern/"><u>Perfektionierte Audiokonfigurationen in HandBrake - Ideal Für DVDs Und Blu-Ray Auf Plex Verbessern.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-movie-enjoyment-on-your-kindle-fire-a-comprehensive-guide-to-supported-formats-and-easy-to-follow-conversion-methods/"><u>Seamless Movie Enjoyment on Your Kindle Fire: A Comprehensive Guide to Supported Formats and Easy-to-Follow Conversion Methods</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-asus-rog-phone-8-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Asus ROG Phone 8 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/unlock-endless-melodies-exclusive-song-selection-on-party-tyme-karaoke-service-subscribe-now-perfect-for-djs/"><u>Unlock Endless Melodies: Exclusive Song Selection on Party Tyme Karaoke Service (Subscribe Now!) - Perfect for DJs!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winx-dvd-and-winx/"><u>WinX DVD 리퍼 & 비디오 컨버터 코스타 - 공식 WinX 소프트웨어 시상회</u></a></li>
+</ul></div>
 

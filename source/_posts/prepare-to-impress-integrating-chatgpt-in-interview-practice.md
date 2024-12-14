@@ -1,7 +1,7 @@
 ---
 title: "Prepare to Impress: Integrating ChatGPT in Interview Practice"
-date: 2024-12-01T16:11:02.442Z
-updated: 2024-12-08T16:52:15.027Z
+date: 2024-12-12T16:16:15.730Z
+updated: 2024-12-14T16:12:02.532Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s OpenAI Got to Do With the New AI-Powered Bing?
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
 ![openai logo on code background feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/openai-logo-on-code-background-feature.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft recently invested nearly 10 billion dollars into OpenAI, and Bing’s new AI prowess is just the start of this long-term strategic partnership.
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
  According to[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's New in Bing?
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
  Remember when searching was underwhelming and lousy using Bing? Thanks to the new AI web search companion, those days are far behind. Bing will now use AI at its core to deliver enhanced search results that are precisely relevant, allow you to generate content, and, best of all, integrate a brand new chat experience specialized to answering complex queries.
 
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
@@ -61,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's New in Microsoft Edge?
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
  Once you’ve configured the Microsoft Edge on your device, you can directly engage with its AI capabilities, including two core features,**Chat** and**Compose** , that will be integrated into a new version of the Edge sidebar.
 
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
@@ -101,16 +101,17 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-video-marketing-strategies-top-8-verified-services/"><u>[New] 2024 Approved Essential Video Marketing Strategies Top 8 Verified Services</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/treamlining-the-production-process-of-your-short-videos-for-2024/"><u>[New] Streamlining the Production Process of Your Short Videos for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-choosing-the-most-effective-9-multimedia-devices-ios-android/"><u>[Updated] In 2024, The Ultimate Guide to Choosing the Most Effective 9 Multimedia Devices (iOS, Android)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-top-6-techniques-pour-reduire-la-taille-des-fichiers-video-en-preparation-dun-email/"><u>1. Top 6 Techniques Pour Réduire La Taille Des Fichiers Vidéo en Préparation D'un Email</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-story-an-easy-guide-to-screen-recording/"><u>2024 Approved Instagram Story An Easy Guide to Screen Recording</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ayuda-en-linea-con-venta-para-el-programa-ripper-and-convertidor-de-peliculas-winx-dvd-soluciones-profesionales/"><u>Ayuda en Línea Con Venta Para El Programa Ripper & Convertidor De Películas WinX DVD, Soluciones Profesionales</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-fix-shaky-footage-on-windows-macos-android-and-ios-devices/"><u>How to Fix Shaky Footage on Windows, macOS, Android, and iOS Devices</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-13-pro-max-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 13 Pro Max In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-solution-to-a-non-playing-dvd-with-these-10-essential-tips/"><u>Unlock the Solution to a Non-Playing DVD with These 10 Essential Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-transitioning-away-from-newest-sierra-version-back-to-1010/"><u>[New] In 2024, Transitioning Away From Newest Sierra Version Back to 10.10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028402050-dvd/"><u>市販DVDが動き出さない? ストレスなしでこの簡単対策を学べ</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-mpeg-files-to-mp4-for-free-use-movavis-web-service/"><u>Convert MPEG Files To MP4 for Free - Use Movavi's Web Service</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertir-musica-aac-al-formato-mp4-gratuito-y-facil-de-usar-en-internet/"><u>Convertir Música AAC Al Formato MP4 Gratuito Y Fácil De Usar en Internet.</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciding-factors-to-weigh-when-looking-for-your-ideal-handheld-gaming-console/"><u>Deciding Factors to Weigh When Looking for Your Ideal Handheld Gaming Console</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-to-stream-from-ps4-without-delay/"><u>Easy to Stream From PS4 [Without Delay]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722963933031-get-your-hands-on-the-free-m-audio-ultratrack-drivers-today/"><u>Get Your Hands on the FREE M-Audio UltraTrack Drivers Today!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-start-to-finish-seamless-editing-with-kinemaster/"><u>In 2024, From Start to Finish Seamless Editing with Kinemaster</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/passo-a-passo-em-fazer-animacoes-stop-motion-conheca-as-melhores-dicas-tutorials-e-exemplos/"><u>Passo a Passo Em Fazer Animações Stop Motion - Conheça as Melhores Dicas, Tutorials E Exemplos!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-premium-panorama-creation-tools-the-ultimate-guide-to-professional-photo-stitching-software/"><u>Top 8 Premium Panorama Creation Tools: The Ultimate Guide to Professional Photo Stitching Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-guide-resolving-the-dell-laptops-black-screen-issue/"><u>Ultimate Troubleshooting Guide: Resolving the Dell Laptop's Black Screen Issue</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211423850-9781800653955-wiccan-self-care-spells/"><u>Wiccan Self-care Spells | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring the Reasons Websites Restrict Access to GPTBot
-date: 2024-09-11T19:26:48.734Z
-updated: 2024-09-12T19:26:48.734Z
+date: 2024-12-10T16:19:07.686Z
+updated: 2024-12-14T17:37:55.147Z
 tags:
   - chatgpt
   - open-ai
@@ -18,10 +18,7 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
  ChatGPT has far-reaching uses for many writing tasks, including informative and academic essays, copywriting, social media posts, and much more. It’s also an excellent resource for playing with poetry, short stories, and even personal essays and memoirs. Here’s how to use ChatGPT as a tool to help energize your creative writing and even overcome writer's block.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Work With Poetic Forms
@@ -40,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 
 ![ChatGPT acrostic poem about caffeine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-acrostic-poem-about-caffeine.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The language bot does appear to struggle with free verse or unrhymed poetry in general (at this time). It appears partial to end rhymes, or at least close rhymes.
 
 ![ChatGPT unrhymed poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-unrhymed-poem.jpg)
@@ -62,17 +52,7 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 ![ChatGPT rhyme feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-rhyme-feature.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check Poetic Meter
@@ -87,22 +67,23 @@ Simply prompt ChatGPT to scan the poem, then paste in your verses.
 
 ![ChatGPT poetic scansion explanation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-poetic-scansion-explanation.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This offers a helpful way to study poetry and check your own original verses for form.
 
 ![ChatGPT explanation of Frost poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-explanation-of-frost-poem.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Generate Story Ideas
 
  ChatGPT really shines as an idea generator for just about any genre of story. Prompt it to “give me 20 story ideas for a sci-fi tale about space travel and adventure.”
 
 ![ChatGPT sci fi story ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-sci-fi-story-ideas.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You'll get a huge list of ideas to spark your creativity.
 
@@ -111,28 +92,12 @@ You'll get a huge list of ideas to spark your creativity.
 ![ChatGPT mystery story ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-mystery-story-ideas.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also get the app to use specific authors for inspiration, too. For instance, prompt it to “provide 15 story ideas in the style of Hemingway about choosing a new pet” or “provide 12 ideas for love stories in the style of Philip K. Dick.”
 
 ![ChatGPT story ideas similar to Hemingway](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-story-ideas-similar-to-hemingway.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The app keys in on each author's familiar themes and styles to construct these inspiring (and sometimes a bit bizarre) story ideas.
 
@@ -144,13 +109,6 @@ You'll get a huge list of ideas to spark your creativity.
 
 ![ChatGPT kid friendly bear story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-kid-friendly-bear-story.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Meanwhile, a prompt to “tell a literary story about bears for a sophisticated adult audience” produces a much more rugged story.
 
 ![ChatGPT literary bear story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-literary-bear-story.jpg)
@@ -159,13 +117,6 @@ You'll get a huge list of ideas to spark your creativity.
 
  It’s fun to see what changes appear, and it’s an instructive practice in customizing your work for different audiences.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Overcome Writer’s Block
 
  Use ChatGPT to find the right word, rephrase sentences, and generally overcome some of the common hurdles associated with writer’s block. If you get stuck on one sentence, for instance, then you can prompt the chatbot to rephrase it a number of different ways.
@@ -173,10 +124,7 @@ You'll get a huge list of ideas to spark your creativity.
 ![ChatGPT rephrase sentence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-rephrase-sentence.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Choose your favorite rendition of the sentence and get back to your piece.
@@ -188,15 +136,16 @@ You'll get a huge list of ideas to spark your creativity.
 ![ChatGPT mystery story plot twist ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-mystery-story-plot-twist-ideas.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this instance, the chatbot offers some ideas for mystery story plot twists. You can also get more specific and ask it for "unexpected plot twists" or similar prompts.
 
  In many ways, ChatGPT can help you overcome the biggest hurdle for plenty of writers: the blank page (or screen).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Caveats About Using ChatGPT for Creative Writing
 
@@ -211,10 +160,7 @@ You'll get a huge list of ideas to spark your creativity.
  Lastly, remember that your own memories and experiences can’t be generated by AI, so tap into them for your creative writing. ChatGPT is an excellent tool, but it can’t tell your stories for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Boost Your Creative Writing Skills With ChatGPT
@@ -234,5 +180,16 @@ You'll get a huge list of ideas to spark your creativity.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-bulk-buy-subscribers-cost-effective-growth-strategy/"><u>[Updated] In 2024, Bulk Buy Subscribers Cost-Effective Growth Strategy</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-playback-of-srt-audio-files-in-computers-windowsmacos/"><u>[Updated] Playback of SRT Audio Files in Computers (Windows/macOS)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-high-quality-conversion-top-5-methods-for-changing-vob-files-into-avi-format/"><u>Free High-Quality Conversion: Top 5 Methods for Changing VOB Files Into AVI Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-transfer-files-without-airdrop-on-windows-top-notch-alternatives-unveiled/"><u>How to Transfer Files Without AirDrop on Windows: Top-Notch Alternatives Unveiled</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-nokia-c300-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Nokia C300? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win-answers.techidaily.com/moi-file-explained-unraveling-the-meaning-and-methods-for-easy-access/"><u>MOI File Explained: Unraveling the Meaning & Methods for Easy Access</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reduction-video-easy-transformer-une-faitiere-1080p-en-format-720p-sans-probleme/"><u>Réduction Vidéo Easy: Transformer Une Faitière 1080P en Format 720P Sans Problème</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-weihnachtslieder-aus-deutschland-kostenfreier-zugang-zu-klassikern-und-modernen-stucken/"><u>Top-Weihnachtslieder Aus Deutschland - Kostenfreier Zugang Zu Klassikern Und Modernen Stücken</u></a></li>
+<li><a href="https://games-able.techidaily.com/tricks-for-classic-joy-con-integration/"><u>Tricks for Classic Joy Con Integration</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What Determines the Length of Texts From ChatGPT AI?
-date: 2024-12-04T16:22:14.509Z
-updated: 2024-12-08T16:04:30.502Z
+date: 2024-12-12T16:29:10.332Z
+updated: 2024-12-14T17:19:35.259Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/7e02bd572984315c91b0feee5bb97c59ecfef3acd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is GPT-4?
 
  GPT-4, short for[Generating Pre-trained Transformer 4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/) , is the fourth iteration of the GPT family of large language models developed by OpenAI. It is the successor of the GPT-3 model, which powers the viral AI chatbot ChatGPT. GPT-4, like its predecessor, GPT-3, is designed to generate human-like text, complete tasks such as summarization and language translation, and even generate creative writing such as poetry, lyrics for music, and fiction.
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/7e02bd572984315c91b0feee5bb97c59ecfef3acd
 ## How to Access GPT-4 on ChatGPT
 
 ![chatgpt openai logos smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-openai-logos-smartphone-feature.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: T. Schneider/[Shutterstock](https://www.shutterstock.com/image-photo/stuttgart-germany-12292022-mobile-phone-website-2245793859)
 
@@ -57,26 +57,22 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 ![Upgrade to ChatGPT+](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/upgrade-to-chatgpt.jpg)
 3. You'll get a pop-up comparing the free plan and the ChatGPT Plus plan. Tap on the green**Upgrade Plan** button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT plus comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-comparison.jpg)
 4. Up next, you'll be redirected to a page to provide your credit card details and other billing information. Provide all the required information and make payment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Once your payment has been confirmed, you should now have access to the OpenAI GPT-4 model alongside the older GPT-3.5 default and GPT-3.5 legacy models.
 6. Choose the GPT-4 model from the drop-down on your ChatGPT chat interface, select the mode you want, and start using GPT-4 with ChatGPT.  
 ![screenshot of ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-code-interpreter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  One way to be sure you're using the GPT-4 model instead of the older models is to check the color of the OpenAI logo that precedes ChatGPT's responses. GPT-3.5 model responses are preceded with a green-white logo, while GPT-4 responses are preceded with a black-white logo.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is the Difference Between GPT-3.5 and GPT-4?
 
@@ -89,6 +85,10 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
  Also, writing entire blocks of functional code took several iterations to get right with GPT-3.5\. With GPT-4, you could write entire apps with single prompts, and you'd sometimes not need to debug any piece of it to get it working. Just copy, paste, and run.
 
  GPT-4 is a multimodal AI model with a significantly larger context window, able to process both text and image inputs. Its full capabilities were demoed during the official GPT-4 announcement event but have not been pushed to the public, likely due to a shortage of computer chips needed to back the massive amount of compute power required for such features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Usage Cap
 
@@ -105,7 +105,7 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
  Bing Chat aside, whether GPT-4 will ever be available for ChatGPT free tier users is unclear. GPT-4 is already several months post-release, and there is no indication that OpenAI will make GPT-4 generally available as a free offering. However, since OpenAI is already making the GPT-4 model available to third-party developers, you can use GPT-4 in a limited capacity through third-party apps powered by GPT-4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-4: Is It Worth the Hype?
@@ -129,24 +129,16 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/aximize-visual-impact-on-youtube-adding-watermarks-and-logo-to-media-content-for-2024/"><u>[New] Maximize Visual Impact on YouTube Adding Watermarks & Logo to Media Content for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-creating-a-space-for-feedback-talking-with-your-viewers/"><u>[Updated] Creating a Space for Feedback Talking with Your Viewers</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-2023-how-to-check-tiktok-video-copyright-before-uploading/"><u>[Updated] In 2024, 2023 | How to Check Tiktok Video Copyright Before Uploading?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/demystifying-ultra-high-definition-what-is-4k/"><u>Demystifying Ultra-High-Definition: What Is 4K?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-on-the-top-october-game-sales-of-2n24-huge-discounts-save-up-to-a-grand/"><u>Don't Miss Out on the Top October Game Sales of 2N24 - Huge Discounts, Save up to a Grand</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/find-your-perfect-price-exclusive-acer-offers-during-amazon-prime-day-2024/"><u>Find Your Perfect Price: Exclusive Acer Offers During Amazon Prime Day 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-hp-officejet-pro-8715-driver-windows-11108-for-optimal-performance/"><u>Get Your HP OfficeJet Pro 지정기 8715 Driver [Windows 11/10/8] for Optimal Performance</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-nokia-c12-plus-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Nokia C12 Plus to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/real-time-video-translation-revolution-microsoft-edges-ai-integration/"><u>Real-Time Video Translation Revolution: Microsoft Edge's AI Integration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-productivity-how-window-tiling-feature-overcomes-major-challenges-on-macos-sequoia/"><u>Revolutionizing Productivity: How Window Tiling Feature Overcomes Major Challenges on macOS Sequoia</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-integration-running-android-applications-with-waydroid-on-linux/"><u>Seamless Integration: Running Android Applications with WayDroid on Linux</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/snapdragon-x-qualcomm-demonstrates-its-capability-to-match-apples-powerful-silicon/"><u>Snapdragon X: Qualcomm Demonstrates Its Capability to Match Apple's Powerful Silicon</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-adding-applications-to-your-macos-dock/"><u>Step-by-Step Guide: Adding Applications to Your macOS Dock</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-extracting-music-from-a-compact-disc-using-your-mac/"><u>Step-by-Step Guide: Extracting Music From a Compact Disc Using Your Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-mastering-font-management-for-apple-computers/"><u>Step-by-Step Instructions: Mastering Font Management for Apple Computers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-for-reinstalling-macos-via-factory-reset-on-macbooks-and-desktops/"><u>Step-by-Step Tutorial for Reinstalling macOS via Factory Reset on MacBooks and Desktops</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/substituting-characters-with-line-breaks-using-notepadplusplus/"><u>Substituting Characters With Line Breaks Using Notepad++</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-5-critical-considerations-for-your-next-set-of-stereo-speakers-purchase/"><u>Ultimate Guide: 5 Critical Considerations for Your Next Set of Stereo Speakers Purchase</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-uncomplicated-online-music-conversion-top-6-free-ios-apps-for-video-and-audio/"><u>[New] 2024 Approved Uncomplicated Online Music Conversion Top 6 Free iOS Apps for Video & Audio</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-dive-into-vibrant-visuals-gopro-studio-color-correction/"><u>[Updated] 2024 Approved Dive Into Vibrant Visuals GoPro Studio Color Correction</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-capture-and-store-videos-effortlessly-with-our-top-list/"><u>[Updated] Capture & Store Videos Effortlessly with Our Top List</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-enhancements-for-educational-investigation/"><u>Artificial Enhancements for Educational Investigation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-in-career-planning-unveiling-top-strategies/"><u>ChatGPT in Career Planning: Unveiling Top Strategies</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/easy-steps-for-replicating-files-insights-from-yl-computings-expertise/"><u>Easy Steps for Replicating Files: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hearty-insights-on-the-heimvision-light-therapy-wake-up-clock-a8-your-pathway-to-healthier-mornings/"><u>Hearty Insights on the HeimVision Light Therapy Wake-Up Clock (A8#) - Your Pathway to Healthier Mornings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/melting-glaciers-misunderstood-a-scientific-perspective/"><u>Melting Glaciers Misunderstood: A Scientific Perspective</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/opt-out-of-chatgpt-choose-microsoft-copilot-reasons/"><u>Opt Out of ChatGPT: Choose Microsoft CoPilot Reasons</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-transferring-your-macs-entire-image-collection-to-an-exterior-ssd/"><u>Step-by-Step Guide: Transferring Your Mac's Entire Image Collection to an Exterior SSD</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-win10s-critical-error-code-0x80n0705b4-in-system-updates/"><u>Troubleshooting and Solving Win10's Critical Error Code 0X80n0705b4 in System Updates</u></a></li>
 </ul></div>
 

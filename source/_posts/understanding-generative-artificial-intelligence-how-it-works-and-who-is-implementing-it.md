@@ -1,7 +1,7 @@
 ---
 title: "Understanding Generative Artificial Intelligence: How It Works and Who Is Implementing It?"
-date: 2024-12-06T16:32:43.869Z
-updated: 2024-12-08T16:01:00.396Z
+date: 2024-12-08T17:26:09.184Z
+updated: 2024-12-14T16:38:24.751Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. What's the Best Place to Start?
 
 ![ChatGPT Plus best way to learn a language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-best-way-to-learn-a-language-1.jpg)
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Expanding your vocabulary is a good place to start when you're trying to learn a new language. You want to learn how to pronounce common words and understand how/why they are used in various situations. As you can imagine, GPT-4's conversational skills can easily handle this process.
@@ -58,11 +54,19 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While learning certain words and phrases in a vacuum is good, all that practice is wasted if you don't build conversational skills. With ChatGPT, you can hold conversations in any language you want. For example, we asked ChatGPT to talk with us in French, and the result was impressive.
 
  ChatGPT understood our prompt immediately and gave us a sentence in French. We then responded to that sentence, and the conversation kept going from there. Throughout this conversation, it critiqued our conversational skills and provided small suggestions.
 
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Learn Grammar and Syntax
 
@@ -76,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 ![ChatGPT Plus Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-test.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Quizzes and tests are a common feature of most language learning apps. It helps you to check your progress and determine your weak points. ChatGPT is quite good at creating such tests, but you must be creative with the prompts.
 
  We asked GPT-4 to construct a language test for us in French. It crafted a beginner level-quiz, remembering that we were new to the language from the previous context.
@@ -87,25 +95,17 @@ Here's how you can create your own personalized tests:
 3. Determine the test length by specifying the number of questions. You can also set a time limit, but you'll have to time yourself.
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Cultural Learning
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Languages and cultures are closely intertwined. By learning a new language, you can gain insight into the traditions, values, customs, and history of those who speak the language. While learning a language with ChatGPT, you can ask for cultural context, references, and social norms that are present in the language. This helps you understand how native speakers communicate.
 
  You can also get insights into cultural phenomena such as historical events, festivals, celebrations, and more. Then, you can ask ChatGPT to provide you with resources such as movies, books, and music in the language you're trying to learn. The key here is to ask anything you can think of about the language and culture.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. How Does It Compare to Other Alternatives?
 
@@ -134,15 +134,18 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/fixed-6-fixes-for-baldurs-gate-stuttering-and-freezing-issues/"><u>[Fixed] 6 Fixes for Baldur's Gate Stuttering & Freezing Issues</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-speed-up-your-file-format-shift-from-srt-to-text-txt/"><u>[New] Speed-Up Your File Format Shift From SRT to Text (TXT)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-superior-app-dev-editors-top-15-selection/"><u>[Updated] Superior App Dev Editors Top 15 Selection</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/anticipating-the-future-with-verizons-enhanced-5g-network/"><u>Anticipating the Future with Verizon's Enhanced 5G Network</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-conversion-transforming-30fps-into-crisp-24fps-video/"><u>Effortless Conversion: Transforming 30Fps Into Crisp 24Fps Video</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-phones-display-with-free-4k-ultra-hd-wallpapers-and-screensavers-for-iphone-and-desktop-android/"><u>Enhance Your Phone's Display with FREE 4K Ultra HD Wallpapers & Screensavers for iPhone & Desktop Android!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-windowtop-calculator-stays-on-top/"><u>Ensuring Windowtop Calculator Stays on Top</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/playbox-app-download-and-setup-on-ios-devices-no-jailbreaking-required/"><u>PlayBox App Download & Setup on iOS Devices - No Jailbreaking Required</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/proven-techniques-for-accessing-high-quality-8k-videos-without-compromise/"><u>Proven Techniques for Accessing High-Quality 8K Videos Without Compromise</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-youtube-streaming-a-guide-for-gamers/"><u>[New] Mastering YouTube Streaming A Guide for Gamers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-uniting-sight-and-sound-perfecting-videography-voiceovers-for-2024/"><u>[New] Uniting Sight & Sound Perfecting Videography Voiceovers for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-scouting-the-superior-18-video-recorders-for-seamless-streams/"><u>2024 Approved Scouting the Superior 18 Video Recorders for Seamless Streams</u></a></li>
+<li><a href="https://fox-links.techidaily.com/auditory-ambience-finder-for-film-and-video-sets/"><u>Auditory Ambience Finder For Film and Video Sets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726026530892-bgm/"><u>BGM挿入術：プロ級動画編集テクニックを学ぶ</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-depth-insight-on-selecting-superior-valheim-seeds-for-2024/"><u>In-Depth Insight on Selecting Superior Valheim Seeds for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-device-connectivity-troubleshooting-on-win-os/"><u>Mastering Device Connectivity Troubleshooting on Win OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028988945-mkvtoolnix/"><u>MKVToolNix使い方解説 - どうすれば安定して映像・音声ファイルを連結できますか?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-activating-windows-hello-biometric-login-on-windows-11-machines/"><u>Step-by-Step Solution for Activating Windows Hello Biometric Login on Windows 11 Machines</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/tiktoks-legal-boundaries-understanding-pre-upload-rights/"><u>TikTok's Legal Boundaries Understanding Pre-Upload Rights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027910361-webm/"><u>WEBM動画のスムーズな鑑賞 - 最新のプレイヤーソフトウェア</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028583050-windows/"><u>Windowsマシンで高音量化: 録音されたオーディオを最大限活用するテクニック</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028846658-youtube/"><u>YouTube ショート動画に最適化して、画面比率の変更方法を学ぶ</u></a></li>
 </ul></div>
 

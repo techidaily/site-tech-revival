@@ -1,7 +1,7 @@
 ---
 title: Poetic Warriors & GPT Ewes - Bard's Ballad Battle with Woolly Allies
-date: 2024-12-01T16:19:06.940Z
-updated: 2024-12-08T16:02:26.063Z
+date: 2024-12-07T17:35:41.147Z
+updated: 2024-12-14T16:20:04.641Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. WebChatGPT
 
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 **Download:** ChatGPT Prompt Genius for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. ChatGPT Writer
 
  When someone sends a professional email your way for something like a meeting or a job opportunity, it's bad form to reply with a one or two-line email (even if that sums up everything you want to say). ChatGPT Writer takes your intended reply and generates a long, professional-sounding email message.
@@ -68,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
 
  The first time you use ChatpGPT Writer, you'll need to log in to your OpenAI account with it. The extension works with any Chromium browser such as Chrome, Brave, or Edge. While it's currently best for replying to professional emails, you can also give it non-work prompts to write casual and personal email messages.
@@ -75,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. YouTube Summary With ChatGPT
@@ -95,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Talk-to-ChatGPT
@@ -109,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. ChatGPT for Search Engines
@@ -132,10 +136,6 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ChatGPT Is Awesome, But Be Realistic…
 
  With these extensions including search results in ChatGPT, showing you how to use the right prompts, and using AI to improve YouTube or Gmail, you might think it's time to offload a majority of your work to ChatGPT. But take a breath.
@@ -157,18 +157,17 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/boost-your-gpt-conversations-with-these-proven-tactics/"><u>Boost Your GPT Conversations with These Proven Tactics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatbot-powered-success-enhancing-your-job-interview-preparation-with-chatgpt/"><u>Chatbot-Powered Success: Enhancing Your Job Interview Preparation with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/customizing-chatgpt-for-specific-needs-an-innovators-roadmap-to-creating-unique-conversational-agents/"><u>Customizing ChatGPT for Specific Needs: An Innovator's Roadmap to Creating Unique Conversational Agents</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/educational-insight-the-best-chatgpt-identification-tools-for-teachers-and-academics/"><u>Educational Insight: The Best ChatGPT Identification Tools for Teachers & Academics</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-motorola-edge-2023-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Edge 2023 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a59-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A59 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/online-3gp-m4a-movavi/"><u>Online 무료 대여: 3GP, M4A 비디오를 원근육종성적으로 효과적인 전환 - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-perfect-fit-discovering-the-apple-watch-ultra-2-at-an-unbeatable-labor-day-price-a-personal-review-by-zdnet/"><u>The Perfect Fit: Discovering the Apple Watch Ultra 2 at an Unbeatable Labor Day Price - A Personal Review by ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-mystery-of-affective-computing-can-artificial-intelligence-genuinely-comprehend-your-emotional-state/"><u>Unveiling the Mystery of Affective Computing: Can Artificial Intelligence Genuinely Comprehend Your Emotional State?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/upcoming-security-conundrums-with-generative-ai-why-things-are-heading-south/"><u>Upcoming Security Conundrums with Generative AI: Why Things Are Heading South</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-supercharge-your-video-editing-top-adobe-premiere-plugins-free-for-2024/"><u>Updated Supercharge Your Video Editing Top Adobe Premiere Plugins (Free) for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whatsapp-or-signal-which-messaging-app-stands-out/"><u>WhatsApp or Signal: Which Messaging App Stands Out?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unveiling-ipads-full-potential-a-timelapse-journey-begins-here/"><u>[Updated] In 2024, Unveiling iPad's Full Potential A Timelapse Journey Begins Here</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-crafting-a-seamless-cross-share-experience-with-fb-and-igtv/"><u>2024 Approved Crafting a Seamless Cross-Share Experience with FB & IGTV</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/best-practices-selecting-devices-for-zoom-recording-for-2024/"><u>Best Practices Selecting Devices for Zoom Recording for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparative-analysis-of-snapchat-myai-and-microsoft-bing-chat-on-skype-spotlight-on-8-crucial-differences/"><u>Comparative Analysis of Snapchat MyAI & Microsoft Bing Chat on Skype - Spotlight on 8 Crucial Differences</u></a></li>
+<li><a href="https://discover-community.techidaily.com/diagnosing-and-fixing-an-overheating-pc-expert-tips-from-yl-computing-and-software-solutions/"><u>Diagnosing and Fixing an Overheating PC: Expert Tips From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://win-help.techidaily.com/mastering-mirillis-the-ultimate-guide/"><u>Mastering MirilliS: The Ultimate Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/powershot-g9x-mark-ii-a-camera-that-retains-character/"><u>PowerShot G9X Mark II – A Camera That Retains Character</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/recording-your-world-how-camstudio-redefined/"><u>Recording Your World - How CamStudio Redefined</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-your-enterprise-with-chatgpt-8-key-applications/"><u>Transforming Your Enterprise with ChatGPT: 8 Key Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-creativity-in-document-management-how-onlyoffice-docspace-pairs-with-chatgpt/"><u>Unleashing Creativity in Document Management: How ONLYOFFICE DocSpace Pairs with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/who-are-they-discovering-the-real-identities-in-online-conversations-with-the-dead-internet-hypothesis/"><u>Who Are They? Discovering the Real Identities in Online Conversations with the Dead Internet Hypothesis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-considering-claude-3-makes-sense-4-compelling-reasons-to-make-the-change-from-chatgpt/"><u>Why Considering Claude 3 Makes Sense: 4 Compelling Reasons to Make the Change From ChatGPT</u></a></li>
 </ul></div>
 

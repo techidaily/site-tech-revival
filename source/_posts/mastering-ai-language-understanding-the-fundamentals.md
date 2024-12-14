@@ -1,7 +1,7 @@
 ---
 title: "Mastering AI Language: Understanding the Fundamentals"
-date: 2024-12-04T17:12:05.768Z
-updated: 2024-12-08T17:12:51.461Z
+date: 2024-12-09T17:43:25.866Z
+updated: 2024-12-14T16:45:09.606Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 * [Should You Upgrade to Copilot Pro?](https://www.makeuseof.com/copilot-vs-copilot-pro/#should-you-upgrade-to-copilot-pro)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
  And you'll be very pleased to hear that isn't changing any time soon—but Microsoft is rolling out Copilot Pro, a new subscription model for its free AI companion, featuring new capabilities, custom GPT support, and deeper integration into its Microsoft 365 suite.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Copilot Pro?
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
  Given the deeper integration of Copilot Pro into Microsoft's ecosystem, the $20 subscription could make Pro a valuable tool versus other tools that are useful in terms of AI but lack specific integrations with regularly used software, especially in business and productivity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Upgrade to Copilot Pro?
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, given the extensive number of free features Copilot has, I don't expect many folks will be disappointed. Deeper integration with Microsoft 365 is great if you use those tools, but if you're using Copilot as an enhanced internet search engine, these updates won't mean much to you.
@@ -106,18 +106,18 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-smart-exposure-the-ultimate-guide-to-hdr-tech-in-cameras/"><u>[New] Mastering Smart Exposure The Ultimate Guide to HDR Tech in Cameras</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-unveiling-the-mystery-of-free-graphic-imagery/"><u>[Updated] 2024 Approved Unveiling the Mystery of Free Graphic Imagery</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-tier-photographic-archives/"><u>[Updated] Top Tier Photographic Archives</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exclusive-for-us-chatgpt-plus-now-available-at-20-mo/"><u>Exclusive for U.S.: ChatGPT Plus Now Available at $20 Mo</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/from-fragmented-footage-to-fluid-editing-inshots-pathway-to-perfection/"><u>From Fragmented Footage to Fluid Editing Inshot's Pathway to Perfection</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y78plus-t1-edition-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-6-plus-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 6 Plus to Factory Settings? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-motorola-moto-g04-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Motorola Moto G04 Phone Network-Ready</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/my-ai-on-snapchat-vs-chatgpt-picking-your-preferred-conversational-assistant/"><u>My AI on Snapchat Vs. ChatGPT: Picking Your Preferred Conversational Assistant</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/siri-speaks-your-words-activating-ios-and-macos-voice-assistant-functionality/"><u>Siri Speaks Your Words: Activating iOS and macOS Voice Assistant Functionality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-gpts-char-limit-and-solutions/"><u>Understanding GPT's Char Limit & Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-secrets-how-can-chatbots-mimic-human-dialogue/"><u>Unveiling the Secrets: How Can Chatbots Mimic Human Dialogue?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-sound-sleuths-guide-to-recording-streaming-media/"><u>[New] In 2024, The Sound Sleuth's Guide to Recording Streaming Media</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/avigating-to-your-subscription-statistics-for-2024/"><u>[New] Navigating to Your Subscription Statistics for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamlined-screenshots-on-chrome-devices/"><u>[New] Streamlined Screenshots on Chrome Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-cutting-edge-techniques-for-youtube-video-production-with-sony-vegas-for-2024/"><u>[Updated] Cutting-Edge Techniques for YouTube Video Production with Sony Vegas for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-muse-crafting-beautiful-verses-effortlessly/"><u>ChatGPT as Your Muse: Crafting Beautiful Verses Effortlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-history-resurrection-techniques-how-to-retrieve-deleted-dialogues-effortlessly/"><u>ChatGPT History Resurrection Techniques: How to Retrieve Deleted Dialogues Effortlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-writing-game-9-essential-uses-of-chatgpt-for-creators/"><u>Elevate Your Writing Game: 9 Essential Uses of ChatGPT for Creators</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-dell-xps-13-9310-laptop-ultra-thin-design-meets-powerful-performance/"><u>Exploring the Dell XPS 13 (9310) Laptop: Ultra-Thin Design Meets Powerful Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-effective-is-chatgpt-at-tackling-complex-number-calculations/"><u>How Effective Is ChatGPT at Tackling Complex Number Calculations?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-adjusting-video-fps-settings-in-davinci-resolve/"><u>Step-by-Step Guide: Adjusting Video FPS Settings in DaVinci Resolve</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-essentials-of-the-ai-act-by-the-eu-and-its-influence-on-tools-like-chatgpt/"><u>The Essentials of the AI Act by the EU and Its Influence on Tools Like ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-lava-yuva-3-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Lava Yuva 3 Pro.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-ai-why-you-should-consider-gpt-4-despite-it-being-freely-accessible/"><u>Unlock the Power of AI: Why You Should Consider GPT-4 Despite It Being Freely Accessible</u></a></li>
 </ul></div>
 

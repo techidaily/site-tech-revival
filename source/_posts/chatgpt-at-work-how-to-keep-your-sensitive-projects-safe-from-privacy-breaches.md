@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT at Work: How to Keep Your Sensitive Projects Safe From Privacy Breaches"
-date: 2024-12-07T16:46:37.747Z
-updated: 2024-12-08T16:37:35.311Z
+date: 2024-12-10T17:00:37.488Z
+updated: 2024-12-14T17:44:08.180Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 * [What Is ChatGPT's Chat History and Training Feature?](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#what-is-chatgpt-39-s-chat-history-and-training-feature)
 * [How to Opt-Out of ChatGPT's Chat History and Training Feature](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#how-to-opt-out-of-chatgpt-39-s-chat-history-and-training-feature)
 * [ChatGPT Data Collection You Can't Opt Out From](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#chatgpt-data-collection-you-can-39-t-opt-out-from)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -41,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
  But worry not; you can opt out of having your chat data used, keeping your ChatGPT conversations private.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is ChatGPT's Chat History and Training Feature?
@@ -56,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
  However, in April 2023, OpenAI started offering users the choice to disable or enable chat history and training data collection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Opt-Out of ChatGPT's Chat History and Training Feature
 
  There's one downside of opting out of ChatGPT's chat data feature, and that's the loss of your chat history. This doesn't just mean OpenAI can't keep a history of your chats; it also means you cannot view your chat history. Therefore, returning to previous chats becomes impossible, rendering all your previous chat data inaccessible. Note that this doesn't[delete your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) but does make it off-limits until you re-enable the chat history and training feature.
@@ -64,17 +72,9 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
 ![chatgpt sidebar menu options list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-sidebar-menu-options-list.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  First, click on your profile name at the bottom-left of the main page and head to**Settings & Beta** .
 
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In your settings, click on the**Data controls** option. Now, you'll see a setting named**Chat history & training** . This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
 
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Data Collection You Can't Opt Out From
@@ -115,24 +115,15 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-grasping-core-principles-in-narrative-designs/"><u>[New] 2024 Approved Grasping Core Principles in Narrative Designs</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-professional-tips-designing-youtube-trailers-in-filmora/"><u>[Updated] Professional Tips Designing YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-smart-responses-via-python-plus-gpt-3/"><u>Crafting Smart Responses via Python + GPT-3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-reasons-behind-openai-ceos-appeal-for-enhanced-ai-oversight/"><u>Decoding the Reasons Behind OpenAI CEO's Appeal for Enhanced AI Oversight</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-hp-laserjet-pro-mfp-m428fdw-driver-for-latest-and-legacy-windows-systems/"><u>Download HP LaserJet Pro MFP M428fdw Driver for Latest and Legacy Windows Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-epson-workforce-ds30-printer-driver-for-windows-11/"><u>Download the Latest Epson WorkForce DS30 Printer Driver for Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-sharing-conversations-from-chatgpt-a-step-by-step-guide/"><u>Effective Strategies for Sharing Conversations From ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-blockchain-game-with-these-8-must-have-ai-chatgpt-add-ons/"><u>Elevate Your Blockchain Game with These 8 Must-Have AI ChatGPT Add-Ons</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elon-musk-reveals-cutting-edge-grok-ai-features-functionality-and-investment-cost-analysis/"><u>Elon Musk Reveals Cutting-Edge Grok AI: Features, Functionality, and Investment Cost Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-insights-protect-your-privacy-from-common-chatbot-threats/"><u>Essential Insights: Protect Your Privacy From Common Chatbot Threats</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-and-fixes-for-when-your-steam-client-just-wont-respond-get-back-on-track-now/"><u>Expert Tips & Fixes for When Your Steam Client Just Won't Respond - Get Back on Track Now!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-possible-to-harness-chatgpts-capabilities-for-crafting-harmful-code-or-viruses/"><u>Is It Possible to Harness ChatGPT's Capabilities for Crafting Harmful Code or Viruses?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solving-the-chatgpt-body-stream-malfunction-top-7-effective-methods/"><u>Solving the ChatGPT Body Stream Malfunction: Top 7 Effective Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/speak-up-and-command-chatgpt-top-5-techniques-for-vocal-control/"><u>Speak Up and Command ChatGPT: Top 5 Techniques for Vocal Control</u></a></li>
-<li><a href="https://fox-info.techidaily.com/the-ultimate-review-of-wirecast-and-similar-programs-for-2024/"><u>The Ultimate Review of WireCast & Similar Programs for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/up-to-date-drive-management-learn-how-to-refresh-drivers-in-windows-11-and-10/"><u>Up-to-Date Drive Management: Learn How to Refresh Drivers in Windows 11 and 10</u></a></li>
-<li><a href="https://win-popular.techidaily.com/verspelen-van-geavanceerde-daten-de-twee-goede-wegs-om-je-vrije-ruimte-voor-nieuwe-technologie-te-zorgen/"><u>Verspelen Van Geavanceerde Daten: De Twee Goede Wegs Om Je Vrije Ruimte Voor Nieuwe Technologie Te Zorgen</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-horizons-assessing-current-landscapes-and-trials/"><u>Virtual Horizons Assessing Current Landscapes & Trials</u></a></li>
-<li><a href="https://blog-min.techidaily.com/wav-t17262287173504/"><u>WAVファイルをストリーミングで変換する - 無料のオンラインツール</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nlock-potential-expert-tips-for-youtube-video-trimming/"><u>[New] Unlock Potential Expert Tips for YouTube Video Trimming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-formulating-impressive-online-media-introductions/"><u>[Updated] In 2024, Formulating Impressive Online Media Introductions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-learn-the-basics-mastering-the-playback-of-wav-audio-files/"><u>1. Learn the Basics: Mastering the Playback of WAV Audio Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-steps-for-downloading-high-quality-video-content-from-youtube/"><u>1. Steps for Downloading High-Quality Video Content From YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027914631-clipchamp/"><u>動画音量調整の専門知識：Clipchampで完璧にする方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726026731758-wav/"><u>音源データをWAVに変換する簡単ガイド：初心者用</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/an-insightful-review-of-the-mirari-wake-up-alarm-for-children-does-it-meet-expectations/"><u>An Insightful Review of the Mirari Wake Up Alarm for Children: Does It Meet Expectations?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-7-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 7?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/profound-overview-a-full-look-at-bublcam-360-technology/"><u>Profound Overview A Full Look at Bublcam 360 Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/voor-geen-enkele-cent-omwandseltarief-van-aiff-naar-wav-online-met-movavi-leesgraag-gemaakt/"><u>Voor Geen Enkele Cent Omwandseltarief Van AIFF Naar WAV Online Met Movavi - Leesgraag Gemaakt!</u></a></li>
 </ul></div>
 

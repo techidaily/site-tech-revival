@@ -1,7 +1,7 @@
 ---
 title: "Unveiling CodeGPT: The AI Revolutionizing Coding – Does It Truly Compose Programs?"
-date: 2024-12-07T16:01:42.874Z
-updated: 2024-12-08T16:08:24.156Z
+date: 2024-12-09T16:55:40.433Z
+updated: 2024-12-14T17:01:53.271Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will There Be a GPT-5?
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 ![ChatGPT logo on dark green background ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Yes, there will almost certainly be a 5th iteration of OpenAI's GPT large language model called GPT-5\. Unfortunately, much like its predecessors, GPT-3.5 and GPT-4, OpenAI adopts a reserved stance when disclosing details about the next iteration of its GPT models. Instead, the company typically reserves such information until a release date is very close. This tight-lipped policy typically fuels conjectures about the release timeline for every upcoming GPT model.
@@ -47,12 +47,16 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 Here's a video of Altman's discussion below:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is GPT-5 Coming?
 
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
 
@@ -68,23 +72,19 @@ So, a 2024 release date for GPT-5? Is that possible?
 
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Changes Could GPT-5 Bring?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4.
 
  Also, there's been underground talk about GPT models being able to process videos, much like GPT-4 models can take images as inputs. So, we could possibly have a model that can process text, images, sound, and videos.
 
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
 
@@ -107,19 +107,18 @@ So, a 2024 release date for GPT-5? Is that possible?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-gunners-gratitude-discovering-our-top-7-shooter-games/"><u>[New] 2024 Approved Gunner's Gratitude Discovering Our Top 7 Shooter Games</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-gastronomic-genius-ideal-culinary-network-name-strategies/"><u>[Updated] In 2024, Gastronomic Genius Ideal Culinary Network Name Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-satirize-a-guide-to-parody-production/"><u>[Updated] In 2024, How to Satirize A Guide to Parody Production</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mac-based-strategies-for-shorter-insta-videos-for-2024/"><u>[Updated] Mac-Based Strategies for Shorter Insta Videos for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-audio-upheavals-top-rhythmic-disruptors-for-devices/"><u>2024 Approved Audio Upheavals Top Rhythmic Disruptors for Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-light-to-shadow-premiere-pro-transitions/"><u>2024 Approved From Light to Shadow Premiere Pro Transitions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comparing-cloud-providers-who-offers-what-price-for-2024/"><u>Comparing Cloud Providers Who Offers What Price for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-these-5-cutting-edge-ai-applications-for-inspirational-copywriting-ideas/"><u>Explore These 5 Cutting-Edge AI Applications for Inspirational Copywriting Ideas</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/learn-ai-prompts-with-the-best-top-5-e-learning-programs/"><u>Learn AI Prompts with the Best Top 5 E-Learning Programs</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/maximize-your-hd-vids-experience-the-ultimate-android-apps-list/"><u>Maximize Your Hd Vids Experience The Ultimate Android Apps List</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-the-challenges-and-hazards-of-artificial-intelligence/"><u>Navigating Through the Challenges and Hazards of Artificial Intelligence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-coders-choice-chatgpt-or-gemini-which-wins-in-automated-programming/"><u>The Ultimate Coder's Choice: ChatGPT or Gemini, Which Wins in Automated Programming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-chatgpt-jailbreaking-is-it-worth-your-attention/"><u>Understanding ChatGPT Jailbreaking: Is It Worth Your Attention?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-mastering-photopeas-background-erase-technique/"><u>[New] Mastering Photopea's Background Erase Technique</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-navigate-like-a-pro-with-top-windows-10-hacks/"><u>[New] Navigate Like a Pro with Top WINDOWS 10 Hacks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-ancestry-revealing-its-historic-origins/"><u>AI Ancestry: Revealing Its Historic Origins</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-options-chatgpt-with-internet-access-vs-chatgpt-add-ons-choosing-the-right-tool-for-your-needs/"><u>Comparing Options: ChatGPT with Internet Access Vs. ChatGPT Add-Ons - Choosing the Right Tool for Your Needs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-fresh-set-of-features-now-available-on-chatgpt-platform/"><u>Explore the Fresh Set of Features Now Available on ChatGPT Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-proficiency-of-chatgpt-in-solving-math-equations-and-problems/"><u>Exploring the Proficiency of ChatGPT in Solving Math Equations and Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-gptzero-work-unveiling-the-tool-for-spotting-ai-generated-text/"><u>How Does GPTZero Work? Unveiling the Tool for Spotting AI-Generated Text</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-honor-magic-5-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Honor Magic 5 to iPod | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-9-live-stream-networks-revealed-secrets/"><u>In 2024, Top 9 Live Stream Networks - Revealed Secrets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722877919547-inside-the-next-gen-macbook-pro-m3-releasing-dates-cost-breakdowns-and-cutting-edge-tech-specs-unveiled/"><u>Inside the Next-Gen MacBook Pro (M3): Releasing Dates, Cost Breakdowns & Cutting-Edge Tech Specs Unveiled!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/table-pursuits-on-youtube-the-non-ad-revenue-roadmap/"><u>Profitable Pursuits on YouTube The Non-Ad Revenue Roadmap</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/streamers-selection-most-popular-livestream-software-and-devices-for-2024/"><u>Streamer's Selection Most Popular Livestream Software and Devices for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/will-ai-like-chatgpt-automate-jobs-or-enhance-them-the-future-is-now/"><u>Will AI Like ChatGPT Automate Jobs or Enhance Them? The Future Is Now</u></a></li>
 </ul></div>
 

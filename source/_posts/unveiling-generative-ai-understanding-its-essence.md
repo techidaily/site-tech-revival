@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Generative AI: Understanding Its Essence"
-date: 2024-12-06T17:08:23.844Z
-updated: 2024-12-08T16:38:27.108Z
+date: 2024-12-09T17:38:49.249Z
+updated: 2024-12-14T17:47:43.972Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 * [Should You Upgrade to Copilot Pro?](https://www.makeuseof.com/copilot-vs-copilot-pro/#should-you-upgrade-to-copilot-pro)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
  Microsoft Copilot has been the haven for those who want to use OpenAI's ChatGPT Plus without forking out every month.
 
  And you'll be very pleased to hear that isn't changing any time soon—but Microsoft is rolling out Copilot Pro, a new subscription model for its free AI companion, featuring new capabilities, custom GPT support, and deeper integration into its Microsoft 365 suite.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is Copilot Pro?
 
@@ -62,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
  All in all, Microsoft wants Copilot Pro to be "a single AI experience that runs across your devices," providing a unified AI tool that's familiar with every bit of software you use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Much Does Copilot Pro Cost?
@@ -73,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 
  Given the deeper integration of Copilot Pro into Microsoft's ecosystem, the $20 subscription could make Pro a valuable tool versus other tools that are useful in terms of AI but lack specific integrations with regularly used software, especially in business and productivity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should You Upgrade to Copilot Pro?
 
  Users of Microsoft Copilot will note that Copilot Pro now integrates many of the features previously exclusive to ChatGPT Plus—but they still come at a cost. As artificial intelligence development costs money and energy (quite a large amount of both!), there was always going to come a point where the free version of Copilot would begin to miss out on features.
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, given the extensive number of free features Copilot has, I don't expect many folks will be disappointed. Deeper integration with Microsoft 365 is great if you use those tools, but if you're using Copilot as an enhanced internet search engine, these updates won't mean much to you.
@@ -106,20 +106,21 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ultimate-software-showdown-winning-windows-10-video-grabbers/"><u>[New] 2024 Approved Ultimate Software Showdown Winning Windows 10 Video Grabbers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-capture-the-moment-enhancing-and-cutting-video-for-instagram-impact/"><u>[Updated] 2024 Approved Capture the Moment Enhancing and Cutting Video for Instagram Impact</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-a-comprehensive-overview-recording-saving-and-sharing-youtube-videos-for-free/"><u>[Updated] A Comprehensive Overview Recording, Saving & Sharing YouTube Videos for Free</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-navigating-the-undisclosed-terrain-of-youtube-archives-for-2024/"><u>[Updated] Navigating the Undisclosed Terrain of YouTube Archives for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-fusing-frequencies-smoothly-with-logic-pro-x-methods/"><u>2024 Approved Fusing Frequencies Smoothly with Logic Pro X Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-job-application-a-guide-to-building-a-persuasive-cover-letter-with-chatgpt/"><u>Boost Your Job Application: A Guide to Building a Persuasive Cover Letter with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-on-the-go-6-key-benefits-of-opting-for-the-ios-app-over-the-website-version/"><u>ChatGPT on the Go: 6 Key Benefits of Opting for the iOS App Over the Website Version</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discerning-genuine-from-counterfeit-chatbot-tools/"><u>Discerning Genuine From Counterfeit ChatBot Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/emergency-windows-fixes-reanimate-lost-screens-using-6-steps/"><u>Emergency Windows Fixes: Reanimate Lost Screens Using 6 Steps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpts-magic-tricks-unveiling-9-daily-life-boosters/"><u>GPT's Magic Tricks: Unveiling 9 Daily Life Boosters</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guarding-your-chats-how-to-avoid-chatgpt-saving-interactions/"><u>Guarding Your Chats: How to Avoid ChatGPT Saving Interactions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-zte-nubia-flip-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your ZTE Nubia Flip 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-playtime-with-wonder-workshops-dash-a-cutting-edge-stem-learning-toy-on-wheels/"><u>Mastering Playtime with Wonder Workshop's Dash: A Cutting-Edge STEM Learning Toy on Wheels</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/speak-up-transforming-how-you-interact-with-chatgpt-using-vocal-commands/"><u>Speak Up! Transforming How You Interact with ChatGPT Using Vocal Commands</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1723262410376-upgrade-your-workstation-with-the-new-asus-nuc-14-proplus-core-ultra-5-meteor-cus-at-860/"><u>Upgrade Your Workstation with the New Asus NUC 14 Pro+ – Core Ultra 5, Meteor CUs at $860</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guaranteed-safe-approaches-for-turning-youtube-songs-into-mp3-files/"><u>[New] In 2024, Guaranteed Safe Approaches for Turning YouTube Songs Into MP3 Files</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-perfecting-the-green-screen-essential-techniques/"><u>[Updated] 2024 Approved Perfecting the Green Screen Essential Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-superior-plot-strategies-across-diverse-cinematic-fields/"><u>[Updated] Superior Plot Strategies Across Diverse Cinematic Fields</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm44kk44oz44k544k44kw44op44og44oq44o844or5yuv55s744gu44oa44km44oz44ot44o844oj5pa55rov77ya44oi44od44ox77ys44og44kv44ol44od44kv44cn/"><u>「インスタグラムリール動画のダウンロード方法：トップ２テクニック」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm44ot44oh44kq44o744of44ol44o844k444od44kv55so6kqe44ks44kk44oj44cn/"><u>「ビデオ・ミュージック用語ガイド」</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-elite-selections-top-rated-mac-video-recording-apps/"><u>2024 Approved Elite Selections Top-Rated Mac Video Recording Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-graphic-design-evolution-post-acid-review/"><u>2024 Approved Graphic Design Evolution Post-ACID Review</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-video-aspects-on-youtube-perfect-size-and-quality-balance/"><u>2024 Approved Navigating Video Aspects on YouTube Perfect Size & Quality Balance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726030431501-dvdmov/"><u>一歩一丁 DvdをMovフォーマットにするための迅速対応手順</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-delving-into-the-world-of-asmr-soundscapes/"><u>In 2024, Delving Into the World of ASMR Soundscapes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-the-future-of-laptop-design-my-immersive-encounter-with-lenovos-auto-swiveling-innovation-at-ifa-2023-a-visual-marvel-cnet/"><u>Inside the Future of Laptop Design: My Immersive Encounter with Lenovo's Auto-Swiveling Innovation at IFA 2023, a Visual Marvel | CNET</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/transforming-empty-sheets-into-essential-data/"><u>Transforming Empty Sheets Into Essential Data</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028600723-webex/"><u>Webexセッション録画加工：編集方法とテクニック（切り取り、繋ぎ）</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029765954-pc/"><u>ハイブリッドな動画と音声編集手法：PC/スマホ両用ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028441141-iphone/"><u>パワーディレクター使用時のiPhone動画・音楽取り込みガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726026927307-windows/"><u>ライブビデオ通話をWindowsで記録・保管する最善策</u></a></li>
 </ul></div>
 

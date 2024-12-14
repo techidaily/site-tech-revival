@@ -1,7 +1,7 @@
 ---
 title: "Intelligent Conversations: Creating Personalized ChatGPT"
-date: 2024-09-11T19:24:29.723Z
-updated: 2024-09-12T19:24:29.723Z
+date: 2024-12-13T16:41:08.554Z
+updated: 2024-12-14T17:52:38.909Z
 tags:
   - chatgpt
   - open-ai
@@ -23,19 +23,6 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 
  To compare Google Bard and Bing AI Chat, we derived a simple test. We used them to conduct research for an imaginary article on atmospheric CO2 levels and climate change. This enabled us to draw comparisons on several metrics, including the quality and size of the response, the accuracy of the data, and ease of use.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bing Chat vs. Google Bard: Response Quality
 
  We began by asking both platforms an identical question: "How do modern-day CO2 levels compare to the last ice age?"
@@ -48,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The first notable difference is the approach taken in quantifying CO2 levels. Rather than list CO2 levels in terms of ppm, Bing Chat presented the data in terms of percentages.
 
  The length and tone of the responses also differed. The Bing Chat response was shorter and more restrained, not offering opinions on the problem or potential solutions.
@@ -62,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
  Bard produced a longer answer that also discussed the problem and the need to take urgent action. This was outside the focus of the question, but it confirms just how quickly the tone and direction of any research can be swayed depending on the tool you use.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Response Accuracy
@@ -81,10 +58,7 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 ![Screenshot Bard  CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
@@ -99,29 +73,27 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As both platforms are going through rapid development, the user experience will continue to improve.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are the Differences Between the Language Models?
 
@@ -132,13 +104,6 @@ We did manage to get a response from Bard by rewording the prompt.
  GPT-4 is a generative model. It generates answers based on the text it's been trained on. By contrast,[LaMDA works differently](https://www.makeuseof.com/what-is-google-lamda-ai/) —it is a discriminative model, meaning it can distinguish between various kinds of text.
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which Is Best for You: Bing Chat or Google Bard?
 
@@ -175,5 +140,26 @@ We did manage to get a response from Bard by rewording the prompt.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-virtual-reality-walking-platforms-an-in-depth-look/"><u>[Updated] 2024 Approved Virtual Reality Walking Platforms An In-Depth Look</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-earnings-expertise-on-streaming-services-the-ultimate-guide-for-2024/"><u>[Updated] Earnings Expertise on Streaming Services The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-video-extractor-mp3-format-support-for-2024/"><u>[Updated] Facebook Video Extractor – MP3 Format Support for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-zoom-techniques-enhance-photos-and-videos-with-simple-steps/"><u>[Updated] Optimal Zoom Techniques Enhance Photos & Videos with Simple Steps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-visual-storytelling-hack-crafting-youtube-thumbnails-on-mobiles/"><u>2024 Approved Visual Storytelling Hack Crafting YouTube Thumbnails on Mobiles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-techniques-for-reducing-the-file-size-of-mov-videos-efficiently/"><u>Best Techniques for Reducing the File Size of MOV Videos Efficiently</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/black-friday-bargains-alert-exclusive-collection-of-top-5-pc-software-offers-post-thanksgiving-savings-inside/"><u>Black Friday Bargains Alert: Exclusive Collection of Top 5 PC Software Offers, Post-Thanksgiving Savings Inside!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725285559604-dvd/"><u>DVDコピーツール紹介:最新無料アプリとプロ用ソフトウェアの比較レビュー</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-video-production-achieve-optimal-quality-using-winxvideo-artificial-intelligence/"><u>Elevate Video Production: Achieve Optimal Quality Using Winxvideo Artificial Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/erstklassige-audiokonfigurations-tipps-bei-der-konvertierung-von-videoformaten-unter-verwendung-von-handbrake/"><u>Erstklassige Audiokonfigurations-Tipps Bei Der Konvertierung Von Videoformaten Unter Verwendung Von HandBrake</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-conversational-agents-what-does-chatgpt-mean/"><u>Exploring Conversational Agents: What Does ChatGPT Mean?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/o-stabilize-your-camera-without-buying-a-tripod-in-2024/"><u>How to Stabilize Your Camera without Buying a Tripod, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-15-advanced-tips-for-sports-broadcasting-nba/"><u>In 2024, 15 Advanced Tips for Sports Broadcasting (NBA)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-possible-for-chatgpt-to-accurately-answer-mathematical-inquiries/"><u>Is It Possible for ChatGPT to Accurately Answer Mathematical Inquiries?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/los-mejores-grabadores-de-pantalla-para-computadoras-windows-capturando-la-totalidad-en-versiones-10-8-o-7/"><u>Los Mejores Grabadores De Pantalla Para Computadoras Windows: Capturando La Totalidad en Versiones 10, 8 O 7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/offiziell-bestes-paket-zum-erwerb-der-winx-mediatrans-volllizenz-fur-ios-gerate/"><u>Offiziell: Bestes Paket Zum Erwerb Der WinX MediaTrans Volllizenz Für iOS-Geräte</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-graphics-driver-errors-a-comprehensive-troubleshooting-guide/"><u>Resolving Graphics Driver Errors: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-steps-to-enjoying-hd-content-connecting-and-playing-dvds-on-universal-models-including-samsung-sony-and-lg-televisions/"><u>Simple Steps to Enjoying HD Content: Connecting and Playing DVDs on Universal Models (Including Samsung, Sony & LG Televisions)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winx-dvd-copy-pro-effortless-dvd-to-iso-conversion-and-dvd-cloning/"><u>WinX DVD Copy Pro: Effortless DVD-to-ISO Conversion and DVD Cloning</u></a></li>
+</ul></div>
 

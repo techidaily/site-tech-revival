@@ -1,7 +1,7 @@
 ---
 title: Understanding the 7 Key Arguments Against Adopting Generative AI in Chatbot Systems
-date: 2024-12-06T17:02:31.414Z
-updated: 2024-12-08T16:24:59.949Z
+date: 2024-12-12T17:07:28.449Z
+updated: 2024-12-14T17:58:50.471Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -53,13 +57,13 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Google Gemini AI
 
@@ -90,36 +94,32 @@ Here's the source screenshot.
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
 
@@ -144,18 +144,22 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-unleash-potential-10-top-motivational-gems/"><u>[New] Unleash Potential 10 Top Motivational Gems</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-keeping-balance-in-the-world-of-immersive-virtuality-for-2024/"><u>[Updated] Keeping Balance in the World of Immersive Virtuality for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-free-youtube-to-wav-downloader-and-converter-tools-top-picks-for-high-quality-audio-extraction/"><u>Best Free YouTube to WAV Downloader & Converter Tools: Top Picks for High-Quality Audio Extraction</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/handbrake-enhancement-fix-restoring-full-title-display-for-improved-media-conversion-experience/"><u>HandBrake Enhancement Fix: Restoring Full Title Display for Improved Media Conversion Experience</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-oneplus-12r-easily-by-drfone-android/"><u>How To Unlock a OnePlus 12R Easily?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-quick-file-scan-in-windows/"><u>Navigating Quick File Scan in Windows</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-free-game-downloads-the-top-10plus-sites-you-need-for-2024/"><u>New Free Game Downloads The Top 10+ Sites You Need for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-13-mini-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 13 mini</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-guide-swift-recovery-of-your-iphone-using-icloud-without-a-time-consuming-process/"><u>Quick Guide: Swift Recovery of Your iPhone Using iCloud Without a Time-Consuming Process</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slime-to-the-rescue-effective-methods-for-deep-cleaning-your-keyboard-at-home-digitalhealthtips/"><u>Slime to the Rescue! Effective Methods for Deep-Cleaning Your Keyboard at Home | DigitalHealthTips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-for-shifting-media-files-between-a-mac-and-iphone-xsxr/"><u>Step-by-Step Instructions for Shifting Media Files Between a Mac and iPhone XS/XR</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-converting-hd-dvd-iso-files-to-premium-avi-format-on-your-mac/"><u>Ultimate Guide: Converting HD DVD ISO Files to Premium AVI Format on Your Mac</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-make-a-youtube-trailer-by-filmora/"><u>[Updated] How to Make a YouTube Trailer by Filmora</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-accelerate-conversion-srt-to-text-txt-in-minutes-only/"><u>2024 Approved Accelerate Conversion SRT to Text (TXT) in Minutes Only</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-digital-dollars-an-effective-way-to-understand-youtube-revenue-dynamics/"><u>Decoding Digital Dollars An Effective Way to Understand YouTube Revenue Dynamics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-essay-quality-with-chatgpt-strategies-for-effective-research/"><u>Enhancing Essay Quality with ChatGPT: Strategies for Effective Research</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-editing-unveiling-the-top-15-cine-luts-for-action-cam-for-2024/"><u>Immersive Editing Unveiling the Top 15 Cine LUTs for Action Cam for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-video-editing-hack-how-to-reverse-clips-in-final-cut-pro/"><u>New 2024 Approved Video Editing Hack How to Reverse Clips in Final Cut Pro</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/rehabilitation-des-fichiers-trois-strategies-pour-lutter-contre-les-suppressions-automatiques-en-vainqueurs-google/"><u>Réhabilitation Des Fichiers : Trois Stratégies Pour Lutter Contre Les Suppressions Automatiques en Vainqueurs Google</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-trimming-extended-footage-for-your-instagram-story-with-zero-quality-degradation/"><u>Step-by-Step Tutorial on Trimming Extended Footage for Your Instagram Story with Zero Quality Degradation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-2024-freemium-video-transcoding-apps-for-movies-compare-windows-mac-and-web-based-solutions/"><u>Top 2024 Freemium Video Transcoding Apps for Movies: Compare Windows, Mac and Web-Based Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-strategies-for-transforming-mpeg-content-into-advanced-h264-format/"><u>Top Strategies for Transforming MPEG Content Into Advanced H.264 Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-ranked-avcam-video-editor-from-dvd-to-avi-ideal-choice-for-windows-11-users/"><u>Top-Ranked AVCam Video Editor From DVD to AVI: Ideal Choice for Windows 11 Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-issues-why-cant-i-watch-my-mov-videos-on-plex-and-how-to-solve-it/"><u>Troubleshooting Issues: Why Can't I Watch My MOV Videos on Plex and How to Solve It?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-detailed-steps-to-extract-data-from-your-dvd-on-windows-and-mac/"><u>Ultimate Guide: Detailed Steps to Extract Data From Your DVD on Windows & Mac</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ultimate-review-of-mophie-powerstation-ac-expensive-yet-incredibly-handy/"><u>Ultimate Review of Mophie PowerStation AC: Expensive Yet Incredibly Handy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-on-transforming-mp3-audio-to-enhanced-dts-sound-quality/"><u>Ultimate Tutorial on Transforming MP3 Audio to Enhanced DTS Sound Quality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unable-to-burn-dvd-using-wmp-expert-tips-for-seamless-conversion-and-playback-solutions/"><u>Unable to Burn DVD Using WMP? Expert Tips for Seamless Conversion & Playback Solutions</u></a></li>
 </ul></div>
 

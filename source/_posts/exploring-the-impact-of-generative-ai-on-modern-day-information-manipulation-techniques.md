@@ -1,7 +1,7 @@
 ---
 title: Exploring the Impact of Generative AI on Modern-Day Information Manipulation Techniques
-date: 2024-12-05T16:07:55.764Z
-updated: 2024-12-08T16:37:48.048Z
+date: 2024-12-07T16:24:11.567Z
+updated: 2024-12-14T17:14:19.813Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Potential Risks of Generative AI to Spread Disinformation
 
  Generative AI poses many threats to people, like taking away jobs, more surveillance, and cyberattacks. And the[security problems with AI will get even worse](https://www.makeuseof.com/reasons-generative-ai-security-issues-will-worsen/) . But there's another worry: people can use it to spread lies. Deceptive individuals can use generative AI to share fake news through visual, auditory, or textual content.
@@ -39,7 +43,7 @@ False news can be categorized into three types:
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
@@ -56,15 +60,7 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -78,7 +74,7 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -89,6 +85,10 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -96,6 +96,10 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -107,10 +111,6 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -133,22 +133,18 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unleashing-3d-text-a-photoshop-technique/"><u>[New] Unleashing 3D Text A Photoshop Technique</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-leading-software-lineup-8-linux-editing-sleuths/"><u>2024 Approved Leading Software Lineup 8 Linux Editing Sleuths</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mastering-your-console-innovative-approaches-to-xbox-captures/"><u>2024 Approved Mastering Your Console Innovative Approaches to Xbox Captures</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-free-dvd-players-for-windows-7-top-picks/"><u>Best Free DVD Players for Windows 7: Top Picks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/defeating-fortnites-persistent-freezing-problem-on-pc-2024-updates/"><u>Defeating Fortnite's Persistent Freezing Problem on PC - 2024 Updates</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effettua-gratuitamente-la-conversione-di-video-avi-in-mov-utilizzando-vlc-opzioni-on-page-e-offline/"><u>Effettua Gratuitamente La Conversione Di Video AVI in MOV Utilizzando VLC, Opzioni On-Page E Offline</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/freely-convert-ibooks-on-android-a-straightforward-guide-with-no-cost-involved/"><u>Freely Convert iBooks on Android: A Straightforward Guide with No Cost Involved</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-stream-htc-videos-using-the-no-cost-htc-media-player-for-pcs-and-laptops/"><u>How to Stream HTC Videos Using the No-Cost HTC Media Player for PCs and Laptops</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-reno-9a-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo Reno 9A Lock Screen Password?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/las-5-herramientas-ideales-para-ver-videos-en-alta-definicion-4k-escogiendo-el-mejor-reproductor-para-pcmac/"><u>Las 5 Herramientas Ideales Para Ver Videos en Alta Definición 4K: Escogiendo El Mejor Reproductor Para PC/Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/les-meilleurs-logiciels-de-gravure-video-gratuit-pour-windows-top-3-compared/"><u>Les Meilleurs Logiciels De Gravure Vidéo Gratuit Pour Windows - Top 3 Compared</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-freeware-dvd-ripper-programme-fur-windows-10-und-11-der-vergleich-202n-beste-optionen-ermitteln/"><u>Top-Freeware DVD-Ripper Programme Für Windows 10 Und 11: Der Vergleich 202N - Beste Optionen Ermitteln!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-computers-a-comprehensive-guide-by-zdnet/"><u>Top-Rated Apple Computers - A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/total-insight-navigating-through-googles-podcast-app/"><u>Total Insight Navigating Through Google's Podcast App</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-top-rated-dvd-ripper-software-for-quick-and-smooth-video-extraction/"><u>Ultimate Guide: Top Rated DVD Ripper Software for Quick and Smooth Video Extraction</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-optimal-data-buffering-for-sony-a7s-ii/"><u>[New] 2024 Approved Optimal Data Buffering for Sony A7S II</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-tips-to-counteract-obs-fullscreen-woes/"><u>2024 Approved Tips to Counteract OBS Fullscreen Woes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-creative-potential-using-luts-for-color-grading-in-ae/"><u>2024 Approved Unlocking Creative Potential Using LUTs for Color Grading in AE</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726225749724-flvmp4movavi/"><u>線上自由Flv到Mp4再生的轉換方法：如何精通Movavi的改版技術</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-traditional-cable-with-modern-streaming-platforms-a-comprehensive-guide/"><u>Comparing Traditional Cable with Modern Streaming Platforms: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/converti-file-asf-in-formato-mp4-gratuitamente-online-con-movavi/"><u>Converti File ASF in Formato MP4 Gratuitamente - Online Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/converti-immagini-raw-cr2-a-formato-tiff-gratuitamente-su-internet-con-movavi-guida-passo-passo-e-gratuita/"><u>Converti Immagini RAW CR2 a Formato TIFF Gratuitamente Su Internet Con Movavi - Guida Passo-Passo E Gratuita</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-converter-change-opus-files-to-wma-format-movavi/"><u>Free Online Converter: Change OPUS Files to WMA Format - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guia-pratico-gravar-chamadas-de-video-no-whatsapp-desde-computadores-ate-celulares-facilmente/"><u>Guia Prático - Gravar Chamadas De Vídeo No WhatsApp Desde Computadores Até Celulares Facilmente</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-htc-u23-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your HTC U23 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/page-located-access-your-content-discover-what-was-once-missing/"><u>Page Located - Access Your Content: Discover What Was Once Missing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-10-audio-editing-software-solutions-expertly-choosing-the-right-mixer-app/"><u>Top 10 Audio Editing Software Solutions: Expertly Choosing the Right Mixer App</u></a></li>
+<li><a href="https://discover-data.techidaily.com/luchshie-2-metoda-klonirovaniya-zhestkih-diskov-noutbukov-dell-bez-perezagruzki-operacionnoj-sistemy/"><u>Лучшие 2 Метода Клонирования Жестких Дисков Ноутбуков Dell Без Перезагрузки Операционной Системы</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Real Talk on Using Local Language Models
-date: 2024-12-04T17:17:03.210Z
-updated: 2024-12-08T16:51:33.402Z
+date: 2024-12-09T16:19:58.738Z
+updated: 2024-12-14T16:02:03.395Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. What's the Best Place to Start?
 
 ![ChatGPT Plus best way to learn a language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-best-way-to-learn-a-language-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Naturally, we started by asking ChatGPT about the best place to start and how it can help. ChatGPT recommends that you set clear goals, learn vocabulary in context, listen to and mimic native speakers, and take notes. All of this is solid advice.
 
@@ -64,21 +64,21 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Grammar and syntax provide the structure and rules necessary to communicate and understand others. ChatGPT can help you learn the grammar and syntax rules by providing real-time feedback, explanations, and examples during written interactions. Since ChatGPT is all about interactivity, it does a better job here than most language-learning apps.
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Personalized Tests
 
 ![ChatGPT Plus Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-test.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Quizzes and tests are a common feature of most language learning apps. It helps you to check your progress and determine your weak points. ChatGPT is quite good at creating such tests, but you must be creative with the prompts.
 
@@ -91,6 +91,10 @@ Here's how you can create your own personalized tests:
 3. Determine the test length by specifying the number of questions. You can also set a time limit, but you'll have to time yourself.
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Cultural Learning
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
@@ -98,10 +102,6 @@ Here's how you can create your own personalized tests:
  Languages and cultures are closely intertwined. By learning a new language, you can gain insight into the traditions, values, customs, and history of those who speak the language. While learning a language with ChatGPT, you can ask for cultural context, references, and social norms that are present in the language. This helps you understand how native speakers communicate.
 
  You can also get insights into cultural phenomena such as historical events, festivals, celebrations, and more. Then, you can ask ChatGPT to provide you with resources such as movies, books, and music in the language you're trying to learn. The key here is to ask anything you can think of about the language and culture.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. How Does It Compare to Other Alternatives?
 
@@ -112,7 +112,7 @@ Here's how you can create your own personalized tests:
  ChatGPT Plus may not provide you with the speaking or listening capabilities to help with pronunciation that other[language-learning apps](https://www.makeuseof.com/tag/five-free-apps-help-learn-foreign-language/) have, but it acts as your teacher that understands context and your progress. These two items help expedite your journey of learning a new language—something no other app can really do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is the Perfect Partner for Learning a New Language
@@ -134,20 +134,19 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-discover-top-emulated-psp-classics-on-ios/"><u>[New] 2024 Approved Discover Top Emulated PSP Classics on iOS</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-streamlining-video-transmission-from-facebook-to-whatsapp/"><u>[Updated] In 2024, Streamlining Video Transmission From Facebook to WhatsApp</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-uncovering-best-in-class-steadicams-for-high-end-dslr-projects/"><u>[Updated] Uncovering Best-in-Class Steadicams for High-End DSLR Projects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44cm5oml44ow44os44o844kr44o844ks6zal5ael44gn44gn44gq44ge6ium5yq044gr5pya6ygpisatioocqoodqeodvoezuueunplusobqowkieapmpluswkseavlplusobruinoplusa2ioazleoajq.m79/"><u>「手ブレーカーを開始できない苦労に最適! - エラー発生と変換失敗の解消法」</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-digital-archivists-toolkit-downloading-videos-from-messenger/"><u>2024 Approved The Digital Archivist's Toolkit Downloading Videos From Messenger</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/2024s-ultimate-selection-of-best-in-class-smartwatches-unveiled/"><u>2024'S Ultimate Selection of Best-in-Class Smartwatches Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725288567957-ai/"><u>AI動画制作のワンプライズ解析：フリーテキストからビデオ生成手順</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-honor-90-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Honor 90 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-download-and-install-kyocera-printer-drivers-on-your-windows-pc/"><u>How to Download & Install KYOCERA Printer Drivers on Your Windows PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/kompetente-umwandlung-von-videodateien-mit-digiarty-software-fur-dvds/"><u>Kompetente Umwandlung Von Videodateien Mit Digiarty Software Für DVDs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/les-5-meilleurs-lecteurs-video-uhd-4k-pour-ordinateurs-pcmac-commentaires-des-utilisateurs-et-guides-dinstallation/"><u>Les 5 Meilleurs Lecteurs Vidéo UHD 4K Pour Ordinateurs PC/MAC | Commentaires Des Utilisateurs Et Guides D'installation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mkv-5-mkv/"><u>MKV 再生専用プレイヤートップ5 - 無料で軽量設計: スムーズなMKVファイル鑑賞方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/schritt-fur-schritt-anleitung-zum-kopieren-von-dvd-inhalten-auf-pcs-unter-windows-10-bzw-mac-os-maximale-effizienz-sicherstellen/"><u>Schritt-Für-Schritt-Anleitung Zum Kopieren Von DVD-Inhalten Auf PCs Unter Windows 10 Bzw. Mac OS: Maximale Effizienz Sicherstellen!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-ffmpeg-walkthrough-comprehensive-guide-for-modifying-video-dimensions-efficiently/"><u>Ultimate FFmpeg Walkthrough: Comprehensive Guide for Modifying Video Dimensions Efficiently</u></a></li>
-<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-in-windows-11-by-drivereasy-guide/"><u>Update your drivers with Device Manager in Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-10-leading-budget-friendly-quality-webcall-providers-for-2024/"><u>[New] 10 Leading Budget-Friendly, Quality Webcall Providers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-secrets-of-efficient-virtual-seminar-capture/"><u>[New] 2024 Approved Secrets of Efficient Virtual Seminar Capture</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mpeg3gpmovavi/"><u>免费在线将MPEG视频转化为3GP：如何利用Movavi编解码器</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-kivalasztott-hatarzokba-a-legjobb-ocakkal-szolo-tv-futarak-epitesekbe-movavi/"><u>A Kiválasztott Határzókba - A Legjobb Ócakkal Szóló TV Futárák Építésekbe - Movavi</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/beginners-guide-to-viral-videos-discover-100-unique-content-ideas-just-for-you/"><u>Beginner's Guide to Viral Videos: Discover 100 Unique Content Ideas Just for You</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/extracting-images-from-videos-a-comprehensive-guide-6-alternative-methods/"><u>Extracting Images From Videos - A Comprehensive Guide (6 Alternative Methods)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-nvidia-rtx-3060-ti-graphics-card-driver-software-optimized-for-windows-1011-users/"><u>Get the Newest NVIDIA RTX 3060 Ti Graphics Card Driver Software - Optimized for Windows 10/11 Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-converter-de-imagens-nova-versao-do-movavi-para-conversao-online/"><u>Gratis Converter De Imagens - Nova Versão Do Movavi Para Conversão Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-en-online-omstandigheidsbestandstype-asf-naar-avi-vorm-bij-movavi/"><u>Gratis en Online: Omstandigheidsbestandstype ASF Naar Avi-Vorm Bij Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-can-you-tell-if-youre-actually-hearing-dolby-atmos-surround-sound/"><u>How Can You Tell If You're Actually Hearing Dolby Atmos Surround Sound?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-comprehensive-scrutiny-of-elite-parrot-ar-20/"><u>In 2024, Comprehensive Scrutiny of Elite Parrot AR 2.0</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-12-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 12? Complete Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-yuva-3-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Lava Yuva 3 Bootloader Easily</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp3-file-compression-top-4-methods-on-mac-and-pc/"><u>MP3 File Compression: Top 4 Methods on Mac and PC</u></a></li>
 </ul></div>
 
