@@ -1,7 +1,7 @@
 ---
 title: The Mechanics of AI Black Boxes Explained for Better Insight and Transparency
-date: 2024-12-02T16:24:22.880Z
-updated: 2024-12-08T17:15:04.946Z
+date: 2024-12-19T17:57:44.968Z
+updated: 2024-12-23T19:24:22.311Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -63,22 +63,22 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-channel-growth-guide-top-5-video-marketing-tactics-revealed/"><u>[New] The Ultimate Channel Growth Guide Top 5 Video Marketing Tactics Revealed</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-mastering-macs-preview-app-an-in-depth-tutorial-for-users/"><u>[Updated] Mastering Mac's Preview App An In-Depth Tutorial for Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-windows-podcast-experiences-unveiled/"><u>[Updated] Premium Windows Podcast Experiences Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bypassing-iphone-activation-errors-a-comprehensive-troubleshooting-guide/"><u>Bypassing iPhone Activation Errors: A Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725287675576-digiartydvd/"><u>Digiartyソフトウェアの最新動向とDVDコピーガイド - 情報センター</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-leading-dvd-subtitle-software-for-windows-11-the-top-three-choices/"><u>Discover the Leading DVD Subtitle Software for Windows 11 - The Top Three Choices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvd-burning-made-easy-a-step-by-step-guide-to-converting-and-writing-iso-files-on-dvd-with-windows-11-8-or-7/"><u>DVD Burning Made Easy: A Step-by-Step Guide to Converting and Writing ISO Files on DVD with Windows 11, 8, or 7</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-depth-of-knacks-main-figure-against-a-backdrop-of-conventional-storytelling/"><u>Exploring the Depth of Knack's Main Figure Against a Backdrop of Conventional Storytelling</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-drawbacks-of-having-chatgpt-as-your-go-to-app-on-mobile-devices/"><u>Exploring the Drawbacks of Having ChatGPT as Your Go-To App on Mobile Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fastest-technique-for-converting-avchd-mts-videos-into-wmv-format/"><u>Fastest Technique for Converting AVCHD .MTS Videos Into WMV Format</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/inside-the-directors-cut-a-complete-review-of-powerdirector-2024/"><u>Inside the Director’s Cut A Complete Review of PowerDirector 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-the-8-premier-no-cost-html-editors-for-windows-devices/"><u>The Ultimate List of the 8 Premier No-Cost HTML Editors for Windows Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-ranking-manycam-app-best-live-streaming-and-remote-webcam-solutions/"><u>Top-Ranking ManyCam App - Best Live Streaming and Remote Webcam Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transferring-films-effortlessly-steps-for-migrating-videos-from-pc-directly-to-your-ipad-avoiding-syncingitunes/"><u>Transferring Films Effortlessly: Steps for Migrating Videos From PC Directly to Your iPad Avoiding Syncing/iTunes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-free-and-paid-dvd-unlockers-on-windows-and-macos-find-your-best-match/"><u>Ultimate Guide to Free and Paid DVD Unlockers on Windows and macOS – Find Your Best Match!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/virtual-assistance-hub-solutions-for-winx-dvd-rippingvideo-format-changer-tool/"><u>Virtual Assistance Hub: Solutions for WinX DVD Ripping/Video Format Changer Tool</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/wmv-avi-movavi/"><u>フリーウェブベースWMV Avi コンバーター - Movaviサポート</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-youtube-optimization-peak-times-for-maximum-impact/"><u>[New] 2024 Approved YouTube Optimization Peak Times for Maximum Impact</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-guide-understanding-google-podcasts/"><u>[New] Comprehensive Guide Understanding Google Podcasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-advanced-strategies-for-rl-capture-success/"><u>[New] In 2024, Advanced Strategies for RL Capture Success</u></a></li>
+<li><a href="https://facebook.techidaily.com/12-benefits-to-giving-your-social-life-a-break/"><u>12 Benefits to Giving Your Social Life a Break</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-cryptocurrency-investments-top-5-benefits-of-using-chatgpt/"><u>Boost Your Cryptocurrency Investments: Top 5 Benefits of Using ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-chatgpt-be-used-as-a-proofreader/"><u>Can ChatGPT Be Used as a Proofreader?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-cocktail-creation-how-effective-is-it/"><u>ChatGPT and Cocktail Creation – How Effective Is It?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-the-downsides-a-look-into-its-limitations-in-summarization/"><u>ChatGPT and the Downsides: A Look Into Its Limitations in Summarization</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversational-ai-the-new-era-of-interactive-communication/"><u>Conversational AI: The New Era of Interactive Communication</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-effective-policies-for-ai-supervision-assessing-the-roles-of-different-entities/"><u>Crafting Effective Policies for AI Supervision: Assessing the Roles of Different Entities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/customizing-client-workouts-a-trainers-guide-to-leveraging-chatgpt/"><u>Customizing Client Workouts: A Trainer's Guide to Leveraging ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-functions-7-apps-with-gpt-4/"><u>Demystifying Functions: 7 Apps with GPT-4</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-automatic-aspect-ratios-in-imovie/"><u>Exploring Automatic Aspect Ratios in iMovie</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-a24-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-amd-smbus-driver-update-fast-simple-installation-steps/"><u>Latest AMD SMBus Driver Update: Fast, Simple Installation Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/strategies-for-planning-optimal-nutrition-using-ai-insights-from-chatgpt-experts/"><u>Strategies for Planning Optimal Nutrition Using AI: Insights From ChatGPT Experts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-realme-gt-5-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Realme GT 5 Device</u></a></li>
 </ul></div>
 

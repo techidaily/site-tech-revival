@@ -1,7 +1,7 @@
 ---
 title: Discover the Best ChatGPT Plugins for Superior AI Prompts and Responses on Chrome
-date: 2024-12-11T16:16:55.907Z
-updated: 2024-12-14T18:21:25.144Z
+date: 2024-12-19T18:07:51.156Z
+updated: 2024-12-23T19:05:44.076Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
 
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Throughout 2022 and 2023, we've seen just how advanced AI systems currently are. The most notable AI-based service launched during this time is ChatGPT, a language processing tool powered by artificial intelligence. Not long after its launch, stories began surfacing about[cybercriminals using ChatGPT to write malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) . While the malware only seemed to be a simple Python-based script, it showed that AI can, in fact, be leveraged maliciously.
 
  But things don't stop with ChatGPT. There are countless AI tools out there today that are being continuously developed, so there's no knowing how more advanced version of such software can be used to commit cybercrime.
@@ -44,10 +48,6 @@ It was also stated in the same report that:
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
 
  It's the gravity of supply chain's influence that has made it an attractive target for cybercriminals. As the demand for mass production and global shipping increases, so does the impact of hacks on supply chain systems.
@@ -58,11 +58,19 @@ It was also stated in the same report that:
 
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Zero-trust systems do not rely on any user or group of users to authenticate, monitor, or store data. Additionally, every user present in a zero-trust system must authorize access to a new user, otherwise the system remains off-limits to that individual. In short, a zero-trust system is designed not to trust any one individual. All users are assumed untrustworthy unless authentication is provided by other users.
 
  In terms of cybersecurity, a zero-trust system can be a huge benefit. A lot of current networks—be it those used for data storage, social communication, media sharing, or server hosting—are not designed to be zero-trust. This means that the system puts a level of trust in certain users. If a given user turns out to be malicious and the system has already decided to trust them, cyberattacks become possible.
 
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Further Exploit of EV Security Systems
 
@@ -76,13 +84,13 @@ It was also stated in the same report that:
 
  This is just one of the numerous[types of EV hacks](https://www.makeuseof.com/can-electric-vehicles-be-hacked/) that are possible. In order to avoid this, EV manufacturers need to thoroughly vet their software to ensure vulnerabilities aren't being left behind in the code.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Improved Smart Home and IoT Security
 
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  IoT devices make our day-to-day lives possible. Whether you're using your smartphone, smart speaker, smartwatch, or anything similar, IoT is facilitating your actions. In short IoT is a blanket term covering all interconnected devices. This network of connected "things" forms its own[Internet of Things (IoT)](https://www.makeuseof.com/tag/what-is-internet-of-things/) . It's this increased connectivity forming the Internet of Things that has attracted cybercriminals.
 
@@ -92,17 +100,9 @@ It was also stated in the same report that:
 
  Because of this growing threat, smart home and IoT security is expected to see an improvement throughout 2024\. Providing patches for vulnerabilities, offering more security features (such as encryption and two-factor authentication), and conducting regular code audits can all help to fend of cyberattacks aimed towards IoT devices and smart homes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Further Exploit of Cloud Platforms
 
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.
 
@@ -114,15 +114,15 @@ It was also stated in the same report that:
 
 ![laptop surrounded by cybersecurity buzzwords ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There's no shortage of scammers looking to profit from current events. We saw a slew of scams arise from the COVID-19 pandemic, but things don't stop there. The Russia-Ukraine war and the Israel-Palestine conflict have also been used throughout 2023 to squeeze money out of victims through social engineering.
 
  For instance, a scammer may email a potential victim claiming to be a representative for a charity. They provide a link to a donation page so that the recipient can provide some money for the cause. But in reality, the charity is either make-believe, or the sender is impersonating an employee from a well known charitable organization. The scammer may be looking for a one-off payment, but they could also be providing a link to a phishing site designed to steal the victim's payment details. Either way, the recipient ends up losing out.
 
  As we continue to see more conflicts, tragedies, and scandals arise, there's no doubt that cybercriminals will continue to try and profit from other people's hardships.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Each Year Brings New Cybersecurity Threats
 
@@ -143,16 +143,19 @@ It was also stated in the same report that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-front-seat-escapades-beyond-athletic-viewing/"><u>[Updated] Front Seat Escapades Beyond Athletic Viewing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-guide-for-sporty-streamers-on-mac/"><u>[Updated] Step-by-Step Guide for Sporty Streamers on Mac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-film-titles-that-spur-positive-change-and-action-steps/"><u>2024 Approved Film Titles That Spur Positive Change & Action Steps</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-5-tiktok-voice-generators-you-should-try-for-2024/"><u>Best 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/comprehensive-tutorial-on-how-to-refresh-your-intel-centrino-advanced-n/"><u>Comprehensive Tutorial on How to Refresh Your Intel Centrino Advanced-N 지원자동 드라이버</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-rotate-photo-hacks-mastering-the-art-of-quick-and-simple-image-transformations/"><u>Easy-Rotate Photo Hacks: Mastering the Art of Quick and Simple Image Transformations</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-market-leading-6-platforms-enhancing-biz-interaction/"><u>In 2024, Market-Leading 6 Platforms Enhancing Biz Interaction</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/m2ts-mp4-movavi/"><u>M2TS를 MP4로 변환하는 방법 : Movavi 비디오 콜레이터 안내서</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/os-melhores-software-gratuito-de-desenho-e-animacao-tridimensional-para-criativos-selecao-do-topo-para-2024/"><u>Os Melhores Software Gratuito De Desenho E Animação Tridimensional Para Criativos: Seleção Do Topo Para 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-audio-editing-software-free-download/"><u>Top Audio Editing Software - Free Download</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-huawei-nova-10-youth-edition-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Huawei Nova 10 Youth Edition on Windows?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ultivating-confidence-for-captivating-your-youtube-audience/"><u>[New] Cultivating Confidence for Captivating Your YouTube Audience</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-curator-of-tweets-premium-compilation-toolkit/"><u>[New] Curator of Tweets - Premium Compilation Toolkit</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/4-ai-powered-online-murder-mystery-puzzles-and-games-to-play-detective/"><u>4 AI-Powered Online Murder Mystery Puzzles and Games to Play Detective</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-ais-rising-tide-of-security-issues/"><u>Advanced AI's Rising Tide of Security Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showdown-unveiling-the-crucial-contrasts-between-chatgpt-and-bings-intelligent-companion/"><u>AI Showdown: Unveiling the Crucial Contrasts Between ChatGPT & Bing's Intelligent Companion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-indoor-digital-tv-quality-with-the-right-antenna-solutions/"><u>Boost Indoor Digital TV Quality with the Right Antenna Solutions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-8-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 8 iCloud Bypass</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maintaining-conversational-confidentiality-for-bots/"><u>Maintaining Conversational Confidentiality for Bots</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quip-quarterly-event-oriented-joke-anthology-for-2024/"><u>Quip Quarterly Event-Oriented Joke Anthology for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721971415556-smart-savings-snag-a-phone-for-just-50-plus-dive-into-the-world-of-ransomware-decryption/"><u>Smart Savings: Snag a Phone for Just $50! Plus, Dive Into the World of Ransomware Decryption</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-and-retrieve-files-from-a-forgotten-password-laptop-step-by-step-solutions-endorsed-by-zdnet-experts/"><u>Unlock and Retrieve Files From a Forgotten-Password Laptop: Step-by-Step Solutions Endorsed by ZDNET Experts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-nine-innovative-options-better-than-openais-chatbot-app-for-android-and-ios-devices/"><u>Unveiling Nine Innovative Options Better than OpenAI's Chatbot App for Android and iOS Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722104601220-what-to-look-forward-to-with-gpt-5-estimated-launch-timeline-available-now/"><u>What to Look Forward to with GPT-5 – Estimated Launch Timeline Available Now</u></a></li>
 </ul></div>
 

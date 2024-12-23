@@ -1,7 +1,7 @@
 ---
 title: Magazine Horoscopes or ChatGPT Predictions – Can Tech Outshine Tradition?
-date: 2024-12-03T16:13:43.633Z
-updated: 2024-12-08T16:14:21.674Z
+date: 2024-12-18T18:09:07.624Z
+updated: 2024-12-23T19:32:23.199Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
  You can still[use ChatGPT like a search engine](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) . Just make sure you don’t take its answers at face value; otherwise, you might publish misleading information. As a general rule, always compare AI responses with official resources.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Language Models Like GPT-3 Follow Templates
 
  Modern AI platforms use[sophisticated language models like GPT-3](https://www.makeuseof.com/what-is-gpt-3-and-is-it-really-the-future-of-creative-work/) . They execute aggressive machine and deep learning methods to produce human-like text.
@@ -49,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 ![ChatGPT Generated a 200-Word Article on Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-about-dogs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Overdependence on AI Makes You a Lazy Researcher
@@ -60,13 +64,13 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
  Before writing, make sure you study your subject. Extensive research is the core of every well-written piece—spend at least 30 to 60 minutes reading online sources. You can provide value by comparing resources, laying down verified facts, and asserting well-founded conclusions. Simply paraphrasing what chatbots say is senseless.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. AI Scrapes Commonly Published Information
 
 ![Copy.ai Generates an Article on Taking Care of Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-on-dogs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  AI avoids inaccuracies by generating generic responses. Take the above piece as an example. When we asked an AI writing tool to talk about dog care, it focused on super-common tips, which readers have likely seen multiple times. The below photo also shows that its insights came from an unreliable source.
 
@@ -76,19 +80,23 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
  Of course, you can still discuss general subjects. Just make sure you cover a unique angle or stand that aligns with your branding and image.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. AI Generates the Same Results for Similar Questions
 
  While AI scans billions of resources, its answers contain the same information. Chatbots and writing tools generate formulaic text comprising repeated data, regardless of how you state questions. Restructuring prompts will only trigger sentence variations.
 
  For more accurate insights, double-check facts by visiting reputable, credible resources. Also, compare differing opinions. There are several ways to approach topics—you don’t have to copy the story angles of your AI tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. AI Can’t Adopt Your Tone
 
 ![ChatGPT Generates Dog Articles in Different Tones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-dog-articles-examples.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  AI writing tools and chatbots can structure responses in certain ways. For instance, the above photo shows that ChatGPT could form professional and casual variations of the same topic. Generally, if you insert specific keywords into your prompts, you’ll trigger detailed changes.
 
@@ -104,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
  If you want top-ranking pages, focus on providing value. Haphazardly instructing writing tools and chatbots to stuff keywords into lengthy, generic blogs yields negligible results. Search engines might even qualify your site as spam.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Many Premium Plagiarism Checkers Flag AI-Generated Pieces
 
 ![Plagiarism Checker Results of AI-Generated Text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/plagiarism-checker-results.jpg)
@@ -117,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
  With that said, they’re still unoriginal. Chatbots and writing tools only escape plagiarism technicalities through formulaic paraphrasing. Spinning bypasses many plagiarism detectors, after all.
 
  Writers have differing opinions about the morality of publishing AI content and plagiarism, but as a respectable professional, you should do your own research. Never risk plagiarizing content. Study the topics for yourself, draw logical conclusions, then convey them in your own words.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use AI Chatbots Responsibly
 
@@ -143,18 +143,20 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-a-compreranly-approach-to-high-quality-ps3-video-capture/"><u>2024 Approved A Compreranly Approach to High-Quality PS3 Video Capture</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/authenticity-audit-filtering-out-pretend-facebook-fans/"><u>Authenticity Audit Filtering Out Pretend Facebook Fans</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comment-installer-et-utiliser-correctement-le-logiciel-winxdvd-une-guidance-etape-par-etape/"><u>Comment Installer Et Utiliser Correctement Le Logiciel WinXDVD : Une Guidance Étape Par Étape</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/connect-with-ease-the-ultimate-guide-to-contacting-digiatry/"><u>Connect with Ease: The Ultimate Guide to Contacting Digiatry</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gli-strumenti-e-le-tecniche-piu-efficace-per-ridurre-al-minimo-le-dimensioni-dei-file-mov-i-segreti-per-lefficienza/"><u>Gli Strumenti E Le Tecniche Più Efficace per Ridurre Al Minimo Le Dimensioni Dei File MOV – I Segreti Per L'Efficienza</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/googles-bard-the-next-challenger-to-dominant-chatgpt/"><u>Google's 'Bard': The Next Challenger to Dominant ChatGPT</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-on-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How to Screen Share on Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-diverse-technology-scrutiny-easeus-edition/"><u>In 2024, Diverse Technology Scrutiny EaseUS Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/kann-man-mit-handbrake-av1-videos-kodieren/"><u>Kann Man Mit HandBrake AV1-Videos Kodieren?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/les-10-meilleurs-outils-avances-pour-lamelioration-video-ia-sans-cout-compatible-windows-et-mac/"><u>Les 10 Meilleurs Outils Avancés Pour L'Amélioration Vidéo IA Sans Coût, Compatible Windows Et Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-transition-step-by-step-tutorial-for-digitizing-dvds-on-windows-mac-os-and-smartphones/"><u>Seamless Transition: Step-by-Step Tutorial for Digitizing DVDs on Windows, Mac OS, and Smartphones</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-the-hottest-meme-accounts-for-emotional-rollerscoasters-for-2024/"><u>The Ultimate Guide The Hottest Meme Accounts for Emotional Rollerscoasters for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-pitfalls-in-utilizing-chatgpt-for-crafting-engaging-content/"><u>Top 4 Pitfalls in Utilizing ChatGPT for Crafting Engaging Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-navigating-backward-image-hunt-on-the-worlds-largest-social-site/"><u>[New] 2024 Approved Navigating Backward Image Hunt on the World's Largest Social Site</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/access-chatgpt-anytime-anywhere-new-android-app-update/"><u>Access ChatGPT Anytime, Anywhere: New Android App Update</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-detective-sagas-embark-on-4-thrilling-virtual-investigations/"><u>AI Detective Sagas: Embark on 4 Thrilling Virtual Investigations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-income-avenues-assessing-gpt-powered-job-prospects/"><u>AI Income Avenues: Assessing GPT-Powered Job Prospects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-transformed-analysts-the-six-most-effective-uses-of-chatgpt/"><u>AI Transformed Analysts: The Six Most Effective Uses of ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-driven-networking-the-top-19-ways-to-use-chatgpt-and-land-a-dream-role-on-linkedin/"><u>AI-Driven Networking: The Top 1([=9]) Ways to Use ChatGPT and Land a Dream Role on LinkedIn</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-game-experiences-await-at-chatgpt-get-ready-to-play-these-6-amazing-games/"><u>Best Game Experiences Await at ChatGPT - Get Ready to Play These 6 Amazing Games</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/872146-9781451684292-la-magia/"><u>La Magia | Free Book</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/momentum-at-rest-best-idle-pc-games/"><u>Momentum at Rest Best Idle PC Games</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-cool-video-editor-how-to-add-cool-effects-to-video/"><u>New In 2024, Cool Video Editor How to Add Cool Effects to Video</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-black-screen-problems-in-call-of-duty-wwii-for-windows-expert-advice/"><u>Overcoming Black Screen Problems in Call of Duty: WWII for Windows [EXPERT ADVICE]</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-ensuring-your-gpus-driver-is-current-with-tips-from-yl-software/"><u>Step-by-Step Guide: Ensuring Your GPU's Driver Is Current with Tips From YL Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-your-content-to-perfection-youtube-edits-in-sony-vegas-style-for-2024/"><u>Tailoring Your Content to Perfection YouTube Edits in Sony Vegas Style for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/text-warriors-gpt-3-vs-google-for-perfect-phrases/"><u>Text Warriors: GPT-3 Vs. Google for Perfect Phrases</u></a></li>
+<li><a href="https://win-special.techidaily.com/vanuitwege-vinden-van-gedeelde-bestanddelen-de-vier-keuzes-om-usbs-te-herstellen/"><u>Vanuitwege Vinden Van Gedeelde Bestanddelen: De Vier Keuzes Om USB's Te Herstellen</u></a></li>
 </ul></div>
 

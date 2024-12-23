@@ -1,7 +1,7 @@
 ---
 title: "Articulate Your Intentions: Five Voice Commands for GPT"
-date: 2024-11-23T23:51:10.282Z
-updated: 2024-11-29T23:12:17.816Z
+date: 2024-12-18T16:12:51.866Z
+updated: 2024-12-23T17:13:59.288Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ChatGPT has the potential to challenge Google Translate's dominance in machine translation due to its ability to provide interpretations of idioms, preserving meaning and intent.
@@ -36,13 +32,13 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
 
  But with the rise of ChatGPT, could Google Translate's dominance be challenged? We'll pit ChatGPT against Google Translate to see which tool can provide better translations.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Does a Good Translation Look Like?
 
 ![A Translate keyboard button ](https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574b036e27c98e637af2bd24e8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The primary purpose of translation is to convey the meaning of a speech written or spoken in one language using another language. Consequently, a good translation must not just swap the meaning of words between two languages but must convey the meaning of the entire body of text as a whole.
 
@@ -77,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
 ChatGPT had a go at it:
 
 ![ChatGPT tries to translate a Filipino idiomatic expression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-translate-filipino2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 And so did Google:
 
@@ -120,9 +112,17 @@ Up next is a translation task in Filipino.
 
 ![Google translates filipino text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-translates-filipino.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT, on the other hand, turned up: "The cure for a heartbroken woman is the affection of an understanding man."
 
 ![ChatGPT translate filipino](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-translate-filipino.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  None of the translations are particularly perfect, but ChatGPT got as close as possible.
 
@@ -141,7 +141,7 @@ Below is the source text:
 ![Google Translate Pidgin Translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/google-translate-pidgin-translation.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Although not flawlessly, ChatGPT's interpretation was able to clearly convey the meaning and intent of the speaker. Considering the highly contextual nature of Pidgin English, the results are very impressive.
@@ -149,7 +149,11 @@ Below is the source text:
 ![ChatGPT Pidgin Translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-pidgin-translation.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Google Translate vs. ChatGPT: Language Coverage
@@ -157,10 +161,6 @@ Below is the source text:
  Comparing the language coverage between ChatGPT and Google Translate is a bit tricky. Google Translate covers more than 140 languages, and that number keeps growing. This is because Google regularly adds new languages to the Google Translate tool. For ChatGPT, on the other hand, there are no official numbers regarding how many languages the tool can cover. However, based on how ChatGPT was trained, there's a logical basis to suspect that the coverage is significantly more than ChatGPT.
 
  Of course, we tested ChatGPT on several languages not supported by Google Translate. It was able to provide translations for these additional languages, which Google Translate does not offer. However, the quality of ChatGPT's translations for these unsupported languages was a bit inconsistent. While some were considerably accurate, some were quite poor and inaccurate. While ChatGPT covers more languages, the translations it provides for many of them leave much to be desired in terms of accuracy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Google Translate vs. ChatGPT: Which Translation Tool Is Better?
 
@@ -187,22 +187,15 @@ Below is the source text:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-comprehensive-guide-to-android-sound-and-ringtone-customization/"><u>[New] A Comprehensive Guide to Android Sound and Ringtone Customization</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-blueprint-for-designing-eye-catching-thumbnails-for-your-youtube-channel/"><u>[Updated] The Blueprint for Designing Eye-Catching Thumbnails for Your YouTube Channel</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-analysis-of-cleanmymac-x-based-on-the-expert-reviews-at-zdnet/"><u>Comprehensive Analysis of CleanMyMac X Based on the Expert Reviews at ZDNet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/creating-your-first-home-theater-disc-with-mac/"><u>Creating Your First Home Theater Disc with Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/find-out-the-lost-code-for-your-vehicles-in-car-entertainment-unit-easily/"><u>Find Out the Lost Code for Your Vehicle's In-Car Entertainment Unit Easily!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-identify-and-correct-a-408-request-timeout-problem-effectively/"><u>How to Identify and Correct a 408 Request Timeout Problem Effectively</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-y17s-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo Y17s</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/live-streaming-mastery-with-manycam-top-choice-in-virtual-webcams-and-pro-level-video-apps/"><u>Live Streaming Mastery with ManyCam: Top Choice in Virtual Webcams and Pro-Level Video Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/perfecting-your-video-stream-zoom-meets-fb-live/"><u>Perfecting Your Video Stream Zoom Meets FB Live</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-ai-prompt-creation-tools-for-enhancing-your-ai-applications/"><u>Top 5 AI Prompt Creation Tools for Enhancing Your AI Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-your-daily-routine-mastering-the-art-of-leveraging-chatgpt/"><u>Transforming Your Daily Routine: Mastering the Art of Leveraging ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-power-of-chatgpt-enterprise-key-offers-and-set-apart-aspects/"><u>Understanding the Power of ChatGPT Enterprise: Key Offers & Set-Apart Aspects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-professional-opportunsities-craft-a-winning-resume-using-chatgpt/"><u>Unlock Professional Opportunsities: Craft a Winning Resume Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-potential-of-chatgpt-develop-engaging-interactive-text-based-rpgs-from-scratch/"><u>Unlock the Potential of ChatGPT: Develop Engaging, Interactive Text-Based RPGs From Scratch</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-five-innovative-ai-applications-to-curate-your-ideal-book-list/"><u>Unveiling Five Innovative AI Applications to Curate Your Ideal Book List</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-microsofts-latest-upgrade-ai-enhanced-search-capabilities-in-bing/"><u>Unveiling Microsoft's Latest Upgrade: AI Enhanced Search Capabilities in Bing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-challenges-with-current-ai-methods-for-detecting-content-integrity/"><u>Unveiling the Challenges with Current AI Methods for Detecting Content Integrity</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-play-youtube-in-background-on-iphone-and-android/"><u>[New] How to Play YouTube in Background on iPhone and Android</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-mac-screenshots-and-screen-recording/"><u>[New] Mastering Mac Screenshots & Screen Recording</u></a></li>
+<li><a href="https://fox-links.techidaily.com/androids-5-prime-photo-tools-ultimate-editing-companion/"><u>Android's 5 Prime Photo Tools Ultimate Editing Companion</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-effortlessly-get-the-newest-synaptics-driver-version-for-windows-computers/"><u>How to Effortlessly Get the Newest Synaptics Driver Version for Windows Computers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-iphone-6s-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From iPhone 6s Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-ai-like-chatgpt-a-lifesaver-during-wild-adventures/"><u>Is AI Like ChatGPT a Lifesaver During Wild Adventures?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/linus-tech-tips-compromised-a-deep-dive-into-the-security-breach-incident/"><u>Linus Tech Tips Compromised: A Deep Dive Into the Security Breach Incident</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-cryptocurrency-markets-5-essential-tips-using-chatgpt-technology/"><u>Mastering Cryptocurrency Markets: 5 Essential Tips Using ChatGPT Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-cybersecurity-with-fraudgpt-prevention-tactics-for-safe-digital-interactions/"><u>Navigating Cybersecurity with FraudGPT: Prevention Tactics for Safe Digital Interactions</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-virtualdub-vs-other-video-editors-a-2023-comparison-and-review/"><u>Updated Virtualdub vs Other Video Editors A 2023 Comparison and Review</u></a></li>
 </ul></div>
 

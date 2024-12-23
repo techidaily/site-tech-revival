@@ -1,7 +1,7 @@
 ---
 title: Creating Compelling D&D Characters with AI Tools - ChatGPT and DALL-E Strategies
-date: 2024-12-13T17:50:34.812Z
-updated: 2024-12-14T18:21:31.859Z
+date: 2024-12-21T18:18:22.912Z
+updated: 2024-12-23T18:10:26.661Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
  The only issue is that they don't do what OpenAI advertises, and it's a mixed bag as to whether you'll get the edits you want. But still, it's a start of what's to come for DALL-E 3 editing, and this is how they work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are DALL-E 3's Editing Tools?
 
  They've been a while coming, but OpenAI has finally added editing functionality to DALL-E 3 in ChatGPT Plus. Prior to this, you could attempt to make edits to your DALL-E 3 creations, but it would typically always result in a completely fresh image being generated. Even if the prompts used to create the edited image were extremely similar to the first prompt, due to the very nature of generative AI, the output could be significantly different.
@@ -47,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 ![dalle 3 editing tools example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-example.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 However, it's a mixed bag.
@@ -55,10 +59,6 @@ However, it's a mixed bag.
 [OpenAI's official blog](https://help.openai.com/en/articles/9055440-editing-your-images-with-dall-e) example shows DALL-E adding cherry blossoms to a Ukiyo-e-style image of cat, and it working perfectly. In my experience, DALL-E's editing tools struggle to add such detailed imagery to an existing image and, for the most part, can't process requests of this nature.
 
  That's not to say the editing tools don't work. They can absolutely remove features and make small changes, as detailed below, but it's all on a small scale.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use DALL-E 3's Editing Tool
 
@@ -76,6 +76,10 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Adding and Changing
 
  DALL-E 3 can make some changes to images, but again, it depends on the scale of what you're asking. Small additions and changes are possible, but most of the time, DALL-E's editing tool can't process what is asked.
@@ -85,16 +89,12 @@ Close
 ![dalle 3 editing tools close up human eye](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Pretty decent, if a little odd (eyelash reflections?!), but I wanted to switch the iris color to blue-green instead, resulting in this image:
 
 ![dalle 3 editing tools close up human eye changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye-changed-colour.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The color is slightly dull but unchanged, and some features are warped slightly.
 
@@ -106,11 +106,11 @@ Close
 
 ![dalle 3 editing tools yeti removed from image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-yeti-removed-from-image.jpg)
 
- Instead of swapping the yeti for a different animal, it's just completely gone. Instead, I returned to the original image and asked it to add another yeti, which it failed to do. It similarly failed when asked to add more trees to the image.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Instead of swapping the yeti for a different animal, it's just completely gone. Instead, I returned to the original image and asked it to add another yeti, which it failed to do. It similarly failed when asked to add more trees to the image.
 
 ### Adding Text
 
@@ -143,24 +143,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-seasons-finest-ice-artistry-2022-highlights-for-2024/"><u>[New] Season's Finest Ice Artistry - 2022 Highlights for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-process-for-incorrante-youtube-playlist-integration/"><u>[New] The Ultimate Process for Incorrante YouTube Playlist Integration</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-best-webcams-for-youtube-livestreaming/"><u>[Updated] 2024 Approved Best Webcams for YouTube Livestreaming</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-spectacular-photo-narrative-construction-suite/"><u>[Updated] Spectacular Photo Narrative Construction Suite</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-online-music-potential-with-imovie-and-youtube/"><u>[Updated] Unleashing Online Music Potential with iMovie & YouTube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-free-video-merger-tools-a-2023-ranking-with-offers-included/"><u>Best Free Video Merger Tools: A 2023 Ranking with Offers Included</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversion-libre-de-raw-a-jpg-online-utilizar-el-servicio-web-sin-coste-alguno/"><u>Conversión Libre De RAW a JPG Online: Utilizar El Servicio Web Sin Coste Alguno</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-your-nef-images-to-jpeg-format-for-free-using-movavis-web-app/"><u>Convert Your NEF Images to JPEG Format for Free Using Movavi's Web App</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creative-visual-fx-hub-explore-movavis-editing-effect-toolkit/"><u>Creative Visual FX Hub - Explore Movavi's Editing Effect Toolkit</u></a></li>
-<li><a href="https://fox-links.techidaily.com/decoding-the-science-of-captivating-time-lapses-using-gopro/"><u>Decoding the Science of Captivating Time-Lapses Using GoPro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decouvrez-les-meilleurs-outils-denregistrement-audio-compatibles-avec-chrome-un-guide-complet/"><u>Découvrez Les Meilleurs Outils D'enregistrement Audio Compatibles Avec Chrome : Un Guide Complet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/engedely-nelkul-movavi-zoom-fusionalas-a-gyors-kapcsolatok-kezelesek-szempontjabol/"><u>Engedély Nélkül Movavi Zoom Fusiónálás - A Gyors Kapcsolatok Kezelések Szempontjából</u></a></li>
-<li><a href="https://facebook.techidaily.com/governance-guild-prepares-to-dictate-trumps-status-on-fb/"><u>Governance Guild Prepares to Dictate Trump's Status on FB.</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-motorola-g54-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Motorola G54 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavi-transforme-seus-arquivos-ogv-em-avi-gratuitamente-on-line-com-nosso-conversor-facil-de-usar/"><u>Movavi: Transforme Seus Arquivos OGV Em AVI Gratuitamente On-Line Com Nosso Conversor Fácil De Usar!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-the-net-an-in-depth-look-at-what-tagging-entails/"><u>Navigating Through the Net: An In-Depth Look at What 'Tagging' Entails</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformez-vos-videos-flv-en-avi-pour-free-sur-le-site-web-de-movavi-tutoriel-complet/"><u>Transformez Vos Vidéos FLV en AVI Pour Free Sur Le Site Web De Movavi - Tutoriel Complet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-selection-of-12-premium-linux-recording-apps-by-experts/"><u>Ultimate Selection of 12 Premium Linux Recording Apps by Experts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-optimize-your-auditory-experience-convert-and-share-via-youtube/"><u>[New] 2024 Approved Optimize Your Auditory Experience Convert and Share Via YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ai-powered-text-conversion-for-effective-presentations/"><u>[New] In 2024, AI-Powered Text Conversion for Effective Presentations</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-x-master-recorder-software-pc-edition/"><u>[Updated] 2024 Approved X-Master Recorder Software, PC Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-clear-up-cloud-call-clarity-zoom-audio-troubleshooting/"><u>[Updated] Clear Up Cloud Call Clarity Zoom Audio Troubleshooting</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-maximizing-earnings-on-youtube-shorts-essentials-and-prospective-income-for-2024/"><u>[Updated] Maximizing Earnings on YouTube Shorts Essentials & Prospective Income for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/crafty-counterfeits-how-to-find-fake-engagements/"><u>Crafty Counterfeits How to Find Fake Engagements</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bridging-caption-gaps-perfecting-word-placement-on-windowsmac-photos/"><u>In 2024, Bridging Caption Gaps Perfecting Word Placement on Windows/Mac Photos</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-trick-to-erase-files-and-folders-using-windows-command-prompt/"><u>The Ultimate Trick to Erase Files & Folders Using Windows Command Prompt</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-strategies-for-utilizing-auto-gtp/"><u>Top Strategies for Utilizing Auto-GTP</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-your-chatgpt-account-a-step-by-step-guide-for-login-problems/"><u>Troubleshooting Your ChatGPT Account: A Step-by-Step Guide for Login Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-deep-learning-the-key-differences-between-gpt-and-bert-models-explored/"><u>Understanding Deep Learning: The Key Differences Between GPT & BERT Models Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-gpt-3-a-guide-to-enable-the-latest-beta-browser-integration-and-plugin-support/"><u>Unlocking GPT-3: A Guide to Enable the Latest Beta Browser Integration & Plugin Support</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unpacking-reasons-behind-ceo-of-openai-demanding-increased-ai-governance/"><u>Unpacking Reasons Behind CEO of OpenAI Demanding Increased AI Governance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-5-techniques-where-artificer-intelligence-assists-hackers/"><u>Unveiling 5 Techniques Where Artificer Intelligence Assists Hackers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-ais-best-kept-secrets-a-deep-dive-into-chatgpt-plus-vs-perplexity-capabilities/"><u>Unveiling AI's Best Kept Secrets: A Deep Dive Into ChatGPT Plus Vs. Perplexity Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-truth-the-most-common-misconceptions-about-ai-chatbots/"><u>Unveiling the Truth: The Most Common Misconceptions About AI Chatbots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/who-earns-the-victory-in-ai-conversations-gpt-or-huggingchat/"><u>Who Earns the Victory in AI Conversations, GPT or HuggingChat?</u></a></li>
 </ul></div>
 

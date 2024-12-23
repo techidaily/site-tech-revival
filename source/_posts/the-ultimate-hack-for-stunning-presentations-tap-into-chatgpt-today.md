@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Hack for Stunning Presentations: Tap Into ChatGPT Today"
-date: 2024-12-07T17:02:49.037Z
-updated: 2024-12-08T16:40:04.617Z
+date: 2024-12-22T17:24:30.419Z
+updated: 2024-12-23T17:31:13.386Z
 tags:
   - chatgpt
   - open-ai
@@ -24,21 +24,17 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. No More Waitlist for Bard AI
 
  While this isn't entirely a new feature per se, it's refreshing to know that Google has dropped the waitlist for using Bard and opened the chatbot to all. So, if you've been sneaking onto the Bard website using a VPN, it's time to drop the mask. Bard is now open to over 180 countries and territories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Dark Theme
 
 ![Bard on Dark theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-on-dark-theme.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Dark mode is the new cool, and Google has finally listened to the request of Bard AI users by adding the dark mode feature to the Bard website. To toggle on dark mode, toggle**Use dark theme** in the bottom left corner of the Bard web interface. If you are accessing Bard from your mobile browser, you'll need to tap the menu icon in the top right corner of the Bard website to reveal the**Use dark theme** button in the bottom left corner.
 
@@ -48,9 +44,17 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
  We saw a glimpse of what could be possible. A future where Bard AI integrates with Google Maps, Sheets, and a range of exciting services from third-party developers. This has the potential to be genuinely game-changing. Well, that is if Google doesn't under-deliver, of course.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Image Prompting
 
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
 
@@ -63,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
@@ -72,17 +76,9 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
  Although we aren't exactly sure how deeply integrated Bard AI will be with Abode Firefly, the demo at Google I/O gave a sneak peek at something exciting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Tools for Exporting Generated Content
 
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  One thing missing from most[AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.
 
@@ -95,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
  At launch, Bard AI couldn't write code—an embarrassing pitfall considering coding was one of the big hype surrounding the emergence of AI chatbots. However, Bard AI competitors like[ChatGPT have been helping people code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) since its debut. Google has now significantly ramped up Bard's coding abilities—so much so that a lot of precious presentation time was dedicated to discussing it at its Google I/O 2023 event.
 
  Bard AI can now generate code in several programming languages. It can also explain code snippets, debug code, and sometimes point to the origin of the code to give credit to whoever created the original codebase that was used to answer your question.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Google's AI Endgame Is Gemini
 
@@ -117,17 +117,17 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-constructive-approaches-to-defeating-digital-trolls/"><u>[New] 2024 Approved Constructive Approaches to Defeating Digital Trolls</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-sketching-the-perfect-end-credits-scene-for-your-tiktok-for-2024/"><u>[Updated] Sketching the Perfect End-Credits Scene for Your TikTok for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725287722694-winxvideo-ai/"><u>利用WinxVideo AI的方式，記錄電視螢幕及網路直播音頻</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-infinix-smart-8-hd-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Infinix Smart 8 HD Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722112995396-discover-the-deceptive-chrome-add-on-that-hijacks-your-facebook-credentials/"><u>Discover the Deceptive Chrome Add-On That Hijacks Your Facebook Credentials</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-convert-and-stream-4k-hd-movies-top-solutions-for-pcs-and-macbooks/"><u>Download, Convert, and Stream 4K HD Movies - Top Solutions for PCs & MacBooks</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/effiziente-methode-zum-vollstandigen-windows-10-systemsicherungsprozess-zwei-gratis-optionen-entdeckt/"><u>Effiziente Methode Zum Vollständigen Windows 10-Systemsicherungsprozess: Zwei Gratis-Optionen Entdeckt!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-linking-your-nintendo-switch-console-with-television/"><u>Guide: Linking Your Nintendo Switch Console with Television</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/m4amp3pciphoneweb/"><u>M4A形式からMP3への効果的な変換手順：PCやiPhoneで使える最高のソフトウェアとWebサービス</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-and-simple-convert-your-dvds-into-mp4-videos-using-the-powerful-winx-dvd-ripper-on-windows/"><u>Quick and Simple: Convert Your DVDs Into MP4 Videos Using the Powerful WinX DVD Ripper on Windows</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-amazon-basics-compact-and-lightweight-tablet-support-review-inside/"><u>The Ultimate Guide to Amazon Basic's Compact and Lightweight Tablet Support - Review Inside!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unexpected-loss-of-songs-on-iphone-discover-the-ultimate-guide-to-restoring-with-itunes-synchronization/"><u>Unexpected Loss of Songs on iPhone? Discover the Ultimate Guide to Restoring with iTunes Synchronization!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-fidelity-in-mac-screen-and-audio-recording-for-2024/"><u>[Updated] Ultimate Fidelity in Mac Screen & Audio Recording for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-in-depth-look-at-synology-rt2600ac-for-long-distance-connectivity-and-family-safety-settings/"><u>Exploring the Features: In-Depth Look at Synology RT2600ac for Long Distance Connectivity and Family Safety Settings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-acer-chromebook-15-assessment-high-performance-with-large-display/"><u>In-Depth Acer Chromebook 15 Assessment - High Performance with Large Display</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-essential-tips-and-strategies-from-openai/"><u>Mastering ChatGPT: Essential Tips & Strategies From OpenAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-homes-optimize-daily-tasks-with-gpt/"><u>Maximizing Homes: Optimize Daily Tasks with GPT</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-unlocking-ukraines-language-potential/"><u>Mondly Unlocking Ukraine's Language Potential</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pre-interview-edge-utilizing-chatgpts-artificial-intelligence/"><u>Pre-Interview Edge: Utilizing ChatGPT's Artificial Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/prompt-designers-in-demand-fact-or-fiction/"><u>Prompt Designers in Demand: Fact or Fiction?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-guide-to-documentary-storytelling-mechanics/"><u>The Essential Guide to Documentary Storytelling Mechanics</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unlocking-the-potential-of-your-laptops-recording-features-for-2024/"><u>Unlocking the Potential of Your Laptop's Recording Features for 2024</u></a></li>
 </ul></div>
 

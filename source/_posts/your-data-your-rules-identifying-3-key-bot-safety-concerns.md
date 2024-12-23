@@ -1,7 +1,7 @@
 ---
 title: "Your Data, Your Rules: Identifying 3 Key Bot Safety Concerns"
-date: 2024-11-29T01:52:13.059Z
-updated: 2024-11-30T02:05:27.112Z
+date: 2024-12-21T16:27:32.771Z
+updated: 2024-12-23T16:08:54.524Z
 tags:
   - chatgpt
   - open-ai
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 ![ChatGPT Refusing to Act Like Tomie Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-rejecting-roleplay-request-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After rephrasing the instructions and adding more details, it quickly obliged.
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 ![ChatGPT Accepts Roleplay Request and Starts Acting Like Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-accepts-roleplay-request-as-tomie.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can apply this trick to other prompts. On r/ChatGPTJailbreak, you’ll learn the proper phrasing, language, word choice, and sentence structure when jailbreaking ChatGPT. Only specific formulas can bypass AI restrictions.
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
  We also like that the moderators proactively weed out spam marketers and shady ads. Many[crooks abuse ChatGPT to execute cyberattacks](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) nowadays. Even tech-savvy individuals could fall victim to them if they’re not careful. So minimize your exposure to scams altogether.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5.[Midjourney Prompt Tricks](https://www.facebook.com/groups/1192421464638601)
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 ![A Facebook Group for Sharing Midjourney Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/midjourney-prompts-facebook-group.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Midjourney ranks among the[most popular text-to-art generators online](https://www.makeuseof.com/ai-text-to-art-generators/) . Its sophisticated AI architecture was trained on much broader datasets, allowing it to generate more realistic elements.
@@ -97,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
  To craft better text-to-image prompts, join the Midjourney Prompt Tricks Facebook group. Users trade prompts here. Take inspiration from workflows that match your art style; you don’t have to waste time writing prompts from scratch.
 
  Try some[AI art prompt tricks](https://www.makeuseof.com/ai-art-prompt-ideas/) to get your creative juices flowing. See how phrasing affects the way your output. You’ll notice specific phrases and keywords that trigger different image elements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6.[r/PromptDesign](https://www.reddit.com/r/PromptDesign/)
 
@@ -120,23 +124,19 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 
 ![Reddit Community for Stable Diffusion Prompts and Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stablediffusion-prompts-on-reddit.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  r/StableDiffusion is the largest subreddit dedicated to Stable Diffusion. The community allows sharing workflows. However, it primarily encourages users to post outputs and discuss relevant AI news—prompt engineering is merely a part of generating AI art.
 
  The group might be helpful if you prefer Stable Diffusion over Midjourney and Dall-E models. Study the system’s limits and capabilities. Users post various media forms, including 3D images, 2D portraits, and animations.
 
  Meanwhile, artists who prefer other text-to-image models could use the group for comparisons. See which system provides the best outputs. You might even find Stable Diffusion users testing your preferred art styles frequently.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9.[Sales, Marketing, Social Media, Artificial Intelligence (AI), ChatGPT Technology Innovation Network](https://www.linkedin.com/groups/54066/)
 
 ![LinkedIn Group to Share AI Tips for Salespeople and Marketers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/linkedin-ai-group.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’s currently the largest AI community on LinkedIn. The group has around a million members worldwide, many of whom post regularly. It gets status updates every few minutes.
 
@@ -147,7 +147,7 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
  Perhaps the only downside is the group gets plenty of spam. You might have to scroll through aggressive ads and campaigns before finding valuable content.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Connect With Fellow Professionals in the AI Industry
@@ -171,20 +171,20 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-elevate-your-feed-top-10-instagram-hashtags-for-success-for-2024/"><u>[New] Elevate Your Feed Top 10 Instagram Hashtags for Success for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-capturing-itunes-media-three-recording-techniques/"><u>[New] In 2024, Capturing iTunes Media Three Recording Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-syncing-your-youtube-watchlist-with-instagram-feed/"><u>[New] Syncing Your YouTube Watchlist with Instagram Feed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-essential-benefits-of-integrating-microsoft-365-into-daily-operations/"><u>7 Essential Benefits of Integrating Microsoft 365 Into Daily Operations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creating-an-ai-ecosystem-linking-chatgpt-to-whatsapp-helpdesk/"><u>Creating an AI Ecosystem: Linking ChatGPT to WhatsApp Helpdesk</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphe-and-solve-car-ai-implementation-glitches-the-ultimate-guide/"><u>Deciphe & Solve Car AI Implementation Glitches: The Ultimate Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-generative-ai-principles-and-applications/"><u>Decoding Generative AI: Principles and Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-turing-test-will-advanced-robotics-ever-outsmart-human-intellect/"><u>Decoding the Turing Test – Will Advanced Robotics Ever Outsmart Human Intellect?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-ai-chatbots-their-functions-popularity-and-impact-on-communication/"><u>Demystifying AI Chatbots: Their Functions, Popularity, and Impact on Communication</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-your-best-gpt-plugins-now-top-9/"><u>Discover Your Best GPT Plugins Now! (Top 9)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/efficiently-transforming-dall-e-images-from-webp-to-pngjpg/"><u>Efficiently Transforming DALL-E Images From WebP to PNG/JPG</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fast-frame-freedom-in-photography-for-2024/"><u>Fast Frame Freedom in Photography for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-google-pixel-8-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Google Pixel 8 Pro</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-poco-x5-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Poco X5 by Name | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfecting-your-srt-file-dispatch-for-maximum-social-exposure/"><u>In 2024, Perfecting Your SRT File Dispatch for Maximum Social Exposure</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-elite-air-racers-picks-top-5-fpv-eyewear-options/"><u>[New] 2024 Approved Elite Air Racers' Picks Top 5 FPV Eyewear Options</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-moments-10-essential-ig-tools-everyone-needs/"><u>[New] 2024 Approved Mastering Moments 10 Essential IG Tools Everyone Needs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-accessible-steps-to-proficiently-watch-facebook-live-feeds/"><u>[New] Accessible Steps to Proficiently Watch Facebook Live Feeds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-alternative-software-for-laptoppc-video-editing/"><u>[Updated] 2024 Approved Alternative Software for Laptop/PC Video Editing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-pros-to-follow-vr-industry-trailblazers/"><u>[Updated] In 2024, Pros to Follow VR Industry Trailblazers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/api-success-stories-with-chatgpt-innovation/"><u>API Success Stories with ChatGPT Innovation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoiding-pitfalls-essential-tips-for-correcting-common-chatgpt-mistakes/"><u>Avoiding Pitfalls: Essential Tips for Correcting Common ChatGPT Mistakes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beware-5-common-tricks-using-chatgpt-you-should-avoid/"><u>Beware: 5 Common Tricks Using ChatGPT You Should Avoid</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bing-chat-or-chatgpt-the-freelancers-dilemma-explained-through-8-crucial-points-to-help-your-choice/"><u>Bing Chat or ChatGPT – The Freelancer's Dilemma Explained Through 8 Crucial Points to Help Your Choice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bots-and-copywriting-why-the-distinction-matters/"><u>Bots and Copywriting: Why the Distinction Matters</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bridging-the-gap-between-human-and-machine-writing/"><u>Bridging the Gap Between Human and Machine Writing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/career-advancement-with-ai-the-top-10-strategies-for-finding-a-job-via-linkedin/"><u>Career Advancement with AI: The Top 10 Strategies for Finding a Job via LinkedIn</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-gameplay-with-latest-nvidia-rtx-2080-ti-drivers/"><u>Enhance Gameplay with Latest NVIDIA RTX 2080 Ti Drivers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-motivating-hr-chronicles-the-best-ten-vids/"><u>In 2024, Motivating HR Chronicles - The Best Ten Vids</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-premium-240hz-gaming-displays-dominating-the-market/"><u>Top Picks: Premium 240Hz Gaming Displays Dominating the Market</u></a></li>
 </ul></div>
 

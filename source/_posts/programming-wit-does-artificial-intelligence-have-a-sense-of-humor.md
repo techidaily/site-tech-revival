@@ -1,7 +1,7 @@
 ---
 title: "Programming Wit: Does Artificial Intelligence Have a Sense of Humor?"
-date: 2024-12-04T17:08:28.766Z
-updated: 2024-12-08T16:52:07.709Z
+date: 2024-12-16T16:08:08.799Z
+updated: 2024-12-23T17:05:45.583Z
 tags:
   - chatgpt
   - open-ai
@@ -25,16 +25,12 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1.[Prompt Engineering for ChatGPT (Coursera)](https://www.coursera.org/learn/prompt-engineering)
 
 ![Dr Jules White teaching Prompt Engineering for ChatGPT on the Coursera online learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-37.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Can you use AI to create a Pokemon-inspired game that helps your kids learn math and eat healthy food? Apparently, yes! And there's more you can do with a dose of creativity and the help of ChatGPT, says course developer Dr. Jules White, an Associate Professor of Computer Science at Vanderbilt University.
 
@@ -44,13 +40,13 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
  The lectures are content-rich and easy to follow. You'll be inspired to use, instead of fearing, large language models like ChatGPT. You'll understand how AI can be helpful in writing, programming, art, thought experiments, and other creative projects. And at the end of the course, you'll be proud to have written your first prompt and developed your own prompt-based application.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2.[Introduction to Prompt Engineering for Generative AI (LinkedIn Learning)](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai/joining-the-nlp-revolution)
 
 ![Screenshot of Ronnie Sheer teaching Introduction to Prompt Engineering for Generative AI on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-38.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Enroll in this online course if you want to learn only the bare-bones concepts in AI prompt engineering. You'll know the difference between tokens and words and how to use AI to generate text and images. At the end of the course, you'll learn some advanced practical concepts, like prompt fine-tuning and interacting with AI models using an API.
 
@@ -70,13 +66,13 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
  The lessons emphasize that AI does not replace you as a human. Instead, it augments your work so that you can produce better results. When ChatGPT gives you an output, you must still use your skills and judgment to check and refine the answers and deliver the best results.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4.[Learn Prompting](https://learnprompting.org/)
 
 ![Learn Prompting Website showing Basic Applications lessons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-40.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you prefer reading rather than watching videos, access the Learn Prompting website. The curriculum takes you through basic to advanced prompting techniques using text-based lessons. The courses are free for everyone and were developed by researchers, translators, and hobbyists.
 
@@ -86,9 +82,17 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
  The Learn Prompting site offers bite-sized and practical lessons you can easily bookmark. Use the readings to recall and review AI prompt engineering concepts quickly. This site is for you if you want substantial facts that cover the essentials.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5.[ChatGPT Ultimate Guide (Skillshare)](https://skillshare-ambassador.pxf.io/c/119570/828598/11648?subId1=UUmuoUeUpU2025238&subId2=emuo&u=https%3A%2F%2Fwww.skillshare.com%2Fen%2Fclasses%2FChatGPT-Ultimate-Guide-10x-Your-Productivity-Creativity-with-ChatGPT%2F2113872437)
 
 ![screenshot of ChatGPT Ultimate Guide 10x Your Productivity & Creativity with ChatGPT on Skillshare learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-41.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This course is best for beginners who want to go through the best use cases of ChatGPT quickly. ChatGPT Ultimate Guide familiarizes you with the ChatGPT interface and the OpenAI playground before explaining the numerous practical uses of the AI tool.
 
@@ -99,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
  The lessons also explain how AI helps you perform better in specific jobs. For instance, teachers who want to save time should review the videos on Creating Essay, Multiple Choice, Fill in the Blanks, and True or False Questions. Meanwhile, digital marketing professionals will find the videos on Copywriting, SEO and Keywords, and Scripts for Social Media beneficial.
 
  If you're job hunting, check out these videos for job seekers. You'll learn[how to use ChatGPT to write your resume](https://www.makeuseof.com/use-chatgpt-to-write-resume/) , create a personal bio, search for jobs, and email a potential employer. While the videos only give an overview, they're sure to spark ideas on how the AI tool can be helpful for your job search.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Learn AI Prompt Engineering Today
 
@@ -125,20 +125,16 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-file-sync-up-the-5-fundamental-ways-for-your-computer-upload/"><u>[New] 2024 Approved File Sync-Up The 5 Fundamental Ways for Your Computer Upload</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-directly-upload-videos-from-twitter-to-tumblr/"><u>[New] In 2024, Directly Upload Videos From Twitter to Tumblr</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-superior-web-based-recording-tools-the-leaders-2023/"><u>[New] In 2024, Superior Web-Based Recording Tools - The Leaders 2023</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-iphone-x-the-ultimate-guide-for-users/"><u>[New] Mastering iPhone X The Ultimate Guide for Users</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-charting-success-navigating-a-3-step-strategy-for-tracking-youtube-income/"><u>[Updated] In 2024, Charting Success Navigating a 3-Step Strategy for Tracking YouTube Income</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-uncomplicated-online-music-conversion-top-6-free-ios-apps-for-video-and-audio/"><u>[Updated] In 2024, Uncomplicated Online Music Conversion Top 6 Free iOS Apps for Video & Audio</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvd-isotop5-windows-and-macdvd-to-iso/"><u>「最高のDVD ISO変換ソフトウェアTOP5 - Windows & Mac用DVD to ISOへ」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725288451815-winxdvd/"><u>如何高效利用WinXDVD：歸家後的全面教程</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratis-tutorial-come-convertire-i-file-video-da-mp4-in-avi-con-un-singolo-clic/"><u>Gratis Tutorial: Come Convertire I File Video Da MP4 in AVI Con Un Singolo Clic</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-enjoying-films-and-videos-seamlessly-on-your-windows-11-phone/"><u>Guide: Enjoying Films & Videos Seamlessly on Your Windows 11 Phone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/ideviceiphone/"><u>IDevice搞修：如何修好iPhone更新不能完成的故障</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimal-video-compression-techniques-how-to-shrink-mp4-file-size-without-losing-quality/"><u>Optimal Video Compression Techniques - How to Shrink MP4 File Size without Losing Quality</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premier-networks-for-your-personalized-watchlist-for-2024/"><u>Premier Networks for Your Personalized Watchlist for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-techniques-for-enhancing-image-clarity/"><u>Top 5 Techniques for Enhancing Image Clarity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/winx-hd-video-converter-deluxe-faq-common-tech-questions-and-solutions-for-digiarty-software-users/"><u>WinX HD Video Converter Deluxe FAQ: Common Tech Questions & Solutions for Digiarty Software Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-easily-download-specific-youtube-sections/"><u>[New] In 2024, Easily Download Specific YouTube Sections</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-boosting-your-snapstreak-essential-tips-and-tricks/"><u>[Updated] 2024 Approved Boosting Your Snapstreak Essential Tips and Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-five-trailblazers-shaping-the-webs-audiovideo-landscape-for-2024/"><u>[Updated] Five Trailblazers Shaping the Web's Audio/Video Landscape for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-no-screen-only-silence-a6400-dilemma/"><u>2024 Approved No Screen, Only Silence A6400 Dilemma</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-ai-dialogues-unleashed-openai-innovates-voice-enabled-interactions-in-chatgpt/"><u>Advanced AI Dialogues Unleashed: OpenAI Innovates Voice-Enabled Interactions in ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/alleviating-solitude-through-conversational-agents-leveraging-chatgpt/"><u>Alleviating Solitude Through Conversational Agents: Leveraging ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/an-in-depth-look-at-chatgpt-unrestricted-models-are-they-right-for-you/"><u>An In-Depth Look at ChatGPT Unrestricted Models – Are They Right for You?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhancing-fluidity-in-videos-expert-tips-for-superior-alternatives-to-smooth-video-project/"><u>Enhancing Fluidity in Videos: Expert Tips for Superior Alternatives to Smooth Video Project</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-z-fold-5-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy Z Fold 5? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/optimized-with-advanced-retargeting-technology-from-cookiebot/"><u>Optimized with Advanced Retargeting Technology From Cookiebot</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722125173871-waiting-on-the-official-release-of-chatgpt-for-desktops-explore-our-recommended-open-source-solution-now/"><u>Waiting on the Official Release of ChatGPT for Desktops? Explore Our Recommended Open-Source Solution Now</u></a></li>
 </ul></div>
 

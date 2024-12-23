@@ -1,7 +1,7 @@
 ---
 title: "Create Tailored AI: Unveiling the New Features of ChatGPT's Recent Upgrade"
-date: 2024-12-11T17:58:37.392Z
-updated: 2024-12-14T18:07:49.016Z
+date: 2024-12-18T16:29:23.420Z
+updated: 2024-12-23T19:19:20.825Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI-Powered Bing Comes to Mobile
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Skype Gets AI Features
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -105,17 +105,24 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-detailed-steps-to-using-azure-speech-recognition-for-2024/"><u>[New] Detailed Steps to Using Azure Speech Recognition for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitvidsync-ios-tool-to-seamlessly-save-twitter-vids/"><u>[New] In 2024, TwitVidsync IOS Tool to Seamlessly Save Twitter Vids</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-blueprint-for-successful-youtube-video-plans-and-outlines/"><u>[New] The Blueprint for Successful YouTube Video Plans and Outlines</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-virtual-spaces-for-real-solutions/"><u>[Updated] Virtual Spaces for Real Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/affordability-meets-customization-in-depth-look-at-cyberpowerpcs-gamer-xtreme-reviewed/"><u>Affordability Meets Customization: In-Depth Look at CyberPowerPC's Gamer Xtreme Reviewed</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/graphics-card-visibility-issue-in-windows-explained-with-expert-tips-from-yl-software/"><u>Graphics Card Visibility Issue in Windows Explained with Expert Tips From YL Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harness-the-power-of-chatgpt-now-9-leading-plug-ins-to-enhance-your-workflow/"><u>Harness the Power of ChatGPT Now: 9 Leading Plug-Ins to Enhance Your Workflow</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/aging-colored-backdrops-for-seamless-edits-for-2024/"><u>Leveraging Colored Backdrops for Seamless Edits for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/snapchat-my-ai-the-6-driving-forces-behind-its-success/"><u>Snapchat My AI: The 6 Driving Forces Behind Its Success</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-developers-handbook-to-pairing-chatgpt-with-visual-studio-code/"><u>The Developer's Handbook to Pairing ChatGPT with Visual Studio Code</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-legal-perspective-on-chatgpt-use-at-work-could-you-be-fired/"><u>The Legal Perspective on ChatGPT Use at Work: Could You Be Fired?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-y77t-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo Y77t Phone Network-Ready</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-remote-dimension-tuning-and-editing/"><u>[Updated] Remote Dimension Tuning and Editing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-streamline-your-listening-experience-how-to-get-apple-podcasts-downloaded/"><u>[Updated] Streamline Your Listening Experience How to Get Apple Podcasts Downloaded</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-ultimate-list-for-first-time-film-makers-35mm-to-pands/"><u>[Updated] The Ultimate List for First-Time Film Makers (35Mm to P&S)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/pwise-approach-to-youtube-caption-addition-for-2024/"><u>A Stepwise Approach to YouTube Caption Addition for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-download-and-convert-youtube-twittersongs-videos-to-mp3-for-2024/"><u>How to Download and Convert YouTube Twittersongs (Videos) to MP3 for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-canonicals-new-ubuntu-2304-lunar-lobster-the-ultimate-linux-experience-for-professional-and-recreational-users-revealed-by-zdnet/"><u>Introducing Canonical's New Ubuntu 23.04 'Lunar Lobster': The Ultimate Linux Experience for Professional & Recreational Users, Revealed by ZDNet</u></a></li>
+<li><a href="https://discover-great.techidaily.com/manuel-comprensible-como-usar-correctamente-el-programa-de-copia-de-dvd-winxdvd/"><u>Manuel Comprensible: Cómo Usar Correctamente El Programa De Copia De DVD WinXDVD</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-updates-solving-failure-problems-effectively/"><u>Mastering Windows Updates: Solving Failure Problems Effectively</u></a></li>
+<li><a href="https://extra-information.techidaily.com/maximize-mobile-movie-brilliance-with-these-four-methods/"><u>Maximize Mobile Movie Brilliance with These Four Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-leveraging-chatgpt-for-unmatched-dungeon-master-support/"><u>The Ultimate Guide to Leveraging ChatGPT for Unmatched Dungeon Master Support</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-managing-chatgpt-interactions-using-folders/"><u>The Ultimate Guide to Managing ChatGPT Interactions Using Folders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-effective-substitutes-for-chatgpt/"><u>Top 10 Effective Substitutes for ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-benefits-how-my-ai-transforms-snapchat-beyond-being-merely-fun/"><u>Top 6 Benefits: How My AI Transforms Snapchat Beyond Being Merely Fun</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-strategies-leveraging-chatgpt-skills-for-data-analysis-success/"><u>Top 6 Strategies: Leveraging ChatGPT Skills for Data Analysis Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-incredible-google-chrome-add-ons-enhancing-your-chatgpt-experience/"><u>Top 7 Incredible Google Chrome Add-Ons Enhancing Your ChatGPT Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-chromium-boosters-harnessing-ai-to-elevate-your-productivity-game/"><u>Top 8 Chromium Boosters: Harnessing AI to Elevate Your Productivity Game</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-vision-mastering-ai-art-with-free-dall-e-3-through-bing/"><u>Transform Your Vision: Mastering AI Art with Free DALL-E 3 Through Bing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-your-search-with-microsofts-ai-enhanced-bing-the-future-is-here/"><u>Transforming Your Search with Microsoft's AI-Enhanced Bing: The Future Is Here</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unlocking-the-potential-of-bandicam-your-ultimate-guide-for-2024/"><u>Unlocking the Potential of Bandicam – Your Ultimate Guide for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Grok: Pricing, Potential & Insights Into Elon Musk's Latest Creation"
-date: 2024-12-08T16:23:42.072Z
-updated: 2024-12-14T16:53:11.664Z
+date: 2024-12-19T19:00:26.304Z
+updated: 2024-12-23T18:58:28.465Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It doesn't make a difference if you're polite to AI. This is because AI like ChatGPT, Alexa, or Siri cannot process emotions like humans, and it won't be offended if you're not polite.
@@ -40,10 +40,14 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
 ![chatgpt no feelings or emotions text march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-no-feelings-or-emotions-text.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Teach Children to Be Polite Using AI?
@@ -51,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
@@ -64,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 
  AI chatbots can be rude to you, just like humans. For instance, a[Reddit user](https://www.reddit.com/r/bing/comments/110eagl/the%5Fcustomer%5Fservice%5Fof%5Fthe%5Fnew%5Fbing%5Fchat%5Fis/) shared a screenshot of Microsoft's Bing AI in beta mode, responding rudely and arguing during an interaction. An AI chatbot can also be rude if you jailbreak it to disobey its content policy, which is one reason[you shouldn't trust every generative AI screenshot](https://www.makeuseof.com/why-you-shouldnt-trust-ai-chatbot-conversation-screenshots/) you see. Someone may have specifically asked the AI to be rude, screen-capped it for the drama, and posted it online.
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Interact With AI How You Want
@@ -101,16 +101,18 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-chronicle-your-conquests-with-galaxy-screen-captures/"><u>[New] Chronicle Your Conquests with Galaxy Screen Captures</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-inside-the-studio-world-xvideo-studio-breakdown/"><u>[New] In 2024, Inside the Studio World XVideo Studio Breakdown</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-quick-guide-eradicating-unwanted-youtube-downloads-on-pcmac/"><u>2024 Approved Quick Guide Eradicating Unwanted YouTube Downloads on PC/Mac</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-the-mystery-of-phantoms-velocity-inversion/"><u>2024 Approved Unraveling the Mystery of Phantom's Velocity Inversion</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chat-with-ai-like-never-before-the-ultimate-guide-to-efficiently-using-microsofts-innovative-chatgpt/"><u>Chat with AI Like Never Before: The Ultimate Guide to Efficiently Using Microsoft's Innovative ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demonstrating-gpts-real-world-value/"><u>Demonstrating GPT's Real-World Value</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-gpt-4-in-action-the-mechanisms-behind-these-7-groundbreaking-ai-applications/"><u>Discovering GPT-4 in Action: The Mechanisms Behind These 7 Groundbreaking AI Applications</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-honor-90-lite-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Honor 90 Lite to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximize-performance-the-ultimate-list-of-8-smart-ai-chrome-plugins/"><u>Maximize Performance: The Ultimate List of 8 Smart AI Chrome Plugins</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/streamlining-update-processes-with-the-advanced-iupdatercomponent-module/"><u>Streamlining Update Processes with the Advanced IUpdaterComponent Module</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722859884530-unlock-the-power-of-mobile-communication-how-metro-by-t-mobiles-unlimited-plans-work-with-seamless-cellular-and-wi-fi-roaming-across-the-us/"><u>Unlock the Power of Mobile Communication: How Metro by T-Mobile's Unlimited Plans Work With Seamless Cellular and Wi-Fi Roaming Across the U.S.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-accelerate-and-decelerate-on-your-screen-netflix/"><u>[New] Accelerate and Decelerate on Your Screen (Netflix)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-crafting-the-perfect-facebook-video-post-pcandroid-techniques/"><u>[New] In 2024, Crafting the Perfect Facebook Video Post, PC/Android Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-combine-photos-for-captivating-instagram-stories/"><u>[New] In 2024, How to Combine Photos for Captivating Instagram Stories</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-final-step-guide-free-yourself-from-youtube-shorts/"><u>[Updated] Final Step Guide Free Yourself From YouTube Shorts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-10-replacements-for-chatgpt/"><u>Discover the Ultimate 10 Replacements for ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discreetly-manage-your-chatgpt-dialogue-records-without-deletion/"><u>Discreetly Manage Your ChatGPT Dialogue Records without Deletion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ditching-chatgpt-heres-what-to-try-next/"><u>Ditching ChatGPT? Here's What to Try Next</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/dvd-r-dvdplusr/"><u>DVD-R: その仕組みと容量について学ぶ - DVD+Rと比べた違い、書き込めない・再生不可時の対処法も解析</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-everyday-living-utilizing-chatgpt-for-a-better-you/"><u>Elevate Everyday Living: Utilizing ChatGPT for a Better You</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-ai-experience-with-these-5-superior-ai-prompt-designers-suitable-for-various-platforms/"><u>Elevate Your AI Experience with These 5 Superior AI Prompt Designers Suitable for Various Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-insights-protecting-your-apple-device-from-potential-risks-of-chatgpt-apps-in-the-mac-store/"><u>Expert Insights: Protecting Your Apple Device From Potential Risks of ChatGPT Apps in the Mac Store</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/flip-clips-android-reversal-technique/"><u>Flip Clips Android Reversal Technique</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlisted-geforce-gpu-on-pc/"><u>Unlisted GeForce GPU on PC</u></a></li>
 </ul></div>
 

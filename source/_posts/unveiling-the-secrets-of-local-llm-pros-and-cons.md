@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Secrets of Local LLM Pros and Cons
-date: 2024-12-11T16:48:45.107Z
-updated: 2024-12-14T17:03:30.339Z
+date: 2024-12-16T19:28:45.927Z
+updated: 2024-12-23T17:46:14.896Z
 tags:
   - chatgpt
   - open-ai
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
  You can use[ChatGPT](https://chat.openai.com/) ’s basic features for free, and you can type numerous responses into the app. On top of that, you can get ChatGPT Plus—which costs $20 per month. ChatGPT Plus offers access during periods when lots of other people are using the platform, along with other useful features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Drafting Ideas
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
 ![Notion AI Brainstorm Idea Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-brainstorm-idea.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you can see from the example below, we’ve asked Notion AI to brainstorm ideas related to sports.
@@ -68,15 +68,27 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
 
  When using ChatGPT, you can ask the tool to provide summaries on different topics. If you’ve created a conversation, you can get it to provide an overview by typing**“summarize this conversation so far”** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Finding Answers to Questions
 
  If you have broader questions that require answering, ChatGPT is a better option than Notion AI. You can ask ChatGPT for answers to numerous questions, such as why people enjoy or dislike visiting a certain place. In another example below, we’ve used ChatGPT to ask where in the world people speak the German language.
 
 ![Question Asked in ChatGPT Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/question-asked-in-chatgpt.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also use ChatGPT to find out which movements are most frequently used in certain exercise regimens, along with things to do on your travels and more. However, you should double-check the accuracy of everything you see; as ChatGPT mentions, the feature sometimes has inaccuracies.
 
  When using Notion AI, you can ask the tool to explain certain parts of the text on your pages. But in terms of finding answers to random questions you may have, it’s not really designed for that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Translation
 
@@ -84,20 +96,12 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
 
 ![Translate Notion AI Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/translate-notion-ai.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With ChatGPT, you also have the option to translate different things. You can ask the tool how you can say various words and phrases in other languages, and it’s also possible to translate your entire conversation. To do this, type**“translate this entire conversation into \[language\]”** at the bottom of your screen.
 
 ![ChatGPT Page Translation Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-page-translation.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Stability
@@ -107,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
  Notion AI is pretty much available whenever you need it, and you can use it on various pages within your workspace. ChatGPT had a lot of teething problems in the beginning—but since then, the tool has seemingly become more stable when generating answers.
 
  One thing you should keep in mind is that ChatGPT can often experience periods of full capacity. While you can upgrade to ChatGPT Plus to avoid this problem, you may not have round-the-clock access with a free plan.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Generating To-Do Lists
 
@@ -143,19 +143,21 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-15-fun-filled-multiplayer-titles-for-friends/"><u>[New] 15 Fun-Filled Multiplayer Titles for Friends</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-harness-the-hype-tactics-to-supercharge-your-social-media-status-for-2024/"><u>[New] Harness the Hype Tactics to Supercharge Your Social Media Status for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-uplifting-cinema-the-ultimate-list-of-motivation/"><u>[New] Uplifting Cinema The Ultimate List of Motivation</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/1-easy-guide-personalizing-your-mouse-and-touchpad-preferences-with-yl-software/"><u>1. Easy Guide: Personalizing Your Mouse & Touchpad Preferences with YL Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/android5/"><u>Android専用画面キャプチャーツール5つ:最高に使いやすくておすすめ！</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-free-youtube-to-flash-video-transcoder-no-costs-involved/"><u>Best Free YouTube-to-Flash Video Transcoder – No Costs Involved!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bypassing-premiere-pros-unsupported-file-compression-issue/"><u>Bypassing Premiere Pro’s Unsupported File Compression Issue</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-features-free-vs-pro-video-to-audio-converter-edition/"><u>Comparing Features: Free vs Pro - Video to Audio Converter Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-wmv-and-mp4-video-formats-and-tips-for-converting-wmv-videos-effectively/"><u>Comparing WMV and MP4 Video Formats & Tips for Converting WMV Videos Effectively</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-infinix-smart-8-pro-by-drfone-android/"><u>How to Bypass FRP from Infinix Smart 8 Pro?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-v29e-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo V29e Devices</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210349411-9782226303165-paroles-de-verite/"><u>Paroles de vérité | Free Book</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/secure-your-flash-drive-with-user-authentication-in-windows-11-no-need-for-bitlocker/"><u>Secure Your Flash Drive with User Authentication in Windows 11 - No Need for BitLocker</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvdwinmac/"><u>ビデオデータを取得する：DVD用Win/Mac解説</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-chronic-removal-method-for-youtubes-bite-sized-videos/"><u>[New] In 2024, Chronic Removal Method for YouTube's Bite-Sized Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-instagram-incorporating-music-in-videos-and-stories-for-2024/"><u>[New] Mastering Instagram Incorporating Music in Videos & Stories for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reimagine-fuzzy-images-selecting-the-ultimate-10-internet-tools/"><u>[New] Reimagine Fuzzy Images Selecting the Ultimate 10 Internet Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-ideal-app-for-aspiring-filmmakers-a-reel-crafting-list/"><u>[Updated] 2024 Approved Ideal App for Aspiring Filmmakers A Reel-Crafting List</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-elite-list-of-best-videocall-services-without-cost/"><u>2024 Approved Elite List of Best Videocall Services Without Cost</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/exploring-the-edge-of-screen-innovation-with-benq-sw320-for-2024/"><u>Exploring the Edge of Screen Innovation with BenQ SW320 for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-usb400-bluetooth-driver-for-your-tp-link-device-easy-installation-guide/"><u>Get the Newest USB400 Bluetooth Driver for Your TP-Link Device – Easy Installation Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-discover-affordable-premium-asmr-audio-equipment/"><u>In 2024, Discover Affordable Premium ASMR Audio Equipment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-android-gaming-on-pcs-through-google-play/"><u>Step-by-Step Guide to Android Gaming on PCs Through Google Play</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-influence-of-ai-powered-chatbots-on-modern-content-development-strategies/"><u>The Influence of AI-Powered Chatbots on Modern Content Development Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-trick-to-keep-a-record-of-your-chatgpt-interactions/"><u>The Ultimate Trick to Keep a Record of Your ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-web-based-applications-enhancing-your-abilities-in-crafting-effective-prompts/"><u>Top 7 Web-Based Applications Enhancing Your Abilities in Crafting Effective Prompts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-gpt-the-best-10-personalizations/"><u>Transforming GPT: The Best 10 Personalizations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/try-these-6-exceptional-free-alternatives-to-openais-sora-language-model/"><u>Try These 6 Exceptional Free Alternatives to OpenAI's Sora Language Model</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-ai-prompt-injection-an-overview-of-techniques-and-functions/"><u>Understanding AI Prompt Injection: An Overview of Techniques & Functions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-constraints-why-chatgpt-falls-short-in-crypto-forecasts/"><u>Understanding the Constraints: Why ChatGPT Falls Short in Crypto Forecasts</u></a></li>
 </ul></div>
 

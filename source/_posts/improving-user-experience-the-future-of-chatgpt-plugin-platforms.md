@@ -1,7 +1,7 @@
 ---
 title: "Improving User Experience: The Future of ChatGPT Plugin Platforms"
-date: 2024-11-29T01:42:35.356Z
-updated: 2024-11-29T23:53:11.191Z
+date: 2024-12-16T18:49:29.708Z
+updated: 2024-12-23T16:31:46.581Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do ChatGPT Plugins Work?
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
 ![Monitor screen showing ChatGPT landing page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/monitor-screen-showing-chatgpt-landing-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT plugins are software components integrated into[the ChatGPT platform](https://www.makeuseof.com/how-does-chatgpt-work/) . They provide ChatGPT with additional information, such as up-to-date news or data from proprietary sources, and enable ChatGPT to perform specific actions on behalf of users.
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
  Then, ChatGPT could use these plugins to fetch relevant information and insert them into the email draft. It could also use the plugins to send emails, schedule a meeting, or update a task's status.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do You Sign Up for ChatGPT Plugins?
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
 ![chatgpt plugin page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plugin-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Currently, the ChatGPT plugins feature is only available to ChatGPT Plus subscribers, and you have to join a waitlist to get access. You can[sign up for ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) by clicking on**Upgrade** **to** **Plus** on the left tab on the ChatGPT interface.
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
 4. Click**Join Waitlist** to submit the form.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Joining ChatGPT's Plugins Waitlist
@@ -90,24 +90,18 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-linux-screenshot-solutions-the-ultimate-guide/"><u>[New] 2024 Approved Linux Screenshot Solutions The Ultimate Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-maximizing-instagram-accessing-free-filters-via-searches/"><u>[New] 2024 Approved Maximizing Instagram Accessing Free Filters via Searches</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-a-compre-folio-for-understanding-du-recorders-features/"><u>[Updated] 2024 Approved A Compre Folio for Understanding Du Recorder's Features</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-synergizing-visual-elements-best-text-plugins-reviewed/"><u>[Updated] 2024 Approved Synergizing Visual Elements Best Text Plugins Reviewed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-avoiding-common-pitfalls-with-zoom-recording-methods/"><u>[Updated] In 2024, Avoiding Common Pitfalls with Zoom Recording Methods</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mobile-sound-shakers-the-ultimate-playlist/"><u>[Updated] Mobile Sound Shakers The Ultimate Playlist</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-ai-for-everyone/"><u>Decoding AI for Everyone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/halt-youtubes-automatic-video-screening/"><u>Halt YouTube's Automatic Video Screening</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-protect-your-privacy-from-chatgpt-the-complete-opt-out-strategy/"><u>How to Protect Your Privacy From ChatGPT – The Complete Opt-Out Strategy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-look-gpt4alls-intricate-process/"><u>Inside Look: GPT4All's Intricate Process</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/invisibility-cloak-techniques-for-your-chatgpt-exchanges-without-erasing-them/"><u>Invisibility Cloak Techniques for Your ChatGPT Exchanges Without Erasing Them</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/italys-sudden-intervention-against-chatgpt-use/"><u>Italy's Sudden Intervention Against ChatGPT Use</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-vector-databases-for-improved-ai-performance-and-efficiency/"><u>Leveraging Vector Databases for Improved AI Performance and Efficiency</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/mastering-video-acquisition-top-10-vimeo-downloader-software-for-2024/"><u>Mastering Video Acquisition Top 10 Vimeo Downloader Software for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigate-away-from-chatgpt-here-are-the-10-superior-choices/"><u>Navigate Away From ChatGPT? Here Are the 10 Superior Choices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigate-the-new-frontier-of-hobbies-using-chatgpts-my-bot-power/"><u>Navigate the New Frontier of Hobbies: Using ChatGPT's My Bot Power</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-the-body-stream-hiccup-on-chatgpt-learn-about-these-nine-strategies-for-resolution/"><u>Overcoming the 'Body Stream' Hiccup on ChatGPT: Learn About These Nine Strategies for Resolution</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-and-simple-guide-to-installing-chatgpt-on-your-linux-system-using-bavarder/"><u>Quick and Simple Guide to Installing ChatGPT on Your Linux System Using Bavarder</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-beyond-expectations-the-latest-lg-tv-bp550-review/"><u>[New] Beyond Expectations The Latest LG TV BP550 Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-spectrum-enhanced-by-blades-newest-quad-hd-cameras/"><u>[New] The Spectrum Enhanced by Blade's Newest Quad-HD Cameras</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620242101-boost-your-iphones-speed-and-storage-with-these-4-best-free-cleanse-applications/"><u>Boost Your iPhone's Speed & Storage with These 4 Best Free Cleanse Applications!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-itel-a70-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Itel A70 Phone Forgot Password</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-resumes-and-cover-letters-using-chatgpt-for-career-advancement/"><u>Mastering Resumes and Cover Letters Using ChatGPT for Career Advancement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-keeping-chatgpt-from-forgetting-your-talks/"><u>Mastering the Art of Keeping ChatGPT From Forgetting Your Talks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/myai-meets-chatgpt-which-social-platform-to-choose/"><u>MyAI Meets ChatGPT: Which Social Platform to Choose?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-the-literature-maze-with-these-advanced-ai-book-recommenders/"><u>Navigate the Literature Maze with These Advanced AI Book Recommenders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-auto-sticker-setup-glitches-and-resolutions/"><u>Navigating Auto Sticker Setup Glitches & Resolutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-artificeia-tackling-the-ais-purpose-synchronization-issue/"><u>Navigating Through Artificeia: Tackling the AI's Purpose Synchronization Issue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-linking-your-amazon-firestick-to-wifi-via-mobile-hotspot/"><u>Step-by-Step Guide: Linking Your Amazon Firestick to WiFi via Mobile Hotspot</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-electric-vehicle-showdown-bev-vs-phev-vs-fcev-vs-hybrid-knowing-your-options/"><u>The Electric Vehicle Showdown: BEV vs PHEV vs FCEV vs Hybrid - Knowing Your Options</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-iso-utility-software-effortlessly-convert-dvds-and-more-into-iso-files/"><u>Top ISO Utility Software: Effortlessly Convert DVDs & More Into ISO Files</u></a></li>
 </ul></div>
 

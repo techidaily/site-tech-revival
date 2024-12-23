@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the World of AI Chatbots: Why Are They Preferred by Users?"
-date: 2024-12-08T16:12:00.863Z
-updated: 2024-12-14T16:08:36.757Z
+date: 2024-12-16T16:13:38.724Z
+updated: 2024-12-23T18:08:50.432Z
 tags:
   - chatgpt
   - open-ai
@@ -40,17 +40,9 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
 
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The first notable difference is the approach taken in quantifying CO2 levels. Rather than list CO2 levels in terms of ppm, Bing Chat presented the data in terms of percentages.
 
@@ -71,10 +63,14 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 ![Screenshot Bard CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Ease of Use
 
@@ -86,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
@@ -100,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
  As both platforms are going through rapid development, the user experience will continue to improve.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are the Differences Between the Language Models?
 
  The last major difference regards the "engines" that power both platforms. These Large Language Models (LLMs) are the underpinning technology. We don't need to go into great detail, but LLMs are important when choosing a platform.
@@ -109,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
  GPT-4 is a generative model. It generates answers based on the text it's been trained on. By contrast, [LaMDA works differently](https://www.makeuseof.com/what-is-google-lamda-ai/)—it is a discriminative model, meaning it can distinguish between various kinds of text.
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Is Best for You: Bing Chat or Google Bard?
 
@@ -127,7 +127,7 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Era of the Chatbot Is Upon Us
@@ -153,22 +153,21 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-slippery-slope-of-simulated-support-instagram-style/"><u>[New] 2024 Approved The Slippery Slope of Simulated Support, Instagram Style</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-nine-crucial-strategies-to-elevate-your-youtube-presence/"><u>[New] In 2024, Nine Crucial Strategies to Elevate Your Youtube Presence</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionary-metaverse-tech-highlights-of-top-8-helmets/"><u>2024 Approved Revolutionary Metaverse Tech Highlights of Top 8 Helmets</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-and-personal-information-safety-understanding-the-risks-involved/"><u>ChatGPT and Personal Information Safety: Understanding the Risks Involved</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-how-to-communicate-with-chatgpt-unlock-your-conversational-potential/"><u>Discover How to Communicate with ChatGPT: Unlock Your Conversational Potential</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-thrill-top-4-ai-enhanced-virtual-crime-quests/"><u>Discover the Thrill: Top 4 AI-Enhanced Virtual Crime Quests</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/freelancing-in-the-ai-era-weighing-bing-chat-against-chatgpt-based-on-these-8-crucial-considerations/"><u>Freelancing in the AI Era: Weighing Bing Chat Against ChatGPT Based on These 8 Crucial Considerations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-avoid-falling-for-bingchats-pseudo-cryptocurrency-schemes/"><u>How to Avoid Falling for BingChat's Pseudo-Cryptocurrency Schemes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y100-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100 Phone with Broken Screen</u></a></li>
-<li><a href="https://win-help.techidaily.com/incorporating-audio-tracks-into-your-flipbook-projects/"><u>Incorporating Audio Tracks Into Your FlipBook Projects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/interactive-revolution-siri-powered-chatgpt-experience-iphones/"><u>Interactive Revolution: Siri-Powered ChatGPT Experience iPhones</u></a></li>
-<li><a href="https://driver-error.techidaily.com/non-functional-keyboard-lights-on-asus-model/"><u>Non-Functional Keyboard Lights on ASUS Model</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/precision-in-persona-development-with-chatgpt-assistance/"><u>Precision in Persona Development with ChatGPT Assistance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-elite-selection-exploring-7-superior-artificial-intelligence-markets-for-prompts/"><u>The Elite Selection: Exploring 7 Superior Artificial Intelligence Markets for Prompts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-efficient-browsers-with-low-resource-impact-on-all-oses/"><u>Top Efficient Browsers with Low Resource Impact on All OSes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210811707-9781636980638-triumph/"><u>Triumph | Free Book</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/your-francophone-reading-journey-starts-with-these-novels/"><u>Your Francophone Reading Journey Starts with These Novels</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-bridging-gaps-in-dialogue-techniques-for-smooth-editing-with-garageband/"><u>[New] In 2024, Bridging Gaps in Dialogue Techniques for Smooth Editing with GarageBand</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mastering-time-plan-and-record-slack-plus-filmora-meetings/"><u>2024 Approved Mastering Time Plan & Record Slack + Filmora Meetings</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-13-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 13</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-8-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 8 Plus with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-the-acer-chromebook-15-an-affordable-choice-with-spacious-screen-real-estate/"><u>Comprehensive Review: The Acer Chromebook 15, an Affordable Choice with Spacious Screen Real Estate</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-echo-dot-vs-homepod-mini-which-one-wins-in-functionality/"><u>Evaluating Echo Dot Vs. HomePod Mini - Which One Wins in Functionality</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/swift-methodology-to-weed-out-fake-pals-from-insta-network/"><u>Swift Methodology to Weed Out Fake Pals From Insta Network</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-infinix-note-30-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Infinix Note 30 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722196716335-the-countdown-to-official-desktop-chatgpt-boost-productivity-with-these-premium-free-to-use-alternatives-in-the-meantime/"><u>The Countdown to Official Desktop ChatGPT: Boost Productivity with These Premium, Free-to-Use Alternatives in the Meantime!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-interaction-game-with-chatgpt-plus-visual-capabilities-learn-from-8-expert-tips-and-tricks/"><u>Transform Your Interaction Game with ChatGPT Plus Visual Capabilities - Learn From 8 Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-digital-landscapes-the-impact-of-ai-powered-search-engines-on-modern-sites/"><u>Transforming Digital Landscapes: The Impact of AI-Powered Search Engines on Modern Sites</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ubuntu-meets-ai-automating-with-auto-gpt/"><u>Ubuntu Meets AI: Automating with Auto-GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-metaphorical-comparison-of-the-internet-to-a-universal-free-library-system/"><u>Understanding the Metaphorical Comparison of the Internet to a Universal, Free Library System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-ai-potential-the-finest-20-chatgpt-prompts-curated-via-github-platforms/"><u>Unleashing AI Potential: The Finest 20 ChatGPT Prompts Curated via Github Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unreliable-outcomes-with-zerogpt-here-are-4-instances-to-prove-it/"><u>Unreliable Outcomes with ZeroGPT? Here Are 4 Instances to Prove It</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-mechanics-how-are-chatbots-programmed-to-engage-in-dialogue-with-humans/"><u>Unveiling the Mechanics: How Are Chatbots Programmed to Engage in Dialogue with Humans?</u></a></li>
 </ul></div>
 

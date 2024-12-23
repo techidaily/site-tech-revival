@@ -1,7 +1,7 @@
 ---
 title: "Advanced Techniques: Taking and Organizing Notes Like a Pro with ChatGPT"
-date: 2024-12-07T16:46:59.497Z
-updated: 2024-12-14T18:10:37.894Z
+date: 2024-12-22T19:12:27.377Z
+updated: 2024-12-23T19:21:03.056Z
 tags:
   - chatgpt
   - open-ai
@@ -45,7 +45,7 @@ After Installing Python, you can download Auto-GPT from GitHub.
 **Source code.zip** is for Windows, while**Source code.tar.gz** is for Linux and MacOS. First, download the file for your operating system, then copy the folder and paste it into your desired location.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 2: Configure Auto-GPT
@@ -64,14 +64,10 @@ After Installing Python, you can download Auto-GPT from GitHub.
 
 ![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 3: Install Auto-GPT Dependencies
@@ -89,6 +85,10 @@ python -m autogpt
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
 
 Congratulations! You have successfully Installed Auto-GPT.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Auto-GPT
 
@@ -108,13 +108,13 @@ Congratulations! You have successfully Installed Auto-GPT.
 
 ![Creating Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/recipe-generator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In this example, we have named our AI assistant "Recipe-Generator." Its role is to make a recipe based on the top five ingredients readily available in the US. We've set the first three goals as parameters on what we expect the recipe will be and set the last two to tell Auto-GPT to save the file as TXT, then shutdown.
 
 ![Running Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-recipe-generator-thinking.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you give your last goal, you can hit enter for Auto-GPT to run.
 
@@ -132,6 +132,10 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 
 ![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
 
 After making the recipe, our AI has now completed its task.
@@ -142,14 +146,10 @@ After making the recipe, our AI has now completed its task.
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Auto-GPT Limitations
@@ -185,21 +185,22 @@ After making the recipe, our AI has now completed its task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-a-step-by-step-tutorial-for-recording-youtube-live-across-devices-for-2024/"><u>[New] A Step-by-Step Tutorial for Recording YouTube Live Across Devices for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ais-role-in-blurring-reality-lines/"><u>AI's Role in Blurring Reality Lines</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/basic-routines-to-record-youtube-streams/"><u>Basic Routines to Record YouTube Streams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/building-an-online-presence-how-chatgpt-boosts-your-site-development-in-4-ways/"><u>Building an Online Presence: How ChatGPT Boosts Your Site Development in 4 Ways</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/bypassing-edgenuity-a-guide-to-focused-self-study-for-2024/"><u>Bypassing Edgenuity A Guide to Focused Self-Study for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-chatgpt-create-a-breakthrough-in-health-tech/"><u>Can ChatGPT Create a Breakthrough in Health Tech?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-batch-designs-how-to-harness-the-power-of-canva-and-chatgpt-for-your-content-needs/"><u>Effortless Batch Designs: How to Harness the Power of Canva and ChatGPT for Your Content Needs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/elevate-everyday-life-through-webcams/"><u>Elevate Everyday Life Through Webcams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-copywriting-with-ai-wisdom/"><u>Enhancing Copywriting with AI Wisdom</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/essentials-to-skyrocketing-video-views-on-youtube-for-2024/"><u>Essentials to Skyrocketing Video Views on YouTube for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-12-pro-to-windows-10-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 12 Pro to Windows 10? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/notable-20-free-non-exclusive-pubg-screenshots-for-2024/"><u>Notable 20 Free, Non-Exclusive PUBG Screenshots for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/overwatch-gamers-record-like-a-pro-for-2024/"><u>Overwatch Gamers, Record Like a Pro for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-recurring-sound-cutouts-in-windows-10-detailed-solutions/"><u>Resolving Recurring Sound Cutouts in Windows 10 - Detailed Solutions!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/translation-showdown-can-chatgpt-outperform-google-translate/"><u>Translation Showdown: Can ChatGPT Outperform Google Translate?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/will-chatgpt-take-over-your-role-understanding-the-impact-of-generative-ai-on-careers/"><u>Will ChatGPT Take Over Your Role? Understanding the Impact of Generative AI on Careers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-crafting-dynamic-vimeo-conclusions/"><u>[Updated] 2024 Approved The Ultimate Checklist for Crafting Dynamic Vimeo Conclusions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-streamlining-your-streams-choosing-between-xsplit-and-obs/"><u>[Updated] Streamlining Your Streams Choosing Between XSplit and OBS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-mastering-altitude-with-djis-new-gadget/"><u>2024 Approved Mastering Altitude with DJI's New Gadget</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/brookstone-photoshare-review-one-of-the-best-digital-photo-frames-available/"><u>Brookstone PhotoShare Review: One of the Best Digital Photo Frames Available</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dall-e-3s-new-edit-features-room-for-improvement/"><u>DALL-E 3'S New Edit Features: Room for Improvement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-the-differences-why-consider-upgrading-to-copilot-pro-from-standard-copilot/"><u>Deciphering the Differences: Why Consider Upgrading to Copilot Pro From Standard Copilot?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-the-differences-between-claude-pro-and-gptplusplus/"><u>Discovering the Differences Between Claude Pro and GPT+Plus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficient-time-control-utilizing-chatgpts-power-for-better-organization/"><u>Efficient Time Control: Utilizing ChatGPT's Power for Better Organization</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embrace-claude-ai-how-this-technology-is-shaping-the-world/"><u>Embrace Claude AI: How This Technology Is Shaping the World</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-your-business-operations-a-guide-to-using-chatgpt-for-effective-workflow-management/"><u>Enhancing Your Business Operations: A Guide to Using ChatGPT for Effective Workflow Management</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eu-ai-regulation-impact-on-chatgpt/"><u>EU AI Regulation: Impact on ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-claude-2-its-essence-and-uses/"><u>Exploring Claude 2: Its Essence & Uses</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-samsung-galaxy-a15-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy A15 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-iphone-7-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About iPhone 7 Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-ai-prompts-top-5-internet-classes-to-enhance-your-techniques/"><u>Mastering AI Prompts: Top 5 Internet Classes to Enhance Your Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/probing-into-the-heart-of-windows-11-system32/"><u>Probing Into the Heart of Windows 11: System32</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-guide-solving-the-issue-of-airplay-not-connecting-to-your-apple-tv-or-peripheral-devices/"><u>Troubleshooting Guide: Solving the Issue of AirPlay Not Connecting to Your Apple TV or Peripheral Devices</u></a></li>
 </ul></div>
 

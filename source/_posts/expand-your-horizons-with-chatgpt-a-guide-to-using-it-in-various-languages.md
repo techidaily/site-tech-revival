@@ -1,7 +1,7 @@
 ---
 title: "Expand Your Horizons with ChatGPT: A Guide to Using It in Various Languages"
-date: 2024-12-12T17:57:37.526Z
-updated: 2024-12-14T16:35:59.118Z
+date: 2024-12-19T16:39:58.349Z
+updated: 2024-12-23T19:02:05.719Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -52,10 +56,14 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
 ![AIPRM for ChatGPT plans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-pricing-plan.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The free version of AIPRM can access the extensive library of Community Prompts, save two private prompt templates, and set favorite prompt templates, which is more than enough to get you started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Install the AIPRM for ChatGPT Chrome Extension
 
@@ -67,14 +75,10 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
 4. This should automatically direct you to your ChatGPT homepage, where you will see a terms & conditions popup for the AIPRM extension. Tick the checkbox to agree and click**Confirm.**  
 ![AIPRM terms and conditions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-terms-conditions-chatgpt.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You should now see the AIPRM dashboard on your ChatGPT page.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the AIPRM for ChatGPT Chrome Extension
@@ -82,10 +86,6 @@ You should now see the AIPRM dashboard on your ChatGPT page.
  To get started, go to your ChatGPT account. You should see the AIPRM dashboard on your homepage. Click the**thumbs-up or down** icon on the green popup that appears to dismiss it. You can now use the extension directly from your ChatGPT account.
 
 ![The AIPRM green popup in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-green-popup.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As you can see, there are several tabs in the AIPRM dashboard, including:
 
@@ -99,6 +99,10 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 ![The AIPRM for ChatGPT dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-chatgpt-dashboard.jpeg)
 
  You can start using AIPRM prompts by clicking the**Public** tab and scrolling through the list of available prompts. For instance, you can select the**Midjourney Prompt Generator** to get a detailed and descriptive prompt to generate a unique AI image. Type a keyword, and it will generate a detailed and descriptive prompt, which you can copy and paste into Midjourney.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Filter and Favorite AIPRM Prompts
 
@@ -121,10 +125,6 @@ To create a custom AIPRM prompt:
  Next, fill out all the details of your prompt. Note that providing more detailed information in the**Prompt Template** field will increase your prompt's value and the response quality from ChatGPT. Let's say you wish to create a prompt to promote your business on Facebook. You can provide specific details like the name of your business, your services, your target audience, hashtags to use, and the tone of voice. In the same field, create the task by writing the instructions that ChatGPT will follow to generate the desired text.
 
 ![AIPRM screenshot showing how to create a template](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/create-aiprm-prompt-template.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For instance, "Write a Facebook post with emojis and a call to action about**\[PROMPT\]** ." Make sure to add the prompt variable**\[PROMPT\]** in your template, as it will be replaced by what you type whenever you use this prompt. In this example, the prompt variable**\[PROMPT\]** will be the topic for the Facebook post. You can also provide one or more examples of what you want the output to look like.
 
@@ -157,24 +157,24 @@ To create a custom AIPRM prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-comprehensive-guide-to-top-hashtag-analysis-tools-fbtwitterinsta/"><u>[New] 2024 Approved Comprehensive Guide to Top Hashtag Analysis Tools (FB/Twitter/Insta)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-engineering-engaging-podcast-sneak-peeks/"><u>[New] Engineering Engaging Podcast Sneak Peeks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-streamlined-techniques-for-efficient-apple-screenshots-for-2024/"><u>[New] Streamlined Techniques for Efficient Apple Screenshots for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boosting-youtube-descriptions-with-expert-templates/"><u>[Updated] 2024 Approved Boosting YouTube Descriptions with Expert Templates</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-retreat-from-macos-sierras-latest-upgrade/"><u>[Updated] How to Retreat From MacOS Sierra's Latest Upgrade</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-conversion-guide-turning-your-youtube-videos-into-wav-format-in-a-few-taps/"><u>Easy Conversion Guide: Turning Your YouTube Videos Into WAV Format in a Few Taps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-guide-step-by-step-instructions-for-streaming-movies-with-kodi/"><u>Easy Guide: Step-by-Step Instructions for Streaming Movies with Kodi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-techniques-for-transforming-4k-footage-into-high-quality-2k-videos/"><u>Effective Techniques for Transforming 4K Footage Into High-Quality 2K Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-guide-downloading-and-converting-youtube-videos-into-dvd-format/"><u>Effortless Guide: Downloading & Converting YouTube Videos Into DVD Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-guide-mastering-the-art-of-converting-vevo-files-into-high-quality-mp3/"><u>Effortless Guide: Mastering the Art of Converting VEVO Files Into High-Quality MP3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-mp3-conversion-mastering-xm-audio-files-with-top-tier-xm-tools/"><u>Effortless MP3 Conversion: Mastering XM Audio Files with Top-Tier XM Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortlessly-transforming-mts-audio-into-wav-format-a-users-guide/"><u>Effortlessly Transforming MTS Audio Into WAV Format - A User's Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-and-effective-techniques-to-cut-mp3-tracks-on-windows-11-a-step-by-step-guide/"><u>Free and Effective Techniques to Cut MP3 Tracks on Windows 11 - A Step-by-Step Guide!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-ways-to-install-hevc-encoder-on-your-windows-11-pc/"><u>Free Ways to Install HEVC Encoder on Your Windows 11 PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oneplus-ace-2-pro-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of OnePlus Ace 2 Pro? Try These Fixes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mobile-innovators-guide-streamlined-channel-launch-for-entrepreneurs-and-content-makers/"><u>In 2024, Mobile Innovators' Guide Streamlined Channel Launch for Entrepreneurs & Content Makers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/streamlining-screen-recording-with-nvidia/"><u>Streamlining Screen Recording with NVIDIA</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-fm-radio-capabilities-on-your-iphone-or-android-device/"><u>Unlocking FM Radio Capabilities on Your iPhone or Android Device</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/data-aathalna-ka-hal-karana-bhara-harada-dasaka-ka-athara-panaramalna-janakara-kasa-parapata-kara/"><u>डेटा आंदोलन को हल करना: बाहरी हार्ड डिस्क के अंदर पुनर्मिलन जानकारी कैसे प्राप्त करें</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-captivate-audience-attention-with-your-yt-shorts/"><u>[New] How to Captivate Audience Attention with Your YT Shorts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-2023-shift-in-facebooks-video-presentation-style/"><u>[Updated] 2024 Approved The 2023 Shift in Facebook’s Video Presentation Style</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-essential-steps-to-curate-youtube-music-selections/"><u>[Updated] Essential Steps to Curate YouTube Music Selections</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-maximize-impact-best-practices-for-fb-video-posts/"><u>[Updated] In 2024, Maximize Impact Best Practices for FB Video Posts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-latest-version-of-wacom-intuos-pro-hd-drivers-download-now/"><u>Get Latest Version of Wacom Intuos Pro HD Drivers - Download Now!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-note-12-5g-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi Redmi Note 12 5G Lock Screen Password?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-cleanly-remove-and-install-wacom-drivers-in-win-oss/"><u>How to Cleanly Remove and Install Wacom Drivers in WIN OSs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-90-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 90 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/recovers-raid-data-from-raid-0-5-and-6-stellar-data-recovery/"><u>Recovers RAID Data From RAID 0, 5 & 6 - Stellar Data Recovery</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/selecting-between-standard-and-augmented-gpt-capabilities/"><u>Selecting Between Standard & Augmented GPT Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/shield-against-fraudgpt-critical-awareness-skills-for-cybersecurity/"><u>Shield Against FraudGPT: Critical Awareness Skills for Cybersecurity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/srt-to-sub-pivotal-approaches-for-content-transformation-for-2024/"><u>SRT to SUB Pivotal Approaches for Content Transformation for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/stay-safe-online-the-false-chatgpt-extension-posing-a-risk-to-your-facebook-accounts/"><u>Stay Safe Online: The False 'ChatGPT' Extension Posing a Risk to Your Facebook Accounts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-your-ai-interactions-the-ultimate-guide-to-using-chatgpt-on-google-chrome/"><u>Streamline Your AI Interactions: The Ultimate Guide to Using ChatGPT on Google Chrome</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/synchronize-gpt-3-talks-efficiently-using-chatfolders/"><u>Synchronize GPT-3 Talks: Efficiently Using ChatFolders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-chronicle-of-language-models-from-gpt-1-to-gpt-4/"><u>The Chronicle of Language Models From GPT-1 to GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-crossroads-of-ai-moderation-and-human-interaction-patterns/"><u>The Crossroads of AI Moderation and Human Interaction Patterns</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-downside-of-using-generative-artifice-intelligence-in-chat-applications-reasons-to-think-twice/"><u>The Downside of Using Generative Artifice Intelligence in Chat Applications - Reasons to Think Twice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-evolution-of-online-exploration-unveiling-the-impact-of-ai-on-microsofts-bing-search-platform/"><u>The Evolution of Online Exploration: Unveiling the Impact of AI on Microsoft's Bing Search Platform</u></a></li>
 </ul></div>
 

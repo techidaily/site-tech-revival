@@ -1,7 +1,7 @@
 ---
 title: "The Dawn of Digital Minds: Identifying When Humanity First Created AI"
-date: 2024-09-05T12:46:19.126Z
-updated: 2024-09-06T12:46:19.126Z
+date: 2024-12-20T18:24:28.940Z
+updated: 2024-12-23T16:52:30.901Z
 tags:
   - chatgpt
   - open-ai
@@ -13,13 +13,11 @@ excerpt: "This Article Describes The Dawn of Digital Minds: Identifying When Hum
 thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c63be7c3be4720f86eba5080f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Battle of the Titans: Llama 3 Against GPT-nAi in an Intense Showdown
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,18 +32,6 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 
  Llama 3 and GPT-4 are two of the most advanced large language models (LLMs) available to the public. Let’s see which LLM is better by comparing both models in terms of multimodality, context length, performance, and cost.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is GPT-4?
 
 ![Asking GPT-4o using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/886c4fbb-dd01-42da-b2de-ff25a87fa046.jpg)
@@ -61,11 +47,9 @@ There are currently three variations of the model:
  You can now access all three GPT-4 models by subscribing to OpenAI’s API services, interacting with ChatGPT, or through services such as Descript, Perplexity AI, and the[various copilots from Microsoft](https://www.makeuseof.com/microsoft-ai-copilot-which-you-should-use/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is Llama 3?
 
 ![Asking Llama 3 using chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/28948759-e06d-4eca-9dc6-df6a41cf888a.jpg)
@@ -76,17 +60,15 @@ There are currently three variations of the model:
 
  You can access Llama 3 through[Meta AI](https://www.meta.ai/) , its generative AI chatbot. Alternatively, you can run the LLMs locally on your computer by downloading Llama 3 models and loading them through Ollama, Open WebUI, or LM Studio.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Multimodality
 
  The release of GPT-4o has finally delivered on the initial marketing of GPT-4 having multimodal capabilities. These multimodal features can now be accessed by interacting with ChatGPT using the GPT-4o model. As of June 2024, GPT-4o doesn’t have any integrated way of generating video and audio. However, it does have capabilities to generate text and images based on video and audio inputs.
 
  Llama 3 is also planning to provide a multimodal model for the upcoming Llama 3 400B. It will most likely integrate similar technologies to CLIP (Contrast Language-Imager Pre-Training) to generate images using[zero-shot learning](https://www.makeuseof.com/what-is-zero-shot-learning-can-it-improve-ai/) techniques. But since Llama 400B is still in training, the only way for the 8B and 70B models to generate images is to use extensions such as the LLaVa, Visual-LLaMA, and LLaMA-VID. As of now, Llama 3 is purely a language-based model that can take text, image, and audio as inputs for generating text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Context Length
 
@@ -107,18 +89,6 @@ There are currently three variations of the model:
 
  In contrast, GPT-4 now supports a significantly larger context length of 32,000 tokens (around 25,600 words) for ChatGPT users and 128,000 tokens (around 102,400 words) for those using API endpoints. This gives GPT-4 models an edge in managing extensive conversations and the ability to read long documents or even through an entire book.
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Performance
 
  Let’s compare performance by looking at the[Llama 3 April 18, 2024, benchmark report from Meta AI](http://ai.meta.com/blog/meta-llama-3/) and the[GPT-4 May 14, 2024, GitHub report by OpenAI](http://github.com/openai/simple-evals?tab=readme-ov-file#benchmark-results) . Here are the results:
@@ -141,23 +111,25 @@ Here’s what each criterion evaluates:
 
  The recent benchmarks highlight the performance difference between GPT-4 and Llama 3 models. Though the Llama 3 8B model seems to lag significantly behind, the 70B and 400B models provide lower but similar results to both GPT-4o and GPT-4 Turbo models in terms of academic and general knowledge, reading and comprehension, reasoning and logic, and coding. However, no Llama 3 model is yet to come close to the performance of GPT-4 in terms of pure mathematics.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Cost
 
  Cost is a critical factor for many users. OpenAI's GPT-4o model is available to all ChatGPT users for free at a 16-message limit every 3 hours. If you need more, then you'll have to subscribe to ChatGPT Plus, which costs $20 USD per month to expand GPT-4o's message limit to 80 while also having access to the other GPT-4 models.
 
  On the other hand, both Llama 3 8B and 70B models are free and open-source, which can be a significant advantage for developers and researchers looking for a cost-effective solution without compromising on performance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Accessibility
 
  GPT-4 models are widely accessible through OpenAI's ChatGPT generative AI chatbot and through its API. You can also use GPT-4 on Microsoft Copilot, which is[one way you can use GPT-4 for free](https://www.makeuseof.com/ways-access-gpt-4-free/) . This widespread availability ensures that users can easily leverage its capabilities across different use cases. In contrast, Llama 3 is an open-source project that provides model flexibility and encourages broader experimentation and collaboration within the AI community. This open-access approach can democratize AI technology, making it available to a much wider audience.
 
  Although both models are readily available, GPT-4 is much easier to use because it is integrated into popular productivity tools and services. On the other hand, Llama 3 is mainly integrated into research and business platforms like Amazon Bedrock, Ollama, and DataBricks (except for Meta AI chat assist), which doesn't appeal to the larger market of non-technical users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## GPT-4 vs. Llama 3: Which Is Better?
 
@@ -167,14 +139,11 @@ Here’s what each criterion evaluates:
 
  In conclusion, although GPT-4 stands out for its advanced multimodal capabilities, larger context length, and seamless integration into widely used tools, Llama 3 offers a valuable alternative with its open-source nature, allowing for greater customization and cost savings. So, in terms of application, GPT-4 is ideal for those seeking ease of use and comprehensive features in a model, while Llama 3 is well-suited for developers and researchers looking for flexibility and adaptability.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -183,4 +152,26 @@ Here’s what each criterion evaluates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-phone-pics-to-professional-videos-selecting-the-top-9-enhancers/"><u>[New] 2024 Approved From Phone Pics to Professional Videos Selecting the Top 9 Enhancers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-10-tips-for-remotely-recording-your-podcasts/"><u>[New] 2024 Approved Top 10 Tips for Remotely Recording Your Podcasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/irecting-fundamentals-a-comprehensive-online-course-by-youtube-experts-for-2024/"><u>[New] Directing Fundamentals A Comprehensive Online Course by YouTube Experts for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/s-it-legal-to-screen-record-youtube-videos-for-2024/"><u>[New] Is It Legal to Screen Record YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-choosing-between-podcast-and-youtube-for-content-delivery/"><u>2024 Approved Choosing Between Podcast and YouTube for Content Delivery</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertir-video-sin-costo-alguno-transforma-tu-contenido-wtv-en-mp4-usando-la-solucion-en-linea-de-movavi/"><u>Convertir Vídeo Sin Costo Alguno: Transforma Tu Contenido WTV en MP4 Usando La Solución en Línea De Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creer-des-fichiers-ogg-a-partir-de-mp2-directement-sur-votre-ordinateur-une-solution-gratuite-tutorials-movavi/"><u>Créer Des Fichiers OGG À Partir De MP2 Directement Sur Votre Ordinateur : Une Solution Gratuite - Tutorials Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-movavis-no-cost-mp3-converter-and-effortlessly-upgrade-your-tta-audio-files/"><u>Download Movavi's No-Cost MP3 Converter and Effortlessly Upgrade Your TTA Audio Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/establishing-deep-anchor-links-with-movavi-partners-your-key-to-seo-success/"><u>Establishing Deep Anchor Links with Movavi Partners: Your Key to SEO Success</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-breaking-free-from-the-old-a-complete-step-by-step-guide-to-updating-your-tiktok-avatar/"><u>In 2024, Breaking Free From the Old A Complete, Step-By-Step Guide to Updating Your TikTok Avatar</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-exclusive-streamers-choice-of-live-broadcasting-apps/"><u>In 2024, Exclusive Streamer's Choice of Live Broadcasting Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iniciando-tu-viaje-como-representante-de-ventas-con-el-programa-de-afiliados-movavi-tecnicas-y-estrategias-para-ganar/"><u>Iniciando Tu Viaje Como Representante De Ventas Con El Programa De Afiliados Movavi: Técnicas Y Estrategias Para Ganar</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-mp4m4v/"><u>Movavi의 MP4/M4V 형식 동일성을 위해 사용자가 조작할 수 있는 무료 변환기 - 오픈 소스 라이브</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ate-and-neutralize-your-own-overly-green-spectrum-in-youtube-videos-mac/"><u>Navigate and Neutralize Your Own Overly Green Spectrum in YouTube Videos (Mac)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/seamless-transitions-made-simple-screen-record-with-aiseesoft/"><u>Seamless Transitions Made Simple Screen Record With Aiseesoft</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-12-editor-friendly-displays-budget-and-professional-options/"><u>Top 12 Editor-Friendly Displays: Budget and Professional Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tutorial-construire-un-diapositive-captivante-avec-laide-de-movavi-software/"><u>Tutorial: Construire Un Diapositive Captivante Avec L'Aide De Movavi Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unravel-the-power-of-wmp-in-audio-transition-from-cds-for-2024/"><u>Unravel the Power of WMP in Audio Transition From Cds for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wavwebm-movavi-web/"><u>お手頃価格でWAVファイルをWEBMに変換 – Movavi Webサービス</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Copilot, Your Free Companion for GPT-4's Highest Outputs
-date: 2024-12-12T16:59:23.702Z
-updated: 2024-12-14T16:41:49.988Z
+date: 2024-12-17T16:01:54.877Z
+updated: 2024-12-23T17:11:57.999Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![ChatGPT prompt results ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-prompt-results.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you struggle to generate ideas for content, ChatGPT can save you some brain power and provide all the content for you. If you don’t know how the chatbot works, see our[guide for how to use ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) . Sign up on the[OpenAI](https://openai.com/blog/chatgpt) website and create a free account. In periods of high demand, it may take longer to create an account or even receive chatbot results.
 
  On the ChatGPT chatbot page, write your prompt. Using a chatbot works best for collating information you otherwise do not have, would struggle with, or would take too long to research and generate yourself. Some helpful prompt ideas are:
@@ -43,12 +39,16 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  After ChatGPT generates your prompts, read over them. One of the[issues with using ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is occasionally it generates inaccurate information. If you’re making content that informs people, you should ensure that it is correct.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Copy the Text Into a Spreadsheet
 
 ![GoogleSheets-quotes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-quotes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have a programmer’s mind, you can[use the GPT for Sheets and Docs extension](https://www.makeuseof.com/how-use-chatgpt-google-sheets/) , or you can copy and paste your content into any spreadsheet program—like Microsoft Excel or Google Sheets. Then open a blank page.
@@ -60,10 +60,6 @@ It’s a very simple process, and you’ll want to do it again and again.
 ## 3\. Tidy Up the Content
 
 ![Google Sheets with quotes in one column and credits in another.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-remove-attirubtion.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  First, widen column A to the right. Hover your cursor over the connecting edge of A and B until the cursor changes to arrows, then click and drag A column until you can see the ends of your content within the column width.
 
@@ -83,10 +79,6 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Google Sheets saving options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/saveas-csv.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  CSV stands for Comma-Separated Values which allows your content to be saved in a structured table ready for input into other programs.
 
  Depending on which spreadsheet software you’re using, saving might work differently. If you’re using Google Sheets, go to**File** \>**Download** \>**Comma Separated Values (.csv)** .
@@ -94,7 +86,7 @@ It’s a very simple process, and you’ll want to do it again and again.
  For Microsoft Excel, go to**File** \>**Save as** ​​​​​​, and under File Format choose**CSV UTF-8 (Comma-delimited) (.csv)** ​​​​​​. But this could be different depending on which version of Microsoft Office you’re running.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Make Your Design in Canva
@@ -110,7 +102,7 @@ It’s a very simple process, and you’ll want to do it again and again.
  Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Add Text Placeholders
@@ -123,13 +115,13 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  If you want different designs for the same content, you can create more than one template design here. Select**Add a page** beneath your artboard to add a new design.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Bulk Create Your Content
 
 ![Bulk Create app in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-app-canva.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Select**Apps** on Canva’s left-hand menu and type “Bulk Create” in the search bar. Select the**Bulk Create** app.
 
@@ -139,15 +131,15 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Canva CSV input.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/curly-brackets.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select your Quotes placeholder text, then right-click >**Connect Data** \>**\[QUOTES\]** . This inputs your data into Canva, shown by your label now written in curly brackets. Do this again for your second set of content, and any others you’re adding. Select**Continue** .
 
 ![Canva's Bulk Create checkboxes.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apply-data-canva-bulk-create.jpg)
 
  You’ll see a list of all the content to be applied with checkboxes next to each item. To remove any text items, uncheck the box next to it. If you’re happy with all the content, keep them all checked and select**Generate Pages** . Ensure you don't have a pop-up blocker on as your designs will open in a new tab.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Review and Edit Your Designs
 
@@ -160,16 +152,24 @@ It’s a very simple process, and you’ll want to do it again and again.
  At this point you can also add emphasis to individual words with extra colors, bold or italics, or change the font for certain words or phrases. This isn’t possible to do with Bulk Create.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Save Your Bulk-Created Designs
 
 ![Canva save options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-save-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re happy with how everything looks, it’s time to save your designs. Go to**Share** \>**Download** and choose the best format for your designs. PNG is what we recommend for the best quality, but some social media applications might not accept PNGs, or perhaps another format works better for your designs.
 
 ![Bulk designs on Mac Finder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-designs-on-mac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can add your bulk content to a social media scheduling app, like Hootsuite or Later, to save even more time and to ensure regular posting. Bulk designs are great for weekly or monthly posts of a similar type, for example, Monday Motivation or monthly calendar posts.
 
@@ -192,17 +192,24 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-warriors-pantheon-valhalla-rebirth/"><u>[New] 2024 Approved Warriors' Pantheon Valhalla Rebirth</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-complete-guide-to-customizing-your-game-characters-sound-identity-free-solution-included/"><u>[New] The Complete Guide to Customizing Your Game Character's Sound Identity (Free Solution Included)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-ideal-changing-voices-for-online-influencers/"><u>2024 Approved Ideal Changing Voices for Online Influencers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-proven-techniques-for-effective-video-transfer-ios-to-mac/"><u>In 2024, Proven Techniques for Effective Video Transfer IOS to MAC</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/ios-garageband/"><u>IOSの音声ファイルマージ方法: GarageBandアプリとパソコン使い方</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/samsung-galaxy-ai-growth-leads-surpassing-google-in-latest-tech-innovation-rankings/"><u>Samsung Galaxy AI Growth Leads, Surpassing Google in Latest Tech Innovation Rankings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/speedy-tips-transforming-mp3-files-into-avi-format-with-ease/"><u>Speedy Tips: Transforming MP3 Files Into AVI Format with Ease!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-converting-dvds-into-swf-flash-format/"><u>Step-by-Step Guide to Converting DVDs Into SWF Flash Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-creating-a-video-from-individual-photos/"><u>Step-by-Step Guide: Creating a Video From Individual Photos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transforming-mp4-videos-into-jpeg-images-on-windows-10-and-11/"><u>Step-by-Step Guide: Transforming MP4 Videos Into JPEG Images on Windows 10 & 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-for-transforming-mts-files-into-mov-on-a-pc-with-windows-os/"><u>Step-by-Step Instructions for Transforming MTS Files Into MOV on a PC with Windows OS</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/step-by-step-on-vlc-screen-recording-for-2024/"><u>Step-by-Step on VLC Screen Recording for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/hannel-confidence-tips-for-trending-on-youtube-for-2024/"><u>[New] Channel Confidence Tips for Trending on YouTube for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-funniest-memes-download-now/"><u>[New] The Funniest Memes, Download Now</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-discovering-the-ultimate-14-stardew-valley-upgrades/"><u>2024 Approved Discovering the Ultimate 14 Stardew Valley Upgrades</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-maximize-your-google-meet-experience-without-paying-a-penny/"><u>2024 Approved Maximize Your Google Meet Experience, Without Paying a Penny</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dji-airborne-prototype-scrutiny/"><u>DJI Airborne Prototype Scrutiny</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-fix-iphone-updates-when-itunes-keeps-failing-during-software-download/"><u>How to Fix iPhone Updates When iTunes Keeps Failing During Software Download</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-infinix-note-30-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Infinix Note 30</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-plus-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Plus to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inexpensive-cameras-that-deliver/"><u>Inexpensive Cameras That Deliver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-newest-drivers-for-tp-links-ub400-bluetooth-usb-stick-a-step-by-step-guide/"><u>Installing the Newest Drivers for TP-Link's UB400 Bluetooth USB Stick – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-showcase-top-4-ai-driven-plot-generators/"><u>The Ultimate Showcase: Top 4 AI-Driven Plot Generators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-tutorial-on-enhancing-google-sheets-and-docs-with-advanced-ai-chatgpt/"><u>The Ultimate Tutorial on Enhancing Google Sheets & Docs with Advanced AI - ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-nvidias-ai-foundation-services-tailored-access-for-diverse-users/"><u>Understanding NVIDIA’s AI Foundation Services: Tailored Access for Diverse Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-chatgpt-subscriptions-a-look-at-why-theyre-closed-and-when-they-might-reopen/"><u>Unlocking ChatGPT Subscriptions: A Look at Why They're Closed & When They Might Reopen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-gpt-4s-potential-accessible-ai-for-all-discover-the-workflow/"><u>Unlocking GPT-4's Potential: Accessible AI for All - Discover The Workflow</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-new-potentials-for-sites-with-artificial-intelligence-integration-in-search-engines/"><u>Unlocking New Potentials for Sites with Artificial Intelligence Integration in Search Engines</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-poetic-potential-with-chatgpt-assistance/"><u>Unlocking Poetic Potential with ChatGPT Assistance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-crypto-markets-how-chatgpt-can-give-you-an-edge/"><u>Unlocking the Potential of Crypto Markets: How ChatGPT Can Give You an Edge</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-machine-learning-clarity-with-shap-e/"><u>Unveiling Machine Learning Clarity with SHAP E</u></a></li>
 </ul></div>
 

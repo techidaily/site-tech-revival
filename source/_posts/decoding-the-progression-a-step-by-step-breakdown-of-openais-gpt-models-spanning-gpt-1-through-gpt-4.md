@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Progression: A Step-by-Step Breakdown of OpenAI's GPT Models, Spanning GPT-1 Through GPT-4"
-date: 2024-12-07T16:17:26.259Z
-updated: 2024-12-14T17:51:52.903Z
+date: 2024-12-16T18:41:49.279Z
+updated: 2024-12-23T17:58:03.674Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,13 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Multi-Modal AI and DIY: What Is a Multi-Modal AI?
 
 ![An electric bulb on a black chalkboard with chat bubbles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bulb-on-chalkboard.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Multi-modal AI refers to AI models that can process and understand different types of data, such as text, images, and videos. Get this, if GPT-4 becomes a multi-modal AI, it will be a game changer for DIY enthusiasts.
 
@@ -44,10 +44,14 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 ![Woman working on a circuit board](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/woman-working-on-a-circuit-board.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As the field of NLP continues to evolve, the release of GPT-4 is highly anticipated due to its potential to accelerate DIY development.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Advanced Language Processing Capabilities
@@ -55,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
  Large-scale language generation is a feature that will allow the generation of large, coherent, and accurate texts that provide informative responses to DIY enthusiasts. A multilingual support feature will also diversify the use of the language model by the DIY community, hence promoting collaboration and quickening the formation and implementation of ideas.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI-Based IDE Plugins
@@ -63,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
  The integration of AI tools and extensions in IDEs is already taking off with modules such as[GitHub Copilot](https://github.com/features/copilot) . GitHub Copilot is a tool from GitHub that is powered by[OpenAI Codex](https://openai.com/blog/openai-codex/) , a GPT3-based model.
 
  Such tools being available in development environments aid in the generation of flawless code, and speed up the process of writing code for complex DIY projects—not forgetting debugging features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Integration of Machine-Learning Algorithms
 
@@ -76,13 +76,13 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 ![A white robot assistant with a tablet with user interface attached to the chest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/white-robot-assistant.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Microcontroller-based platforms could benefit greatly from advancements in AI models such as ChatGPT4\. Integrating these models can expand the processing power and memory of the platforms, leading to more accurate data analysis from embedded and IoT systems. Speaking of this, we've covered many[Arduino IoT projects](https://www.makeuseof.com/best-arduino-iot-projects/) you can try without waiting for GPT advancements.
 
  Predictive maintenance measures could also be developed using this data. In the future, lightweight AI versions could even be integrated into devices for DIY projects using compression techniques. Generally, DIY partakers will soon be able to efficiently ideate, research, implement, and modify projects.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bringing AI to the DIY World
 
@@ -103,24 +103,24 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-game-capture-made-easy-with-5-methods-on-windows-11/"><u>[New] Game Capture Made Easy with 5 Methods on Windows 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-carminatis-gig-economy-ajays-youtube-wealth-stream-for-2024/"><u>[Updated] Carminati's Gig Economy AJay's YouTube Wealth Stream for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-youtubes-elite-gear-top-5-video-chat-headsets/"><u>[Updated] YouTube's Elite Gear Top 5 Video Chat Headsets</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-leading-edge-fb-video-repository/"><u>2024 Approved Leading Edge FB Video Repository</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-coding-companion-is-it-chatgpt-or-gemini-taking-the-lead-in-ai-development/"><u>Best Coding Companion: Is It ChatGPT or Gemini Taking the Lead in AI Development?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209684183-9781547589975-derrotando-el-abuso/"><u>Derrotando el abuso | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-6-smartnote-apps-powered-by-ai-for-superior-note-management/"><u>Discover the Ultimate 6 Smartnote Apps Powered by AI for Superior Note Management</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-validate-your-youtube-profile-a-simple-guide-for-2024/"><u>How to Validate Your YouTube Profile? A Simple Guide for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-approaches-to-writing-with-the-help-of-chatgpt/"><u>Innovative Approaches to Writing with the Help of ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-the-art-of-chatgpt-communications-with-our-streamlined-chrome-enhancer/"><u>Master the Art of ChatGPT Communications with Our Streamlined Chrome Enhancer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-data-with-chatgpt-6-key-techniques-for-success/"><u>Mastering Data with ChatGPT: 6 Key Techniques for Success</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-no-device-found-challenge-with-icue-drivers/"><u>Overcoming the 'No Device Found' Challenge with iCUE Drivers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/recovering-lost-conversations-a-guide-to-retrieving-deleted-chatgpt-history/"><u>Recovering Lost Conversations: A Guide to Retrieving Deleted ChatGPT History</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-meal-prep-using-chatgpts-culinary-guidance/"><u>Revolutionize Meal Prep Using ChatGPT's Culinary Guidance</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209560188-9781507210895-the-healing-power-of-reiki/"><u>The Healing Power of Reiki | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-showdown-for-writers-notion-ai-vs-openai/"><u>The Ultimate Showdown for Writers: Notion AI Vs. OpenAI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-strategy-integrating-ai-with-3d-printing-via-chatgpt/"><u>The Ultimate Strategy: Integrating AI with 3D Printing via ChatGPT</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-network-servers-and-cabinets-the-ultimate-guide-to-2024s-market-leaders/"><u>Top-Rated Network Servers & Cabinets - The Ultimate Guide to 2024'S Market Leaders</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-no-paywalls-here-learn-how-to-record-and-save-your-youtube-experience-for-free/"><u>2024 Approved No Paywalls Here! Learn How To Record and Save Your YouTube Experience For Free</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/a-comprehensive-guide-to-laptop-screen-recording-techniques/"><u>A Comprehensive Guide to Laptop Screen Recording Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-x100-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from X100</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-7-outstanding-replacements-for-openais-popular-chatgpt-on-mobile-devices/"><u>Discover 7 Outstanding Replacements for OpenAI's Popular ChatGPT on Mobile Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-latest-bard-ai-enhancements-revealed-at-google-io-2023-the-ultimate-list-of-7-features/"><u>Discover the Latest BARD AI Enhancements Revealed at Google I/O 2023: The Ultimate List of 7 Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhanced-capabilities-exploring-how-the-chatgpt-desktop-version-surpasses-the-online-interface/"><u>Enhanced Capabilities: Exploring How the ChatGPT Desktop Version Surpasses the Online Interface</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-empathy-skills-using-chatgpt-effective-strategies-explored/"><u>Enhancing Empathy Skills Using ChatGPT: Effective Strategies Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-writing-with-8-smart-ai-tools-for-authors/"><u>Enhancing Writing with 8 Smart AI Tools for Authors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-a-neural-network-model-inversion-attack-expose-your-chatbots-secrets/"><u>How Does a Neural Network Model Inversion Attack Expose Your Chatbot's Secrets?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-is-generative-ai-evolving-into-a-novel-means-of-spreading-false-information/"><u>How Is Generative AI Evolving Into a Novel Means of Spreading False Information?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-access-advanced-chatgpt-functions-in-the-beta-version-with-browser-integration/"><u>How To Access Advanced ChatGPT Functions in the Beta Version with Browser Integration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-develop-a-bespoke-chatgpt-using-your-specific-data-set/"><u>How to Develop a Bespoke ChatGPT Using Your Specific Data Set</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-tecno-camon-30-pro-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Tecno Camon 30 Pro 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-instagrams-hidden-gems-advanced-techniques-for-bokeh/"><u>In 2024, Instagram's Hidden Gems Advanced Techniques for Bokeh</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-xs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone XS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-samsung-galaxy-a05s-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Samsung Galaxy A05s Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-lava-blaze-2-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Lava Blaze 2? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-11-screensaver-error/"><u>Troubleshooting Windows 11 Screensaver Error</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-soundscape-inversion-masterclass-identifying-the-premium-audio-reversers-available-today/"><u>Updated In 2024, Soundscape Inversion Masterclass Identifying the Premium Audio Reversers Available Today</u></a></li>
 </ul></div>
 

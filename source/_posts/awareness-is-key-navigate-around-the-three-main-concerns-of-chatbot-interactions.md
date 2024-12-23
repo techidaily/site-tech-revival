@@ -1,7 +1,7 @@
 ---
 title: "Awareness Is Key: Navigate Around the Three Main Concerns of Chatbot Interactions"
-date: 2024-12-11T18:07:29.884Z
-updated: 2024-12-14T16:10:16.487Z
+date: 2024-12-16T17:33:27.975Z
+updated: 2024-12-23T17:15:53.447Z
 tags:
   - chatgpt
   - open-ai
@@ -23,18 +23,18 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is ChatGPT?
 
 ![artificial intelligence brain connected to human being](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-4389372_1920-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do People Use ChatGPT?
 
@@ -49,16 +49,12 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
  These examples might make you think there’s[no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/) . However, that’s not an accurate assumption.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will ChatGPT Replace Programmers?
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
 
@@ -75,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some[criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) , ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Will ChatGPT Replace Other Jobs?
@@ -87,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
  There’s also an interesting Twitter thread where ChatGPT impressed by helping to diagnose a type of heart disease. However, others replied that the chatbot is good at faking expertise and provided several possible diagnoses. Someone with genuine medical expertise must review the responses and use their knowledge to gauge the chatbot’s accuracy.
 
  Elsewhere, people are explicitly[formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and[spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Deserves Caution
 
@@ -107,22 +107,24 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-your-content-on-vimeo-free-plus-or-pro/"><u>[New] In 2024, Mastering Your Content on Vimeo Free, Plus or Pro?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-simplified-guide-to-high-fidelity-console-recordings-for-2024/"><u>[New] Simplified Guide to High-Fidelity Console Recordings for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/5-must-have-accessories-and-addons-for-your-raspberry-pi-pico/"><u>5 Must-Have Accessories and Addons for Your Raspberry Pi Pico</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-6s-plus-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 6s Plus Data Completely | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-12-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 12</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-seamlessly-install-newest-kodi-version-on-your-windows-10-device-a-comprehensive-tutorial/"><u>How To Seamlessly Install Newest Kodi Version on Your Windows 10 Device - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-stand-out-from-the-noise-logo-design-for-podcast-success/"><u>In 2024, Stand Out From the Noise Logo Design for Podcast Success</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-free-ios-video-editing-a-step-by-step-guide-with-iphone-video-converter-factory/"><u>Mastering Free iOS Video Editing: A Step-by-Step Guide with iPhone Video Converter Factory</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-time-manipulation-in-vlc-how-to-control-audiovideo-speed-precisely-for-enhanced-viewing-experience/"><u>Mastering Time Manipulation in VLC: How to Control Audio/Video Speed Precisely for Enhanced Viewing Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimizing-video-compression-top-3-strategies-for-windows-11-users/"><u>Optimizing Video Compression: Top 3 Strategies for Windows 11 Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pc-iphone-android-2023/"><u>PC, iPhone, Androidで動画音声抑制の最良手段 - 2023年</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/preserving-high-quality-outputs-a-guide-to-lossless-video-trimming-in-windows-11/"><u>Preserving High-Quality Outputs: A Guide to Lossless Video Trimming in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ripper-version-11-transform-your-wonderfox-dvd-collection-into-mobile-movies-now-available/"><u>Ripper Version 1.1: Transform Your WonderFox DVD Collection Into Mobile Movies - Now Available!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-tutorial-on-transforming-avi-video-clips-to-mp4-using-the-power-of-ffmpeg/"><u>Simple Tutorial on Transforming AVI Video Clips to MP4 Using the Power of FFmpeg</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/troubleshooting-guide-why-are-my-plex-subtitles-missing-and-how-can-i-get-them/"><u>Troubleshooting Guide: Why Are My Plex Subtitles Missing and How Can I Get Them?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-elite-network-servers-racks-for-2n4/"><u>Ultimate Selection: Elite Network Servers Racks for 2N4</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/vocal-variations-for-stories-and-reels-an-instagram-expertise-for-2024/"><u>Vocal Variations for Stories and Reels – An Instagram Expertise for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-charting-the-course-establishing-a-powerful-gaming-channel/"><u>[New] 2024 Approved Charting the Course Establishing a Powerful Gaming Channel</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nhancing-video-reach-convert-yt-to-igtv-for-2024/"><u>[New] Enhancing Video Reach Convert YT to IGTV for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-pick-the-perfect-video-youtube-vs-tiktok/"><u>[Updated] 2024 Approved Pick the Perfect Video YouTube Vs. TikTok</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-examining-youtubes-workflow-after-content-submission/"><u>[Updated] Examining YouTube's Workflow After Content Submission</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-independent-chatgpt-extensions-reliable-and-safe-to-use/"><u>Are Independent ChatGPT Extensions Reliable and Safe to Use?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/augmenting-data-analysis-in-excel-through-chatgpt-methods/"><u>Augmenting Data Analysis in Excel Through ChatGPT Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypassing-linguistic-hurdles-through-chatgpt/"><u>Bypassing Linguistic Hurdles Through ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-to-the-rescue-expert-strategies-for-fixing-your-malfunctioning-pc/"><u>ChatGPT to the Rescue: Expert Strategies for Fixing Your Malfunctioning PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-pro-demystified-how-it-stacks-up-to-chatgptplus/"><u>Claude Pro Demystified: How It Stacks Up to ChatGPT+</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/collaborative-content-creation-responsible-use-of-ai-tools/"><u>Collaborative Content Creation: Responsible Use of AI Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-correcting-chatgpts-connectivity-woes-with-third-party-plugins/"><u>Comprehensive Guide: Correcting ChatGPT's Connectivity Woes With Third-Party Plugins</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/content-creation-with-a-human-touch-understanding-why-ai-chatbots-have-limits-for-writers/"><u>Content Creation with a Human Touch: Understanding Why AI Chatbots Have Limits for Writers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/culinary-creativity-unlocked-7-innovative-chatgpt-tips/"><u>Culinary Creativity Unlocked: 7 Innovative ChatGPT Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dota-2-frame-rate-optimization-successfully-implemented-for-windows-11-and-10-users/"><u>Dota 2 Frame Rate Optimization Successfully Implemented for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-adding-frames-to-instagram-videos-3-procedures/"><u>In 2024, Adding Frames to Instagram Videos - 3 Procedures</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reactivate-and-maintain-stable-imessages-overcoming-the-signed-out-glitch-on-ios-devices/"><u>Reactivate and Maintain Stable iMessages: Overcoming the 'Signed Out' Glitch on iOS Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-to-fix-content-warning-on-your-voice-chat-apps/"><u>Step-by-Step Solutions to Fix 'Content Warning' On Your Voice Chat Apps</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo X100 Pro | Dr.fone</u></a></li>
 </ul></div>
 

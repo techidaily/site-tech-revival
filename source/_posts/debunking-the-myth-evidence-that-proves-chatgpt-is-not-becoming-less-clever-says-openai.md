@@ -1,7 +1,7 @@
 ---
 title: "Debunking the Myth: Evidence that Proves ChatGPT Is Not Becoming Less Clever, Says OpenAI"
-date: 2024-12-09T16:21:22.316Z
-updated: 2024-12-14T16:34:06.127Z
+date: 2024-12-21T16:04:15.717Z
+updated: 2024-12-23T16:40:27.287Z
 tags:
   - chatgpt
   - open-ai
@@ -44,10 +44,6 @@ Close
 
 ![Snapchat Writing an Essay About Bees](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-esay-about-bees.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Asking Snapchat to Write an Essay About Bees](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-request-for-essay.jpg)
 
 Close
@@ -62,10 +58,6 @@ Close
 
  Currently, you can only converse with My AI through private chats. But it’s still in the development stage—Snapchat might let My AI respond to groups soon.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Location Services
 
  While Snapchat and Skype store location data, only My AI provides reliable directions. It uses your city-level location to find nearby establishments, e.g., restaurants, hospitals, and gas stations. You’ll see all the nearest options.
@@ -73,6 +65,10 @@ Close
 ![Snapchat My AI Suggesting Nearby McDonald's Locations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-mcdonald-s-recommenations.jpg)
 
 ![Snapchat My AI Suggestion Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-gas-stations.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -82,13 +78,13 @@ Close
 
 ![Bing AI Can't Recommend Nearby Mcdonald's Locations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-mcdonald-s-recommendations.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Bing AI Can't Detect Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-gas-stations.jpg)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Data Accuracy
 
@@ -100,21 +96,17 @@ Close
 
 ![Bing Chat on Skype Answering Question About the Winter Olympics ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-skype-on-olympics-questions.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  My AI has limited datasets. Since it’s based on ChatGPT, its knowledge cuts off after 2021.
 
 ![Snapchat My AI Answers Questions About Winter Olympics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-olympics-questions.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Snapchat My AI Can't Answer Question About Real World Events](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-and-real-world-events.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -126,9 +118,17 @@ Close
 
 ![Snapchat My AI Demonstrates AI Hallucination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-hallucination.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  The fake facts won’t stick. Snapchat resets My AI data every 24 hours—the chatbot will quickly forget everything you say.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Mathematical Precision
 
@@ -136,11 +136,11 @@ Close
 
 ![Asking Snapchat My AI a Statistics and Probability Question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/asking-snapchat-my-ai-about-math.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Trying to Confuse Snapchat My AI About Math](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-and-math.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -154,10 +154,6 @@ Close
 
 ![Trying to Confuse Bing Chat on Skype About Math](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-skype-and-math.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  And you can’t mislead Bing with fake answers—it sticks to its original responses.
@@ -169,10 +165,6 @@ Close
  To further test their contextual memory, let’s run roleplay requests. My AI commits to the indicated persona. It even compromises logic and correctness so that it stays in character.
 
 ![Asking Snapchat My AI to Roleplay as Ash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapcchat-my-ai-roleplay-request.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Snapchat My AI Breaking From its Character as Ash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-breaking-character.jpg)
 
@@ -188,6 +180,10 @@ Close
 
 ![Bing Chat on Skype Discussing its Token Limit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-skype-token-limit.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Just note that Bing has a lower token limit. It automatically starts afresh after 20 turns—you can also start new conversations manually by typing “newtopic.”
@@ -202,15 +198,15 @@ Close
 
 ![Bing Chat on Skype Erased Old Conversation Details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-skype-new-convo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Bing also can’t talk about its back-end processes. Instead, it answers surface-level queries about learning methods but refuses to disclose its AI language model.
 
 ![Bing Chat on Skype Can't Talk About Its GPT Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-skype-and-gpt-models.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Bing AI on Skype Talking About AI Learning Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-on-skype-and-learning-models.jpg)
 
@@ -233,12 +229,16 @@ Likewise, the web version of Bing Chat won’t reveal its language model.
 ![Message Saying You Can Use Bing on Skype](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-welcome-on-skype.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  My AI started as an experimental Snapchat Plus-exclusive feature in February 2023\. The chatbot just appeared in users’ chat windows.
 
  After collecting feedback and addressing complaints for a few weeks, Snapchat said it would make the chatbot available to all users. Just expect some delays with the rollout. Most[users still need Snapchat Plus accounts to get My AI](https://www.makeuseof.com/how-to-use-snapchat-ai-chatbot/) a month after the announcement.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Incorporate AI Tools and Chatbots Into Your Daily Routine
 
@@ -261,14 +261,21 @@ Likewise, the web version of Bing Chat won’t reveal its language model.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-obs-configurations-on-frugal-devices/"><u>[Updated] 2024 Approved Top OBS Configurations on Frugal Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-5-premier-photographers-and-videographers-mixing-tunes/"><u>[Updated] Explore 5 Premier Photographers & Videographers Mixing Tunes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-image-fusion-merging-photos-into-one-masterpiece/"><u>[Updated] Image Fusion Merging Photos Into One Masterpiece</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/embrace-companionship-with-chatgpt-strategies-for-overcoming-loneliness/"><u>Embrace Companionship with ChatGPT: Strategies for Overcoming Loneliness</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-enhancements-for-optimizing-chatgpt-plugin-hub/"><u>Essential Enhancements for Optimizing ChatGPT Plugin Hub</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-enhanced-bing-experience-through-microsofts-cutting-edge-artifice-intelligence-integration/"><u>Exploring the Enhanced Bing Experience Through Microsoft's Cutting-Edge Artifice Intelligence Integration</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gadget-showdown-unlocking-iphone-vs-galaxy-with-facial-scans-for-2024/"><u>Gadget Showdown Unlocking iPhone Vs. Galaxy with Facial Scans for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-do-ai-driven-restrictions-shape-our-digital-communication/"><u>How Do AI-Driven Restrictions Shape Our Digital Communication?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-get-your-data-on-site-quickly-5-best-techniques-for-computer-transfer/"><u>[New] 2024 Approved Get Your Data On-Site Quickly 5 Best Techniques for Computer Transfer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-historical-imagery-unleashed-from-copyrights/"><u>[New] Historical Imagery Unleashed From Copyrights</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-stay-on-top-the-essential-guide-to-fbs-latest-video-tracks/"><u>2024 Approved Stay on Top The Essential Guide to FB's Latest Video Tracks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/auto-gpt-10-game-changing-strategies/"><u>Auto-GPT: 10 Game-Changing Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bridging-language-models-and-shell-scripting-connecting-chatgpt-with-ubuntu-systems-efficiently/"><u>Bridging Language Models and Shell Scripting: Connecting ChatGPT with Ubuntu Systems Efficiently</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-trust-ai-like-chatgpt-to-edit-your-writing-accurately/"><u>Can You Trust AI Like ChatGPT to Edit Your Writing Accurately?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/challenges-of-leveraging-chatgpt-for-bitcoin-and-altcoin-analysis-5-key-factors/"><u>Challenges of Leveraging ChatGPT for Bitcoin and Altcoin Analysis: 5 Key Factors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-conversation-control-utilizing-folders-for-efficient-discussion-management/"><u>ChatGPT Conversation Control: Utilizing Folders for Efficient Discussion Management</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-vs-google-bard-showdown-an-in-depth-comparison-of-the-top-language-models/"><u>ChatGPT Vs. Google Bard Showdown: An In-Depth Comparison of the Top Language Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquer-interviews-with-the-power-of-chatgpt-tips/"><u>Conquer Interviews with the Power of ChatGPT Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-cyberpunk-2077-response-delay-solutions-and-tips/"><u>Fixing the Cyberpunk 2077 Response Delay: Solutions and Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-thrifty-computer-solutions-through-perfect-obs-arrangement/"><u>In 2024, Thrifty Computer Solutions Through Perfect OBS Arrangement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-whea-fault-recovery-a-comprehensive-diy-solution-for-computer-experts/"><u>Mastering WHEA Fault Recovery: A Comprehensive DIY Solution for Computer Experts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/microsoft-sculpt-keyboard-balancing-quality-and-cost-for-optimal-typing-comfort/"><u>Microsoft Sculpt Keyboard: Balancing Quality and Cost for Optimal Typing Comfort</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-how-to-overcome-team-fortress-2s-initialization-glitches/"><u>Solution Found: How to Overcome Team Fortress 2'S Initialization Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-solutions-for-persistent-airpods-connection-issues-with-iphone/"><u>Top 11 Solutions for Persistent AirPods Connection Issues with iPhone</u></a></li>
 </ul></div>
 

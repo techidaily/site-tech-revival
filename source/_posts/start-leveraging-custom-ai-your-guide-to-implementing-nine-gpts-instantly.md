@@ -1,7 +1,7 @@
 ---
 title: "Start Leveraging Custom AI: Your Guide to Implementing Nine GPTs Instantly"
-date: 2024-11-29T07:26:16.842Z
-updated: 2024-11-30T06:52:34.174Z
+date: 2024-12-21T17:35:55.866Z
+updated: 2024-12-23T16:16:53.378Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Lack of Real-Time Data
 
  The cryptocurrency market is always changing. A coin can be worth $10 on Monday and then $5 on Tuesday. Because of this, real-time data is crucial in crypto trading, be it prices, trends, or predictions. Using outdated information can result in poor investments and a loss of funds, so it's important to be on top of things.
@@ -29,16 +33,12 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
  Because ChatGPT has only been trained with data up to September 2021, it cannot provide up-to-date information on the crypto market. Without real-time data, it becomes almost impossible to make a wise crypto trading decision, so it's best not to rely on ChatGPT entirely here.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. AI Hallucinations and Potential Biases
 
 ![bitcoin logo at the end of warped tunnel ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The huge success of ChatGPT, as well as the release of[similar AI chatbots](https://www.makeuseof.com/best-alternatives-chatgpt/) , has brought the concern of hallucination into the limelight.
 
@@ -54,9 +54,17 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
  ChatGPT can hold a bias in certain scenarios due to its training data. According to[BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) , ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Fails to Give Personalized Financial Advice
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can certainly ask ChatGPT any number of questions about the crypto market, as well as use it for financial tips. But while this is possible, it may not be the best route to pursue.
 
@@ -67,16 +75,12 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Relies Heavily on Historical Data
 
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
 
@@ -85,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
  ChatGPT can be friendly and[even make jokes](https://www.makeuseof.com/can-ai-make-us-laugh/) , but this is all based on the data it has been trained with. You could certainly call it a smart program, as it is highly advanced by today's standards, but it is not an all-knowing entity.
 
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Lacks Insights Into Macroeconomic Factors
 
@@ -121,21 +121,22 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-accelerating-periscope-video-transmission/"><u>[New] In 2024, Accelerating Periscope Video Transmission</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-how-much-does-pewdiepie-make-yearly-financial-report/"><u>[Updated] 2024 Approved How Much Does PewDiePie Make - Yearly Financial Report</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-binge-worthy-battles-discovering-the-viral-tiktok-top-10/"><u>[Updated] Binge-Worthy Battles Discovering the Viral TikTok Top 10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-approaches-to-modify-user-numbers-in-tiktok/"><u>2024 Approved Innovative Approaches to Modify User Numbers in TikTok</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/adding-captions-and-text-a-guide-for-photo-titles-in-microsoft-photos/"><u>Adding Captions and Text A Guide for Photo Titles in Microsoft Photos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/cambiar-archivo-mp3-a-formato-mov-en-internet-de-manera-gratuita-movavi-solucion-simple/"><u>Cambiar Archivo MP3 a Formato Mov en Internet De Manera Gratuita - Movavi Solución Simple</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-artifical-tears-and-smiles-might-machines-be-empathetic/"><u>The Artifical Tears and Smiles: Might Machines Be Empathetic?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-essence-of-gpt4all-functionality/"><u>The Essence of GPT4All Functionality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-is-now-combining-chatgpt-with-3d-printing-for-next-level-creations/"><u>The Future Is Now: Combining ChatGPT with 3D Printing for Next-Level Creations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-power-of-chatgpt-copilot-transforming-your-online-experience/"><u>The Power of ChatGPT Copilot: Transforming Your Online Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-transformative-role-of-ai-powered-chatbots-in-generating-online-media/"><u>The Transformative Role of AI-Powered Chatbots in Generating Online Media</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-pitfalls-in-utilizing-generative-ai-applications/"><u>Top 7 Pitfalls in Utilizing Generative AI Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-tasks-using-auto-gpt-discover-8-game-changing-techniques/"><u>Transform Tasks Using Auto-GPT: Discover 8 Game-Changing Techniques</u></a></li>
-<li><a href="https://win-community.techidaily.com/ultimate-guide-to-successful-sicherungsverwaltung-techniques-for-businesses/"><u>Ultimate Guide to Successful Sicherungsverwaltung Techniques for Businesses</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-youtube-autoplay-on-mobile-devices/"><u>[New] 2024 Approved Mastering YouTube Autoplay on Mobile Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nvestment-icons-top-15-youtube-stock-gurus/"><u>[New] Investment Icons Top 15 YouTube Stock Gurus</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-achieving-profitability-at-half-a-million-viewers/"><u>[Updated] In 2024, Achieving Profitability at Half a Million Viewers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audacitys-blueprint-for-high-fidelity-sound-recording-for-2024/"><u>Audacity's Blueprint for High-Fidelity Sound Recording for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-a56s-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo A56s 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-free-nvidia-rtx-3060-ti-drivers-for-latest-windows-os-download-now/"><u>Get Your Free NVIDIA RTX 3060 Ti Drivers for Latest Windows OS - Download Now</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-asus-rog-rapture-gt-ax11000-top-tier-performance-for-gamers/"><u>In-Depth Look at Asus ROG Rapture GT-AX11000: Top-Tier Performance for Gamers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/master-the-art-of-sharing-ultra-hd-4k-footage-on-facebook-a-comprehensive-converter-tool-and-tutorial-resource/"><u>Master the Art of Sharing Ultra HD 4K Footage on Facebook: A Comprehensive Converter Tool & Tutorial Resource</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-chatgpts-potential-for-secure-and-ethical-psychological-counseling/"><u>Maximizing ChatGPT's Potential for Secure & Ethical Psychological Counseling</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-the-top-6-challenges-of-setting-up-automatic-gpt/"><u>Overcoming the Top 6 Challenges of Setting Up Automatic GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/redefining-boundaries-chatgpt-on-your-android/"><u>Redefining Boundaries: ChatGPT on Your Android</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-academic-research-in-4-steps-through-advanced-ai-applications/"><u>Revolutionize Academic Research in 4 Steps Through Advanced AI Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-ai-communication-explore-openais-tailored-store/"><u>Revolutionizing AI Communication: Explore OpenAI’s Tailored Store</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-to-harness-the-power-of-chatgpt-on-macos-systems/"><u>Step-by-Step Instructions to Harness the Power of ChatGPT on macOS Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-your-content-creation-elevate-writing-with-hix-ai-and-gpt-4/"><u>Streamline Your Content Creation: Elevate Writing with HIX AI & GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-binary-impact-analyzing-positives-and-negatives-of-ai-for-writers/"><u>The Binary Impact: Analyzing Positives and Negatives of AI for Writers</u></a></li>
+<li><a href="https://win-guides.techidaily.com/vergeten-niet-ongedaneem-7-geheugenvervuilde-strategieen-om-bestanden-te-herstellen-in-windows-11/"><u>Vergeten Niet Ongedaneem! 7 Geheugenvervuilde Strategieën Om Bestanden Te Herstellen in Windows 11</u></a></li>
 </ul></div>
 

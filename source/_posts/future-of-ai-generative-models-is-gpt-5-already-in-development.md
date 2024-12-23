@@ -1,7 +1,7 @@
 ---
 title: Future of AI Generative Models - Is GPT-5 Already in Development?
-date: 2024-12-11T18:18:51.629Z
-updated: 2024-12-14T16:11:45.415Z
+date: 2024-12-19T16:14:46.013Z
+updated: 2024-12-23T18:50:48.653Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Availability
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
  When buying Notion AI as a premium subscriber, you’ll pay $10 per month if you pay monthly for your normal paid Notion plan. If you have an annual subscription, Notion AI will cost $8 per month instead.
 
  You can use[ChatGPT](https://chat.openai.com/) ’s basic features for free, and you can type numerous responses into the app. On top of that, you can get ChatGPT Plus—which costs $20 per month. ChatGPT Plus offers access during periods when lots of other people are using the platform, along with other useful features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Drafting Ideas
 
@@ -53,12 +49,16 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 ![Notion AI Sport Ideas Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-sport-ideas.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Notion AI also lets you draft social media posts, press releases, blog posts, and more.
 
  When using ChatGPT, you can also generate ideas for your projects. After signing in to your account, you can ask the bot to come up with a list of different things that you can then research further.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Creating Summaries of Existing Pages
 
@@ -88,13 +88,13 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 
 ![Translate Notion AI Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/translate-notion-ai.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With ChatGPT, you also have the option to translate different things. You can ask the tool how you can say various words and phrases in other languages, and it’s also possible to translate your entire conversation. To do this, type**“translate this entire conversation into \[language\]”** at the bottom of your screen.
 
 ![ChatGPT Page Translation Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-page-translation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Stability
 
@@ -105,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
  One thing you should keep in mind is that ChatGPT can often experience periods of full capacity. While you can upgrade to ChatGPT Plus to avoid this problem, you may not have round-the-clock access with a free plan.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Generating To-Do Lists
@@ -119,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
  You can also ask ChatGPT to create to-do lists, but you’ll have to provide it with enough context to make your list personalized. If you’ve already got information written somewhere, Notion AI is probably a better option for tasks of this nature.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Notion AI and ChatGPT: Two Different Forms of Generative AI
@@ -143,24 +143,19 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/isual-identity-shielding-adding-watermark-and-logo-to-youtube-media-for-2024/"><u>[New] Visual Identity Shielding Adding Watermark & Logo to YouTube Media for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-make-your-own-youtube-closures-without-spending/"><u>[Updated] How to Make Your Own YouTube Closures Without Spending</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-infinix-smart-8-plus-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Infinix Smart 8 Plus PC | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-vivo-v29-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo V29 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/building-fantasy-realms-with-language-models/"><u>Building Fantasy Realms with Language Models</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-we-trust-what-chatgpt-says/"><u>Can We Trust What ChatGPT Says?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-risk-of-gpt-in-banking-and-pc-security-breaches/"><u>Decoding the Risk of GPT in Banking & PC Security Breaches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-workflow-unlocking-the-potential-of-auto-gpt-in-8-simple-steps/"><u>Elevate Your Workflow: Unlocking the Potential of Auto-GPT in 8 Simple Steps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/genuine-chatgpt-strategies-vs-deceptions/"><u>Genuine ChatGPT Strategies vs Deceptions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-iphone-13-handle-moisture-and-liquid-exposure/"><u>How Does iPhone 13 Handle Moisture and Liquid Exposure?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-13-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 13 Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-camon-20-pro-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Tecno Camon 20 Pro 5G Users</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/persistent-pc-issues-for-sovled-necromunda-hired-gun-players/"><u>Persistent PC Issues for [SOVLED] Necromunda: Hired Gun Players</u></a></li>
-<li><a href="https://extra-support.techidaily.com/snap-to-it-ios-and-android-writers-choice-for-2024/"><u>Snap to It – iOS & Android' Writers’ Choice for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-art-of-story-lensing-smart-zooms-on-instagram-for-2024/"><u>The Art of Story Lensing Smart Zooms on Instagram for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-best-software-preserve-export-and-distribute-your-chatgpt-interactions/"><u>The Best Software: Preserve, Export, & Distribute Your ChatGPT Interactions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-converting-dvds-into-high-quality-h265hevc-mp4-format/"><u>Ultimate Guide: Converting DVDs Into High-Quality H.265/HEVC MP4 Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-twitters-new-feature-the-power-of-x-checkmarks-insights-by-linus-sebastian/"><u>Unlocking Twitter's New Feature: The Power of X Checkmarks - Insights by Linus Sebastian</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/utilizing-a-vpn-for-secure-gpt-dialogues/"><u>Utilizing a VPN for Secure GPT Dialogues?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/egulatory-guidelines-youtube-video-recording/"><u>[New] Regulatory Guidelines YouTube Video Recording</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-space-requirements-for-hd-video-on-64gb/"><u>[New] Space Requirements for HD Video on 64GB?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-frugal-filmmakers-choice-best-cameras-at-low-costs/"><u>[New] The Frugal Filmmaker's Choice Best Cameras at Low Costs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/30-innovative-video-themes-and-layouts-for-2024/"><u>30 Innovative Video Themes and Layouts for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/addressing-ais-coordination-with-societal-values/"><u>Addressing AI's Coordination with Societal Values</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-in-mind-management-boon-or-bane/"><u>AI in Mind Management: Boon or Bane?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/balancing-human-touch-and-machine-precision-in-editing/"><u>Balancing Human Touch and Machine Precision in Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-chatbot-conversations-with-these-7-strategies/"><u>Boost Your Chatbot Conversations with These 7 Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-anytime-anywhere-mastering-the-use-of-chatgpt-everywhere-app-for-constant-conversation/"><u>ChatGPT Anytime, Anywhere: Mastering the Use of 'ChatGPT Everywhere' App for Constant Conversation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/download-of-youtube-preview-pictures-for-2024/"><u>Easy Download of YouTube Preview Pictures for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-redmi-k70-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Redmi K70 phone? | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/mastering-video-editing-simple-techniques-for-incorporating-voiceovers-quickly-and-effectively/"><u>Mastering Video Editing: Simple Techniques for Incorporating Voiceovers Quickly and Effectively</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/restoring-compromised-media-quality-on-mac-systems/"><u>Restoring Compromised Media Quality on Mac Systems</u></a></li>
 </ul></div>
 

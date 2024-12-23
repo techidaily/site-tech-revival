@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT as Your Health Planning Partner: Setting & Reaching Objectives Successfully"
-date: 2024-11-29T02:23:00.468Z
-updated: 2024-11-30T06:35:45.575Z
+date: 2024-12-19T18:40:22.503Z
+updated: 2024-12-23T19:02:28.163Z
 tags:
   - chatgpt
   - open-ai
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is ChatGPT?
 
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 ![Chat GPT injury recovery prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chat-gpt-injury-recovery-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  What if you are recovering from an injury? It's safest (and always recommended) to consult your doctor for any specific questions about how you can exercise with an injury or other health concern, but I wanted to see how the bot would respond.
@@ -65,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
  As someone who has recovered from a fair share of sports injuries, this is the same kind of advice I received from physicians and physical therapists when returning to activities. Again, nothing can replace personalized advice from a healthcare provider, but the chatbot gets the broad strokes correct and advises caution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How ChatGPT Creates Running Plans
@@ -73,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 ![ChatGPT running plan question screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-running-plan-question-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, I prompted the chatbot to create a running plan. It responded with several questions about my current fitness level, as well as overall training goals, to generate a more detailed response.
@@ -89,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 ![ChatGPT Boston qualifier prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-boston-qualifier-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, there is some level of self-awareness with ChatGPT's advice on this topic (if you can say such a thing about AI technology). For instance, if you ask it to create a running plan that will help you qualify for the Boston Marathon, then it directs you to find an online plan that already addresses this ambition. It's a huge, years-long goal, even for many talented runners, and the app rightly doesn't attempt to offer a pat response.
@@ -99,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 ## Strength Training Plans From ChatGPT
 
 ![ChatGPT strength training prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-strength-training-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Likewise, ChatGPT’s general strength training plan is also pretty dependable, calling for bodyweight exercises like squats and push-ups as well as dumbbell rows. It’s similar to what you might find from[top strength-training apps](https://www.makeuseof.com/best-weightlifting-apps/) .
 
@@ -129,17 +129,17 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-complete-lowdown-on-io-image-recording-software/"><u>[New] 2024 Approved The Complete Lowdown on IO Image Recording Software</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-mastering-insta-metrics-comprehensive-ig-data-analysis/"><u>[New] Mastering Insta Metrics Comprehensive IG Data Analysis</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-wit-wave-twitters-funniest-content-for-2024/"><u>[New] Wit Wave Twitter's Funniest Content for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-keywords-in-the-world-of-selling-monetized-youtube-channels/"><u>[Updated] 2024 Approved Keywords in the World of Selling Monetized Youtube Channels</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-exploring-your-digital-trail-a-comprehensive-guide-to-previewing-off-facebook-activities/"><u>[Updated] In 2024, Exploring Your Digital Trail - A Comprehensive Guide to Previewing Off-Facebook Activities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevating-ai-expertise-top-7-time-saving-strategies/"><u>Elevating AI Expertise: Top 7 Time-Saving Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-claudes-superiority-four-aspects-where-it-exceeds-chatgpt/"><u>Exploring Claude's Superiority: Four Aspects Where It Exceeds ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-source-usage-is-chatgpt-involved-in-plagiarism/"><u>Exploring Source Usage: Is ChatGPT Involved in Plagiarism?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-emotion-recognition-in-ai-can-machines-truly-grasp-our-feelings/"><u>Exploring the World of Emotion Recognition in AI: Can Machines Truly Grasp Our Feelings?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-wifi-passcode-retrieval-app-manage-and-discover-your-androids-network-credentials-effortlessly/"><u>Free WiFi Passcode Retrieval App: Manage & Discover Your Android's Network Credentials Effortlessly</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/instagrams-two-factor-authentication-whatsapp-code-delivery/"><u>Instagram's Two-Factor Authentication: WhatsApp Code Delivery</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-virtual-reality-top-emulators-for-playing-ps3-games-on-pc/"><u>[Updated] In 2024, Virtual Reality Top Emulators for Playing PS3 Games on PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-flickering-effect-in-visuals/"><u>Banish Flickering Effect in Visuals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-for-chefs-discover-7-cooking-hacks-to-simplify-your-recipes/"><u>ChatGPT for Chefs: Discover 7 Cooking Hacks to Simplify Your Recipes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-why-doesnt-it-accept-modifications-anymore/"><u>ChatGPT: Why Doesn't It Accept Modifications Anymore?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cold-blobs-and-mythical-cooling-what-science-says/"><u>Cold Blobs and Mythical Cooling: What Science Says</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-next-gen-art-the-essence-of-using-microsofts-copilot/"><u>Crafting Next-Gen Art: The Essence of Using Microsoft's Copilot</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-xr21-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Nokia XR21 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-compreenas-guide-to-the-best-6-helmet-attachments-for-gopros/"><u>In 2024, A Compreenas Guide to The Best 6 Helmet Attachments for GOPROs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inverting-screen-time-with-android-videos-for-2024/"><u>Inverting Screen Time with Android Videos for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/step-by-step-guide-adjusting-your-pc-screen-preferences-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your PC Screen Preferences - Tips From YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016058518-unstuck-your-voice-communication-in-apex-legends-fixes-you-need-today/"><u>Unstuck Your Voice Communication in Apex Legends – Fixes You Need Today</u></a></li>
 </ul></div>
 

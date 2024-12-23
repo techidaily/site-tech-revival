@@ -1,7 +1,7 @@
 ---
 title: Delving Into Auto-GPT Versus ChatGPT - What's the Difference You Need to Know
-date: 2024-12-01T16:08:49.695Z
-updated: 2024-12-08T16:52:59.377Z
+date: 2024-12-22T18:53:22.358Z
+updated: 2024-12-23T19:08:16.905Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Language-Based Apple Intelligence Capabilities](https://www.makeuseof.com/every-bit-of-ai-apple-revealed-wwdc-24/#language-based-apple-intelligence-capabilities)
@@ -32,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 * [Enhanced AI-Powered Siri](https://www.makeuseof.com/every-bit-of-ai-apple-revealed-wwdc-24/#enhanced-ai-powered-siri)
 * [Apple's ChatGPT Integration](https://www.makeuseof.com/every-bit-of-ai-apple-revealed-wwdc-24/#apple-39-s-chatgpt-integration)
 * [Private Cloud Compute and Apple's AI Privacy](https://www.makeuseof.com/every-bit-of-ai-apple-revealed-wwdc-24/#private-cloud-compute-and-apple-39-s-ai-privacy)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -47,23 +39,31 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 
  However, that all changed at Apple WWDC 24, where it unveiled a suite of AI features called Apple Intelligence. It offers tools to write better emails, create custom emojis, and even generate images based on your descriptions. Its focus on user privacy keeps most processing on-device, with secure cloud backups for complex tasks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Language-Based Apple Intelligence Capabilities
 
  The first category of AI tech Apple displayed were language-based, adding what amounts to a language model that can process words and help improve your experience, integrated into iOS and macOS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Writing Tools
 
 ![Text summary in Notes on an iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-notes-summarize-240610.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 
  Apple's Writing Tools is designed to help you generate content across your Apple devices using AI. As long as you're using the latest version of macOS or iOS on compatible hardware, Apple Intelligence can help you rewrite, proofread, and summarize text across all the apps and features that offer text input.
 
  While scrolling through your inbox in the Mail app, for example, Writing Tools can summarize emails and place them in snippets, so you can easily get the gist without opening the email.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Priority Messages and Notifications
 
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 ![Smart Reply in Mail on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/smart-reply-in-mail-on-an-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -99,25 +99,25 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 
  While Image Playground has a standalone app, it's also built into some supported apps, like Messages and Notes—and third-party apps with the API. On Notes, you can use it through an Apple Pencil feature called Image Wand that can transform sketches into full illustrations.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Genmoji
 
 ![Genmoji creation on an iPhone of a woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/genmoji-creation-on-an-iphone-of-a-woman.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 
  Have you ever looked through your emoji library and not found the right emoji to express yourself? Well, no longer; Genmojis are unique emojis you can create and share by prompting specific descriptions. You can use them in Tapbacks on Messages, share them as stickers, or use them as regular emojis.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AI Comes to the Photos App
 
 ![Ai-powered Memories in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-memory-movie-240610.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 
@@ -125,21 +125,21 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 
  The AI integrations don't stop there: Apple is also bringing AI integrations to your image library in the Photos app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Specific Photo Searches
 
  Now that AI can separate objects and elements in a photo or video, you can be very specific about what you wish to find in the Photos app. You could type "Mom in a floral-patterned gown," and all the content you have related to that will appear in the results.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Memory Movie
 
  You can also take these specific searches to Memories in Photos, and your device will create a memory with the theme you've described. Apple says it will suggest music that matches this theme and make a movie with a narrative arc.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enhanced AI-Powered Siri
 
@@ -157,13 +157,13 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 
 ![Prompt to use ChatGPT on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/prompt-to-use-chatgpt-on-an-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 
  Finally, Apple has partnered with OpenAI to give its users access to ChatGPT. Any request Siri or Writing Tools can't handle, it will prompt you to give it permission to ask ChatGPT for help. While you can access ChatGPT through Apple Intelligence for free (and without an account), you will still need to connect your premium ChatGPT account to enjoy access to paid features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Compose
 
@@ -200,22 +200,22 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-weave-wisdom-mastering-looms-screen-capture/"><u>[New] 2024 Approved Weave Wisdom Mastering Loom’s Screen Capture</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-comprehensive-guide-ps4-recording-via-obs-studio-for-2024/"><u>[Updated] Comprehensive Guide PS4 Recording via OBS Studio for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-hand-to-hand-heroes-the-definitive-switch-fighting-game-countdown/"><u>[Updated] Hand-to-Hand Heroes The Definitive Switch Fighting Game Countdown</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-cellphone-recorded-quality-on-apple-and-android-smartphones/"><u>Best Cellphone Recorded Quality on Apple & Android Smartphones</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/cutting-edge-techniques-in-logitech-webcam-filming-and-streaming-guide-for-2024/"><u>Cutting-Edge Techniques in Logitech Webcam Filming and Streaming Guide for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-facile-pour-changer-une-video-mkv-en-mp4-haute-definition-methodes-rapides-sans-deterioration-de-la-qualite/"><u>Guide Facile Pour Changer Une Vidéo MKV en MP4 Haute Définition - Méthodes Rapides Sans Détérioration De La Qualité</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-highest-quality-ai-voice-to-text-software/"><u>In 2024, Highest Quality AI Voice to Text Software</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-understanding-the-underrated-downsides-of-vr/"><u>In 2024, Understanding the Underrated Downsides of VR</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-video-format-changes-and-dvd-disc-extraction-using-handbrake-software/"><u>Mastering Video Format Changes & DVD Disc Extraction Using HandBrake Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/no-luck-with-airdrop-in-windows-11-explore-leading-substitutes-here/"><u>No Luck with AirDrop in Windows 11? Explore Leading Substitutes Here!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/stream-and-enjoy-high-definition-cinema-at-home-using-moviebox-compatible-with-both-windows-10-and-11/"><u>Stream and Enjoy High-Definition Cinema at Home Using MovieBox – Compatible With Both Windows 10 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/supercharge-windows-interactions-with-mastered-keys/"><u>Supercharge Windows Interactions With Mastered Keys</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-videos-anywhere-with-winx-dvd-ripper-hd-for-tablets-and-smartphones-download-today/"><u>Transform Videos Anywhere with WinX DVD Ripper HD for Tablets and Smartphones - Download Today!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725287913972-windows-11dvd/"><u>Windows 11にてDVDのコピー手順と優れた無料ソフトウェアの紹介</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/apple-iphoneipadipoddvdand/"><u>ダイジェスティブ・ソフトウェア - 一発でApple iPhone、iPad、iPod用DVDコピー&動画変換</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sketch-serious-snickers/"><u>[New] Sketch Serious Snickers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-vector-artistry-unleashed-picks-of-the-year-for-designers/"><u>[New] Vector Artistry Unleashed Picks of the Year for Designers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-screenflow-for-mac-a-full-featured-deep-dive-for-2024/"><u>[Updated] ScreenFlow for Mac - A Full Featured Deep Dive for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/access-openais-newest-innovation-the-exclusive-gpt-custom-store-start-using-today/"><u>Access OpenAI's Newest Innovation: The Exclusive GPT Custom Store - Start Using Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-breakdown-what-sets-forefront-ai-apart-from-chatgpt/"><u>AI Breakdown: What Sets Forefront AI Apart From ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-evolutionary-steps-the-key-differences-between-gpt-4-gpt-4-turbo-and-gpt-n-models-explored/"><u>AI Evolutionary Steps: The Key Differences Between GPT-4, GPT-4 Turbo & GPT-N Models Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-enabled-prompt-engineering-understanding-its-professional-landscape/"><u>AI-Enabled Prompt Engineering: Understanding Its Professional Landscape</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoiding-pitfalls-spotting-top-5-manipulative-practices-in-automated-conversations/"><u>Avoiding Pitfalls: Spotting Top 5 Manipulative Practices in Automated Conversations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/battle-of-the-brains-which-is-more-advanced-chatgpt-or-googles-bard/"><u>Battle of the Brains: Which Is More Advanced, ChatGPT or Google's Bard?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-language-skills-through-chatgpt-premium/"><u>Boosting Language Skills Through ChatGPT Premium</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-strategies-for-implementing-chatgpt-api-in-your-projects/"><u>Comprehensive Strategies for Implementing ChatGPT API in Your Projects</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-navigating-the-thrilling-world-of-drone-racing-and-premium-fpv-units/"><u>In 2024, Navigating the Thrilling World of Drone Racing & Premium FPV Units</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-audacitys-audio-failure-on-windows-11-devices/"><u>Mending Audacity's Audio Failure on Windows 11 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-connection-issues-with-airpods-on-windows-10-and-11/"><u>Troubleshooting Guide: Resolving Connection Issues with AirPods on Windows 10 and 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/al-victors-the-leading-ladies-in-gaming-for-2024/"><u>Virtual Victors The Leading Ladies in Gaming for 2024</u></a></li>
 </ul></div>
 

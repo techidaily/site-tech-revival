@@ -1,7 +1,7 @@
 ---
 title: "Steer Clear of MacChatGPT: Safeguard Your Digital Life"
-date: 2024-12-02T16:51:12.956Z
-updated: 2024-12-08T17:13:26.639Z
+date: 2024-12-19T18:20:33.960Z
+updated: 2024-12-23T17:15:40.467Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Scammers are using Google's generative AI tool, Bard, to infect users with malware and steal login credentials.
@@ -35,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
  Although Google has filed a lawsuit to tackle the malware, the scammers are still up and running, and that's why you should avoid downloading anything like a "Google Bard app." It's malware waiting to infect your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Google Bard?
@@ -45,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
 ![A screenshot of the Google Bard chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/google-bard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are many[ways to use Google Bard](https://www.makeuseof.com/how-to-use-google-bard/) . You can enter a prompt asking Google Bard to explain how something works, give you ideas for a project, and even write code for you.
@@ -53,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
  The key issue is that Google Bard is only available in browsers and requires a Google account. So, don't be tempted to install an app advertised as Google Bard, as it's malware that Google is taking legal action to take down.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why You Shouldn't Download the Google Bard App
@@ -61,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
  On November 13, 2023, Google announced on its official blog,[The Keyword](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/) , that it's filing a lawsuit and taking legal action against scammers said to be based in Vietnam. You can view the lawsuit complaint on[ Thomson Reuters \[PDF\]](https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf) .
 
 ![An image of AIGoogleBard's Facebook page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/aigooglebard-facebook-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf)
 
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
  Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stick With Google Bard on Your Browser
@@ -99,20 +99,15 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-channel-design-mastery-selecting-the-right-yt-banner-and-art-sizes/"><u>[New] 2024 Approved Channel Design Mastery Selecting the Right YT Banner & Art Sizes</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ideal-portals-to-rewind-at-your-computer-ps3-edition/"><u>[Updated] 2024 Approved Ideal Portals to Rewind at Your Computer (PS3 Edition)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-official-winxvideo-ai-features-and-tech-specs-detailed-guide/"><u>1. Official WinXVideo AI Features and Tech Specs: Detailed Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-resolving-video-player-issues-a-step-by-step-guide-to-overcome-error-0xc00d36c4/"><u>1. Resolving Video Player Issues: A Step-by-Step Guide to Overcome Error 0xC00D36C4</u></a></li>
-<li><a href="https://fox-http.techidaily.com/adeptness-at-mobile-app-development-for-luts-for-2024/"><u>Adeptness at Mobile App Development for LUTs for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-a59-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo A59 5G?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-xr-5-ways-to-get-into-a-locked-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone XR? 5 Ways to get into a Locked Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-media-maze-exploring-key-variations-between-cable-and-streaming-technologies/"><u>Navigating the Media Maze: Exploring Key Variations Between Cable and Streaming Technologies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-video-transformer-streamline-your-media-by-shrinking-4k-ultra-hd-footage-using-powerful-fully-enabled-gpu-speeds/"><u>Quick Video Transformer: Streamline Your Media by Shrinking 4K Ultra HD Footage Using Powerful, Fully-Enabled GPU Speeds</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-ranking-ipad-models-a-comprehensive-guide/"><u>Top-Ranking iPad Models : A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-videos-with-winx-the-ultimate-free-dvd-ripper-and-mp4-converter-for-windows-10-users/"><u>Transform Your Videos with WinX: The Ultimate Free DVD Ripper and MP4 Converter for Windows 10 Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-and-solutions-for-resolving-hulu-error-code-94-across-multiple-devices/"><u>Troubleshooting and Solutions for Resolving 'Hulu Error Code 94' Across Multiple Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-the-leading-pc-based-video-editors-in-the-market-today/"><u>Ultimate Guide: The Leading PC-Based Video Editors in the Market Today</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-perfect-balance-of-design-and-function-in-the-fitbit-charge-4/"><u>Unveiling the Perfect Balance of Design & Function in the Fitbit Charge 4</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/winxvideo-intelligence-transformez-facilement-votre-contenu-audio-video-a-une-cadence-rapide-avec-le-calcul-par-gpu/"><u>WinxVideo Intelligence - Transformez Facilement Votre Contenu Audio-Vidéo À Une Cadence Rapide Avec Le Calcul Par GPU</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-boost-your-photography-game-complimentary-basics-plus-expandable-paid-lut-options/"><u>[New] Boost Your Photography Game Complimentary Basics + Expandable Paid LUT Options</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-tech-enthusiasts-manual-mastering-macoss-capture-tool-for-2024/"><u>[Updated] Tech Enthusiasts' Manual Mastering macOS's Capture Tool for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-hubs-for-ai-prompt-sharing/"><u>Cutting-Edge Hubs for AI Prompt Sharing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-motorola-razr-40-ultra-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Motorola Razr 40 Ultra Face Lock?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pro-video-mastery-with-iphone-unveiling-top-8-tips-for-success/"><u>In 2024, Pro Video Mastery with iPhone Unveiling Top 8 Tips for Success</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-truthgpt-revolutionary-ai-revealed-alongside-major-police-operation-on-mullvad-vpn-top-free-gaming-experiences-for-pc-enthusiasts-and-insightful-guid73/"><u>Inside TruthGPT: Revolutionary AI Revealed Alongside Major Police Operation on Mullvad VPN, Top Free Gaming Experiences for PC Enthusiasts & Insightful Guide to Mechanical Keyboard Usage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/investigating-originality-in-ai-can-chatgpt-be-accused-of-plagiarism/"><u>Investigating Originality in AI: Can ChatGPT Be Accused of Plagiarism?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-world-creation-in-writing-through-chatgpt-techniques/"><u>Mastering World Creation in Writing Through ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/painting-in-a-digital-age-chatgpt-and-ai-art-collaboration/"><u>Painting in a Digital Age: ChatGPT & AI Art Collaboration</u></a></li>
 </ul></div>
 

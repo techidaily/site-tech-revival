@@ -1,7 +1,7 @@
 ---
 title: Is Google's New Gemini AI Surpassing ChatGPT in Conversational Capabilities?
-date: 2024-12-07T16:37:12.209Z
-updated: 2024-12-14T17:24:15.374Z
+date: 2024-12-16T16:21:39.442Z
+updated: 2024-12-23T17:41:15.524Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
@@ -64,13 +64,13 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -107,17 +107,17 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-26-low-cost-strategies-capture-webinars-without-spending-money-for-2024/"><u>[Updated] 26 Low-Cost Strategies Capture Webinars Without Spending Money for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-top-8-hubs-for-3d-graffiti-typefaces-for-2024/"><u>[Updated] Top 8 Hubs for 3D Graffiti Typefaces for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavi-mobileflacwav/"><u>「Movavi Mobileで簡単にFLACをWAVにする完全チュートリアル」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726225734458-wavflac-movavi/"><u>直接瀏覽器中無限制地將WAV文件轉化成FLAC - Movavi流動轉換器</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversion-facile-des-photos-raw-vers-jpeg-avec-le-convertisseur-gratuit-de-movavi/"><u>Conversion Facile Des Photos RAW Vers JPEG Avec Le Convertisseur Gratuit De Movavi</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-not-responding-get-back-to-editing-with-these-fixes-for-2024/"><u>FCPX Not Responding? Get Back to Editing with These Fixes for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratis-video-converter-converteer-vob-naar-3gp-online-met-movavi/"><u>Gratis VIDEO-CONVERTER: Converteer VOB Naar 3GP Online Met Movavi</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-motorola-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Motorola Without PUK Codes</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-apple-iphone-8-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on Apple iPhone 8 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-rpcrt4dll-file-missing-a-comprehensive-guide/"><u>Resolving RPCRT4.DLL File Missing: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-changing-video-formats-using-leading-web-based-tools/"><u>Step-by-Step Tutorial on Changing Video Formats Using Leading Web-Based Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-zooms-acoustic-edge-unlocking-two-pronged-audio-perfection/"><u>[New] In 2024, Zoom's Acoustic Edge Unlocking Two-Pronged Audio Perfection</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-key-to-capturing-and-preserving-your-favorite-streamed-shows/"><u>[Updated] The Ultimate Key to Capturing and Preserving Your Favorite Streamed Shows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-11-substitutes-for-itunes-effective-solutions-for-ios-data-management-and-transfer/"><u>Best 11 Substitutes for iTunes: Effective Solutions for iOS Data Management and Transfer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-videos-effortlessly-with-winx-pro-mp4-mp3-support-included/"><u>Convert Videos Effortlessly with WinX Pro: MP4, MP3 Support Included</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-disappearing-touchpad-cursors-on-your-windows-11-pc/"><u>Fixes for Disappearing Touchpad Cursors on Your Windows 11 PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-y55s-5g-2023-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo Y55s 5G (2023) to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-asus-rog-phone-8-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionized-search-microsoft-enhances-bing-with-ai/"><u>Revolutionized Search: Microsoft Enhances Bing with AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-chatgpt-blocks-understanding-the-4-key-triggers-and-how-to-regain-entry/"><u>Solving ChatGPT Blocks: Understanding the 4 Key Triggers and How to Regain Entry</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-8-best-ai-apps-to-download-on-your-phone-android-and-iphone/"><u>The 8 Best AI Apps to Download on Your Phone (Android and iPhone)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-of-job-hunting-utilizing-chatgpt-to-secure-the-employment-youve-always-wanted/"><u>The Future of Job Hunting: Utilizing ChatGPT to Secure the Employment You've Always Wanted</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-hogwarts-games-ram-overflow-issue/"><u>Troubleshooting Hogwarts Game's RAM Overflow Issue</u></a></li>
 </ul></div>
 

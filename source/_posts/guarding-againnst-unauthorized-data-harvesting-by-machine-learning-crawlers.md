@@ -1,7 +1,7 @@
 ---
 title: Guarding Againnst Unauthorized Data Harvesting by Machine Learning Crawlers
-date: 2024-12-13T16:03:41.234Z
-updated: 2024-12-14T16:44:56.485Z
+date: 2024-12-22T16:12:02.072Z
+updated: 2024-12-23T16:32:27.552Z
 tags:
   - chatgpt
   - open-ai
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Lack of Real-Time Data
 
  The cryptocurrency market is always changing. A coin can be worth $10 on Monday and then $5 on Tuesday. Because of this, real-time data is crucial in crypto trading, be it prices, trends, or predictions. Using outdated information can result in poor investments and a loss of funds, so it's important to be on top of things.
@@ -33,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
  Because ChatGPT has only been trained with data up to September 2021, it cannot provide up-to-date information on the crypto market. Without real-time data, it becomes almost impossible to make a wise crypto trading decision, so it's best not to rely on ChatGPT entirely here.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. AI Hallucinations and Potential Biases
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can certainly ask ChatGPT any number of questions about the crypto market, as well as use it for financial tips. But while this is possible, it may not be the best route to pursue.
@@ -71,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Relies Heavily on Historical Data
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Lacks Insights Into Macroeconomic Factors
 
  The crypto market is tied to the traditional market in ways you'd never expect. If something big goes wrong in the traditional financial industry, chances are the ripples will be felt by the crypto industry. After all, people use traditional money to buy crypto, so it's natural for the two markets to interlink.
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Revolutionary but Far From Perfect
@@ -121,24 +121,18 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-what-gamers-must-know-about-bandicam-for-2024/"><u>[New] What Gamers Must Know About Bandicam for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-hero5-black-vs-yi-4k-the-latest-in-action-cam-showdown/"><u>[Updated] In 2024, Hero5 Black Vs. Yi 4K The Latest in Action Cam Showdown</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1-solving-hard-drive-motherboard-connectivity-problems-a-step-by-step-guide-yl-computing-expert-advice/"><u>1. Solving Hard Drive-Motherboard Connectivity Problems: A Step-by-Step Guide - YL Computing Expert Advice</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-oppo-reno-10-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Oppo Reno 10 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-ace-2-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-of-the-asus-rt-ac68u-ultra-fast-and-secure-5g-connectivity-unleashed/"><u>Comprehensive Evaluation of the Asus RT-AC68U - Ultra-Fast & Secure 5G Connectivity Unleashed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-5-time-lapse-screenshot-apps-for-pc-and-mac-users/"><u>Discover the Ultimate 5 Time-Lapse Screenshot Apps for PC and Mac Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-insanity-workout-convert-dvds-into-digital-format-for-on-demand-exercise-blast/"><u>Download Insanity Workout: Convert DVDs Into Digital Format for On-Demand Exercise Blast</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvd-wonderfox/"><u>DVDからの映像変換とダウンロード - WonderFoxツールを使って簡単に</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-steps-for-sound-capture-from-your-dvd-with-vlc-plus-troubleshooting-tips/"><u>Easy Steps for Sound Capture From Your DVD with VLC + Troubleshooting Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-tutorial-changing-your-wmv-video-to-mpeg-with-windows-tools-and-techniques/"><u>Easy Tutorial: Changing Your WMV Video to MPEG with Windows Tools and Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-fixes-for-video-troubleshooting-on-google-chrome/"><u>Effortless Fixes for Video Troubleshooting on Google Chrome</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exclusive-deals-on-wonderfox-dvd-video-converter-and-rewards-program-a-special-treat-for-toremouroueve-fans/"><u>Exclusive Deals on WonderFox DVD Video Converter & Rewards Program: A Special Treat for Toremouroueve Fans!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-solution-effortlessly-converting-your-mkv-videos-into-divx-compatible-format/"><u>Free Solution: Effortlessly Converting Your MKV Videos Into DivX Compatible Format</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/guide-simple-et-facile-comment-securiser-automatiquement-vos-fichiers-sur-windows-server-2019/"><u>Guide Simple Et Facile: Comment Sécuriser Automatiquement Vos Fichiers Sur Windows Server 2019</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-to-smoothly-capturing-teamviewer-sessions-in-windows-11-os/"><u>Guide to Smoothly Capturing TeamViewer Sessions in Windows 11 OS</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-15-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 15 Plus in the Best Ways</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/leading-likes-best-insta-stories-filter/"><u>Leading Likes Best Insta Stories Filter</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-asus-rog-phone-8-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Asus ROG Phone 8 password or pattern lock</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-expert-techniques-for-clearing-picture-edges/"><u>[New] 2024 Approved Expert Techniques for Clearing Picture Edges</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-artistry-at-heart-best-10-free-easy-mac-drawers/"><u>[Updated] Artistry at Heart Best 10 Free, Easy Mac Drawers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphone-lens-magic-the-ultimate-10-composition-techniques/"><u>[Updated] IPhone Lens Magic The Ultimate 10 Composition Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-skyward-savings-affordable-drones-below-a-hundred/"><u>2024 Approved Skyward Savings Affordable Drones Below a Hundred$</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-extensions-elevating-vs-code-with-gpt-features/"><u>Essential Extensions: Elevating VS Code with GPT Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-bing-chat-vs-chatgpt-key-considerations-for-freelancers/"><u>Evaluating Bing Chat Vs. ChatGPT: Key Considerations for Freelancers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-most-effective-chatterbots-5-unbeatable-extensions-for-vs-code-developers/"><u>Explore the Most Effective Chatterbots: 5 Unbeatable Extensions for VS Code Developers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-consequences-of-the-european-commissions-ai-act-on-ai-communication-systems-like-chatgpt/"><u>Exploring the Consequences of the European Commission's AI Act on AI Communication Systems Like ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-realm-of-artificial-intelligence-understanding-risks-involved/"><u>Exploring the Realm of Artificial Intelligence: Understanding Risks Involved</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-gpt-4-for-everyone-nonetheless-select-plus-membership-continues-to-provide-unique-services/"><u>Free GPT-4 for Everyone; Nonetheless, Select Plus Membership Continues to Provide Unique Services.</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/musical-motifs-and-movie-magic-with-imovie-for-2024/"><u>Musical Motifs and Movie Magic with iMovie for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/peering-behind-the-scenes-of-youtube-reviews/"><u>Peering Behind the Scenes of YouTube Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-in-computer-equipment-with-toms-guide/"><u>Unveiling the Best in Computer Equipment with Tom’s Guide</u></a></li>
 </ul></div>
 

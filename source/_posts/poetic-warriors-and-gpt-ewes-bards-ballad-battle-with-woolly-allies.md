@@ -1,7 +1,7 @@
 ---
 title: Poetic Warriors & GPT Ewes - Bard's Ballad Battle with Woolly Allies
-date: 2024-12-07T17:35:41.147Z
-updated: 2024-12-14T16:20:04.641Z
+date: 2024-12-20T18:28:46.432Z
+updated: 2024-12-23T18:47:52.983Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. WebChatGPT
 
 ![WebChatGPT takes your ChatGPT prompt and performs a search query with it first, and then instructs ChatGPT to use those search results while answering your query so that its data is more updated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-chatgpt-browser-extensions-chrome-webchatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As impressive as ChatGPT's answers are, it's still limited. If you know[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) , you'll know that it isn't scraping the internet for the latest information about any topic or news. The AI works on older data and doesn't search the internet. WebChatGPT is an innovative workaround for this problem that adds web search results to ChatGPT.
 
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
  You can customize the default revised prompt that WebChatGPT uses, but as a new user, we wouldn't suggest that. Once you're more accustomed to using this extension, feel free to look into options that improve your queries
 
 **Download:** WebChatGPT for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) (Free)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. ChatGPT Prompt Genius
 
@@ -68,19 +72,11 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
 
  The first time you use ChatpGPT Writer, you'll need to log in to your OpenAI account with it. The extension works with any Chromium browser such as Chrome, Brave, or Edge. While it's currently best for replying to professional emails, you can also give it non-work prompts to write casual and personal email messages.
 
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. YouTube Summary With ChatGPT
 
@@ -99,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Talk-to-ChatGPT
@@ -112,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. ChatGPT for Search Engines
 
  ChatGPT for Search Engines is one of the[best new web search apps](https://www.makeuseof.com/web-search-apps-make-google-better-or-replace-google/) that presents ChatGPT answers alongside regular search results on Google or DuckDuckGo. It also works with Bing, but you don't need that anymore, given Microsoft has already officially integrated the two.
@@ -123,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
  You'll find the AI answers in the right sidebar next to regular search results. The extension can run for every search, for keywords that end with a question mark, or you can trigger it manually when you want to. Clicking the extension icon opens a shortcut to run a ChatGPT query directly through a drop-down panel.
 
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Perplexity AI
 
@@ -135,6 +131,10 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
  While the tool summarizes the information in a neat manner, it ends the answers with a quick mention of the best, legitimate sources. And while there's still a possibility of fault here (you'd still need to rely on the sources that Perplexity provides), we believe it's much better than going in blind with the usual, source-less responses you'd otherwise gotten from ChatGPT.
 
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Awesome, But Be Realistic…
 
@@ -157,17 +157,18 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unveiling-ipads-full-potential-a-timelapse-journey-begins-here/"><u>[Updated] In 2024, Unveiling iPad's Full Potential A Timelapse Journey Begins Here</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-crafting-a-seamless-cross-share-experience-with-fb-and-igtv/"><u>2024 Approved Crafting a Seamless Cross-Share Experience with FB & IGTV</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/best-practices-selecting-devices-for-zoom-recording-for-2024/"><u>Best Practices Selecting Devices for Zoom Recording for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparative-analysis-of-snapchat-myai-and-microsoft-bing-chat-on-skype-spotlight-on-8-crucial-differences/"><u>Comparative Analysis of Snapchat MyAI & Microsoft Bing Chat on Skype - Spotlight on 8 Crucial Differences</u></a></li>
-<li><a href="https://discover-community.techidaily.com/diagnosing-and-fixing-an-overheating-pc-expert-tips-from-yl-computing-and-software-solutions/"><u>Diagnosing and Fixing an Overheating PC: Expert Tips From YL Computing & Software Solutions</u></a></li>
-<li><a href="https://win-help.techidaily.com/mastering-mirillis-the-ultimate-guide/"><u>Mastering MirilliS: The Ultimate Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/powershot-g9x-mark-ii-a-camera-that-retains-character/"><u>PowerShot G9X Mark II – A Camera That Retains Character</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/recording-your-world-how-camstudio-redefined/"><u>Recording Your World - How CamStudio Redefined</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-your-enterprise-with-chatgpt-8-key-applications/"><u>Transforming Your Enterprise with ChatGPT: 8 Key Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-creativity-in-document-management-how-onlyoffice-docspace-pairs-with-chatgpt/"><u>Unleashing Creativity in Document Management: How ONLYOFFICE DocSpace Pairs with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/who-are-they-discovering-the-real-identities-in-online-conversations-with-the-dead-internet-hypothesis/"><u>Who Are They? Discovering the Real Identities in Online Conversations with the Dead Internet Hypothesis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-considering-claude-3-makes-sense-4-compelling-reasons-to-make-the-change-from-chatgpt/"><u>Why Considering Claude 3 Makes Sense: 4 Compelling Reasons to Make the Change From ChatGPT</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-essential-guide-to-compositing-using-blending-modes/"><u>[New] 2024 Approved Essential Guide to Compositing Using Blending Modes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-navigating-multimedia-in-educational-practice/"><u>[Updated] 2024 Approved Navigating Multimedia in Educational Practice</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmony-highlights-social-media-videos-that-resonate/"><u>[Updated] Harmony Highlights Social Media Videos That Resonate</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-compact-tech-set-for-itinerant-filmmaking/"><u>2024 Approved Compact Tech Set for Itinerant Filmmaking</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-greener-marketing-blend-screens-subscription-tech/"><u>2024 Approved Greener Marketing Blend Screens, Subscription Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-online-streams-your-easy-to-follow-internet-radio-recording-tutorial/"><u>2024 Approved Mastering Online Streams Your Easy-to-Follow Internet Radio Recording Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-academic-research-via-ai-solutions/"><u>Efficient Academic Research via AI Solutions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/elevate-your-fb-presence-with-top-10-music-videos-guide-for-2024/"><u>Elevate Your FB Presence with Top 10 Music Videos Guide for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-the-newly-launched-openai-custom-gpt-services-quick-start-for-immediate-use/"><u>Navigate the Newly Launched OpenAI Custom GPT Services: Quick Start for Immediate Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-openais-api-a-detailed-guide-for-aspiring-creators/"><u>Navigating Through OpenAI's API: A Detailed Guide for Aspiring Creators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimal-8-chatgpt-inquiries-to-reduce-digital-interference/"><u>Optimal 8 ChatGPT Inquiries to Reduce Digital Interference</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/preserve-creativity-the-role-of-nightshade-in-guarding-againnst-ai-generated-images/"><u>Preserve Creativity: The Role of Nightshade in Guarding Againnst AI-Generated Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreezing-frozen-windows-run-logs/"><u>Unfreezing Frozen Windows Run Logs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Engage with OpenAI's Security Rewards: A Guide to Their Bug Bounty Program"
-date: 2024-12-13T16:18:13.590Z
-updated: 2024-12-14T17:20:30.354Z
+date: 2024-12-21T16:09:59.564Z
+updated: 2024-12-23T16:05:35.645Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is OpenAI's Bug Bounty Program?
 
 [OpenAI announced](https://openai.com/blog/bug-bounty-program) its Bug Bounty Program to incentivize those using their applications, such as ChatGPT and DALL-E, to create secure, advanced, and globally beneficial AI systems.
@@ -37,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 ![Man writing code on a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/bug-bounty-programs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  OpenAI promises to protect you from liabilities or penalties if you follow its stated guidelines and will also acknowledge submissions and remedy validated vulnerabilities promptly. Furthermore, OpenAI claims it will publicly recognize your contribution if it is unique and leads to a configuration or code change.
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
  This[bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and[AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) . You may report these to[OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
@@ -60,15 +56,15 @@ The maximum reward you can earn is $20,000.
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With a Bugcrowd account, you can click the "Submit Report" tab on the[Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
@@ -89,10 +85,14 @@ Here, you must fill in the following information:
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the[OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
 
@@ -123,24 +123,24 @@ Here, you must fill in the following information:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-a-comprehensive-guide-to-creating-high-impact-slow-motion-images-and-video-content-on-instagram/"><u>[New] 2024 Approved A Comprehensive Guide to Creating High-Impact Slow Motion Images and Video Content on Instagram</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-unlock-seamless-video-conversion-youtube-to-dailymotion/"><u>2024 Approved Unlock Seamless Video Conversion YouTube to Dailymotion</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-windows-movie-maker-a-toolkit-for-youtube-videographers/"><u>2024 Approved Windows Movie Maker A Toolkit for YouTube Videographers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-in-code-creation-exploring-which-is-more-effective-github-copilot-or-chatgpt/"><u>AI in Code Creation: Exploring Which Is More Effective, GitHub Copilot or ChatGPT?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dialogue-design-the-7-essential-ways-chatgpt-shapes-video-games/"><u>Dialogue Design: The 7 Essential Ways ChatGPT Shapes Video Games</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-huggingchat-an-affordable-open-source-rival-to-chatgpt/"><u>Discovering HuggingChat: An Affordable, Open-Source Rival to ChatGPT</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/early-birds-guide-to-amazon-prime-day-savings-exclusive-oct-24-deals-for-your-next-laptop-upgrade/"><u>Early Bird's Guide to Amazon Prime Day Savings: Exclusive Oct '24 Deals for Your Next Laptop Upgrade</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-tips-for-setting-the-correct-time-on-your-amazon-kindle-paperwhite/"><u>Easy Tips for Setting the Correct Time on Your Amazon Kindle Paperwhite</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-user-experience-5-desired-feature-enhancements-for-chatgpts-plugins-hub/"><u>Enhancing User Experience: 5 Desired Feature Enhancements for ChatGPT's Plugins Hub</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-10-high-flying-moba-games-for-android-users/"><u>In 2024, Top 10 High-Flying MOBA Games for Android Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/openai-basics-from-theory-to-practice/"><u>OpenAI Basics: From Theory to Practice</u></a></li>
-<li><a href="https://facebook.techidaily.com/personal-touches-on-fb-the-simplified-way-to-curate/"><u>Personal Touches on FB - The Simplified Way to Curate</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-solutions-for-smooth-gaming-on-assassins-creed-valhalla-lag-free-adventure-awaits/"><u>Quick Solutions for Smooth Gaming on Assassin's Creed Valhalla – Lag-Free Adventure Awaits</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/reviving-forgotten-dialogues-with-chatgpt-tips-and-tricks-for-history-recovery/"><u>Reviving Forgotten Dialogues with ChatGPT: Tips and Tricks for History Recovery</u></a></li>
-<li><a href="https://games-able.techidaily.com/scores-dont-count-the-real-deal-with-game-reviews/"><u>Scores Don't Count: The Real Deal with Game Reviews</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/spreadsheet-mastery-achievements-only-excel-can-accomplish-not-chatgpt/"><u>Spreadsheet Mastery: Achievements Only Excel Can Accomplish, Not ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-science-behind-reading-emotions-through-ai-technology/"><u>The Science Behind Reading Emotions Through AI Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-mystery-whos-your-digital-interlocutor-decoding-the-deceased-internet-concept/"><u>Unveiling the Mystery: Who's Your Digital Interlocutor? Decoding the Deceased Internet Concept</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-advanced-color-correction-mastering-luts-in-after-effects/"><u>[New] Advanced Color Correction Mastering LUTs in After Effects</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-best-screenshot-and-recorder-software-for-professors/"><u>[New] In 2024, Best Screenshot and Recorder Software for Professors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-no-cash-needed-for-youtube-audio-check-out-this-list-of-23-crackers/"><u>[Updated] No Cash Needed for YouTube Audio? Check Out This List of 23 Crackers</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/accelerate-your-computers-performance-by-updating-and-repairing-old-drivers-tips-from-yl-computing/"><u>Accelerate Your Computer's Performance by Updating & Repairing Old Drivers - Tips From YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/drive-innovation-forward-gpts-role-in-car-customization/"><u>Drive Innovation Forward: GPT's Role in Car Customization</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embrace-cutting-edge-technology-free-techniques-for-tapping-into-gpt-4s-capabilities/"><u>Embrace Cutting-Edge Technology: Free Techniques for Tapping Into GPT-4's Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhanced-dall-e-3-features-new-editing-capabilities-room-for-improvement/"><u>Enhanced DALL-E 3 Features New Editing Capabilities - Room for Improvement</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/from-avi-images-to-graphics-a-complete-filmora-walkthrough-for-2024/"><u>From AVI Images to Graphics A Complete Filmora Walkthrough for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/future-trends-how-machine-learning-is-reshaping-the-way-we-find-information-online/"><u>Future Trends: How Machine Learning Is Reshaping the Way We Find Information Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-registering-for-the-latest-chatgpt-plugin-extensions/"><u>Guide: Registering for the Latest ChatGPT Plugin Extensions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-leverage-chatgpt-for-advanced-sonic-creations-in-your-recording-studio-environment/"><u>How To Leverage ChatGPT for Advanced Sonic Creations in Your Recording Studio Environment</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ignite-your-online-discovery-journey-experience-why-perplexity-ai-is-the-top-secret-to-winning-at-google-searches/"><u>Ignite Your Online Discovery Journey: Experience Why Perplexity AI Is the Top Secret to Winning at Google Searches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/immediate-deactivation-of-chatgpt/"><u>Immediate Deactivation of ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/investigating-any-flaws-in-chatgpts-shield/"><u>Investigating Any Flaws in ChatGPT’s Shield</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/latest-m3-macbook-pro-revealed-pricing-release-timeline-specifications-explained/"><u>Latest M3 MacBook Pro Revealed: Pricing, Release Timeline, Specifications Explained</u></a></li>
+<li><a href="https://win-webster.techidaily.com/revealing-your-secret-windows-11-files-a-step-by-step-guide-by-yl-computing/"><u>Revealing Your Secret Windows 11 Files: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://techidaily.com/sign-word-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word Documents Online for Free</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/srt-pinnacle-selecting-the-premier-turbo-charger-systems-for-os-xwin-for-2024/"><u>SRT Pinnacle Selecting the Premier Turbo Charger Systems for OS X/Win for 2024</u></a></li>
 </ul></div>
 

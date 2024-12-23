@@ -1,7 +1,7 @@
 ---
 title: "Perfect Pensmanship: ChatGPT for Academic Notes"
-date: 2024-11-26T05:45:30.327Z
-updated: 2024-11-29T17:46:02.128Z
+date: 2024-12-20T16:26:38.941Z
+updated: 2024-12-23T18:26:26.885Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -56,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The more context you provide your AI tool, the better of a response you'll receive.
 
 ## 2 Ask for More Information After Getting an Initial Answer
@@ -67,16 +67,12 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
@@ -92,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
 [Avoiding common mistakes when using AI prompting tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) isn't always easy, but one of the main issues you'll encounter is trying to make the tool multitask. AI programs will often generate your results within a few minutes, but they can only do one thing at a time. If you try to ask too many things in one go, you won't get the results you want.
@@ -99,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
  Sometimes, you'll begin a prompt and realize you forgot to add further information. When this happens, stop or edit the current prompt and include those details before re-generating your answer.
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
@@ -121,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
  If you're using AI to create art, it's also a good idea to upload images that the AI tool can use as examples. Meanwhile, if you want to[use Photo AI](https://www.makeuseof.com/what-is-photo-ai/) or similar tools for pictures of yourself, uploading selfies, headshots, and other images will help you achieve what you want.
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
@@ -147,21 +147,20 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-m1-pro-and-m1-max-a-comparative-insight-into-apples-latest-chips/"><u>[New] M1 Pro and M1 Max - A Comparative Insight Into Apple's Latest Chips</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-cut-down-on-effort-schedule-fb-posts-for-free-for-2024/"><u>[Updated] Cut Down on Effort Schedule Fb Posts for Free for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-integrating-multimedia-for-iphone-users/"><u>[Updated] Integrating Multimedia for iPhone Users</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-iphones-secrets-for-stunning-time-lapse-videos-for-2024/"><u>[Updated] IPhone's Secrets for Stunning Time-Lapse Videos for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-tecno-pova-5-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Tecno Pova 5</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/identifying-counterfeit-chatgpt-applications-within-apples-official-marketplace/"><u>Identifying Counterfeit 'ChatGPT' Applications Within Apple's Official Marketplace</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-adapt-images-to-any-size-on-your-iphone-instantly/"><u>In 2024, Adapt Images to Any Size on Your iPhone Instantly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-uses-combining-chatgpt-with-wolfram-in-3-ways/"><u>Innovative Uses: Combining ChatGPT with Wolfram in 3 Ways</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-ai-like-chatgpt-a-lifesaver-outdoors/"><u>Is AI Like ChatGPT a Lifesaver Outdoors?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-possible-for-chatgpt-to-create-custom-secure-exercise-routines-tailored-just-for-you/"><u>Is It Possible for ChatGPT to Create Custom, Secure Exercise Routines Tailored Just For You?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/machine-learning-and-mindfulness-is-technology-a-helping-hand-or-hurdle-for-mental-wellness-support/"><u>Machine Learning and Mindfulness: Is Technology a Helping Hand or Hurdle for Mental Wellness Support?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-efficiency-strategies-for-leveraging-chatgpt-in-your-business-processes/"><u>Maximizing Efficiency: Strategies for Leveraging ChatGPT in Your Business Processes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/meet-the-elite-top-six-of-massive-linguistic-ai-models/"><u>Meet the Elite Top Six of Massive Linguistic AI Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimized-coding-with-ai-top-10-chatgpt-solutions-for-vs-code/"><u>Optimized Coding with AI: Top 10 ChatGPT Solutions for VS Code</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-advanced-tools-for-efficiently-converting-xmlssattml-to-srt/"><u>[New] Advanced Tools for Efficiently Converting XML/SSA/TTML to SRT</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-best-binge-worthy-series-on-twittersphere/"><u>[New] The Best Binge-Worthy Series on Twittersphere</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-how-to-add-logowatermark-to-youtube-video/"><u>[Updated] 2024 Approved How to Add Logo/Watermark to YouTube Video</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-art-of-finding-classic-facebook-content-for-2024/"><u>[Updated] The Art of Finding Classic Facebook Content for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/advanced-image-salvaging-professional-jpeg-file-repair-solutions/"><u>Advanced Image Salvaging: Professional JPEG File Repair Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bing-chat-vs-chatgpt-top-8-criteria-freelancers-need-to-know-before-choosing/"><u>Bing Chat Vs. ChatGPT: Top 8 Criteria Freelancers Need to Know Before Choosing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-productivity-innovative-uses-of-chatgpt-in-excel-workflows/"><u>Boost Your Productivity: Innovative Uses of ChatGPT in Excel Workflows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-ai-write-accurate-code-unveiling-the-capabilities-of-codegpt/"><u>Can AI Write Accurate Code? Unveiling the Capabilities of CodeGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-meteoric-ascent-to-fame-an-exploration-of-the-five-core-catalysts-for-its-swift-expansion/"><u>ChatGPT's Meteoric Ascent to Fame: An Exploration of the Five Core Catalysts for Its Swift Expansion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-champion-of-chit-chat-gpt-vs-huggingface/"><u>Choosing the Champion of Chit-Chat: GPT Vs. HuggingFace</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-instructions-to-erase-your-chatgpt-user-account/"><u>Complete Instructions to Erase Your ChatGPT User Account</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-look-inside-apples-worldwide-developers-conference-and-their-advancements-in-ai/"><u>Comprehensive Look Inside Apple's Worldwide Developers Conference and Their Advancements in AI</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-laugh-loom-meme-crafter/"><u>In 2024, Laugh Loom Meme Crafter</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-s17e-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo S17e Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The New Era of AI-Powered Bing by Microsoft – What Changes Will You See?
-date: 2024-12-12T16:51:58.750Z
-updated: 2024-12-14T17:51:15.181Z
+date: 2024-12-16T18:50:33.233Z
+updated: 2024-12-23T17:33:26.244Z
 tags:
   - chatgpt
   - open-ai
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/5007fff59cf8da665a883eea8dc45d22315969cbd
 
  There are plenty more[alternatives to DALL-E 3](https://www.makeuseof.com/ai-text-to-art-generators/) worth checking out, too. Compare them to see which image creator works best for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Makes DALL-E 3 Special?
 
 ![Four AI-generated images of cats wearing a hat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/four-ai-generated-images-of-cats-wearing-a-hat.jpg)
@@ -59,16 +63,12 @@ thumbnail: https://thmb.techidaily.com/5007fff59cf8da665a883eea8dc45d22315969cbd
 
 ![DALL-E 2 image of NYC and plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-image-of-nyc-and-plants.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When we asked if it could add animals to that image it just generated, it couldn't. Instead, it generated new images of just animals.
 
 ![DALL-E 2 prompt for animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-prompt-for-animals.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Compare that with DALL-E 3 in Bing. The image it generated is quite good, considering our prompt barely contained any specific details.
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/5007fff59cf8da665a883eea8dc45d22315969cbd
 ![DALL-E 3 in Bing Chat image of a city covered in plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-in-bing-chat-image-of-a-city-covered-in-plants.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We followed this up by asking if it could add animals to the image it just created. Unlike DALL-E 2, it had no trouble understanding our request.
@@ -87,12 +87,16 @@ thumbnail: https://thmb.techidaily.com/5007fff59cf8da665a883eea8dc45d22315969cbd
 
 ![DALL-E 3 image of a city overun with animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-overun-with-animals.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With just a small amount of time chatting with DALLE-3 in Bing, we arrived at a really interesting image of New York City if it were overrun by plants and animals. No prompt engineering is required.
 
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Limitations of DALL-E 3 and Bing
@@ -106,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/5007fff59cf8da665a883eea8dc45d22315969cbd
  Another change to DALL-E 3 is the increase in moderation and safety measures that some people might consider a limitation, such as "removing public figure names" from the prompt, as mentioned in the[DALL-E 3 research paper](https://cdn.openai.com/papers/DALL%5FE%5F3%5FSystem%5FCard.pdf) .
 
  But this will be a welcome addition for artists who don't want their images to train DALL-E in the first place. Adding to this, you can now fill in the[OpenAI opt-out form](https://share.hsforms.com/1%5FOuT5tfFSpic89PqN6r1CQ4sk30) to make sure your image doesn't go into the training pool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Don't Wait to Try DALL-E 3; Access It Now With Bing
 
@@ -130,20 +130,24 @@ thumbnail: https://thmb.techidaily.com/5007fff59cf8da665a883eea8dc45d22315969cbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-10-secrets-to-flawless-live-broadcasts-of-cricket/"><u>[New] 10 Secrets to Flawless Live Broadcasts of Cricket</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/reate-compelling-animation-subscribe-bars-for-your-youtube-channel-filmora-for-2024/"><u>[New] Create Compelling Animation Subscribe Bars for Your YouTube Channel (Filmora) for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ultimate-hexa-copter-ranks-unveiled/"><u>[Updated] 2024 Approved Ultimate Hexa-Copter Ranks Unveiled</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-youtubes-view-threshold-for-money/"><u>[Updated] Understanding Youtube’s View Threshold for Money</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-embrace-virtual-worlds-must-have-gadgets-unveiled/"><u>2024 Approved Embrace Virtual Worlds Must-Have Gadgets Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/efficient-methods-for-converting-your-mkv-files-into-advanced-av1-video-codec/"><u>Efficient Methods for Converting Your MKV Files Into Advanced AV1 Video Codec</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/efficiently-trimming-footage-mastering-video-cropping-using-ffmpeg-on-windows/"><u>Efficiently Trimming Footage: Mastering Video Cropping Using FFmpeg on Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-solutions-to-tackle-non-functioning-videos-on-tumblr/"><u>Effortless Solutions to Tackle Non-Functioning Videos on Tumblr</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-techniques-cropping-mp4-videos-using-your-pc-or-online-tools/"><u>Effortless Techniques: Cropping MP4 Videos Using Your PC or Online Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-video-conversion-tutorial-changing-wmv-file-type-to-mp4-using-the-handbrake-software/"><u>Effortless Video Conversion Tutorial: Changing WMV File Type to MP4 Using the HandBrake Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortlessly-separate-singing-voices-from-music-tracks-top-3-free-tools-and-techniques/"><u>Effortlessly Separate Singing Voices From Music Tracks: Top 3 FREE Tools & Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-tips-on-opening-vob-format-videos-with-ease/"><u>Essential Tips on Opening VOB Format Videos with Ease</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-code-88e0005-in-call-of-duty-black-ops-cold-war/"><u>How to Overcome Code 88E0005 in Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/ultimate-guide-best-programs-for-recording-display-on-a-microsoft-surface-pro/"><u>Ultimate Guide: Best Programs for Recording Display on a Microsoft Surface Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-simplifying-typeface-addition-for-enhanced-creativity-in-ae/"><u>[New] In 2024, Simplifying Typeface Addition for Enhanced Creativity in AE</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-making-the-most-of-your-instagram-footage/"><u>[New] Making the Most of Your Instagram Footage</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/como-convertir-archivos-m4b-a-wma-sin-coste-con-la-herramienta-en-linea-de-movavi/"><u>Cómo Convertir Archivos M4B a WMA Sin Coste Con La Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-might-chatgpt-impact-the-dominance-of-traditional-search-engines/"><u>How Might ChatGPT Impact the Dominance of Traditional Search Engines?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-top-10-ideas-for-making-your-podcast-stand-out-visually/"><u>In 2024, Top 10 Ideas for Making Your Podcast Stand Out Visually</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-12-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 12 Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-compromising-our-online-privacy-an-expert-review/"><u>Is ChatGPT Compromising Our Online Privacy? An Expert Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-gpt-5-on-the-horizon-unveiling-its-expected-release-date/"><u>Is GPT-5 on the Horizon? Unveiling Its Expected Release Date</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-interaction-within-gpt-token-limits/"><u>Maximizing Interaction Within GPT Token Limits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-chatgpts-service-integration-troubles/"><u>Navigating Through ChatGPT's Service Integration Troubles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/neural-network-vulnerability-a-defensive-guide/"><u>Neural Network Vulnerability: A Defensive Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-download-vn-video-editor-for-mac-or-explore-mac-friendly-alternatives/"><u>New Download VN Video Editor for Mac or Explore Mac-Friendly Alternatives</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1728485355935-office-365/"><u>Office 365 のメールをどうやって別のアドレスに移行するか？トラブルシューティングガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/precise-detection-techniques-for-fake-bot-infiltrations/"><u>Precise Detection Techniques for Fake Bot Infiltrations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quickstart-guide-to-the-latest-eight-gpts-available-now/"><u>QuickStart Guide to the Latest Eight GPTs Available Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strengthening-workflow-efficiency-leveraging-chatgpt-for-better-productivity/"><u>Strengthening Workflow Efficiency: Leveraging ChatGPT for Better Productivity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-best-of-both-worlds-ai-and-human-creativity/"><u>The Best of Both Worlds: AI & Human Creativity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-top-5-cutting-edge-features-of-iphone-16-pro-that-technology-buffs-cant-resist-zdnet/"><u>Unveiling the Top 5 Cutting-Edge Features of iPhone 16 Pro That Technology Buffs Can't Resist | ZDNET</u></a></li>
 </ul></div>
 

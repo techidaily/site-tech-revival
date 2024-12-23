@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Limitations: Why ChatGPT Struggles with Self-Detection of Text"
-date: 2024-12-07T17:15:41.420Z
-updated: 2024-12-14T16:53:25.885Z
+date: 2024-12-20T19:27:27.952Z
+updated: 2024-12-23T17:51:41.756Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 
 ![screenshot of promptbase search results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-base-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Even when searching via category, you can filter your searches to narrow down the options based on your preferences.
 
  On top of this, PromptBase gives users the chance to sell their own prompts and hire individuals to create prompts. PromptBase has a wide range of prompt engineers to choose from, and you can view engineers based on the AI model they can develop prompts for. After clicking on the engineer's profile, you can see which prompts they currently have for sale, though you can message them if you're looking for something bespoke and specific.
@@ -43,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
  You can pay for prompts on PromptBase via the Stripe[online payment processor](https://www.makeuseof.com/payment-providers-for-react-paypal-stripe-square/) .
 
  To sell a prompt, PromptBase requires you to provide a prompt name, type, description, and price. Then, you'll need to directly paste your prompt into the provided box. PromptBase will test the prompt to see if it's legitimate, and if everything checks out, you can go ahead and list your prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2.[PromptHero](https://prompthero.com/)
 
@@ -60,17 +60,9 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 
  A particularly interesting feature offered by Prompt Hero is its Jobs section. This page lets you search for AI jobs, whether remote or in-house, which is great for those with skills in AI. You can use PromptHero to access the application portal for the job you desire, and you can also view the salary, contract term, or hourly rate.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3.[ChatX](https://chatx.ai/)
 
 ![screenshot of chatx website homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chat-x-website.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ChatX offers free and paid prompts for ChatGPT, Midjourney, and DALL-E 2\. When you arrive at the homepage of ChatX, you've got two options. You can head to the general prompt marketplace or ChatX's prompt generator. If you want to find preexisting prompts, head to the general prompt marketplace. If you want a specific prompt created on your behalf, head to the prompt generator.
 
@@ -82,16 +74,12 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 
  Simply describe what you want the AI model to act as and produce, and you'll be provided with a text prompt to download for future use.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4.[PromptSea](https://www.promptsea.io/)
 
 ![promptsea website homepage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-sea-site.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  PromptSea isn't just an AI prompt marketplace but can certainly be used to find useful AI prompts. When you head to the PromptSea website, you won't be instantly met with the prompt marketplace. However, if you scroll down a little, you'll see a small number of featured AI prompts displayed. Click on the**Prompts** title, and you'll be taken to PromptSea's prompts platform. Here, you can find image prompts for ChatGPT, Midjourney, DALLE-2, Novel AI, Nightcafe, Jasper, and Niji Journey.
@@ -117,7 +105,7 @@ So, how do you know what you're buying?
 ![highlighted item details section on etsy product page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/etsy-item-page-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to buy just a handful of AI prompts or something highly specific, Etsy may not be the right platform. Don't forget that Etsy isn't a dedicated AI prompt marketplace designed for finding and searching for prompts specifically.
@@ -127,7 +115,7 @@ So, how do you know what you're buying?
 ![chatgpt interface with aiprm plugin active](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-aiprgm-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  AIPRM isn't a website-based marketplace. Rather, it is a free Chrome extension that lets you access useful ChatGPT prompts while using the ChatGPT interface.
@@ -145,15 +133,27 @@ So, how do you know what you're buying?
 
  Check out[AIPRM's plan information page](https://www.aiprm.com/blog/introducing-aiprm-premium-for-chatgpt/) to see what each tier offers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7.[FlowGPT](https://flowgpt.com/)
 
 ![screennshot of flowgpt website homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/flow-gpt-site.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  FlowGPT offers a range of useful AI services, including a prompt marketplace for ChatGPT users. FlowGPT's marketplace works a little differently from your standard prompt marketplace, with the option to actually interact with a wide range of AI chatbots using GPT.
 
  You can ask your chosen GPT-based bot to produce a prompt for you, though it's important to remember that specific bots are designed for specific kinds of prompts. For instance, if you want a job-hunting prompt, head to FlowGPT's job-hunting section.
 
  You can also create prompts on FlowGPT if you want to list your prompts for other users to access.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Prompt Marketplaces Can Transform Your AI Chabot Experience
 
@@ -174,22 +174,20 @@ So, how do you know what you're buying?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-capturing-motion-spectacle-with-polaroid-camplus-cube-for-2024/"><u>[New] Capturing Motion Spectacle with Polaroid Cam+ Cube for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-free-high-quality-youtube-banner-samples-inside/"><u>[Updated] In 2024, Free High-Quality YouTube Banner Samples Inside!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-huawei-unlock-without-password-by-drfone-android/"><u>5 Solutions For Huawei Unlock Without Password</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-guide-easily-capturing-your-facetime-calls-with-quality-audio/"><u>Complete Guide: Easily Capturing Your FaceTime Calls With Quality Audio</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-how-companies-embrace-generative-ais-potential/"><u>Discovering How Companies Embrace Generative AI's Potential</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/e-seguro-o-movavi-testando-a-protecao-de-site-e-aplicativos/"><u>É Seguro O Movavi? - Testando a Proteção De Site E Aplicativos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/experience-high-end-photography-gear-with-movavis-wide-selection-of-cameras-and-accessories/"><u>Experience High-End Photography Gear with Movavi's Wide Selection of Cameras and Accessories</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fast-easy-downloads-updated-geforce-gtx-770-drivers-for-optimal-performance-on-windows-machines/"><u>Fast, Easy Downloads: Updated GeForce GTX 770 Drivers for Optimal Performance on Windows Machines</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratuita-conversao-de-imagens-tga-online-com-o-movavi/"><u>Gratuita Conversão De Imagens TGA Online Com O Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratuita-conversion-de-archivos-video-mp4-a-mxf-en-linea-con-movavi/"><u>Gratuita Conversión De Archivos Video: MP4 a MXF en Línea Con Movavi</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/investigating-the-innovation-in-burst-mode-filming-techniques-for-2024/"><u>Investigating the Innovation in Burst Mode Filming Techniques for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/making-your-fb-page-more-memorable-name-change/"><u>Making Your FB Page More Memorable: Name Change</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavis-no-cost-service-transforming-ram-videos-into-avi-file-type-online/"><u>Movavi's No-Cost Service: Transforming RAM Videos Into AVI File Type Online</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-solutions-for-resolving-javascript-issues-in-discord/"><u>Quick Solutions for Resolving JavaScript Issues in Discord</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformer-facilement-un-fichier-ts-en-format-wav-gratuitement-avec-une-solution-en-ligne-movavi/"><u>Transformer Facilement Un Fichier TS en Format WAV Gratuitement Avec Une Solution en Ligne - Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trasforma-i-tuoi-file-mp3-in-ogv-fai-da-te-su-internet-usando-movavi/"><u>Trasforma I Tuoi File MP3 in OGV Fai Da Te Su Internet Usando Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trasforma-immagini-jpg-in-gif-senza-costi-movavi/"><u>Trasforma Immagini JPG in GIF Senza Costi - Movavi</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-creating-ken-burns-transitions-in-camtasia-9-a-step-by-step-guide/"><u>[New] 2024 Approved Creating Ken Burns Transitions in Camtasia 9 A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-capture-the-moment-an-examination-of-camstudio/"><u>[New] Capture the Moment An Examination of CamStudio</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-no-more-glitches-working-obs-cameras/"><u>[Updated] In 2024, No More Glitches Working OBS Cameras</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/46792576-extract-translate-and-save-youtube-subtitles-for-free/"><u>Extract, Translate & Save YouTube Subtitles for FREE</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-guide-to-selecting-peak-performance-lipo-tech/"><u>In 2024, A Guide to Selecting Peak-Performance LiPo Tech</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-conversation-a-guide-on-leveraging-chatgpt-from-microsoft/"><u>Mastering the Art of Conversation: A Guide on Leveraging ChatGPT From Microsoft</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-video-directorship-with-powerdirector-24-for-2024/"><u>Mastering Video Directorship with PowerDirector '24 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-future-understanding-the-significance-of-chatgpt-and-whisper-api-availability-for-companies/"><u>Navigating the Future: Understanding the Significance of ChatGPT and Whisper API Availability for Companies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-level-interaction-sevenfold-advantages-of-bard-with-googles-palm-2-upgrade/"><u>Next-Level Interaction: Sevenfold Advantages of Bard with Google's PaLM 2 Upgrade</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/plagiarism-proof-gpt-source-examination/"><u>Plagiarism Proof: GPT Source Examination</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/prevent-data-extraction-by-online-bots/"><u>Prevent Data Extraction by Online Bots</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/professional-gamers-guide-optimal-video-capture-tips/"><u>Professional Gamers' Guide Optimal Video Capture Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-writing-automation-using-hixs-gpt-4-integrated-solutions/"><u>Revolutionize Writing Automation Using HIX's GPT-4 Integrated Solutions</u></a></li>
+<li><a href="https://discover-help.techidaily.com/understanding-digiartys-refund-procedure-for-winxdvd-software-products/"><u>Understanding Digiarty's Refund Procedure for WinXDVD Software Products</u></a></li>
 </ul></div>
 

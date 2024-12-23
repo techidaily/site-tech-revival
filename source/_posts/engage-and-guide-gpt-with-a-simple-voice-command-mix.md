@@ -1,7 +1,7 @@
 ---
 title: Engage and Guide GPT With a Simple Voice-Command Mix
-date: 2024-12-09T17:15:12.464Z
-updated: 2024-12-14T16:07:31.000Z
+date: 2024-12-18T16:25:05.210Z
+updated: 2024-12-23T19:27:56.630Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/3b3746640fe26afab367eb3d6989fbedd82bfd022
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -63,16 +63,21 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-step-by-step-uploading-to-instagrams-feed/"><u>[New] 2024 Approved Step-By-Step Uploading to Instagram's Feed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-revolutionizing-the-opening-experience/"><u>[New] Revolutionizing the Opening Experience</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-elevating-your-shots-with-lightrooms-hdr-merging-magic-for-2024/"><u>[Updated] Elevating Your Shots with Lightroom's HDR Merging Magic for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-halting-real-time-recordings-on-qt-player-for-2024/"><u>[Updated] Halting Real-Time Recordings on QT Player for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/anthropic-ai-accessing-claude-3-prompts/"><u>Anthropic AI: Accessing Claude 3 Prompts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-power-of-ai-upgrade-now-for-these-9-amazing-features-in-chatgpt-plus/"><u>Discover the Power of AI: Upgrade Now for These 9 Amazing Features in ChatGPT Plus</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-7-plus-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 7 Plus Without Apple ID Password?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xr-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone XR Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/steps-to-operate-the-nvidia-rtx-powered-conversational-ai-bot-on-pc/"><u>Steps to Operate the NVIDIA RTX-Powered Conversational AI Bot on PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-key-aspects-you-should-evaluate-before-choosing-an-ai-chatbot-platform/"><u>Top 7 Key Aspects You Should Evaluate Before Choosing an AI Chatbot Platform</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-getting-hooked-on-telegram-advertising-a-starters-guide/"><u>[New] In 2024, Getting Hooked on Telegram Advertising A Starter's Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-navigate-through-creating-stellar-educational-video-content-for-online-platforms/"><u>[Updated] In 2024, Navigate Through Creating Stellar Educational Video Content for Online Platforms</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-guide-turning-your-insta-videos-into-top-notch-mp4/"><u>[Updated] Step-by-Step Guide Turning Your Insta Videos Into Top-Notch MP4</u></a></li>
+<li><a href="https://article-tips.techidaily.com/basics-in-the-realm-of-tale-construction-for-2024/"><u>Basics in the Realm of Tale Construction for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creating-an-account-with-just-your-email-steps-for-signing-up-to-chatgpt-and-other-messaging-services/"><u>Creating an Account with Just Your Email: Steps for Signing Up to ChatGPT and Other Messaging Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-impact-of-shape-on-ml-transparency/"><u>Decoding the Impact of ShapE on ML Transparency</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-future-key-insights-into-next-gen-cyber-threats-and-prevention/"><u>Discover the Future: Key Insights Into Next-Gen Cyber Threats & Prevention</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/does-chatgpt-protect-our-secrets/"><u>Does ChatGPT Protect Our Secrets?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ease-into-large-language-models-a-novices-introduction-to-langchain-llm-essentials/"><u>Ease Into Large Language Models - A Novice's Introduction to LangChain LLM Essentials</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-tasks-with-chatgpt-plus-wolfram-alpha-3-key-strategies-for-success/"><u>Elevate Tasks with ChatGPT + Wolfram Alpha: 3 Key Strategies for Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embrace-ai-for-the-modern-professionals-toolkit/"><u>Embrace AI for the Modern Professional's Toolkit</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-disable-cortana-in-windows-10/"><u>How to Disable Cortana in Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/realitys-new-horizons-analyzing-metaverse-and-omniverse-worlds/"><u>Reality's New Horizons Analyzing Metaverse and Omniverse Worlds</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/seamless-conversion-of-video-content-to-dynamic-gif-formats-for-2024/"><u>Seamless Conversion of Video Content to Dynamic GIF Formats for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-screen-refinement-software-for-video-lovers-for-2024/"><u>Superior Screen Refinement Software for Video Lovers for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-when-msvcp60dll-is-absent-error-appears/"><u>Troubleshooting Tips for When msvcp60.dll Is Absent Error Appears</u></a></li>
 </ul></div>
 

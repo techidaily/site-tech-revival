@@ -1,7 +1,7 @@
 ---
 title: "Digital Mixologist Test: Evaluating the Competence of ChatGPT with Drinks"
-date: 2024-12-12T16:38:46.144Z
-updated: 2024-12-14T16:36:01.126Z
+date: 2024-12-20T18:06:39.175Z
+updated: 2024-12-23T16:31:28.328Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
@@ -31,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
@@ -65,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
@@ -81,7 +77,11 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -107,20 +107,21 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-extract-subtitles-for-free-top-10-tools-reviewed/"><u>[New] 2024 Approved Extract Subtitles for Free Top 10 Tools Reviewed</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-facebook-360-video-how-to-make-and-upload-360-video-to-facebook/"><u>[New] 2024 Approved Facebook 360 Video How to Make and Upload 360 Video to Facebook</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-effortless-transformation-of-your-youtube-content-into-webm-for-2024/"><u>[New] Effortless Transformation of Your YouTube Content Into WebM for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-leading-microphone-reviews-podcastings-best/"><u>[New] In 2024, Leading Microphone Reviews Podcasting's Best</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-strategies-building-powerful-presentations/"><u>ChatGPT Strategies: Building Powerful Presentations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-one-of-a-kind-visuals-using-microsofts-image-creator-tool/"><u>Crafting One-of-a-Kind Visuals Using Microsoft's Image Creator Tool</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-techniques-for-restoring-access-when-facing-disconnect-problems-from-a-remote-server/"><u>Effective Techniques for Restoring Access When Facing Disconnect Problems From a Remote Server</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-limitless-potential-of-imagination-using-free-dall-e-3-on-bing/"><u>Explore the Limitless Potential of Imagination: Using Free DALL-E 3 on Bing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/stop-garrys-mod-from-freezing-expert-hacks-and-updates-users/"><u>Stop Garry's Mod From Freezing - Expert Hacks and Updates Users</u></a></li>
-<li><a href="https://win-community.techidaily.com/the-ultimate-showdown-microsoft-surface-pro-9-vs-macbook-a-comprehensive-guide-for-windows-enthusiasts-zdnet/"><u>The Ultimate Showdown: Microsoft Surface Pro 9 Vs. MacBook - A Comprehensive Guide for Windows Enthusiasts! (ZDNet)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-note-taking-skills-into-a-pros-game-with-chatgpt-strategies/"><u>Transforming Note-Taking Skills Into a Pro's Game with ChatGPT Strategies</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-buyers-guide-to-top-6-hdmi-monitors-21/"><u>Ultimate Buyer's Guide to Top 6 HDMI Monitors (2.1)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-artificial-intelligence-illusions-recognizing-and-identifying-ai-hallucinations/"><u>Understanding Artificial Intelligence Illusions: Recognizing and Identifying AI Hallucinations</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-secrets-to-a-working-windows-pen/"><u>Unveiling the Secrets to a Working Windows Pen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-truthgpt-coin-a-comprehensive-guide-to-its-authenticity-and-value/"><u>Unveiling TruthGPT Coin: A Comprehensive Guide to Its Authenticity and Value</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-streamers-dilemma-is-vlc-superior-to-mpc/"><u>[Updated] In 2024, Streamer's Dilemma Is VLC Superior to MPC?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-strategies-for-precise-age-entry-in-tiktok-profiles/"><u>[Updated] Strategies for Precise Age Entry in TikTok Profiles</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-disruptions-effective-solutions-to-combat-modern-warfare-2-crashes-on-desktops/"><u>Eliminate Disruptions: Effective Solutions to Combat Modern Warfare 2 Crashes on Desktops</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exemplary-8-chatgpt-questions-to-reduce-online-temptations/"><u>Exemplary 8 ChatGPT Questions to Reduce Online Temptations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-confidential-chats-with-enhanced-ai-technology-from-duckduckgo-explore-features-like-chatgpt/"><u>Experience Confidential Chats with Enhanced AI Technology From DuckDuckGo – Explore Features Like ChatGPT!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exposing-bingchatgpts-fake-coins-tips-for-detecting-and-steering-clear-of-online-crypto-scams/"><u>Exposing BingChatGPT's Fake Coins: Tips for Detecting and Steering Clear of Online Crypto Scams</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-words-to-pictures-how-chatgpt-enables-image-creation-in-ai/"><u>From Words to Pictures: How ChatGPT Enables Image Creation in AI</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-focusrite-scarlett-solo-compatible-with-windows-free-download/"><u>Get Your Hands on the Focusrite Scarlett Solo - Compatible with Windows, Free Download!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-reliable-is-chatgpt-ensuring-truthfulness-in-ai-conversations/"><u>How Reliable Is ChatGPT: Ensuring Truthfulness in AI Conversations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-the-chatgpt-desktop-version-outperforms-its-online-interface/"><u>How the ChatGPT Desktop Version Outperforms Its Online Interface</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-get-your-hands-on-free-gpt-3-technology/"><u>How To Get Your Hands On Free GPT-3 Technology</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-solutions-for-infinix-network-unlock-by-drfone-android/"><u>In 2024, Best Solutions for Infinix Network Unlock</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-learn-how-to-change-number-on-tiktok-with-working-methods/"><u>In 2024, Learn How to Change Number on TikTok with Working Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-plans-exclusive-free-premiere-pro-samples-2023/"><u>In 2024, Premier Plans - Exclusive Free Premiere Pro Samples 2023</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mastering-linkedin-messaging-etiquette-for-2024/"><u>Mastering LinkedIn Messaging Etiquette for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-the-most-recent-hp-laserjet-pro-p160n6dn-drivers-on-your-windows-machine/"><u>Step-by-Step Guide: Installing the Most Recent HP LaserJet Pro P160n6dn Drivers on Your Windows Machine</u></a></li>
 </ul></div>
 

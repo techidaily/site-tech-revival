@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Advanced AI: GPT-4, No Price Tag Needed"
-date: 2024-09-05T12:47:03.945Z
-updated: 2024-09-06T12:47:03.945Z
+date: 2024-12-19T16:15:45.757Z
+updated: 2024-12-23T18:54:33.507Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,10 @@ After Installing Python, you can download Auto-GPT from GitHub.
 
 **Source code.zip** is for Windows, while**Source code.tar.gz** is for Linux and MacOS. First, download the file for your operating system, then copy the folder and paste it into your desired location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 2: Configure Auto-GPT
 
  Since AutoGPT uses OpenAI's GPT model, you must generate an API key from OpenAI to act as your credential to use their product.
@@ -49,29 +53,20 @@ After Installing Python, you can download Auto-GPT from GitHub.
 2. To create a key, click**Create new secret key** , input a name, then click**Create secret key** . You can then copy the API key by using**CTRL + C** or clicking the copy icon on the right.  
 ![Create API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-create-test-key.jpg)
 3. Now you have your API key, go to your Auto-GPT folder and open the**.env** file using Notepad.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
 4. Once opened, scroll down to the**LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
+
  This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 3: Install Auto-GPT Dependencies
 
@@ -87,25 +82,15 @@ python -m autogpt
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Congratulations! You have successfully Installed Auto-GPT.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Auto-GPT
 
  Now that you have successfully installed Auto-GPT on your computer let's discuss how to use Auto-GPT.
@@ -124,22 +109,14 @@ Congratulations! You have successfully Installed Auto-GPT.
 
 ![Creating Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/recipe-generator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In this example, we have named our AI assistant "Recipe-Generator." Its role is to make a recipe based on the top five ingredients readily available in the US. We've set the first three goals as parameters on what we expect the recipe will be and set the last two to tell Auto-GPT to save the file as TXT, then shutdown.
 
 ![Running Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-recipe-generator-thinking.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Once you give your last goal, you can hit enter for Auto-GPT to run.
 
  While running, you can see the AI's thoughts, reasoning, plan, and criticism. For every action of the AI assistant, you will be asked to authorize its plan to execute. You can do so by typing "y" as yes.
@@ -162,22 +139,10 @@ After making the recipe, our AI has now completed its task.
 
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To view the output, go to your Auto-GPT folder and**open auto-gpt-workspace** .
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
 
 ## Auto-GPT Limitations
@@ -198,14 +163,11 @@ After making the recipe, our AI has now completed its task.
 
  With that said, Auto-GPT is still in its early development stage, and GPT-4 is still on its 8k model. As for now, Auto-GPT should not be used as a tool for any professional or business applications. Anyone using it should only be for the purpose of learning and experimentation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -214,4 +176,26 @@ After making the recipe, our AI has now completed its task.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-harmonious-journey-from-picture-to-playlist/"><u>[New] In 2024, Harmonious Journey From Picture to Playlist</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-insta-gurus-guide-the-essential-hashtags-you-need-today/"><u>[New] In 2024, Insta Gurus Guide The Essential Hashtags You Need Today</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-best-video-screen-grabbers/"><u>[Updated] In 2024, Best Video Screen Grabbers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-srt-file-handling-simplified-on-pcmac/"><u>[Updated] SRT File Handling Simplified on PC/Mac</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-step-by-step-guide-to-applying-a-realistic-motion-blur-in-photoshop-for-2024/"><u>[Updated] Step-by-Step Guide to Applying a Realistic Motion Blur in Photoshop for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-swift-rescaling-perfect-mac-pixels-with-youtube/"><u>[Updated] Swift Rescaling Perfect Mac Pixels with YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-transform-videos-with-tiktok-effects/"><u>[Updated] Transform Videos with TikTok Effects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi3gp/"><u>「Movaviのオンラインで免責金の3GPファイル変換 - 自由なサービス」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mod/"><u>完全無料:最新MODファイルを動かすためのオンライン変換ツール - モヴェアビで学ぶ方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726222796729-aiffmp3-movavi/"><u>AIFF到MP3 無成本線上變更器：如何利用 Movavi 進行高效音樂轉換</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-files-to-mp3-instantly-with-movavis-free-online-tool/"><u>Convert Files to MP3 Instantly with Movavi's Free Online Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-memorable-home-videos-using-movavis-editing-software/"><u>Crafting Memorable Home Videos Using Movavi's Editing Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-optimal-performance-nvidias-geforce-rtx-3080-drivers-on-windows-7810-download/"><u>Get Optimal Performance: NVIDIA's GeForce RTX 3080 Drivers on Windows 7/8/10 (Download)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-youtubing-timetables-the-definitive-guide-to-optimal-video-publishing-times/"><u>Mastering YouTubing Timetables - The Definitive Guide to Optimal Video Publishing Times</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavis-web-based-media-transcoder-change-your-files-to-mp4avi-for-free/"><u>Movavi's Web-Based Media Transcoder: Change Your Files to MP4/AVI for Free</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-through-modern-cameras-complex-shooting-modes/"><u>Navigating Through Modern Camera's Complex Shooting Modes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/telecharger-et-convertir-des-fichiers-de-film-qt-en-format-mov-facilement-moovee/"><u>Télécharger Et Convertir Des Fichiers De Film QT en Format MOV Facilement - Moovee</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-12-herramientas-de-edicion-para-camaras-gopro-guia-completa/"><u>Top 12 Herramientas De Edición Para Cámaras GoPro: Guía Completa</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-for-zoom-crashes-on-windows-operating-systems/"><u>Troubleshooting Guide for Zoom Crashes on Windows Operating Systems</u></a></li>
+</ul></div>
 

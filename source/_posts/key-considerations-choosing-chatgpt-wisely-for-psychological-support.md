@@ -1,7 +1,7 @@
 ---
 title: "Key Considerations: Choosing ChatGPT Wisely for Psychological Support"
-date: 2024-12-09T16:46:43.451Z
-updated: 2024-12-14T18:03:42.631Z
+date: 2024-12-19T19:08:31.575Z
+updated: 2024-12-23T18:29:14.848Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is a Vector Database?
 
  A vector database is a way to store information through the use of vectors. Unlike the usual form of databases that organize data as tabulated lists, vector databases organize data through high-dimensional vectors. These vectors can then be represented in mathematical space as vector embeddings.
@@ -38,18 +34,26 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
  Vector databases are services that can easily be integrated with a pre-trained model, many of which will need an[API key to access the service](https://www.makeuseof.com/chatgpt-api-complete-guide/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are Vector Embeddings
 
  In simple terms, vector embeddings, or simply embeddings, are numerical representations of a subject or a word. For example, a two-dimensional embedding might look like "2, -3", where 2 represents two units in the positive direction along the x-axis, while -3 represents a negative three units along the y-axis. While a three-dimensional embedding would look like "2, -3, 5", where five places the data point 5 units in the positive direction of the z-axis.
 
 ![Two and three dimensional vectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/dimensional-vector.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
 
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Are Vector Embeddings Important?
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
  Having the ability to plot the location of data in mathematical space allows computers to understand the relationship between data points and how strongly correlated they are to each other. By knowing the degree of correlation between each data point, an AI model will have the capability to understand queries in a contextual manner like a human would.
 
  Without understanding semantics or context, an AI may provide logically correct but contextually wrong answers. For example, the AI may misinterpret the phrase "He had a heavy heart as he walked away" as a guy with a heart condition instead of a guy feeling sad or burdened.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Vector Databases Help Boost AI
 
@@ -68,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 * **Recommendation Systems:** With vector databases extremely efficient at storing and retrieving data in combination with a large language model and memory, an AI system may learn things a person likes over time. This can then be automatically queried by an application to recommend various things that may interest a person.
 * **Image and Video Analysis:** With video and image embedding models, AI models can be fine-tuned to work with images to find items that look similar to the query. This is currently being implemented in many online shopping apps and websites.
 * **Anomaly Detection:** By recording actions as embeddings, an[AI model can make the world more secure](https://www.makeuseof.com/ai-cybersecurity-making-world-more-secure/) by detecting anomalies and certain outliers based on the norm. AI Anomaly detection is now a popular tool for fraud detection, system monitoring, and network intrusion.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How a Vector Database Works
 
@@ -86,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 1. **Creation of vector embeddings:** Based on the type of data, a vector embedding model is used to generate vector embeddings to be indexed. These embedding models are what turn words, images, videos, and audio into numbers/embeddings.
 2. **Indexing:** Once vector embeddings have been generated, they can now be stored on a vector database such as Pinecone, Milvus, and Chroma. These vector databases use various algorithms, such as product quantization (PQ) and locality-sensitive hashing (LSH), to index each embedding for quick and efficient storing and retrieval of data.
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Popular Vector Databases
 
@@ -121,22 +121,24 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/10-critical-strategies-for-dynamic-cover-designs-for-2024/"><u>10 Critical Strategies for Dynamic Cover Designs for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-digital-diversions-games-like-grand-theft-auto-v/"><u>2024 Approved Digital Diversions Games Like Grand Theft Auto V</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/diy-tricks-overcoming-doom-eternal-initial-launch-issues/"><u>DIY Tricks: Overcoming DOOM Eternal Initial Launch Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-silent-menace-solving-the-no-audio-issue-in-evil-genius-2/"><u>Fixing Silent Menace: Solving the 'No Audio' Issue in Evil Genius 2</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gain-superior-insights-with-free-copilot-on-turbo/"><u>Gain Superior Insights with Free Copilot on Turbo</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-dji-phantom-3-an-overview-review/"><u>In 2024, DJI Phantom 3 - An Overview Review</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-13-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 13? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/revamping-videography-the-story-of-nikon-1j5s-4k-achievement/"><u>Revamping Videography The Story of Nikon 1J5’s 4K Achievement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-step-by-step-tutorial-creating-animated-gifs-from-images-using-your-computer/"><u>Simple Step-by-Step Tutorial: Creating Animated GIFs From Images Using Your Computer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-steps-how-to-download-your-own-youtube-videos-with-privacy/"><u>Simple Steps: How to Download Your Own YouTube Videos with Privacy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-steps-transforming-flac-files-into-aac-format-across-pc-mac-and-online-services/"><u>Simple Steps: Transforming FLAC Files Into AAC Format Across PC, Mac & Online Services</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-adding-images-to-your-youtube-videos-as-an-engaging-picture-slideshow/"><u>Step-by-Step Guide: Adding Images to Your YouTube Videos as an Engaging Picture Slideshow</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-mpeg-videos-to-mp4-format-across-different-systems-latest-techniques/"><u>Step-by-Step Guide: Converting MPEG Videos to MP4 Format Across Different Systems – Latest Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-integrating-sound-into-your-adobe-after-effects-project/"><u>Step-by-Step Guide: Integrating Sound Into Your Adobe After Effects Project</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-the-cyanfluence-addon-for-kodi-version-19-matrix/"><u>Step-by-Step Guide: Setting Up the Cyanfluence Addon for Kodi Version 19 Matrix</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-the-iconic-19-core-addon-in-kodi-version-19-matrix/"><u>Step-by-Step Guide: Setting Up the Iconic 19 Core Addon in Kodi Version 19 Matrix</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-depth-look-at-screenrec-your-laptops-best-friend/"><u>[New] In-Depth Look at ScreenRec Your Laptop's Best Friend</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-5-slow-motion-capturers/"><u>[New] Ultimate 5 Slow Motion Capturers</u></a></li>
+<li><a href="https://games-able.techidaily.com/bringing-past-hits-to-present-xemus-role-in-pc-gaming/"><u>Bringing Past Hits to Present: Xemu's Role in PC Gaming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-your-next-viewing-strategies-with-chatgpt/"><u>Choosing Your Next Viewing: Strategies with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cognition-computation-showdown-deciphering-gpt-and-bert/"><u>Cognition Computation Showdown: Deciphering GPT & BERT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/da-vinci-reimagined-the-most-inspiring-prompts-by-ai/"><u>Da Vinci Reimagined: The Most Inspiring Prompts by AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-gpt-as-a-malware-creation-tool/"><u>Debunking GPT as a Malware Creation Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/debunking-myths-gpt-pc-app-wrongly-categorized/"><u>Debunking Myths: GPT PC App Wrongly Categorized</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-why-ios-gets-the-preferential-treatment-in-gpt/"><u>Discovering Why iOS Gets the Preferential Treatment in GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-setup-tutorial-activating-your-account-for-microsoft-bings-smart-search-features/"><u>Easy Setup Tutorial: Activating Your Account for Microsoft Bing's Smart Search Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-writing-productivity-the-ultimate-list-of/"><u>Elevate Writing Productivity: The Ultimate List Of</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-ux-through-tailored-personas-with-chatgpt-aid/"><u>Enhance UX Through Tailored Personas with ChatGPT Aid</u></a></li>
+<li><a href="https://win-news.techidaily.com/essential-introduction-navigating-vmwares-vsphere-cli-as-a-novice-user/"><u>Essential Introduction: Navigating VMware's vSphere CLI as a Novice User</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-ai-variants-the-distinctive-roles-of-public-private-and-personal-ais/"><u>Exploring AI Variants: The Distinctive Roles of Public, Private, and Personal AIs</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/ico-investment-strategies-for-beginners-insights-from-leading-tech-firm-yl-software/"><u>ICO Investment Strategies for Beginners: Insights From Leading Tech Firm, YL Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/iconic-meme-blueprints-of-the-year/"><u>Iconic Meme Blueprints of the Year</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 without Passcode or Face ID</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resident-evil-village-troubleshooting-fixing-common-sound-problems/"><u>Resident Evil Village Troubleshooting: Fixing Common Sound Problems</u></a></li>
 </ul></div>
 

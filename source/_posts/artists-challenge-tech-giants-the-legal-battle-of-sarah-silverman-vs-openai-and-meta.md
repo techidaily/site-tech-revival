@@ -1,7 +1,7 @@
 ---
 title: "Artists Challenge Tech Giants: The Legal Battle of Sarah Silverman Vs. OpenAI & Meta"
-date: 2024-09-05T12:47:25.365Z
-updated: 2024-09-06T12:47:25.365Z
+date: 2024-12-18T17:55:48.475Z
+updated: 2024-12-23T16:24:58.814Z
 tags:
   - chatgpt
   - open-ai
@@ -24,17 +24,9 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 ![In Solve the Murders, you play a detective who has chat with AI suspects in a murder mystery to find out who the killer is](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-solve-the-murders.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Author Screenshot by Mihir Patkar - No attribution required
 
  Solve the Murders is based on a similar large language model as ChatGPT, where you play a detective who has to solve the murder mystery by chatting with AI-generated bots. At the start, you'll be given a list of facts about the murder and the players involved.
@@ -44,21 +36,17 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2.[Gron](https://www.gron.games/game) (Web): Retro RPG Game to Find Clues and Chat With Suspects
 
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Author Screenshot by Mihir Patkar - No attribution required
 
  You already know that[ChatGPT can create fictional characters](https://www.makeuseof.com/chatgpt-prompts-to-develop-book-characters/) to talk with or let you chat with existing famous characters once the right data is fed. Gron leverages this power to make a murder mystery game like an old-school 8-bit RPG.
@@ -67,18 +55,6 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3.[Mystery-o-Matic](https://mystery-o-matic.com/) (Web): New Murder Mystery Generated Daily Randomly
 
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
@@ -92,14 +68,16 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4.[Murdle](https://murdle.com/) (Web): Daily Murder Mystery Logic Puzzles
 
 ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -109,26 +87,17 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 
  You play as Detective Logico and are given a series of clues and evidence, which you can use with the cross-referencing charting to match suspects, locations, and weapons. It's best to start off with the mini-Murdle tutorial and then get to the daily puzzles. When you're ready to make your accusation, you'll need to say who the murderer was, how they did it, and where the ghastly act took place.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Create Your Own ChatGPT Murder Mystery
 
  Yes, you can create a murder mystery game with ChatGPT by yourself. These murder mystery apps relieve you of the burden of giving the AI base information and data and then figuring out the best prompts to have it generate a mystery. But if you're willing to learn those skills, you can soon set up a few templates of your own and construct a custom ChatGPT mystery.
 
  A good place to learn how to set up these prompts is Reddit. On r/ChatGPT, you'll find posts like creating a murder mystery with the characters of the sitcom Friends or the mystery inspired by the game Clue. How cool would it be to play a murder mystery based on your favorite fictional characters?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +106,24 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-does-recording-your-viewed-youtube-content-violate-laws-for-2024/"><u>[Updated] Does Recording Your Viewed YouTube Content Violate Laws for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-essential-apps-to-extract-and-save-your-vimeo-videos-for-2024/"><u>[Updated] Essential Apps to Extract and Save Your Vimeo Videos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-inside-the-action-camera-revolution-a-yi-4k-journey/"><u>[Updated] In 2024, Inside the Action Camera Revolution A Yi 4K Journey</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-syncing-sound-transferring-music-directly-to-youtube/"><u>[Updated] In 2024, Syncing Sound Transferring Music Directly to YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-external-microphones-to-elevate-film-quality/"><u>2024 Approved External Microphones to Elevate Film Quality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/como-combinar-y-mezclar-tu-obra-musical-con-estos-10-mejores-herramientas-en-linea/"><u>Cómo Combinar Y Mezclar Tu Obra Musical Con Estos 10 Mejores Herramientas en Línea</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convierta-facilmente-sus-audios-ogg-a-formato-mp3-sin-costo-alguno-utilizando-la-solucion-online-de-movavi/"><u>Convierta Fácilmente Sus Audios OGG a Formato MP3 Sin Costo Alguno, Utilizando La Solución Online De Movavi</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-g54-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola G54 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-web-based-converter-change-flv-files-into-mpeg-format-with-ease/"><u>Free Web-Based Converter: Change FLV Files Into MPEG Format with Ease</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-curve-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Lava Blaze Curve 5G Bootloader Easily</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4-video-format-transformation-from-vob-no-cost-solution-by-movavi/"><u>MP4 Video Format Transformation From VOB - No Cost Solution by Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-gratuite-converteertool-van-mp4-naar-vob-per-movavi/"><u>Online Gratuite Converteertool Van MP4 Naar VOB per Movavi</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-7-hydro-resistant-camcorders-explored/"><u>Top 7 Hydro-Resistant Camcorders Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-professional-auto-editing-software-for-your-vehicles-videos-embrace-the-latest-video-trends/"><u>Top 7 Professional Auto-Editing Software for Your Vehicle's Videos - Embrace the Latest Video Trends</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-videos-from-mov-to-mjpeg-for-free-quick-tutorial-with-movavi/"><u>Transform Videos From MOV to MJPEG for Free - Quick Tutorial with Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-astro-a40-microphone-issues/"><u>Troubleshooting Guide: Fixing Astro A40 Microphone Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726223505434-aifc-m4r-movavi/"><u>オンラインで手軽にAIFC M4Rへ変換! Movaviの特別機能レポート</u></a></li>
+</ul></div>
 

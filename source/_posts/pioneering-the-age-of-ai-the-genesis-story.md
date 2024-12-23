@@ -1,7 +1,7 @@
 ---
 title: "Pioneering the Age of AI: The Genesis Story"
-date: 2024-12-10T17:42:20.489Z
-updated: 2024-12-14T16:56:15.815Z
+date: 2024-12-20T16:17:26.931Z
+updated: 2024-12-23T17:31:20.949Z
 tags:
   - chatgpt
   - open-ai
@@ -27,13 +27,13 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 ![artificial intelligence brain connected to human being](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-4389372_1920-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do People Use ChatGPT?
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
  These examples might make you think there’s[no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/) . However, that’s not an accurate assumption.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will ChatGPT Replace Programmers?
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some[criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) , ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Will ChatGPT Replace Other Jobs?
@@ -107,18 +107,18 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-broadcast-podcast-episode-via-insta-story/"><u>2024 Approved Broadcast Podcast Episode via Insta Story</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-art-generation-how-to-combine-dall-e-with-the-power-of-chatgpt-4/"><u>AI Art Generation: How to Combine DALL-E with the Power of ChatGPT-4</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-ai-assistants-like-chatgpt-guide-you-in-preparing-wholesome-delicious-dishes/"><u>Can AI Assistants Like ChatGPT Guide You in Preparing Wholesome, Delicious Dishes?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-8-alternative-chatgpt-jobs-can-they-boost-your-income/"><u>Exploring 8 Alternative ChatGPT Jobs: Can They Boost Your Income?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/four-legal-frameworks-governing-ai-technology/"><u>Four Legal Frameworks Governing AI Technology</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-motorola-moto-g23-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Motorola Moto G23 Without PUK Codes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/machine-mastery-comparing-translations-of-two-giants/"><u>Machine Mastery: Comparing Translations of Two Giants</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/missing-pages-alert-understanding-the-http-404-error/"><u>Missing Pages Alert: Understanding the HTTP 404 Error</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-premier-guide-to-high-definition-android-viewing-tools-for-2024/"><u>The Premier Guide to High-Definition Android Viewing Tools for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-a-new-world-of-sound-the-top-15-movies-featuring-dolby-atmos-technology-perfect-for-in-home-enjoyment/"><u>Unlock a New World of Sound: The Top 15 Movies Featuring Dolby Atmos Technology, Perfect for In-Home Enjoyment</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-secrets-of-openais-bug-bounty-scheme-tips-for-active-contributors/"><u>Unlocking the Secrets of OpenAI’s Bug Bounty Scheme: Tips for Active Contributors</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhanced-engagement-with-effective-youtube-video-outros-strategies/"><u>[New] 2024 Approved Enhanced Engagement with Effective YouTube Video Outros Strategies</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ecome-a-viral-sensation-maximizing-your-youtube-reach-for-2024/"><u>[New] Become a Viral Sensation Maximizing Your YouTube Reach for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-exploring-all-facets-of-adobes-digital-data-vaulting-with-best-alternates-at-hand/"><u>[Updated] In 2024, Exploring All Facets of Adobe's Digital Data Vaulting, With Best Alternates at Hand</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-introducing-low-tier-sound-diminution-tricks-with-audacity/"><u>[Updated] In 2024, Introducing Low-Tier Sound Diminution Tricks with Audacity</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-crafting-a-successful-vimeo-earning-model-a-comprehensive-guide/"><u>2024 Approved Crafting a Successful Vimeo Earning Model – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-a-co-host-transforming-my-podcasts-storytelling-approach/"><u>ChatGPT as a Co-Host: Transforming My Podcast's Storytelling Approach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatting-with-future-tech-diving-into-mistral-ais-le-chat-and-its-comparison-to-chatgpt/"><u>Chatting with Future Tech: Diving Into Mistral AI's Le Chat and Its Comparison to ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/clearing-out-a-detailed-tutorial-for-account-deletion-on-chatgpt-services/"><u>Clearing Out: A Detailed Tutorial for Account Deletion on ChatGPT Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dall-e-3-introduces-new-editing-functionality-a-look-at-progress-and-limitations/"><u>DALL-E 3 Introduces New Editing Functionality - A Look at Progress & Limitations</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-permission-errors-a-step-by-step-guide-on-windows/"><u>Resolving Permission Errors: A Step-by-Step Guide on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrade-or-stay-comparing-iphone-15-and-iphone-16-essentials-for-apples-latest-base-version-expert-insights/"><u>Upgrade or Stay? Comparing iPhone 15 and iPhone 16 Essentials for Apple's Latest Base Version | Expert Insights</u></a></li>
 </ul></div>
 

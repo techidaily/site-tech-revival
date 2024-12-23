@@ -1,7 +1,7 @@
 ---
 title: "Deciphering Distinctions: GPT-4 Vs. GPT-4x Versions Explained"
-date: 2024-12-12T16:18:49.482Z
-updated: 2024-12-14T16:27:13.667Z
+date: 2024-12-18T16:50:05.189Z
+updated: 2024-12-23T17:20:38.113Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is ChatGPT's Chat History and Training Feature?](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#what-is-chatgpt-39-s-chat-history-and-training-feature)
@@ -31,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 * [ChatGPT Data Collection You Can't Opt Out From](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#chatgpt-data-collection-you-can-39-t-opt-out-from)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -43,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
  While ChatGPT is a fantastic AI tool, certain privacy concerns have surrounded it since its November 2022 launch. One such concern is OpenAI's use of user chat data to further train its LLMs.
 
  But worry not; you can opt out of having your chat data used, keeping your ChatGPT conversations private.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is ChatGPT's Chat History and Training Feature?
 
@@ -64,13 +64,13 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 
 ![chatgpt sidebar menu options list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-sidebar-menu-options-list.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  First, click on your profile name at the bottom-left of the main page and head to**Settings & Beta** .
 
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In your settings, click on the**Data controls** option. Now, you'll see a setting named**Chat history & training** . This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
 
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Data Collection You Can't Opt Out From
@@ -115,24 +115,21 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-free-facebook-linker-top-8-options-available-online/"><u>[New] Free Facebook Linker Top 8 Options Available Online</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-fun-filled-photography-how-to-use-lens-on-snapchat-for-playfulness/"><u>[New] In 2024, Fun-Filled Photography How To Use Lens on Snapchat for Playfulness</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/layback-in-reverse-the-ultimate-youtube-playlist-technique/"><u>[New] Playback in Reverse The Ultimate YouTube Playlist Technique</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premium-panzoid-structure-packs/"><u>[New] Premium Panzoid Structure Packs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-a-comprehensible-approach-to-personal-branding-in-the-youtube-sphere-for-2024/"><u>[Updated] A Comprehensible Approach to Personal Branding in the YouTube Sphere for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>2024 Approved Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/handbrakeiso-to-mp4/"><u>無料ツールHandBrakeを使ったISO to MP4変換ガイド</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-defy-2-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Defy 2</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cinemas-best-bits-select-snippets-for-edits-for-2024/"><u>Cinema’s Best Bits Select Snippets for Edits for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discuss-membership-benefits-in-organizations-like-smartertravel-for-discounted-access-to-experiences-worldwide/"><u>Discuss Membership Benefits in Organizations Like SmarterTravel for Discounted Access to Experiences Worldwide.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/diy-tutorial-free-tools-for-quickly-resizing-your-wav-music-files/"><u>DIY Tutorial: Free Tools for Quickly Resizing Your WAV Music Files</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easily-transform-videos-into-wav-format-a-three-step-guide/"><u>Easily Transform Videos Into WAV Format: A Three-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-guide-to-crafting-sound-files-on-windows-mac-iphone-and-android-devices/"><u>Easy Guide to Crafting Sound Files on Windows, Mac, iPhone & Android Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-conversion-of-videots-folders-into-mov-format-a-step-by-step-guide/"><u>Effortless Conversion of Video_TS Folders Into MOV Format – A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-guide-transforming-dvds-into-avi-files-step-by-step/"><u>Effortless Guide: Transforming DVDs Into AVI Files Step-by-Step</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-contrast-between-privately-held-and-unlisted-content-on-youtube-platforms/"><u>Exploring the Contrast Between Privately-Held and Unlisted Content on YouTube Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/high-definition-dvd-ripping-tutorial-for-creating-wmv-format-videos-using-windows-software/"><u>High Definition DVD Ripping Tutorial for Creating WMV Format Videos Using Windows Software</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-ensuring-seamless-airdrop-transfers-tips-and-fixes-ios-plus-macos/"><u>In 2024, Ensuring Seamless AirDrop Transfers Tips and Fixes (iOS + macOS)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-export-iphone-images-as-pdf-from-jpeg-and-png-files/"><u>[Updated] How to Export iPhone Images as PDF From JPEG & PNG Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-the-power-of-pause-tips-for-slow-motion-video-using-photo-apps/"><u>[Updated] Unleash the Power of Pause Tips for Slow-Motion Video Using Photo Apps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-fact-sheet-for-youtube-premium-users/"><u>2024 Approved The Ultimate Fact Sheet for YouTube Premium Users</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/efficient-methods-for-moving-videos-onto-your-samsung-galaxy-note-3/"><u>Efficient Methods for Moving Videos Onto Your Samsung Galaxy Note 3</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-incorporating-itunes-vibes-into-videos/"><u>In 2024, Incorporating iTunes Vibes Into Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-secure-to-use-external-chatgpt-programs-and-plugins-on-your-browsers/"><u>Is It Secure to Use External ChatGPT Programs and Plugins on Your Browsers?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-ai-generated-prompts-tools-you-cant-miss/"><u>Leading AI Generated Prompts Tools You Can't Miss</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-chatgpt-queries-and-snippets-compiled-from-githubs-treasure-trove/"><u>Leading ChatGPT Queries & Snippets Compiled From GitHub's Treasure Trove</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-ai-for-poetic-excellence-the-chatgpt-method/"><u>Leveraging AI for Poetic Excellence: The ChatGPT Method</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-art-of-tales-harnessing-chatgpts-power-for-engaging-stories/"><u>Master the Art of Tales: Harnessing ChatGPT's Power for Engaging Stories</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-your-conversations-gpt-plus-a-premium-plan-for-us-citizens-20mth/"><u>Master Your Conversations: GPT-Plus, a Premium Plan for US Citizens ($20/Mth)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-machine-talk-comparing-gpt-and-bingbot/"><u>Mastering Machine Talk: Comparing GPT and BingBot</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-when-your-laptops-mouse-wont-respond-a-comprehensive-fix/"><u>Solutions for When Your Laptop's Mouse Won’t Respond: A Comprehensive Fix</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-all-rounder-for-gamers-unveiling-the-potential-of-the-cost-effective-dell-g5-a-comprehensive-analysis/"><u>The All-Rounder for Gamers: Unveiling the Potential of the Cost-Effective Dell G5 ☕️💻 - A Comprehensive Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-free-ebook-download-platforms-and-apps/"><u>Top Free Ebook Download Platforms & Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-optimal-image-adjustments-on-your-samsung-qled-4k-display/"><u>Ultimate Guide: Optimal Image Adjustments on Your Samsung QLED 4K Display</u></a></li>
 </ul></div>
 

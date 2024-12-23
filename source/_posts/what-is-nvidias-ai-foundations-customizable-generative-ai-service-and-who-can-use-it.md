@@ -1,7 +1,7 @@
 ---
 title: What Is NVIDIA's AI Foundations Customizable Generative AI Service and Who Can Use It?
-date: 2024-12-11T17:01:25.779Z
-updated: 2024-12-14T17:39:43.767Z
+date: 2024-12-19T18:58:54.301Z
+updated: 2024-12-23T17:00:36.738Z
 tags:
   - chatgpt
   - open-ai
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
  There's a lot to get through, and we don't want you to miss out—so we’ve explored the latest ChatGPT update to see how it will impact your experience with the AI chatbot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The Arrival of GPT-4 Turbo
@@ -46,11 +46,11 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
 ![chatgpt4 turbo data cut off point question november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt4-turbo-data-cut-off-point-question-november-2023.jpg)
 
- Also, ChatGPT Plus users can rejoice—the cumbersome dropdown menu for switching between models will soon be retired. ChatGPT’s upgraded multimodal skills owing to GPT-4 Turbo’s upgrades will allow it to automatically select the optimal model for a given task, goodbye to manual toggling. This improvement may seem minor, but power users will appreciate not having to constantly switch models mid-conversation.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Also, ChatGPT Plus users can rejoice—the cumbersome dropdown menu for switching between models will soon be retired. ChatGPT’s upgraded multimodal skills owing to GPT-4 Turbo’s upgrades will allow it to automatically select the optimal model for a given task, goodbye to manual toggling. This improvement may seem minor, but power users will appreciate not having to constantly switch models mid-conversation.
 
 ## 2\. Ability to Create Custom GPTs
 
@@ -58,11 +58,11 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
 ![chatgpt custom gpt model football manager example november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-november-2023.jpg)
 
-![chatgpt custom gpt model football manager example with suggestions november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-with-suggestions-november-2023.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![chatgpt custom gpt model football manager example with suggestions november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-with-suggestions-november-2023.jpg)
 
 Close
 
@@ -71,7 +71,7 @@ Close
  You could make other custom GPTs as well, like one for movie recommendations primed with a database of films. Then prompt your custom movie bot anytime you want a recommendation. The best part is that you’ll eventually be able to share these specialized GPTs publicly and potentially profit when others find them useful. Custom GPTs allow you to easily customize ChatGPT for specialized purposes beyond its general knowledge without the need to write any code.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use Pre-Listed GPTs
@@ -80,11 +80,11 @@ Close
 
 ![list of new integrated chatgpt bots november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/list-of-new-integrated-chatgpt-bots-november-2023.jpg)
 
- With so many to select from, you can find a tailored GPT for nearly any purpose you can imagine. Options include a Creative Writing Coach to provide feedback on your work, a Math Mentor to explain complex concepts, and a Trip Planner to craft your perfect vacation. You can even get a Laundry Buddy for stain help or a Game Time assistant to explain the rules for family game night. Each prebuilt option has niche expertise to deliver superior performance for prompts related to its focus area. With this expansive range of GPTs, you can easily find a customized AI with the ideal skills and knowledge to supercharge prompting in your unique domain of interest. GPTs allow you to tap into the power of customized AI without the effort of creating your own.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ With so many to select from, you can find a tailored GPT for nearly any purpose you can imagine. Options include a Creative Writing Coach to provide feedback on your work, a Math Mentor to explain complex concepts, and a Trip Planner to craft your perfect vacation. You can even get a Laundry Buddy for stain help or a Game Time assistant to explain the rules for family game night. Each prebuilt option has niche expertise to deliver superior performance for prompts related to its focus area. With this expansive range of GPTs, you can easily find a customized AI with the ideal skills and knowledge to supercharge prompting in your unique domain of interest. GPTs allow you to tap into the power of customized AI without the effort of creating your own.
 
 ## ChatGPT’s Evolution Continues
 
@@ -107,20 +107,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-through-the-10-leading-countdown-clock-apps-for-your-big-day-androidios/"><u>[New] Navigating Through the 10 Leading Countdown Clock Apps for Your Big Day (Android/iOS)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-select-4-websites-easy-skype-tone-downloads/"><u>[Updated] In 2024, Select 4 Websites Easy Skype Tone Downloads</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-snapshot-spectaculars-an-experts-review-of-recorders/"><u>[Updated] In 2024, Snapshot Spectaculars An Expert's Review of Recorders</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-xsplit-direct-insight-and-evaluation-guide/"><u>[Updated] In 2024, XSplit Direct Insight & Evaluation Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-and-academic-success-tips-on-proper-usage-for-students/"><u>ChatGPT and Academic Success: Tips on Proper Usage for Students</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cleanse-tweets-of-cursive-symbols-linuss-disclosures-trojan-explanation-and-chatbot-issues/"><u>Cleanse Tweets of Cursive Symbols, Linus’s Disclosures, Trojan Explanation, & ChatBot Issues.</u></a></li>
-<li><a href="https://win-help.techidaily.com/future-of-free-updates-ending-microsoft-plans-to-introduce-charges-for-windows-amo-updates-estimated-costs-revealed/"><u>Future of Free Updates Ending? Microsoft Plans to Introduce Charges for Windows Amo! Updates - Estimated Costs Revealed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-ahead-of-the-curve-in-hr-management-with-these-5-quick-gpt-strategies/"><u>Get Ahead of the Curve in HR Management with These 5 Quick GPT Strategies</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastery-over-windows-10s-photo-app-stability-challenges/"><u>In 2024, Mastery Over Windows 10'S Photo App Stability Challenges</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/propel-your-professional-life-with-these-6-chatgpt-insights/"><u>Propel Your Professional Life with These 6 ChatGPT Insights</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-airdrop-problems-in-no-time-learn-from-these-16-proven-fixes/"><u>Resolve AirDrop Problems in No Time – Learn From These 16 Proven Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-complete-insight-into-what-is-openai/"><u>The Complete Insight Into What Is OpenAI?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-top-9-ai-chatbot-myths-debunked/"><u>The Top 9 AI Chatbot Myths Debunked</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-8-solutions-for-retrieve-deleted-imessages-on-your-iphone-expert-reviews-and-comparisons/"><u>Top 8 Solutions for Retrieve Deleted iMessages on Your iPhone - Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-kickstarting-creativity-an-equipment-guide-for-beginners/"><u>[New] Kickstarting Creativity An Equipment Guide for Beginners</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-tagging-strategy-the-list-of-powerful-insta-hashtags/"><u>[New] Tagging Strategy The List of Powerful Insta Hashtags</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-savvy-instagram-usage-how-to-retrieve-free-filters-via-search/"><u>[Updated] 2024 Approved Savvy Instagram Usage How to Retrieve Free Filters via Search</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-easy-gaming-memories-start-recording-now-for-2024/"><u>[Updated] Easy Gaming Memories Start Recording Now for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ultimate-guide-top-online-tools-for-ytvideo-to-text-translation/"><u>[Updated] Ultimate Guide Top Online Tools for YTVideo to Text Translation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bid-goodbye-to-bluetech-troubles-exclusive-fixed-windows-11s-nonstop-bluescreen-issue-heres-how-done/"><u>Bid Goodbye To BlueTech Troubles - Exclusive Fixed Windows 11'S Nonstop Bluescreen Issue – Here’s How! (Done)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-amazon-halo-cutting-edge-insight-into-your-health-and-lifestyle/"><u>Discover the Amazon Halo: Cutting-Edge Insight Into Your Health and Lifestyle</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-enhancing-viewers-staying-power-top-6-strategies-for-youtube-success/"><u>In 2024, Enhancing Viewers' Staying Power Top 6 Strategies for YouTube Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-techniques-integrating-chatgpt-for-enhanced-audiovisual-creation-in-daws/"><u>Innovative Techniques: Integrating ChatGPT for Enhanced Audiovisual Creation in DAWs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introduction-to-creative-computing-what-you-need-to-know-about-generative-ai/"><u>Introduction to Creative Computing: What You Need to Know About Generative AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-real-time-engagement-critical-to-ai-knowledge-growth/"><u>Is Real-Time Engagement Critical to AI Knowledge Growth?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-tailored-user-experiences-a-guide-to-crafting-accurate-personalities/"><u>Leveraging ChatGPT for Tailored User Experiences: A Guide to Crafting Accurate Personalities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/linus-tech-tips-security-breach-a-deep-dive/"><u>Linus Tech Tips Security Breach: A Deep Dive</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-arithmetic-adventures-top-7-artificial-intelligence-resources-for-math-success/"><u>Mastering Arithmetic Adventures: Top 7 Artificial Intelligence Resources for Math Success</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mobile-filmmakers-secrets-creating-viral-thumbnails-for-youtube/"><u>Mobile Filmmaker’s Secrets Creating Viral Thumbnails for YouTube</u></a></li>
 </ul></div>
 

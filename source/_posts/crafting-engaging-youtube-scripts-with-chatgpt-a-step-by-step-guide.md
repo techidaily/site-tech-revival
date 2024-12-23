@@ -1,7 +1,7 @@
 ---
 title: "Crafting Engaging YouTube Scripts with ChatGPT: A Step-by-Step Guide"
-date: 2024-12-12T17:10:44.953Z
-updated: 2024-12-14T17:22:48.173Z
+date: 2024-12-20T18:24:37.293Z
+updated: 2024-12-23T17:12:17.031Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/3e3d11024602b266406d40d71c2e14542454419c9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is GPT-4?
 
  GPT-4, short for[Generating Pre-trained Transformer 4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/) , is the fourth iteration of the GPT family of large language models developed by OpenAI. It is the successor of the GPT-3 model, which powers the viral AI chatbot ChatGPT. GPT-4, like its predecessor, GPT-3, is designed to generate human-like text, complete tasks such as summarization and language translation, and even generate creative writing such as poetry, lyrics for music, and fiction.
@@ -44,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/3e3d11024602b266406d40d71c2e14542454419c9
 
  For the free tier users, to get started with GPT-4, you'll need a ChatGPT Plus subscription. So, how do you upgrade to ChatGPT Plus?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Upgrade to ChatGPT Plus
 
 To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
@@ -57,30 +57,30 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 ![Upgrade to ChatGPT+](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/upgrade-to-chatgpt.jpg)
 3. You'll get a pop-up comparing the free plan and the ChatGPT Plus plan. Tap on the green**Upgrade Plan** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT plus comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-comparison.jpg)
 4. Up next, you'll be redirected to a page to provide your credit card details and other billing information. Provide all the required information and make payment.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Once your payment has been confirmed, you should now have access to the OpenAI GPT-4 model alongside the older GPT-3.5 default and GPT-3.5 legacy models.
 6. Choose the GPT-4 model from the drop-down on your ChatGPT chat interface, select the mode you want, and start using GPT-4 with ChatGPT.  
 ![screenshot of ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-code-interpreter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  One way to be sure you're using the GPT-4 model instead of the older models is to check the color of the OpenAI logo that precedes ChatGPT's responses. GPT-3.5 model responses are preceded with a green-white logo, while GPT-4 responses are preceded with a black-white logo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Difference Between GPT-3.5 and GPT-4?
 
  GPT-4 stands out from previous versions in two major ways: it demonstrates considerably enhanced capabilities, yet it imposes an unpopular, restrictive message quota.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Performance Improvement
 
@@ -89,6 +89,10 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
  Also, writing entire blocks of functional code took several iterations to get right with GPT-3.5\. With GPT-4, you could write entire apps with single prompts, and you'd sometimes not need to debug any piece of it to get it working. Just copy, paste, and run.
 
  GPT-4 is a multimodal AI model with a significantly larger context window, able to process both text and image inputs. Its full capabilities were demoed during the official GPT-4 announcement event but have not been pushed to the public, likely due to a shortage of computer chips needed to back the massive amount of compute power required for such features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Usage Cap
 
@@ -103,10 +107,6 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
  Bing Chat's GPT-4 isn't much different from ChatGPT's version. If anything, Bing's internet connection gives it access to much more up-to-date and relevant data and can produce more timely and relevant information as a result. ChatGPT, on the other hand, is limited by the cut-off date of its knowledge base. So, unless you're using ChatGPT plugins that can access and retrieve live data from the internet, you could say Bing's implementation of the GPT-4 model provides much more current data.
 
  Bing Chat aside, whether GPT-4 will ever be available for ChatGPT free tier users is unclear. GPT-4 is already several months post-release, and there is no indication that OpenAI will make GPT-4 generally available as a free offering. However, since OpenAI is already making the GPT-4 model available to third-party developers, you can use GPT-4 in a limited capacity through third-party apps powered by GPT-4.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## GPT-4: Is It Worth the Hype?
 
@@ -129,14 +129,20 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-add-music-or-voiceover-to-instagram-reels-for-2024/"><u>[New] How to Add Music or Voiceover to Instagram Reels for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-curated-selection-of-top-10-luts-for-lightroom/"><u>[Updated] A Curated Selection of Top 10 LUTs for LightRoom</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-cutting-ties-with-instagram-navigating-a-permanent-exit-strategy/"><u>[Updated] In 2024, Cutting Ties with Instagram Navigating a Permanent Exit Strategy</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unveiling-the-secrets-to-creating-an-enterprise-instagram-profile/"><u>2024 Approved Unveiling the Secrets to Creating an Enterprise Instagram Profile</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciding-on-bilingual-ai-help-should-you-use-bing-or-chatgpt-10-factors/"><u>Deciding on Bilingual AI Help: Should You Use Bing or ChatGPT? 10 Factors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-ai-interactions-in-browsers-with-the-top-7-chatgpt-enabled-chrome-add-ons/"><u>Elevate AI Interactions in Browsers with the Top 7 ChatGPT-Enabled Chrome Add-Ons</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-the-benefits-of-chatgpt-plus-subscription-is-it-essential/"><u>Evaluating the Benefits of ChatGPT Plus Subscription – Is It Essential?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a59-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo A59 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-opening-cmd-on-windows-7-8-10-and-11-with-ease/"><u>Master Opening CMD on Windows 7, 8, 10 & 11 with Ease</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-creating-captivating-youtube-thumbnails-for-mac-users/"><u>[New] In 2024, Creating Captivating YouTube Thumbnails for Mac Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-ig-post-featuring-podcast-insight/"><u>[New] Quick IG Post Featuring Podcast Insight</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-screencasting-solutions-a-compreited-review-of-the-best-on-mac/"><u>[New] Top Screencasting Solutions A Compreited Review of the Best on Mac</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-navigating-the-metaverse-with-a-quick-avatar-design/"><u>[Updated] Navigating the Metaverse with a Quick Avatar Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-the-norm-play-xbox-without-controllers/"><u>Breaking the Norm: Play Xbox Without Controllers</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/enhancing-tiktoks-with-customizable-video-subtitles/"><u>Enhancing TikToks with Customizable Video Subtitles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-idea-to-audio-my-journey-of-scripting-a-podcast-with-the-help-of-chatgpt/"><u>From Idea to Audio: My Journey of Scripting a Podcast with the Help of ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guarding-against-data-leaks-how-neural-network-model-inversions-pose-a-danger-to-chatbots/"><u>Guarding Against Data Leaks: How Neural Network Model Inversions Pose a Danger to Chatbots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-artificial-intelligence-is-set-to-transform-programmer-work-processes/"><u>How Artificial Intelligence Is Set to Transform Programmer Work Processes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-7-plus-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-use-your-vocal-cords-controlling-chatgpt-with-just-words/"><u>How To Use Your Vocal Cords - Controlling ChatGPT with Just Words</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/immediate-remedies-for-real-time-gpt-errors/"><u>Immediate Remedies for Real-Time GPT Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-chatbots-clash-assessing-if-claude-surpasses-chatgpt-in-ai-prowess/"><u>Innovative Chatbots Clash: Assessing If Claude Surpasses ChatGPT in AI Prowess</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/llama-2-local-setup-instructions-for-beginners-and-pros-alike/"><u>Llama 2 Local Setup Instructions for Beginners and Pros Alike</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-selection-of-premium-led-strip-solutions-for-2hren-2024-reviewed-and-ranked/"><u>Ultimate Selection of Premium LED Strip Solutions for 2Hren - 2024 Reviewed and Ranked!</u></a></li>
 </ul></div>
 

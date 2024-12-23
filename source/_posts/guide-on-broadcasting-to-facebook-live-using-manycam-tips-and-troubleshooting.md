@@ -1,7 +1,7 @@
 ---
 title: "Guide on Broadcasting to Facebook Live Using ManyCam: Tips & Troubleshooting"
-date: 2024-09-05T12:40:36.308Z
-updated: 2024-09-06T12:40:36.308Z
+date: 2024-12-22T18:37:35.312Z
+updated: 2024-12-23T16:15:35.722Z
 tags:
   - product
   - solution
@@ -10,28 +10,14 @@ categories:
 thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce093f59dcdf2b6479e3403f82d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Guide on Broadcasting to Facebook Live Using ManyCam: Tips & Troubleshooting
 
 ManyCam Special – Up to 25% OFF Upgrade Now 
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## We're here to help!
 
 Search For ![Searching...](https://help.manycam.com/wp-content/themes/manycam_help_newdesign/img/loading.svg) Search 
@@ -620,59 +606,44 @@ Facebook offers two options for streaming. You can either stream through RTMP in
 
 * Press the **Live Streaming** button to start setting up your stream.![](https://help.manycam.com/wp-content/uploads/2016/12/1.png)
 * Click **Login** to link ManyCam to your Facebook account. Make sure you are logged into your Facebook account in a browser.![](https://help.manycam.com/wp-content/uploads/2016/12/2-1.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * You will be transferred to your Facebook profile to configure permissions for ManyCam. Press continue to move to the next step.![](https://help.manycam.com/wp-content/uploads/2016/12/fb_set1-1.png)
-* In this step, you need to choose who will be able to see ManyCam’s posts.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+* In this step, you need to choose who will be able to see ManyCam’s posts.  
 Press **OK** to continue to the next step.![](https://help.manycam.com/wp-content/uploads/2016/12/fb_set2.png)
 * In this step, it is important that you choose **Public**. This setting can be adjusted later in ManyCam.![](https://help.manycam.com/wp-content/uploads/2016/12/fb_set3.png)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * In order to stream live to your groups or pages, you need to allow access to them. Press OK to continue.![](https://help.manycam.com/wp-content/uploads/2016/12/fb_set4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You should receive a notification (see below) once you finish setting up the permissions.![](https://help.manycam.com/wp-content/uploads/2016/12/fb_set5.png)
 * Go back to ManyCam and configure your stream. Here you can pick a name for your stream, add a description, select destination, and adjust privacy settings. Once your stream is set, turn the switcher on to go live.![](https://help.manycam.com/wp-content/uploads/2016/12/3.png)
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * The switcher will turn green and you will see a timer showing the duration of your live stream.![](https://help.manycam.com/wp-content/uploads/2016/12/4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 You can access your stream settings by clicking on the “Edit” button next to the switcher.![](https://help.manycam.com/wp-content/uploads/2016/12/33.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Create a Live Video from your News Feed
 
 Note 
@@ -683,54 +654,27 @@ Note
 
 * Click **Live Video** at the top of your News Feed![](https://help.manycam.com/wp-content/uploads/2016/12/how_to_stream_1.png)  
 In case you want to Go Live from your Business Page or a Group, select **Start a Live Video**![](https://help.manycam.com/wp-content/uploads/2016/12/how_to_stream_2.png)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Select ManyCam Virtual Webcam as a video source![](https://help.manycam.com/wp-content/uploads/2016/12/how_to_stream_3.png)
 * Add a description and click **Go Live**
+
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Option 2\. Connect – Custom RTMP Server
 
 * Alternatively, you can go live using the Facebook **Connect** tab setting instead of **Camera.** You will need the **Server URL** and **Stream key** to create a custom RTMP server.![](https://help.manycam.com/wp-content/uploads/2016/12/Connect_option_1.png)
 * In case you need to stream to a group, select **Share in a group** from the drop-down list on the right under **Choose where to post your live broadcast**. Then start entering your group name and select it from the list of options. Add a description, stream title, and some tags to your stream if necessary.![](https://help.manycam.com/wp-content/uploads/2016/12/Connect_option_2-1.png)
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Go back to ManyCam and press the **Live Streaming** button to start setting up your stream  
 ![](https://help.manycam.com/wp-content/uploads/2016/12/1.png)
 * In the opened window, click **Add custom server**![](https://help.manycam.com/wp-content/uploads/2017/05/3-2.png)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Copy-paste the RTMP settings (RTMP server URL, Stream key) from the Facebook Connect tab. Enter any name for your RTMP server and click **Create** once ready.![](https://help.manycam.com/wp-content/uploads/2017/05/4-1.png)
 * Once your stream is set, turn the switcher on to go live.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://help.manycam.com/wp-content/uploads/2016/12/FB_custom.png)
 * Go back to Facebook **Connect** tab in your browser. Once you see a preview of your stream, click **Go Live**.
 
@@ -741,6 +685,10 @@ In order to stream to groups, **ManyCam App** must be added into each group wher
 1) Open your group’s page, click **More**, select **Edit group settings**,
 
 ![](https://help.manycam.com/wp-content/uploads/2016/12/FBG_1.png)2) Scroll down to the **Apps** section, click **Add Apps**,
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://help.manycam.com/wp-content/uploads/2016/12/FBG_3.png)  
 3) In the search field, type-in **ManyCam**, and add it from the search results. On the next step click **Add**.
@@ -787,12 +735,6 @@ Please follow the steps below to troubleshoot this:
 
  Tagged: [broadcasting](https://tools.techidaily.com/manycam/products/)[facebook](https://tools.techidaily.com/manycam/products/)[rtmp](https://tools.techidaily.com/manycam/products/)[streaming](https://tools.techidaily.com/manycam/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 
 
  Was this article helpful? 
@@ -820,8 +762,6 @@ Please follow the steps below to troubleshoot this:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -829,4 +769,22 @@ Please follow the steps below to troubleshoot this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-hitpaw-screen-recorder-review-and-alternative/"><u>[New] In 2024, HitPaw Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlocking-hidden-potential-with-instagrams-inquiry-emoji/"><u>[New] Unlocking Hidden Potential with Instagram’s Inquiry Emoji</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-photoshop-sway-decrease-pivotal-or-superfluous/"><u>[Updated] 2024 Approved Photoshop Sway Decrease Pivotal or Superfluous?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-thankful-views-complete-outro-template-library-for-2024/"><u>[Updated] Thankful Views Complete Outro Template Library for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-insight-into-chatgpt-and-its-versatile-uses-with-generative-ai-technology/"><u>Comprehensive Insight Into ChatGPT and Its Versatile Uses with Generative AI Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/contrasting-ai-giants-is-llama-3-outshining-gpt-4-in-performance/"><u>Contrasting AI Giants - Is Llama 3 Outshining GPT-4 in Performance?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/counteracting-text-slyness-openais-anti-deception-ai/"><u>Counteracting Text Slyness: OpenAI's Anti-Deception AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-stunning-ai-graphics-the-ultimate-guide-to-using-dall-e-in-tandem-with-chatgpt-4/"><u>Crafting Stunning AI Graphics: The Ultimate Guide to Using DALL-E in Tandem with ChatGPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creative-world-building-with-chatgpt-a-step-by-step-guide/"><u>Creative World Building with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-11-powerful-gpt-strategies-for-authenticity-in-fiction/"><u>Discovering 11 Powerful GPT Strategies for Authenticity in Fiction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-ai-communication-discover-7-powerful-techniques-for-chatgpt-queries/"><u>Elevate Your AI Communication: Discover 7 Powerful Techniques for ChatGPT Queries</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-tips-on-closing-distances-in-movies/"><u>Expert Tips on Closing Distances in Movies</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-troubleshoot-and-fix-audio-glitches-on-your-machine-with-yls-expertise/"><u>How to Troubleshoot and Fix Audio Glitches on Your Machine with YL's Expertise</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-nokia-g42-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Nokia G42 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-reconnect-intermittent-ps4-controller-on-windows-system/"><u>Steps to Reconnect Intermittent PS4 Controller on Windows System</u></a></li>
+</ul></div>
 

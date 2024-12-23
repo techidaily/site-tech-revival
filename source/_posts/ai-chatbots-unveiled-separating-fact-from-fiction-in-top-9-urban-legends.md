@@ -1,7 +1,7 @@
 ---
 title: "AI Chatbots Unveiled: Separating Fact From Fiction in Top 9 Urban Legends"
-date: 2024-09-05T12:48:12.937Z
-updated: 2024-09-06T12:48:12.937Z
+date: 2024-12-18T18:17:30.204Z
+updated: 2024-12-23T17:38:35.675Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes AI Chatbots Unveiled: Separating Fact From Fict
 thumbnail: https://thmb.techidaily.com/a35eb4ebd2d9591cd220cc5c9d326188c8f27a10a8e1c9286a38dd70c0d6db4f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unveiling Ultimate Chatbots: Bard & ChatBot Ranked
 
  Google Bard was released shortly after Microsoft's Bing Chat, and both tools are hoping to grab a healthy share of the burgeoning generative AI and integrated AI search market. But what are the differences between them? And which chatbot is right for you?
@@ -28,17 +22,9 @@ thumbnail: https://thmb.techidaily.com/a35eb4ebd2d9591cd220cc5c9d326188c8f27a10a
 **SCROLL TO CONTINUE WITH CONTENT**
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Are the Differences between Google Bard and Bing Chat?
 
  Outwardly, both tools look similar. They both offer a simple interface with a text box to allow you to "chat" with them. However, dig a little deeper, and significant differences become apparent. To test the tools for yourself, you will need a Google and Microsoft account, although you might have to join a [waitlist for Google Bard](https://www.makeuseof.com/how-to-join-google-bard-ai-waitlist/).
@@ -53,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/a35eb4ebd2d9591cd220cc5c9d326188c8f27a10a
 
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
 
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
@@ -63,12 +53,6 @@ thumbnail: https://thmb.techidaily.com/a35eb4ebd2d9591cd220cc5c9d326188c8f27a10a
 
  Bard produced a longer answer that also discussed the problem and the need to take urgent action. This was outside the focus of the question, but it confirms just how quickly the tone and direction of any research can be swayed depending on the tool you use.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bing Chat vs. Google Bard: Response Accuracy
 
  Before we look at this, it is important to note that both tools make clear that the accuracy of the information generated cannot be guaranteed. As such, we are not going to check every detail. Rather, we will look at how easy it is to fact-check the response of each tool.
@@ -83,12 +67,6 @@ thumbnail: https://thmb.techidaily.com/a35eb4ebd2d9591cd220cc5c9d326188c8f27a10a
 
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bing Chat vs. Google Bard: Ease of Use
 
  There is nothing complicated about either model. If you have used a messaging app, you can use these tools. However, we did notice some differences that are relevant here.
@@ -99,34 +77,24 @@ thumbnail: https://thmb.techidaily.com/a35eb4ebd2d9591cd220cc5c9d326188c8f27a10a
 
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As both platforms are going through rapid development, the user experience will continue to improve.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Are the Differences Between the Language Models?
 
  The last major difference regards the "engines" that power both platforms. These Large Language Models (LLMs) are the underpinning technology. We don't need to go into great detail, but LLMs are important when choosing a platform.
@@ -137,15 +105,13 @@ thumbnail: https://thmb.techidaily.com/a35eb4ebd2d9591cd220cc5c9d326188c8f27a10a
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which Is Best for You: Bing Chat or Google Bard?
 
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This is a case of choosing the right tool for the right job. When we compare the performance of both platforms, Bing Chat seems to edge it. However, there are some provisos to consider. The first is that the Microsoft offering is a more complete product, while Bard is still rough around the edges.
 
@@ -167,14 +133,11 @@ thumbnail: https://thmb.techidaily.com/a35eb4ebd2d9591cd220cc5c9d326188c8f27a10a
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -183,4 +146,22 @@ thumbnail: https://thmb.techidaily.com/a35eb4ebd2d9591cd220cc5c9d326188c8f27a10a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-mastery-in-minimalism-essential-thumbnail-font-selection/"><u>[New] In 2024, Mastery in Minimalism Essential Thumbnail Font Selection</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/humbnail-insight-top-picks-for-maximizing-video-visibility/"><u>[New] Thumbnail Insight Top Picks for Maximizing Video Visibility</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-perfect-shots-effortless-streaming-dslr-on-pcmac/"><u>[Updated] Perfect Shots, Effortless Streaming DSLR on PC/Mac</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unleashing-virality-steps-to-skyrocket-your-instagram-content/"><u>[Updated] Unleashing Virality Steps to Skyrocket Your Instagram Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-srt-integration-in-mp4s-a-complete-blueprint/"><u>2024 Approved Mastering SRT Integration in MP4s A Complete Blueprint</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/as-principais-formulas-para-o-sucesso-em-producao-de-podcasts-editores-n1-a-n7-guia-completo/"><u>As Principais Fórmulas Para O Sucesso Em Produção De Podcasts: Editores Nº1 a Nº7 | Guia Completo</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-obs-screen-recorder-tutorial-mastering-capture-and-editing-techniques/"><u>Complete OBS Screen Recorder Tutorial: Mastering Capture & Editing Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-facile-transformez-votre-fichier-3gp-en-webm-gratuitement-en-ligne-avec-movavi/"><u>Conversion Facile : Transformez Votre Fichier 3GP en Webm Gratuitement En Ligne Avec MOVAVI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/el-record-de-la-industria-en-2024-seleccionando-los-12-softwares-ideales-para-transformar-videos-a-alta-definicion/"><u>El Récord De La Industria en 2024: Seleccionando Los 12 Softwares Ideales Para Transformar Videos a Alta Definición</u></a></li>
+<li><a href="https://common-error.techidaily.com/experience-smooth-gaming-with-these-proven-methods-to-resolve-minecraft-lag-issues/"><u>Experience Smooth Gaming with These Proven Methods to Resolve Minecraft Lag Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-play-40c-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor Play 40C Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-gbadvance-games-seamlessly-on-iphone-and-ipad/"><u>Revive GBAdvance Games Seamlessly on iPhone & iPad</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-adding-soundtracks-to-facebook-stories-using-simple-tools/"><u>Step-by-Step Tutorial on Adding Soundtracks to Facebook Stories Using Simple Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforma-tu-archivos-m4a-en-formatos-flv-sin-coste-con-nuestro-conversor-online-gratis-y-eficiente-movavi/"><u>Transforma Tu Archivos M4A en Formatos FLV Sin Coste Con Nuestro Conversor Online Gratis Y Eficiente - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-various-video-file-formats-a-comprehensive-guide/"><u>Understanding Various Video File Formats: A Comprehensive Guide</u></a></li>
+</ul></div>
 

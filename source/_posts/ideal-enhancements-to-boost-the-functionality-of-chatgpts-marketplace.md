@@ -1,7 +1,7 @@
 ---
 title: Ideal Enhancements to Boost the Functionality of ChatGPT's Marketplace
-date: 2024-12-11T17:04:11.561Z
-updated: 2024-12-14T17:17:19.684Z
+date: 2024-12-16T17:25:38.726Z
+updated: 2024-12-23T18:23:13.130Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/c878f30c184513e5e2ecdd904a42a40c824bea0f8
 ![Snapchat Logo on top of Blurred OpenAI Logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-openai-logo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Snapchat uses the same[large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLM) as ChatGPT. The GPT model is a powerful LLM that composes coherent paragraphs, adopts different writing styles, and uses everyday language. Its output almost seems indistinguishable from human writing.
@@ -40,13 +40,13 @@ thumbnail: https://thmb.techidaily.com/c878f30c184513e5e2ecdd904a42a40c824bea0f8
 
 ![Snapchat My AI Explaining the Elements of an Image of a Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/my-ai-recognizing-image-of-person.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  That said, these chatbots follow different restrictions. My AI generally has fewer rules than ChatGPT—it might perform a broader range of tasks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Conversations Retain the Last 3,000 Words
 
@@ -60,14 +60,10 @@ Close
 
 ![Snapchat My AI Continuing the Roleplay Request to Portray Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-continuing-roleplay-request.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. My AI Can Pull Real-Time Information
@@ -80,10 +76,6 @@ Close
 
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  Try testing the limits of My AI’s accuracy. It pulls updated information from various publications and resources, including those on international events.
@@ -95,10 +87,14 @@ Close
 ![Asking Snapchat About Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-test.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -126,6 +122,10 @@ Close
 
  Snapchat also adds new features consistently. Take My AI’s image prompting feature as an example. The chatbot is getting way better at recognizing images, even ones you take yourself. Meanwhile, other chatbots have yet to adopt image prompting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try Snapchat’s New AI Assistant
 
  My AI was initially limited to Snapchat+ subscriptions. But Snapchat has made the chatbot available for free users.
@@ -147,14 +147,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-discover-the-most-valuable-online-spots-for-free-photographs-for-2024/"><u>[New] Discover the Most Valuable Online Spots for Free Photographs for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nleashing-auditory-brilliance-without-a-mic-in-sight/"><u>[New] Unleashing Auditory Brilliance without a Mic in Sight</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-5-leading-tools-for-crafting-superior-video-titles-and-tags-for-2024/"><u>[Updated] 5 Leading Tools for Crafting Superior Video Titles and Tags for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-free-webm-players-how-to-play-webm-video-files/"><u>2024 Approved Best Free WebM Players How to Play WebM Video Files?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/apex-6-goliaths-large-scale-nlp-masters-revealed/"><u>Apex 6 Goliaths: Large-Scale NLP Masters Revealed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/facing-trouble-with-chatgpt-follow-these-steps-to-check-its-availability-now/"><u>Facing Trouble with ChatGPT? Follow These Steps to Check Its Availability Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-your-workout-tips-for-crafting-superior-chatgpt-queries/"><u>Maximizing Your Workout: Tips for Crafting Superior ChatGPT Queries</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-best-online-strategies-and-tools-for-mastering-prompt-engineering/"><u>The Best Online Strategies and Tools for Mastering Prompt Engineering</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-tecno-camon-30-pro-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Tecno Camon 30 Pro 5G</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-easy-steps-for-clearing-out-desktop-discords/"><u>[Updated] 2024 Approved Easy Steps for Clearing Out Desktop Discords</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unleashing-creativity-in-stories-adding-personalized-graphics/"><u>[Updated] In 2024, Unleashing Creativity in Stories Adding Personalized Graphics</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-transforming-tiktok-to-pop-with-top-gif-tools/"><u>[Updated] Transforming TikTok to Pop with Top GIF Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-applying-luts-for-cinematic-color-grades/"><u>2024 Approved Applying Luts for Cinematic Color Grades</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y100-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo Y100 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hp-laptop-usb-dilemma-expert-tips-and-fixes-for-the-issue-thats-solved/"><u>HP Laptop USB Dilemma: Expert Tips and Fixes for the Issue That's Solved</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-apple-iphone-15-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On Apple iPhone 15 Smoothly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-learning-techniques-using-ai-master-board-games-and-dive-into-image-creation-with-my-gpt-bots/"><u>Innovative Learning Techniques Using AI: Master Board Games & Dive Into Image Creation with My GPT Bots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-efficiency-to-cooking-7-ai-driven-approaches/"><u>Introducing Efficiency to Cooking: 7 AI-Driven Approaches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/magazine-forecasts-or-machine-learning-which-offers-better-insight-into-your-tomorrow/"><u>Magazine Forecasts or Machine Learning: Which Offers Better Insight Into Your Tomorrow?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-email-communication-at-work-with-ai-powered-tool-chatgpt/"><u>Mastering Email Communication at Work with AI-Powered Tool, ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mistral-ais-le-chat-in-focus-an-informative-guide-to-how-it-matches-up-with-chatgpt/"><u>Mistral AI's Le Chat in Focus: An Informative Guide to How It Matches Up with ChatGPT</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/al-masterclasses-in-15-short-video-formats-on-youtube/"><u>Musical Masterclasses in 15 Short Video Formats on YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-ai-language-models-analyzing-similarities-and-differences-between-gpt-and-bert/"><u>Navigating Through AI Language Models: Analyzing Similarities & Differences Between GPT & BERT</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-top-10-free-video-translators-to-mitigate-translation-risks/"><u>New 2024 Approved Top 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
 </ul></div>
 

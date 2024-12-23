@@ -1,7 +1,7 @@
 ---
 title: "Guide: Easy Steps to Activate Your Access to ChatGPT Plugin Extensions"
-date: 2024-12-12T18:05:56.390Z
-updated: 2024-12-14T17:06:47.872Z
+date: 2024-12-18T16:07:45.320Z
+updated: 2024-12-23T16:33:41.808Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Prompt Perfect
 
  The responses you get from the ChatGPT are only as good as the prompts you provide. But prompting can be tricky--it's a game of hits and misses. Prompt Perfect is a ChatGPT plugin that helps you[craft well-structured and effective prompts that will get you the results you want](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) .
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 ![ChatGPT Prompt perfect plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-perfect-plugin-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Link Reader
 
  Another useful ChatGPT plugin is the aptly named Link Reader plugin. Although its primary function is reading the content of the links you provide, when paired with other ChatGPT plugins, there's a lot you can do with it. From summarizing the content of web pages to fact-checking news, the possibilities are endless.
@@ -43,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. InstaCart
@@ -56,24 +64,16 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 ![InstaCart and ChatGPT in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/instacart-and-chatgpt-in-action.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When we replied "yes," InstaCart generated a link to a shopping list of the remaining ingredient we'll need to cook Jollof rice.
 
 ![Jollof Rice shopping list by InstaCart ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/jollof-rice-shopping-list-by-instacart-chatgpt-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
 
 ![InstarCart Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/instarcart-plugin-in-action.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Wolfram
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![facts about Pluto generated by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/facts-about-pluto-generated-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We then invoked the Wolfram plugin to fact-check the information using its fact-based knowledge base. And here's the result.
@@ -95,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![fact-checking with ChatGPT and Wolfram Alpha](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fact-checking-with-chatgpt-and-wolfram-alpha.jpg)
 
  Wolfram was able to run the generated information against its database to check for accuracy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. ChatWithPDF
 
@@ -108,6 +112,10 @@ Does GPT-4 have visual input abilities? Use the PDF at the URL "<https://cdn.ope
 
 ![GPT-4 visual input abilities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/gpt-4-visual-input-abilities.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Turns out another important use case is making sense of technical documents like this.
 
 ## 6\. Video Insights
@@ -120,10 +128,6 @@ What's the YouTube video at this URL (<https://www.youtube.com/watch?v=OFvXuyITw
 
 ![VideoInsights Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/videoinsights-plugin-in-action.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Yes, it was a spot-on description of the video if you're wondering.
 
 ## 7\. SceneXplain
@@ -133,10 +137,6 @@ Yes, it was a spot-on description of the video if you're wondering.
  We drew an image of a web page layout and asked ChatGPT to create an HTML and CSS code that replicates the layout by invoking SceneXplain. The results weren't too far off the mark.
 
 ![SceneXplain plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/scenexplain-plugin-in-action.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To use the plugin, use a prompt like:
 
@@ -175,16 +175,16 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-gelato-gurus-guide-step-by-step-to-sweet-screen-recording-for-2024/"><u>[New] Gelato Guru's Guide Step-by-Step to Sweet Screen Recording for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-inexpensive-sky-explorers-the-least-expensive-drones/"><u>[New] Inexpensive Sky Explorers The Least Expensive Drones</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-zoom-video-enhancement-playbook/"><u>[Updated] The Ultimate Zoom Video Enhancement Playbook</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-and-deploy-8-gpt-alternatives-available-today/"><u>Discover and Deploy: 8 GPT Alternatives Available Today</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ensuring-privacy-while-utilizing-ai-chatbots-like-chatgpt-at-work/"><u>Ensuring Privacy While Utilizing AI Chatbots Like ChatGPT at Work</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-top-six-ai-enabled-note-tools-for-effortless-information-capture-and-retrieval/"><u>Explore the Top Six AI-Enabled Note Tools for Effortless Information Capture and Retrieval</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-odyssey-the-most-exciting-psvr-games-on-the-way/"><u>In 2024, Immersive Odyssey The Most Exciting PSVR Games on the Way</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-nvidias-cutting-edge-ai-initiative-unveiling-the-potential-of-tailorable-generative-technology-services/"><u>Inside NVIDIA's Cutting-Edge AI Initiative: Unveiling the Potential of Tailorable Generative Technology Services</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-productivity-leveraging-chatgpt-as-a-professional-aide/"><u>Maximizing Productivity: Leveraging ChatGPT as a Professional Aide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-user-authentication-windows-11-domains/"><u>Optimizing User Authentication: Windows 11, Domains</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-teachers-choice-top-recording-applications/"><u>[New] In 2024, Teachers' Choice Top Recording Applications</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-sync-facebook-media-for-larger-display-views-for-2024/"><u>[New] Sync Facebook Media for Larger Display Views for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/gmail-insights-understanding-when-your-emails-have-been-opened-by-recipients/"><u>Gmail Insights: Understanding When Your Emails Have Been Opened by Recipients</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guide-successfully-integrating-bluetooth-technology-into-your-pc/"><u>Guide: Successfully Integrating Bluetooth Technology Into Your PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-nokia-c300-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Nokia C300 to iPod | Dr.fone</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/solve-the-issue-how-to-ungray-and-enjoy-all-your-favorite-tunes-on-apple-music-for-iphone/"><u>Solve the Issue: How to Ungray and Enjoy All Your Favorite Tunes on Apple Music for iPhone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-large-language-models-a-comprehensive-guide/"><u>Understanding Large Language Models: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/universal-chatgpt-open-doors-worldwide-communication/"><u>Universal ChatGPT: Open Doors, Worldwide Communication</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-ai-potential-insights-into-vector-databases/"><u>Unlocking AI Potential: Insights Into Vector Databases</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unravel-computer-confusions-with-gpts-guidance/"><u>Unravel Computer Confusions with GPT's Guidance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-eight-key-benefits-why-educators-need-to-welcome-artificial-intelligence-in-the-classroom/"><u>Unveiling Eight Key Benefits: Why Educators Need to Welcome Artificial Intelligence in the Classroom</u></a></li>
 </ul></div>
 

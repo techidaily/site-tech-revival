@@ -1,7 +1,7 @@
 ---
 title: "Five Artificial Steps: AI Accelerating Cybercrime"
-date: 2024-09-05T12:45:19.712Z
-updated: 2024-09-06T12:45:19.712Z
+date: 2024-12-20T18:31:36.629Z
+updated: 2024-12-23T16:49:57.382Z
 tags:
   - chatgpt
   - open-ai
@@ -13,13 +13,11 @@ excerpt: "This Article Describes Five Artificial Steps: AI Accelerating Cybercri
 thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683a1dd9c2aefb366c737706ad.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Essential Free Travel Arranger Applications: Get Swift, Smart Itineraries Now
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,12 +29,6 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 * [Trip Planner AI](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/#trip-planner-ai)
 * [Vacay Chatbot](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/#vacay-chatbot)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Layla, Wonderplan, and PLAN by ixigo are AI travel planning apps with customizable itineraries.
@@ -48,17 +40,9 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
  These free travel planning apps use AI and machine-learning tools like ChatGPT to prepare an itinerary for you in a few seconds, and we took them for a spin.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1.[Layla](https://justasklayla.com/)
 
 ![layla ai trip planner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/layla-ai-trip-planner.png)
@@ -72,11 +56,9 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
  Once you've perfected your itinerary, you can share it with your friends via a URL or add it to your bucket list.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2.[Wonderplan](https://wonderplan.ai/)
 
 ![wonderplan website screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/wonderplan-screenshot.jpg)
@@ -101,12 +83,6 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 
  However, if the suggested itinerary doesn't sound appealing, you can again enter a prompt to edit it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4.[iplan.ai](https://iplan.ai/)
 
  While iplan.ai doesn't mention which AI or machine-learning algorithm it uses, the results are fantastic enough to gloss over that. The app works beautifully on phones to give you a full itinerary for any one city at a time, depending on how many days you have there.
@@ -125,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 
 ![Curiosio is a roadtrip planning app based on AI that gives you several parameters to refine your journey before plotting a route based on your interests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/travel-planning-ai-apps-generate-itinerary-curiosio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The easiest last-minute travel plan is to get into a car and drive. Curiosio specializes in helping you plan an itinerary for a road trip to several major countries on all continents. It doesn't cover every single place, but the existing collection is impressive enough.
 
  Curiosio uses its own AI engine, Ingeenee, which is trained on several crowdsourced travel-based resources, such as Wikivoyage, Wikipedia, Wikidata, Freebase, DBpedia, GeoNames, OSMNames, and OpenStreetMap. Through this dataset, it can chart an itinerary that meets your requirements across various parameters.
@@ -134,27 +114,13 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
  The itinerary includes a map of your route and a day-wise breakdown of where you'll be going and what you'll be seeing. Each point of interest is clickable to find more information about it. There are easy ways to share your itinerary with co-travelers, print it out, or even export it to Google Maps. Curiosio is one of the[best road trip planners for your next adventure](https://www.makeuseof.com/tag/road-trip-planners/) .
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6.[Trip Planner AI](https://tripplanner.ai/)
 
 ![trip planner ai screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/trip-planner-ai-screenshot.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Trip Planner AI plans a perfect trip to your dream destination. Begin creating your itinerary by entering the city you wish to visit and traveling dates. You can add multiple destinations here.
 
  Then, select the kinds of activities you prefer, the number of people, and whether you're traveling with friends or family. Trip Planner AI asks you about your dietary preferences and budget.
@@ -163,12 +129,6 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 
  Finally, Trip Planner AI generates a detailed itinerary, a map, and basic information about the city you're visiting. For each destination, it provides the details of the place, expected traveling time, and cost. Though it provides a complete plan for your trip, you can manually add or remove activities from your itinerary. You can also invite your friends to edit the itinerary and download it as a PDF.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7.[Vacay Chatbot](https://www.usevacay.com/chatbot)
 
 ![vacay chatbot screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/vacay-chatbot-screenshot.png)
@@ -183,14 +143,11 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 
  A real human travel agent will still give you a more customized itinerary, but it will cost you a few bucks. If you want a free base guide, more basic[travel planning apps](https://www.makeuseof.com/group-travel-planning-apps/) are a good starting point.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -199,4 +156,22 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-motorola-edge-2023-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Motorola Edge 2023</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortlessly-resize-your-videos-with-imovie-an-easy-to-follow-cropping-guide/"><u>Effortlessly Resize Your Videos with iMovie: An Easy-to-Follow Cropping Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-immersive-worlds-identifying-key-variations-among-ar-vr-mr-and-xr/"><u>Exploring Immersive Worlds: Identifying Key Variations Among AR, VR, MR & XR</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-frequent-icloud-glitches-on-your-apple-devices-solutions-for-the-top-9-problems/"><u>Fixing Frequent iCloud Glitches on Your Apple Devices: Solutions for the Top 9 Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fotografo-profissional-douglas-franca-portfolio-na-movavi/"><u>Fotógrafo Profissional Douglas França - Portfólio Na Movavi</u></a></li>
+<li><a href="https://techidaily.com/galaxy-watch-ultra-vs-apple-watch-ultra-comparing-unique-styles-with-identical-functionality/"><u>Galaxy Watch Ultra Vs. Apple Watch Ultra: Comparing Unique Styles with Identical Functionality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-final-cut-editors-toolkit-10-plugin-winners/"><u>In 2024, The Final Cut Editor's Toolkit 10 Plugin Winners</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-transforma-facilmente-archivos-raw-a-formatos-de-imagen-en-la-web-sin-costes/"><u>Movavi: Transforma Fácilmente Archivos RAW a Formatos De Imagen en La Web Sin Costes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavis-cost-free-web-service-transforming-opus-audio-into-aac-streaming-quality/"><u>Movavi's Cost-Free Web Service: Transforming Opus Audio Into AAC Streaming Quality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pro-video-editing-selections-for-social-media-for-2024/"><u>Pro Video Editing Selections for Social Media for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tod-mp4/"><u>TOD MP4 영상을 쉽게 오늘의 구독 제한 아래에서 무료로 바꾸는 방법</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforma-tu-archivo-avi-en-linea-gratuita-utilizando-la-herramienta-de-cambio-de-formato-movavi-de-amv-a-avi/"><u>Transforma Tu Archivo AVI en Línea Gratuita Utilizando La Herramienta De Cambio De Formato Movavi: De AMV a AVI</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-family-fun-of-the-maisto-rc-rock-crawler-a-detailed-review/"><u>Unveiling the Family Fun of the Maisto RC Rock Crawler - A Detailed Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/voorbeeld-en-leerpunten-4k-videomontage-met-de-beste-converters-inklusief-deze-movavi-oplage/"><u>Voorbeeld en Leerpunten: 4K Videomontage Met De Beste Converters, Inklusief Deze Movavi Oplage</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mmv-ogv-bestvideoconversionnet/"><u>언제까지나 MMV, OGV파일을 무료로 바꾸기 - BestVideoConversion.net</u></a></li>
+</ul></div>
 

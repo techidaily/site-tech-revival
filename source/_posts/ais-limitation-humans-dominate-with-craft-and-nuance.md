@@ -1,7 +1,7 @@
 ---
 title: "AI's Limitation: Humans Dominate with Craft and Nuance"
-date: 2024-11-23T08:58:36.422Z
-updated: 2024-11-29T17:27:31.980Z
+date: 2024-12-16T17:04:24.447Z
+updated: 2024-12-23T19:34:49.814Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -34,17 +34,25 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 
  However, another promise of ChatGPT Plus was priority access to new features, and OpenAI delivered on it. With the introduction of features like Advanced Data Analytics, Browse with Bing, and DALL·E 3, ChatGPT Plus is currently one of the most useful subscriptions you could get for yourself and your business, AI or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. GPT-4 Access
 
 ![GPT-4 chatbot interface ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/gpt-4-chatbot-interface-chatgpt-plus.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The most obvious benefit of upgrading to the Plus version is access to GPT-4\. As the successor to GPT-3.5,[there are major differences between the two](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) . GPT-4 improves natural language processing, understanding of context, and problem-solving. It is also trained on a larger data set, which means it's better at recognizing complex patterns.
 
  In reality, the differences can be a bit subtle as they're not immediately noticeable. However, the more you use it, the sooner you realize that GPT-4 has a better chance of providing the correct response on its first attempt. It's also more accurate and doesn't fall victim to AI hallucinations as often.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Image Input
 
@@ -56,17 +64,9 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 
  You can also use this picture to understand handwritten documents you've scanned or have a picture of. You can even insert a picture of a spreadsheet and ask ChatGPT to make calculations based on the data it has acquired or suggest improvements to the spreadsheet's layout.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Internet Access
 
 ![Browse with Bing option on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-with-bing-option-on-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The standard, free version of ChatGPT has a knowledge cutoff from September 2021\. That means it does not have access to any information on events that occurred after that date. However, you can overcome this limitation using the new**Browse with Bing** mode with the GPT-4 model. This means you can access the internet within ChatGPT.
 
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
  This is how easy it has become to write a story and have beautiful illustrations! Again, if something makes the $20/month ChatGPT Plus subscription seem cheap and extremely valuable, it's definitely the combo of DALL·E 3 and GPT-4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Plugin Access
@@ -112,16 +112,12 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 
  Whether you're a small business owner or just play with data in spreadsheets, this feature can help you make data-driven decisions. You can upload your account books and ask ChatGPT not only to visualize the data for you but also to give you valuable insights into what needs improvement in your business.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Impressive Stability
 
 ![GPTPlus vs GPT3.5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gptplus-vs-gpt3-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The free[ChatGPT has its fair share of big problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) , but downtime is by far the most important one. Although the situation is much better now than it was when it was first launched, the free version can still go down anytime. OpenAI's servers sometimes have trouble keeping up with the incredibly high demand.
@@ -144,6 +140,10 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
 
  You also get access to multiple plugins that can help with your language-learning journey. The new Speak plugin is an excellent example of this. It helps you pronounce certain phrases, gives you alternate ways to express the same sentiment, and shows you examples that replicate real-life conversations in any language.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Plus Is Worth the Upgrade
 
  Though the subscription initially didn't provide enough value, with the introduction of new features like Advanced Data Analytics, DALL·E 3, and image input, ChatGPT Plus is more than worth the upgrade. Whether you're self-employed, a freelancer, or a small business owner, ChatGPT Plus can help you in pretty much all aspects, from business policies to written content to design visuals to understanding data.
@@ -165,20 +165,20 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-definitive-steps-for-online-streaming-audio-archiving/"><u>[Updated] In 2024, The Definitive Steps for Online Streaming Audio Archiving</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-increase-photographic-imagery-keeping-details-intact/"><u>[Updated] Increase Photographic Imagery, Keeping Details Intact</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-young-prodigys-riches-soar-in-digital-world-fame/"><u>[Updated] Young Prodigy's Riches Soar in Digital World Fame</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-extended-appraisal-hero4-black-performance/"><u>2024 Approved Extended Appraisal Hero4 Black Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ch340usb-ftdi-driver-update-guide-for-users-on-microsofts-latest-os/"><u>CH340USB FTDI Driver Update Guide for Users on Microsoft's Latest OS</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/guide-facile-pour-copier-le-contenu-dune-cle-usb-sur-une-seconde-cle-sans-perte-de-donnees/"><u>Guide Facile Pour Copier Le Contenu D'une Clé USB Sur Une Seconde Clé Sans Perte De Données</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-magic-6-lite-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor Magic 6 Lite by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-ai-desired-advancements-in-chatgpts-plugin-ecosystem/"><u>Revolutionizing AI: Desired Advancements in ChatGPT's Plugin Ecosystem</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/should-we-treat-artificial-intelligence-such-as-chatgpt-alexa-and-siri-with-politeness/"><u>Should We Treat Artificial Intelligence Such as ChatGPT, Alexa, and Siri With Politeness?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/strong-ai-or-weak-ai-what-sets-them-apart/"><u>Strong AI or Weak AI - What Sets Them Apart?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-chatbot-revolution-creating-from-create-a-gpt-foundations/"><u>The ChatBot Revolution: Creating From Create a GPT Foundations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-fabricated-frontier-of-fictional-narratives/"><u>The Fabricated Frontier of Fictional Narratives</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-magic-of-ai-discovering-eight-phenomena-where-fact-meets-fiction/"><u>The Magic of AI: Discovering Eight Phenomena Where Fact Meets Fiction</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-windows-qr-code-scanner-techniques/"><u>Unveiling Window's QR Code Scanner Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-a-practical-approach-to-streaming-fb-content-on-your-apple-setup/"><u>[New] A Practical Approach to Streaming FB Content on Your Apple Setup</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-essential-applications-share-videos-on-twitter/"><u>[Updated] Essential Applications Share Videos on Twitter</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-pros-guide-to-documenting-your-online-facebook-interactions/"><u>[Updated] In 2024, The Pro's Guide to Documenting Your Online Facebook Interactions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-vkontakte-profile-picture-info-pixel-count-codec-time/"><u>[Updated] In 2024, VKontakte Profile Picture Info Pixel Count, Codec, Time</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-13-mini-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 13 mini?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-effective-guide-to-cast-apple-iphone-8-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>In 2024, Effective Guide to Cast Apple iPhone 8 to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-productivity-through-chatgpt-driven-workflow-optimization/"><u>Maximizing Productivity Through ChatGPT-Driven Workflow Optimization</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-ai-chatbot-subscriptions-7-tips-for-optimal-choice-and-satisfaction/"><u>Navigating AI Chatbot Subscriptions: 7 Tips for Optimal Choice and Satisfaction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-risks-how-to-integrate-chatgpt-wisely-into-mental-health-support/"><u>Navigating the Risks: How to Integrate ChatGPT Wisely Into Mental Health Support</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-programming-anticipated-effects-of-artificebial-intelligence-on-dev-workflows/"><u>Revolutionizing Programming: Anticipated Effects of Artificebial Intelligence on Dev Workflows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/risk-of-termination-examining-10-situations-with-chatgpt-use-in-the-workplace/"><u>Risk of Termination: Examining 10 Situations with ChatGPT Use in the Workplace</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/six-proven-tactics-to-reduce-ais-false-impressions-and-enhance-accuracy/"><u>Six Proven Tactics to Reduce AI's False Impressions and Enhance Accuracy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/stanzas-struggle-against-digital-minds-purebred-alpacas/"><u>Stanzas Struggle Against Digital Minds, Purebred Alpacas</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-11s-new-look-how-the-taskbar-is-transforming-once-more/"><u>Windows 11'S New Look: How the Taskbar Is Transforming Once More</u></a></li>
 </ul></div>
 

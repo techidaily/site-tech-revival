@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Facts with ChatGPT: Trustworthiness and Veracity"
-date: 2024-11-23T23:08:23.126Z
-updated: 2024-11-29T21:45:24.286Z
+date: 2024-12-18T18:23:39.882Z
+updated: 2024-12-23T16:30:44.267Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
  If you want to try DALL-E 3 but don't want to pay for a ChatGPT Plus subscription, there's an easy way around it. Microsoft Bing has a powerful DALL-E 3 integration, and right now, you can use it for free.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Access DALL-E 3 With Microsoft Bing
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 4. To save an image, click on the one you like and press the**Download** button beneath the prompt.
 
  There are plenty more[alternatives to DALL-E 3](https://www.makeuseof.com/ai-text-to-art-generators/) worth checking out, too. Compare them to see which image creator works best for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Makes DALL-E 3 Special?
 
@@ -75,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 
 ![DALL-E 2 prompt for animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-prompt-for-animals.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Compare that with DALL-E 3 in Bing. The image it generated is quite good, considering our prompt barely contained any specific details.
 
 ![DALL-E 3 in Bing Chat image of a city covered in plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-in-bing-chat-image-of-a-city-covered-in-plants.jpg)
@@ -88,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 ![DALL-E 3 iamge of New York City overgrown with plants and animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-iamge-of-new-york-city-overgrown-with-plants-and-animals.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can even ask Bing to redo one of the images. We told it that we liked the second image and would like to see if it could make the animals more detailed.
@@ -98,6 +90,14 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
  With just a small amount of time chatting with DALLE-3 in Bing, we arrived at a really interesting image of New York City if it were overrun by plants and animals. No prompt engineering is required.
 
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Limitations of DALL-E 3 and Bing
 
@@ -130,20 +130,19 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-submerge-mastery-top-tips-for-capturing-great-water-videos/"><u>[New] 2024 Approved Submerge Mastery Top Tips for Capturing Great Water Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-free-10-high-quality-passport-photos-available-here/"><u>[New] In 2024, Free 10 High-Quality Passport Photos Available Here</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-crafting-professional-slug-line-notations/"><u>[Updated] Expert Tips for Crafting Professional Slug Line Notations</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-best-watched-youtube-film-channels-ranked/"><u>[Updated] In 2024, Best-Watched YouTube Film Channels Ranked</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-crafting-an-engaging-tiktok-closing-credits/"><u>[Updated] In 2024, Crafting An Engaging TikTok Closing Credits</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1728497855966-4/"><u>简单疗程：详解4种修复用户数据库丢失问题的技巧</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-comprehensive-introduction-to-quantum-hdr-principles-for-2024/"><u>A Comprehensive Introduction to Quantum HDR Principles for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-10-superior-gpt-models-that-outdo-chatgpt/"><u>Exploring 10 Superior GPT Models That Outdo ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-eight-lucrative-chatgpt-jobs-are-they-genuine-pathways-for-earning-extra-cash/"><u>Exploring Eight Lucrative ChatGPT Jobs - Are They Genuine Pathways for Earning Extra Cash?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guarding-against-misleading-medical-claims-on-ai-platforms/"><u>Guarding Against Misleading Medical Claims on AI Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-chatgpt-pose-risks-or-benefits-to-modern-search-engines/"><u>How Does ChatGPT Pose Risks or Benefits to Modern Search Engines?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-is-ai-revolutionizing-the-future-of-medicine-with-tools-like-chatgpt/"><u>How Is AI Revolutionizing the Future of Medicine with Tools Like ChatGPT?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/humor-by-algorithms-exploring-if-chatgpts-jokes-make-us-genuinently-laugh/"><u>Humor by Algorithms: Exploring if ChatGPT's Jokes Make Us Genuinently Laugh</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/innovating-temporal-displacement-effects/"><u>Innovating Temporal Displacement Effects</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-mobile-media-the-art-of-filming-with-a-smartphone/"><u>[New] Mastering Mobile Media The Art of Filming with a Smartphone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-all-you-need-to-know-about-adding-apple-music-to-video/"><u>[Updated] All You Need to Know About Adding Apple Music to Video</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-getting-hooked-on-telegram-advertising-a-starters-guide/"><u>2024 Approved Getting Hooked on Telegram Advertising A Starter's Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-revolutionized-workspaces-navigating-with-confidence-using-6-essential-techniques-for-personal-advancement/"><u>AI Revolutionized Workspaces: Navigating with Confidence Using 6 Essential Techniques for Personal Advancement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/an-insight-into-how-large-language-models-work-a-detailed-overview/"><u>An Insight Into How Large Language Models Work - A Detailed Overview</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/balancing-act-ai-advancements-vs-mental-health-risks/"><u>Balancing Act: AI Advancements vs Mental Health Risks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bard-a-new-contender-from-google-facing-off-against-gpt/"><u>Bard: A New Contender From Google, Facing Off Against GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-avatars-and-netspeak-explaining-who-really-engages-in-our-virtual-dialogues/"><u>Beyond Avatars & Netspeak: Explaining Who Really Engages in Our Virtual Dialogues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-chatgpt-unveil-the-best-7-ai-chatbots-for-smartphones-today/"><u>Beyond ChatGPT: Unveil the Best 7 AI Chatbots for Smartphones Today</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/boosting-your-channels-free-tips-for-youtube-video-popularity-for-2024/"><u>Boosting Your Channels Free Tips for YouTube Video Popularity for 2024</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-6-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6 Plus Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reimagine-your-cinematography-mastering-these-7-color-techniques/"><u>Reimagine Your Cinematography Mastering These 7 Color Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-keyboard-only-mode-display-now-supports-gesture-and-touch-controls/"><u>Say Goodbye to Keyboard-Only Mode: Display Now Supports Gesture and Touch Controls</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-silent-mts-videos-seamlessly-importing-into-premiere-pro-for-editors/"><u>Troubleshooting Silent MTS Videos: Seamlessly Importing Into Premiere Pro for Editors</u></a></li>
 </ul></div>
 

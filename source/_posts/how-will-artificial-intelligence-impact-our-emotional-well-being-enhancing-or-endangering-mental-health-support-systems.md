@@ -1,7 +1,7 @@
 ---
 title: "How Will Artificial Intelligence Impact Our Emotional Well-Being: Enhancing or Endangering Mental Health Support Systems?"
-date: 2024-12-13T16:04:05.122Z
-updated: 2024-12-14T16:35:54.449Z
+date: 2024-12-18T16:04:21.964Z
+updated: 2024-12-23T18:46:24.183Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Role of ChatGPT in Public Health?
@@ -39,17 +39,21 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
  What makes ChatGPT special is that it is simpler, user-friendly, and can have human-like conversations. Although both ChatGPT and existing NLP systems in healthcare are not perfect, they can help meet the growing demands of patient care worldwide. NLP is one of the important[medical technologies shaping healthcare's future](https://www.makeuseof.com/medical-technologies-future-healthcare/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use ChatGPT in Healthcare
 
 ![chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/jonathan-kemper-mmuzs5qzuus-unsplash.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Currently, ChatGPT is mainly used in the administrative side of healthcare, and it's proving to be a game-changer for healthcare professionals. It can do many things to make their lives easier, like handling paperwork, checklists, and logs. In a recent survey by[Jackson Healthcare](https://www.healthleadersmedia.com/nursing/nurses-say-distractions-cut-bedside-time-25) , most nurses admitted spending 25% of their shift on non-patient tasks, and ChatGPT aims to reduce that burden.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using ChatGPT to Sort Unstructured Data
@@ -59,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
  ChatGPT can quickly analyze massive amounts of data—even diagnostics data. Just ask it a specific question with the sorting criteria you need, and it will give you the structured data you are looking for. You can copy its response, save it on a notepad, and open the file in Microsoft Excel to finish the process—problem solved!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Remote Patient Monitoring With ChatGPT
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 ### ChatGPT as a Virtual Assistant for Patient Care
 
  ChatGPT can be like having a personal assistant available all the time for doctors. It can handle client communication, schedule appointments, and even help create emails. Moreover, you can rely on it to summarize clinical notes and the patient's medical history, making your preparation for visits much easier. And with ChatGPT-4's plugin feature, using it has become even simpler. Here's[how you can make the most of ChatGPT plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Has Potential in Healthcare, But Be Careful
 
@@ -97,18 +97,22 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-graduating-from-novice-to-3d-lut-maestro/"><u>[New] Graduating From Novice to 3D LUT Maestro</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-engaging-scriptwriting-techniques-for-higher-video-rankings/"><u>[Updated] Engaging Scriptwriting Techniques for Higher Video Rankings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bridging-the-gap-between-human-creativity-and-ai-with-nightshade/"><u>Bridging the Gap Between Human Creativity and AI with Nightshade</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-your-digital-sidekick-a-comparison-of-github-copilot-vs-chatgpt-for-efficient-programming/"><u>Choosing Your Digital Sidekick: A Comparison of GitHub Copilot Vs. ChatGPT for Efficient Programming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/four-easy-steps-to-experience-free-gpt-4-capabilities/"><u>Four Easy Steps to Experience Free GPT-4 Capabilities</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oneplus-ace-3-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On OnePlus Ace 3 Device</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/integrating-multimedia-elements-for-engaging-facebook-slideshows/"><u>Integrating Multimedia Elements for Engaging Facebook Slideshows</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/standardized-youtube-images-made-accessible-3-easy-ways-to-download-for-2024/"><u>Standardized YouTube Images Made Accessible 3 Easy Ways to Download for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-android-experience-with-a-voice-activated-chatgpt-companion/"><u>Transform Your Android Experience with a Voice-Activated ChatGPT Companion</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-effortless-steps-to-sparkling-your-flat-panel-display/"><u>Ultimate Guide: Effortless Steps to Sparkling Your Flat-Panel Display</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-secrets-of-claude-3s-usage/"><u>Unveiling the Secrets of Claude 3'S Usage</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-poco-c65-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Poco C65 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-efficient-techniques-to-improve-windows-10-photos-app-functionality-for-2024/"><u>[New] Efficient Techniques to Improve Windows 10 Photos App Functionality for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-layer-audio-onto-video-clips-in-premiere-pro/"><u>[Updated] 2024 Approved Layer Audio Onto Video Clips in Premiere Pro</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-all-about-youtube-micro-videos/"><u>2024 Approved All About YouTube Micro Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-even-on-youtube-key-view-figures-explored-for-2024/"><u>Breaking Even on YouTube Key View Figures Explored for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-zero-to-profit-beginners-guide-on-periscope-earning-for-2024/"><u>From Zero to Profit Beginner’s Guide on Periscope Earning for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-x7b-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-fixes-for-6-typical-chatgpt-problems/"><u>Quick Fixes for 6 Typical ChatGPT Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-start-tutorial-enabling-microsoft-copilot-for-mac-users/"><u>Quick Start Tutorial: Enabling Microsoft Copilot for Mac Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-chatgpt-app-failures-on-your-iphone-discover-these-9-methods/"><u>Resolving ChatGPT App Failures on Your iPhone – Discover These 9 Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/robot-rebusions-tracking-laptop-transformation-and-online-guardians/"><u>Robot Rebusions: Tracking Laptop Transformation & Online Guardians</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-cash-through-youtube-content-sales-for-2024/"><u>Securing Cash Through YouTube Content Sales for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/share-export-or-store-the-best-software-for-handling-your-discussions-with-chatgpt/"><u>Share, Export or Store: The Best Software for Handling Your Discussions with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-chatgpt-is-currently-busy-issue-in-windows-step-by-step-guide/"><u>Solving 'ChatGPT Is Currently Busy' Issue in Windows - Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilize-the-screen-fix-for-dell-luminosity/"><u>Stabilize the Screen: Fix for Dell Luminosity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-complete-removal-of-a-chatgpt-profile/"><u>Step-by-Step Guide: Complete Removal of a ChatGPT Profile</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tech-tales-that-make-us-laugh-is-ai-the-storyteller/"><u>Tech Tales That Make Us Laugh: Is AI the Storyteller?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Leader: Is It ChatGPT or Google Bard in Today’s AI Conversations?"
-date: 2024-12-08T17:54:12.103Z
-updated: 2024-12-14T17:36:02.004Z
+date: 2024-12-20T16:41:20.923Z
+updated: 2024-12-23T16:17:38.802Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. No More Waitlist for Bard AI
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
  Dark mode is the new cool, and Google has finally listened to the request of Bard AI users by adding the dark mode feature to the Bard website. To toggle on dark mode, toggle**Use dark theme** in the bottom left corner of the Bard web interface. If you are accessing Bard from your mobile browser, you'll need to tap the menu icon in the top right corner of the Bard website to reveal the**Use dark theme** button in the bottom left corner.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Integration With Google Products and Third-Party Plugins
 
  This is one of the most significant Bard AI announcements since the chatbot itself was announced. Let's face it; Bard AI isn't as good as its competitors. We did a bit of a[ChatGPT vs. Bing AI vs. Bard AI test](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) , and Bard didn't impress. There are a lot of shortfalls we could talk about, but that's a discussion for another day. The good news, however, is that a bulk of those shortfalls could be fixed by opening up Bard to third-party services and other Google products.
@@ -45,16 +49,12 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
  We saw a glimpse of what could be possible. A future where Bard AI integrates with Google Maps, Sheets, and a range of exciting services from third-party developers. This has the potential to be genuinely game-changing. Well, that is if Google doesn't under-deliver, of course.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Image Prompting
 
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit:[Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
 
@@ -73,12 +73,16 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
  Although we aren't exactly sure how deeply integrated Bard AI will be with Abode Firefly, the demo at Google I/O gave a sneak peek at something exciting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Tools for Exporting Generated Content
 
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One thing missing from most[AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.
 
@@ -87,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 ## 7\. Improved Code Generation
 
 ![Generating code with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-code-with-bard-ai.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  At launch, Bard AI couldn't write code—an embarrassing pitfall considering coding was one of the big hype surrounding the emergence of AI chatbots. However, Bard AI competitors like[ChatGPT have been helping people code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) since its debut. Google has now significantly ramped up Bard's coding abilities—so much so that a lot of precious presentation time was dedicated to discussing it at its Google I/O 2023 event.
 
@@ -117,14 +117,22 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-avoid-feed-overload-how-to-stop-followers/"><u>[Updated] Avoid Feed Overload How to Stop Followers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oppo-reno-10-pro-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Oppo Reno 10 Pro 5G?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversione-libera-online-da-wma-a-webm-esegui-il-tuo-trasferimento-con-facilita/"><u>Conversione Libera Online Da WMA a WebM - Esegui Il Tuo Trasferimento Con Facilità</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/criando-animacoes-incriveis-no-seculo-21-o-guia-definitivo-para-iniciantes-em-2024/"><u>Criando Animações Incríveis No Século 21: O Guia Definitivo Para Iniciantes Em 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/elevate-your-pronunciation-with-dynamic-tongue-twisters/"><u>Elevate Your Pronunciation with Dynamic Tongue Twisters</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ning-social-media-comment-standouts-for-2024/"><u>Examining Social Media Comment Standouts for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/making-your-iphone-smarter-how-apples-integration-of-google-gemini-into-ios-enhances-functionality-zdnet/"><u>Making Your iPhone Smarter: How Apple's Integration of Google Gemini Into iOS Enhances Functionality | ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavi-transform-your-mxf-media-into-various-formats-without-cost/"><u>Movavi: Transform Your MXF Media Into Various Formats Without Cost</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavi-mxfmkv/"><u>Movavi를 사용한 원격 MXF/MKV 영상 무료 변환 가이드 - 웹 편리티</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-14-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 14 Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-chatgpt-discover-the-1abulary-models-boosting-conversational-ai/"><u>Beyond ChatGPT: Discover the 1Abulary Models Boosting Conversational AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-the-hype-unveiling-6-key-drawbacks-of-blindly-trusting-ai/"><u>Beyond the Hype: Unveiling 6 Key Drawbacks of Blindly Trusting AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/breaking-news-exposing-the-newest-twitter-deception-tactics-launch-of-metas-authentication-system-and-in-depth-analysis-of-ai-powerhouse-chatgpt-4/"><u>Breaking News: Exposing the Newest Twitter Deception Tactics, Launch of Meta's Authentication System & In-Depth Analysis of AI Powerhouse ChatGPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-codegpt-genuinely-generate-programming-code/"><u>Can CodeGPT Genuinely Generate Programming Code?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-career-coach-unlocking-doors-to-employment-opportunities/"><u>ChatGPT as Your Career Coach: Unlocking Doors to Employment Opportunities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquer-the-digital-age-6-pathways-to-career-excellence-with-ai/"><u>Conquer the Digital Age: 6 Pathways to Career Excellence with AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/contrasting-methodologies-nlp-and-machine-intelligence/"><u>Contrasting Methodologies: NLP & Machine Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-a-collection-of-verses-a-guide-on-utilizing-chatgpt-for-your-poetry-anthology/"><u>Crafting a Collection of Verses: A Guide on Utilizing ChatGPT for Your Poetry Anthology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-skype-microphone-failures-on-the-latest-windows-11-os/"><u>Effective Fixes for Skype Microphone Failures on the Latest Windows 11 OS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-a-deep-dive-into-video-platform-profit-margins-dailymovement-vs-youtube/"><u>In 2024, A Deep-Dive Into Video Platform Profit Margins DailyMovement vs YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-ace-the-sky-best-drones-and-their-precision-editing-companions/"><u>In 2024, Ace the Sky Best Drones & Their Precision Editing Companions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-perfect-snap-infusing-dynamic-blur-into-faces-through-picsart-editing/"><u>In 2024, The Perfect Snap Infusing Dynamic Blur Into Faces Through Picsart Editing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-ai-for-success-4-methods-of-using-chatgpt-in-time-management/"><u>Leveraging AI for Success: 4 Methods of Using ChatGPT in Time Management</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-speeding-up-or-slowing-down-the-footage-is-a-simple-and-yet-effective-video-editing-technique-in-this-article-well-share-with-you-about-10-best-slow-and/"><u>New Speeding up or Slowing Down the Footage Is a Simple and yet Effective Video Editing Technique. In This Article, Well Share with You About 10 Best Slow and Fast Motion Video Apps for iOS and Android D</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-sudden-device-disconnection-dxgi/"><u>Remedy for Sudden Device Disconnection (DXGI)</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/top-pick-ai-pdf-to-word-convertors-and-must-have-pdf-file-saving-applications-the-ultimate-guide/"><u>Top Pick AI PDF to Word Convertors and Must-Have PDF File Saving Applications: The Ultimate Guide</u></a></li>
 </ul></div>
 

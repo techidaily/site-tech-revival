@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Large Language Models: Concepts & Operation"
-date: 2024-12-08T16:46:23.488Z
-updated: 2024-12-14T17:37:29.576Z
+date: 2024-12-20T19:18:47.033Z
+updated: 2024-12-23T16:22:35.860Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Speak to ChatGPT
 
  ChatGPT's Whisper integration allows you to use your voice to speak with ChatGPT instead of typing. The beauty of this lies in the fact that you can speed up your prompts instead of typing long and descriptive sentences.
@@ -33,20 +37,12 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -70,15 +66,19 @@ Close
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -104,20 +104,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-exploring-vlcs-screen-recorder-features/"><u>[New] 2024 Approved Exploring VLC's Screen Recorder Features</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-make-a-mark-with-minimal-fuss-simplified-video-editing-on-windows-10/"><u>[New] Make a Mark with Minimal Fuss Simplified Video Editing on Windows 10</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-on-capturing-facetime-calls/"><u>[New] Step-by-Step on Capturing FaceTime Calls</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-discover-the-top-10-vector-image-hubs/"><u>[Updated] 2024 Approved Discover the Top 10 Vector Image Hubs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-best-writing-across-the-spectrum-8-film-categories/"><u>2024 Approved Best Writing Across the Spectrum 8 Film Categories</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dji-inspire-2-full-review/"><u>DJI Inspire 2 Full Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-access-to-free-epson-et-2750-printer-software-for-windows-users/"><u>Easy Access to Free Epson ET-2750 Printer Software for Windows Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-ultimate-guide-to-androids-best-multiparty-calls/"><u>In 2024, The Ultimate Guide to Android's Best Multiparty Calls</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transforming-your-realplayer-ivr-files-into-mp4-format/"><u>Step-by-Step Guide: Transforming Your RealPlayer IVR Files Into MP4 Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-making-perfect-iso-copies-from-your-dvds-with-leading-conversion-tools/"><u>Step-by-Step Tutorial on Making Perfect ISO Copies From Your DVDs with Leading Conversion Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-top-10-universal-m4v-video-player-apps-compatible-with-all-devices/"><u>The Ultimate List of Top 10 Universal M4V Video Player Apps Compatible with All Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-dvd-region-unlocker-software-compatible-with-windows-10-and-11/"><u>Top DVD Region Unlocker Software Compatible with Windows 10 and 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-pick-ultimate-guide-to-convert-your-dvds-into-mp4-files-on-windows-10-and-11/"><u>Top Pick: Ultimate Guide to Convert Your DVDs Into MP4 Files on Windows 10 and 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-low-res-videos-to-crystal-clear-hd-1080p-easy-step-by-step-tutorial-for-pc-and-online-tools/"><u>Transform Low-Res Videos to Crystal Clear HD 1080P – Easy Step-by-Step Tutorial for PC and Online Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-download-accelerator-how-to-effortlessly-install-and-use-adm-on-windows-and-macos/"><u>Ultimate Download Accelerator: How to Effortlessly Install and Use ADM on Windows and macOS</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-industrys-airborenas-titans-10-lifters-reviewed/"><u>[New] Industry's Airborenas Titans 10 Lifters Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-power-of-precision-an-in-depth-tutorial-for-using-the-background-eraser-in-ps/"><u>[New] The Power of Precision An In-Depth Tutorial for Using the Background Eraser in PS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unlocking-magic-in-marketing-top-20-keyphrases-for-2024/"><u>[New] Unlocking Magic in Marketing - Top 20 Keyphrases for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-manufacture-jokes-memes-using-adobe/"><u>[Updated] In 2024, Manufacture Jokes Memes Using Adobe</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-perfectly-uploading-srt-files-a-comprehensively-reviewed-methodology/"><u>[Updated] In 2024, Perfectly Uploading SRT Files A Comprehensively Reviewed Methodology</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/avoid-youtube-previews-on-all-platforms-and-devices-for-2024/"><u>Avoid YouTube Previews on All Platforms & Devices for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cybersecurity-woes-the-attraction-to-chatgpt/"><u>Cybersecurity Woes: The Attraction to ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-best-free-artificial-intelligence-tools-to-enhance-email-writing-and-quickly-review-your-messages-with-chatgpt/"><u>Discover the Best Free Artificial Intelligence Tools to Enhance Email Writing and Quickly Review Your Messages with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dreams-and-data-how-ai-redefines-fantasy/"><u>Dreams and Data: How AI Redefines Fantasy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-preventing-openai-from-web-scraping-a-complete-guide/"><u>Effective Strategies for Preventing OpenAI From Web Scraping: A Complete Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficiently-crafting-multiples-with-canva-and-chatgpt/"><u>Efficiently Crafting Multiples with Canva & ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-ai-capabilities-explore-these-3-techniques-to-combine-chatgpt-and-wolfram-technology/"><u>Enhance AI Capabilities: Explore These 3 Techniques to Combine ChatGPT and Wolfram Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-workflow-efficiency-with-onlyoffice-docspace-and-chatgpt-integration/"><u>Enhancing Workflow Efficiency with ONLYOFFICE DocSpace and ChatGPT Integration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/examining-whether-generative-ai-is-transforming-into-a-tool-for-propagating-false-information/"><u>Examining Whether Generative AI Is Transforming Into a Tool for Propagating False Information</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-codegpt-the-ai-writing-program-does-it-truly-generate-code/"><u>Exploring CodeGPT: The AI Writing Program - Does It Truly Generate Code?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-deciphering-youtube-popularity-factors-for-higher-placement/"><u>In 2024, Deciphering YouTube Popularity Factors for Higher Placement</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/setting-up-your-hp-laserjet-remote-connection/"><u>Setting Up Your HP LaserJet Remote Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xbox-golds-shift-to-game-pass-inclusion/"><u>Understanding Xbox Gold's Shift to Game Pass Inclusion</u></a></li>
 </ul></div>
 

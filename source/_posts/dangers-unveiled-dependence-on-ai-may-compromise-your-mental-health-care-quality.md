@@ -1,7 +1,7 @@
 ---
 title: "Dangers Unveiled: Dependence on AI May Compromise Your Mental Health Care Quality"
-date: 2024-11-25T00:36:05.565Z
-updated: 2024-11-29T17:48:43.461Z
+date: 2024-12-22T17:32:00.478Z
+updated: 2024-12-23T18:50:08.681Z
 tags:
   - chatgpt
   - open-ai
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/e3e57dc288a15eebc6a087ce47534d889b154128f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -50,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/e3e57dc288a15eebc6a087ce47534d889b154128f
  In addition to the extensive library of community prompts, you can also use AIPRM for ChatGPT to create and save AI prompts for future use. This feature is especially useful if you have specific needs or frequently work on similar topics. It means you won't need to spend time crafting a new prompt for the same task each time you use ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is the AIPRM Chrome Extension Free?
@@ -60,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/e3e57dc288a15eebc6a087ce47534d889b154128f
 ![AIPRM for ChatGPT plans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-pricing-plan.jpeg)
 
  The free version of AIPRM can access the extensive library of Community Prompts, save two private prompt templates, and set favorite prompt templates, which is more than enough to get you started.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Install the AIPRM for ChatGPT Chrome Extension
 
@@ -83,10 +75,6 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
 ![The AIPRM green popup in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-green-popup.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As you can see, there are several tabs in the AIPRM dashboard, including:
 
 1. **Favorites** where you can save your commonly-used prompts.
@@ -98,11 +86,11 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
 ![The AIPRM for ChatGPT dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-chatgpt-dashboard.jpeg)
 
- You can start using AIPRM prompts by clicking the**Public** tab and scrolling through the list of available prompts. For instance, you can select the**Midjourney Prompt Generator** to get a detailed and descriptive prompt to generate a unique AI image. Type a keyword, and it will generate a detailed and descriptive prompt, which you can copy and paste into Midjourney.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can start using AIPRM prompts by clicking the**Public** tab and scrolling through the list of available prompts. For instance, you can select the**Midjourney Prompt Generator** to get a detailed and descriptive prompt to generate a unique AI image. Type a keyword, and it will generate a detailed and descriptive prompt, which you can copy and paste into Midjourney.
 
 ## How to Filter and Favorite AIPRM Prompts
 
@@ -112,7 +100,15 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
 ![The AIPRM for ChatGPT Activity filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/filter-aiprm-prompts.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the**Star** icon next to the prompt to add it to your**Favorites** tab. Next, go to the**Favorites** tab to view and access all your saved prompts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create AIPRM Prompts
 
@@ -136,6 +132,10 @@ To create a custom AIPRM prompt:
 
 ![AIPRM for ChatGPT prompt template creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-prompt-template-creation.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once your prompt is saved, you can find it under the**Own** tab.
 
  You have just created your first AIPRM prompt! Test it out and see what kind of response you get from ChatGPT. You can always edit your prompt by clicking the**pencil** icon next to it.
@@ -157,20 +157,22 @@ To create a custom AIPRM prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unveiling-brilliance-a-thorough-review-of-the-professional-quest-with-bl2711u/"><u>[New] 2024 Approved Unveiling Brilliance A Thorough Review of the Professional Quest with BL2711U</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-nighttime-narratives-in-pixels/"><u>[New] Nighttime Narratives in Pixels</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-navigating-photo-curvature-techniques-in-ps-for-2024/"><u>[Updated] Navigating Photo Curvature Techniques in PS for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/a-smart-inexpensive-music-companion-sandisk-clip-jam/"><u>A Smart, Inexpensive Music Companion - SanDisk Clip Jam</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-generative-ai-everything-you-need-to-know/"><u>Exploring the World of Generative AI: Everything You Need To Know</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-ahead-of-the-pack-with-these-7-free-ai-driven-trip-planning-tools-no-booking-hassle/"><u>Get Ahead of the Pack with These 7 Free AI-Driven Trip Planning Tools - No Booking Hassle</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/googles-bard-the-next-challenger-to-dominant-chatgpt/"><u>Google's 'Bard': The Next Challenger to Dominant ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-claude-outperforms-chatgpt-four-key-advantages-unveiled/"><u>How Claude Outperforms ChatGPT: Four Key Advantages Unveiled</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-narzo-60x-5g-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Narzo 60x 5G</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/investigating-the-safety-of-independent-chatgpt-plugins/"><u>Investigating the Safety of Independent ChatGPT Plugins</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/live-streaming-mastery-with-manycam-ultimate-software-and-virtual-camera-solutions/"><u>Live Streaming Mastery with ManyCam: Ultimate Software and Virtual Camera Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-the-art-of-poetic-expression-using-chatgpt-tools/"><u>Master the Art of Poetic Expression Using ChatGPT Tools</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/maximizing-velocity-in-real-time-periscope-livestreams/"><u>Maximizing Velocity in Real-Time Periscope Livestreams</u></a></li>
-<li><a href="https://win11.techidaily.com/smooth-file-saving-6-efficient-techniques-for-win11-ppt-errors/"><u>Smooth File Saving: 6 Efficient Techniques for Win11 PPT Errors</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-amazon-kindle-2019-a-cost-effective-reading-solution-for-the-modern-bibliophile/"><u>The Amazon Kindle (2019): A Cost-Effective Reading Solution for the Modern Bibliophile</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-iphone-video-playback-cycles/"><u>[New] In 2024, Mastering iPhone Video Playback Cycles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-all-in-one-app-analysis-tool-az-screen-capturer/"><u>[Updated] 2024 Approved All-in-One App Analysis Tool AZ Screen Capturer</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-classic-console-charisma-best-ps1-emulation-tools-reviewed/"><u>[Updated] 2024 Approved Classic Console Charisma - Best PS1 Emulation Tools Reviewed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-no-8-visual-artists-choice-for-photo-assembly/"><u>[Updated] 2024 Approved No. 8 Visual Artist's Choice for Photo Assembly</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-list-of-ios-tools-for-erasing-intrusive-images-for-2024/"><u>[Updated] The Ultimate List of iOS Tools for Erasing Intrusive Images for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques/"><u>2024 Approved From Concept to Screen Channel YT for Pioneering Filmmaking Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-group-photos-with-iphones-burst-shot/"><u>2024 Approved Perfect Group Photos with iPhone's Burst Shot</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964054970-get-the-latest-windows-compatible-sapphire-driver-updates-now/"><u>Get the Latest Windows-Compatible Sapphire Driver Updates Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-machine-learning-is-revolutionizing-game-creation-and-its-effects-on-the-market/"><u>How Machine Learning Is Revolutionizing Game Creation and Its Effects on the Market</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-successfully-deploy-and-configure-auto-gpt-in-your-ubuntu-environment/"><u>How to Successfully Deploy and Configure Auto-GPT in Your Ubuntu Environment</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-7-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-8-ai-powered-applications-you-need-on-your-mobile-device-android-and-ios/"><u>Leading 8 AI-Powered Applications You Need on Your Mobile Device (Android and iOS)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-knowledge-about-openai-a-thorough-exploration/"><u>Mastering Knowledge About OpenAI: A Thorough Exploration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-sound-design-tips-for-integrating-chatgpt-with-your-digital-audio-workstation/"><u>Mastering Sound Design: Tips for Integrating ChatGPT with Your Digital Audio Workstation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-ai-tools-as-a-freelancer-is-bing-chat-or-chatgpt-your-best-pick-8-considerations-you-cant-ignore/"><u>Navigating AI Tools as a Freelancer: Is Bing Chat or ChatGPT Your Best Pick? 8 Considerations You Can't Ignore</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-ai-congruence-dilemma-strategies-for-successful-alignment/"><u>Navigating the AI Congruence Dilemma: Strategies for Successful Alignment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-complexities-the-dilemma-of-aligning-machine-intelligence-with-human-values/"><u>Navigating the Complexities: The Dilemma of Aligning Machine Intelligence with Human Values</u></a></li>
 </ul></div>
 

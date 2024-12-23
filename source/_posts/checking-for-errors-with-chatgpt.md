@@ -1,7 +1,7 @@
 ---
 title: Checking for Errors with ChatGPT?
-date: 2024-12-11T16:27:33.814Z
-updated: 2024-12-14T16:23:57.105Z
+date: 2024-12-20T18:10:48.958Z
+updated: 2024-12-23T17:53:25.289Z
 tags:
   - chatgpt
   - open-ai
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Murder Mystery Mayhem
@@ -139,10 +139,6 @@ Close
 
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Oregon Trail
 
  Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not _the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
@@ -154,7 +150,7 @@ Close
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Poker
@@ -166,7 +162,7 @@ Close
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Console GPT
@@ -178,7 +174,7 @@ Close
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Input the type of game you want in the text box, select **Glif It!**, and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
@@ -204,7 +200,7 @@ Close
  Still, if you're into idle games and want to try something different, it could be worth a try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Cute Little Zombies
@@ -261,6 +257,10 @@ Close
 
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Console GPT
 
  Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
@@ -268,6 +268,10 @@ Close
  When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the [Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0), which is a custom AI art tool that will create your "cartridge."
 
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Input the type of game you want in the text box, select **Glif It!**, and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
 
@@ -280,7 +284,7 @@ Close
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Cookie Clicker
@@ -294,10 +298,6 @@ Close
  The custom GPT Cookie Clicker is decidedly different. You're still building up a cookie empire in a similar style, but because ChatGPT doesn't run automated commands and cannot keep the numbers ticking over like the original game, it requires more input.
 
  Still, if you're into idle games and want to try something different, it could be worth a try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Cute Little Zombies
 
@@ -321,6 +321,10 @@ Close
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Murder Mystery Mayhem
 
  Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925\.
@@ -334,10 +338,6 @@ Close
  Once you finger your suspect, you call in the Officer to make the arrest. Collar the wrong perp, and the game is over, and you begin with a new mystery.
 
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Oregon Trail
 
@@ -365,6 +365,10 @@ Close
 
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Input the type of game you want in the text box, select **Glif It!**, and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
 
  Now, download the Cyber Syndicate cartridge (as an image; it's not really a cartridge file) by hovering over the image and selecting **Download**.
@@ -374,10 +378,6 @@ Close
 Close
 
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Cookie Clicker
 
@@ -420,19 +420,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-vlogging-mastering-tripod-angles-and-positions-for-2024/"><u>[Updated] Elevate Your Vlogging Mastering Tripod Angles and Positions for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unraveling-the-magic-of-time-extension-in-reels/"><u>[Updated] Unraveling the Magic of Time Extension in Reels</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-comprehensive-guide-stopping-ad-tracker-intrusion-on-your-android-device/"><u>1. Comprehensive Guide: Stopping Ad Tracker Intrusion on Your Android Device</u></a></li>
-<li><a href="https://fox-access.techidaily.com/constructing-emotional-resonance-trailer-sound-selection-guide/"><u>Constructing Emotional Resonance Trailer Sound Selection Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-to-updating-a-google-pixel-device-via-sideload-no-ota-required/"><u>Guide to Updating a Google Pixel Device via Sideload - No OTA Required</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-s17-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-infinix-note-30-vip-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Infinix Note 30 VIP to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/iphoneandroiditunes/"><u>IPhone・Androidでの動画ミュージックコピー方法：カメラロールからiTunesへ</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/line-livewindowspc/"><u>LINE LIVE動画のWindowsPC向け保存ガイド：ダウンロード＆録画方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp3-6/"><u>MP3の明るい声を手に入れよう! 人気フリー音量上げツールとサイトランキング6位</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mpeg-dashhls-chrome-firefox/"><u>MPEG-DASH/HLSファイルのダウンロード - Chrome, Firefox方法ガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pandorasoundcloud/"><u>PandoraやSoundCloudのサブスクリプトされた音楽を保存する方法</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-ultimate-guide-to-win1011s-hdmi-update/"><u>The Ultimate Guide to Win10/11's HDMI Update</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mkv-to-wmv/"><u>フリープログラムを使ったMKV to WMV変換ガイド</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-the-art-of-measuring-igtv-video-quality/"><u>[New] 2024 Approved Mastering the Art of Measuring IGTV Video Quality</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-navigating-htc-vive-experience-without-nausea/"><u>[New] 2024 Approved Navigating HTC Vive Experience Without Nausea</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-exclusive-insights-into-windows-superior-video-players/"><u>[Updated] Exclusive Insights Into Window's Superior Video Players</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-leaders-at-play-examining-palm-2-and-gpt-4/"><u>AI Leaders at Play: Examining PaLM 2 and GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-power-dynamics-strong-vs-weak/"><u>AI Power Dynamics: Strong Vs. Weak</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/an-introduction-to-hugging-face-and-its-role-in-technology/"><u>An Introduction to Hugging Face and Its Role in Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-emojis-the-new-source-of-financial-guidance-insights-on-activision-security-breach-and-impacts-of-ai-like-chatgpt-in-employment/"><u>Are Emojis the New Source of Financial Guidance? Insights on Activision Security Breach & Impacts of AI Like ChatGPT in Employment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-affordable-openai-image-modifiers/"><u>Best Affordable OpenAI Image Modifiers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-brainstorming-skills-combining-mind-maps-and-ai-chat-gpt-for-ideas/"><u>Boost Your Brainstorming Skills: Combining Mind Maps and AI Chat GPT for Ideas</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/building-personalized-chatbot-versions-using-gpt-techniques-how-to-get-started/"><u>Building Personalized Chatbot Versions Using GPT Techniques: How to Get Started</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-rely-on-chatgpt-for-error-free-writing-assistance/"><u>Can You Rely on ChatGPT for Error-Free Writing Assistance?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-perfection-at-home-these-are-the-best-5-filming-hacks-for-2024/"><u>Capture Perfection at Home These Are the Best 5 Filming Hacks for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-mastery-advanced-strategies-for-highly-effective-professional-notes/"><u>ChatGPT Mastery: Advanced Strategies for Highly Effective Professional Notes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-set-up-not-functioning-properly/"><u>Graphic Set Up: Not Functioning Properly</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-15-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone 15?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-lava-yuva-3-phone-by-drfone-android/"><u>How to Unlock a Network Locked Lava Yuva 3 Phone?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/immersive-commerce-environments-design/"><u>Immersive Commerce Environments Design</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlocking-potential-with-innovative-cookiebot-solutions-for-websites/"><u>Unlocking Potential with Innovative Cookiebot Solutions for Websites</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlocking-smooth-gameplay-in-sea-of-thieves-by-eliminating-hang-ups/"><u>Unlocking Smooth Gameplay in Sea of Thieves by Eliminating Hang-Ups</u></a></li>
 </ul></div>
 

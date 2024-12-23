@@ -1,7 +1,7 @@
 ---
 title: "Art of AI Interaction: Top Tutorials for Commanders"
-date: 2024-12-10T18:01:20.253Z
-updated: 2024-12-14T17:11:07.358Z
+date: 2024-12-20T18:43:53.145Z
+updated: 2024-12-23T16:08:22.914Z
 tags:
   - chatgpt
   - open-ai
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/3bd086f6ddbea0000b61dea6630a396d485fdb4d6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Potential Risks of Generative AI to Spread Disinformation
 
  Generative AI poses many threats to people, like taking away jobs, more surveillance, and cyberattacks. And the[security problems with AI will get even worse](https://www.makeuseof.com/reasons-generative-ai-security-issues-will-worsen/) . But there's another worry: people can use it to spread lies. Deceptive individuals can use generative AI to share fake news through visual, auditory, or textual content.
@@ -42,12 +38,16 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
@@ -60,11 +60,11 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -77,10 +77,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -90,7 +86,7 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -111,6 +107,10 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -133,18 +133,16 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-professional-thumbnails-from-your-phone-for-youtube/"><u>[New] In 2024, Professional Thumbnails From Your Phone for YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-elevate-your-youtube-presence-with-these-8-free-courses/"><u>[Updated] 2024 Approved Elevate Your YouTube Presence with These 8 Free Courses</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hourly-highlight-reel-1-to-10-on-youtubes-view-chart-for-2024/"><u>[Updated] Hourly Highlight Reel #1 to #10 on YouTube's View Chart for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-reviewing-magix-music-production-for-budding-musicians-for-2024/"><u>[Updated] Reviewing Magix Music Production for Budding Musicians for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/web-teamszoom/"><u>悄々としたWebミーティングの記録: Teams・Zoom用隠密ガイド</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/alternative-methods-to-recharge-your-mobile-device-on-the-go/"><u>Alternative Methods to Recharge Your Mobile Device on the Go</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-epson-wf-3620-printer-drivers-compatible-with-windows-11-8-and-7/"><u>Download and Install Epson WF-3620 Printer Drivers: Compatible with Windows 11, 8, & 7</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oppo-a78-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Oppo A78 5G Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-streaming-sky-sports-on-kodi-complete-tutorial-with-images/"><u>Step-by-Step Guide to Streaming Sky Sports on Kodi - Complete Tutorial with Images</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-accessing-high-quality-flac-music-on-ios-platforms/"><u>Step-by-Step Tutorial: Accessing High-Quality FLAC Music on iOS Platforms</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211364635-9781732769564-the-keys-to-the-kingdom-and-the-second-war-in-heaven/"><u>The Keys to the Kingdom, and the Second War in Heaven | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-essential-tools-for-creating-professional-youtube-videos-desktop-and-online-solutions/"><u>Top 7 Essential Tools for Creating Professional YouTube Videos: Desktop and Online Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-troubleshooting-steps-solving-the-video-cannot-be-uploaded-to-instagram-issue/"><u>Ultimate Troubleshooting Steps: Solving the 'Video Cannot Be Uploaded to Instagram' Issue</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/cquire-unlimited-stock-images-via-top-4-youtube-sources/"><u>[New] Acquire Unlimited Stock Images via Top 4 YouTube Sources</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-slomo-videography-the-complete-app-analysis/"><u>[New] SloMo Videography The Complete App Analysis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/best-8-video-chat-apps-on-android-for-more-than-four-for-2024/"><u>Best 8 Video Chat Apps on Android for More Than Four for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-guide-mastering-the-divx-video-converter-on-your-mac/"><u>Comprehensive Guide: Mastering the DivX Video Converter on Your Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-benefits-and-operations-of-chatgpt-as-your-digital-assistant-in-web-browsing/"><u>Exploring the Benefits and Operations of ChatGPT as Your Digital Assistant in Web Browsing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-downside-why-you-should-think-twice-about-generative-ai-for-messaging-services/"><u>Exploring the Downside: Why You Should Think Twice About Generative AI for Messaging Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/for-novices-to-ai-here-are-9-must-know-toolkits/"><u>For Novices to AI, Here Are 9 Must-Know Toolkits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-your-chatgpt-app-up-and-running-again-9-proven-troubleshooting-tips-for-iphones/"><u>Get Your ChatGPT App Up and Running Again: 9 Proven Troubleshooting Tips for iPhones.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/giving-insight-into-auto-gpt-how-it-stands-separate-from-conversational-ai/"><u>Giving Insight Into Auto-GPT: How It Stands Separate From Conversational AI</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-m54-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy M54 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-full-potential-exploring-the-top-features-of-this-iphone-case-with-a-physical-keypad-insights-from-zdnet/"><u>Unlocking the Full Potential: Exploring the Top Features of This iPhone Case with a Physical Keypad - Insights From ZDNet</u></a></li>
 </ul></div>
 

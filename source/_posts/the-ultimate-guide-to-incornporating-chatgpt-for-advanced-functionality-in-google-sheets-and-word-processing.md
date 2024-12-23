@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Incornporating ChatGPT for Advanced Functionality in Google Sheets and Word Processing
-date: 2024-09-05T12:46:31.309Z
-updated: 2024-09-06T12:46:31.309Z
+date: 2024-12-20T18:36:54.050Z
+updated: 2024-12-23T18:38:49.610Z
 tags:
   - chatgpt
   - open-ai
@@ -15,12 +15,6 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
 
 ## Transform How You Navigate Information Seas with Perplexity AI - The Unsung Hero of Advanced Google Querying
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Perplexity AI, and What Can You Do With It?](https://www.makeuseof.com/perplexity-ai-best-ai-powered-google-search-tool/#what-is-perplexity-ai-and-what-can-you-do-with-it)
@@ -31,16 +25,14 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
 
  But what is Perplexity AI really about, and can you use it instead of Google?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Perplexity AI, and What Can You Do With It?
 
 ![screenshot showing perplexity ai on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-16-123353-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Perplexity AI is a conversational search engine that uses natural language text to answer questions. It was founded in 2022 by a quartet of former AI researchers from OpenAI and Meta: Aravind Srinivas, Andy Konwiski, Denis Yarats, and Johnny Ho.
 
  Unlike traditional search engines that rely on keyword matching and link analysis, Perplexity AI understands the context and intent behind your queries. It provides not just a list of links but a comprehensive answer with links to cited sources.
@@ -48,37 +40,25 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
  The Perplexity app is a mix of the[best features from ChatGPT](https://www.makeuseof.com/chatgpt-features-you-arent-using-but-should/) and Google. It features a chat interface similar to ChatGPT’s and a Related section similar to Google’s People also ask.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Perplexity AI Instead of Google Search
 
 ![perplexity app home screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-home-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![perplexity app discover page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-discover-page-screenshot.jpg)
 
 ![perplexity app library page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-library-page-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  Perplexity is intuitive and easy to use, and it's available as a mobile app and a web version. You can explore the app, ask a few questions, and see how it works without signing up. However, if you see yourself using the app after your test, we'd recommend you sign up. That way, you can preserve your search history so you can always refer to it.
@@ -96,25 +76,20 @@ Close
 ![screenshot showing search result on perplexity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-showing-search-result-on-perplexity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It's worth noting that[Google has been testing Search Generative Experience (SGE)](https://www.makeuseof.com/how-to-access-google-ai-powered-search/) , an AI-assisted search feature. SGE provides AI overviews of search queries similar to Perplexity AI. Perplexity AI currently does a better job of answering queries thoroughly and also provides in-text citations for cross-referencing. However, this is something Google can replicate, if it becomes where the battle line is drawn.
 
  Perplexity AI is reportedly working on bringing ads to its platform, per[The Verge](https://www.theverge.com/2024/4/1/24118154/perplexity-will-try-a-form-of-ads-on-its-ai-search-platform) . How it executes its ad features will determine much of the platform's future. Perplexity has a lot to prove (and improve!) to really stand up to Google.
 
  Perplexity AI's journey is one to watch, as it has the potential to carve out a significant niche in the search engine market. Its success will largely depend on how it integrates additional capabilities and responds to user feedback. Whether it will ever stand toe-to-toe with Google remains to be seen, but one thing is clear: Perplexity AI is a tool worth watching and, more importantly, using.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,4 +98,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-now-available-vr-hardware-specs/"><u>[New] Now Available VR Hardware Specs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-behind-the-scenes-with-intova-edge-x-for-2024/"><u>[Updated] Behind the Scenes with Intova Edge X for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-converting-tweeted-videos-into-playable-mp3-tracks-for-2024/"><u>[Updated] Converting Tweeted Videos Into Playable MP3 Tracks for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-getting-ahead-with-snapchats-latest-features/"><u>[Updated] In 2024, Getting Ahead with Snapchat's Latest Features</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-story-stealth-mode-accessible-for-everyone-without-link-sharing-for-2024/"><u>[Updated] Instagram Story Stealth Mode Accessible for Everyone without Link Sharing for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-snicker-sounds-hilarious-song-imitations/"><u>[Updated] Snicker Sounds Hilarious Song Imitations</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1-managing-high-iphone-photo-library-tips-and-solutions/"><u>1. Managing High iPhone Photo Library: Tips & Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cambia-tus-archivos-webm-al-formato-mp4-facilmente-y-gratuitamente-usando-el-servicio-en-linea-de-convertidor-de-video-de-movavi/"><u>Cambia Tus Archivos WEBM Al Formato MP4 Fácilmente Y Gratuitamente Usando El Servicio en Línea De Convertidor De Video De Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-top-5-dvd-to-mp4-video-converter-applications-for-seamless-online-editing-with-moveavi/"><u>Discover the Top 5 DVD-to-MP4 Video Converter Applications for Seamless Online Editing with Moveavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-mp4-converter-by-movavi-convert-your-videos-without-extra-charges/"><u>Free Online MP4 Converter by Movavi - Convert Your Videos Without Extra Charges</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/google-pngjpg-movavi/"><u>Google에서 찾기 쉬운 오픈 소스 PNG/JPG 변환 도구 - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guia-facil-de-reducir-el-tiempo-conversion-de-videos-en-tu-iphone-en-solo-cinco-pasos/"><u>Guía Fácil De Reducir El Tiempo: Conversión De Vídeos en Tu iPhone en Solo Cinco Pasos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-accessing-trendsetting-background-images-for-tiktok/"><u>In 2024, Accessing Trendsetting Background Images for TikTok</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-meilleures-applications-libres-pour-remplir-des-fichiers-pdf-sur-windows-et-macos/"><u>Top 10 Meilleures Applications Libres Pour Remplir Des Fichiers PDF Sur Windows Et macOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-12-gif-creation-tools-for-mac-users-discover-the-ideal-recorder/"><u>Top 12 GIF Creation Tools for Mac Users: Discover the Ideal Recorder</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-and-resolving-top-6-gpt-missteps/"><u>Unraveling & Resolving: Top 6 GPT Missteps</u></a></li>
+</ul></div>
 

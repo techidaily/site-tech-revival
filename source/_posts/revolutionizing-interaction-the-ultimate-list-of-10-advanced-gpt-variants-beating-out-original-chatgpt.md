@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Interaction: The Ultimate List of 10 Advanced GPT Variants Beating Out Original ChatGPT"
-date: 2024-12-07T16:01:32.746Z
-updated: 2024-12-08T17:04:09.149Z
+date: 2024-12-18T17:58:04.627Z
+updated: 2024-12-23T16:10:27.338Z
 tags:
   - chatgpt
   - open-ai
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tell ChatGPT Its Function and the Presentation Rules
 
@@ -84,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
 >
 > 4\. Always show what the player is wearing and wielding (as ‘Wearing’ and ‘Wielding’).
@@ -119,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Craft the Story, Setting, and NPCs
@@ -143,6 +135,10 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Add Combat and Magic Rules
 
@@ -170,10 +166,6 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -188,17 +180,21 @@ And finally, don’t forget to actually start the game:
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Complete ChatGPT RPG Prompt
 
@@ -298,6 +294,10 @@ And finally, don’t forget to actually start the game:
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
@@ -319,24 +319,22 @@ And finally, don’t forget to actually start the game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-harmony-hub-capture-store-and-review-sounds-for-2024/"><u>[New] Harmony Hub Capture, Store & Review Sounds for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-screen-recording-on-a-dell-workstation/"><u>[New] In 2024, The Ultimate Guide to Screen Recording on a Dell Workstation</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-birdie-ballet-bounce/"><u>[Updated] 2024 Approved Birdie Ballet Bounce</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unlock-professional-editing-techniques-in-fcp/"><u>[Updated] 2024 Approved Unlock Professional Editing Techniques in FCP</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-top-free-video-conversion-tools-mp4-avi-and-hevc-h265-format-changer-reviews/"><u>1. Top Free Video Conversion Tools: MP4, AVI & HEVC (H.265) Format Changer Reviews</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725285483067-mp4-mp3/"><u>如何免費地改變 MP4 到 MP3：這六大可靠的步驟指南</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-12-pro-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone 12 Pro Max? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/cmdusb4/"><u>CMD指令下如何成功撤销USB中的数据丢失——4个方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-your-blu-ray-discs-into-high-quality-mp3-files-easy-steps-and-tips/"><u>Convert Your Blu-Ray Discs Into High-Quality MP3 Files: Easy Steps and Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-techniques-for-consolidating-and-dividing-cells-within-microsoft-excel-spreadsheets/"><u>Easy Techniques for Consolidating and Dividing Cells Within Microsoft Excel Spreadsheets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-your-intel-unison-working-flawlessly-on-windows-11/"><u>Get Your Intel Unison Working Flawlessly on Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-infinix-hot-30-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Infinix Hot 30 5G Phones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725290105965-iphone/"><u>IPhone電源が落ちたり、勝手にリブートする事態の原因と対策法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/los-10-recomendados-optimizadores-de-video-con-ia-gratis-para-dispositivos-windows-and-mac/"><u>Los 10 Recomendados Optimizadores De Vídeo Con IA Gratis Para Dispositivos Windows & Mac</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-audio-for-an-epic-quest-fixing-silent-missions-in-pcs-borderlands-3-game/"><u>Restore Audio for an Epic Quest: Fixing Silent Missions in PC's Borderlands 3 Game</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/scarica-gratuitamente-il-decoder-dvd-perfetto-per-una-vasta-gamma-di-dispositivi-compatibili-con-i-dvd/"><u>Scarica Gratuitamente Il Decoder DVD Perfetto per Una Vasta Gamma Di Dispositivi Compatibili Con I DVD</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/techniques-pour-reduire-la-taille-de-votre-video-avi-sans-pertes-en-qualite-sur-windows-10/"><u>Techniques Pour Réduire La Taille De Votre Vidéo AVI Sans Pertes en Qualité Sur Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-rated-portable-dvd-writer-and-reader-for-pcs-with-windows-1110/"><u>Top-Rated Portable DVD Writer & Reader for PCs with Windows 11/10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-and-watch-dvds-effortlessly-with-dvd-decrypter-on-pc/"><u>Unlock & Watch DVDs Effortlessly with DVD Decrypter on PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-freedom-from-popups-discover-the-top-7-android-adblock-apps/"><u>[New] 2024 Approved Freedom From Popups? Discover the Top 7 Android AdBlock Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-audience-appeal-expert-tips-on-post-production-and-editing-in-garageband/"><u>[New] Audience Appeal Expert Tips on Post-Production and Editing in GarageBand</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-secure-your-videos-top-5-fb-downloader-apps-ranked/"><u>[New] In 2024, Secure Your Videos Top 5 FB Downloader Apps Ranked</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hythmic-revelations-top-15-vlogs-celebrating-music-creators-stories/"><u>[New] Rhythmic Revelations Top 15 Vlogs Celebrating Music Creators' Stories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-superior-free-reproduction-tools-for-switch-games-for-2024/"><u>[New] Superior Free Reproduction Tools for Switch Games for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-giroptic-camera-experience/"><u>[Updated] Comprehensive Giroptic Camera Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foundations-in-digital-visual-narratives/"><u>2024 Approved Foundations in Digital Visual Narratives</u></a></li>
+<li><a href="https://games-able.techidaily.com/block-or-unblock-handle-twitch-conversations-smartly/"><u>Block or Unblock: Handle Twitch Conversations Smartly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-guide-for-downloading-and-setting-up-llama-2/"><u>In-Depth Guide for Downloading & Setting up Llama 2</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-pursuing-prompt-engineering-a-legitimate-career-path-review-of-crucial-elements/"><u>Is Pursuing Prompt Engineering a Legitimate Career Path? Review of Crucial Elements</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-ai-art-gpt-powered-image-creation/"><u>Mastering AI Art: GPT-Powered Image Creation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-process-of-checking-medical-info-guidelines-for-chatgpt-and-ai-resources/"><u>Mastering the Process of Checking Medical Info: Guidelines for ChatGPT & AI Resources</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/new-era-for-businesses-integrating-gpt-chat-and-whisper-apis/"><u>New Era for Businesses: Integrating GPT-Chat and Whisper APIs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/preventing-unauthorized-ai-reproduction-leveraging-copyright-law-for-artists-and-their-creations/"><u>Preventing Unauthorized AI Reproduction: Leveraging Copyright Law for Artists and Their Creations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/proven-winners-analyzing-5-leading-ai-prompt-generators/"><u>Proven Winners: Analyzing 5 Leading AI Prompt Generators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/rethinking-artifice-intelligence-validation-alternatives-to-the-historic-turing-examination/"><u>Rethinking Artifice Intelligence Validation: Alternatives to the Historic Turing Examination</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/zooms-true-power-tripled-transformation-techniques/"><u>Zoom's True Power Tripled Transformation Techniques</u></a></li>
 </ul></div>
 

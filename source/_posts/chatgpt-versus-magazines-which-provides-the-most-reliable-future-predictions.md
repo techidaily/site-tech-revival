@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Versus Magazines: Which Provides the Most Reliable Future Predictions?"
-date: 2024-09-05T12:48:55.329Z
-updated: 2024-09-06T12:48:55.329Z
+date: 2024-12-16T18:18:52.886Z
+updated: 2024-12-23T16:05:43.973Z
 tags:
   - chatgpt
   - open-ai
@@ -13,18 +13,6 @@ excerpt: "This Article Describes ChatGPT Versus Magazines: Which Provides the Mo
 thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c863ef858ebb7371b469a682.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Selecting the Right AI Chatbot: Check Out These 7 Crucial Features First
 
  AI chatbots have changed our workflows in such a way that it's now becoming hard to imagine a world without them. As language models from Google, OpenAI, and Meta continue to evolve, the capabilities will only improve. There are already many chatbots that differ in terms of functionalities and the language model that they use.
@@ -37,28 +25,20 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 * Data privacy is a concern when using chatbots like ChatGPT, so it's important to ensure the service has good privacy policies and avoids sharing personal information.
 * AI chatbots with better contextual understanding, like ChatGPT Plus, provide more detailed responses, distinguishing them from search engines.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Response Accuracy
 
  AI chatbots can sometimes fall prey to[AI Hallucination, meaning the output can be inaccurate or illogical](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) . While chatbots are good at responding to basic prompts, they occasionally struggle with longer or more complex questions. It's the kind of tradeoff you expect when talking about bleeding-edge technology.
 
 [Various factors affect chatbot accuracy](https://www.makeuseof.com/test-factors-ai-chatbots-accuracy/) , such as comprehension and contextual memory. If you plan on subscribing to a chatbot service, try the free version first. Chatbots like ChatGPT and Perplexity have free versions that you can use to get an idea of accuracy. If the free version is good, the odds are that the paid version is even better.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Security and Data Privacy
 
 ![Man holding phone using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-phone-using-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While many people are beginning to use AI tools, we're still in largely uncharted territory. It's hard to predict how AI will affect society and how we will deal with it. There are also concerns that chatbots like[ChatGPT represent a privacy risk](https://www.makeuseof.com/chatgpt-privacy-risk/) . For example, ChatGPT developer OpenAI has stated that they review your ChatGPT conversations to further its training.
 
  It is uncertain how much data they're actually collecting and what they plan to do with it in the long term. The best you can do is ensure the service you're subscribing to has good privacy policies and you're not sharing personal data or private information with any generative AI chatbot.
@@ -76,20 +56,16 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 ![Laptop screen showing computer codes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/laptop-screen-showing-computer-codes.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Most AI chatbots are trained on a limited knowledge base. They have information cutoffs, meaning they can't access information released beyond a certain date. This is a well-known issue with ChatGPT, which is trained on data up to September 2021.
 
  Access to the internet is an obvious fix to this problem. Microsoft's[Bing is now powered by AI](https://www.makeuseof.com/more-likely-to-use-bing-now-powered-by-ai/) , meaning Bing AI Chat also has access to the web and can access relevant and updated information without any limits.[ChatGPT Plus also has this feature in the form of plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) , but you'll have to upgrade from the free version if you want to use them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Language Model
 
@@ -101,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 
 ![Cell phone screens with Hello in different languages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/cell-phone-screens-with-hello-in-different-languages.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  One of the best AI chatbot features is the ability to converse in different languages. You can type in almost any language; most AI chatbots will respond in the same tongue. However, not all AI chatbots can do this. For example, while Perplexity AI can understand most languages, it still defaults to responding to English. Fortunately, you can specify the language you want.
 
  One of the[many downsides of Google Bard](https://www.makeuseof.com/google-bard-cons/) at launch was its limited language support. Google has since fixed that issue with an update, and Bard can now respond to any language you want.
@@ -108,35 +88,24 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
  Multilingual support shouldn't be an issue as AI chatbots continue to improve. However, you should still try out a potential AI chatbot to ensure its translation features are up to par.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Cost and Plans
 
  Most AI chatbots have a free version and a premium version with advanced features. For example, ChatGPT's free version works great, but upgrading to Plus gives you access to GPT-4 and plugins. Similarly, Perplexity is free, but upgrading to Perplexity Pro gives you more GPT-4 uses and access to the file upload feature.
 
  You'll have to consider carefully whether the paid AI chatbot versions are worth it. Usually, the features are great for the price, but it depends on how much use you will get out of them. Remember that the paid versions also tend to be faster than the free ones. Paying for faster responses should be a no-brainer if your workflow involves time-sensitive projects.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should You Care About Paid Chatbot Services?
 
  While paid AI chatbot services are great, the free versions are often good enough. In fact, they're almost too good. GPT-3 or GPT-3.5 is enough for most people, meaning upgrading to GPT-4 might not be worth it for everyone. However, it's still worth it if you need more detailed and faster responses.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -145,4 +114,26 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-elevating-your-drone-racing-game-and-discovering-elite-fpv-uavs-for-2024/"><u>[New] Elevating Your Drone Racing Game & Discovering Elite FPV UAVs for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-pixels-to-popularity-crafting-engaging-youtube-thumbnails/"><u>[New] From Pixels to Popularity Crafting Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-showdown-bandicams-prowess-against-camtasia/"><u>[New] The Ultimate Showdown Bandicam's Prowess Against Camtasia</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wmbmp4/"><u>簡單上手！WMB到MP4的快速轉檔方法：這是如何操作</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/graduating-from-novice-to-3d-lut-maestro/"><u>Graduating From Novice to 3D LUT Maestro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-online-omvandelen-van-mp4-naar-mp3-professioneel-geoptimaliseerde-oplossing-met-movavi/"><u>Gratis Online Omvandelen Van MP4 Naar MP3 - Professioneel Geoptimaliseerde Oplossing Met Movavi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-g310-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia G310 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-oppo-a38-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Oppo A38 online without jailbreak</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-free-rmvb-to-mp4-converter-fast-e-fai-da-te-with-videmovil/"><u>Online Free RMVB to MP4 Converter - Fast E Fai Da Te with VideMovil</u></a></li>
+<li><a href="https://windows11.techidaily.com/overhauling-the-standard-windows-11-launch-page/"><u>Overhauling the Standard Windows 11 Launch Page</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tecnicas-modernas-para-confeccionar-colages-digitalmente-en-2024-los-mejores-pasos-a-seguir-guia-de-movavi/"><u>Técnicas Modernas Para Confeccionar Colages Digitalmente en 2024: Los Mejores Pasos a Seguir - Guía De Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-and-tricks-to-reset-your-gameplay-after-apex-crash/"><u>Tips and Tricks to Reset Your Gameplay After Apex Crash</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-media-seamlessly-convert-3gp-files-into-avi-using-movavis-no-cost-tool-online/"><u>Transform Your Media Seamlessly: Convert 3GP Files Into AVI Using Movavi's No-Cost Tool Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-full-potential-of-your-device-with-ios-18-eligible-iphone-models-revealed-and-step-by-step-download-instructions-zdnet/"><u>Unlock the Full Potential of Your Device with iOS 18: Eligible iPhone Models Revealed & Step-by-Step Download Instructions | ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/webp-bmp-webp-bmp/"><u>WEBP 및 BMP 이미지를 구성대로 원활하게 변환: 인터넷을 통해 WEBP 및 BMP 캐스탈로 제공</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-10web-free13/"><u>Windows 10互換の最適な無料Webカメラ製品リスト - FREEソフトウェアベスト13</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4m4a-movavi/"><u>오픈 원데이션 MP4/M4A 품사 전환 - Movavi: 비용 부과 없음</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4wtv-movavi/"><u>オンライン無料MP4WTV変換ツール Movaviですぐに始める</u></a></li>
+</ul></div>
 

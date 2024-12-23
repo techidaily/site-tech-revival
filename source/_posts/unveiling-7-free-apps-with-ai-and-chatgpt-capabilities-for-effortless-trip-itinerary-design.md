@@ -1,7 +1,7 @@
 ---
 title: Unveiling 7 Free Apps with AI & ChatGPT Capabilities for Effortless Trip Itinerary Design
-date: 2024-09-05T12:46:11.637Z
-updated: 2024-09-06T12:46:11.637Z
+date: 2024-12-18T18:02:00.329Z
+updated: 2024-12-23T16:44:39.721Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Unveiling 7 Free Apps with AI & ChatGPT Capabili
 thumbnail: https://thmb.techidaily.com/e8e4a6d6a9bc5b040ff402928b53a2666775b46cc9d58e885cce92052d4219a2.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Linus Tech Tips Reveals Major Vulnerabilities & Twitter Introduces Innovative 'Checkmark' Functionality
 
  In this week's podcast, we look at what Twitter's canceling of classic verification means, and explore how the Linus Tech Tips YouTube channel was hacked. Plus, we explain what Trojan malware is, and the biggest problems with OpenAI and ChatCPT.
@@ -26,17 +20,9 @@ thumbnail: https://thmb.techidaily.com/e8e4a6d6a9bc5b040ff402928b53a2666775b46cc
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
 This week, we chat about the following tech news that matters:
@@ -57,14 +43,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@gavinspavin](https://twitter.com/gavinspavin) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -73,4 +56,22 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-how-to-link-audio-to-facebook-profiles-iphoneandroid/"><u>[Updated] In 2024, How to Link Audio to Facebook Profiles (iPhone/Android)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-pathway-to-perfect-pitches-insights-from-magix-maker/"><u>2024 Approved The Pathway to Perfect Pitches Insights From Magix Maker</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversione-gratuiti-online-trasforma-file-webp-in-formato-jpeg-con-movielabs/"><u>Conversione Gratuiti Online: Trasforma File WEBP in Formato JPEG Con MovieLabs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descompunere-gratuita-si-simpla-in-time-de-webm-video-in-format-mp4/"><u>Descompunere Gratuita Și Simplă In-Time De Webm Video În Format Mp4</u></a></li>
+<li><a href="https://fox-making.techidaily.com/guide-recuperation-de-donnees-supprimees-a-partir-dune-carte-sd/"><u>Guide : Récupération De Données Supprimées À Partir D'une Carte SD</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/hack-the-youtube-timeline-increase-or-decrease-sound/"><u>Hack the YouTube Timeline Increase or Decrease Sound</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-gopro-innovations-a-side-by-side-exploration/"><u>In 2024, GoPro Innovations A Side-by-Side Exploration</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-it-worth-upgrading-to-samsung-galaxy-s24-ultra-from-your-current-s23-ultra/"><u>Is It Worth Upgrading to Samsung Galaxy S24 Ultra From Your Current S23 Ultra?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp3-vs-aac-audio-codecs-determining-superior-sound-quality-and-file-efficiency/"><u>MP3 Vs. AAC Audio Codecs: Determining Superior Sound Quality and File Efficiency</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-streaming-video-editor-convert-your-m4v-files-into-swf-format-by-movavi-free-of-cost/"><u>Online Streaming Video Editor - Convert Your M4V Files Into SWF Format by Movavi, Free of Cost!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-vrij-beschikbaar-m4v-wmv-vervanger-gratuitie-zeer-gewenst-kenniswijzer-movavi/"><u>Online Vrij Beschikbaar M4V-WMV Vervanger - Gratuitie Zeer Gewenst! Kenniswijzer Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-no-cost-mp4-audiobook-m4b-to-premium-flac-file-converter-using-movavi-technology/"><u>Online, No Cost MP4 Audiobook M4B to Premium FLAC File Converter Using Movavi Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-remedies-for-eliminating-minecraft-win-error-1/"><u>Quick Remedies for Eliminating Minecraft Win Error: 1</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformer-gratuitement-un-fichier-webp-en-png-via-linterface-en-ligne-de-movavi/"><u>Transformer Gratuitement Un Fichier WebP en PNG via L'interface en Ligne De Movavi</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/what-are-manipulative-links-defining-and-overcoming-the-challenge-for-your-websites-seo-success/"><u>What Are Manipulative Links? Defining & Overcoming the Challenge for Your Website's SEO Success</u></a></li>
+</ul></div>
 

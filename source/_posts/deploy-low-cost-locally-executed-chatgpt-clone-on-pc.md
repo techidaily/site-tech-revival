@@ -1,7 +1,7 @@
 ---
 title: Deploy Low-Cost, Locally Executed ChatGPT Clone on PC
-date: 2024-09-05T12:48:26.416Z
-updated: 2024-09-06T12:48:26.416Z
+date: 2024-12-17T17:23:53.395Z
+updated: 2024-12-23T16:06:30.940Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Deploy Low-Cost, Locally Executed ChatGPT Clone 
 thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4a725eae923eeb25fe929021.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mobile Phone Is 50, Ransomware Decryption Explained, and ChatGPT Writes Our Podcast
 
  Our weekly tech podcast for technophobes brings you the latest tech news that will affect you and some tips and tricks to help you get better results from your electronics.
@@ -32,11 +26,9 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -67,11 +59,9 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -102,11 +92,9 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -137,11 +125,9 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -164,15 +150,12 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 * [HelloTalk](https://www.hellotalk.com/?lang=en)
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@stegnersaurus](https://twitter.com/stegnersaurus), with your suggestions for future topics.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -181,4 +164,20 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-dazzling-design-discovering-three-instagram-highlight-hacks-for-2024/"><u>[New] Dazzling Design Discovering Three Instagram Highlight Hacks for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-ultimate-guide-to-whatsapp-audio-chat/"><u>[New] The Ultimate Guide to WhatsApp Audio Chat</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2024pcdltop10/"><u>2024年の鍵を握る最強PCゲームフリーDL場所ランキングTOP10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boost-canons-charm-10-free-luts-tailored-upgrades-await-for-2024/"><u>Boost Canon's Charm 10 Free LUTs, Tailored Upgrades Await for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/combine-sua-playlist-no-movavi-uma-abordagem-direta-e-pratica-para-melhorar-sua-experiencia-musical/"><u>Combine Sua Playlist No Movavi: Uma Abordagem Direta E Prática Para Melhorar Sua Experiência Musical</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-au-files-to-mp4-format-at-no-cost-with-movavis-instant-converter/"><u>Convert AU Files to MP4 Format at No Cost with Movavi's Instant Converter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-m4a-to-avi-files-free-online-converter-by-movavi/"><u>Convert M4A to AVI Files Free - Online Converter by Movavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-screen-capture-methods-for-rainbow-six-siege/"><u>Essential Screen Capture Methods for Rainbow Six Siege</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertise-in-ringtone-refinement-for-the-tech-savvy-for-2024/"><u>Expertise in Ringtone Refinement for the Tech Savvy for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/qt-mp4/"><u>QT ファイルを簡単にMP4に変換する:無料で行う方法</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-8-xbox-console-emulators-on-pcandroid-reviewed-objectively/"><u>The Ultimate Guide: Top 8 Xbox Console Emulators on PC/Android, Reviewed Objectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016882973-windows-11-sounds-dropping-out-heres-how-you-can-fix-it/"><u>Windows 11 Sounds Dropping Out? Here's How You Can Fix It</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-11-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 11?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Can Advanced Language Models Like ChatGPT Outperform Star Signs in Foreseeing Your Future?
-date: 2024-09-05T12:48:24.808Z
-updated: 2024-09-06T12:48:24.808Z
+date: 2024-12-17T16:20:36.993Z
+updated: 2024-12-23T18:12:14.419Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Can Advanced Language Models Like ChatGPT Outper
 thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39bbf16416336b018124bf2bc.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Instant Access to 8 Bespoke Language Models for Now
 
  Custom GPTs have generated enormous buzz since their November 2023 launch; these programmable mini versions of ChatGPT can be tuned to excel at specific tasks with almost endless potential.
@@ -40,11 +34,9 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
  Here's a guide on[how to create your first custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) if you're not sure how to.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Translation Tool
 
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
@@ -67,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 
 ![movie recommender Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/movie-recommender-custom-gpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Let's be honest, Netflix can be horrible at suggesting what to watch next. I asked classic ChatGPT to recommend some historical Korean TV shows. I wanted shows with themes of power, royalty, heroism, and war. The result was a mixed bag. Some options were strong, while others seemed randomly selected based on popularity rather than relevance.
 
  Of course, I built a custom K-Drama GPT by uploading several lists and reviews of the best Korean TV shows online. I also uploaded a small text file of what I love to see in Korean TV shows. When queried, this tailored GPT provided targeted drama suggestions that precisely matched my request—complex power dynamics, royal intrigue, bold heroes, and military conflicts. The difference was night and day. If historical K-dramas are your favorite genre, you can try out my K-Drama GPT.
@@ -78,11 +74,9 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Another very exciting use case for GPTs is creating games. You can bring almost any text and image-based games you can think of into reality. You can program, modify the rules, and play games like Tic-Tac-Toe, Hangman, Word Ladder, and more. We've previously created a list of simple but[interesting games you can play with ChatGPT](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/) . You can spice those games up by invoking the DALL-E image creator to create scenery and characters on the go.
 
  We tried several RPG games with GPTs, which were impressive and immersive. Coming up with the rules can be a bit tedious, but you'll find several sites dedicated to creating prompts for RPG games on ChatGPT. A good example is[RPG Prompts](http://www.rpgprompts.com/) ; you'll find dozens of interesting RPG prompts you can use to kickstart your RPG experience on ChatGPT.
@@ -93,22 +87,10 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 
 **Try this GPT** :[Dungeon Weaver](https://chat.openai.com/g/g-BRT1bAbjI-dungeon-weaver) .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Personal Tutor
 
 ![Custom GPT for Abstract math tutoring](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-abstract-math-tutoring.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Custom GPT models offer exciting new ways to accelerate learning and preparation, whether you're a student prepping for exams, a professional gearing up for interviews, or anyone looking to upskill rapidly. Leveraging GPT-4's vast context window, you can create specialized GPTs that serve as expert tutors on specific subjects. Feed them textbooks, course materials, flashcards, and other learning resources from the field you want to master.
 
  For example, if you have an upcoming physics exam, build a custom Physics GPT by uploading all your class notes, practice problems, textbooks, and study guides. You can then efficiently quiz the AI tutor to identify key concepts, take automatically generated practice tests, and get explanations of complex topics at your own pace.
@@ -118,21 +100,13 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 **Try this GPT** :[Abstract Math Genius](https://chat.openai.com/g/g-wFmBbvdm0-abstract-math-genius) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Niche Tools for Work
 
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Could custom GPTs improve your workflow or automate tasks in your job? For many roles, the answer is yes. Consider your typical work responsibilities and identify repetitive or time-consuming areas that could benefit from AI assistance.
 
  For example, as a graphic designer side gig, I built a custom GPT to create geometric Google-inspired logos using my client's brand colors: blue, red, yellow, and green. I trained it by uploading several examples of logos we designed in this style. Now, when prompted to create a logo for anything, the GPT generates professional logo options that meet the brand requirements. While a simple illustration, it demonstrates how tailored GPTs can replicate elements of human work.
@@ -142,25 +116,20 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
  Another example I tried was building a GPT for interior design. After teaching the GPT the kind of designs I liked, prompting the GPT to provide interior design ideas based on certain parameters was quite easy. With custom GPTs, there are many angles to explore; it all boils down to what you do and how creative you get. The possibilities to leverage GPTs are vast across professions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Custom GPTs: Endless Possibilities for Work and Fun
 
  While ChatGPT provides a strong foundation, custom GPTs can take performance to new levels in specific domains. By training GPTs on niche datasets, we can create purpose-built AI assistants that excel at specific needs. The applications are vast, and we've barely scratched the surface of what could be possible.
 
  While Custom GPTs are still in their infancy, early examples provide a glimpse of their potential. As the technology matures, it will become an indispensable tool. With good data and clear objectives, our programmable companions can solve problems we never dreamed AI could handle. So don't just use ChatGPT as-is—start building your own custom GPTs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,4 +138,24 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-aurora-hdr-assessment-excellence-or-overkill/"><u>[New] Aurora HDR Assessment Excellence or Overkill?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-pro-tips-to-perfect-minecraft-pixelation/"><u>[New] In 2024, Pro Tips to Perfect Minecraft Pixelation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/avoiding-edgenuitys-grasp-tips-for-quickly-skipping-video-lessons-for-2024/"><u>Avoiding Edgenuity's Grasp Tips for Quickly Skipping Video Lessons for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-gratuite-de-fichiers-ogg-vers-mp4-sur-internet-avec-movavi-guide-complet/"><u>Conversion Gratuite De Fichiers OGG Vers MP4 Sur Internet Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-audio-files-for-free-with-moveavis-online-tools-ape-and-m4a-support/"><u>Convert Audio Files For Free with Moveavi's Online Tools - APE & M4A Support</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/converti-file-mpe-in-formato-m4a-gratuitamente-online-con-movavi/"><u>Converti File MPE in Formato M4A Gratuitamente Online Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertir-archivo-pef-a-formato-digital-de-forma-gratuita-con-movavi/"><u>Convertir Archivo PEF a Formato Digital De Forma Gratuita Con Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-gimbals-for-dslr-and-mobiles-no-more-shakes/"><u>Cutting-Edge Gimbals for DSLR & Mobiles - No More Shakes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-oppo-a18-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Oppo A18</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-steps-downloading-and-updating-your-microsoft-bluetooth-drivers-on-windows-10-11-8-or-7/"><u>Easy Steps: Downloading and Updating Your Microsoft Bluetooth Drivers on Windows 10, 11, 8, or 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ecoflow-river-3-unleashed-the-ultimate-guide-to-the-best-budget-friendly-portable-battery-as-endorsed-on-zdnets-testing-lab/"><u>EcoFlow River 3 Unleashed: The Ultimate Guide to the Best Budget-Friendly, Portable Battery as Endorsed on ZDNET's Testing Lab</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuito-cambia-archivo-wmv-a-formato-m4a-en-linea-con-movavi/"><u>Gratuito: Cambia Archivo WMV a Formato M4A en Línea Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimiser-la-qualite-dimages-avec-movavi-photo-editor-astuces-et-conseils/"><u>Optimiser La Qualité D'images Avec Movavi Photo Editor - Astuces Et Conseils</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/permanent-movie-subtitle-integration-a-step-by-step-guide-with-movavi/"><u>Permanent Movie Subtitle Integration: A Step-by-Step Guide with Movavi</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/transferring-your-data-securely-backing-up-files-on-windows-11-using-an-external-hdd-three-methods-explored/"><u>Transferring Your Data Securely: Backing Up Files on Windows 11 Using an External HDD - Three Methods Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformar-mp3-en-mp4-por-internet-sin-coste-con-excelente-calidad-original-preservada/"><u>Transformar MP3 en MP4 Por Internet Sin Coste Con Excelente Calidad Original Preservada</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/western-digitals-latest-qlc-ssd-outperforms-previous-tlc-model-by-165-unveiling-the-sn50/"><u>Western Digital's Latest QLC SSD Outperforms Previous TLC Model by 16.5% - Unveiling the SN50</u></a></li>
+</ul></div>
 

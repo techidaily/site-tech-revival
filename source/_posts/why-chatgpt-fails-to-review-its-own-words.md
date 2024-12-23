@@ -1,7 +1,7 @@
 ---
 title: Why ChatGPT Fails to Review Its Own Words
-date: 2024-12-07T18:10:53.674Z
-updated: 2024-12-14T17:56:31.188Z
+date: 2024-12-16T18:42:33.701Z
+updated: 2024-12-23T17:24:49.142Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -65,7 +65,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
@@ -79,7 +79,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
@@ -96,10 +96,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Upgraded Code Analysis
 
  The previous ChatGPT Code Interpreter is now called Advanced Data Analysis (ADA). Since it is already out of beta and ChatGPT plugins are no longer available, ADA is now an integrated feature within both ChatGPT-4 and ChatGPT-4o, and both Free and Plus tier users now have this feature. No plugin or activation is needed; simply prompt ChatGPT to run, analyze, or write code, and it should do the rest for you.
@@ -109,12 +105,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Temporary Chat
 
@@ -141,18 +141,24 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/1-easy-steps-to-access-your-dvf-music-files-and-transform-them-into-mp3-format/"><u>1. Easy Steps to Access Your DVF Music Files & Transform Them Into MP3 Format</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-15-sites-offering-premium-free-vectr-and-illustration-tools-and-services/"><u>2024 Approved 15 Sites Offering Premium-Free Vectr and Illustration Tools & Services</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-uploading-videos-into-personalized-playlists/"><u>2024 Approved Mastering the Art of Uploading Videos Into Personalized Playlists</u></a></li>
-<li><a href="https://facebook.techidaily.com/challenging-the-notion-of-facebook-supremacy/"><u>Challenging the Notion of 'Facebook Supremacy'</u></a></li>
-<li><a href="https://discover-help.techidaily.com/comment-recuperer-des-fichiers-supprimes-sur-un-portable-acer/"><u>Comment Récupérer Des Fichiers Supprimés Sur Un Portable Acer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726028116080-divxmp4/"><u>DivXに完璧に変換！MP4ファイルを一括で素早く、美しく！</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guia-facil-de-pesar-a-pasos-como-desenfocar-videos-en-linea/"><u>Guía Fácil De Pesar a Pasos: Cómo Desenfocar Videos en Línea</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-danger-lurking-online-spotting-the-falsehood-of-fake-viewers-on-youtube/"><u>In 2024, Danger Lurking Online Spotting the Falsehood of Fake Viewers on YouTube</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-how-to-flip-a-clip-in-final-cut-pro-with-4-steps/"><u>In 2024, How to Flip a Clip in Final Cut Pro with 4 Steps</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726029987997-iosandroid/"><u>IOS/Android対応:ボイス録音音量上げ機能を持つ人気アプリランキング</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-102024dvd/"><u>Windows 10で2024年のDVDファイルを自由にダウンロードするレシピ</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/wmv-to-avi-conversion-guide-simple-steps-and-tools/"><u>WMV to AVI Conversion Guide: Simple Steps & Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-professional-techniques-for-superior-audacity-sessions/"><u>[New] 2024 Approved Professional Techniques for Superior Audacity Sessions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-eyecatch-protector-cam-cover-for-2024/"><u>[New] Eyecatch Protector Cam Cover for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-mute-auto-generated-youtube-content-trails/"><u>[New] In 2024, Mute Auto-Generated YouTube Content Trails</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-your-blueprint-for-broadcasting-live-on-facebook/"><u>[New] In 2024, Your Blueprint for Broadcasting Live on Facebook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-spy-on-fb-chronicles-discreetly/"><u>[New] Spy on FB Chronicles Discreetly</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-key-methods-to-incorporate-facebook-live-into-website-designs/"><u>[Updated] 2024 Approved Key Methods to Incorporate Facebook Live Into Website Designs</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/5ywo6z2i5qc85byp5yyw5oml5yak77ya5aac5l2v5pyj5pwi5zyw5yplusw5rai56gs56kf6ziy5q2i5pu45aplusr5lplusd6k23/"><u>全面格式化手冊：如何有效地取消硬碟防止書寫保護</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-steps-removing-redundant-songs-from-your-itunes-library/"><u>Easy Steps: Removing Redundant Songs From Your iTunes Library</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-suggestion-system-what-it-means-for-you/"><u>Facebook’s Suggestion System: What It Means for You</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/silicon-sense-and-cyber-shields-telling-techs-jestful-journey/"><u>Silicon Sense & Cyber Shields: Telling Tech's Jestful Journey</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplified-explanation-for-interacting-with-shared-chatgpt-links/"><u>Simplified Explanation for Interacting with Shared ChatGPT Links</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplify-composing-hard-to-write-work-emails-using-chatgpt/"><u>Simplify Composing Hard-to-Write Work Emails Using ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-art-of-effective-brainstorming-leveraging-mindmaps-and-chatgpt-for-idea-exploration-and-development/"><u>The Art of Effective Brainstorming: Leveraging Mindmaps & ChatGPT for Idea Exploration and Development</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-of-ai-and-the-turing-test-is-total-deception-achievable/"><u>The Future of AI and the Turing Test: Is Total Deception Achievable?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-real-deal-on-artificebotics-busting-popular-legends-and-lore/"><u>The Real Deal on Artificebotics: Busting Popular Legends and Lore</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-top-8-influences-of-ai-powered-conversational-agents-in-content-generation/"><u>The Top 8 Influences of AI-Powered Conversational Agents in Content Generation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-transformative-path-openais-gpt-series/"><u>The Transformative Path: OpenAI's GPT Series</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-crafting-impeccable-chatgpt-queries-steering-clear-of-6-frequent-missteps/"><u>The Ultimate Guide to Crafting Impeccable ChatGPT Queries: Steering Clear of 6 Frequent Missteps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-12-converter-di-file-mkv-gratis-per-mac-e-pc/"><u>Top 12 Converter Di File MKV Gratis per Mac E PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Enhanced Storytelling: Using ChatGPT to Add Depth to D&D Games"
-date: 2024-11-23T00:26:07.584Z
-updated: 2024-11-29T16:17:25.690Z
+date: 2024-12-17T18:46:59.541Z
+updated: 2024-12-23T16:27:25.961Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/f3f2548974ead8262f3cbe2023235f7ed337f6212
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 1: Download Python and AutoGPT
 
  Despite what you may have read elsewhere, installing Auto-GPT is pretty straightforward.
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/f3f2548974ead8262f3cbe2023235f7ed337f6212
  Once downloaded, double-click on the file to install Python. Make sure to tick the box for**Add python.exe to PATH** . This will enable your PC to use Python anywhere in your PC. After that, go ahead and click**Install Now** .
 
 ![A tab showing a tab to install Python ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-install-python.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After Installing Python, you can download Auto-GPT from GitHub.
 
@@ -63,20 +55,24 @@ After Installing Python, you can download Auto-GPT from GitHub.
 ![Create API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-create-test-key.jpg)
 3. Now you have your API key, go to your Auto-GPT folder and open the**.env** file using Notepad.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
 4. Once opened, scroll down to the**LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 3: Install Auto-GPT Dependencies
 
@@ -92,7 +88,7 @@ python -m autogpt
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Congratulations! You have successfully Installed Auto-GPT.
@@ -115,6 +111,10 @@ Congratulations! You have successfully Installed Auto-GPT.
 
 ![Creating Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/recipe-generator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In this example, we have named our AI assistant "Recipe-Generator." Its role is to make a recipe based on the top five ingredients readily available in the US. We've set the first three goals as parameters on what we expect the recipe will be and set the last two to tell Auto-GPT to save the file as TXT, then shutdown.
 
 ![Running Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-recipe-generator-thinking.jpg)
@@ -136,7 +136,7 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 ![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
@@ -184,22 +184,16 @@ After making the recipe, our AI has now completed its task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-ultimate-list-of-ios-camera-apps-for-the-iphone-xplus-series/"><u>[New] In 2024, The Ultimate List of iOS Camera Apps for the iPhone X+ Series</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-blade-chroma-revolutionized-by-quad-hd-technology-for-2024/"><u>[Updated] Blade Chroma Revolutionized by Quad-HD Technology for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-family-bonding-through-film-the-ultimate-classics-list/"><u>[Updated] In 2024, Family Bonding Through Film The Ultimate Classics List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/imagery-inspiration-skillful-grading-techniques-for-2024/"><u>Imagery Inspiration Skillful Grading Techniques for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-nokia-c32-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Nokia C32 by Name | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-gt-10-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Infinix GT 10 Pro Phone without PIN</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-unveil-clarity-the-finest-10-online-editing-utilities-ranked/"><u>In 2024, Unveil Clarity The Finest 10 Online Editing Utilities Ranked</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/installing-and-configuring-auto-gtp-on-ubuntu-for-optimal-performance/"><u>Installing and Configuring Auto-GTP on Ubuntu for Optimal Performance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leverage-chatgpts-power-for-creating-captivating-youtube-video-scripts/"><u>Leverage ChatGPT's Power for Creating Captivating YouTube Video Scripts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-successful-career-advancement-a-6-step-guide/"><u>Leveraging ChatGPT for Successful Career Advancement: A 6-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-academic-writing-leveraging-chatgpt-for-enhanced-research-and-essays/"><u>Mastering Academic Writing: Leveraging ChatGPT for Enhanced Research & Essays</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-setting-achievable-wellness-objectives-using-chatgpt/"><u>Mastering the Art of Setting Achievable Wellness Objectives Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-chatgpt-widget-on-android-tips-and-techniques/"><u>Mastering the ChatGPT Widget on Android: Tips and Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/microsofts-gpt-vs-anthropics-claude-which-leads-the-ai-chatbot-revolution/"><u>Microsoft's GPT Vs. Anthropic's Claude - Which Leads the AI Chatbot Revolution?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pinnacle-picture-enhancer-resolution-rise/"><u>Pinnacle Picture Enhancer Resolution Rise</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protect-academic-integrity-essential-ai-detection-software-for-teachers-and-lecturers-using-gpt-technology/"><u>Protect Academic Integrity: Essential AI Detection Software for Teachers & Lecturers Using GPT Technology</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-c67-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme C67 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-indispensable-sandbox-journeys-await/"><u>[New] In 2024, Indispensable Sandbox Journeys Await</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-examination-of-the-samsung-galaxy-s21-ultra-androids-premier-choice/"><u>Comprehensive Examination of the Samsung Galaxy S21 Ultra: Android's Premier Choice</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-a2plus-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-implementing-gradual-audio-diminishment-in-lumafusion/"><u>In 2024, Implementing Gradual Audio Diminishment in Lumafusion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-band-performances-web/"><u>In 2024, Premier Band Performances Web</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-18-update-enables-native-phone-call-recording-without-extra-apps-insights/"><u>IOS 18 Update Enables Native Phone Call Recording Without Extra Apps - Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/journey-through-genres-top-5-apps-using-artificial-intelligence-for-reading/"><u>Journey Through Genres: Top 5 Apps Using Artificial Intelligence for Reading</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/keep-bot-discussions-private-and-safe/"><u>Keep Bot Discussions Private & Safe</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/llama-2-uncovered-comprehensive-insights-on-usage-and-capabilities/"><u>Llama 2 Uncovered: Comprehensive Insights on Usage & Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-your-notes-with-these-6-innovative-ai-applications/"><u>Master Your Notes with These 6 Innovative AI Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-academic-writing-leveraging-chatgpts-power/"><u>Mastering Academic Writing: Leveraging ChatGPT's Power</u></a></li>
 </ul></div>
 

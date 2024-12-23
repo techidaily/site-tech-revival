@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Productivity: Mastering Anthropic’s Latest Claude 3 Prompt Store Features"
-date: 2024-12-13T17:32:00.366Z
-updated: 2024-12-14T17:05:26.029Z
+date: 2024-12-16T18:06:22.437Z
+updated: 2024-12-23T16:30:58.206Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -42,17 +42,9 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
  In reality, the differences can be a bit subtle as they're not immediately noticeable. However, the more you use it, the sooner you realize that GPT-4 has a better chance of providing the correct response on its first attempt. It's also more accurate and doesn't fall victim to AI hallucinations as often.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Image Input
 
 ![ChatGPT Plus image input feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-plus-image-input-feature.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: Handwriting by Dan4th Nicholas/[Flickr](http://www.flickr.com/photos/dan4th/)
 
@@ -69,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
  Internet access lets you summarize articles, conduct up-to-date market research, and find recent news stories and papers. ChatGPT can also access a wider dataset and deliver more accurate responses. So, with the $20/month subscription, the knowledge cutoff is no longer a problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. DALL·E 3 Art Creation
@@ -81,22 +73,22 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 ![DALL-E 3 and GPT-4 story writing skill](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dall-e-3-and-gpt-4-story-writing-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the story was complete, it automatically took all those DALL·E 3 prompts from above, generated images, and presented them to me.
 
 ![​​​​​​​DALL·E 3 book illustrations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dall-e-3-book-illustrations.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is how easy it has become to write a story and have beautiful illustrations! Again, if something makes the $20/month ChatGPT Plus subscription seem cheap and extremely valuable, it's definitely the combo of DALL·E 3 and GPT-4.
 
 ## 5\. Plugin Access
 
 ![chatgpt plugins option selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/chatgpt-plugins-option-selection.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Plugin access gives ChatGPT Plus a level of customization that you won't find with its competitors. These plugins serve as third-party software components that integrate with ChatGPT. While the feature is currently in beta, you can[install plugins from the plugin store](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) and pick from over 100 different options.
 
@@ -109,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
  To enable this feature, click the**Account Settings** button in the bottom-left corner of the screen. Then, go to**Settings & Beta > Beta Features** and toggle the**Advanced data analysis** option. Once the feature is toggled, you can upload the spreadsheet using the**plus sign** button in the left corner of the ChatGPT text field.
 
 ![Advanced data analysis ChatGPT prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-data-analysis-chatgpt-prompt-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After it's uploaded, you can ask ChatGPT what you'd like it to do with the data, and it will oblige. I uploaded a random CSV and asked it to create visuals.
 
@@ -125,7 +121,7 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
  Fortunately, ChatGPT Plus is available almost all the time. The service is designed to give priority access to Plus subscribers, so you can use it even during peak usage times. Paying for the service is a no-brainer if your business or workflow heavily depends on ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Seamless Interactions
@@ -143,6 +139,10 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
  Since GPT-4 is trained on a larger data set, it is much better at responding to non-English prompts. It does a good job of responding almost like a person who understands linguistic patterns, nuances, and cultural context. GPT-3.5 has decent translation capabilities, but GPT-4 is better as it's more likely to generate accurate and coherent responses.
 
  You also get access to multiple plugins that can help with your language-learning journey. The new Speak plugin is an excellent example of this. It helps you pronounce certain phrases, gives you alternate ways to express the same sentiment, and shows you examples that replicate real-life conversations in any language.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Plus Is Worth the Upgrade
 
@@ -165,24 +165,16 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-final-cut-pro-mastery-secrets-revealed/"><u>[New] Free Final Cut Pro Mastery Secrets Revealed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/202-4-tokyo-motion-video/"><u>「202 4 Tokyo Motion Videoダウンロードガイド - 簡単かつセキュリティに優れています」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726028462406-aiffm4a/"><u>「AIFF音声ファイルをM4Aに容易にアップコンバートする手引き」</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-design-gif-for-sharing/"><u>2024 Approved Design Gif for Sharing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726028489390-2024-dvd/"><u>2024新刊 DVD-イメージファイルを読むためのガイド - 正しい使い方</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726029389686-av1/"><u>高効率なAV1でのビデオエンコード手順解説</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726029698751-wma/"><u>古く見えるWMA音源に新しい命を！容易に他の形式への変換技術を学ぶポイント。</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-guide-overcoming-steam-write-disc-errors-quickly/"><u>Effortless Guide: Overcoming Steam Write Disc Errors Quickly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhanced-chat-functionality-arrives-on-googles-gemini-platform-free-and-popular-options-now-available/"><u>Enhanced Chat Functionality Arrives on Google's Gemini Platform - Free and Popular Options Now Available</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-consumers-speak-the-vllo-narrative/"><u>In 2024, Consumers Speak The VLLO Narrative</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-v27-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo V27 Phone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-prime-binge-worthy-hits-highest-tweets-and-view-counts/"><u>In 2024, Prime Binge-Worthy Hits Highest Tweets & View Counts</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-wi-fi-deletion-on-windows-11/"><u>Navigating Wi-Fi Deletion on Windows 11</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-how-to-merge-video-and-audio-for-2024/"><u>New How to Merge Video and Audio for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726029441413-obs5/"><u>OBS用の5つの優れた動画編集プログラム</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/professionelle-anleitung-zum-erweiterung-des-speichers-nvme-ssd-in-deinem-dell-inspiron-5570-installieren/"><u>Professionelle Anleitung Zum Erweiterung Des Speichers: NVMe-SSD in Deinem Dell Inspiron 5570 Installieren</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44k344on44od44oi44kt44ol44o844oi44ks5l244gj44gf6ksh5pww5yuv55s757wq5zci5oml6acgic0g44k544og44o844k644gq5pig5yop44oe44or44ob44oh44oh44kj44ki5l2c5oiq/"><u>ショットキュートを使った複数動画結合手順 - スムーズな映像マルチメディア作成</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44k544ou44o844kr44o844gu6zplusz44ks5q2j56k644gr6kiy6yyy44gz44kl5bcc6zaa55qe44gq5oqa6kgt/"><u>スピーカーの音を正確に記録する専門的な技術</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030276037-pc/"><u>ダビデの映像をPCで使えるようにする手順「マックとウインドゥズ対応」</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-simplified-techniques-for-crafting-captions-on-fb-videos/"><u>[New] Simplified Techniques for Crafting Captions on FB Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweeted-vids-to-mp4wav-conversion/"><u>[New] Tweeted Vids to MP4/WAV Conversion</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-free-nba-live-streams-15-ways-to-watch-the-action-for-2024/"><u>[Updated] Free NBA Live Streams 15 Ways to Watch the Action for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/7-critical-blunders-to-steer-clear-of-with-generative-ai-technologies/"><u>7 Critical Blunders to Steer Clear of with Generative AI Technologies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ais-dark-side-exploring-5-methods-used-by-hackers/"><u>AI's Dark Side: Exploring 5 Methods Used by Hackers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ais-influence-on-the-future-of-employment/"><u>AI's Influence on the Future of Employment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/battle-of-the-brains-which-reigns-supreme-llama-3-or-gpt-4/"><u>Battle of the Brains: Which Reigns Supreme, Llama 3 or GPT-4?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/become-an-expert-in-chatgpt-with-this-chrome-extension/"><u>Become an Expert in ChatGPT with This Chrome Extension</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-protection-and-price-point-for-finties-macbook-pro-13-case/"><u>Comprehensive Review: Protection & Price Point for Fintie's MacBook Pro 13 Case</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-motorola-moto-g14-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Motorola Moto G14 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-mac-green-screen-software-finding-the-perfect-fit-for-you/"><u>New In 2024, Mac Green Screen Software Finding the Perfect Fit for You</u></a></li>
 </ul></div>
 

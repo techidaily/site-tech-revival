@@ -1,7 +1,7 @@
 ---
 title: "The European Union AI Act Explained: Consequences for Chatbot Technology"
-date: 2024-12-10T17:59:39.978Z
-updated: 2024-12-14T16:37:52.415Z
+date: 2024-12-20T16:30:41.942Z
+updated: 2024-12-23T17:13:59.854Z
 tags:
   - chatgpt
   - open-ai
@@ -34,21 +34,17 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 
 ![Comparing Response of ChatGPT With Google Search Engine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/comparing-response-of-chatgpt-with-google-search-engine.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Shortly put, ChatGPT can help you find a definite answer to any question without having to search through numerous web pages on search engines. So, the chatbot eliminates additional effort, answers your question more precisely, and saves you time.
 
  However, it's important to understand[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) so that you can use it efficiently. By having a better understanding of how it was created and trained and how it generates responses, you will be able to make the most of it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Hasn't ChatGPT Affected the Search Engines So Far?
 
  Despite ChatGPT's immense popularity, it's still not ready to significantly impact the search engine industry for several reasons. Here are a few of them:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. ChatGPT Is Trained on a Limited Set of Data
 
@@ -56,17 +52,21 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 
 ![ChatGPT Apologizing For Not Having any Information About Events Happened in 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-apologizing-for-not-having-information-about-events-happened-in-2022.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Therefore, processing real-time information is the first significant hurdle ChatGPT needs to overcome to compete directly with search engines.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. ChatGPT Can Generate Incorrect Response
 
  Despite being AI-driven, ChatGPT often gives inaccurate responses. OpenAI, the parent company of ChatGPT, admits that the chatbot sometimes generates inaccurate answers. The company has listed this shortcoming as one of the limitations of its product on its official blog.
 
 ![ChatGPT Saying It Can Also Generate Wrong Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-also-generate-wrong-answers-and-explains-why-it-does-so.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. ChatGPT Is Less Credible
 
@@ -76,11 +76,11 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 
 ![ChatGPT  Saying It Can't Add References](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-add-references.jpg)
 
- You can[sign up and start using ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) in just a few minutes. If you haven't tried it yet, take advantage of it to enhance your productivity. Although ChatGPT isn't ready to disrupt the search engine industry just yet, does it have the potential to do so in the future?
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can[sign up and start using ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) in just a few minutes. If you haven't tried it yet, take advantage of it to enhance your productivity. Although ChatGPT isn't ready to disrupt the search engine industry just yet, does it have the potential to do so in the future?
 
 ## Is ChatGPT Capable of Disrupting Search Engines in the Future?
 
@@ -111,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 ![ChatGPT Saying It Can't Generate Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-generate-images.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Let ChatGPT Evolve
@@ -137,18 +137,21 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-creative-freedom-the-best-9-online-editors-for-beginners-for-2024/"><u>[New] Creative Freedom The Best 9 Online Editors for Beginners for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-nintendo-switch-capturing-your-playtime/"><u>[New] Nintendo Switch Capturing Your Playtime</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-time-travel-photos-on-snapchat-step-by-step-guide-for-2024/"><u>[New] Time-Travel Photos on Snapchat Step by Step Guide for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-guide-to-establishing-clear-and-effective-health-goals/"><u>ChatGPT's Guide to Establishing Clear and Effective Health Goals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/distinguishing-strong-artificial-intelligence-from-weak-ai/"><u>Distinguishing Strong Artificial Intelligence From Weak AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-prompt-engineering-with-these-essential-web-based-apps/"><u>Elevate Your Prompt Engineering with These Essential Web-Based Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-wireless-mouse-that-stops-working-sporadically-on-computers-running-windows-1110/"><u>How to Fix a Wireless Mouse That Stops Working Sporadically on Computers Running Windows 11/10</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-keep-spotify-running-smoothly-even-when-you-lock-your-iphone/"><u>How to Keep Spotify Running Smoothly Even When You Lock Your iPhone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-tecno-spark-20-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Tecno Spark 20 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/methods-to-troubleshoot-chatgpt-full-message-queue-error-in-windows/"><u>Methods to Troubleshoot ChatGPT Full Message Queue Error in Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-best-ways-to-backup-and-share-conversations-from-chatgpt/"><u>The Best Ways to Backup and Share Conversations From ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-easy-way-to-switch-from-dall-e-3-webp-images-to-accessible-jpgpng-versions/"><u>The Easy Way to Switch From DALL-E 3 WebP Images to Accessible JPG/PNG Versions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-screenplays-with-chatgpt-assisted-youtube-creation/"><u>Transform Your Screenplays with ChatGPT-Assisted YouTube Creation</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ecoding-the-functionality-of-youtubes-media-hub/"><u>[New] Decoding the Functionality of YouTube's Media Hub</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-steps-for-effective-screen-capture-in-adobe-captivity/"><u>[Updated] In 2024, Essential Steps for Effective Screen Capture in Adobe Captivity</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unleash-creativity-in-instagram-with-looping-tricks/"><u>[Updated] In 2024, Unleash Creativity in Instagram with Looping Tricks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-actionable-techniques-for-efficient-media-conversion-chains/"><u>2024 Approved Actionable Techniques for Efficient Media Conversion Chains</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-metaverse-inspiration-enhanced-by-ar-and-vr/"><u>2024 Approved Metaverse Inspiration Enhanced by AR & VR</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/icles-of-time-student-approved-historical-yt-content-for-2024/"><u>Chronicles of Time Student-Approved Historical YT Content for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/improving-your-spotify-experience-by-protecting-recommendations-from-playlist-influence/"><u>Improving Your Spotify Experience by Protecting Recommendations From Playlist Influence</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-honor-x8b-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/insights-into-why-firms-oppose-chatgpts-proliferation/"><u>Insights Into Why Firms Oppose ChatGPT's Proliferation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-7-ai-solutions-to-revolutionize-your-approach-to-mathematics/"><u>Leading 7 AI Solutions to Revolutionize Your Approach to Mathematics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/list-of-leading-sites-for-buying-youtube-tones-for-2024/"><u>List of Leading Sites for Buying YouTube Tones for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/professional-perspectives-5-reasons-to-avoid-chatgpt-for-medical-advice/"><u>Professional Perspectives: 5 Reasons to Avoid ChatGPT for Medical Advice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/public-private-personal-ai-understanding-distinctions/"><u>Public, Private, Personal AI: Understanding Distinctions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sneak-peeks-stopped-safeguarding-chatbot-data/"><u>Sneak Peeks Stopped: Safeguarding Chatbot Data</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/speculating-on-the-future-gpt-5s-expected-release/"><u>Speculating on the Future: GPT-5's Expected Release?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/starting-your-journey-a-step-by-step-guide-to-building-a-career-in-prompt-engineering/"><u>Starting Your Journey: A Step-by-Step Guide to Building a Career in Prompt Engineering</u></a></li>
 </ul></div>
 

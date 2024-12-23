@@ -1,7 +1,7 @@
 ---
 title: "Prepare to Impress: Integrating ChatGPT in Interview Practice"
-date: 2024-12-12T16:16:15.730Z
-updated: 2024-12-14T16:12:02.532Z
+date: 2024-12-20T17:20:00.348Z
+updated: 2024-12-23T17:10:46.684Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s OpenAI Got to Do With the New AI-Powered Bing?
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
 ![openai logo on code background feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/openai-logo-on-code-background-feature.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft recently invested nearly 10 billion dollars into OpenAI, and Bing’s new AI prowess is just the start of this long-term strategic partnership.
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
  According to[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's New in Bing?
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's New in Microsoft Edge?
@@ -101,17 +101,22 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-transitioning-away-from-newest-sierra-version-back-to-1010/"><u>[New] In 2024, Transitioning Away From Newest Sierra Version Back to 10.10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726028402050-dvd/"><u>市販DVDが動き出さない? ストレスなしでこの簡単対策を学べ</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-mpeg-files-to-mp4-for-free-use-movavis-web-service/"><u>Convert MPEG Files To MP4 for Free - Use Movavi's Web Service</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convertir-musica-aac-al-formato-mp4-gratuito-y-facil-de-usar-en-internet/"><u>Convertir Música AAC Al Formato MP4 Gratuito Y Fácil De Usar en Internet.</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciding-factors-to-weigh-when-looking-for-your-ideal-handheld-gaming-console/"><u>Deciding Factors to Weigh When Looking for Your Ideal Handheld Gaming Console</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-to-stream-from-ps4-without-delay/"><u>Easy to Stream From PS4 [Without Delay]</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722963933031-get-your-hands-on-the-free-m-audio-ultratrack-drivers-today/"><u>Get Your Hands on the FREE M-Audio UltraTrack Drivers Today!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-start-to-finish-seamless-editing-with-kinemaster/"><u>In 2024, From Start to Finish Seamless Editing with Kinemaster</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/passo-a-passo-em-fazer-animacoes-stop-motion-conheca-as-melhores-dicas-tutorials-e-exemplos/"><u>Passo a Passo Em Fazer Animações Stop Motion - Conheça as Melhores Dicas, Tutorials E Exemplos!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-premium-panorama-creation-tools-the-ultimate-guide-to-professional-photo-stitching-software/"><u>Top 8 Premium Panorama Creation Tools: The Ultimate Guide to Professional Photo Stitching Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-guide-resolving-the-dell-laptops-black-screen-issue/"><u>Ultimate Troubleshooting Guide: Resolving the Dell Laptop's Black Screen Issue</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211423850-9781800653955-wiccan-self-care-spells/"><u>Wiccan Self-care Spells | Free Book</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-efficient-audio-documentation-in-academia-using-macs/"><u>[New] Efficient Audio Documentation in Academia Using Macs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-elite-edition-analysis-parrot-ar-drone-20/"><u>[New] In 2024, Elite Edition Analysis - Parrot AR Drone 2.0</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-how-to-free-rotate-and-merge-videos-on-android/"><u>[New] In 2024, How to Free Rotate and Merge Videos on Android</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-understanding-t-series-youtube-business-model/"><u>[New] In 2024, Understanding T-Series YouTube Business Model</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-essential-guide-recording-google-meets-securely/"><u>[Updated] 2024 Approved Essential Guide Recording Google Meets Securely</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-facebooks-premier-video-extraction-tools-for-iphone-and-ipad/"><u>[Updated] 2024 Approved Facebook's Premier Video Extraction Tools for iPhone & iPad</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unmasked-influence-introducing-the-power-players-of-insta/"><u>[Updated] 2024 Approved Unmasked Influence Introducing the Power Players of Insta</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/inshots-counterparts-for-pc-video-editing/"><u>Inshot's Counterparts for PC Video Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tackling-the-unseen-potential-paperclips-and-ais-bond/"><u>Tackling the Unseen Potential: Paperclips and AI's Bond</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-impact-of-advanced-llms-on-future-search-engine-dominance-is-chatgpt-a-concern/"><u>The Impact of Advanced LLMs on Future Search Engine Dominance: Is ChatGPT a Concern?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ins-and-outs-of-ai-transfer-learning-techniques-and-implementation/"><u>The Ins and Outs of AI Transfer Learning: Techniques & Implementation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-motive-understanding-why-chatgpt-is-a-prime-target-for-cybercriminals/"><u>The Motive: Understanding Why ChatGPT Is a Prime Target for Cybercriminals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-threat-of-gpt-to-seo-and-search-techniques/"><u>The Threat of GPT to SEO and Search Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-managing-anxiety-through-conversations-with-chatgpt/"><u>The Ultimate Guide to Managing Anxiety Through Conversations With ChatGPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-8-free-online-havens-for-3d-text-psdfiles-for-2024/"><u>Top 8 FREE Online Havens for 3D Text PSDFiles for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-tools-for-sharing-your-conversations-with-chatgpt-on-social-platforms/"><u>Top Tools for Sharing Your Conversations with ChatGPT on Social Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-communication-skills-with-chatgpt/"><u>Transforming Communication Skills with ChatGPT</u></a></li>
 </ul></div>
 

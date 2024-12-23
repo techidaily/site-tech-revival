@@ -1,7 +1,7 @@
 ---
 title: "GPT-4 in Action: Unveiling the Mechanics Behind These 7 Innovative Applications"
-date: 2024-12-12T16:57:50.853Z
-updated: 2024-12-14T18:01:25.616Z
+date: 2024-12-16T16:57:55.886Z
+updated: 2024-12-23T16:07:08.093Z
 tags:
   - chatgpt
   - open-ai
@@ -26,16 +26,16 @@ thumbnail: https://thmb.techidaily.com/fef6203ef0318484835e6be326e62ec1be7635f93
 
 ![Bing AI chatbot mobile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/bing-ai-chatbot-mobile-1.jpg)
 
-![Bing AI chatbot response mobile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/bing-ai-chatbot-response-mobile-1.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Bing AI chatbot response mobile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/bing-ai-chatbot-response-mobile-1.jpg)
 
 ![Bing AI image generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/bing-ai-image-generation-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -54,11 +54,11 @@ Close
 
 ![Nova AI chatbot personas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-chatbot-personas.jpg)
 
-![Nova AI chatbot suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-chatbot-suggestions.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Nova AI chatbot suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-chatbot-suggestions.jpg)
 
 Close
 
@@ -74,16 +74,16 @@ Close
 
 ![Ask AI YouTube summary chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ask-ai-youtube-summary-chatbot.jpg)
 
-![Ask AI homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ask-ai-homepage.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Ask AI homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ask-ai-homepage.jpg)
 
 ![Ask AI Ask YouTube chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ask-ai-ask-youtube-chatbot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -101,7 +101,7 @@ Close
 ![ChatSonic chatbot health query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatsonic-chatbot-health-query.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatSonic chatbot personalities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatsonic-chatbot-personalities.jpg)
@@ -109,7 +109,7 @@ Close
 ![ChatSonic chatbot customize settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatsonic-chatbot-customize-settings-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -122,15 +122,15 @@ Close
 
 **Download:** ChatSonic for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=com.writesonic.chatsonic) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. ChatOn
 
 ![ChatOn AI chatbot homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-ai-chatbot-homepage.jpg)
 
 ![ChatOn AI chatbot riddle query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-ai-chatbot-riddle-query.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![ChatOn Chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-chat-settings.jpg)
 
@@ -143,6 +143,10 @@ Close
  ChatOn is a chatbot that puts organization first. You can pin important messages and share responses with friends. In addition to generating text responses, ChatOn can also[generate AI images from text](https://www.makeuseof.com/ai-text-to-art-generators/) .
 
 **Download:** ChatOn for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=ai.chat.gpt.bot) |[iOS](https://apps.apple.com/us/app/chaton-ai-chat-bot-assistant/id1661308505) (Free, subscription available)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Poe
 
@@ -162,21 +166,17 @@ Close
 
 **Download:** Poe for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=com.poe.android) |[iOS](https://apps.apple.com/us/app/poe-fast-ai-chat/id1640745955) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Genie
 
 ![Genie AI app solving a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/genie-ai-app-solving-a-math-problem.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Genie AI app Code and Food categories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/genie-ai-app-code-and-food-categories.jpg)
 
 ![Genie AI app homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/genie-ai-app-homepage.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -207,20 +207,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/esigning-effective-video-previews-for-channels/"><u>[New] Designing Effective Video Previews for Channels</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-streaming-aerial-adventures-on-fb-from-dji-drone/"><u>[Updated] 2024 Approved Streaming Aerial Adventures on FB From DJI Drone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-pinnacle-of-intellect-trivia-videos/"><u>[Updated] Pinnacle of Intellect Trivia Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-codegpt-accurately-generate-reliable-codes-discover-its-potential-today/"><u>Can CodeGPT Accurately Generate Reliable Codes? Discover Its Potential Today</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/y-central-the-best-laughter-inducing-channels-online/"><u>Comedy Central The Best Laughter-Inducing Channels Online</u></a></li>
-<li><a href="https://windows11.techidaily.com/enabling-application-guard-printing-for-windows-11-users/"><u>Enabling Application Guard Printing for Windows 11 Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/getting-started-integrating-and-utilizing-nvidias-rtx-chatbot-on-pc/"><u>Getting Started: Integrating and Utilizing Nvidia's RTX Chatbot on PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/hacked-heroes-the-activision-incident/"><u>Hacked Heroes: The Activision Incident</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-infinix-zero-30-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Infinix Zero 30 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-untapped-potentials-in-chatgpt-for-better-talks/"><u>Leveraging Untapped Potentials in ChatGPT for Better Talks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tips-crafting-distinctive-ai-visuals-via-microsoft-copilot/"><u>Tips: Crafting Distinctive AI Visuals via Microsoft Copilot</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-october-vr-bargain-alert-get-metas-quest-3-with-512gb-storage-at-unbeatable-prices/"><u>Top October VR Bargain Alert! Get Meta's Quest 3 with 512GB Storage at Unbeatable Prices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-insights-utilizing-chatgpt-in-your-data-analytic-practices/"><u>Unlocking Insights: Utilizing ChatGPT in Your Data Analytic Practices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/us-market-first-to-experience-enhanced-ai-chatgpt-plus-introduced/"><u>US Market, First to Experience Enhanced AI: ChatGPT Plus Introduced</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/viral-visionaries-most-watched-clips-2023/"><u>Viral Visionaries Most Watched Clips 2023</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-crafting-captivating-intros-on-mobile-platforms/"><u>[New] 2024 Approved Crafting Captivating Intros on Mobile Platforms</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-cutting-edge-collage-companions-android-and-iphones-best/"><u>[New] In 2024, Cutting-Edge Collage Companions Android & iPhone's Best</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-text-artistry-in-ae-our-top-10-recommendations/"><u>[New] In 2024, Text Artistry in AE Our Top 10 Recommendations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-mastering-virtual-conversations-key-strategies-for-effective-zoom-sessions/"><u>[Updated] 2024 Approved Mastering Virtual Conversations Key Strategies for Effective Zoom Sessions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-truth-about-magix-video-pro-xs-performance/"><u>[Updated] In 2024, The Truth About Magix Video Pro X's Performance</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ai-advantage-with-bing-get-started-guide/"><u>Discover the AI Advantage with Bing: Get Started Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-power-of-microsoft-copilot-with-these-amongst-4-reasons-to-switch-from-chatgpt/"><u>Discover the Power of Microsoft Copilot with These Amongst 4 Reasons to Switch From ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-gptzero-your-toolkit-for-spotting-artificnated-writing-online/"><u>Discovering GPTZero: Your Toolkit for Spotting Artificnated Writing Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-proposal-game-expert-tips-on-creating-compelling-pitches-with-chatgpt/"><u>Elevate Your Proposal Game: Expert Tips on Creating Compelling Pitches with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-your-iphone-experience-by-merging-chatgpt-and-siri-functions/"><u>Enhancing Your iPhone Experience by Merging ChatGPT and Siri Functions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/no-display-despite-power-on-troubleshoot-steps-for-restoring-visibility-on-your-computer/"><u>No Display Despite Power On - Troubleshoot Steps for Restoring Visibility on Your Computer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-live-soundscapes-for-fans-for-2024/"><u>Prime Live Soundscapes for Fans for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reverse-non-prints-with-simple-steps-for-windows-10-users/"><u>Reverse Non-Prints with Simple Steps for Windows 10 Users</u></a></li>
 </ul></div>
 

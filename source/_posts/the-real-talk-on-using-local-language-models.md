@@ -1,7 +1,7 @@
 ---
 title: The Real Talk on Using Local Language Models
-date: 2024-12-09T16:19:58.738Z
-updated: 2024-12-14T16:02:03.395Z
+date: 2024-12-21T19:13:32.026Z
+updated: 2024-12-23T17:53:29.454Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
 ![ChatGPT Plus best way to learn a language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-best-way-to-learn-a-language-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Naturally, we started by asking ChatGPT about the best place to start and how it can help. ChatGPT recommends that you set clear goals, learn vocabulary in context, listen to and mimic native speakers, and take notes. All of this is solid advice.
 
  It continues by saying that it can help answer questions about grammar and pronunciation, recommend resources, and offer cultural insights.[ChatGPT can also provide simple translations](https://www.makeuseof.com/how-to-translate-with-chatgpt/) . This structures our learning approach better: we now know exactly what we need to ask from ChatGPT during our course of learning a language.
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 ## 2\. Building Your Vocabulary
 
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Expanding your vocabulary is a good place to start when you're trying to learn a new language. You want to learn how to pronounce common words and understand how/why they are used in various situations. As you can imagine, GPT-4's conversational skills can easily handle this process.
 
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While learning certain words and phrases in a vacuum is good, all that practice is wasted if you don't build conversational skills. With ChatGPT, you can hold conversations in any language you want. For example, we asked ChatGPT to talk with us in French, and the result was impressive.
 
  ChatGPT understood our prompt immediately and gave us a sentence in French. We then responded to that sentence, and the conversation kept going from there. Throughout this conversation, it critiqued our conversational skills and provided small suggestions.
@@ -64,21 +68,21 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Grammar and syntax provide the structure and rules necessary to communicate and understand others. ChatGPT can help you learn the grammar and syntax rules by providing real-time feedback, explanations, and examples during written interactions. Since ChatGPT is all about interactivity, it does a better job here than most language-learning apps.
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Personalized Tests
 
 ![ChatGPT Plus Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-test.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Quizzes and tests are a common feature of most language learning apps. It helps you to check your progress and determine your weak points. ChatGPT is quite good at creating such tests, but you must be creative with the prompts.
 
@@ -90,10 +94,6 @@ Here's how you can create your own personalized tests:
 2. Choose a difficulty level such as beginner, intermediate, or advanced.
 3. Determine the test length by specifying the number of questions. You can also set a time limit, but you'll have to time yourself.
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Cultural Learning
 
@@ -112,7 +112,7 @@ Here's how you can create your own personalized tests:
  ChatGPT Plus may not provide you with the speaking or listening capabilities to help with pronunciation that other[language-learning apps](https://www.makeuseof.com/tag/five-free-apps-help-learn-foreign-language/) have, but it acts as your teacher that understands context and your progress. These two items help expedite your journey of learning a new language—something no other app can really do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is the Perfect Partner for Learning a New Language
@@ -134,19 +134,24 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-10-leading-budget-friendly-quality-webcall-providers-for-2024/"><u>[New] 10 Leading Budget-Friendly, Quality Webcall Providers for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-secrets-of-efficient-virtual-seminar-capture/"><u>[New] 2024 Approved Secrets of Efficient Virtual Seminar Capture</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mpeg3gpmovavi/"><u>免费在线将MPEG视频转化为3GP：如何利用Movavi编解码器</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-kivalasztott-hatarzokba-a-legjobb-ocakkal-szolo-tv-futarak-epitesekbe-movavi/"><u>A Kiválasztott Határzókba - A Legjobb Ócakkal Szóló TV Futárák Építésekbe - Movavi</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/beginners-guide-to-viral-videos-discover-100-unique-content-ideas-just-for-you/"><u>Beginner's Guide to Viral Videos: Discover 100 Unique Content Ideas Just for You</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/extracting-images-from-videos-a-comprehensive-guide-6-alternative-methods/"><u>Extracting Images From Videos - A Comprehensive Guide (6 Alternative Methods)</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-nvidia-rtx-3060-ti-graphics-card-driver-software-optimized-for-windows-1011-users/"><u>Get the Newest NVIDIA RTX 3060 Ti Graphics Card Driver Software - Optimized for Windows 10/11 Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratis-converter-de-imagens-nova-versao-do-movavi-para-conversao-online/"><u>Gratis Converter De Imagens - Nova Versão Do Movavi Para Conversão Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratis-en-online-omstandigheidsbestandstype-asf-naar-avi-vorm-bij-movavi/"><u>Gratis en Online: Omstandigheidsbestandstype ASF Naar Avi-Vorm Bij Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-can-you-tell-if-youre-actually-hearing-dolby-atmos-surround-sound/"><u>How Can You Tell If You're Actually Hearing Dolby Atmos Surround Sound?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-comprehensive-scrutiny-of-elite-parrot-ar-20/"><u>In 2024, Comprehensive Scrutiny of Elite Parrot AR 2.0</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-12-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 12? Complete Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-yuva-3-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Lava Yuva 3 Bootloader Easily</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp3-file-compression-top-4-methods-on-mac-and-pc/"><u>MP3 File Compression: Top 4 Methods on Mac and PC</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/35578242-new-2024-approved-free-youtube-channel-art-templates-find-them-here/"><u>[New] 2024 Approved Free YouTube Channel Art Templates - Find Them Here!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-flawless-filming-ipad-timelapse-techniques-for-2024/"><u>[New] Flawless Filming IPad Timelapse Techniques for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-world-of-srt-alteration-in-macos-systems/"><u>[New] Navigating the World of SRT Alteration in macOS Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-optimal-variety-premium-webcam-stands-and-mounts-for-2024/"><u>[Updated] Optimal Variety Premium Webcam Stands & Mounts for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/9-key-concerns-is-it-safe-to-substitute-professional-mental-health-care-with-ai-assistance/"><u>9 Key Concerns: Is It Safe to Substitute Professional Mental Health Care with AI Assistance?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/achieve-peak-health-integrating-top-7-ai-enhancements/"><u>Achieve Peak Health: Integrating Top 7 AI Enhancements</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722097668975-ai-battle-royale-determining-the-cutting-edge-between-chatgpt-microsoft-bing-and-google-bard/"><u>AI Battle Royale: Determining The Cutting Edge Between ChatGPT, Microsoft Bing and Google Bard</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/balanced-diet-building-blocks-from-tech-tutorials/"><u>Balanced Diet Building Blocks From Tech Tutorials</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/behind-the-interface-demystifying-top-9-myths-about-ai-bots/"><u>Behind the Interface: Demystifying Top 9 Myths About AI Bots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722054818211-discover-the-untapped-power-of-chatgpt-essential-5-features-youre-missing-out-on/"><u>Discover the Untapped Power of ChatGPT: Essential 5 Features You're Missing Out On!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-create-a-detailed-route-with-multiple-markers-using-google-maps/"><u>How to Create a Detailed Route with Multiple Markers Using Google Maps</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/optimizedusageofyourwebcamrecorder-for-2024/"><u>OptimizedUsageOfYourWebcamRecorder for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138621265-9781601639325-unearthing-ancient-america/"><u>Unearthing Ancient America | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-drives-hackers-to-focus-on-compromising-chatgpt-user-profiles/"><u>What Drives Hackers to Focus on Compromising ChatGPT User Profiles?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/whats-the-maximum-word-count-or-character-limit-for-chatgpt-messages/"><u>What’s the Maximum Word Count or Character Limit for ChatGPT Messages?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/when-engaging-with-ais-like-chatgpt-alexa-and-siri-do-manners-matter/"><u>When Engaging with AIs Like ChatGPT, Alexa, and Siri – Do Manners Matter?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-businesses-are-retreating-from-chatgpts-boundaries/"><u>Why Businesses Are Retreating From ChatGPT's Boundaries</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-wont-apples-new-ai-enhancements-reach-your-vintage-iphone-understanding-the-pricey-barriers-analysis/"><u>Why Won't Apple's New AI Enhancements Reach Your Vintage iPhone? Understanding the Pricey Barriers | Analysis</u></a></li>
 </ul></div>
 

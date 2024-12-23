@@ -1,7 +1,7 @@
 ---
 title: Why Stopping Siri-ChatGPT Comparisons Helps Recognize Distinctive Qualities
-date: 2024-12-03T16:10:37.046Z
-updated: 2024-12-08T16:46:13.262Z
+date: 2024-12-17T19:31:22.439Z
+updated: 2024-12-23T18:14:25.466Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -34,16 +34,12 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
  But what is Perplexity AI really about, and can you use it instead of Google?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Perplexity AI, and What Can You Do With It?
 
 ![screenshot showing perplexity ai on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-16-123353-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Perplexity AI is a conversational search engine that uses natural language text to answer questions. It was founded in 2022 by a quartet of former AI researchers from OpenAI and Meta: Aravind Srinivas, Andy Konwiski, Denis Yarats, and Johnny Ho.
@@ -52,21 +48,21 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
  The Perplexity app is a mix of the[best features from ChatGPT](https://www.makeuseof.com/chatgpt-features-you-arent-using-but-should/) and Google. It features a chat interface similar to ChatGPT’s and a Related section similar to Google’s People also ask.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Perplexity AI Instead of Google Search
 
 ![perplexity app home screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-home-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![perplexity app discover page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-discover-page-screenshot.jpg)
 
-![perplexity app library page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-library-page-screenshot.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![perplexity app library page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-library-page-screenshot.jpg)
 
 Close
 
@@ -83,6 +79,10 @@ Close
  For example, a search for "bakery near me" returned a "summary" of a list of bakeries. The interesting part? Not one from its list was within a 100-mile radius. The same query on Google returned options within a five-mile radius, which is absolutely what I wanted.
 
 ![screenshot showing search result on perplexity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-showing-search-result-on-perplexity.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It's worth noting that[Google has been testing Search Generative Experience (SGE)](https://www.makeuseof.com/how-to-access-google-ai-powered-search/) , an AI-assisted search feature. SGE provides AI overviews of search queries similar to Perplexity AI. Perplexity AI currently does a better job of answering queries thoroughly and also provides in-text citations for cross-referencing. However, this is something Google can replicate, if it becomes where the battle line is drawn.
 
@@ -105,19 +105,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-demystifying-screen-recording-how-bandicam-changes-the-game/"><u>[New] 2024 Approved Demystifying Screen Recording How Bandicam Changes the Game</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-journey-beyond-top-10-global-explorer-channels/"><u>[New] In 2024, A Journey Beyond Top 10 Global Explorer Channels</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-the-use-of-look-up-tables-in-photoshop-cc/"><u>[New] Navigating the Use of Look-Up Tables in Photoshop CC</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-professional-editors-showdown-filmora-vs-democracy-creator-features/"><u>[Updated] 2024 Approved Professional Editors Showdown Filmora Vs. Democracy Creator Features</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-decoding-revenue-from-a-million-watches-on-youtube/"><u>[Updated] In 2024, Decoding Revenue From A Million Watches on YouTube</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unfold-time-how-to-watch-previous-fb-content/"><u>[Updated] Unfold Time How To Watch Previous FB Content</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5a6j5ywo44gq44k544oi44oq44o844of44oz44kw6yyy55s744k944ov44oi44km44kn44ki44gu6yg444gz5pa577ya44km44kk44or44k544gm5bplusd6ywn44gn77yf/"><u>安全なストリーミング録画ソフトウェアの選び方：ウイルスが心配で？</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-specs-and-support-for-winx-dvd-ripper-platinum-software-edition/"><u>Comprehensive Specs & Support for WinX DVD Ripper Platinum Software Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/descargar-archivos-de-video-en-hd-4k-y-8k-aprende-como-reducir-su-tamano-en-un-90/"><u>Descargar Archivos De Video en HD, 4K Y 8K: Aprende Cómo Reducir Su Tamaño en Un 90%</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/facilita-la-conversione-dei-tuoi-dischi-da-disco-dvd-in-formato-digitale-su-pc-o-mac-con-windows-10macos/"><u>Facilita La Conversione Dei Tuoi Dischi Da Disco DVD in Formato Digitale Su PC O Mac Con Windows 10/macOS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-remote-management-from-iphone-12-pro-max-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove remote management from iPhone 12 Pro Max?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/manuale-completo-per-la-configurazione-e-gestione-di-windows-dvd/"><u>Manuale Completo per La Configurazione E Gestione Di Windows DVD</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-iphone-security-find-your-perfect-antivirus-among-these-6-superior-choices/"><u>Navigating iPhone Security: Find Your Perfect Antivirus Among These 6 Superior Choices</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-critical-steam-ui-dll-loading-issue-fix-and-prevention-tips/"><u>Resolved: Critical Steam UI DLL Loading Issue - Fix and Prevention Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-affordable-techniques-to-enhance-written-content-with-media/"><u>[New] 2024 Approved Affordable Techniques to Enhance Written Content with Media</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1716069889180-new-in-2024-employing-in-device-recording-for-screen-capture-across-huaweis-mate-and-p-series/"><u>[New] In 2024, Employing In-Device Recording for Screen Capture Across Huawei’s Mate and P Series.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/budgeting-essentials-for-your-music-video-for-2024/"><u>Budgeting Essentials for Your Music Video for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211400569-9798330238484-fuel-minds-phase-7/"><u>Fuel Minds: Phase 7 | Free Book</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-optimizedusageofyourwebcamrecorder/"><u>In 2024, OptimizedUsageOfYourWebcamRecorder</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/labyrinth-luminaries-top-10-roguelike-highlights-for-2024/"><u>Labyrinth Luminaries Top 10 Roguelike Highlights for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformative-talk-using-ai-for-personalized-vehicle-modifications/"><u>Transformative Talk: Using AI for Personalized Vehicle Modifications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-chatgpt-for-businesses-offers-functionality-and-distinctions-from-the-standard-model/"><u>Understanding ChatGPT for Businesses: Offers, Functionality, and Distinctions From the Standard Model</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-effects-of-chatgpts-updated-info-retrieval-on-everyday-people/"><u>Understanding the Effects of ChatGPT's Updated Info Retrieval on Everyday People</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-creative-potential-with-chatgpt-in-video-game-writing-techniques/"><u>Unleashing Creative Potential with ChatGPT in Video Game Writing Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-your-professional-potential-with-chatgpt-6-compelling-reasons-to-get-on-board/"><u>Unlock Your Professional Potential with ChatGPT: 6 Compelling Reasons to Get on Board</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-productivity-leveraging-chatgpt-to-enhance-your-excel-experience/"><u>Unlocking Productivity: Leveraging ChatGPT to Enhance Your Excel Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-streamlined-web-application-creation-leveraging-chatgpt-technology/"><u>Unlocking Streamlined Web Application Creation: Leveraging ChatGPT Technology</u></a></li>
 </ul></div>
 

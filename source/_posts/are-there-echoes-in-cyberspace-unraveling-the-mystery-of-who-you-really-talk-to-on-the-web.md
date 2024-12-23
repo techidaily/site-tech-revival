@@ -1,7 +1,7 @@
 ---
 title: Are There Echoes in Cyberspace? Unraveling the Mystery of Who You Really Talk to on the Web
-date: 2024-12-09T16:17:37.564Z
-updated: 2024-12-14T18:02:22.916Z
+date: 2024-12-20T19:08:52.843Z
+updated: 2024-12-23T18:54:17.851Z
 tags:
   - chatgpt
   - open-ai
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 
 ![ChatGPT Jailbreak Prompts on Reddit Communities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reddit-community-for-chatgpt-prompts.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ChatGPT has less rigid restrictions than other chatbots. For instance, Bing Chat automatically terminates conversations that go against its guidelines, while ChatGPT still responds. You can generate different outputs by rephrasing your prompts.
 
  The below image shows ChatGPT rejecting a request to portray a manga character.
@@ -64,15 +60,19 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 
 ![ChatGPT Accepts Roleplay Request and Starts Acting Like Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-accepts-roleplay-request-as-tomie.jpg)
 
- You can apply this trick to other prompts. On r/ChatGPTJailbreak, you’ll learn the proper phrasing, language, word choice, and sentence structure when jailbreaking ChatGPT. Only specific formulas can bypass AI restrictions.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can apply this trick to other prompts. On r/ChatGPTJailbreak, you’ll learn the proper phrasing, language, word choice, and sentence structure when jailbreaking ChatGPT. Only specific formulas can bypass AI restrictions.
 
 ## 4.[ChatGPT Prompt Engineers](https://www.facebook.com/groups/706382050894862/)
 
 ![A Facebook Group for Sharing and Posting ChatGPT Prompts ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/facebook-group-chatgpt-prompt-engineers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT Prompt Engineers is a decent community for beginners. Members just typically ask general knowledge questions about writing prompts and getting optimal outputs. You won’t have trouble keeping up with discussions.
 
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 ![A Facebook Group for Sharing Midjourney Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/midjourney-prompts-facebook-group.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Midjourney ranks among the[most popular text-to-art generators online](https://www.makeuseof.com/ai-text-to-art-generators/) . Its sophisticated AI architecture was trained on much broader datasets, allowing it to generate more realistic elements.
@@ -94,21 +94,21 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 
  Try some[AI art prompt tricks](https://www.makeuseof.com/ai-art-prompt-ideas/) to get your creative juices flowing. See how phrasing affects the way your output. You’ll notice specific phrases and keywords that trigger different image elements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6.[r/PromptDesign](https://www.reddit.com/r/PromptDesign/)
 
 ![A Reddit Community for Sharing Prompt Design Tricks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reddit-community-prompt-design.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  r/PromptDesign is a good place to master prompt engineering. Instead of sharing model-specific prompts, the group discusses ways users communicate with AI tools. Its members test various platforms regularly.
 
  Note that this subreddit covers relatively advanced topics compared to other groups. The members don’t just share prompts. Expect most techniques, tools, and methods discussed to have steep learning curves.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7.[r/OpenAI](https://www.reddit.com/r/OpenAI/)
 
@@ -124,10 +124,6 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 
 ![Reddit Community for Stable Diffusion Prompts and Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stablediffusion-prompts-on-reddit.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  r/StableDiffusion is the largest subreddit dedicated to Stable Diffusion. The community allows sharing workflows. However, it primarily encourages users to post outputs and discuss relevant AI news—prompt engineering is merely a part of generating AI art.
 
  The group might be helpful if you prefer Stable Diffusion over Midjourney and Dall-E models. Study the system’s limits and capabilities. Users post various media forms, including 3D images, 2D portraits, and animations.
@@ -135,12 +131,16 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
  Meanwhile, artists who prefer other text-to-image models could use the group for comparisons. See which system provides the best outputs. You might even find Stable Diffusion users testing your preferred art styles frequently.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9.[Sales, Marketing, Social Media, Artificial Intelligence (AI), ChatGPT Technology Innovation Network](https://www.linkedin.com/groups/54066/)
 
 ![LinkedIn Group to Share AI Tips for Salespeople and Marketers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/linkedin-ai-group.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’s currently the largest AI community on LinkedIn. The group has around a million members worldwide, many of whom post regularly. It gets status updates every few minutes.
 
@@ -171,17 +171,20 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-amplifying-your-content-free-techniques-to-boost-youtube-views/"><u>[Updated] 2024 Approved Amplifying Your Content Free Techniques to Boost YouTube Views</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-dancefloor-dynamics-top-rated-dj-video-selections/"><u>[Updated] Dancefloor Dynamics Top-Rated DJ Video Selections</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-enhance-your-listeners-experience-with-great-summaries/"><u>[Updated] Enhance Your Listeners' Experience with Great Summaries</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hit-top-rank-firstrow-pursuits-outside-sports/"><u>[Updated] Hit Top Rank Firstrow Pursuits Outside Sports</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-and-effective-techniques-for-setting-up-einthusan-kodi-addon-a-comprehensive-tutorial/"><u>Easy and Effective Techniques for Setting up Einthusan Kodi Addon: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-conversion-tactics-how-to-change-your-mp4-files-into-flv-video-type/"><u>Easy Conversion Tactics: How to Change Your MP4 Files Into FLV Video Type</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-guide-to-adding-bandcamp-streaming-feature-in-kodi/"><u>Easy Guide to Adding Bandcamp Streaming Feature in Kodi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-guide-to-setting-up-kodi-with-the-no-limits-magic-addon-step-by-step-tutorial/"><u>Easy Guide to Setting Up Kodi with the No Limits Magic Addon – Step-by-Step Tutorial</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hardware-detection-failed-missing-intel-component/"><u>Hardware Detection Failed: Missing Intel Component</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-t2x-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-guide-to-seamless-inshot-video-segments/"><u>In 2024, A Guide to Seamless Inshot Video Segments</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/drives-youtubes-content-creator-hub-in-2024/"><u>What Drives YouTube's Content Creator Hub, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-invest-in-cinematic-success-top-ten-cameras-for-filmmakers/"><u>[New] Invest in Cinematic Success Top Ten Cameras for Filmmakers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-streamlining-problems-in-creating-effective-youtube-shorts/"><u>[Updated] In 2024, Streamlining Problems in Creating Effective YouTube Shorts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-5-budget-friendly-gaming-mice-under-100-for-2024/"><u>[Updated] Top 5 Budget-Friendly Gaming Mice (Under $100) for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creative-clarity-with-ai-harnessing-chatgpts-potential-in-ideation/"><u>Creative Clarity with AI: Harnessing ChatGPT's Potential in Ideation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/critical-faux-pas-navigating-around-common-errors-in-generative-ai-use/"><u>Critical Faux Pas: Navigating Around Common Errors in Generative AI Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-the-secrecy-surrounding-chatgpt/"><u>Deciphering the Secrecy Surrounding ChatGPT</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/deciphering-the-secrets-of-itunes-video-mastery/"><u>Deciphering the Secrets of iTunes Video Mastery</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/desktop-vs-website-unveiling-superior-features-of-the-chatgpt-app-for-pc-users/"><u>Desktop Vs. Website: Unveiling Superior Features of the ChatGPT App for PC Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/distinguishing-features-natural-language-processing-vs-machine-learning-explained/"><u>Distinguishing Features: Natural Language Processing Vs. Machine Learning Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-crafting-chatgpt-queries-a-guide-for-fitness-buffs/"><u>Effective Strategies for Crafting ChatGPT Queries: A Guide for Fitness Buffs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-data-management-3-smart-ways-to-integrate-chatgpt-into-excel-workflows/"><u>Elevate Your Data Management: 3 Smart Ways to Integrate ChatGPT Into Excel Workflows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/new-release-alert-enhanced-watermarks-with-wonderfoxs-latest-photography-software-v11/"><u>New Release Alert: Enhanced Watermarks with WonderFox's Latest Photography Software V1.1</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-simplified-non-windows-living-a-look-at-the-budget-friendly-hp-chromebook-with-a-136-discounted-price/"><u>Unveiling Simplified Non-Windows Living: A Look at the Budget-Friendly HP Chromebook with a 136% Discounted Price</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-s18-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo S18? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 
