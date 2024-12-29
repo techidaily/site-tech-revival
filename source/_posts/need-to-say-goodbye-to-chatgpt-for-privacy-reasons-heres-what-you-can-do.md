@@ -1,7 +1,7 @@
 ---
 title: Need to Say Goodbye to ChatGPT for Privacy Reasons? Here's What You Can Do
-date: 2024-09-05T12:43:53.494Z
-updated: 2024-09-06T12:43:53.494Z
+date: 2024-12-22T19:10:55.613Z
+updated: 2024-12-28T22:01:25.007Z
 tags:
   - chatgpt
   - open-ai
@@ -25,12 +25,6 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
 
 ![ChatGPT results on Mac App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-results-on-mac-app-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This problematic side of the Mac App Store was unearthed in[Alex Kleber's Medium post](https://privacyis1st.medium.com/the-dark-side-of-the-mac-app-store-how-scam-apps-and-shady-developers-are-preying-on-users-b28062642e6) . The author discovered that the popular results for terms like ChatGPT and OpenAI are fraudulent apps that do not deliver what they promise.
 
  For instance, many apps are either blocked by a paywall or do not work whatsoever. While some apps work for the first few minutes, you are presented with an in-app purchase pop-up on the screen.
@@ -42,14 +36,16 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
  While only Apple can do something about mitigating this issue of problematic apps, you must stay far away from these ChatGPT apps on the Mac App Store.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Safely Use ChatGPT on a Mac
 
  Despite the abundance of shady ChatGPT apps, there are two ways to access ChatGPT from your Mac safely.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Use the Web Interface
 
@@ -59,26 +55,12 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
 
 ![ChatGPT web interface on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-web-interface-on-mac.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You need to register for an account if you don't already have one. OpenAI also lets you[choose between the free and paid versions of ChatGPT](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Use MacGPT
 
  If you want a more native experience with ChatGPT on your Mac, you should check out MacGPT. It's one of the few legitimate apps that help you integrate ChatGPT into your Mac. For instance, you can make MacGPT work as a macOS menu bar app.
@@ -86,11 +68,9 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
 ![MacGPT running on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macgpt-running-on-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This menu bar interface will help you interact with ChatGPT without needing to open a separate browser window. The same app enables you to seek the help of ChatGPT with various text fields and even the Spotlight Search interface. With just a trigger word, you can let ChatGPT do all the typing.
 
  We should mention that the setup requires more than signing into your OpenAI account. To set up the MacGPT app on your Mac, you need to create a ChatGPT API key from the OpenAI website and paste it into the app's home screen. Our[complete guide to ChatGPT APIs](https://www.makeuseof.com/chatgpt-api-complete-guide/) will help you do it.
@@ -100,23 +80,18 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
 **Download:** [MacGPT](https://www.macgpt.com/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use ChatGPT on Your Mac the Right Way
 
  There is no doubt that ChatGPT can help you increase productivity and simplify your workflow. And that's exactly why you may want a convenient way to access it on your Mac. But it's important you understand the different aspects of the AI service, including the privacy implications, before jumping in.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,4 +100,22 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-perfecting-iphone-360-video-posts-for-your-feed-for-2024/"><u>[New] Perfecting iPhone 360 Video Posts for Your Feed for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-find-excellence-in-hd-on-android-our-top-10-player-guide/"><u>[Updated] Find Excellence in HD on Android Our Top 10 Player Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-your-beginners-guide-to-making-money-on-youtubers/"><u>[Updated] In 2024, Your Beginner's Guide to Making Money on YouTubers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-is-it-illegal-to-screen-capture-youtube-videos/"><u>2024 Approved Is It Illegal to Screen-Capture YouTube Videos?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/7-enhanced-gpt-tools-for-health-and-hygiene/"><u>7 Enhanced GPT Tools for Health & Hygiene</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-comprehensive-review-of-top-llms-bard-chatgpt-and-offline-alpaca/"><u>A Comprehensive Review of Top LLMs: Bard, ChatGPT and Offline Alpaca.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/accelerate-your-hr-workflow-with-these-5-innovative-chatbot-prompts/"><u>Accelerate Your HR Workflow with These 5 Innovative Chatbot Prompts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/access-free-dall-e-3-features-on-microsoft-bing-a-step-by-step-guide/"><u>Access Free DALL-E 3 Features on Microsoft Bing - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722089768253-beyond-alan-turing-exploring-modern-replacements-for-the-famous-turing-evaluation/"><u>Beyond Alan Turing: Exploring Modern Replacements for the Famous Turing Evaluation.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easy-to-fix-guide-unused-graphics-card-wnvidia/"><u>Easy-to-Fix Guide: Unused Graphics Card W/NVIDIA</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722136363479-from-language-model-to-game-master-chatgpts-surprising-gaming-features-here-are-the-best/"><u>From Language Model to Game Master: ChatGPT's Surprising Gaming Features - Here Are The Best</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-8-plus-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-realme-12-pro-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Realme 12 Pro 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-step-by-step-process-for-formulating-perfect-podcast-names/"><u>In 2024, Step-by-Step Process for Formulating Perfect Podcast Names</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/voice-activated-strategies-for-directing-ai-5-gpt-techniques/"><u>Voice-Activated Strategies for Directing AI: 5 GPT Techniques</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Boosting Your Tabletop Adventures Using AI Inspiration
-date: 2024-12-19T17:42:42.394Z
-updated: 2024-12-23T19:30:35.289Z
+date: 2024-12-25T07:38:00.708Z
+updated: 2024-12-28T21:04:11.343Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/1fe7ff1c6ccc0ab7bc1dc02b033d67aea4e7d6e05
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * AI apps are now available in various fields such as productivity, education, entertainment, and more, catering to a range of needs.
@@ -37,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/1fe7ff1c6ccc0ab7bc1dc02b033d67aea4e7d6e05
  Your browser does not support the video tag.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. ChatGPT
@@ -46,7 +42,15 @@ thumbnail: https://thmb.techidaily.com/1fe7ff1c6ccc0ab7bc1dc02b033d67aea4e7d6e05
 
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ChatGPT demo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-demo.jpg)
 
@@ -65,7 +69,7 @@ Close
 ![WOMBO Dream AI art generator app art style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wombo-dream-ai-art-generator-app-art-style-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![WOMBO Dream AI artwork example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wombo-dream-ai-artwork-example.jpg)
@@ -90,6 +94,10 @@ Close
 
 ![Youper Therapy chatbot emotions log](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/youper-therapy-chatbot-emotions-log.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Youper is a[mental health chatbot](https://www.makeuseof.com/ai-chatbot-therapist-mobile-apps-pocket/) that uses Cognitive Behavioral Therapy (CBT) techniques to "help you calm anxiety, improve your relationships, be more productive, and improve your mood." It's meant for those who don't have the time to visit a therapist in-person every week.
@@ -108,6 +116,10 @@ Close
 
 ![Replika AI app Pride Month outfit collection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replika-ai-app-pride-month-outfit-collection.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Replika is an AI chatbot companion app designed for "anyone who wants a friend with no judgment, drama, or social anxiety involved." You can select the appearance of your AI companion and choose what relationship you want to have with them, including a friend, sibling, mentor, or romantic partner.
@@ -116,22 +128,14 @@ Close
 
 **Download:** Replika for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=ai.replika.app) |[iOS](https://apps.apple.com/us/app/replika-virtual-ai-companion/id1158555867) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Be My Eyes
 
 ![Be My Eyes app start screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/be-my-eyes-app-start-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Be My Eyes app home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/be-my-eyes-app-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Be My Eyes app instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/be-my-eyes-app-instructions.jpg)
@@ -150,13 +154,17 @@ Close
 
 ![Home page for the Bing app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-app-home.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Bing AI App Discussing Its GPT Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-app-on-gpt-models.jpg)
 
-![Bing app horse image generation results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/image-generation-3.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Bing app horse image generation results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/image-generation-3.jpg)
 
 Close
 
@@ -170,11 +178,11 @@ Close
 
 ![ELSA Speak English learning app home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-home-page.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ELSA Speak English learning app training options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-training-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ELSA Speak English learning app catching errors in pronunciation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-catching-errors-in-pronunciation.jpg)
 
@@ -196,15 +204,7 @@ Close
 
 ![Otter AI app menu options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/otter-ai-app-menu-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Otter AI app Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/otter-ai-app-settings-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -235,22 +235,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-enriching-vlog-topics-to-share/"><u>[New] 2024 Approved Enriching Vlog Topics to Share</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-tale-constructing-the-basic-blueprint/"><u>[Updated] In 2024, Tale Constructing The Basic Blueprint</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-top-secret-tactics-for-elevating-your-instagram-presence-for-2024/"><u>[Updated] Top-Secret Tactics for Elevating Your Instagram Presence for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-picks-for-superior-laptop-gadgets/"><u>Expert Picks for Superior Laptop Gadgets</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/high-definition-superzoom-photos-canon-sx70-to-the-rescue/"><u>High-Definition Superzoom Photos? Canon SX70 to the Rescue</u></a></li>
-<li><a href="https://techidaily.com/is-your-infinix-smart-8-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Smart 8 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-sword-and-fairy-vii-crash-fixes-on-windows-computers-a-guide/"><u>Mastering Sword & Fairy VII Crash Fixes on Windows Computers - A Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/parents-toolkit-for-ai-conundrums/"><u>Parents' Toolkit for AI Conundrums</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protecting-your-data-with-chatgpt-a-closer-look-at-6-critical-security-risks/"><u>Protecting Your Data with ChatGPT: A Closer Look at 6 Critical Security Risks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/smartphone-deals-and-digital-safety-unveiled/"><u>Smartphone Deals & Digital Safety Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/speeding-up-the-talk-comparing-chatgpt-4-and-35-speed/"><u>Speeding Up the Talk: Comparing ChatGPT-4 and 3.5 Speed</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-moving-data-from-your-iphone-to-a-samsung-galaxy-smartphone/"><u>Step-by-Step Guide: Moving Data From Your iPhone to a Samsung Galaxy Smartphone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-setting-up-your-chatgpt-widget-on-android-devices/"><u>Step-by-Step Tutorial: Setting Up Your ChatGPT Widget on Android Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/steps-to-deactivate-selected-keys-or-shortcuts-in-windows-os/"><u>Steps to Deactivate Selected Keys or Shortcuts in Windows OS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/steps-to-start-your-journey-as-a-prompt-engineer/"><u>Steps to Start Your Journey as a Prompt Engineer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamlined-content-generation-utilizing-canva-and-chatgpt-synergy/"><u>Streamlined Content Generation: Utilizing Canva and ChatGPT Synergy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-beginners-pathway-initiating-and-configuring-auto-gpt-on-an-ubuntu-server/"><u>The Beginner's Pathway: Initiating and Configuring Auto-GPT on an Ubuntu Server</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-share-screen-on-facebook-live-for-2024/"><u>[New] How to Share Screen on Facebook Live for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-unlock-joyful-hours-essential-list-of-best-offline-ios-titles/"><u>[Updated] In 2024, Unlock Joyful Hours - Essential List of Best Offline iOS Titles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-preserving-the-past-in-motion-photo-to-video-transition/"><u>2024 Approved Preserving the Past in Motion Photo to Video Transition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-guide-to-infusing-movement-into-images-in-illustrator-for-2024/"><u>A Guide to Infusing Movement Into Images in Illustrator for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970790319-ensquire-within-three-sentences-following-any-mention-of-a-financial-term-such-as-savings-account-or-cash-reserve/"><u>Ensquire Within Three Sentences Following Any Mention of a Financial Term Such as Savings Account or Cash Reserve</u></a></li>
+<li><a href="https://win-web3.techidaily.com/expertly-suggested-best-practices-for-open-source-data-retrieval-programs-software/"><u>Expertly Suggested Best Practices for Open Source Data Retrieval Programs (Software)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-13-pro-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 13 Pro With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-shelldll-file-absence-a-step-by-step-guide/"><u>Resolving 'Shell.dll' File Absence: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-day-exploring-7-chatgpt-enhancements-for-productivity/"><u>Revolutionize Your Day: Exploring 7 ChatGPT Enhancements for Productivity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguarding-your-creations-preventing-ai-generated-fakes-with-nightshade/"><u>Safeguarding Your Creations: Preventing AI-Generated Fakes with Nightshade</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/scripting-success-how-i-utilized-chatgpt-for-my-podcast-creation-journey/"><u>Scripting Success: How I Utilized ChatGPT for My Podcast Creation Journey</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/skillful-use-of-chatgpt-dont-fall-for-wasteful-apps/"><u>Skillful Use of ChatGPT: Don't Fall for Wasteful Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/smart-editing-combining-human-expertise-and-ai-insight/"><u>Smart Editing: Combining Human Expertise and AI Insight</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/spot-the-difference-real-vs-fake-why-theres-no-official-chatgpt-for-windows-users/"><u>Spot the Difference: Real Vs. Fake - Why There's No Official ChatGPT for Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamlining-conversations-with-chatgpt/"><u>Streamlining Conversations with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-art-of-poem-craft-via-chatgpt-interaction/"><u>The Art of Poem Craft via ChatGPT Interaction</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlimited-speed-quick-and-easy-conversion-of-mp4-to-wmv-format/"><u>Unlimited Speed: Quick & Easy Conversion of MP4 to WMV Format</u></a></li>
 </ul></div>
 

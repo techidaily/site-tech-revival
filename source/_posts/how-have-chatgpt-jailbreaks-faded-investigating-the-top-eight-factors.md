@@ -1,7 +1,7 @@
 ---
 title: How Have ChatGPT Jailbreaks Faded? Investigating the Top Eight Factors
-date: 2024-12-22T17:42:16.339Z
-updated: 2024-12-23T17:00:27.451Z
+date: 2024-12-27T06:08:31.588Z
+updated: 2024-12-29T06:14:23.859Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -63,19 +63,24 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-simplified-recording-of-your-skype-chats-with-pc-and-mac/"><u>[Updated] 2024 Approved Simplified Recording of Your Skype Chats with PC & Mac</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-revolutionize-your-fb-video-strategy-with-these-ideas/"><u>[Updated] Revolutionize Your FB Video Strategy with These Ideas</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-best-mc-housing-plans-for-vibrant-villages/"><u>2024 Approved Best MC Housing Plans for Vibrant Villages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722150421458-combat-digital-kidnappers-with-50-mobile-defense-insights-and-updates-on-our-ai-powered-podcast-journey/"><u>Combat Digital Kidnappers with $50 Mobile Defense – Insights & Updates on Our AI-Powered Podcast Journey</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/exclusive-access-download-your-own-tailored-tracks/"><u>Exclusive Access Download Your Own Tailored Tracks</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-honor-magic-6-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Honor Magic 6 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/prompt-engineering-job-prospects-what-you-need-to-assess-before-jumping-in/"><u>Prompt Engineering Job Prospects – What You Need to Assess Before Jumping In</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revamp-your-routine-utilizing-chatgpt-for-a-superior-quality-of-living/"><u>Revamp Your Routine: Utilizing ChatGPT for a Superior Quality of Living</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-ai-integration-using-chatgpt-alongside-siri-on-ios-devices/"><u>Seamless AI Integration: Using ChatGPT Alongside Siri on iOS Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/speak-command-and-interact-your-guide-to-activating-voicegpt-on-android-smartphones/"><u>Speak, Command, and Interact: Your Guide to Activating VoiceGPT on Android Smartphones</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-process-for-free-youtube-educational-events/"><u>Step-by-Step Process for Free Youtube Educational Events</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-five-essential-ai-tools-transforming-modern-enterprises/"><u>The Five Essential AI Tools Transforming Modern Enterprises</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-of-education-papers-with-chatgpts-rise/"><u>The Future of Education Papers with ChatGPT's Rise</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-leading-wireless-journey-modems-ranked/"><u>Ultimate Guide: Leading Wireless Journey Modems Ranked</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/uide-to-youtubes-latest-income-strategies/"><u>[New] Guide to YouTube's Latest Income Strategies</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-reawakening-windows-photo-viewer-in-windows-10-with-ease/"><u>[New] Reawakening Windows Photo Viewer in Windows 10 with Ease</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-googles-efficient-route-to-instantaneous-visual-masterpieces/"><u>[Updated] Google's Efficient Route to Instantaneous Visual Masterpieces</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/emier-yoga-educators-on-youtube/"><u>10 Premier Yoga Educators on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-tecno-camon-30-pro-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Tecno Camon 30 Pro 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-cutting-edge-filmmaking-on-your-ios-device/"><u>In 2024, Cutting-Edge Filmmaking on Your iOS Device</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Realme GT 5 (240W)? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ize-video-search-with-these-top-7-youtube-tags-extractor-tools-for-2024/"><u>Optimize Video Search with These Top 7 Youtube Tags Extractor Tools for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/set-up-your-steelseries-arctis-5-comprehensive-driver-download-guide/"><u>Set Up Your SteelSeries Arctis 5: Comprehensive Driver Download Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-the-web-the-impact-of-ai-powered-search-engine-upgrades/"><u>Transforming the Web: The Impact of AI-Powered Search Engine Upgrades</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-core-variations-between-gpt-and-bert-in-natural-language-processing/"><u>Understanding the Core Variations Between GPT and BERT in Natural Language Processing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-powerful-personalized-ai-get-started-with-8-preconfigured-gpt-models-now/"><u>Unleash Powerful Personalized AI: Get Started With 8 Preconfigured GPT Models Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-ai-potential-essential-techniques-for-gpt-3-interaction-within-openai-tools/"><u>Unlocking AI Potential: Essential Techniques for GPT-3 Interaction Within OpenAI Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-the-distinctions-gpt-4-vs-gpt-4-turbo-vs-phi-a-comparative-analysis/"><u>Unraveling the Distinctions: GPT-4 Vs. GPT-4 Turbo Vs. Phi - A Comparative Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-7-diverse-programming-assistants-to-gpt/"><u>Unveiling 7 Diverse Programming Assistants to GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-top-six-ways-chatgpt-has-impacted-our-lives/"><u>Unveiling the Top Six Ways ChatGPT Has Impacted Our Lives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/which-wins-analyzing-llama-3-against-gpt-4-performance/"><u>Which Wins? Analyzing Llama 3 Against GPT-4 Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/work-smarter-not-harder-integrating-chatgpt-into-your-daily-task-management/"><u>Work Smarter, Not Harder: Integrating ChatGPT Into Your Daily Task Management</u></a></li>
 </ul></div>
 

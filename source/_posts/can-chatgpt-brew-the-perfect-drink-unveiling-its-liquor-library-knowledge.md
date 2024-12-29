@@ -1,7 +1,7 @@
 ---
 title: Can ChatGPT Brew the Perfect Drink? Unveiling Its Liquor Library Knowledge
-date: 2024-12-17T19:19:54.261Z
-updated: 2024-12-23T16:53:53.209Z
+date: 2024-12-21T22:46:11.758Z
+updated: 2024-12-29T08:26:48.457Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do ChatGPT Plugins Work?
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 ![Monitor screen showing ChatGPT landing page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/monitor-screen-showing-chatgpt-landing-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT plugins are software components integrated into[the ChatGPT platform](https://www.makeuseof.com/how-does-chatgpt-work/) . They provide ChatGPT with additional information, such as up-to-date news or data from proprietary sources, and enable ChatGPT to perform specific actions on behalf of users.
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
  Then, ChatGPT could use these plugins to fetch relevant information and insert them into the email draft. It could also use the plugins to send emails, schedule a meeting, or update a task's status.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do You Sign Up for ChatGPT Plugins?
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 ![chatgpt plugin page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plugin-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Currently, the ChatGPT plugins feature is only available to ChatGPT Plus subscribers, and you have to join a waitlist to get access. You can[sign up for ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) by clicking on**Upgrade** **to** **Plus** on the left tab on the ChatGPT interface.
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 4. Click**Join Waitlist** to submit the form.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Joining ChatGPT's Plugins Waitlist
@@ -90,24 +90,19 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-in-depth-tutorials-on-documenting-ps3-gaming-sessions/"><u>[New] In 2024, In-Depth Tutorials on Documenting PS3 Gaming Sessions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tandout-thumbnails-start-here-20-top-font-picks/"><u>[New] Standout Thumbnails Start Here 20 Top Font Picks</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-innovative-online-services-for-crafting-perfect-facebook-covers/"><u>[Updated] In 2024, Innovative Online Services for Crafting Perfect Facebook Covers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/advanced-streaming-equipment-for-broadcasters-for-2024/"><u>Advanced Streaming Equipment for Broadcasters for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-storytelling-skills-with-these-ve-5-advanced-ai-writing-assistants/"><u>Enhance Your Storytelling Skills with These Ve 5 Advanced AI Writing Assistants</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-workflow-with-onlyoffice-docspace-leveraging-chatgpt-for-boosted-productivity/"><u>Enhancing Workflow with ONLYOFFICE DocSpace: Leveraging ChatGPT for Boosted Productivity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-chatgpts-new-ios-app-revolutionizing-access-to-advanced-language-models/"><u>Explore ChatGPT's New iOS App: Revolutionizing Access to Advanced Language Models</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-chatgpt-transforming-ideas-into-ai-generated-reality/"><u>Exploring ChatGPT: Transforming Ideas Into AI-Generated Reality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-corporate-concerns-why-5-issues-have-led-to-banning-chatgpt-in-the-workplace/"><u>Exploring Corporate Concerns: Why 5 Issues Have Led to Banning ChatGPT in the Workplace</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/forwarding-progress-discovering-the-top-5-ai-computing-advances/"><u>Forwarding Progress: Discovering the Top 5 AI Computing Advances</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-novice-to-expert-a-journey-with-chatgpt-api/"><u>From Novice to Expert: A Journey with ChatGPT API</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-human-potential-six-ways-to-stand-out-and-prosper-as-ai-transforms-the-world-of-work/"><u>Harnessing Human Potential: Six Ways to Stand Out and Prosper as AI Transforms the World of Work</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lost-your-steam-game-files-learn-how-to-get-them-back-and-restore-access/"><u>Lost Your Steam Game Files? Learn How to Get Them Back and Restore Access!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/masterful-techniques-to-enhance-workflow-with-chatgpt-as-a-freelancer/"><u>Masterful Techniques to Enhance Workflow with ChatGPT as a Freelancer</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-the-future-of-vision-elite-smart-glasses-to-watch/"><u>Navigating the Future of Vision: Elite Smart Glasses to Watch</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-vn-video-editor-apk-download-is-it-the-best-video-editor/"><u>New In 2024, VN Video Editor APK Download Is It the Best Video Editor?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-hack-to-watch-netflix-at-zero-cost-discover-the-truth/"><u>The Ultimate Hack to Watch Netflix at Zero Cost – Discover the Truth</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/turn-up-the-volume-a-guide-to-personalizing-ringtone-and-sound-settings-on-android-devices-for-2024/"><u>Turn Up the Volume A Guide to Personalizing Ringtone & Sound Settings on Android Devices for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-practices-for-documenting-live-streamed-sporting-matches/"><u>[Updated] 2024 Approved Best Practices for Documenting Live-Streamed Sporting Matches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-conversational-ai-like-chatgpt-become-a-tool-for-cyber-attacks-on-financial-institutions-and-personal-computers/"><u>Can Conversational AI Like ChatGPT Become a Tool for Cyber Attacks on Financial Institutions and Personal Computers?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-the-key-to-controlling-your-smart-home-system/"><u>ChatGPT: The Key To Controlling Your Smart Home System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-deal-alert-save-big-on-macbook-air-available-for-only-280-today/"><u>Exclusive Deal Alert: Save Big on MacBook Air - Available for Only $280 Today!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-prompt-injection-vulnerabilities-in-ai-systems-what-you-need-to-know/"><u>Exploring Prompt Injection Vulnerabilities in AI Systems – What You Need to Know</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-update-your-dell-dell-inspiron-3100-the-simplest-driver-download-methods/"><u>Find & Update Your DELL Dell Inspiron 3100: The Simplest Driver Download Methods</u></a></li>
+<li><a href="https://discover-great.techidaily.com/guida-completa-per-il-backup-centralizzato-di-clienti-windows-con-software-dedicato/"><u>Guida Completa per Il Backup Centralizzato Di Clienti Windows Con Software Dedicato</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/lost-in-conversation-a-guide-to-recovering-deleted-chatgpt-sessions/"><u>Lost in Conversation: A Guide to Recovering Deleted ChatGPT Sessions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-secrets-of-openai-a-full-overview/"><u>Mastering the Secrets of OpenAI: A Full Overview</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/streamline-customer-verification-with-abbyy-id-proof-simplifying-and-securing-the-onboarding-process/"><u>Streamline Customer Verification with ABBYY ID Proof: Simplifying & Securing the Onboarding Process</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-art-of-speech-interpretation-via-googles-technology/"><u>The Art of Speech Interpretation via Google's Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformative-health-aids-choosing-the-best-8-gpts/"><u>Transformative Health Aids: Choosing the Best 8 GPTs</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 </ul></div>
 

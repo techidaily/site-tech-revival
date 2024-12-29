@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Grok: Pricing, Potential & Insights Into Elon Musk's Latest Creation"
-date: 2024-12-19T19:00:26.304Z
-updated: 2024-12-23T18:58:28.465Z
+date: 2024-12-25T04:58:28.251Z
+updated: 2024-12-29T09:00:15.113Z
 tags:
   - chatgpt
   - open-ai
@@ -24,12 +24,16 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should You Be Polite to AI like ChatGPT, Alexa, and Siri?
 
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It doesn't make a difference if you're polite to AI. This is because AI like ChatGPT, Alexa, or Siri cannot process emotions like humans, and it won't be offended if you're not polite.
@@ -41,28 +45,24 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 ![chatgpt no feelings or emotions text march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-no-feelings-or-emotions-text.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
 
  Of course, by using AI to reward children when they say "please" or "thank you," you could condition your children to be more polite when interacting with humans. Shouting at and being abusive to your AI probably delivers a poor lesson in communication, whether the ChatGPT or Alexa has feelings or not.
 
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can AI Be Rude to You?
 
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Interact With AI How You Want
@@ -101,18 +101,20 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-accelerate-and-decelerate-on-your-screen-netflix/"><u>[New] Accelerate and Decelerate on Your Screen (Netflix)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-crafting-the-perfect-facebook-video-post-pcandroid-techniques/"><u>[New] In 2024, Crafting the Perfect Facebook Video Post, PC/Android Techniques</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-combine-photos-for-captivating-instagram-stories/"><u>[New] In 2024, How to Combine Photos for Captivating Instagram Stories</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-final-step-guide-free-yourself-from-youtube-shorts/"><u>[Updated] Final Step Guide Free Yourself From YouTube Shorts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-10-replacements-for-chatgpt/"><u>Discover the Ultimate 10 Replacements for ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discreetly-manage-your-chatgpt-dialogue-records-without-deletion/"><u>Discreetly Manage Your ChatGPT Dialogue Records without Deletion</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ditching-chatgpt-heres-what-to-try-next/"><u>Ditching ChatGPT? Here's What to Try Next</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/dvd-r-dvdplusr/"><u>DVD-R: その仕組みと容量について学ぶ - DVD+Rと比べた違い、書き込めない・再生不可時の対処法も解析</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-everyday-living-utilizing-chatgpt-for-a-better-you/"><u>Elevate Everyday Living: Utilizing ChatGPT for a Better You</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-ai-experience-with-these-5-superior-ai-prompt-designers-suitable-for-various-platforms/"><u>Elevate Your AI Experience with These 5 Superior AI Prompt Designers Suitable for Various Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-insights-protecting-your-apple-device-from-potential-risks-of-chatgpt-apps-in-the-mac-store/"><u>Expert Insights: Protecting Your Apple Device From Potential Risks of ChatGPT Apps in the Mac Store</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/flip-clips-android-reversal-technique/"><u>Flip Clips Android Reversal Technique</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlisted-geforce-gpu-on-pc/"><u>Unlisted GeForce GPU on PC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-easy-setup-routines-to-preserve-gotomeeting-discussions/"><u>[Updated] Easy Setup Routines to Preserve GoToMeeting Discussions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unlocking-youtubes-potential-with-personalized-plays-for-2024/"><u>[Updated] Unlocking Youtube’s Potential with Personalized Plays for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-channel-success-infusing-personality-into-templates/"><u>2024 Approved Channel Success Infusing Personality Into Templates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-digital-mastery-of-vhs-visuals/"><u>2024 Approved The Ultimate Guide to Digital Mastery of VHS Visuals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-navigating-personal-information-security/"><u>ChatGPT: Navigating Personal Information Security</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-verse-with-chatgpts-ai-assistance/"><u>Crafting Verse with ChatGPT's AI Assistance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cyber-survival-skills-predictive-trends-for-protection/"><u>Cyber Survival Skills: Predictive Trends for Protection</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ai-revolution-in-coding-6-superior-chatgpt-add-ons-for-your-visual-studio-code/"><u>Discover the AI Revolution in Coding: 6 Superior ChatGPT Add-Ons for Your Visual Studio Code</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-ai-opportunities-vs-threats-to-humanity/"><u>Dissecting AI: Opportunities vs Threats to Humanity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dont-take-this-route-here-are-5-reasons-why-chatgpt-can-harm-your-health-decisions/"><u>Don't Take This Route – Here Are 5 Reasons Why ChatGPT Can Harm Your Health Decisions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-in-depth-analysis-of-hardware-solutions/"><u>Exploring Technology with Tom: In-Depth Analysis of Hardware Solutions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-14-pro-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 14 Pro</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-intel-hd-graphics-4400-drivers-free-download-and-installation-guide/"><u>Latest Intel HD Graphics 4400 Drivers: Free Download and Installation Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-snapchat-through-your-computer-screen/"><u>Mastering Snapchat Through Your Computer Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-digital-world-with-toms-hardware-wisdom/"><u>Navigate the Digital World with Tom's Hardware Wisdom</u></a></li>
 </ul></div>
 

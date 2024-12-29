@@ -1,7 +1,7 @@
 ---
 title: "The Case Against: Why Organizations Banish ChatGPT's Services"
-date: 2024-12-22T18:19:52.436Z
-updated: 2024-12-23T18:30:15.120Z
+date: 2024-12-25T03:35:42.131Z
+updated: 2024-12-29T04:54:42.492Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. WebChatGPT
 
 ![WebChatGPT takes your ChatGPT prompt and performs a search query with it first, and then instructs ChatGPT to use those search results while answering your query so that its data is more updated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-chatgpt-browser-extensions-chrome-webchatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As impressive as ChatGPT's answers are, it's still limited. If you know[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) , you'll know that it isn't scraping the internet for the latest information about any topic or news. The AI works on older data and doesn't search the internet. WebChatGPT is an innovative workaround for this problem that adds web search results to ChatGPT.
 
@@ -68,11 +68,19 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
 
  The first time you use ChatpGPT Writer, you'll need to log in to your OpenAI account with it. The extension works with any Chromium browser such as Chrome, Brave, or Edge. While it's currently best for replying to professional emails, you can also give it non-work prompts to write casual and personal email messages.
 
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. YouTube Summary With ChatGPT
 
@@ -83,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
  Click any timestamp to be taken to that moment in the video. If you're already midway through the video, you can jump to the current time in the transcript. And you can copy-paste the transcript anywhere.
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
@@ -104,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. ChatGPT for Search Engines
 
  ChatGPT for Search Engines is one of the[best new web search apps](https://www.makeuseof.com/web-search-apps-make-google-better-or-replace-google/) that presents ChatGPT answers alongside regular search results on Google or DuckDuckGo. It also works with Bing, but you don't need that anymore, given Microsoft has already officially integrated the two.
@@ -121,7 +121,7 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
@@ -133,7 +133,7 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Awesome, But Be Realistic…
@@ -157,18 +157,22 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-elite-5-video-snapshot-recorders/"><u>[New] In 2024, Elite 5 Video Snapshot Recorders</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-strategic-use-of-instagrams-music-emojis-on-posts/"><u>[Updated] 2024 Approved Strategic Use of Instagram’s Music Emojis on Posts</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-ultimate-guide-to-dell-p2715qs-stunning-4k-visuals/"><u>[Updated] 2024 Approved The Ultimate Guide to Dell P2715Q's Stunning 4K Visuals</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-next-level-graphic-cards-for-4k-titles/"><u>[Updated] Next-Level Graphic Cards for 4K Titles</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-smartphones-ultimate-guide-to-image-editing-and-annotation/"><u>[Updated] Smartphones' Ultimate Guide to Image Editing & Annotation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-instant-guide-how-to-safely-gratisly-download-vlc-on-macos/"><u>2024 Approved Instant Guide How to Safely, Gratisly Download VLC on MacOS</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1728478850596-windows/"><u>簡単なガイド:Windows オペレーティングシステムの再イメージング方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-tale-of-three-ais-facing-the-same-crafted-prompts/"><u>A Tale of Three AI's Facing the Same Crafted Prompts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ensuring-data-protection-how-to-use-chatgpt-responsibly-in-the-workplace/"><u>Ensuring Data Protection: How to Use ChatGPT Responsibly in the Workplace</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/financial-guidance-through-emojis-unpacking-the-impact-of-digital-symbols-on-economy/"><u>Financial Guidance Through Emojis: Unpacking the Impact of Digital Symbols on Economy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-exclusive-tech-to-universal-toolkit-understanding-and-utilizing-gpt-4-across-industries/"><u>From Exclusive Tech to Universal Toolkit: Understanding & Utilizing GPT-4 Across Industries</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/game-on-top-6-must-try-chatgpt-gaming-experiences/"><u>Game On! Top 6 Must-Try ChatGPT Gaming Experiences</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-era-increased-customization-on-windows-11/"><u>New Era: Increased Customization on Windows 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-tune-and-time-lapses-creating-music-videos-with-your-phone/"><u>[New] Tune & Time Lapses Creating Music Videos with Your Phone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-allure-comprehensive-beauty-how-tos-on-youtube/"><u>[New] Unveiling Allure Comprehensive Beauty How-Tos on Youtube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-through-video-editing-landscape-with-movies-maker-on-windows-8-for-2024/"><u>[Updated] Navigating Through Video Editing Landscape with Movies Maker on Windows 8 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-precision-settings-for-obs-studio-on-android/"><u>[Updated] Precision Settings for OBS Studio on Android</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mov-to-vob/"><u>簡単なMOV to VOB変換手順：ビデオコンバーターでの便利なワークフロー</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-gpt-plug-ins-the-ultimate-list-to-explore/"><u>Essential GPT Plug-Ins: The Ultimate List to Explore</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/examining-the-usefulness-of-artificial-intelligence-for-savings-tips/"><u>Examining the Usefulness of Artificial Intelligence for Savings Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expand-your-horizons-using-chatgpt-to-communicate-in-different-languages-fluently/"><u>Expand Your Horizons: Using ChatGPT to Communicate in Different Languages Fluently</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-ultimate-selection-the-finest-ai-writing-services/"><u>Explore the Ultimate Selection: The Finest AI Writing Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/five-tech-ways-to-leverage-gpt-for-bitcoin-success/"><u>Five Tech Ways to Leverage GPT for Bitcoin Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-brainstorming-to-publishing-leveraging-chatgpt-in-content-production/"><u>From Brainstorming to Publishing: Leveraging ChatGPT in Content Production</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-typist-to-writer-empower-your-workflow-with-microsofts-gpt/"><u>From Typist to Writer: Empower Your Workflow with Microsoft's GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpts-standards-of-dependability-in-healthcare/"><u>GPT’s Standards of Dependability in Healthcare</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-androids-picture-in-picture-mode-a-step-by-step-guide/"><u>Mastering Android's Picture-in-Picture Mode: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-traffic-alerts-and-beyond-detailed-review-of-the-feature-rich-escort-max-360-radar-detector/"><u>Navigating Traffic Alerts and Beyond: Detailed Review of the Feature-Rich Escort Max 360 Radar Detector</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-filmora-hacks-streamline-your-reaction-video-creation-process/"><u>Updated Filmora Hacks Streamline Your Reaction Video Creation Process</u></a></li>
 </ul></div>
 

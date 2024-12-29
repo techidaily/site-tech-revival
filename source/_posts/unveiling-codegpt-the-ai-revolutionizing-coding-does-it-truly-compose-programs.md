@@ -1,7 +1,7 @@
 ---
 title: "Unveiling CodeGPT: The AI Revolutionizing Coding – Does It Truly Compose Programs?"
-date: 2024-12-17T16:27:38.638Z
-updated: 2024-12-23T16:59:47.992Z
+date: 2024-12-27T06:45:20.379Z
+updated: 2024-12-28T17:18:51.072Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will There Be a GPT-5?
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 ![ChatGPT logo on dark green background ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Yes, there will almost certainly be a 5th iteration of OpenAI's GPT large language model called GPT-5\. Unfortunately, much like its predecessors, GPT-3.5 and GPT-4, OpenAI adopts a reserved stance when disclosing details about the next iteration of its GPT models. Instead, the company typically reserves such information until a release date is very close. This tight-lipped policy typically fuels conjectures about the release timeline for every upcoming GPT model.
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 Here's a video of Altman's discussion below:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is GPT-5 Coming?
@@ -55,7 +55,7 @@ Here's a video of Altman's discussion below:
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
@@ -72,10 +72,6 @@ So, a 2024 release date for GPT-5? Is that possible?
 
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Changes Could GPT-5 Bring?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
@@ -85,6 +81,10 @@ So, a 2024 release date for GPT-5? Is that possible?
  Also, there's been underground talk about GPT models being able to process videos, much like GPT-4 models can take images as inputs. So, we could possibly have a model that can process text, images, sound, and videos.
 
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
 
@@ -107,17 +107,22 @@ So, a 2024 release date for GPT-5? Is that possible?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-easy-methods-for-dimming-audio-tracks-in-adobe-premiere/"><u>[New] 2024 Approved Easy Methods for Dimming Audio Tracks in Adobe Premiere</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-list-of-highest-rated-free-video-editing-apps-for-idevices-for-2024/"><u>[Updated] Ultimate List of Highest-Rated Free Video Editing Apps for iDevices for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boosting-performance-making-cyberpunk-2077-utilize-your-gpu-in-windows-11/"><u>Boosting Performance: Making Cyberpunk 2077 Utilize Your GPU in WINDOWS 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oppo-a1x-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Oppo A1x 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-reno-11-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo Reno 11 5G</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-character-creation-in-dungeons-and-dragons-leveraging-chatgpt-and-dall-e/"><u>Mastering Character Creation in Dungeons & Dragons: Leveraging ChatGPT and DALL-E</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-dandd-character-creation-leveraging-chatgpt-and-dall-e/"><u>Mastering D&D Character Creation: Leveraging ChatGPT and DALL-E</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-languages-faster-the-advantages-of-chatgptplus-edition/"><u>Mastering Languages Faster: The Advantages of ChatGPT+ Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-ai-boundaries-safely/"><u>Navigating AI Boundaries Safely</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/on-the-lookout-for-economical-vr-experience-china/"><u>On the Lookout for Economical VR Experience (China)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-no-permission-saves-error-windows-wise/"><u>Tackling No Permission Saves Error Windows-Wise</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oneplus-12-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from OnePlus 12? Here is How | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-crafting-humor-the-art-of-mememaking/"><u>[New] 2024 Approved Crafting Humor The Art of Mememaking</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-detailed-guide-on-voice-memos-best-practices/"><u>[Updated] Detailed Guide on Voice Memos Best Practices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-stardom-in-snapshot-vimeo-insight/"><u>2024 Approved Stardom in Snapshot - Vimeo Insight</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/augmented-risk-the-growing-concerns-of-ai-systems/"><u>Augmented Risk: The Growing Concerns of AI Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-survival-skills-how-effective-is-ai-in-the-great-outdoors/"><u>ChatGPT and Survival Skills: How Effective Is AI in the Great Outdoors?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-max-token-limit-and-breaking-past-it/"><u>ChatGPT's Max Token Limit & Breaking Past It</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/city-skylines-game-analysis-a-captivating-urban-planning-experience/"><u>City Skylines Game Analysis: A Captivating Urban Planning Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-ai-minds-gpt-4-vs-gpt-35-analysis/"><u>Comparing AI Minds: GPT-4 Vs. GPT-3.5 Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-the-role-and-operation-of-chatgpt-shared-links/"><u>Comprehensive Guide: The Role and Operation of ChatGPT Shared Links</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-ai-progression-in-depth-look-at-openais-gpt-series-gpt-1-to-gpt-amo/"><u>Decoding AI Progression: In-Depth Look at OpenAI's GPT Series - GPT-1 to GPT-Amo</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/defending-original-art-the-role-of-nightshade-in-preventing-ai-duplication/"><u>Defending Original Art: The Role of Nightshade in Preventing AI Duplication</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-what-to-read-next-using-powerful-ai-tools-check-out-these-5-amazing-booksites/"><u>Discover What to Read Next Using Powerful AI Tools - Check Out These 5 Amazing Booksites!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/efficient-recording-methods-for-skype-calls-using-obs/"><u>Efficient Recording Methods for Skype Calls Using OBS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-11-system-lag-and-hanging-problems/"><u>How to Fix Windows 11 System Lag and Hanging Problems?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-iphone-16-innovations-that-prove-the-new-standard-edition-is-a-must-have-upgrade-insights-from-zdnet/"><u>Top 4 iPhone 16 Innovations That Prove the New Standard Edition Is a Must-Have Upgrade: Insights From ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/transform-your-enterprise-via-advanced-linguistic-education/"><u>Transform Your Enterprise via Advanced Linguistic Education</u></a></li>
 </ul></div>
 

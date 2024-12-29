@@ -1,7 +1,7 @@
 ---
 title: "Exploring Predictive AI: Its Method and Mechanics Unfolded"
-date: 2024-12-22T18:11:37.441Z
-updated: 2024-12-23T18:59:01.148Z
+date: 2024-12-23T18:33:35.077Z
+updated: 2024-12-28T20:25:30.725Z
 tags:
   - chatgpt
   - open-ai
@@ -38,13 +38,13 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -57,13 +57,13 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -86,7 +86,7 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -109,7 +109,7 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -133,18 +133,14 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-telegram-marketing-101-a-step-by-step-guide-for-starters-for-2024/"><u>[New] Telegram Marketing 101 A Step-by-Step Guide for Starters for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-cut-buffering-time-turn-on-av1-in-youtube-settings-for-2024/"><u>[Updated] Cut Buffering Time – Turn On AV1 in YouTube Settings for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-share-todays-enlightening-voice-lesson/"><u>[Updated] In 2024, Share Today's Enlightening Voice Lesson</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-understanding-income-dynamics-from-trending-youtube-shorts/"><u>[Updated] In 2024, Understanding Income Dynamics From Trending YouTube Shorts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-oppo-a1-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Oppo A1 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-users-guide-to-task-filtering-and-theme-tweaking-in-windows-11/"><u>The Complete User's Guide to Task Filtering & Theme Tweaking in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-4-strategies-for-boosting-academic-research-with-ai-technology/"><u>Top 4 Strategies for Boosting Academic Research with AI Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-games-tale-6-creative-uses-of-chatgpt-in-video-game-writing/"><u>Transform Your Game's Tale: 6 Creative Uses of ChatGPT in Video Game Writing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-claude-2-powerful-capabilities-at-your-fingertips/"><u>Understanding Claude 2: Powerful Capabilities at Your Fingertips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-concerns-a-comprehensive-look-at-why-chatgpt-may-not-be-ideal-for-macos-environments/"><u>Understanding the Concerns: A Comprehensive Look at Why ChatGPT May Not Be Ideal for macOS Environments</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-a-world-of-possibilities-top-4-innovative-ai-storybuilders/"><u>Unlock a World of Possibilities: Top 4 Innovative AI Storybuilders</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-gptbot-impact-on-tech-and-content-blockers/"><u>Unraveling GPTBot - Impact on Tech and Content Blockers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-maximize-productivity-on-mac-top-free-tts-app-picks-you-need/"><u>[Updated] Maximize Productivity on Mac TOP Free TTS App Picks You Need</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transferring-photos-and-videos-from-one-idevice-to-another/"><u>[Updated] Transferring Photos & Videos From One iDevice to Another</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-earnings-unlocked-strategies-for-content-creators/"><u>In 2024, Vimeo Earnings Unlocked Strategies for Content Creators</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/monetary-spectrum-a-glimpse-into-mr-beasts-world-for-2024/"><u>Monetary Spectrum A Glimpse Into Mr. Beast’s World for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-y78t-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Y78t</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformative-presentation-tech-explore-the-top-7-ai-tools-to-elevate-your-slides/"><u>Transformative Presentation Tech: Explore the Top 7 AI Tools to Elevate Your Slides</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/uncharted-dialogues-with-gpt-powered-systems/"><u>Uncharted Dialogues with GPT-Powered Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-full-potential-of-your-images-with-dall-es-format-conversion/"><u>Unlock the Full Potential of Your Images with DALL-E's Format Conversion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-your-potential-the-six-advantages-of-using-chatgpt-as-a-worker-or-job-seeker/"><u>Unlock Your Potential: The Six Advantages of Using ChatGPT as a Worker or Job Seeker</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Does GPT4All Achieve Its Results?
-date: 2024-12-20T18:39:35.978Z
-updated: 2024-12-23T17:46:42.966Z
+date: 2024-12-24T19:05:49.235Z
+updated: 2024-12-28T20:15:14.836Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1 Read Aloud
 
  In March 2024, OpenAI launched ChatGPT's Read Aloud feature, enabling the AI tool to read its responses to you. It can be handy if you're working on a long piece of text and want to hear how it sounds spoken, but it also means that you can now effectively converse with ChatGPT (using ChatGPT's voice input feature).
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
  Furthermore, Read Aloud can speak in 37 different languages but will also try to auto-detect whatever language it's reading.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 Personalized Responses
@@ -59,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
 
  That's a small example, but illustrates how you might shape ChatGPT's output towards your daily use, saving you time each day.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 ChatGPT Memory and Temporary Chat
 
  ChatGPT Memory and Temporary Chat are two features launching together, aimed to give ChatGPT better recall—and a way to avoid that recall altogether.
@@ -66,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
 [ChatGPT's Memory](https://help.openai.com/en/articles/8590148-memory-faq) allows you to set specific information it should always remember about you. But that's not all. Over time, its memory can improve, learn details about you to add to its memory, and deliver improved accuracy and performance based upon this.
 
 ![openai chatgpt memory options and management panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-chatgpt-memory-options-and-management-panel.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [OpenAI](https://help.openai.com/en/articles/8590148-memory-faq)
 
@@ -76,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Temporary Chat
@@ -91,25 +95,21 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
 
  Unfortunately, at the time of writing, Temporary Chat mode is only available to a small number of users, limiting the amount of people using it. However, when it arrives, it'll be a useful tool for those moments you want to ask ChatGPT a question but don't want it linked to your profile forever more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Free Trial Invites
 
  Want to share ChatGPT Plus with your buddies, but they don't have the cash for the subscription? Well, you can use a ChatGPT Plus free trial invite to grant them a 14-day free ChatGPT Plus experience, with access to every feature.
 
  The only real downside to the ChatGPT Plus free trial is that anyone taking it has to sign up for an account using a credit or debit card—which means the card will be charged straight away when the trial ends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 Shared Links
 
  If the person you invite to trial ChatGPT is put off by the credit card sign-up, you could share your ChatGPT conversation with them instead.[ChatGPT's shared links launched in May 2023](https://www.makeuseof.com/what-are-chatgpt-shared-links-how-do-they-work/) and offer a way for ChatGPT users to share conversations outside the confines of the web interface or the smartphone app.
 
 ![chatgpt shared links with share name option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-shared-links-with-share-name-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Anyone with the link can view the ChatGPT conversation. Those with a ChatGPT account can continue the conversation, taking over from you (making it a somewhat collaborative process). Those without an account can just scroll through and see what transpired between you and the AI chatbot.
 
@@ -128,18 +128,20 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-top-6-secure-mc-domains/"><u>[New] In 2024, Top 6 Secure MC Domains</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-mastering-your-media-with-vlcs-secret-features/"><u>[New] Mastering Your Media with VLC's Secret Features</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-a-guide-to-instagram-video-brilliance-with-templates/"><u>[Updated] In 2024, A Guide to Instagram Video Brilliance with Templates</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elevating-marketing-through-real-peoples-endorsements/"><u>[Updated] In 2024, Elevating Marketing Through Real People’s Endorsements</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-livestreaming-facebook-made-simple-for-all-tech-users/"><u>[Updated] In 2024, Livestreaming Facebook Made Simple for All Tech Users</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-most-compelling-list-of-free-youtube-platforms-for-comic-book-illustrators/"><u>[Updated] The Most Compelling List of Free YouTube Platforms for Comic Book Illustrators</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-budget-friendly-choice-for-artists-and-note-takers-the-moto-g-stylus-reviewed/"><u>The Budget-Friendly Choice for Artists & Note-Takers - The Moto G Stylus Reviewed!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-more-words-with-chatgpt-strategies-for-handling-character-limits/"><u>Unlocking More Words with ChatGPT: Strategies for Handling Character Limits</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unpacking-the-inner-workings-7-apps-with-gpt-4/"><u>Unpacking the Inner Workings: 7 Apps with GPT-4</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-digital-privacy-how-virtual-private-networks-revolutionized-online-safety/"><u>Unraveling Digital Privacy: How Virtual Private Networks Revolutionized Online Safety</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unreliable-summings-think-twice-before-using-gpt-powered-bots/"><u>Unreliable Summings: Think Twice Before Using GPT-Powered Bots</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-top-7-innovative-ai-systems-that-simplify-mathematical-problem-solving/"><u>Unveiling The Top 7 Innovative AI Systems That Simplify Mathematical Problem-Solving</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-artificial-intelligence-isnt-the-answer-to-generating-your-windows-11-product-keys-safely/"><u>Why Artificial Intelligence Isn't the Answer to Generating Your Windows 11 Product Keys Safely</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-efficient-audio-documentation-in-academia-using-macs/"><u>[New] 2024 Approved Efficient Audio Documentation in Academia Using Macs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-master-your-media-adhering-to-twitters-video-requirements-for-2024/"><u>[New] Master Your Media Adhering to Twitter's Video Requirements for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-comprehensive-snapshot-service-azs-app-testing/"><u>[Updated] In 2024, Comprehensive Snapshot Service - AZ's App Testing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-revival-of-obs-camera-achieved/"><u>[Updated] Revival of OBS Camera Achieved</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-srt-guide-everything-you-should-know-about-srt/"><u>[Updated] SRT Guide Everything You Should Know About SRT</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-streaming-spectrum-digital-vs-physical-frontiers/"><u>[Updated] The Streaming Spectrum Digital vs Physical Frontiers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722133270335-5-best-virtual-detective-challenges-powered-by-artifice-intelligence-test-your-sleuthing-skills-now/"><u>5 Best Virtual Detective Challenges Powered by Artifice Intelligence - Test Your Sleuthing Skills Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/7-cybersecurity-trends-and-predictions/"><u>7 Cybersecurity Trends and Predictions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/academic-leaders-aid-in-evaluating-teacher-ready-ai-tools/"><u>Academic Leader's Aid in Evaluating Teacher-Ready AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transforming-your-aiff-files-into-mov-format-with-ease/"><u>Free Online Converter: Transforming Your AIFF Files Into MOV Format with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721945541146-from-premium-to-free-how-gpt-4-opens-new-avenues-and-the-persistent-appeal-of-chatgpt-plus/"><u>From Premium to Free: How GPT-4 Opens New Avenues & The Persistent Appeal of ChatGPT Plus!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-nord-n30-se-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Nord N30 SE to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722144192953-is-it-safe-to-discuss-sensitive-topics-on-chatgpt-find-out-here/"><u>Is It Safe to Discuss Sensitive Topics on ChatGPT? Find Out Here!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721870766146-steer-clear-of-these-6-bloatware-bot-extensions-save-time-and-money/"><u>Steer Clear of These 6 Bloatware Bot Extensions - Save Time & Money</u></a></li>
 </ul></div>
 

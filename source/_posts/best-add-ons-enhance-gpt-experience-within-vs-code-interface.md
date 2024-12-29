@@ -1,7 +1,7 @@
 ---
 title: "Best Add-Ons: Enhance GPT Experience Within VS Code Interface"
-date: 2024-12-20T16:04:40.754Z
-updated: 2024-12-23T18:54:50.200Z
+date: 2024-12-25T19:52:09.957Z
+updated: 2024-12-28T22:25:12.007Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/97473d93769b74152c0b0b04df270598f5aded179
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
@@ -31,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/97473d93769b74152c0b0b04df270598f5aded179
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -45,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/97473d93769b74152c0b0b04df270598f5aded179
  Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
 
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/97473d93769b74152c0b0b04df270598f5aded179
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -77,11 +77,11 @@ thumbnail: https://thmb.techidaily.com/97473d93769b74152c0b0b04df270598f5aded179
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -107,19 +107,24 @@ thumbnail: https://thmb.techidaily.com/97473d93769b74152c0b0b04df270598f5aded179
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-captivating-clips-with-cleverly-chosen-lights/"><u>[New] 2024 Approved Captivating Clips with Cleverly Chosen Lights</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-racing-to-the-top-olympic-highlights-in-short-track-speed/"><u>[New] Racing to the Top Olympic Highlights in Short Track Speed</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-cutting-edge-the-6-leading-video-apps-for-macos-big-sur-for-2024/"><u>[Updated] Cutting Edge The 6 Leading Video Apps for macOS Big Sur for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-taxonomy-of-video-and-film-capture-systems/"><u>[Updated] Taxonomy of Video and Film Capture Systems</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-personal-aerial-companions-gps-drones-that-never-stray/"><u>2024 Approved Personal Aerial Companions - GPS Drones that Never Stray</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/become-a-local-rap-figure-learn-27-authentic-french-expressions/"><u>Become a Local Rap Figure: Learn 27 Authentic French Expressions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-instructions-revamp-your-pc-with-the-latest-corsair-headset-driver-patches-for-windows/"><u>Comprehensive Instructions: Revamp Your PC with the Latest Corsair Headset Driver Patches for Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ethical-edits-top-7-methods-with-assisted-ai-technologies/"><u>Ethical Edits: Top 7 Methods with Assisted AI Technologies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-these-5-ai-powered-scripters-to-spark-creativity-in-writing/"><u>Explore These 5 AI-Powered Scripters to Spark Creativity in Writing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-codegpt-the-ai-revolution-in-coding/"><u>Exploring CodeGPT: The AI Revolution in Coding</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/extract-and-save-still-images-from-movies-in-windows-photos-for-2024/"><u>Extract and Save Still Images From Movies in Windows Photos for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fitness-junkies-secret-to-superior-chatgpt-interactions-mastering-the-art-of-query-writing/"><u>Fitness Junkies' Secret to Superior ChatGPT Interactions: Mastering the Art of Query Writing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/google-bard-vs-bing-chat-determining-the-ultimate-ai-companion/"><u>Google Bard Vs. Bing Chat: Determining the Ultimate AI Companion</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-e-reader-performance-effective-strategies-for-preserving-kindle-battery/"><u>Maximizing E-Reader Performance: Effective Strategies for Preserving Kindle Battery</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-crafting-memes-perfecting-social-media-videos-on-fb-and-insta-for-2024/"><u>[New] Crafting Memes Perfecting Social Media Videos on FB & Insta for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-increase-fb-engagement-and-sales-the-15-most-effective-analyzers-for-2024/"><u>[New] Increase FB Engagement & Sales The 15 Most Effective Analyzers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-pro-level-tiktok-edits-techniques-that-increase-viewership-for-2024/"><u>[New] Pro-Level TikTok Edits Techniques That Increase Viewership for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streaming-giants-clash-a-detailed-twitchyoutube-analysis/"><u>[Updated] Streaming Giants Clash A Detailed Twitch/YouTube Analysis</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-zte-blade-a73-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your ZTE Blade A73 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-xiaomi-redmi-k70e-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Xiaomi Redmi K70E?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/complete-guide-to-record-google-meet-for-free-as-hostpaticipants-for-2024/"><u>Complete Guide to Record Google Meet for Free [As Host/Paticipants] for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-top-6-benefits-of-using-snapchats-my-ai-beyond-entertainment/"><u>Discover the Top 6 Benefits of Using Snapchat's My AI - Beyond Entertainment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-creating-health-objectives-using-chatgpt/"><u>Effective Strategies for Creating Health Objectives Using ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/empower-your-world-with-gpt-4-heres-how-it-happens/"><u>Empower Your World with GPT-4 - Here's How It Happens</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/engaging-chatgpt-for-crafting-poetry-collections/"><u>Engaging ChatGPT for Crafting Poetry Collections</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/t-roundup-of-platforms-for-video-intro-acquisition-for-2024/"><u>Expert Roundup of Platforms for Video Intro Acquisition for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-advanced-ai-with-these-5-free-ways-to-use-gpt/"><u>Explore Advanced AI with These 5 FREE Ways to Use GPT-지</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-key-contrasts-between-natural-language-processing-nlp-and-machine-learning-ml/"><u>Exploring Key Contrasts Between Natural Language Processing (NLP) & Machine Learning (ML)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-entry-to-advanced-ai-gpt-4-unveiled/"><u>Free Entry to Advanced AI: GPT-4 Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-ideas-to-epics-leveraging-chatgpt-for-unparalleled-story-crafting-skills/"><u>From Ideas to Epics: Leveraging ChatGPT for Unparalleled Story Crafting Skills</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/generative-ai-in-messages-here-are-7-compelling-reasons-to-proceed-with-caution/"><u>Generative AI in Messages? Here Are 7 Compelling Reasons to Proceed with Caution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-11-pro-max-5-ways-to-get-into-a-locked-iphone-11-pro-max-by-drfone-ios/"><u>Locked Out of iPhone 11 Pro Max? 5 Ways to get into a Locked iPhone 11 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-views-adopting-the-compact-method-for-windows-11/"><u>Tailored Views: Adopting the Compact Method for Windows 11</u></a></li>
 </ul></div>
 

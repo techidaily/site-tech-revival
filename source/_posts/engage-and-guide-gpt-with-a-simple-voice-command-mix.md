@@ -1,7 +1,7 @@
 ---
 title: Engage and Guide GPT With a Simple Voice-Command Mix
-date: 2024-12-18T16:25:05.210Z
-updated: 2024-12-23T19:27:56.630Z
+date: 2024-12-25T05:13:35.240Z
+updated: 2024-12-29T05:58:15.858Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/3b3746640fe26afab367eb3d6989fbedd82bfd022
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -63,21 +63,19 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-getting-hooked-on-telegram-advertising-a-starters-guide/"><u>[New] In 2024, Getting Hooked on Telegram Advertising A Starter's Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-navigate-through-creating-stellar-educational-video-content-for-online-platforms/"><u>[Updated] In 2024, Navigate Through Creating Stellar Educational Video Content for Online Platforms</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-guide-turning-your-insta-videos-into-top-notch-mp4/"><u>[Updated] Step-by-Step Guide Turning Your Insta Videos Into Top-Notch MP4</u></a></li>
-<li><a href="https://article-tips.techidaily.com/basics-in-the-realm-of-tale-construction-for-2024/"><u>Basics in the Realm of Tale Construction for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creating-an-account-with-just-your-email-steps-for-signing-up-to-chatgpt-and-other-messaging-services/"><u>Creating an Account with Just Your Email: Steps for Signing Up to ChatGPT and Other Messaging Services</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-impact-of-shape-on-ml-transparency/"><u>Decoding the Impact of ShapE on ML Transparency</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-future-key-insights-into-next-gen-cyber-threats-and-prevention/"><u>Discover the Future: Key Insights Into Next-Gen Cyber Threats & Prevention</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/does-chatgpt-protect-our-secrets/"><u>Does ChatGPT Protect Our Secrets?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ease-into-large-language-models-a-novices-introduction-to-langchain-llm-essentials/"><u>Ease Into Large Language Models - A Novice's Introduction to LangChain LLM Essentials</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-tasks-with-chatgpt-plus-wolfram-alpha-3-key-strategies-for-success/"><u>Elevate Tasks with ChatGPT + Wolfram Alpha: 3 Key Strategies for Success</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/embrace-ai-for-the-modern-professionals-toolkit/"><u>Embrace AI for the Modern Professional's Toolkit</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-disable-cortana-in-windows-10/"><u>How to Disable Cortana in Windows 10</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/realitys-new-horizons-analyzing-metaverse-and-omniverse-worlds/"><u>Reality's New Horizons Analyzing Metaverse and Omniverse Worlds</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/seamless-conversion-of-video-content-to-dynamic-gif-formats-for-2024/"><u>Seamless Conversion of Video Content to Dynamic GIF Formats for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superior-screen-refinement-software-for-video-lovers-for-2024/"><u>Superior Screen Refinement Software for Video Lovers for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-when-msvcp60dll-is-absent-error-appears/"><u>Troubleshooting Tips for When msvcp60.dll Is Absent Error Appears</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/efeating-darkness-in-youtube-videos/"><u>[New] Defeating Darkness in Youtube Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ncrease-views-discover-20-prime-thumbnail-fonts-for-2024/"><u>[New] Increase Views - Discover 20 Prime Thumbnail Fonts for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-comprehensive-guide-to-mastering-facetune-app-features-for-2024/"><u>[New] The Comprehensive Guide to Mastering Facetune App Features for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/auditory-enhancement-of-photographic-memories-online-for-2024/"><u>Auditory Enhancement of Photographic Memories Online for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-limitations-exposed-3-excel-tasks-it-simply-cant-handle/"><u>ChatGPT's Limitations Exposed: 3 Excel Tasks It Simply Can't Handle</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-kobo-nia-e-reader-assessment-an-impressive-challenger-to-the-amazon-kindle/"><u>Comprehensive Kobo Nia E-Reader Assessment: An Impressive Challenger to the Amazon Kindle</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decision-time-which-version-of-chatgpt-fits-your-needs-best-browsing-or-plugin/"><u>Decision Time: Which Version of ChatGPT Fits Your Needs Best – Browsing or Plugin?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-conversational-agents-the-mechanics-behind-chatbot-communication-with-humans/"><u>Decoding Conversational Agents: The Mechanics Behind Chatbot Communication with Humans</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/downloading-and-setting-up-llama-2-locally-explained/"><u>Downloading and Setting up Llama 2 Locally Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-campfire-fun-infusing-dandd-with-gpts-creative-guidance/"><u>Elevate Campfire Fun: Infusing D&D with GPT's Creative Guidance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-your-windows-experience-with-simple-video-trimming-tips/"><u>Enhance Your Windows Experience with Simple Video Trimming Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/finding-your-ideal-screen-recorder-obs-or-fraps-for-2024/"><u>Finding Your Ideal Screen Recorder OBS or Fraps for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-iphone-collages-the-ultimate-guide-to-cutting-edge-design-for-2024/"><u>Innovative iPhone Collages The Ultimate Guide to Cutting-Edge Design for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/what-to-do-if-your-game-of-the-year-football-manager-202n3-wont-launch/"><u>What To Do If Your Game of the Year, Football Manager 202N3 Won't Launch?</u></a></li>
 </ul></div>
 

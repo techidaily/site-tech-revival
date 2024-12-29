@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT to the Rescue: Tips for Climbing the Ladder to Your Dream Role"
-date: 2024-12-21T16:28:36.475Z
-updated: 2024-12-23T19:01:31.481Z
+date: 2024-12-23T21:45:22.461Z
+updated: 2024-12-29T06:23:55.660Z
 tags:
   - chatgpt
   - open-ai
@@ -24,9 +24,17 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1.[DAIR.AI](https://discord.com/invite/SKgkVT8BGJ)
 
 ![Discord Channel for DAIR AI Users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-ai-channel-dair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [DAIR.AI](https://dair.ai/) primarily engages with the community through Discord. It provides free, comprehensive resources on various AI topics, such as prompt engineering, machine learning, and career building. You’ll also find pieces answering general knowledge questions.
 
@@ -40,11 +48,19 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
 
 ![ChatGPT Prompts Repositories on GitHub](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-repositories-for-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Anyone interested in AI should sign up for GitHub. It’s a paid source code-hosting site that lets users collaborate on coding and programming projects. You and your partners can take codes straight from repositories.
 
  Likewise, GitHub accommodates newbies. You can scroll through repositories and study resources with a free account. Find any topic you want. Just note that you’ll have limited collaborative freedom until you upgrade your membership.
 
  Let’s say you’re interested in ChatGPT. While you can’t train LLMs with other users, you can search for[effective ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3.[r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/)
 
@@ -57,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
 ![ChatGPT Refusing to Act Like Tomie Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-rejecting-roleplay-request-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After rephrasing the instructions and adding more details, it quickly obliged.
@@ -66,17 +82,9 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
 
  You can apply this trick to other prompts. On r/ChatGPTJailbreak, you’ll learn the proper phrasing, language, word choice, and sentence structure when jailbreaking ChatGPT. Only specific formulas can bypass AI restrictions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4.[ChatGPT Prompt Engineers](https://www.facebook.com/groups/706382050894862/)
 
 ![A Facebook Group for Sharing and Posting ChatGPT Prompts ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/facebook-group-chatgpt-prompt-engineers.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ChatGPT Prompt Engineers is a decent community for beginners. Members just typically ask general knowledge questions about writing prompts and getting optimal outputs. You won’t have trouble keeping up with discussions.
 
@@ -95,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
  Try some[AI art prompt tricks](https://www.makeuseof.com/ai-art-prompt-ideas/) to get your creative juices flowing. See how phrasing affects the way your output. You’ll notice specific phrases and keywords that trigger different image elements.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6.[r/PromptDesign](https://www.reddit.com/r/PromptDesign/)
@@ -103,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
 ![A Reddit Community for Sharing Prompt Design Tricks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reddit-community-prompt-design.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  r/PromptDesign is a good place to master prompt engineering. Instead of sharing model-specific prompts, the group discusses ways users communicate with AI tools. Its members test various platforms regularly.
@@ -120,17 +128,9 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
 
  Most topics can get pretty technical. We suggest filtering the posts based on flair so that you can focus on one aspect of OpenAI at a time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8.[r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/)
 
 ![Reddit Community for Stable Diffusion Prompts and Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stablediffusion-prompts-on-reddit.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  r/StableDiffusion is the largest subreddit dedicated to Stable Diffusion. The community allows sharing workflows. However, it primarily encourages users to post outputs and discuss relevant AI news—prompt engineering is merely a part of generating AI art.
 
@@ -171,22 +171,24 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-effortlesssave-expert-perspective-for-2024/"><u>[New] EffortlessSave Expert Perspective for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-boosting-stream-consistency-with-obs-fixes/"><u>[New] In 2024, Boosting Stream Consistency with OBS Fixes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-concealed-aspects-understanding-the-unique-stories-of-followers/"><u>[New] The Concealed Aspects Understanding the Unique Stories of Followers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/secure-download-optimized-geforce-rtx-3060-ti-driver-packs-perfect-for-windows-11-users/"><u>[Secure Download] Optimized GeForce RTX 3060 Ti Driver Packs - Perfect for Windows 11 Users</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-vivid-hue-enhancer-program-for-2024/"><u>[Updated] Vivid Hue Enhancer Program for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/apowersoft-a-complete-guide-to-screen-recording/"><u>Apowersoft A Complete Guide to Screen Recording</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-recipe-success-rate-in-mixology/"><u>ChatGPT's Recipe Success Rate in Mixology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chrome-add-on-simplifies-your-interaction-with-chatgpt/"><u>Chrome Add-On Simplifies Your Interaction with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/code-writing-revolution-with-codegpt-how-effective-is-it-really-in-coding-solutions/"><u>Code Writing Revolution with CodeGPT: How Effective Is It Really in Coding Solutions?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-beats-and-melodies-the-chatgpt-way-in-audio-workstations/"><u>Crafting Beats & Melodies - The ChatGPT Way in Audio Workstations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-unforgettable-quests-how-chatgpt-enhances-dungeon-mastering-skills/"><u>Crafting Unforgettable Quests: How ChatGPT Enhances Dungeon Mastering Skills</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/daily-life-bots-clash-claude-vs-generative-pre-trained-transformer/"><u>Daily Life Bots Clash: Claude Vs. Generative Pre-Trained Transformer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciding-winner-the-ultimate-faceoff-between-llama-3-and-gpt-4/"><u>Deciding Winner: The Ultimate Faceoff Between Llama 3 and GPT-4</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-ai-models-how-public-private-and-personal-variants-differ/"><u>Demystifying AI Models: How Public, Private, and Personal Variants Differ</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-unparalleled-speed-with-the-newly-launched-5-core-epyc-cpu-boasting-128-cores-and-a-mighty-512mb-cache/"><u>Experience Unparalleled Speed with the Newly Launched 5-Core EPYC CPU, Boasting 128 Cores and a Mighty 512MB Cache</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-huawei-nova-y71-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Huawei Nova Y71</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978793481-troubleshooting-and-fixing-hps-beats-sound-drivers-in-windows-1087-solved/"><u>Troubleshooting and Fixing HP's Beats Sound Drivers in Windows 10/8/7 - Solved!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-best-techniques-for-capturing-youtube-live-video/"><u>[Updated] In 2024, Best Techniques for Capturing YouTube Live Video</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-stepwise-strategies-to-perfect-youtube-trailers-by-filmora/"><u>[Updated] Stepwise Strategies to Perfect YouTube Trailers by Filmora</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/el-titling-101-the-quest-for-an-original-label-for-2024/"><u>Channel Titling 101 The Quest for an Original Label for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/deciding-on-ai-companionship-alexa-versus-google-assistant/"><u>Deciding on AI Companionship: Alexa versus Google Assistant</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-digital-marketing-efforts-with-cookiebots-cutting-edge-tools/"><u>Elevate Digital Marketing Efforts with Cookiebot's Cutting-Edge Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-accelerating-expertise-in-social-media-strategies-with-reddit-guidance/"><u>In 2024, Accelerating Expertise in Social Media Strategies with Reddit Guidance</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-your-pcs-missing-windows-update-service/"><u>Restoring Your PC's Missing Windows Update Service</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-perfect-match-of-might-and-budget-a-comprehensive-review-of-the-ibuypower-gaming-machine/"><u>The Perfect Match of Might & Budget: A Comprehensive Review of the IBuypower Gaming Machine</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-veracity-of-chatgpt-understanding-when-to-believe-what-you-read-online/"><u>The Veracity of ChatGPT – Understanding When to Believe What You Read Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-reasons-why-claude-outshines-chatgpt-in-conversational-intelligence/"><u>Top 4 Reasons Why Claude Outshines ChatGPT in Conversational Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-ai-applications-enhancing-content-creation-for-writers/"><u>Top 8 AI Applications Enhancing Content Creation for Writers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-issues-you-should-know-about-when-using-openais-chatgpt/"><u>Top 8 Issues You Should Know About When Using OpenAI's ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ubuntu-bash-scripts-to-converse-with-chatgpt/"><u>Ubuntu Bash Scripts to Converse with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-gptzero-the-ultimate-guide-to-identifying-ai-content/"><u>Understanding GPTZero: The Ultimate Guide to Identifying AI Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-vector-databases-key-tools-for-advancing-ai-systems/"><u>Understanding Vector Databases: Key Tools for Advancing AI Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-creativity-20-greatest-chatgpt-prompts-available-on-github/"><u>Unlocking Creativity: 20 Greatest ChatGPT Prompts Available on GitHub</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-enhanced-features-why-chatgpt-on-desktop-trumps-the-website-option/"><u>Unlocking Enhanced Features: Why ChatGPT on Desktop Trumps the Website Option</u></a></li>
+<li><a href="https://techtrends.techidaily.com/vobwindows1078macos/"><u>VOBファイル融合手順：Windows10/7/8・macOS対応ガイド</u></a></li>
 </ul></div>
 

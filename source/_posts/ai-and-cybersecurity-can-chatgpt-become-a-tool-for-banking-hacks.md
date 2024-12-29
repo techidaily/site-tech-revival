@@ -1,7 +1,7 @@
 ---
 title: "AI and Cybersecurity: Can ChatGPT Become a Tool for Banking Hacks?"
-date: 2024-12-18T16:02:33.386Z
-updated: 2024-12-23T18:57:00.529Z
+date: 2024-12-23T21:56:51.921Z
+updated: 2024-12-28T21:05:28.174Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -63,21 +63,18 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-leveraging-youtube-for-dynamic-instagram-stories/"><u>[New] Leveraging YouTube for Dynamic Instagram Stories</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tial-tips-for-youtube-short-fixes-for-2024/"><u>Essential Tips for YouTube Short Fixes for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experiencing-apples-studio-display-a-stunning-yet-expensive-27-inch-5k-screen-tailored-for-professionals-using-mac-insights-from-zdnet/"><u>Experiencing Apple's Studio Display: A Stunning Yet Expensive $27-Inch 5K Screen Tailored for Professionals Using Mac - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harness-the-power-of-speech-5-techniques-for-directing-chatgpt-by-voice/"><u>Harness the Power of Speech: 5 Techniques for Directing ChatGPT by Voice</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-k11-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo K11 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-sharing-work-in-chatgpt-unraveling-its-intricate-processes/"><u>How Does Sharing Work in ChatGPT? Unraveling Its Intricate Processes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/improve-health-regimens-with-top-8-ai-plugins/"><u>Improve Health Regimens with Top 8 AI Plugins</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/key-aspects-opting-for-ai-assisted-therapy-via-chatgpt/"><u>Key Aspects: Opting for AI-Assisted Therapy via ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/language-assistants-in-the-workplace-freelancers-choicebing-chat-or-chatgpt/"><u>Language Assistants in the Workplace: Freelancer's Choice—Bing Chat or ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-the-art-of-communicating-with-chatgpt-for-health-enthusiasts/"><u>Master the Art of Communicating with ChatGPT for Health Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-the-update-process-latest-techniques-for-dell-docking-station-drivers-upgrade/"><u>Master the Update Process: Latest Techniques for DELL Docking Station Drivers Upgrade</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximize-your-experience-with-chatgpt-here-are-5-free-tactics/"><u>Maximize Your Experience With ChatGPT - Here Are 5 Free Tactics</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/secure-mail-box-migration-live-exchange-server-techniques/"><u>Secure Mail Box Migration - LIVE Exchange Server Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-breakdown-xstudio-video-production-mastery/"><u>The Ultimate Breakdown XStudio Video Production Mastery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/top-6-windows-11-applications-enhancing-remote-work-efficiency-discover-how/"><u>Top 6 Windows 11 Applications Enhancing Remote Work Efficiency - Discover How!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-value-of-xiaomi-mi-smart-band-4-an-essential-guide-for-budget-fitness-enthusiasts/"><u>Unveiling the Value of Xiaomi Mi Smart Band 4: An Essential Guide for Budget Fitness Enthusiasts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-transform-your-footage-best-free-android-editors-reviewed/"><u>[New] 2024 Approved Transform Your Footage Best Free Android Editors Reviewed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unveiling-fbs-topest-latest-perks/"><u>[New] 2024 Approved Unveiling FB's Topest Latest Perks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-maximize-your-payload-top-10-drone-giants/"><u>[New] Maximize Your Payload Top 10 Drone Giants</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-zoom-screen-sharpness-users-handbook/"><u>[Updated] Perfecting Zoom Screen Sharpness User's Handbook</u></a></li>
+<li><a href="https://win-hot.techidaily.com/effizientes-sql-server-backup-und-recovery-software-die-beste-losung-fur-ihre-datensicherheit/"><u>Effizientes SQL Server Backup Und Recovery Software: Die Beste Lösung Für Ihre Datensicherheit</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-your-corporate-email-game-with-chatgpts-assistance-a-step-by-step-guide/"><u>Elevating Your Corporate Email Game with ChatGPT's Assistance - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elite-8-chatgpt-questions-to-combat-screen-time-temptations/"><u>Elite 8 ChatGPT Questions to Combat Screen Time Temptations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embrace-emotional-well-being-with-these-5-cutting-edge-therapy-bots-and-apps/"><u>Embrace Emotional Well-Being with These 5 Cutting-Edge Therapy Bots and Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exciting-gpt-enhancements-essential-new-features-announced/"><u>Exciting GPT Enhancements: Essential New Features Announced</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-13-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone 13 Apple ID on MacBook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ios-18-upgrade-enables-direct-voice-recording-feature-without-external-apps-insights-from-zdnet/"><u>IOS 18 Upgrade Enables Direct Voice Recording Feature Without External Apps - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-realme-12-proplus-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Realme 12 Pro+ 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-iphone-sound-issues-tips-and-solutions/"><u>Troubleshooting iPhone Sound Issues: Tips and Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT at Work: How to Keep Your Sensitive Projects Safe From Privacy Breaches"
-date: 2024-12-18T19:06:21.587Z
-updated: 2024-12-23T16:26:32.925Z
+date: 2024-12-28T04:55:31.825Z
+updated: 2024-12-28T18:54:53.744Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 * [ChatGPT Data Collection You Can't Opt Out From](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#chatgpt-data-collection-you-can-39-t-opt-out-from)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
  But worry not; you can opt out of having your chat data used, keeping your ChatGPT conversations private.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is ChatGPT's Chat History and Training Feature?
 
  When you sign up for a ChatGPT account (be it the free or premium version), ChatGPT saves your chat history and uses your chat data for future training by default.
@@ -55,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
  While OpenAI doesn't claim to do anything nefarious with your chat data, the[OpenAI FAQ](https://help.openai.com/en/articles/6783457-what-is-chatgpt) states your chats "may be reviewed by \[its\] AI trainers to improve \[its\] systems." OpenAI can use your conversations at its discretion, feeding them to its[large language model (LLM)](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) in the training process.
 
  However, in April 2023, OpenAI started offering users the choice to disable or enable chat history and training data collection.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Opt-Out of ChatGPT's Chat History and Training Feature
 
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In your settings, click on the**Data controls** option. Now, you'll see a setting named**Chat history & training** . This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Data Collection You Can't Opt Out From
@@ -115,24 +115,20 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-ultimate-framework-for-fullscreen-proficiency-in-premiere/"><u>[New] 2024 Approved The Ultimate Framework for Fullscreen Proficiency in Premiere</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-breaking-through-with-stunning-hdr-portrait-shots/"><u>[Updated] Breaking Through with Stunning HDR Portrait Shots</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-gopro-hero5-pro-vs-sjcam-sj7-ultra-hd/"><u>[Updated] GoPro Hero5 Pro vs SJCAM SJ7 Ultra-HD</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-discover-how-these-15-advanced-facebook-gadgets-boost-e-commerce-sale-traffic/"><u>[Updated] In 2024, Discover How These 15 Advanced Facebook Gadgets Boost E-Commerce Sale Traffic</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/clear-your-printers-nozzles-a-step-by-step-guide-from-experts-at-yl-software/"><u>Clear Your Printer's Nozzles: A Step-by-Step Guide From Experts at YL Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-ai-skills-the-greatest-artistic-achievement-by-three-distinctive-chatbots/"><u>Comparing AI Skills: The Greatest Artistic Achievement by Three Distinctive Chatbots</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cybersecurity-threat-evolved-discover-the-5-ways-ai-assists-hackers-in-their-quest/"><u>Cybersecurity Threat Evolved: Discover the 5 Ways AI Assists Hackers in Their Quest</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-the-future-of-verification-on-twit/"><u>Deciphering the Future of Verification on Twit</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-the-language-giants-bert-and-gpt-analysis/"><u>Deciphering the Language Giants: BERT & GPT Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/do-you-need-gpt-4-to-make-the-most-out-of-auto-gpt/"><u>Do You Need GPT-4 to Make the Most Out of Auto-GPT?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-ai-conversations-using-our-expertly-crafted-7-tips-for-flawless-prompts/"><u>Enhance Your AI Conversations Using Our Expertly Crafted 7 Tips for Flawless Prompts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-work-processes-through-strategic-use-of-chatgpt/"><u>Enhancing Work Processes Through Strategic Use of ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-career-trajectories-in-ai-driven-responsiveness-design/"><u>Exploring Career Trajectories in AI-Driven Responsiveness Design</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-differences-in-ai-chatbots-a-head-to-head-of-mistrals-le-chat-and-chatgpt/"><u>Exploring Differences in AI Chatbots: A Head-to-Head of Mistral’s Le Chat and ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-interacting-with-chatgpt-a-threat-to-your-online-privacy/"><u>Is Interacting with ChatGPT a Threat to Your Online Privacy?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/start-with-simple-understanding-facebook-metrics-for-newbies-for-2024/"><u>Start with Simple Understanding Facebook Metrics for Newbies for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/true-or-false-unmasking-gpt-myths/"><u>True or False? Unmasking GPT Myths</u></a></li>
-<li><a href="https://win-blog.techidaily.com/what-to-do-when-palworld-refuses-to-open-or-load-correctly/"><u>What to Do When Palworld Refuses to Open or Load Correctly?</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-mastery-designing-a-schedule-to-prevent-sudden-changes/"><u>Windows 11 Mastery: Designing a Schedule to Prevent Sudden Changes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-music-management-for-social-media-iphone-and-android-basics/"><u>[New] 2024 Approved Music Management for Social Media IPhone & Android Basics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-instagram-launch-your-live-session-for-2024/"><u>[New] Mastering Instagram Launch Your Live Session for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-symbolizing-sound-designing-a-captivating-podcast-image/"><u>[New] Symbolizing Sound Designing a Captivating Podcast Image</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-science-behind-whatsapp-voice-talks/"><u>[Updated] 2024 Approved The Science Behind WhatsApp Voice Talks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-motorola-g54-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Motorola G54 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/an-overview-of-hugging-face-why-use-it-in-ai-development/"><u>An Overview of Hugging Face: Why Use It in AI Development?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beat-digital-noise-the-8-keyphrases-for-chatgpt-mastery/"><u>Beat Digital Noise: The 8 Keyphrases for ChatGPT Mastery</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-workflow-integrating-chatgpt-as-your-on-demand-professional-support/"><u>Boost Your Workflow: Integrating ChatGPT as Your On-Demand Professional Support</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypass-chatgpt-for-efficient-code-generation-7-exceptional-ai-alternatives/"><u>Bypass ChatGPT for Efficient Code Generation: 7 Exceptional AI Alternatives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypass-registration-on-chatgpt-explore-these-5-alternatives/"><u>Bypass Registration on ChatGPT? Explore These 5 Alternatives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-ai-unveiled-discover-its-purpose-and-how-it-can-transform-your-experience/"><u>Claude AI Unveiled: Discover Its Purpose and How It Can Transform Your Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-the-next-gen-gpt-4s-leap-over-gpt-35/"><u>Comparing the Next Gen: GPT-4's Leap over GPT-3.5</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-discovering-an-individuals-email-through-legal-means/"><u>Guide: Discovering an Individual's Email Through Legal Means</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-13-pro-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 13 Pro in 3 Ways | Dr.fone</u></a></li>
 </ul></div>
 

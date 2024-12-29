@@ -1,7 +1,7 @@
 ---
 title: "Essential Tips: Leveraging ChatGPT Effectively for Your Writing Gigs"
-date: 2024-12-18T19:28:45.386Z
-updated: 2024-12-23T18:24:56.702Z
+date: 2024-12-28T05:06:45.856Z
+updated: 2024-12-28T20:49:13.850Z
 tags:
   - chatgpt
   - open-ai
@@ -37,11 +37,11 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Too Many Instructions In a Single Prompt
@@ -75,10 +75,6 @@ You could use:
 
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Not Providing Context When Necessary
 
  Context plays a vital role in how ChatGPT responds to any given prompt. Even a minor shift in context can lead to significantly different responses. If no context is provided, your prompt becomes ambiguous, resulting in varied responses each time the same prompt is used. This lack of consistency may not be desirable when seeking precise answers because there's no way of knowing the right response. But how do you provide context, and when should you?
@@ -107,6 +103,10 @@ You could use:
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
@@ -116,13 +116,13 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Not Being Clear and Specific With Your Instructions
@@ -152,22 +152,20 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-unlock-igtv-master-video-submission-for-2024/"><u>[New] Unlock IGTV Master Video Submission for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-symphonic-streams-exclusive-sites-for-downloadable-tones/"><u>[Updated] 2024 Approved Symphonic Streams Exclusive Sites for Downloadable Tones</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-spectrums-impact-applying-color-dynamics/"><u>[Updated] In 2024, The Spectrum's Impact Applying Color Dynamics</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-no-limit-visual-capturer-device-for-2024/"><u>[Updated] No-Limit Visual Capturer Device for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-panorama-pixels-cutting-edge-photo-assembler/"><u>[Updated] Panorama Pixels Cutting-Edge Photo Assembler</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-everyday-living-using-chatgpt-strategies-and-tips/"><u>Enhancing Everyday Living Using ChatGPT – Strategies and Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-ai-technology-insights-for-modern-business-owners/"><u>Essential AI Technology Insights for Modern Business Owners</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-ai-detectors-reliability-four-startling-cases-that-challenge-zerogpt-trustworthiness/"><u>Evaluating AI Detectors' Reliability - Four Startling Cases That Challenge ZeroGPT Trustworthiness</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-guide-to-applying-luts-in-professional-production-for-2024/"><u>Expert Guide to Applying LUTs in Professional Production for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-chatgpts-ability-in-mathematics-can-it-tackle-complex-equations/"><u>Exploring ChatGPT's Ability in Mathematics: Can It Tackle Complex Equations?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-hugging-face-its-functions-and-uses-in-ai/"><u>Exploring Hugging Face - Its Functions & Uses in AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fitness-customization-made-easy-with-chatgpt-for-professional-coaches-and-trainers/"><u>Fitness Customization Made Easy with ChatGPT for Professional Coaches and Trainers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-acquainted-with-the-most-impactful-new-features-in-chatgpt/"><u>Get Acquainted with the Most Impactful New Features in ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-started-with-no-cost-run-an-in-house-localized-chatgpt-clone-powered-by-gpt4all-on-windows-pcs/"><u>Get Started with No Cost: Run an In-House Localized ChatGPT Clone Powered by GPT4All on Windows PCs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/harmonic-richness-in-sound-and-design-the-beoplay-h8i-story/"><u>Harmonic Richness in Sound and Design: The Beoplay H8i Story</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/transform-images-effortlessly-with-the-free-editing-tool-lightzone-available-on-windows-macos-and-linux-systems/"><u>Transform Images Effortlessly with the Free Editing Tool LightZone – Available on Windows, macOS & Linux Systems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-quick-fixes-to-resume-paused-stream-on-facebook/"><u>[New] Quick Fixes to Resume Paused Stream on Facebook</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-be-moved-by-motivation-top-15-tiktok-talents-today/"><u>[Updated] Be Moved by Motivation Top 15 TikTok Talents Today</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-chuckle-champs-twitters-humor-heap/"><u>2024 Approved Chuckle-Champs Twitter’s Humor Heap</u></a></li>
+<li><a href="https://discover-community.techidaily.com/boost-your-pcs-performance-expert-tips-from-yl-computings-latest-guide/"><u>Boost Your PC's Performance: Expert Tips From YL Computing's Latest Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-on-major-networks-navigate-facebook-twitter-instagram-and-youtube-successfully/"><u>Engage on Major Networks: Navigate Facebook, Twitter, Instagram & Youtube Successfully</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/envisioning-innovation-4-essential-upgrades-for-next-gen-gpt-n-model/"><u>Envisioning Innovation: 4 Essential Upgrades for Next-Gen GPT-N Model</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/envisioning-tomorrow-exploring-gpts-significant-innovations/"><u>Envisioning Tomorrow: Exploring GPT's Significant Innovations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-errors-what-not-to-do-with-generative-ai-technology/"><u>Essential Errors: What NOT to Do with Generative AI Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-remedies-for-chatgpts-most-recurrent-faults/"><u>Essential Remedies for ChatGPT's Most Recurrent Faults</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-advantages-and-disadvantages-of-chatgpt-plus-a-detailed-analysis/"><u>Exploring the Advantages & Disadvantages of ChatGPT Plus: A Detailed Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/extract-digest-and-understand-4-advanced-tips-for-chatgpt-and-pdfs/"><u>Extract, Digest & Understand: 4 Advanced Tips for ChatGPT and PDFs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-to-use-travel-wizards-the-compilation-of-top-7-planning-apps/"><u>Free-to-Use Travel Wizards - The Compilation of Top 7 Planning Apps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-samsung-galaxy-xcover-7-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Samsung Galaxy XCover 7 to iPad | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-creativity-through-intense-iphone-photos-for-2024/"><u>Unlocking Creativity Through Intense iPhone Photos for 2024</u></a></li>
 </ul></div>
 

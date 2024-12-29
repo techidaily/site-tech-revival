@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Employment Risks: The Potential Firing Scenarios"
-date: 2024-12-22T18:08:52.799Z
-updated: 2024-12-23T18:32:46.301Z
+date: 2024-12-25T16:47:30.854Z
+updated: 2024-12-28T21:52:18.794Z
 tags:
   - chatgpt
   - open-ai
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is ChatGPT?
@@ -31,10 +31,14 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 ![artificial intelligence brain connected to human being](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-4389372_1920-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do People Use ChatGPT?
 
@@ -53,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
@@ -71,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some[criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) , ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Will ChatGPT Replace Other Jobs?
@@ -83,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
  There’s also an interesting Twitter thread where ChatGPT impressed by helping to diagnose a type of heart disease. However, others replied that the chatbot is good at faking expertise and provided several possible diagnoses. Someone with genuine medical expertise must review the responses and use their knowledge to gauge the chatbot’s accuracy.
 
  Elsewhere, people are explicitly[formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and[spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Deserves Caution
 
@@ -107,17 +107,22 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-amazing-builds-the-best-of-block-city-homes/"><u>[Updated] 2024 Approved Amazing Builds The Best of Block City Homes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-captivating-your-network-streamlining-content-via-wirecast-to-facebook/"><u>[Updated] 2024 Approved Captivating Your Network Streamlining Content via Wirecast to Facebook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/delete-photos-on-facebook-follow-these-simple-steps/"><u>Delete Photos on Facebook? Follow These Simple Steps!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experience-ultimate-wireless-speed-with-netgear-nighthawk-rax120-the-fastest-routers-reviewed/"><u>Experience Ultimate Wireless Speed with Netgear Nighthawk RAX120 - The Fastest Routers Reviewed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-night-photography-tips-take-night-photos-with-iphone/"><u>IPhone Night Photography Tips Take Night Photos with iPhone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-converging-worlds-of-ai-and-imagination/"><u>The Converging Worlds of AI & Imagination</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-essential-guide-to-uncaged-freegpt-on-windows/"><u>The Essential Guide to Uncaged FreeGPT on Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-technique-for-building-your-resume-with-chatgpts-help/"><u>The Ultimate Technique for Building Your Resume with ChatGPT's Help</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-strategies-how-using-chatgpt-can-boost-your-linkedin-employment-opportunities/"><u>Top 10 Strategies: How Using ChatGPT Can Boost Your LinkedIn Employment Opportunities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-phone-with-these-8-leading-ai-utility-applications/"><u>Transform Your Phone with These 8 Leading AI Utility Applications</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-early-savings-get-the-samsung-t5-ssd-at-up-to-50-discount-before-october-prime-day-zdnet-shopping-guide/"><u>Unlock Early Savings: Get the Samsung T5 SSD at Up to 50% Discount Before October Prime Day | ZDNET Shopping Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y100t-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100t Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-expert-reviews-best-multi-user-call-services/"><u>[New] 2024 Approved Expert Reviews Best Multi-User Call Services</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-beat-the-blank-screen-overcoming-top-vlogging-anxieties/"><u>[New] In 2024, Beat the Blank Screen Overcoming Top Vlogging Anxieties</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-breaking-down-the-fastest-green-screen-methods-for-2024/"><u>[Updated] Breaking Down the Fastest Green Screen Methods for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-capture-your-skype-sessions-on-mac-and-windows/"><u>2024 Approved How to Capture Your Skype Sessions on Mac and Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-video-boosts-the-9-finest-webcam-effects/"><u>2024 Approved Premium Video Boosts The 9 Finest Webcam Effects</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-inbuilt-screen-capture-huaweis-mate-series-and-p-lineup-phones/"><u>In 2024, Inbuilt Screen Capture Huawei's Mate Series & P Lineup Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-key-drone-upgrades-and-supplies/"><u>In 2024, The Ultimate Guide Key Drone Upgrades & Supplies</u></a></li>
+<li><a href="https://windows11.techidaily.com/leap-ahead-in-workflow-management-embrace-flow-launcher-advantage/"><u>Leap Ahead in Workflow Management: Embrace Flow Launcher Advantage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-future-understanding-openais-push-for-enhanced-ai-governance/"><u>Navigating the Future: Understanding OpenAI's Push for Enhanced AI Governance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/potential-of-ai-to-bolster-emotional-support-systems/"><u>Potential of AI to Bolster Emotional Support Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/propelling-progress-the-triumphant-five-in-ai-computing-technology/"><u>Propelling Progress: The Triumphant Five in AI Computing Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-interaction-build-bespoke-ai-conversational-agents-using-chatgpts-recent-innovation/"><u>Revolutionize Interaction: Build Bespoke AI Conversational Agents Using ChatGPT's Recent Innovation</u></a></li>
+<li><a href="https://facebook.techidaily.com/securing-your-pages-ambiance-a-guide-to-user-removal-on-facebook/"><u>Securing Your Page's Ambiance: A Guide to User Removal on Facebook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-worldwide-availability-on-chatgpt-using-chatgpt-everywhere-feature/"><u>Step-by-Step Guide to Worldwide Availability on ChatGPT Using 'ChatGPT Everywhere' Feature</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-your-workflow-10-innovative-plugins-to-combine-pdfs-with-chatgpt-magic/"><u>Streamline Your Workflow: 10 Innovative Plugins to Combine PDFs with ChatGPT Magic</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-evolution-from-calculators-to-comedians-tracing-the-humor-in-artificial-intelligence/"><u>The Evolution From Calculators to Comedians: Tracing the Humor in Artificial Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-next-evolution-in-the-workforce-how-generative-ai-is-shaping-7-major-trends-in-employment/"><u>The Next Evolution in the Workforce: How Generative AI Is Shaping 7 Major Trends in Employment</u></a></li>
 </ul></div>
 

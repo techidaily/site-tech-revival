@@ -1,7 +1,7 @@
 ---
 title: "AI's Limitation: Humans Dominate with Craft and Nuance"
-date: 2024-12-16T17:04:24.447Z
-updated: 2024-12-23T19:34:49.814Z
+date: 2024-12-22T04:42:10.867Z
+updated: 2024-12-28T21:27:26.627Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -34,25 +34,17 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 
  However, another promise of ChatGPT Plus was priority access to new features, and OpenAI delivered on it. With the introduction of features like Advanced Data Analytics, Browse with Bing, and DALL·E 3, ChatGPT Plus is currently one of the most useful subscriptions you could get for yourself and your business, AI or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. GPT-4 Access
 
 ![GPT-4 chatbot interface ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/gpt-4-chatbot-interface-chatgpt-plus.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The most obvious benefit of upgrading to the Plus version is access to GPT-4\. As the successor to GPT-3.5,[there are major differences between the two](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) . GPT-4 improves natural language processing, understanding of context, and problem-solving. It is also trained on a larger data set, which means it's better at recognizing complex patterns.
 
  In reality, the differences can be a bit subtle as they're not immediately noticeable. However, the more you use it, the sooner you realize that GPT-4 has a better chance of providing the correct response on its first attempt. It's also more accurate and doesn't fall victim to AI hallucinations as often.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Image Input
 
@@ -80,14 +72,22 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 
 ![DALL-E 3 and GPT-4 story writing skill](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dall-e-3-and-gpt-4-story-writing-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the story was complete, it automatically took all those DALL·E 3 prompts from above, generated images, and presented them to me.
 
 ![​​​​​​​DALL·E 3 book illustrations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dall-e-3-book-illustrations.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is how easy it has become to write a story and have beautiful illustrations! Again, if something makes the $20/month ChatGPT Plus subscription seem cheap and extremely valuable, it's definitely the combo of DALL·E 3 and GPT-4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Plugin Access
@@ -112,17 +112,21 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 
  Whether you're a small business owner or just play with data in spreadsheets, this feature can help you make data-driven decisions. You can upload your account books and ask ChatGPT not only to visualize the data for you but also to give you valuable insights into what needs improvement in your business.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Impressive Stability
 
 ![GPTPlus vs GPT3.5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gptplus-vs-gpt3-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The free[ChatGPT has its fair share of big problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) , but downtime is by far the most important one. Although the situation is much better now than it was when it was first launched, the free version can still go down anytime. OpenAI's servers sometimes have trouble keeping up with the incredibly high demand.
 
  Fortunately, ChatGPT Plus is available almost all the time. The service is designed to give priority access to Plus subscribers, so you can use it even during peak usage times. Paying for the service is a no-brainer if your business or workflow heavily depends on ChatGPT.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Seamless Interactions
 
@@ -139,10 +143,6 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
  Since GPT-4 is trained on a larger data set, it is much better at responding to non-English prompts. It does a good job of responding almost like a person who understands linguistic patterns, nuances, and cultural context. GPT-3.5 has decent translation capabilities, but GPT-4 is better as it's more likely to generate accurate and coherent responses.
 
  You also get access to multiple plugins that can help with your language-learning journey. The new Speak plugin is an excellent example of this. It helps you pronounce certain phrases, gives you alternate ways to express the same sentiment, and shows you examples that replicate real-life conversations in any language.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Plus Is Worth the Upgrade
 
@@ -165,20 +165,24 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-a-practical-approach-to-streaming-fb-content-on-your-apple-setup/"><u>[New] A Practical Approach to Streaming FB Content on Your Apple Setup</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-essential-applications-share-videos-on-twitter/"><u>[Updated] Essential Applications Share Videos on Twitter</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-pros-guide-to-documenting-your-online-facebook-interactions/"><u>[Updated] In 2024, The Pro's Guide to Documenting Your Online Facebook Interactions</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-vkontakte-profile-picture-info-pixel-count-codec-time/"><u>[Updated] In 2024, VKontakte Profile Picture Info Pixel Count, Codec, Time</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-13-mini-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 13 mini?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-effective-guide-to-cast-apple-iphone-8-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>In 2024, Effective Guide to Cast Apple iPhone 8 to MacBook without Hindrance | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-productivity-through-chatgpt-driven-workflow-optimization/"><u>Maximizing Productivity Through ChatGPT-Driven Workflow Optimization</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-ai-chatbot-subscriptions-7-tips-for-optimal-choice-and-satisfaction/"><u>Navigating AI Chatbot Subscriptions: 7 Tips for Optimal Choice and Satisfaction</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-risks-how-to-integrate-chatgpt-wisely-into-mental-health-support/"><u>Navigating the Risks: How to Integrate ChatGPT Wisely Into Mental Health Support</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-programming-anticipated-effects-of-artificebial-intelligence-on-dev-workflows/"><u>Revolutionizing Programming: Anticipated Effects of Artificebial Intelligence on Dev Workflows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/risk-of-termination-examining-10-situations-with-chatgpt-use-in-the-workplace/"><u>Risk of Termination: Examining 10 Situations with ChatGPT Use in the Workplace</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/six-proven-tactics-to-reduce-ais-false-impressions-and-enhance-accuracy/"><u>Six Proven Tactics to Reduce AI's False Impressions and Enhance Accuracy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/stanzas-struggle-against-digital-minds-purebred-alpacas/"><u>Stanzas Struggle Against Digital Minds, Purebred Alpacas</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/windows-11s-new-look-how-the-taskbar-is-transforming-once-more/"><u>Windows 11'S New Look: How the Taskbar Is Transforming Once More</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-complete-srt-file-makers-handbook/"><u>[New] In 2024, The Complete SRT File Maker's Handbook</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-quintessential-5-photo-background-changer-apps-iphone-xplus/"><u>[Updated] 2024 Approved Quintessential 5 Photo Background Changer Apps (iPhone X+)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-youtube-seo-guide-for-beginners-who-want-more-views/"><u>[Updated] In 2024, YouTube SEO Guide for Beginners Who Want More Views</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-seas-of-sponsorships-a-youtubers-playbook/"><u>[Updated] Navigating the Seas of Sponsorships A Youtuber's Playbook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/4-routes-to-confirm-gpt-functionality-now/"><u>4 Routes to Confirm GPT Functionality Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/6-common-chatgpt-errors-and-their-fixes/"><u>6 Common ChatGPT Errors and Their Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/7-compelling-advantages-of-consulting-chatgpt-when-you-need-medical-guidance-online/"><u>7 Compelling Advantages of Consulting ChatGPT When You Need Medical Guidance Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-deep-dive-into-googles-cutting-edge-palm-2-llm-technology-and-its-impact-on-ai/"><u>A Deep Dive Into Google's Cutting-Edge PaLM 2 LLM Technology and Its Impact on AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-study-on-the-accessibility-and-utility-of-the-global-virtual-library-internet/"><u>A Study on the Accessibility and Utility of the Global Virtual Library (Internet)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/accelerate-your-work-with-the-top-10-chatgpt-addons-for-quick-pdf-generation/"><u>Accelerate Your Work with the Top 10 ChatGPT Addons for Quick PDF Generation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ace-the-job-hunt-on-linkedin-using-these-10-chatgpt-techniques/"><u>Ace the Job Hunt on LinkedIn Using These 10 ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/achieve-more-successful-pitches-effective-proposal-writing-strategies-with-chatgpt/"><u>Achieve More Successful Pitches: Effective Proposal Writing Strategies with ChatGPT</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/essential-free-laughter-music-collections-for-easy-to-use-film-and-media-projects-for-2024/"><u>Essential Free Laughter Music Collections for Easy-to-Use Film and Media Projects for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722195449766-gpt-4-without-cost-nevertheless-plus-membership-holds-6-crucial-amenities/"><u>GPT-4, Without Cost; Nevertheless, Plus Membership Holds 6 Crucial Amenities</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-xr-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone XR Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-youtube-mastery-starts-here-building-and-monetizing-your-channel/"><u>In 2024, YouTube Mastery Starts Here Building and Monetizing Your Channel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovation-horizon-eclipsing-the-classic-test/"><u>Innovation Horizon: Eclipsing the Classic Test</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newest-additions-to-msis-lineup-exclusive-240hz-qd-oled-gaming-monitors-deliver-unparalleled-visual-clarity-on-34-and-27-inch-screens-at-ultra-hd-1440p-pair63/"><u>Newest Additions to MSI's Lineup: Exclusive 240Hz QD-OLED Gaming Monitors Deliver Unparalleled Visual Clarity on 34 and 27 Inch Screens at Ultra HD 1440P, Paired with Cutting-Edge USB-C Connections</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Tecno Spark 10 4G | Dr.fone</u></a></li>
 </ul></div>
 

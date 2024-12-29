@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Chatbot Showdown: GPT, Microsoft Bing AI, Google Bard"
-date: 2024-12-19T16:05:19.323Z
-updated: 2024-12-23T18:31:42.669Z
+date: 2024-12-22T05:33:54.829Z
+updated: 2024-12-29T04:10:49.904Z
 tags:
   - chatgpt
   - open-ai
@@ -22,17 +22,9 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What You Need to Know About AI Chatbots
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
 
@@ -47,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
  For the purposes of the test, we'll be running Stanford University's Alpaca 7B model—an adaptation of LLaMa—and pitching it against Bard and ChatGPT.
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which Is the Easiest Large Language Model to Use?
 
@@ -73,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which LLM Has the Best General Knowledge?
@@ -81,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
@@ -116,13 +104,25 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
@@ -159,20 +159,24 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/aming-streams-best-recording-programs-for-2024/"><u>[New] Gaming Streams Best Recording Programs for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premiere-streaming-for-performance-artists/"><u>[Updated] Premiere Streaming for Performance Artists</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-top-youtube-name-makers-plus-creative-idea-sparking-techniques-for-2024/"><u>[Updated] Top YouTube Name Makers + Creative Idea Sparking Techniques for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/essentialists-guide-to-professional-photo-bag-selection-2024/"><u>Essentialist's Guide to Professional Photo Bag Selection /2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-luts-revolutionize-color-balance-in-images-for-2024/"><u>How LUTs Revolutionize Color Balance in Images for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oneplus-lock-screen-password-by-drfone-android/"><u>How To Change OnePlus Lock Screen Password?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-14-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 14 Without a Home Button</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/language-league-up-which-translator-takes-the-prize/"><u>Language League-Up: Which Translator Takes the Prize?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-the-art-of-persuasion-in-proposals-using-chatgpt-techniques/"><u>Master the Art of Persuasion in Proposals Using ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigate-the-world-of-romance-smarter-with-help-from-chatgpt/"><u>Navigate the World of Romance Smarter with Help From ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-digital-threatscape-a-look-at-7-upcoming-security-trends/"><u>Navigating the Digital Threatscape: A Look at 7 Upcoming Security Trends</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-pitfalls-of-custom-gpt-systems-preventing-unintended-data-leakage-in-chatgpt-applications/"><u>Navigating the Pitfalls of Custom GPT Systems: Preventing Unintended Data Leakage in ChatGPT Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/no-more-false-comparisons-the-clear-cut-differences-between-siri-and-chatgpt/"><u>No More False Comparisons: The Clear-Cut Differences Between Siri and ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/openais-hold-on-chatgpt-weakens/"><u>OpenAI's Hold on ChatGPT Weakens?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-of-iphone-sim-insertion-without-traditional-tools/"><u>Unlocking the Secrets of iPhone SIM Insertion without Traditional Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-clear-out-instructions-for-disabling-an-old-linkedin-profile/"><u>[New] 2024 Approved The Clear-Out Instructions for Disabling an Old LinkedIn Profile</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-top-choice-microphones-for-youtube-creators/"><u>[New] 2024 Approved Top Choice Microphones for YouTube Creators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-enhance-your-instagram-content-with-effective-captioning/"><u>[New] In 2024, Enhance Your Instagram Content with Effective Captioning</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unveiling-the-secrets-share-images-professionally-on-youtube/"><u>[Updated] Unveiling the Secrets Share Images Professionally on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-unknown-to-famous-boosting-video-views-on-youtube-step-by-step/"><u>2024 Approved From Unknown to Famous Boosting Video Views on YouTube Step-by-Step</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-v30-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo V30 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-chronicles-designing-storylines-through-chatgpt/"><u>Crafting Chronicles: Designing Storylines Through ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-chatgpts-honest-intentions/"><u>Deciphering ChatGPT’s Honest Intentions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-dawn-of-artificocal-intelligence/"><u>Decoding the Dawn of Artificocal Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-these-5-premier-open-source-ai-image-creation-platforms/"><u>Discover These 5 Premier Open Source AI Image Creation Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dive-into-chatgpt-gaming-world-unveiling-the-6-most-fun-and-interactive-games-you-can-enjoy-today/"><u>Dive Into ChatGPT Gaming World: Unveiling The 6 Most Fun and Interactive Games You Can Enjoy Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-ai-interaction-the-ultimate-guide-to-writing-winning-chatgpt-prompts/"><u>Elevate Your AI Interaction: The Ultimate Guide to Writing Winning ChatGPT Prompts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enterprises-dilemma-the-5-significant-reasons-against-chatgpt/"><u>Enterprises' Dilemma: The 5 Significant Reasons Against ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-truthgpts-capabilities-coinciding-with-authorities-sting-against-privacy-focused-mullvad-vpn-premier-selection-of-free-gaming-titles-for-computers39/"><u>Exploring TruthGPT's Capabilities: Coinciding with Authorities' Sting Against Privacy-Focused Mullvad VPN, Premier Selection of Free Gaming Titles for Computers & Detailed Overview of Switching to Mechanical Keyboards</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-find-my-iphone-issues-overcoming-connectivity-problems-and-retracing-your-device/"><u>Fixing Find My iPhone Issues: Overcoming Connectivity Problems and Retracing Your Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gemini-pro-vs-gptplusplus-best-ai-showdown/"><u>Gemini Pro Vs. GPT++: Best AI Showdown</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/cket-visibility-mastering-google-analytics-for-youtubers/"><u>Skyrocket Visibility Mastering Google Analytics for YouTubers</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-files-using-powerrename-in-powertoys/"><u>Streamline Your Files: Using PowerRename in PowerToys</u></a></li>
 </ul></div>
 

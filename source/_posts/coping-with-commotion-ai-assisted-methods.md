@@ -1,7 +1,7 @@
 ---
 title: "Coping with Commotion: AI-Assisted Methods"
-date: 2024-12-16T16:15:44.443Z
-updated: 2024-12-23T18:38:25.575Z
+date: 2024-12-24T07:32:28.885Z
+updated: 2024-12-28T17:26:03.346Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Create Content
 
  Whether you’re crafting a blog for your business website or scripting a video for your brand’s YouTube channel, ChatGPT can be your go-to content creator. This is particularly valuable for small businesses that may not yet have the budget for a dedicated content writer.
@@ -38,18 +34,18 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
  While it may seem easy to outsource everything to ChatGPT, you should merely use it as a starting point. It's critical to add your personality to any content that carries the brand of your business.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Generate Social Media Posts Out of Existing Content
 
 ![Use ChatGPT to Make  Social Media Posts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-chatgpt-to-make-social-media-posts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’ve penned a blog but lack the copywriting flair for social media promotion, simply provide ChatGPT with your blog and let it craft the perfect social media post. You can also experiment with various tones to find the perfect match for your brand and audience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Fill In Templates
@@ -60,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
  Just copy and paste your template into ChatGPT, ensuring it has all the necessary placeholders. Supply it with all it needs to fill in the placeholders and let it fill in the template. Once ChatGPT finishes generating a personalized message for each customer, all that’s left for you to do is copy and send them to your customers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Make Text Excel-Friendly
 
 ![Use ChatGPT to Convert Text to Excel-Friendly Data-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-chatgpt-to-convert-text-to-excel-friendly-data-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Most inventory systems necessitate inputting data into an Excel sheet, which can become problematic if all your information is stored in your smart device’s notes or even in a more traditional format, such as handwritten records in a notebook. Transferring this data into an Excel sheet can be a laborious and time-consuming process.
 
@@ -92,12 +88,16 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
  Many businesses often interact with customers who speak different languages, especially as the business expands. Thankfully, ChatGPT can assist with language translation. Copy-paste the text and ask the AI tool to translate it into your native language. Simply input the text and request its translation into your preferred language. Also, if you’re unsure of a language, ChatGPT can help[identify unknown languages for you](https://www.makeuseof.com/tag/what-language-is-this-5-online-tools-to-identify-almost-every-unknown-language/) too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Write Personalized Emails
 
  Similar to writing content, crafting personalized emails can be challenging. If writing personalized emails is part of your strategy to gain new customers and nurture existing customers, ChatGPT can help you make them. You can also use it to develop various versions of follow-up emails, providing flexibility and options if the initial outreach does not receive a response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Create FAQ Lists
@@ -125,14 +125,17 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-5-ways-to-rewind-a-twitch-live-stream/"><u>[New] 2024 Approved 5 Ways to Rewind A Twitch Live Stream</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-tutorial-customizing-the-final-frame-of-a-vimeo-video/"><u>[New] Ultimate Tutorial Customizing the Final Frame of a Vimeo Video</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-ultimate-guide-to-affordable-video-players-a-comprehensive-list-pc-and-mobile-for-2024/"><u>[Updated] Ultimate Guide to Affordable Video Players A Comprehensive List (PC & Mobile) for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-free-ai-solutions-that-compete-with-openais-powerful-sora-features/"><u>Explore Free AI Solutions That Compete with OpenAI's Powerful Sora Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-advanced-vs-code-features-with-chatgpt/"><u>Exploring Advanced VS Code Features with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-impact-of-microsoft-purchasing-blizzard-plus-a-dive-into-ai-creativity-and-multilingual-translation-podcast/"><u>Exploring the Impact of Microsoft Purchasing Blizzard, Plus a Dive Into AI Creativity and Multilingual Translation [Podcast]</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/faux-chatgpt-browser-tool-threatening-facebook-account-security-stay-safe/"><u>Faux ChatGPT Browser Tool Threatening Facebook Account Security: Stay Safe!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-conveniently-enjoy-nba-games-top-15-streaming-methods/"><u>In 2024, Conveniently Enjoy NBA Games - Top 15 Streaming Methods</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-the-ultimate-guide-to-crafting-your-own-emoji-statuses/"><u>In 2024, The Ultimate Guide to Crafting Your Own Emoji Statuses</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-excellence-in-text-editing-with-ae-presets/"><u>[New] Excellence in Text Editing with AE Presets</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-top-8-youtube-ranks-elevating-your-content-with-premier-applications/"><u>[Updated] 2024 Approved Top 8 YouTube Ranks Elevating Your Content with Premier Applications</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-gopro-vs-sony-x1000v-a-detailed-comparison-of-action-cams/"><u>[Updated] GoPro Vs. Sony X1000V A Detailed Comparison of Action Cams</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-beginners-guide-to-integrating-latest-chatgpt-add-ons/"><u>A Beginner's Guide to Integrating Latest ChatGPT Add-Ons</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-as-a-companion-in-scholarly-pursuits/"><u>AI as a Companion in Scholarly Pursuits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-chatbots-showdown-perplexity-vs-chatgpt-plus-determining-the-leading-conversationalist/"><u>AI Chatbots Showdown: Perplexity vs ChatGPT Plus - Determining the Leading Conversationalist</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showdown-gpt-3-vs-bard-who-leads-the-way/"><u>AI Showdown: GPT-3 Vs. Bard – Who Leads the Way?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bings-newest-feature-harness-the-power-of-ai-in-mobile-search/"><u>Bing's Newest Feature: Harness the Power of AI in Mobile Search!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-market-find-out-which-are-the-most-stylish-and-functional-luggage-sets-of-2022-insights-from-zdnet/"><u>Exploring the Market: Find Out Which Are the Most Stylish and Functional Luggage Sets of 2022 - Insights From ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-challenge-of-preview-failures-in-microsoft-mail/"><u>Tackling the Challenge of Preview Failures in Microsoft Mail</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-comprehensive-guide-to-crafting-great-fb-cover-videos-for-2024/"><u>The Comprehensive Guide to Crafting Great FB Cover Videos for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-walkthrough-on-rejuvenating-your-apple-watchs-functionality-expert-advice/"><u>The Ultimate Walkthrough on Rejuvenating Your Apple Watch's Functionality - Expert Advice</u></a></li>
 </ul></div>
 

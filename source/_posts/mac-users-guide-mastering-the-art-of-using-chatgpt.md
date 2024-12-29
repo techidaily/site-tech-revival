@@ -1,7 +1,7 @@
 ---
 title: "Mac Users Guide: Mastering the Art of Using ChatGPT"
-date: 2024-12-16T18:19:20.539Z
-updated: 2024-12-23T16:47:02.282Z
+date: 2024-12-21T21:30:47.194Z
+updated: 2024-12-28T23:39:54.336Z
 tags:
   - chatgpt
   - open-ai
@@ -33,13 +33,13 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
@@ -51,7 +51,7 @@ Close
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Send ChatGPT Prompts With Your Voice
@@ -69,20 +69,20 @@ Close
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
@@ -104,24 +104,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-no-internet-full-fun-best-offline-gaming-on-mobile-devices/"><u>[New] 2024 Approved No Internet, Full Fun Best Offline Gaming on Mobile Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-rapid-capture-sounds-alongside-images/"><u>[New] Rapid Capture Sounds Alongside Images</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-quick-steps-to-efficient-zoom-meetings/"><u>[Updated] Quick Steps to Efficient Zoom Meetings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-captivating-stories-with-chatgpt-insider-secrets-uncovered/"><u>Crafting Captivating Stories with ChatGPT: Insider Secrets Uncovered</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-personalized-screen-time-with-ai-support/"><u>Crafting Personalized Screen Time with AI Support</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cyber-threat-alert-the-risky-side-of-google-bard-download/"><u>Cyber Threat Alert: The Risky Side of Google Bard Download</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-essence-of-chatgpts-interpreter-why-it-matters-in-ai-development/"><u>Decoding the Essence of ChatGPT's Interpreter: Why It Matters in AI Development</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-critical-6-elements-to-reflect-on-with-chatgpt-usage-in-therapy-and-counseling/"><u>Discover the Critical 6 Elements to Reflect on with ChatGPT Usage in Therapy and Counseling</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-possibilities-mastering-board-games-and-image-creation-with-your-gpt-powered-bots/"><u>Discover the Possibilities: Mastering Board Games & Image Creation with Your GPT-Powered Bots</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-why-chatgpt-skyrockets-to-global-audience-favorite-in-minutes/"><u>Discover Why ChatGPT Skyrockets to Global Audience Favorite in Minutes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/disguised-dangers-identifying-phony-chatgpt-tools/"><u>Disguised Dangers: Identifying Phony ChatGPT Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-mobile-browsing-with-bings-new-ai-technology-now-compatible-with-ios-and-android-systems/"><u>Elevate Your Mobile Browsing with Bing's New AI Technology – Now Compatible with iOS and Android Systems</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/essential-steps-to-boost-your-instagram-unboxings-for-2024/"><u>Essential Steps to Boost Your Instagram Unboxings for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Xiaomi Redmi Note 12 4G</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-apple-iphone-15-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From Apple iPhone 15 Smoothly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-novices-map-to-snapseed-photoshop-wonders/"><u>In 2024, The Novice's Map to Snapseed Photoshop Wonders</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-xs-max-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone XS Max without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/understanding-meta-tags-in-seo-and-effective-strategies-expert-guide/"><u>Understanding Meta Tags in SEO & Effective Strategies | Expert Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstuck-from-contact-issues-revamp-iphones-messaging-functionality-using-our-top-3-fixes/"><u>Unstuck From Contact Issues? Revamp iPhone's Messaging Functionality Using Our Top 3 Fixes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-building-immersive-thumbnails-for-igtv-videos/"><u>[New] Building Immersive Thumbnails for IGTV Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-step-by-step-guide-to-successful-instagram-story-surveys/"><u>[New] In 2024, Step-by-Step Guide to Successful Instagram Story Surveys</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-rapidly-rise-as-a-social-media-star-on-instagram/"><u>[New] Rapidly Rise as a Social Media Star on Instagram</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-how-to-use-ez-grabber-software/"><u>[Updated] In 2024, How to Use EZ Grabber Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-icons-of-illusion-youtubes-most-influential-gurus/"><u>2024 Approved Icons of Illusion YouTube's Most Influential Gurus</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/all-day-energy-the-moto-g-powers-remarkable-battery-capabilities-and-stylish-exterior-reviewed/"><u>All-Day Energy: The Moto G Power's Remarkable Battery Capabilities and Stylish Exterior Reviewed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-chatgpt-be-used-in-malware-creation/"><u>Can ChatGPT Be Used in Malware Creation?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-unveiled-navigate-through-life-easier-in-9-ways/"><u>ChatGPT Unveiled: Navigate Through Life Easier in 9 Ways</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-ai-chatbots-can-gemini-outperform-chatgpt-in-coding-skills/"><u>Comparing AI Chatbots: Can Gemini Outperform ChatGPT in Coding Skills?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-top-ai-chatbots-chatgpt-microsoft-bing-ai-and-google-bard-who-reigns-supreme/"><u>Comparing Top AI Chatbots: ChatGPT, Microsoft Bing AI & Google Bard - Who Reigns Supreme?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-on-setting-up-chatgpt-extensions/"><u>Comprehensive Tutorial on Setting Up ChatGPT Extensions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-neo-theater-narratives-virtual-realms/"><u>In 2024, Neo-Theater Narratives Virtual Realms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-correcting-the-s-sleay32dll-is-missing-problem-efficiently/"><u>Troubleshooting and Correcting The 'S sleaY32.dll Is Missing' Problem Efficiently</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-11-v2004-upgrade-made-easy-using-conexant-drivers/"><u>Windows 11 v2004 Upgrade Made Easy Using Conexant Drivers</u></a></li>
 </ul></div>
 

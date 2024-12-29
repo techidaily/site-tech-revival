@@ -1,7 +1,7 @@
 ---
 title: Discover the Best ChatGPT Plugins for Superior AI Prompts and Responses on Chrome
-date: 2024-12-19T18:07:51.156Z
-updated: 2024-12-23T19:05:44.076Z
+date: 2024-12-24T05:33:05.733Z
+updated: 2024-12-29T08:52:26.106Z
 tags:
   - chatgpt
   - open-ai
@@ -24,12 +24,16 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Increased AI-Powered Attacks
 
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Throughout 2022 and 2023, we've seen just how advanced AI systems currently are. The most notable AI-based service launched during this time is ChatGPT, a language processing tool powered by artificial intelligence. Not long after its launch, stories began surfacing about[cybercriminals using ChatGPT to write malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) . While the malware only seemed to be a simple Python-based script, it showed that AI can, in fact, be leveraged maliciously.
@@ -48,6 +52,10 @@ It was also stated in the same report that:
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
 
  It's the gravity of supply chain's influence that has made it an attractive target for cybercriminals. As the demand for mass production and global shipping increases, so does the impact of hacks on supply chain systems.
@@ -58,19 +66,11 @@ It was also stated in the same report that:
 
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Zero-trust systems do not rely on any user or group of users to authenticate, monitor, or store data. Additionally, every user present in a zero-trust system must authorize access to a new user, otherwise the system remains off-limits to that individual. In short, a zero-trust system is designed not to trust any one individual. All users are assumed untrustworthy unless authentication is provided by other users.
 
  In terms of cybersecurity, a zero-trust system can be a huge benefit. A lot of current networks—be it those used for data storage, social communication, media sharing, or server hosting—are not designed to be zero-trust. This means that the system puts a level of trust in certain users. If a given user turns out to be malicious and the system has already decided to trust them, cyberattacks become possible.
 
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Further Exploit of EV Security Systems
 
@@ -85,7 +85,7 @@ It was also stated in the same report that:
  This is just one of the numerous[types of EV hacks](https://www.makeuseof.com/can-electric-vehicles-be-hacked/) that are possible. In order to avoid this, EV manufacturers need to thoroughly vet their software to ensure vulnerabilities aren't being left behind in the code.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Improved Smart Home and IoT Security
@@ -110,13 +110,13 @@ It was also stated in the same report that:
 
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Continued Topical Email Scams
 
 ![laptop surrounded by cybersecurity buzzwords ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There's no shortage of scammers looking to profit from current events. We saw a slew of scams arise from the COVID-19 pandemic, but things don't stop there. The Russia-Ukraine war and the Israel-Palestine conflict have also been used throughout 2023 to squeeze money out of victims through social engineering.
 
@@ -143,19 +143,21 @@ It was also stated in the same report that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ultivating-confidence-for-captivating-your-youtube-audience/"><u>[New] Cultivating Confidence for Captivating Your YouTube Audience</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-curator-of-tweets-premium-compilation-toolkit/"><u>[New] Curator of Tweets - Premium Compilation Toolkit</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/4-ai-powered-online-murder-mystery-puzzles-and-games-to-play-detective/"><u>4 AI-Powered Online Murder Mystery Puzzles and Games to Play Detective</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advanced-ais-rising-tide-of-security-issues/"><u>Advanced AI's Rising Tide of Security Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-showdown-unveiling-the-crucial-contrasts-between-chatgpt-and-bings-intelligent-companion/"><u>AI Showdown: Unveiling the Crucial Contrasts Between ChatGPT & Bing's Intelligent Companion</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-indoor-digital-tv-quality-with-the-right-antenna-solutions/"><u>Boost Indoor Digital TV Quality with the Right Antenna Solutions</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-8-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 8 iCloud Bypass</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maintaining-conversational-confidentiality-for-bots/"><u>Maintaining Conversational Confidentiality for Bots</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/quip-quarterly-event-oriented-joke-anthology-for-2024/"><u>Quip Quarterly Event-Oriented Joke Anthology for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721971415556-smart-savings-snag-a-phone-for-just-50-plus-dive-into-the-world-of-ransomware-decryption/"><u>Smart Savings: Snag a Phone for Just $50! Plus, Dive Into the World of Ransomware Decryption</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-and-retrieve-files-from-a-forgotten-password-laptop-step-by-step-solutions-endorsed-by-zdnet-experts/"><u>Unlock and Retrieve Files From a Forgotten-Password Laptop: Step-by-Step Solutions Endorsed by ZDNET Experts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-nine-innovative-options-better-than-openais-chatbot-app-for-android-and-ios-devices/"><u>Unveiling Nine Innovative Options Better than OpenAI's Chatbot App for Android and iOS Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722104601220-what-to-look-forward-to-with-gpt-5-estimated-launch-timeline-available-now/"><u>What to Look Forward to with GPT-5 – Estimated Launch Timeline Available Now</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-asuss-high-tech-display-unveiled-the-mg28uq-monitor-insight/"><u>[New] ASUS's High Tech Display Unveiled – The MG28UQ Monitor Insight</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-quick-fix-guide-to-instagram-popularity-accelerate-your-visibility-with-15-tricks-of-the-trade-for-2024/"><u>[New] The Quick-Fix Guide to Instagram Popularity Accelerate Your Visibility with 15 Tricks of the Trade for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-key-techniques-for-storing-lol-matches/"><u>[Updated] In 2024, Key Techniques for Storing LOL Matches</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-deep-dive-into-moto-z2s-smarter-side-for-2024/"><u>A Deep Dive Into Moto Z2's Smarter Side for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/free-avi-to-mp4-conversion-tools-for-pc-and-mac-top-picks/"><u>Free AVI to MP4 Conversion Tools for PC and Mac: Top Picks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-step-by-step-approach-to-incorporating-luts-in-obs-studio-projects/"><u>In 2024, A Step-by-Step Approach to Incorporating LUTs in OBS Studio Projects</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-infinix-smart-7-hd-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Infinix Smart 7 HD Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-valheim-network-stability-ping-improvement-tips-for-pc-users/"><u>Optimize Valheim Network Stability: Ping Improvement Tips for PC Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/parameters-to-ponder-choosing-chatgpt-for-counseling-purposes/"><u>Parameters to Ponder: Choosing ChatGPT for Counseling Purposes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/personalized-exercise-plans-made-easy-with-chatgpt-a-trainers-toolkit/"><u>Personalized Exercise Plans Made Easy with ChatGPT – A Trainer’s Toolkit</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-conversation-with-ai-utilizing-chatgpt-alongside-siri-on-iphones/"><u>Seamless Conversation with AI: Utilizing ChatGPT Alongside Siri on iPhones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplify-your-presenting-with-these-top-7-ai-driven-tools/"><u>Simplify Your Presenting with These Top 7 AI-Driven Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplifying-gpt4alls-advanced-mechanisms/"><u>Simplifying GPT4All's Advanced Mechanisms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamlining-the-file-format-change-from-dall-es-webp-to-jpegpng/"><u>Streamlining the File Format Change: From DALL-E's WebP to JPEG/PNG</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-beginners-roadmap-to-enabling-codegpt-features-within-vscode-environment/"><u>The Beginner's Roadmap to Enabling CodeGPT Features Within VSCode Environment</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unraveling-status-bts-merits-cost-economic-but-not-ideal/"><u>Unraveling Status BT's Merits: Cost-Economic but Not Ideal</u></a></li>
 </ul></div>
 

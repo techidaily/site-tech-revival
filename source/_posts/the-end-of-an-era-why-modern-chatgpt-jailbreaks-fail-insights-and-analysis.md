@@ -1,7 +1,7 @@
 ---
 title: "The End of an Era: Why Modern ChatGPT Jailbreaks Fail - Insights and Analysis"
-date: 2024-12-16T17:50:27.039Z
-updated: 2024-12-23T18:41:37.000Z
+date: 2024-12-22T16:30:10.064Z
+updated: 2024-12-29T05:13:13.581Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -63,22 +63,14 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-celebrating-families-this-years-top-10-movie-gems/"><u>[New] Celebrating Families This Year’s Top 10 Movie Gems</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-explore-the-top-free-screen-recorders-ranked-list-for-2024/"><u>[Updated] Explore the Top Free Screen Recorders Ranked List for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-mastering-video-seo-5-steps-to-surge-in-youtube-popularity/"><u>[Updated] In 2024, Mastering Video SEO 5 Steps to Surge in YouTube Popularity</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-pioneering-tech-in-vr-content-creation/"><u>[Updated] In 2024, Pioneering Tech in VR Content Creation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choosing-a-smartwatch-wisely-5-critical-aspects-to-evaluate-beforehand/"><u>Choosing a Smartwatch Wisely: 5 Critical Aspects to Evaluate Beforehand</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevating-selfies-to-artistic-levels-via-ios-11-features/"><u>Elevating Selfies to Artistic Levels via iOS 11 Features</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experiencing-the-apple-vision-pro-throughout-an-entire-workday-a-comprehensive-review-that-exposes-its-shortcomings/"><u>Experiencing the Apple Vision Pro Throughout an Entire Workday: A Comprehensive Review That Exposes Its Shortcomings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-paperclip-maximizer-issue-in-artificial-intelligence/"><u>Exploring the Paperclip Maximizer Issue in Artificial Intelligence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fear-no-more-a-how-to-manual-on-enhancing-excel-with-chatgpt/"><u>Fear No More: A How-To Manual on Enhancing Excel with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpt-3s-academic-impact-revolutionizing-or-undermining-students-works/"><u>GPT-3's Academic Impact: Revolutionizing or Undermining Students' Works?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-boot-and-install-windows-n-from-a-usb-stick-visual-instructions-included/"><u>How to Boot and Install Windows N From a USB Stick - Visual Instructions Included</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-pos-solutions-that-are-changing-the-game-except-openais/"><u>Innovative POS Solutions That Are Changing the Game, Except OpenAI’s</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-ai-powered-chatgpt-posing-a-risk-to-conventional-search-tools/"><u>Is AI-Powered ChatGPT Posing a Risk to Conventional Search Tools?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-worth-paying-more-for-premium-ai-prompts/"><u>Is It Worth Paying More for Premium AI Prompts?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/less-hassle-more-joy-mastery-in-making-with-gpt/"><u>Less Hassle, More Joy: Mastery in Making with GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mobile-phone-is-50-ransomware-decryption-explained-and-chatgpt-writes-our-podcast/"><u>Mobile Phone Is 50, Ransomware Decryption Explained, and ChatGPT Writes Our Podcast</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-resident-evil-village-game-volume-glitches/"><u>Troubleshooting Resident Evil Village Game Volume Glitches</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-3-easy-ways-to-record-overwatch-gameplay/"><u>[New] 2024 Approved 3 Easy Ways to Record Overwatch Gameplay</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-pioneering-the-path-to-digital-dominance-wirecast-livestreams-on-facebook/"><u>[New] 2024 Approved Pioneering the Path to Digital Dominance Wirecast Livestreams on Facebook</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outube-success-starts-here-best-tutorials-for-starters-for-2024/"><u>[New] YouTube Success Starts Here Best Tutorials for Starters for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-3-demystified-uses-and-applications/"><u>Claude 3 Demystified: Uses & Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cybersecurity-alert-can-hackers-leverage-ai-tools-like-chatgpt-against-you/"><u>Cybersecurity Alert: Can Hackers Leverage AI Tools Like ChatGPT Against You?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-ai-linguistics-how-gpt-and-bert-stand-poles-apart-in-nlp-innovation/"><u>Deciphering AI Linguistics: How GPT and BERT Stand Poles Apart in NLP Innovation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-openais-journey-comparing-and-contrasting-gpt-models-from-1-to-amo/"><u>Decoding OpenAI's Journey: Comparing and Contrasting GPT Models From 1 to Amo</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oneplus-nord-n30-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your OnePlus Nord N30 5G Phone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-optimal-windows-video-calls-4-1-picks/"><u>In 2024, Optimal Windows Video Calls #4-#1 Picks</u></a></li>
 </ul></div>
 

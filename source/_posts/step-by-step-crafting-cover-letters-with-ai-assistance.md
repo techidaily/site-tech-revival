@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Crafting Cover Letters with AI Assistance"
-date: 2024-12-18T16:18:55.846Z
-updated: 2024-12-23T18:14:01.423Z
+date: 2024-12-25T19:19:16.856Z
+updated: 2024-12-29T07:54:24.731Z
 tags:
   - chatgpt
   - open-ai
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is GPT-4 Turbo?
 
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
@@ -55,19 +51,23 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
  If you want to bring Copilot up faster, you can do so by pressing**Win + C** . Or, if you're lucky enough to own a[laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/) , just press that to bring up the assistant at any time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don't have a Copilot button yet or use a different operating system, you can still use the[Copilot website](https://copilot.microsoft.com/) . Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
 
  If you're on mobile, you can download the[Copilot app for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032122/https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en&gl=US) or[iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) . The app has a toggle when you open it that enables or disables GPT-4\. It may not be the Turbo version, but it should still be powerful enough to handle your queries.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Get the Most Out of GPT-4 Turbo
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
@@ -101,19 +101,22 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-changing-frozen-moments-into-sequential-movies/"><u>[New] Changing Frozen Moments Into Sequential Movies</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-expressiveness-enhancing-youtube-comments-via-emojis/"><u>[New] Expressiveness Enhancing YouTube Comments via Emojis</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-perfecting-your-photos-from-the-sky-how-to-select-the-right-drone-gimbal/"><u>[New] Perfecting Your Photos From the Sky How To Select The Right Drone Gimbal</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-allure-of-benq-sw320-4k-pro-display/"><u>[Updated] The Allure of BenQ SW320 4K Pro Display</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-filmmakers-key-to-cohesion-mastering-kinemaster-edits/"><u>[Updated] The Filmmaker's Key to Cohesion Mastering Kinemaster Edits</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-setup-getting-started-with-codegpt-in-vs-code/"><u>Effortless Setup: Getting Started with CodeGPT in VS Code</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-web-journey-ve-chatgpt-enabled-chrome-extensions-you-cant-miss/"><u>Elevate Your Web Journey: Ve ChatGPT-Enabled Chrome Extensions You Can't Miss</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/embrace-the-newly-free-gpt-4-era-dont-overlook-these-6-persuasive-benefits-for-upgrading-to-chatgpt-plus/"><u>Embrace the Newly Free GPT-4 Era - Don't Overlook These 6 Persuasive Benefits for Upgrading to ChatGPT Plus!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-gpt-powered-projects-as-money-makers/"><u>Evaluating GPT-Powered Projects as Money Makers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-leading-ais-how-does-gemini-stack-up-against-chatgpt-plus/"><u>Evaluating Leading AIs: How Does Gemini Stack Up Against ChatGPT Plus?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-nvidias-ai-service-for-personalized-creation/"><u>Exploring NVIDIA's AI Service for Personalized Creation</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nokia-105-classic-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nokia 105 Classic FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wi-fi-signal-boosters/"><u>Top Rated Wi-Fi Signal Boosters</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-instagram-3-key-caption-techniques-for-videos/"><u>[New] 2024 Approved Mastering Instagram 3 Key Caption Techniques for Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-enhancing-narrative-flow-integrating-chapters-into-your-youtube-content/"><u>[New] In 2024, Enhancing Narrative Flow Integrating Chapters Into Your YouTube Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-minute-drama-framework-plan/"><u>[Updated] Minute Drama Framework Plan</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-sightgallery-review-system/"><u>[Updated] SightGallery Review System</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-riches-a-deep-dive-into-mr-beasts-wealth/"><u>2024 Approved The Riches A Deep Dive Into Mr. Beast's Wealth</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-top-free-dvd-player-software-reviews-for-windows-users/"><u>2024 Top Free DVD Player Software Reviews for Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-on-windows-not-possible-how-to-spot-and-avoid-the-impostor-software/"><u>ChatGPT on Windows? Not Possible – How to Spot and Avoid the Impostor Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-skills-for-career-enhancement-discover-6-essential-benefits/"><u>ChatGPT Skills for Career Enhancement: Discover 6 Essential Benefits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-subscriptions-paused-decoding-the-cause-and-anticipating-resumption-for-future-users/"><u>ChatGPT Subscriptions Paused: Decoding the Cause & Anticipating Resumption for Future Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-the-differences-bert-and-gpt-compared/"><u>Deciphering the Differences: BERT and GPT Compared</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-truthcoin-written-into-its-code/"><u>Deciphering TruthCoin' Written Into Its Code</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-most-effective-gpt-3-prompts-in-popular-github-projects/"><u>Discover the Most Effective GPT-3 Prompts in Popular GitHub Projects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/educators-digital-guide-4-essential-gpt-validation-tools/"><u>Educator’s Digital Guide: 4 Essential GPT Validation Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/employing-chatgpt-in-cognitive-therapeutic-techniques/"><u>Employing ChatGPT in Cognitive Therapeutic Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/helldivers-2s-secrets-to-unforgettable-gaming-experience/"><u>Helldivers 2'S Secrets to Unforgettable Gaming Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/save-big-on-laptops-as-a-learner-your-comprehensive-guide-to-dells-educational-discount-offers/"><u>Save Big on Laptops as a Learner: Your Comprehensive Guide to Dell's Educational Discount Offers</u></a></li>
 </ul></div>
 
