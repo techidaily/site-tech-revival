@@ -1,7 +1,7 @@
 ---
 title: "Break The Silence: Speak To ChatGPT"
-date: 2024-12-23T05:25:59.152Z
-updated: 2024-12-28T16:06:45.493Z
+date: 2025-01-04T17:50:12.449Z
+updated: 2025-01-07T23:23:20.597Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [More Access to GPT-4o](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#more-access-to-gpt-4o)
@@ -34,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 * [Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#full-access-to-advanced-data-analysis-file-uploads-vision-and-web-browsing)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -46,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
  Following OpenAI's Spring Update, GPT-4o has become publicly available to Free users. This means that everyone can access GPT-4-level intelligence without paying. You might wonder why you would want to keep paying $20 monthly when you can get it for free.
 
  Well, here are some reasons you might want to keep your ChatGPT Plus sub.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1 More Access to GPT-4o
 
@@ -69,12 +61,16 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
 
  If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Create Your Own Custom GPT
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 ## 4 Generate Images With DALL-E
 
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
 
@@ -101,13 +101,13 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 
  OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
 ![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Advanced data analysis, file uploads, vision, and web browsing were once features exclusive to OpenAI's paying customers. That has now changed, and all of these are available to Free users but with more limits. The limits include fewer prompts, fewer file uploads, and lower priority access to these services during peak hours.
 
@@ -132,21 +132,14 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-crafting-immersive-experiences-with-compelling-tiktok-captions-top-5-for-2024/"><u>[New] Crafting Immersive Experiences with Compelling TikTok Captions (Top 5) for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ensuring-seamless-capture-of-online-teams-gatherings/"><u>[Updated] Ensuring Seamless Capture of Online Teams' Gatherings</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-drones-for-beginners-10-must-have-mini-choices/"><u>[Updated] In 2024, Drones for Beginners 10 Must-Have Mini Choices</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/abbyys-advanced-text-recognition-technology-integrated-into-the-3m-360-encompass-system-revolutionizes-healthcare-documentation/"><u>ABBYY's Advanced Text Recognition Technology Integrated Into the 3M 360 Encompass System Revolutionizes Healthcare Documentation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-the-power-of-huggingchat-a-cost-free-rival-to-chatgpt/"><u>Discovering the Power of HuggingChat – A Cost-Free Rival to ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dive-into-ai-deployment-auto-gpt-step-by-step/"><u>Dive Into AI Deployment (Auto-GPT) Step-by-Step</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-installation-of-the-chatgpt-application-on-windows-systems/"><u>Easy Installation of the ChatGPT Application on Windows Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-day-to-day-life-smart-strategies-for-leveraging-chatgpt-effectively/"><u>Elevate Your Day-to-Day Life: Smart Strategies for Leveraging ChatGPT Effectively</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-innovations-in-the-domain-of-chatgpt-plugins-store/"><u>Essential Innovations in the Domain of ChatGPT Plugins Store</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-strategies-to-prevent-these-6-critical-errors-when-writing-chatgpt-prompts/"><u>Essential Strategies to Prevent These 6 Critical Errors When Writing ChatGPT Prompts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-tips-maximizing-your-writing-career-with-chatgpt/"><u>Essential Tips: Maximizing Your Writing Career with ChatGPT</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/evite-que-norton-elimine-archivos-automaticamente-una-guia-detallada/"><u>Evite Que Norton Elimine Archivos Automáticamente: Una Guía Detallada</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-leveraging-technology-tools-for-accurate-and-efficient-market-analysis/"><u>In 2024, Leveraging Technology Tools for Accurate and Efficient Market Analysis</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oppo-a2-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Oppo A2 for Parents | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-zoom-webcam-on-pc/"><u>Updated 2024 Approved How to Zoom Webcam on PC</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/yl-software-tutorial-easy-steps-for-acquiring-your-first-crypto-assets/"><u>YL Software Tutorial: Easy Steps for Acquiring Your First Crypto Assets</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-adding-soundtracks-to-your-inshot-projects/"><u>[Updated] 2024 Approved Adding Soundtracks to Your InShot Projects</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-prolong-your-snapstreak-legacy-with-ease/"><u>[Updated] 2024 Approved Prolong Your Snapstreak Legacy with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bridging-the-gap-how-chatgpt-reads-pdf-files/"><u>Bridging the Gap: How ChatGPT Reads PDF Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/four-innovative-approaches-to-leveraging-artificve-intelligence-for-better-research-outcomes/"><u>Four Innovative Approaches to Leveraging Artificve Intelligence for Better Research Outcomes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-ai-genius-top-5-free-avenues-into-gpt-4-mastery/"><u>Harnessing AI Genius: Top 5 Free Avenues Into GPT-4 Mastery</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-asus-rog-phone-7-ultimate-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Asus ROG Phone 7 Ultimate Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-final-cut-pro-masterclass-top-10-plugin-guide/"><u>In 2024, Final Cut Pro Masterclass Top 10 Plugin Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-your-linkedin-presence-10-key-benefits-of-chatgpt-assistance-in-job-placement/"><u>Maximize Your LinkedIn Presence: 10 Key Benefits of ChatGPT Assistance in Job Placement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-strategies-leveraging-chatgpt-with-the-wolfram-alpha-extension/"><u>Top Strategies: Leveraging ChatGPT with the Wolfram Alpha Extension</u></a></li>
 </ul></div>
 

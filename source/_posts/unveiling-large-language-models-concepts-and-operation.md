@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Large Language Models: Concepts & Operation"
-date: 2024-12-21T19:01:40.145Z
-updated: 2024-12-28T22:13:05.171Z
+date: 2025-01-06T00:28:20.148Z
+updated: 2025-01-07T23:11:07.661Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Speak to ChatGPT
 
  ChatGPT's Whisper integration allows you to use your voice to speak with ChatGPT instead of typing. The beauty of this lies in the fact that you can speed up your prompts instead of typing long and descriptive sentences.
@@ -32,13 +36,17 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
-![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
 Close
 
@@ -60,30 +68,22 @@ Close
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
 
@@ -104,20 +104,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-guide-mastering-color-correction-and-grading/"><u>[New] Ultimate Guide Mastering Color Correction & Grading</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-android-screencasting-methods-unveiled/"><u>2024 Approved Android Screencasting Methods Unveiled</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-jpeg-to-gif-discover-the-top-10-free-options/"><u>2024 Approved Mastering JPEG-to-GIF Discover the Top 10 Free Options</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/conversion-de-videos-de-4k-a-1080p-con-facilidad-en-tu-computadora-windows-o-mac/"><u>Conversión De Vídeos De 4K a 1080P Con Facilidad en Tu Computadora Windows O Mac</u></a></li>
-<li><a href="https://win-updates.techidaily.com/customizing-applications-through-useproperties-and-microsoft-system-image-services-healing-techniques/"><u>Customizing Applications Through UseProperties & Microsoft System Image Services Healing Techniques</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/gaming-to-goals-celebrating-the-top-10-ladies-on-youtube-for-2024/"><u>From Gaming to Goals Celebrating the Top 10 Ladies on YouTube for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-motorola-edge-40-neo-is-unlocked-by-drfone-android/"><u>How To Check if Your Motorola Edge 40 Neo Is Unlocked</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-top-techniques-for-professional-looking-ig-video-content/"><u>In 2024, Top Techniques for Professional-Looking IG Video Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/polarr-editor-unveiled-ultimate-visual-transformation-for-2024/"><u>Polarr Editor Unveiled Ultimate Visual Transformation for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-essentials-of-hugging-face-how-its-shaping-the-future-of-ai-technology/"><u>The Essentials of Hugging Face: How It's Shaping the Future of AI Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-power-of-shape-from-openai-a-guide-to-understanding-its-purpose-and-capabilities/"><u>The Power of shapE From OpenAI - A Guide to Understanding Its Purpose and Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-mastering-chatgpt-copilot-plugin-what-it-does-and-how-it-helps/"><u>The Ultimate Guide to Mastering ChatGPT Copilot Plugin: What It Does & How It Helps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-discover-the-6-premier-ai-chatgpt-add-ons-for-visual-studio-code/"><u>The Ultimate Guide: Discover the 6 Premier AI ChatGPT Add-Ons for Visual Studio Code</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tips-for-purging-past-chatgpt-exchanges/"><u>Tips for Purging Past ChatGPT Exchanges</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-4-advantages-why-choose-microsoft-copilot-over-chatgpt/"><u>Top 4 Advantages: Why Choose Microsoft Copilot Over ChatGPT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-haunting-actions-high-definition-cams/"><u>[New] Haunting Actions High Definition Cams</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-mac-compatible-video-players-top-5-picks-for-streaming-m4v-content/"><u>Best Mac-Compatible Video Players: Top 5 Picks for Streaming M4V Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/brilliance-in-display-top-5-for-grading-professionals/"><u>Brilliance in Display TOP 5 for Grading Professionals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/download-ios-16-early-access-tips-on-getting-your-iphone-updated-immediately-though-considering-a-delay/"><u>Download iOS 16 Early Access: Tips on Getting Your iPhone Updated Immediately (Though Considering a Delay)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-methods-to-save-youtube-footage-to-ios-devices-from-macos-computers/"><u>Easy Methods to Save YouTube Footage to iOS Devices From macOS Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-instant-mp3-accelerator-solutions-on-mac-try-them-out-now/"><u>Get Instant MP3 Accelerator Solutions on Mac - Try Them Out Now!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-1110-bad-image-display-problems-effectively/"><u>How to Resolve Windows 11/10 Bad Image Display Problems Effectively</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iphone-1212-pro/"><u>IPhone 12/12 Proに最適!スタート時に必見のフリーミュージックアプリリスト</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-macos-tools-for-quick-and-safe-removal-of-drm-from-protected-tracks/"><u>Leading macOS Tools for Quick and Safe Removal of DRM From Protected Tracks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macos-screen-recording-tutorial-capture-your-iphones-activity-with-ease/"><u>MacOS Screen Recording Tutorial: Capture Your iPhone's Activity with Ease</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-5-free-mpeg-video-editing-tools-with-joining-feature/"><u>New 2024 Approved Top 5 Free MPEG Video Editing Tools with Joining Feature</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/should-you-upgrade-to-the-iphone-15-pro-max-or-stick-with-the-galaxy-s23-ultra/"><u>Should You Upgrade to the iPhone 15 Pro Max or Stick with the Galaxy S23 Ultra?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-no-cost-tools-for-effortless-fps-adjustment-in-macos-and-windows/"><u>Top 5 No-Cost Tools for Effortless FPS Adjustment in macOS & Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-handbrake-effective-ways-to-resolve-invalid-source-problems/"><u>Troubleshooting Handbrake: Effective Ways to Resolve Invalid Source Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unraveling-the-mystery-of-fixing-an-unrecoverable-error-in-directx/"><u>Unraveling the Mystery of Fixing an 'Unrecoverable Error' In DirectX</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-edit-videos-for-free-top-14-watermark-free-software/"><u>Updated Edit Videos for Free Top 14 Watermark-Free Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/win-and-mac-top-8-excellent-subtitles-converters-to-srt/"><u>Win & Mac Top 8 Excellent Subtitles Converters to SRT</u></a></li>
 </ul></div>
 

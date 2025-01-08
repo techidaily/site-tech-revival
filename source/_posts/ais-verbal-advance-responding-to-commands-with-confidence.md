@@ -1,7 +1,7 @@
 ---
 title: "AI's Verbal Advance: Responding to Commands with Confidence"
-date: 2024-12-24T02:38:02.733Z
-updated: 2024-12-29T02:17:14.212Z
+date: 2025-01-02T17:34:53.489Z
+updated: 2025-01-08T01:12:30.694Z
 tags:
   - chatgpt
   - open-ai
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is GPT-4 Turbo?
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 ![gpt-4 logo on smartphone screen](https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-photo/portland-usa-mar-15-2023-webpage-2275173419)
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
  Right now, the best way to use GPT-4 Turbo for free is via Microsoft Copilot. It may seem weird that you have to go through Microsoft instead of OpenAI, but the two companies have a really close relationship. As such, it's not unusual to see OpenAI's features appear within Microsoft's AI assistants.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use GPT-4 Turbo for Free With Microsoft Copilot
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
@@ -66,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you don't have a Copilot button yet or use a different operating system, you can still use the[Copilot website](https://copilot.microsoft.com/) . Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
 
  If you're on mobile, you can download the[Copilot app for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032122/https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en&gl=US) or[iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) . The app has a toggle when you open it that enables or disables GPT-4\. It may not be the Turbo version, but it should still be powerful enough to handle your queries.
@@ -77,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 ## How to Get the Most Out of GPT-4 Turbo
 
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
 
@@ -101,18 +101,21 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-masterclass-guide-15-tripods-perfect-for-gopro/"><u>[Updated] In 2024, Masterclass Guide 15 Tripods Perfect for GoPro</u></a></li>
-<li><a href="https://windows11.techidaily.com/debunking-top-reasons-win11-beats-macos/"><u>Debunking: Top Reasons Win11 Beats macOS</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-14-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 14 Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-10-online-retailers-specialized-in-personalized-boxed-gifts/"><u>In 2024, 10 Online Retailers Specialized in Personalized Boxed Gifts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/quick-lenovo-screen-capture-tips-for-2024/"><u>Quick Lenovo Screen Capture Tips for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/renowned-backdrop-alternatives-pixelpioneers-secret/"><u>Renowned Backdrop Alternatives PixelPioneer's Secret</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-laser-engraving-machines-of-2024/"><u>Top Rated Laser Engraving Machines of 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-walkthrough-activating-and-using-auto-gpt-in-ubuntu-environment/"><u>Ultimate Walkthrough: Activating and Using Auto-GPT in Ubuntu Environment</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-the-full-potential-of-gpt-3-with-chatbot-liberation-techniques/"><u>Unleashing the Full Potential of GPT-3 with Chatbot Liberation Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-superior-performance-7-reasons-why-palm-2-is-a-game-changer-for-googles-bard/"><u>Unlocking Superior Performance: 7 Reasons Why PaLM 2 Is a Game-Changer for Google's Bard</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-distinctions-between-public-private-and-personal-artificebased-intelligence-systems/"><u>Unveiling the Distinctions Between Public, Private & Personal Artificebased Intelligence Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-mystery-understanding-bingchatgpt-scam-coins-and-detection-strategies/"><u>Unveiling the Mystery: Understanding BingChatGPT Scam Coins and Detection Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-is-my-chatgpt-account-restricted-discover-4-key-factors-and-remedies/"><u>Why Is My ChatGPT Account Restricted? Discover 4 Key Factors and Remedies!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-a-step-by-step-guide-to-updating-photos-and-videos-on-instagram-for-2024/"><u>[Updated] A Step-by-Step Guide to Updating Photos and Videos on Instagram for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-elite-guide-from-concept-to-compelling-fullscreen-edits-in-premiere-pro/"><u>[Updated] Elite Guide From Concept to Compelling Fullscreen Edits in Premiere Pro</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-facebook-flashback-finder/"><u>[Updated] In 2024, Facebook Flashback Finder</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-in-depth-analysis-of-vlc-recorder-app/"><u>[Updated] In 2024, In-Depth Analysis of VLC Recorder App</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/como-exportar-e-assistir-filmes-em-vob-no-windows-ou-mac-uma-lista-completa-de-solucoes/"><u>Como Exportar E Assistir Filmes Em VOB No Windows Ou Mac: Uma Lista Completa De Soluções</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-c53-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme C53 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-spark-go-2023-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Spark Go (2023) to PC? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-realme-gt-3-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Realme GT 3 Phone Now with These Tips</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/pros-and-cons-of-roku-vs-amazon-fire-tv-stick-find-out-which-one-suits-you-best/"><u>Pros & Cons of Roku vs Amazon Fire TV Stick: Find Out Which One Suits You Best</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/save-big-get-20-off-acronis-true-image-promo-codes-inside/"><u>Save Big: Get 20% Off Acronis True Image - Promo Codes Inside</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/security-breach-how-windows-updates-can-get-compromised-and-negate-protection-measures/"><u>Security Breach: How Windows Updates Can Get Compromised and Negate Protection Measures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-mastering-audio-recording-with-windows-11/"><u>Step-by-Step Guide: Mastering Audio Recording with Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-python-on-your-pc/"><u>Step-by-Step Guide: Setting Up Python on Your PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-achieving-the-windows-10-aesthetic-in-windows-11-environment/"><u>Step-by-Step Tutorial on Achieving the Windows 10 Aesthetic in Windows 11 Environment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-legacy-of-ms-dos-40-from-1988-lives-on-as-open-source-software/"><u>The Legacy of MS-DOS 4.0 From 1988 Lives On as Open Source Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-for-burning-iso-images-onto-your-computer-windows-7-8-and-10/"><u>Ultimate Tutorial for Burning ISO Images Onto Your Computer (Windows 7, 8 & 10)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Copilot, Your Free Companion for GPT-4's Highest Outputs
-date: 2024-12-23T02:55:58.485Z
-updated: 2024-12-29T06:59:19.579Z
+date: 2025-01-03T18:53:34.763Z
+updated: 2025-01-07T20:43:32.688Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ It’s a very simple process, and you’ll want to do it again and again.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Write a Prompt in ChatGPT
 
 ![ChatGPT prompt results ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-prompt-results.jpg)
@@ -38,10 +42,6 @@ It’s a very simple process, and you’ll want to do it again and again.
 * Tina Belcher’s funniest quotes from Bob’s Burgers.
 
  After ChatGPT generates your prompts, read over them. One of the[issues with using ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is occasionally it generates inaccurate information. If you’re making content that informs people, you should ensure that it is correct.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Copy the Text Into a Spreadsheet
 
@@ -58,7 +58,7 @@ It’s a very simple process, and you’ll want to do it again and again.
 ![Google Sheets with quotes in one column and credits in another.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-remove-attirubtion.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  First, widen column A to the right. Hover your cursor over the connecting edge of A and B until the cursor changes to arrows, then click and drag A column until you can see the ends of your content within the column width.
@@ -66,6 +66,10 @@ It’s a very simple process, and you’ll want to do it again and again.
  If your generated content has attribution labels, like quotes with speaker names or songs with artist names, then remove the attributions from the end of the quotes and type or paste them into column B. Resize the columns as needed.
 
  You can add more elements if required, but for most social media posts, you don’t want to overcrowd information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Label Your Columns
 
@@ -85,12 +89,16 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  For Microsoft Excel, go to**File** \>**Save as** ​​​​​​, and under File Format choose**CSV UTF-8 (Comma-delimited) (.csv)** ​​​​​​. But this could be different depending on which version of Microsoft Office you’re running.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Make Your Design in Canva
 
 ![Create a Design options in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-design-canva.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Head to[Canva](https://www.canva.com) and choose a size for your bulk designs. Whether you’re using a pre-made template, or designing from a blank page, make sure your design isn’t overcrowded and that there will be enough space for your text.
@@ -100,7 +108,7 @@ It’s a very simple process, and you’ll want to do it again and again.
 ![Canva template design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-template-design.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
@@ -123,10 +131,6 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Canva Bulk Create options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-csv.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Select**Upload CSV** and find your saved CSV file to open. Canva will identify your two sections of content and separate them, in this case, into a section of Quote content and another of Attribution content.
 
 ![Canva CSV input.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/curly-brackets.jpg)
@@ -136,7 +140,7 @@ It’s a very simple process, and you’ll want to do it again and again.
 ![Canva's Bulk Create checkboxes.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apply-data-canva-bulk-create.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You’ll see a list of all the content to be applied with checkboxes next to each item. To remove any text items, uncheck the box next to it. If you’re happy with all the content, keep them all checked and select**Generate Pages** . Ensure you don't have a pop-up blocker on as your designs will open in a new tab.
@@ -146,7 +150,7 @@ It’s a very simple process, and you’ll want to do it again and again.
 ![Canva bulk designs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-bulk-designs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After generation, your designs appear on their own page in a new tab. Scroll to view them all. If you applied Bulk Create to more than one design, you’ll have alternate designs for each set of text.
@@ -154,6 +158,10 @@ It’s a very simple process, and you’ll want to do it again and again.
  Now comes the most laborious part of bulk creation. Go through each design to review and edit it. Although they’ve each been created under the same parameters, some text may not fit correctly or in aesthetically pleasing ways. Resize or move the text to best fit each design.
 
  At this point you can also add emphasis to individual words with extra colors, bold or italics, or change the font for certain words or phrases. This isn’t possible to do with Bulk Create.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Save Your Bulk-Created Designs
 
@@ -163,15 +171,7 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Bulk designs on Mac Finder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-designs-on-mac.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can add your bulk content to a social media scheduling app, like Hootsuite or Later, to save even more time and to ensure regular posting. Bulk designs are great for weekly or monthly posts of a similar type, for example, Monday Motivation or monthly calendar posts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bulk Create Content With Canva and ChatGPT
 
@@ -192,20 +192,17 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-best-5-chromebook-screen-capture-tools-unveiled/"><u>[New] Best 5 Chromebook Screen Capture Tools Unveiled</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-fresh-to-famous-elevating-your-channels-views-and-youtube-subs/"><u>[New] In 2024, From Fresh to Famous Elevating Your Channels Views & Youtube Subs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-curved-image-design/"><u>[Updated] 2024 Approved A Step-by-Step Guide to Curved Image Design</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-transition-techniques-decreasing-volume-gradually-in-pp/"><u>[Updated] Transition Techniques Decreasing Volume Gradually in PP</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gom-player-on-windows-10-troubleshooting-dvd-audio-issues-comprehensive-setup-guide-for-restoring-sound-during-playback/"><u>GOM Player on Windows 10: Troubleshooting DVD Audio Issues - Comprehensive Setup Guide for Restoring Sound During Playback</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-p40-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Itel P40 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-streamline-game-saves-mastering-fbx-recording/"><u>In 2024, Streamline Game Saves Mastering FBX Recording</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-discreet-route-to-disengage-from-discord-networks-for-2024/"><u>The Discreet Route to Disengage From Discord Networks for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-gptbot-conundrum-harnessing-its-powers-responsibly/"><u>The GPTBot Conundrum - Harnessing Its Powers Responsibly?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ins-and-outs-of-chatgpts-limitations-on-tokens-what-you-need-to-know/"><u>The Ins and Outs of ChatGPT's Limitations on Tokens – What You Need to Know</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-power-of-tailored-ai-how-nvidia-opens-up-generative-possibilities-to-users-far-and-wide/"><u>The Power of Tailored AI: How NVIDIA Opens Up Generative Possibilities to Users Far and Wide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-complimentary-ai-applications-enhancing-email-creation-with-chatgpt-and-organizing-messages-efficiently/"><u>Top 5 Complimentary AI Applications: Enhancing Email Creation with ChatGPT and Organizing Messages Efficiently</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-benefits-of-mastering-chatgpt-a-must-have-skill-for-todays-job-market/"><u>Top 6 Benefits of Mastering ChatGPT: A Must-Have Skill for Today's Job Market</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-calculations-discover-the-triad-of-key-applications-for-chatgpt-integrated-with-wolfram-technology/"><u>Transforming Calculations: Discover the Triad of Key Applications for ChatGPT Integrated with Wolfram Technology</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-art-of-slow-motion-a-guide-for-instagrams-next-viral-reels-for-2024/"><u>[Updated] The Art of Slow-Motion A Guide for Instagram's Next Viral Reels for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/daily-bing-photography-for-windows-1er-theme-backdrop-tutorial/"><u>Daily Bing Photography for Windows 1Er Theme Backdrop Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-multitasking-organizing-your-workspace-with-cascaded-windows-on-windows-10/"><u>Effortless Multitasking: Organizing Your Workspace with Cascaded Windows on Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-timeless-tunes-anew-through-siriusxms-infinite-music-service/"><u>Experience Timeless Tunes Anew Through SiriusXM's Infinite Music Service</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-evaluation-of-the-plugable-usb-c-dual-hdmi-docking-hub-essential-perks-for-pc-enthusiasts/"><u>Expert Evaluation of the Plugable USB-C Dual HDMI Docking Hub: Essential Perks for PC Enthusiasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-shapley-explanation-work-insights-into-openais-shape-technology/"><u>How Does Shapley Explanation Work? Insights Into OpenAI's SHAPE Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-the-error-when-mfc42dll-cant-be-located/"><u>How to Correctly Address the Error When mfc42.dll Can’t Be Located</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g23-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G23 Phone FRP Lock</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-windows-11-a-comprehensive-walkthrough-of-application-updates/"><u>Mastering Windows 11: A Comprehensive Walkthrough of Application Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-protected-best-practices-for-switch-account-use/"><u>Stay Protected: Best Practices for Switch Account Use</u></a></li>
 </ul></div>
 

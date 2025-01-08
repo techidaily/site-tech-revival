@@ -1,7 +1,7 @@
 ---
 title: Comparing ChatGPT's Predictions with Horoscope Readings
-date: 2024-09-01T19:19:19.711Z
-updated: 2024-09-02T19:19:19.711Z
+date: 2025-01-01T16:16:41.550Z
+updated: 2025-01-08T00:26:13.312Z
 tags:
   - chatgpt
   - open-ai
@@ -29,19 +29,24 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 
 ![Using Siri on an iPhone on a white table.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/siri-on-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You may think ChatGPT is your one-stop shop for anything and everything you need, but there's one major setback you may not be aware of. ChatGPT has absolutely no real-time access to current events, and its knowledge is limited to data from September 2021 and older. So, you will not receive an answer if you try to ask for any sort of update.
 
  For example, if you try to ask the chatbot to tell you today's weather or the date of Queen Elizabeth's death, it will tell you it does not have access to current weather conditions and that Queen Elizabeth is still alive according to its knowledge. Live events and breaking news are also no-shows for ChatGPT.
 
  Siri, on the other hand, can give you real-time updates on the weather and other things like the stock market, and its database is updated regularly, so it does not have a knowledge cutoff as old as ChatGPT does. Siri will immediately tell you the date Queen Elizabeth passed away and what the weather will be like tomorrow.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Engaging in Conversations
 
 ![Person Using ChatGPT on Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cchatgpt-on-laptop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  One of the biggest reasons ChatGPT is as popular as it is today is its ability to engage in conversations, similar to how a human would converse.
 
  You can open up ChatGPT right now and start up a conversation about your day, type out your feelings, talk about your favorite food, and the chatbot will respond amicably, understand context, give you personalized answers, ask you questions in return, and some say[ChatGPT can even make you laugh](https://www.makeuseof.com/can-ai-make-us-laugh/) .
@@ -55,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 ![voice recognition homepod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/voice-recognition-homepo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Image Credit:[Apple](https://support.apple.com/en-us/HT204753)
 
  Siri is designed to respond to voice commands and text input, making it quite easy for users to interact with the virtual assistant. You can ask Siri a quick question by speaking to it when you're on the run, and it's even handier since it is integrated directly into your iPhone. Or, you can type your queries away if that's what you prefer.
@@ -65,16 +71,10 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 
  However, if you want to use ChatGPT with voice and integrate it into your iPhone, there's a way, and we've explained it in detail towards the end of this article.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Executing Basic Commands
 
 ![iOS 16.2 Siri shutdown prompt on iPhone offering the Cancel and Power Off options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/apple-ios-16-2-siri-prompt-turn-off-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  One of the most significant differences between the two emerges when executing tasks. This is where Siri excels, and it's also where its primary purpose lies. As Apple's official virtual assistant, the AI model is here to help make your everyday tasks easier and more efficient.
 
  You can ask Siri to control a home device, turn on Bluetooth, switch to[Low Power Mode](https://www.makeuseof.com/iphone-low-power-mode/) , set the alarm, make a phone call—you name it, Siri can do it. It's here to make your life convenient.
@@ -86,8 +86,9 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 ![A ChatGPT screenshot showing a personalized output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-personalized-responses.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Siri and ChatGPT both hold power to answer your queries, albeit in slightly different ways. Put forth a question for Siri, and it will give you a short and sweet response.
 
  For example, ask Siri when World War 2 occurred, and it will tell you the exact date and leave it at that. However, ChatGPT, with its enormous training data, provides a broader spectrum of information. Give it the same question, and the chatbot responds with a paragraph of details about World War 2 alongside the date. Its large database is one of the reasons there is speculation that[ChatGPT will replace jobs](https://www.makeuseof.com/can-chatgpt-replace-me/) in the future.
@@ -97,8 +98,9 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
  When ChatGPT is posed with the same questions, it will do all the hard work for you. It will run through all the data it has and give you a well-formulated answer, so you don't have to spend your time poring over large chunks of text.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Both Siri and ChatGPT for the Best Results
 
  While they're both great in their own ways, there's a way you can get the best of both worlds! Here's a[detailed guide of how you can use ChatGPT with Siri](https://www.makeuseof.com/how-to-use-chatgpt-with-siri-on-iphone/) , but we'll do a quick overview for you here:
@@ -114,9 +116,14 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 ![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -137,23 +144,17 @@ Close
 
  Now all you have to say is, "Hey Siri, launch ChatGPT 1.2.4," and the chatbot will work. You can also use shortcuts apart from the one listed above, so make sure to pick out the option you find easiest.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Siri vs. ChatGPT: Two Completely Different AI Models
 
  Siri and ChatGPT differ in their functions, their purpose, the way they work, and how they respond. Siri is a holy grail for all Apple users as it executes all your commands and performs essential tasks.
 
  But Siri isn't what you'll use for a lengthy conversation and descriptive answers, and that's where ChatGPT comes in. So, why compare the two when you can use both to make your life much more convenient?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,4 +163,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-pro-level-video-conferencing-picking-the-best-5-recorders/"><u>[New] 2024 Approved Pro-Level Video Conferencing Picking the Best 5 Recorders</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-removing-unwanted-audio-from-videos-essential-steps/"><u>[Updated] In 2024, Removing Unwanted Audio From Videos - Essential Steps</u></a></li>
+<li><a href="https://change-location.techidaily.com/achieve-flawless-playback-advanced-mpeg-fixer-for-healing-scratched-damaged-videos/"><u>Achieve Flawless Playback: Advanced MPEG Fixer for Healing Scratched, Damaged Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comment-transformer-votre-video-mp4-en-audio-wma-gratuitement-en-ligne-via-movavi-guide-etape-par-etape/"><u>Comment Transformer Votre Vidéo MP4 en Audio WMA Gratuitement en Ligne via Movavi - Guide Étape Par Étape</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-ai-black-boxes-insights-into-their-functioning-mechanisms/"><u>Decoding AI Black Boxes - Insights Into Their Functioning Mechanisms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-llms-an-in-depth-look-at-their-operation/"><u>Decoding LLMs: An In-Depth Look at Their Operation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/excellent-value-30-tv-antenna-top-performer-at-a-bargain/"><u>Excellent Value 30 TV Antenna: Top Performer at a Bargain</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-the-latest-info-google-news-update/"><u>Get the Latest Info - Google News Update</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-operating-chatgpt-seamlessly-across-your-mobile-devices-android-and-ios/"><u>Guide: Operating ChatGPT Seamlessly Across Your Mobile Devices (Android & iOS)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oppo-a1-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Oppo A1 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17t-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo S17t PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-discover-the-potential-detailed-look-at-showmore-as-your-recording-companion/"><u>In 2024, Discover the Potential Detailed Look at ShowMore as Your Recording Companion</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-plain-text-and-mouse-jump-methods-in-powertoys/"><u>Master Plain Text & Mouse Jump Methods in PowerToys</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-thought-outdoing-the-original-test/"><u>Mastering Thought: Outdoing the Original Test</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-evolution-story-of-apples-ios-from-its-debut-in-version-10-to-its-modern-form-version-180/"><u>The Evolution Story of Apple's iOS: From Its Debut in Version 1.0 to Its Modern Form, Version 18.0.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-hidden-hazard-of-overreliance-on-tech/"><u>The Hidden Hazard of Overreliance on Tech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-evolution-from-gpt-1-through-gpt-4-a-comparative-analysis/"><u>Understanding the Evolution From GPT-1 Through GPT-4: A Comparative Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-your-development-potential-10-ways-to-employ-chatgpt-with-visual-studio-code/"><u>Unlock Your Development Potential: 10 Ways to Employ ChatGPT with Visual Studio Code</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-letting-chatgpt-linger-on-your-phone-could-be-detrimental/"><u>Why Letting ChatGPT Linger on Your Phone Could Be Detrimental</u></a></li>
+</ul></div>
 

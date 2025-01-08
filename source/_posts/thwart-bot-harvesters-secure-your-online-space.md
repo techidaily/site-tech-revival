@@ -1,7 +1,7 @@
 ---
 title: "Thwart Bot Harvesters: Secure Your Online Space"
-date: 2024-09-01T19:19:03.097Z
-updated: 2024-09-02T19:19:03.097Z
+date: 2025-01-03T20:00:34.672Z
+updated: 2025-01-08T00:36:42.111Z
 tags:
   - chatgpt
   - open-ai
@@ -39,13 +39,14 @@ thumbnail: https://thmb.techidaily.com/80eceb8d178e7070d961e9242a3b69515c63dafd8
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
@@ -55,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/80eceb8d178e7070d961e9242a3b69515c63dafd8
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
 ## 6\. ChatGPT1
@@ -64,28 +66,23 @@ thumbnail: https://thmb.techidaily.com/80eceb8d178e7070d961e9242a3b69515c63dafd8
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Trojan-PSW.Win64.Fobo
 
  Kaspersky researchers discovered that cybercriminals were using a fake ChatGPT desktop client for Windows to distribute a stealer Trojan. The Trojan, dubbed Trojan-PSW.Win64.Fobo, if installed on the user’s computer, can steal account details stored in various browsers, including Chrome, Edge, Firefox, and Brave.
@@ -95,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/80eceb8d178e7070d961e9242a3b69515c63dafd8
  If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
@@ -108,14 +109,11 @@ thumbnail: https://thmb.techidaily.com/80eceb8d178e7070d961e9242a3b69515c63dafd8
 
  Here’s a list of malicious ChatGPT-themed domains and apps that you need to be aware of.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +122,24 @@ thumbnail: https://thmb.techidaily.com/80eceb8d178e7070d961e9242a3b69515c63dafd8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-rapid-view-of-photography-in-11-os/"><u>[New] Rapid View of Photography in 11 OS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-dissecting-video-platform-distinctions-youtube-vs-dailymention/"><u>[Updated] Dissecting Video Platform Distinctions YouTube Vs. DailyMention</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-navigate-video-trimming-with-ease-on-windows-11-photos/"><u>2024 Approved Navigate Video Trimming with Ease on Windows 11 Photos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/central-points-for-virtual-world-engagement/"><u>Central Points for Virtual World Engagement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-google-translate-face-off-which-tool-wins-the-translation-game/"><u>ChatGPT and Google Translate Face-Off: Which Tool Wins the Translation Game?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722058682171-chatgpt-goes-mobile-seamlessly-integrate-ai-with-your-android-phone/"><u>ChatGPT Goes Mobile: Seamlessly Integrate AI with Your Android Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquering-spreadsheets-mastering-chatgpt-integration-with-excel/"><u>Conquering Spreadsheets: Mastering ChatGPT Integration with Excel</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-how-to-utilize-chatgpt-copilot-extension-in-your-browser-experience/"><u>Discover How to Utilize ChatGPT Copilot Extension in Your Browser Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ethical-concerns-with-ai-derived-windows-11-codes/"><u>Ethical Concerns with AI-Derived Windows 11 Codes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fraudulent-language-model-extension-compromises-social-media-login-data/"><u>Fraudulent Language Model Extension Compromises Social Media Login Data</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-a2plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi A2+ to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-making-traditional-academic-writing-a-thing-of-the-past/"><u>Is ChatGPT Making Traditional Academic Writing a Thing of the Past?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/lenovo-ideapad-130s-analysis-balancing-low-performance-with-unexpected-user-experience/"><u>Lenovo IdeaPad 130S Analysis: Balancing Low Performance with Unexpected User Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-a-stuck-or-non-functioning-iphone-home-key-with-these-quick-fixes/"><u>Reviving a Stuck or Non-Functioning iPhone Home Key with These Quick Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/targeted-health-transformation-using-chatgpt-wisely/"><u>Targeted Health Transformation: Using ChatGPT Wisely</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-art-of-adding-audio-storytelling-to-video-content-for-2024/"><u>The Art of Adding Audio Storytelling to Video Content for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-savings-on-idevices-in-july-2024-iphones-apple-watches-and-ipads-at-great-prices-discover-all-you-need-to-know/"><u>Unbeatable Savings on iDevices in July 2024 – iPhones, Apple Watches & iPads at Great Prices! Discover All You Need to Know</u></a></li>
+</ul></div>
 

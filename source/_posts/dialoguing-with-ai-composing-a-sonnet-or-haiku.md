@@ -1,7 +1,7 @@
 ---
 title: "Dialoguing With AI: Composing a Sonnet or Haiku"
-date: 2024-09-01T19:17:42.186Z
-updated: 2024-09-02T19:17:42.186Z
+date: 2025-01-02T23:10:53.355Z
+updated: 2025-01-07T16:32:55.900Z
 tags:
   - chatgpt
   - open-ai
@@ -42,21 +42,29 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
  Notice that the example provides context along with the instruction. When asking complex questions, going direct to the question or instruction without providing the proper context won't usually give you the best output.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Does an AI Prompt Engineer Do?
 
 ![binary code background showing a woman face to face with a robot ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-10-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As an AI prompt engineer or "AI whisperer," your task is to develop a set of inputs that an AI model can use to generate the most desirable output. As we have seen, the prompt's quality significantly affects an AI model's performance.
 
  To help an AI system give the most accurate responses to problems, AI prompt engineers train the AI with prompts. They design prompts to get the best results. As an AI Prompt Engineer, you should be able to understand the problem and select the best data sources to do these tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Applications of AI Prompt Engineering
 
 ![online conversation with a customer service AI chatbot ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-11-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  AI prompt engineering creates more accurate and efficient language models that help people work efficiently. It's a legitimate career that helps develop the most[impressive web apps you can try right now](https://www.makeuseof.com/best-ai-web-apps/) .
 
@@ -68,6 +76,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  There are multiple[practical uses of ChatGPT in Programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/) and other[creative ways to use ChatGPT by OpenAI](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) . But generating successful results requires knowledge of AI prompt engineering.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is AI Prompt Engineering a Stable Career Path?
 
  Is an AI prompt engineering career stable? Will it give you room for career growth, and will it last forever? Given the speed by which AI and other tech are developing (plus volatile economic conditions), no job is truly stable. However, the best time to learn AI prompt engineering is now, while the technology is relatively new, and the profession isn't saturated with "experts."
@@ -78,23 +90,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![screenshot of Anthropic Prompt Engineer Job Opening](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-5-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  AI prompt engineering is necessary for companies and businesses looking to leverage AI. The AI revolution has just started, so you can safely assume there will be a growing demand for AI prompt engineers as long as people use AI tools.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## How to Start Your AI Prompt Engineer Career
 
  You don't need coding skills, a tech background, or experience with AI to become an AI prompt engineer. For example, Anna Bernstein, previously mentioned in this article, is an English major and former freelance writer. To succeed in this role:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Develop Your AI Prompt Engineering Skills
 
@@ -124,29 +128,21 @@ This non-exhaustive skills list will be helpful for your AI career:
 ![AI prompt engineer portfolio built on Canva](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-8-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To highlight your prompt engineering skills, build an online portfolio on a website builder like Canva. Include the prompts you designed, and any other projects related to technology and AI. A strong portfolio will help you position yourself as an AI prompt engineer professional.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### 3\. Start Networking and Building Your Credibility
 
 ![Five people standing and talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/people-networking.jpg)
 
  Now is the best time to learn from other professionals and build credibility as an AI prompt engineer. Search online for tech industry networking events, and connect with those experimenting with generative AI. You can also use LinkedIn and YouTube to show your skills and help aspiring AI prompt engineers.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Look and Apply for Jobs
 
 ![screenshot of Joblist.ai website showing AI prompt engineering jobs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-6-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
  AI prompt engineering is a new career path. But you can already start looking for jobs on these websites:
 
 * [Joblist.ai](https://www.joblist.ai/roles/prompt-engineering)
@@ -155,20 +151,21 @@ This non-exhaustive skills list will be helpful for your AI career:
 
  Always check the legitimacy of online jobs. Take note of[red flags that your job offer isn't legitimate](https://www.makeuseof.com/red-flags-job-isnt-legitimate/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Position Yourself as an AI Prompt Engineer
 
  While no job is truly stable, AI prompt engineering is a valuable skill to learn today. It's a viable career path as more companies seek AI prompt engineers. And even if AI tools are developing and changing quickly, you can already start your career as an AI prompt engineer.
 
  You should do two things to add AI prompt engineering to your job skills list. First, master the skills necessary to manipulate AI. Second, position yourself as someone up-to-date in using technology amid its iterations. Like in all careers, people's perception of you and skills mastery are essential in carving out a career in AI prompt engineering.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,4 +174,24 @@ This non-exhaustive skills list will be helpful for your AI career:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-digital-dissection-the-vll-review-process/"><u>[New] 2024 Approved Digital Dissection The VLL Review Process</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unite-video-files-into-playlist-assembly/"><u>[New] 2024 Approved Unite Video Files Into Playlist Assembly</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-elevating-youtube-live-with-high-quality-webcam-cameras/"><u>[Updated] Elevating YouTube Live with High-Quality Webcam Cameras</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-simple-guides-for-recording-vimeo-content/"><u>2024 Approved Simple Guides for Recording Vimeo Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-attraction-the-appeal-of-chatgpt-accounts-to-hackers/"><u>Decoding the Attraction: The Appeal of ChatGPT Accounts to Hackers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-function-of-cellular-service-providers-for-better-connectivity/"><u>Decoding the Function of Cellular Service Providers for Better Connectivity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-chatbot-scripting-skills-with-our-selection-of-top-web-utilities/"><u>Elevate Your Chatbot Scripting Skills with Our Selection of Top Web Utilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-advanced-chatgpt-features-turning-on-new-web-browsing-and-plugin-functions-in-beta/"><u>Experience Advanced ChatGPT Features: Turning On New Web Browsing and Plugin Functions in Beta</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/imagecraft-tools-for-2024/"><u>ImageCraft Tools for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-portable-picture-pixels-windows-mac-best-photo-to-cartoon-converter/"><u>In 2024, Portable Picture Pixels Windows, Mac - Best Photo-to-Cartoon Converter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/no-phone-required-accessing-gpt-telegram-services-directly/"><u>No Phone Required: Accessing GPT, Telegram Services Directly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamlining-tasks-leveraging-chatgpt-to-enhance-scheduling-skills/"><u>Streamlining Tasks: Leveraging ChatGPT to Enhance Scheduling Skills</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-collection-of-4-ai-tools-to-spark-creativity/"><u>The Ultimate Collection of 4 AI Tools to Spark Creativity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-benefits-how-artificial-intelligence-can-empower-educators/"><u>Top 8 Benefits: How Artificial Intelligence Can Empower Educators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-closed-captions-in-win11-a-comprehensive-guide/"><u>Troubleshooting Closed Captions in Win11: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/writing-engaging-youtube-scripts-with-chatgpt-help/"><u>Writing Engaging YouTube Scripts with ChatGPT Help</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Strategies to Spot Fraudulent ChatGPT Sites Immediitedly
-date: 2024-12-26T03:49:46.475Z
-updated: 2024-12-29T04:07:53.591Z
+date: 2025-01-05T17:38:20.213Z
+updated: 2025-01-08T02:20:54.106Z
 tags:
   - chatgpt
   - open-ai
@@ -43,7 +43,7 @@ Type prompts such as:
 ![Screenshot ofChatGPT response to exercise prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-ofchatgpt-response-to-exercise-prompt.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The AI chatbot generates a series of solid workout plans that don’t sound too different from the advice you might get in some of those great[workout apps you’ll stick with for the long haul](https://www.makeuseof.com/best-workout-apps/) .
@@ -54,10 +54,6 @@ Type prompts such as:
 
  However, ChatGPT could be a great source of initial advice if you're just after a general workout plan.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Use ChatGPT to Get Advice on Meal Plans or Find New Recipes
 
  Although everyone knows the importance of eating healthily for well-being, your busy lifestyle might mean you get stuck in a rut with meal choices. You could break free of this by downloading one of the[best healthy eating apps](https://www.makeuseof.com/best-healthy-eating-apps/) or consulting[meal planning websites](https://www.makeuseof.com/meal-planning-sites-to-make-cooking-simple/) .
@@ -67,6 +63,10 @@ Type prompts such as:
  Try the following prompt: “Can you provide a 5-day meal plan for a vegan diet with a budget of $60?” This will provide both a list of sample ingredients and a series of meals designed with budgetary restraints in mind.
 
 ![Screenshot of ChatGPT response to meal plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-meal-plan-prompt.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are drawbacks, of course. Global variations can make a huge difference in the availability and cost of available ingredients. More importantly, you can’t guarantee the accuracy of everything the AI chatbot generates. Since your health rests on good nutritional intake, you should consult a professional if you have any concerns at all.
 
@@ -83,7 +83,7 @@ Type prompts such as:
 ![Screenshot of ChatGPT response to forming good sleep habits prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-forming-good-sleep-habits-prompt.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Use ChatGPT for Mindfulness and Meditation
@@ -101,7 +101,7 @@ Type prompts such as:
 ![Screenshot of ChatGPT response to journaling prompt question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-journaling-prompt-question.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Use ChatGPT as a Medical Symptom Checker
@@ -113,6 +113,10 @@ Type prompts such as:
  ChatGPT can give you access to a vast range of medical information beyond simply checking symptoms. You can ask specific questions and get advice tailored to your individual health needs. Since this instant database is available free of charge from your own home, without requiring you to make appointments and consult medical experts, it brings the further advantage of relieving strain on medical services.
 
  As the technology and the AI database develops continually, there are many[reasons to consider using ChatGPT for health advice](https://www.makeuseof.com/reasons-consider-using-chatgpt-health-advice/) . Of course, you must verify any health advice provided in this manner, so here’s[how to fact-check health information from ChatGPT and AI sources](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Use ChatGPT to Understand and Manage Medications
 
@@ -133,14 +137,10 @@ Type prompts such as:
 ![Screenshot of ChatGPT response to mental health question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-mental-health-question.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You must be aware of the limitations of this and all medical interactions with ChatGPT. For all its potential benefits, there are some valid[reasons why you shouldn’t trust ChatGPT for medical advice](https://www.makeuseof.com/reasons-you-shouldnt-trust-chatgpt-medical-advice/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Can Be a Valuable Tool for Health and Wellness
 
@@ -163,16 +163,20 @@ Type prompts such as:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-storing-image-frames-from-videos-on-windows-11/"><u>[New] Storing Image Frames From Videos on Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-your-next-adventure-faster-the-best-free-travel-planning-ai-applications-available-today/"><u>Discover Your Next Adventure Faster - The Best Free Travel Planning AI Applications Available Today!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-grok-unveiling-elon-musks-latest-innovation-in-ai-understanding-its-functions-and-pricing/"><u>Discovering Grok: Unveiling Elon Musk's Latest Innovation in AI - Understanding Its Functions & Pricing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/does-prompt-engineering-offer-sustainable-employment-opportunities-assessing-five-critical-criteria-for-decision-making/"><u>Does Prompt Engineering Offer Sustainable Employment Opportunities? Assessing Five Critical Criteria for Decision-Making</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-prompt-writing-techniques-for-fitness-aficionados-using-chatgpt/"><u>Effective Prompt Writing Techniques for Fitness Aficionados Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-engaging-chatgpt-for-expert-car-customization-advice/"><u>Effective Strategies: Engaging ChatGPT for Expert Car Customization Advice</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-overlay-solutions-for-your-videos/"><u>In 2024, Best Overlay Solutions for Your Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-illuminating-the-role-of-color-in-editing-mastery/"><u>In 2024, Illuminating the Role of Color in Editing Mastery</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-prime-vhs-illusions-to-enhance-film-projects/"><u>In 2024, Prime VHS Illusions to Enhance Film Projects</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/stop-norton-from-auto-deleting-files-a-comprehensive-guide/"><u>Stop Norton From Auto-Deleting Files: A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-7-tips-for-combining-windows-11-videos-with-best-practices/"><u>TOP 7 Tips for Combining Windows 11 Videos with Best Practices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-ultimate-tutorial-creating-instagram-ready-videos-with-final-cut-pro-x/"><u>[New] 2024 Approved The Ultimate Tutorial Creating Instagram-Ready Videos with Final Cut Pro X</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-strategies-for-webinar-capture-with-minimal-effort-windows-mac-for-2024/"><u>[New] Ultimate Strategies for Webinar Capture with Minimal Effort (Windows, Mac) for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-capture-perfection-reviewing-the-best-5-hd-webcams-with-audio-for-2024/"><u>[Updated] Capture Perfection Reviewing The Best 5 HD Webcams with Audio for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discovering-ideal-hashtags-for-your-youtube-videos/"><u>[Updated] In 2024, Discovering Ideal Hashtags for Your YouTube Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-cryptocurrency-an-in-depth-look-at-what-is-apecoin/"><u>Demystifying Cryptocurrency: An In-Depth Look at What Is ApeCoin?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-digital-protection-with-the-latest-upgrade-googles-titan-key-now-includes-passkey-technology-for-easier-login-authentication/"><u>Enhance Your Digital Protection with the Latest Upgrade: Google's Titan Key Now Includes Passkey Technology for Easier Login Authentication</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-tunes-plex-integrates-chatgpt-for-personalized-music-curation/"><u>Enhance Your Tunes: Plex Integrates ChatGPT for Personalized Music Curation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhanced-memory-features-in-chatgpt-plus-unveiled/"><u>Enhanced Memory Features in ChatGPT Plus Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/even-a-newbie-cant-compete-with-googles-ai-ping-pong-machine-against-amateurs/"><u>Even a Newbie Can't Compete with Google's AI Ping Pong Machine Against Amateurs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-infinite-realms-of-vrchat-a-comprehensive-guide-to-its-immersive-multiverses/"><u>Exploring the Infinite Realms of VRChat: A Comprehensive Guide to Its Immersive Multiverses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-potential-applications-of-artificial-intelligence-in-creating-digital-masterpieces/"><u>Exploring the Potential Applications of Artificial Intelligence in Creating Digital Masterpieces.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-constant-dread-hunger-game-freezes-on-pc-a-step-by-step-guide/"><u>Resolving Constant Dread Hunger Game Freezes on PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ubuntu-linux-core-update-24-marks-significant-advancement-in-iot-and-edge-computing-zdnet-insights/"><u>Ubuntu Linux Core Update 24 Marks Significant Advancement in IoT & Edge Computing - ZDNet Insights</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-remove-audio-from-mkv-2023-update-for-2024/"><u>Updated How to Remove Audio From MKV-2023 Update for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/using-inshot-for-laptoppc-and-other-video-editing-alternatives/"><u>Using Inshot for Laptop/PC and Other Video Editing Alternatives</u></a></li>
 </ul></div>
 

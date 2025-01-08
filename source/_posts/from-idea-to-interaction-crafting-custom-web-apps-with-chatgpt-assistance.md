@@ -1,7 +1,7 @@
 ---
 title: "From Idea to Interaction: Crafting Custom Web Apps with ChatGPT Assistance"
-date: 2024-09-05T12:43:55.901Z
-updated: 2024-09-06T12:43:55.901Z
+date: 2025-01-04T01:21:05.107Z
+updated: 2025-01-07T21:58:51.086Z
 tags:
   - chatgpt
   - open-ai
@@ -19,12 +19,6 @@ thumbnail: https://thmb.techidaily.com/5835b7f75acb6f437f70d9b6865adddf58cf9307d
 
  You can use this feature to generate codes, get answers, or have a quick brainstorming session with just your voice.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What You Need to Speak to ChatGPT
 
  ChatGPT's Whisper integration allows you to use your voice to speak with ChatGPT instead of typing. The beauty of this lies in the fact that you can speed up your prompts instead of typing long and descriptive sentences.
@@ -33,27 +27,23 @@ thumbnail: https://thmb.techidaily.com/5835b7f75acb6f437f70d9b6865adddf58cf9307d
 
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  If you're on a Windows PC, you'll need to rely on third-party workarounds like[Whisper Desktop to turn your voice to text in real time](https://www.makeuseof.com/windows-whisper-desktop-guide/) .
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Send ChatGPT Prompts With Your Voice
 
@@ -69,33 +59,21 @@ Close
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 Close
@@ -106,14 +84,11 @@ Close
 
  By speaking to ChatGPT, you can send longer and more descriptive prompts with your voice and have a conversation without manually typing a prompt that could take several minutes. This way, you can be more productive with your task and save time while using ChatGPT.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +97,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-create-captivate-independent-animation-innovations/"><u>[New] Create, Captivate Independent Animation Innovations</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-tips-for-producing-high-quality-youtube-videos/"><u>[New] In 2024, Essential Tips for Producing High-Quality YouTube Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-superior-editors-for-stellar-webcam-videos-for-2024/"><u>[Updated] Superior Editors for Stellar Webcam Videos for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-emojis-the-real-meaning-you-may-not-know/"><u>2024 Approved Snapchat Emojis The Real Meaning You May Not Know</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-magix-mixcrafts-features/"><u>2024 Approved The Ultimate Guide to Magix Mixcraft's Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-chatgpt-tips-keeping-your-dialogues-in-order-with-specialized-folder-techniques/"><u>Advanced ChatGPT Tips: Keeping Your Dialogues in Order with Specialized Folder Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-distinctions-between-gpt-4-gpt-4xturbo-and-gpt-4o-models/"><u>Decoding the Distinctions Between GPT-4, GPT-4xTurbo, and GPT-4o Models</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-for-perfect-pairing-hook-up-any-computer-and-bluetooth-speaker-together/"><u>Easy Steps for Perfect Pairing: Hook Up Any Computer and Bluetooth Speaker Together</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/frontiers-of-ai-technology-exploring-this-seasons-top-five-innovations/"><u>Frontiers of AI Technology: Exploring This Season's Top Five Innovations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-artificial-intelligence-chatbots-revolutionize-the-world-of-content-writing/"><u>How Artificial Intelligence Chatbots Revolutionize the World of Content Writing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-trusted-leaders-in-action-recording-12-gps-capable-models/"><u>In 2024, Trusted Leaders in Action Recording 12 GPS-Capable Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/initiating-journey-into-ai-prompt-development/"><u>Initiating Journey Into AI Prompt Development</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-editing-functions-in-dall-e-potential-and-pitfalls-to-consider/"><u>Introducing Editing Functions in DALL-E Ⅲ: Potential and Pitfalls to Consider</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-ai-conversational-tools-is-googles-bard-superior-to-chatgpt/"><u>Navigating AI Conversational Tools: Is Google's Bard Superior to ChatGPT?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/svitamento-del-limite-geografico-dei-tuoi-dvd-come-diventare-indipendente-dalla-regione-codice/"><u>Svitamento Del Limite Geografico Dei Tuoi DVD: Come Diventare Indipendente Dalla Regione Codice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-twitter-hashtags-insights-from-chatgpt/"><u>Tailoring Twitter Hashtags: Insights From ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-best-of-bard-ai-launched-at-google-io-2023-uncover-the-seven-most-exciting-features-announced/"><u>The Best of BARD AI Launched at Google I/O 2023: Uncover the Seven Most Exciting Features Announced</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-non-macbook-non-lenovo-laptop-for-students-exclusive-testing-review-with-200-discount-revealed/"><u>Top Non-Macbook, Non-Lenovo Laptop for Students: Exclusive Testing Review with $200 Discount Revealed !</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-conversational-ai-on-your-iphone-with-chatgpts-latest-app-release/"><u>Unleash Conversational AI on Your iPhone with ChatGPT's Latest App Release</u></a></li>
+</ul></div>
 

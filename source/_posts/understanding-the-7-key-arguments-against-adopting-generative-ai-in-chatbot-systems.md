@@ -1,7 +1,7 @@
 ---
 title: Understanding the 7 Key Arguments Against Adopting Generative AI in Chatbot Systems
-date: 2024-12-24T07:11:21.197Z
-updated: 2024-12-29T08:48:21.630Z
+date: 2025-01-06T20:39:54.214Z
+updated: 2025-01-08T01:38:05.991Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Google's Gemini AI Model?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#what-is-google-39-s-gemini-ai-model)
@@ -28,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 * [Is Gemini Better than ChatGPT?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#is-gemini-better-than-chatgpt)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -67,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
  When any new AI model is launched, it is tested against OpenAI's GPT AI models, which are generally accepted as the state-of-the-art model other models should be held up against. So, using Bard and ChatGPT, we tested Gemini's ability in math, creative writing, code generation, and accurately processing image inputs.
@@ -80,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
  Bard went first. We repeated the question twice, all coming back with wrong answers. We did get the answer on the third attempt, but that doesn't count.
 
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
@@ -98,12 +94,16 @@ Here's the source screenshot.
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
@@ -113,15 +113,15 @@ Here's the source screenshot.
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Gemini Better than ChatGPT?
 
@@ -144,16 +144,24 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-hp-and-chromebook-guide-to-live-video-capture/"><u>[New] 2024 Approved HP & Chromebook Guide to Live Video Capture</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-pioneering-virtual-realities-in-live-video-feeds/"><u>[New] 2024 Approved Pioneering Virtual Realities in Live Video Feeds</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-swirl-device-set/"><u>[Updated] 2024 Approved Swirl Device Set</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-dji-phantom-3-the-pro-drone-experience-explored/"><u>[Updated] DJI Phantom 3 The Pro Drone Experience Explored</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enabled-personalized-experience/"><u>Cookiebot-Enabled Personalized Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-potential-threats-of-advanced-ai-technology/"><u>Exploring the Potential Threats of Advanced AI Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/future-prospects-of-generative-ai-and-advanced-chatbot-innovations-after-chatgpt/"><u>Future Prospects of Generative AI and Advanced Chatbot Innovations After ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generative-machines-potential-for-deception/"><u>Generative Machines: Potential for Deception</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpts-non-modifiable-architecture-an-explanation/"><u>GPT's Non-Modifiable Architecture: An Explanation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gptzero-explained-your-step-by-step-guide-to-recognizing-synthetic-content-online/"><u>GPTZero Explained: Your Step-by-Step Guide to Recognizing Synthetic Content Online</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-art-of-zooming-in-a-videoleap-approach-for-2024/"><u>The Art of Zooming In A Videoleap Approach for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-user-friendly-mac-gadget-visuals-and-voices-recorded/"><u>[New] In 2024, User-Friendly Mac Gadget Visuals & Voices Recorded</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-innovative-text-treatments-elevating-ae-titles/"><u>[New] Innovative Text Treatments Elevating AE Titles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-vloggers-selection-premium-camera-lenses-compared/"><u>[New] The Vlogger's Selection Premium Camera Lenses Compared</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ipad-video-tutorials-for-easy-time-lapses/"><u>[Updated] 2024 Approved IPad Video Tutorials for Easy Time-Lapses</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-demystifying-social-engagement-instagram-stories-surveys/"><u>[Updated] In 2024, Demystifying Social Engagement Instagram Stories Surveys</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-10-audio-amplifiers-for-home-office-setups/"><u>[Updated] Top 10 Audio Amplifiers for Home-Office Setups</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows11macdvd-2024/"><u>【Windows11・Mac用】ダイナミックなDVDコピーソフト比較: 2024年のハイスタンダードランキング</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/handbrake-202/"><u>如何在Handbrake上实现高清画质输出？详解高图质设定方法 - 保存202</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/all-you-need-to-know-exploring-the-full-spectrum-of-iphone-6-specifications-capabilities-customization-options-and-media-support/"><u>All You Need to Know: Exploring the Full Spectrum of iPhone 6 Specifications, Capabilities, Customization Options & Media Support</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/cyberspace-liberation-overthrowing-hacks-on-facebook/"><u>Cyberspace Liberation Overthrowing Hacks on Facebook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-now-updated-and-enhanced-macx-pro-for-complimentary-use/"><u>Download Now: Updated and Enhanced MacX Pro for Complimentary Use</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/future-of-smartphones-all-you-need-to-know-about-the-new-foldable-iphone-specs-and-release-info/"><u>Future of Smartphones? All You Need to Know About the New Foldable iPhone Specs and Release Info</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/gratuit-konvertisseren-van-flac-naar-mp3-online-met-movavi-vrije-dienst/"><u>Gratuit Konvertisseren Van FLAC Naar MP3 Online Met Movavi - Vrije Dienst</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-rip-a-dvd-using-vlc-media-player-on-mac-and-windows-systems/"><u>How to Rip a DVD Using VLC Media Player on Mac and Windows Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macmacx-dvd2/"><u>Mac用変換ソフトスイート・MacXバリュープラン: DVD/動画変換ツール2種類で割引提供中</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macx-dvd-to-itunes-conversion-suite-convert-your-videos-into-idevice-ready-formats-with-ease/"><u>MacX DVD to iTunes Conversion Suite - Convert Your Videos Into iDevice-Ready Formats with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-hassle-free-mediacoder-substitutes-for-mac-users-effortless-video-conversion-tools/"><u>Top Hassle-Free MediaCoder Substitutes for Mac Users: Effortless Video Conversion Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-troubleshooting-bluetooth-connection-issues-on-windows-11-2024-edition/"><u>Ultimate Guide: Troubleshooting Bluetooth Connection Issues on Windows 11 - 2024 Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-mac-recording-tool-for-gamers-how-to-choose-the-best-app-for-video-and-audio-captures/"><u>Ultimate Mac Recording Tool for Gamers: How to Choose the Best App for Video & Audio Captures</u></a></li>
 </ul></div>
 

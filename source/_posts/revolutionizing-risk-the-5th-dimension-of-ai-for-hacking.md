@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Risk: The 5Th Dimension of AI for Hacking"
-date: 2024-12-22T01:18:43.608Z
-updated: 2024-12-28T21:00:22.318Z
+date: 2025-01-01T17:58:55.249Z
+updated: 2025-01-07T23:47:38.685Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://getlyla.pxf.io/ek9gkg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Access the GPT Store
 
  Access and use of the new GPT Store [requires a ChatGPT subscription](http://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Only users with ChatGPT Plus, ChatGPT Teams, or ChatGPT Enterprise accounts will be able to use the store's catalog of custom GPTs. You also need a ChatGPT subscription if you want to [create your own custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/).
@@ -57,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
  How do you know when you've been granted access?
 
  On the left sidebar of the ChatGPT interface, you should see **Explore GPTs** instead of simply **Explore**. Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Find the Best Custom GPTs in the GPT Store
 
@@ -72,21 +64,29 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click **Keep in sidebar**. This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
@@ -113,21 +113,24 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-a-list-ps3-mimicry-software-on-pcs-ranked-1-5/"><u>[New] A-List PS3 Mimicry Software on PCs, Ranked #1-5</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-how-to-record-and-edit-video-using-the-adobe-connect/"><u>[New] In 2024, How to Record and Edit Video Using the Adobe Connect</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/rganizing-elements-for-dynamic-youtube-videos/"><u>[New] Organizing Elements for Dynamic YouTube Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-mastery-of-text-effects-best-practices-in-ae/"><u>[Updated] 2024 Approved Mastery of Text Effects Best Practices in AE</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-enhance-your-ios-experience-with-ps2-emulators/"><u>[Updated] Enhance Your IOS Experience with PS2 Emulators</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-quick-quality-edits-the-ultimate-guide-to-pixlr-for-2024/"><u>[Updated] Quick, Quality Edits The Ultimate Guide to Pixlr for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebooks-premier-10-music-clip-showcase/"><u>2024 Approved Facebook's Premier 10 Music Clip Showcase</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ace-your-savings-with-microsofts-student-pricing-strategies/"><u>Ace Your Savings with Microsoft's Student Pricing Strategies!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-chatgpt-control-your-smart-home/"><u>Can ChatGPT Control Your Smart Home?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-you-trust-ai-detectors-unveiling-the-truth-with-four-examples-including-zerogpt/"><u>Can You Trust AI Detectors? Unveiling the Truth with Four Examples (Including ZeroGPT)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-personal-chef-helper-discover-these-7-cooking-hacks/"><u>ChatGPT as Your Personal Chef Helper: Discover These 7 Cooking Hacks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-desktop-version-is-coming-soon-want-a-great-free-alternative/"><u>ChatGPT's Desktop Version Is Coming Soon, Want a Great Free Alternative?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/coding-showdown-can-chatgpt-outperform-gemini-in-the-world-of-programming/"><u>Coding Showdown: Can ChatGPT Outperform Gemini in the World of Programming?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-fixes-for-not-found-or-lost-dnssddll-on-your-computer/"><u>Comprehensive Fixes for Not Found or Lost DNSSD.DLL on Your Computer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/customizing-chatgpt-with-your-own-ai-a-step-by-step-guide/"><u>Customizing ChatGPT with Your Own AI: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-ais-enigma-assessing-inherent-risks-for-society/"><u>Deciphering AI's Enigma: Assessing Inherent Risks for Society</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-15-must-use-gaming-tags-for-skyrocketing-views-on-youtube/"><u>[Updated] Top 15 Must-Use Gaming Tags for Skyrocketing Views on YouTube</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-12-pro-max-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 12 Pro Max in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-masterpieces-at-your-fingertips-how-to-merge-dall-e-and-chatgpt-4-capabilities/"><u>AI Masterpieces at Your Fingertips: How to Merge DALL-E and ChatGPT-4 Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-troubleshooting-for-chatgpt-not-connecting-to-plugin-service-issues/"><u>Comprehensive Troubleshooting for 'ChatGPT Not Connecting to Plugin Service' Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/coupevideo-premium-la-solution-la-plus-econome-en-ressources-pour-supprimer-les-passages-inutiles-dans-vos-fichiers-videos-sous-windows-et-macos/"><u>Coupevidéo Premium : La Solution La Plus Économe en Ressources Pour Supprimer Les Passages Inutiles Dans Vos Fichiers Vidéos Sous Windows Et macOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-novice-to-expert-the-gpt-4-influence-on-diy/"><u>From Novice to Expert: The GPT-4 Influence on DIY</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guia-simple-para-transformar-archivos-de-codificacion-hevc-en-mp4-sin-degradacion-visual/"><u>Guía Simple Para Transformar Archivos De Codificación HEVC en MP4 Sin Degradación Visual</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-m54-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy M54 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-v29-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo V29? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-transfer-learning-empower-ai-an-intuitive-approach/"><u>How Does Transfer Learning Empower AI? An Intuitive Approach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-reliable-is-chatgpt-when-proofreading-written-content/"><u>How Reliable Is ChatGPT When Proofreading Written Content?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-journey-towards-facebooks-premium-verified-emblem/"><u>In 2024, Journey Towards Facebook's Premium Verified Emblem</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/insiders-pick-of-advanced-audio-software-a-vtubers-guide-for-2024/"><u>Insider's Pick of Advanced Audio Software A Vtuber's Guide for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-the-classic-turing-test-still-relevant-discover-5-innovative-alternatives-in-ai-evaluation/"><u>Is the Classic Turing Test Still Relevant? Discover 5 Innovative Alternatives in AI Evaluation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-amd-ryzen-5-2500u-driver-installation-quick-easy-and-effective-steps/"><u>Latest AMD Ryzen 5 2500U Driver Installation: Quick, Easy & Effective Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/prevent-ai-data-collection-onsite/"><u>Prevent AI Data Collection Onsite</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-great-linguistic-race-analyzing-distinctive-characteristics-of-gpt-versus-bert-models/"><u>The Great Linguistic Race: Analyzing Distinctive Characteristics of GPT versus BERT Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unpacking-the-call-for-enhanced-ai-supervision-by-openais-ceo-consequences-and-interpretations/"><u>Unpacking the Call for Enhanced AI Supervision by OpenAI’s CEO – Consequences & Interpretations</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-14-plus-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 14 Plus? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

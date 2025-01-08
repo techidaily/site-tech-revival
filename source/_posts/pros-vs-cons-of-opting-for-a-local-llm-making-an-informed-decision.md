@@ -1,7 +1,7 @@
 ---
 title: Pros Vs. Cons of Opting for a Local LLM – Making an Informed Decision
-date: 2024-12-25T03:12:23.624Z
-updated: 2024-12-28T19:25:34.996Z
+date: 2025-01-04T23:28:24.526Z
+updated: 2025-01-08T01:15:52.518Z
 tags:
   - chatgpt
   - open-ai
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Potential Risks of Generative AI to Spread Disinformation
@@ -42,9 +42,17 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -56,14 +64,10 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -78,7 +82,7 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -108,10 +112,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
@@ -133,22 +133,18 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-examining-usb-type-cs-impact-on-modern-display-technology/"><u>[New] 2024 Approved Examining USB Type-C's Impact on Modern Display Technology</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-curate-a-perfect-playlist-on-youtube-a-step-by-step-guide/"><u>[Updated] 2024 Approved Curate a Perfect Playlist on YouTube A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-music-live-streaming-services/"><u>[Updated] Best Music Live Streaming Services</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-depth-app-insights-the-az-reporters-cut/"><u>[Updated] In-Depth App Insights - The AZ Reporter's Cut</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5-unknown-power-ups-in-chatgpt-to-supercharge-your-tasks/"><u>5 Unknown Power-Ups in ChatGPT to Supercharge Your Tasks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-step-by-step-guide-to-building-effective-user-personas-with-chatgpt/"><u>A Step-by-Step Guide to Building Effective User Personas with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ace-excel-management-with-chatgpt-overcoming-common-spreadsheet-concerns-made-simple/"><u>Ace Excel Management with ChatGPT - Overcoming Common Spreadsheet Concerns Made Simple</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advance-your-scholarly-work-with-ai-explore-four-key-techniques-for-improvement/"><u>Advance Your Scholarly Work with AI: Explore Four Key Techniques for Improvement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-powered-muse-revolution-the-best-idea-sources-alive/"><u>AI-Powered Muse Revolution: The Best Idea Sources Alive</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/are-there-warning-signs-that-openais-oversight-of-chatgpt-is-faltering/"><u>Are There Warning Signs That OpenAI's Oversight of ChatGPT Is Faltering?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-llms-five-essential-considerations-when-assessing-chatgpts-use-in-crypto-trading/"><u>Beyond LLMs: Five Essential Considerations When Assessing ChatGPT's Use in Crypto Trading</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/brainpower-battlegrounds-gpt-and-google-bard-collide/"><u>Brainpower Battlegrounds: GPT & Google Bard Collide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-complete-handbook-to-securing-product-sponsorships-on-youtube/"><u>In 2024, The Complete Handbook to Securing Product Sponsorships on Youtube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-components-that-lift-you-in-youtube-viewership/"><u>In 2024, The Components That Lift You in YouTube Viewership</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-video-capabilities-dslr-or-mirrorless/"><u>In 2024, Unveiling Video Capabilities DSLR or Mirrorless?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/quickcapture-stopping-and-saving-screen-moments-for-2024/"><u>QuickCapture Stopping & Saving Screen Moments for 2024</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/windows-11outlook/"><u>Windows 11におけるメールクライアントOutlookの起動不能対策: 改善方法</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-lightweight-realities-googles-cardboard-and-samsung-gear-vr-for-2024/"><u>[Updated] Lightweight Realities Google’s Cardboard and Samsung Gear VR for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-screen-recording-made-simple-5-essential-strategies-for-minecraft-mac-for-2024/"><u>[Updated] Screen Recording Made Simple 5 Essential Strategies for Minecraft (Mac) for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-remote-dimension-tuning-and-editing/"><u>2024 Approved Remote Dimension Tuning and Editing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/discovering-triller-a-platform-beyond-traditional-tiktok/"><u>Discovering Triller A Platform Beyond Traditional TikTok</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/five-strategies-for-protecting-children-when-engaging-with-chatgpt-online/"><u>Five Strategies for Protecting Children When Engaging with ChatGPT Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-tell-if-youve-landed-on-a-fraudulent-chatgpt-site-recognition-and-response-strategies-for-internet-safety/"><u>How To Tell If You've Landed on a Fraudulent ChatGPT Site - Recognition and Response Strategies for Internet Safety</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-tips-for-game-recording-on-windows-11/"><u>In 2024, Essential Tips for Game-Recording on Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-14-plus-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 14 Plus to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-whats-going-wrong-sideways-videos-on-instagram/"><u>In 2024, What's Going Wrong Sideways Videos on Instagram</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/security-protocol-evaluation-how-secure-is-chatgpt/"><u>Security Protocol Evaluation: How Secure Is ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-next-leader-in-content-creation-notion-ai-or-chatgpt/"><u>The Next Leader in Content Creation: Notion AI or ChatGPT</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/wasteland-2-directors-cut-critique-immersive-and-engaging-roleplaying-game-masterpiece/"><u>Wasteland 2 Director's Cut Critique: Immersive and Engaging Roleplaying Game Masterpiece</u></a></li>
 </ul></div>
 

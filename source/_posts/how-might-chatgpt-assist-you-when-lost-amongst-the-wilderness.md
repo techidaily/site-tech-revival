@@ -1,7 +1,7 @@
 ---
 title: How Might ChatGPT Assist You When Lost Amongst the Wilderness?
-date: 2024-09-05T12:43:56.513Z
-updated: 2024-09-06T12:43:56.513Z
+date: 2024-12-31T22:10:45.017Z
+updated: 2025-01-07T22:24:36.462Z
 tags:
   - chatgpt
   - open-ai
@@ -21,16 +21,14 @@ thumbnail: https://thmb.techidaily.com/928ac16090104434fd8fc2700fac25541eeec6a66
 
  Links have not been provided for each custom GPT because the documents uploaded as a knowledge base contain private information. However, you can still take the title and outline and make each idea your own, with your own private information. Just be careful if you share any custom GPTs, as you may accidentally grant access to sensitive information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Resume and Cover Letter Creator
 
 ![Screenshot of Custom GPT Resume Maestro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/resume-maestro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  I built a custom GPT called "Resume Maestro." Once it receives a job post description, it immediately comes up with a resume with the right professional details included. It captures everything from names and contact details to work experience, educational history, and achievements. It also writes a cover letter that isn't just tailored to the job post but also aligns with personal experiences relevant to the job. Better still, its output is immediately available for download as a PDF or Word file, all under ten seconds.
 
  How did I do it? I uploaded dozens of resumes and cover letters written in the past. I also added resources on writing the perfect cover letters and resumes. This was topped off by providing links to my portfolios and uploading samples of high-performing cover letters and resumes I found online. The result? My personal resume expert that spits out resumes and cover letters akin to what I'd write.
@@ -39,76 +37,44 @@ thumbnail: https://thmb.techidaily.com/928ac16090104434fd8fc2700fac25541eeec6a66
 
  Here's a guide on[how to create your first custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) if you're not sure how to.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Translation Tool
 
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the weeks following ChatGPT's release, we tested[ChatGPT's ability to translate text compared to Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/) . While Google's translation tool performed admirably against the massive power that is ChatGPT, it struggled with certain languages like Pidgin English, a widely spoken Creole in parts of West Africa. Although ChatGPT was better in this aspect, it also struggled as well.
 
  To improve translation capabilities for Pidgin, I created a custom GPT for Pidgin translation. How? I fed it dozens of expert Pidgin dictionaries and linguistic resources. After re-testing ChatGPT against Google Translate on Pidgin text, the results were striking—ChatGPT significantly outperformed Google Translate by nearly all metrics. This example highlights the power of building custom GPTs for specific translation tasks, irrespective of language. With the right training data, these customized chatbots can surpass even the best general translation tools. Fancy playing around with Pidgin?
 
 **Try this GPT:** [Pidgin Hero](https://chat.openai.com/g/g-CcgN0HIuC-pidgin-hero) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Programming Project Assistant
 
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It is no news that[ChatGPT can write code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) . It could write code since the days of GPT-3.5 and has improved significantly with the arrival of GPT-4 and the GPT-4 Turbo. However, although the chatbot is quite adept at solving programming problems, it doesn't perform particularly well within the context of a single project since it has a limited context window and cannot soak up all the details of a project to provide a context-specific solution.
 
  You can deploy custom GPTs to solve this problem. Simply prompt the chatbot to create a specialized GPT that focuses on the programming languages used in your project, then upload your entire project files, including a detailed description of what you're trying to build. Whenever you run into a problem with the project, prompt the GPTs, and you'll get a much more precise and relevant solution than you'd get from your regular ChatGPT.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Personal Movie Recommender
 
 ![movie recommender Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/movie-recommender-custom-gpt.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Let's be honest, Netflix can be horrible at suggesting what to watch next. I asked classic ChatGPT to recommend some historical Korean TV shows. I wanted shows with themes of power, royalty, heroism, and war. The result was a mixed bag. Some options were strong, while others seemed randomly selected based on popularity rather than relevance.
 
  Of course, I built a custom K-Drama GPT by uploading several lists and reviews of the best Korean TV shows online. I also uploaded a small text file of what I love to see in Korean TV shows. When queried, this tailored GPT provided targeted drama suggestions that precisely matched my request—complex power dynamics, royal intrigue, bold heroes, and military conflicts. The difference was night and day. If historical K-dramas are your favorite genre, you can try out my K-Drama GPT.
@@ -119,12 +85,6 @@ thumbnail: https://thmb.techidaily.com/928ac16090104434fd8fc2700fac25541eeec6a66
 
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Another very exciting use case for GPTs is creating games. You can bring almost any text and image-based games you can think of into reality. You can program, modify the rules, and play games like Tic-Tac-Toe, Hangman, Word Ladder, and more. We've previously created a list of simple but[interesting games you can play with ChatGPT](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/) . You can spice those games up by invoking the DALL-E image creator to create scenery and characters on the go.
 
  We tried several RPG games with GPTs, which were impressive and immersive. Coming up with the rules can be a bit tedious, but you'll find several sites dedicated to creating prompts for RPG games on ChatGPT. A good example is[RPG Prompts](http://www.rpgprompts.com/) ; you'll find dozens of interesting RPG prompts you can use to kickstart your RPG experience on ChatGPT.
@@ -147,12 +107,6 @@ thumbnail: https://thmb.techidaily.com/928ac16090104434fd8fc2700fac25541eeec6a66
 
 **Try this GPT** :[Abstract Math Genius](https://chat.openai.com/g/g-wFmBbvdm0-abstract-math-genius) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Niche Tools for Work
 
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)
@@ -171,14 +125,11 @@ thumbnail: https://thmb.techidaily.com/928ac16090104434fd8fc2700fac25541eeec6a66
 
  While Custom GPTs are still in their infancy, early examples provide a glimpse of their potential. As the technology matures, it will become an indispensable tool. With good data and clear objectives, our programmable companions can solve problems we never dreamed AI could handle. So don't just use ChatGPT as-is—start building your own custom GPTs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -187,4 +138,24 @@ thumbnail: https://thmb.techidaily.com/928ac16090104434fd8fc2700fac25541eeec6a66
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-alternatives.techidaily.com/comment-recuperer-des-videos-supprimees-dun-support-usb-3-techniques-infaillibles/"><u>« Comment Récupérer Des Vidéos Supprimées D'un Support USB : 3 Techniques Infaillibles »</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-boost-engagement-with-clearly-marked-time-points/"><u>[Updated] Boost Engagement with Clearly Marked Time Points</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-instant-recording-audio-enriched-screens/"><u>[Updated] Instant Recording Audio-Enriched Screens</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unleash-bright-potential-in-your-android-videos-for-2024/"><u>[Updated] Unleash Bright Potential in Your Android Videos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavi3gpavi/"><u>無限瀑布：移動影片用Movavi優惠地進行3GP到AVI的網上格式轉換</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-childrenn-alarm-clock-review-discover-miraris-reliable-ok-to-wake-option/"><u>Best Children'n Alarm Clock Review: Discover Mirari's Reliable Ok to Wake Option</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/creating-accessible-multilingual-content-on-igtv/"><u>Creating Accessible Multilingual Content on IGTV</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolved-fixing-delay-issues-with-your-wireless-keyboard-in-windows/"><u>Resolved: Fixing Delay Issues with Your Wireless Keyboard in Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/risks-of-using-arctics-third-generation-ln2-coolers-with-intel-processors-custom-frame-required-warranty-may-be-compromised/"><u>Risks of Using Arctic's Third Generation LN2 Coolers with Intel Processors: Custom Frame Required, Warranty May Be Compromised</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-display-setup-transferring-your-screen-from-laptop-to-tv-over-hdmi-with-illustrative-pictures/"><u>Seamless Display Setup: Transferring Your Screen From Laptop to TV over HDMI [With Illustrative Pictures]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solution-steps-for-preventing-your-pc-from-staying-up-on-windows-11/"><u>Solution Steps for Preventing Your PC From Staying Up on Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/step-by-step-guide-to-bordering-instagram-footage-for-2024/"><u>Step-by-Step Guide to Bordering Instagram Footage for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-installing-epson-printer-drivers-on-windows-11/"><u>Step-by-Step Guide: Installing Epson Printer Drivers on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-linking-your-printer-with-windows-1/"><u>Step-by-Step Guide: Linking Your Printer with Windows 1^</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-wiring-your-laptop-with-an-external-monitor-or-projector/"><u>Step-by-Step Guide: Wiring Your Laptop with an External Monitor or Projector</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-on-linking-a-logitech-bluetooth-keyboard/"><u>Step-by-Step Instructions on Linking a Logitech Bluetooth Keyboard</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-modifying-display-options-in-windows-11/"><u>Step-by-Step Tutorial on Modifying Display Options in Windows 11</u></a></li>
+</ul></div>
 

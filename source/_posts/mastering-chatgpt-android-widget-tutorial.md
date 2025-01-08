@@ -1,7 +1,7 @@
 ---
 title: "Mastering ChatGPT: Android Widget Tutorial"
-date: 2024-09-01T19:16:47.628Z
-updated: 2024-09-02T19:16:47.628Z
+date: 2025-01-04T01:11:20.154Z
+updated: 2025-01-07T23:01:19.479Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/0c878b30db98d758dc708e36a3a1a79c906ed9e88
 
  The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The[ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to[totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/0c878b30db98d758dc708e36a3a1a79c906ed9e88
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
  The Bing app has a whole new look, and perhaps the most interesting part is that it now supports voice to help make your prompts and searches even more intuitive.
@@ -34,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/0c878b30db98d758dc708e36a3a1a79c906ed9e88
  You get started by tapping the Bing icon at the bottom of the screen to begin a chat session. Your responses come in the form of text, bullet points, or simple replies, and you can use it for more than just search.[Microsoft suggests](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/) you might use it to write emails or poems, for example.
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Skype Gets AI Features
 
@@ -44,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/0c878b30db98d758dc708e36a3a1a79c906ed9e88
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to[join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -57,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/0c878b30db98d758dc708e36a3a1a79c906ed9e88
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -67,14 +81,11 @@ thumbnail: https://thmb.techidaily.com/0c878b30db98d758dc708e36a3a1a79c906ed9e88
 
  And in its mobile form, it is still very much a search tool, so is not something that's going to be replacing Google Assistant, Siri, Bixby, or any other voice assistant any time soon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -83,4 +94,21 @@ thumbnail: https://thmb.techidaily.com/0c878b30db98d758dc708e36a3a1a79c906ed9e88
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-gazescope-grading-guide-for-2024/"><u>[New] GazeScope Grading Guide for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-top-funny-image-makers-for-ios-and-android-users/"><u>[New] In 2024, Top Funny Image Makers for iOS and Android Users</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-art-of-rebranding-online-expert-tips-for-transforming-your-tiktok-username/"><u>[New] The Art of Rebranding Online Expert Tips for Transforming Your TikTok Username</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-flavorful-frontier-groundbrenant-title-strategies-for-food-networks/"><u>[Updated] Flavorful Frontier Groundbrenant Title Strategies for Food Networks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-pro-tips-for-pioneering-board-use-in-webinars-android-iphone-and-windows-users/"><u>[Updated] Pro Tips for Pioneering Board Use in Webinars Android, iPhone & Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/combatting-generative-ai-threats-to-original-art-through-nightshade-strategies/"><u>Combatting Generative AI Threats to Original Art Through Nightshade Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-how-to-access-chatgpt-on-ios-devices-with-their-latest-app-release/"><u>Explore How to Access ChatGPT on iOS Devices with Their Latest App Release</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-regain-file-viewer-rights-in-windows-1011/"><u>How to Regain File Viewer Rights in Windows 10/11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-online-marketplaces-for-ai-content-creation/"><u>Leading Online Marketplaces for AI Content Creation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-class-on-the-fugetek-ft-568-an-outstanding-durable-selection-of-premium-selfie-support-devices/"><u>Master Class on the Fugetek FT-568: An Outstanding, Durable Selection of Premium Selfie Support Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-best-of-ice-artistry-2022-edition/"><u>The Best of Ice Artistry 2022 Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-advanced-capabilities-in-chatgpt-tutorial-for-beta-web-navigation-tools/"><u>Unlocking Advanced Capabilities in ChatGPT: Tutorial for Beta Web Navigation Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-truth-behind-ai-delusions-strategies-to-spot-faulty-data-interpretation/"><u>Unveiling the Truth Behind AI Delusions: Strategies to Spot Faulty Data Interpretation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-are-new-sign-ups-closed-for-chatgpt-insights-and-expected-reopening-dates/"><u>Why Are New Sign-Ups Closed for ChatGPT? Insights and Expected Reopening Dates</u></a></li>
+</ul></div>
 

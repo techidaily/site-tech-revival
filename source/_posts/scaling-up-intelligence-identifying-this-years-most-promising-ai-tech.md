@@ -1,7 +1,7 @@
 ---
 title: "Scaling Up Intelligence: Identifying This Year's Most Promising AI Tech"
-date: 2024-12-24T17:23:57.119Z
-updated: 2024-12-29T08:27:41.324Z
+date: 2025-01-06T20:49:05.762Z
+updated: 2025-01-07T17:37:19.523Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Bing Chat and ChatGPT
 
  The first difference between Bing Chat and ChatGPT is in how you access each tool.
@@ -40,16 +36,12 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
 ![Screenshot of New Bing Introduction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-new-bing-introduction.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The process with ChatGPT is even simpler. First, you will need to create an[OpenAI](https://chat.openai.com/auth/login) account. Once created, you can use ChatGPT from any supported browser. This multi-browser compatibility marks the first notable difference. Bing Chat does offer a form of multi-browser support but with limited functionality.
 
 ![Screenshot of ChatGPT home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-home-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Comparing the Language Models of Bing Chat and ChatGPT
@@ -71,7 +63,7 @@ For example, below is Bing Chat's effort at a simple limerick.
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Safety
@@ -82,11 +74,19 @@ For example, below is Bing Chat's effort at a simple limerick.
 
  The ability to process image data is also a new feature in GPT-4\. However, this feature currently isn't integrated into Bing Chat, so it isn't covered here. The other major difference is the accuracy of the response. This is covered next.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Accurate Are Bing Chat and ChatGPT
 
  Both platforms go to pains to make users aware that the models may generate responses that contain incorrect information. This is clearly displayed on both interfaces.
 
 ![Screenshot of GPT limitations for bin and chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-gpt-limitations-for-bin-and-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Bing Chat has a distinct advantage here. The GPT-4 model has the twin advantages of access to more recent data and multiple sources of information. By contrast, the GPT-3.5/GPT-4 dataset was cut off at the end of 2021, and though it has received some topical updates, it is limited.
 
@@ -95,7 +95,7 @@ For example, below is Bing Chat's effort at a simple limerick.
 ![Screenshot of Plastic Recycling Stats from Bing Chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-plastic-recycling-stats-from-bing-chat.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The response supplied figures as well as links to the sources from which the data was retrieved. However, the inclusion of US plastic exports was slightly out of context with the question. We would hesitate to call this a glitch, but it does show AI's tendency to wander off-topic at times.
@@ -103,10 +103,6 @@ For example, below is Bing Chat's effort at a simple limerick.
 By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of ChatGPT response to recycling question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-recycling-question.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
 
@@ -125,6 +121,10 @@ By contrast, the ChatGPT response was to admit its limitations.
  As you can see, the response included links to the listed websites. Compare this to the ChatGPT response:
 
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Is Best: Bing Chat or Chat GPT?
 
@@ -163,20 +163,24 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-effortlessly-stream-mp3-to-youtube-with-3-key-steps-for-2024/"><u>[New] Effortlessly Stream MP3 to YouTube with 3 Key Steps for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-duel-of-the-titans-gopro-hero-5-vs-nikon-km-170/"><u>[Updated] Duel of the Titans GoPro Hero 5 VS Nikon KM-170</u></a></li>
-<li><a href="https://win-latest.techidaily.com/despejando-confusiones-tacticas-efectivas-para-arreglar-errores-en-el-reinicio-de-windows-11/"><u>Despejando Confusiones: Tácticas Efectivas Para Arreglar Errores en El Reinicio De Windows 11</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/how-to-enable-or-modify-the-boot-options-in-an-acer-computers-boot-menu/"><u>How to Enable or Modify the Boot Options in an Acer Computer's Boot Menu</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Xiaomi Redmi Note 12 Pro 4G</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/synchronizing-dates-with-visual-memories/"><u>Synchronizing Dates with Visual Memories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-7-unspoken-problems-of-generative-ai-in-text-communication/"><u>The 7 Unspoken Problems of Generative AI in Text Communication</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/the-best-watermark-free-video-joining-software-for-you-for-2024/"><u>The Best Watermark-Free Video Joining Software for You for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-image-ai-production-with-dall-e-and-gpt-4-integration/"><u>The Ultimate Guide to Image AI Production with DALL-E and GPT-4 Integration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-integration-methods-enhancing-vs-code-with-chatgpt/"><u>Top 10 Integration Methods: Enhancing VS Code with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/turings-challenge-the-quest-for-ai-superiority/"><u>Turing's Challenge: The Quest for AI Superiority</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-artificnial-intelligence-insights-and-potential-risks/"><u>Understanding Artificnial Intelligence: Insights & Potential Risks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-chatgpt-top-5-strategies-to-utilize-it-without-signing-up/"><u>Unlocking ChatGPT: Top 5 Strategies to Utilize It without Signing Up</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-illusion-ai-driven-journeys-from-mundane-to-marvelous/"><u>Unveiling the Illusion: AI-Driven Journeys From Mundane to Marvelous</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-mystery-exploring-who-your-digital-self-interacts-with-insights-on-the-dead-internet-concept/"><u>Unveiling the Mystery: Exploring Who Your Digital Self Interacts With – Insights on the 'Dead Internet' Concept</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ffortless-and-economical-the-best-free-youtube-name-generators/"><u>[New] Effortless & Economical The Best Free YouTube Name Generators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-newbies-manual-to-vector-art-grasping-different-kinds-and-software/"><u>[New] Newbie’s Manual to Vector Art Grasping Different Kinds & Software</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-innovative-approaches-to-video-voiceover-integration/"><u>[Updated] In 2024, Innovative Approaches to Video Voiceover Integration</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unveiling-the-shadows-a-systematic-guide-to-hidden-youtube-content/"><u>[Updated] In 2024, Unveiling the Shadows A Systematic Guide to Hidden YouTube Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-the-world-of-android-video-snapshots-for-2024/"><u>[Updated] Navigating the World of Android Video Snapshots for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-free-dvd-players-for-pc-and-mac-download-guide-and-comparison-review/"><u>Best Free DVD Players for PC and Mac - Download Guide & Comparison Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/commemorating-18-years-of-innovation-digiartys-exclusive-limited-edition-collection/"><u>Commemorating 18 Years of Innovation - DigiArty's Exclusive Limited Edition Collection</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-solution-for-bcm2045a0-driver-errors-get-back-to-work-in-no-time/"><u>Easy Solution for BCM2045A0 Driver Errors - Get Back to Work in No Time!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-guide-to-watching-your-favorite-movies-dvd-compatibility-with-ipad-models/"><u>Effortless Guide to Watching Your Favorite Movies - DVD Compatibility with iPad Models</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-the-influence-of-luts-on-digital-imagery-quality/"><u>Exploring the Influence of LUTs on Digital Imagery Quality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fastest-mac-compatible-iphone-dvd-ripper-quick-and-easy-conversion-of-dvds-to-iphones/"><u>Fastest Mac-Compatible iPhone DVD Ripper: Quick & Easy Conversion of DVDs to iPhones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-downloads-top-tamil-and-telugu-films-in-ultra-high-definition-uhd-quality/"><u>Free Downloads: Top Tamil and Telugu Films in Ultra High Definition (UHD) Quality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-showbox-downloads-get-the-app-on-mac-iphone-and-ipad/"><u>Free ShowBox Downloads: Get the App on Mac, iPhone & iPad</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-your-copy-the-ultimate-free-download-guide-for-the-mtvmovieandtelevisionawards2022/"><u>Get Your Copy: The Ultimate Free Download Guide for the #MTVMovieAndTelevisionAwards_2022</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oneplus-11r-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked OnePlus 11R Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-the-hevc-standard-impacts-quality-and-efficiency-of-4k8k-streaming-content/"><u>How the HEVC Standard Impacts Quality and Efficiency of 4K/8K Streaming Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-become-a-pro-at-utilizing-zoom-for-windows-11-users/"><u>In 2024, Become a Pro at Utilizing Zoom for Windows 11 Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/professionelle-workout-dvds-fur-die-optimale-gesundheit-die-beliebtesten-empfehlungen-von-experten/"><u>Professionelle Workout-DVDs Für Die Optimale Gesundheit - Die Beliebtesten Empfehlungen Von Experten</u></a></li>
 </ul></div>
 

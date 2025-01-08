@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Generative AI: Understanding Its Essence"
-date: 2024-12-22T07:40:06.566Z
-updated: 2024-12-28T16:21:40.843Z
+date: 2025-01-01T01:31:06.618Z
+updated: 2025-01-07T18:26:05.901Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 * [Should You Upgrade to Copilot Pro?](https://www.makeuseof.com/copilot-vs-copilot-pro/#should-you-upgrade-to-copilot-pro)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
  And you'll be very pleased to hear that isn't changing any time soon—but Microsoft is rolling out Copilot Pro, a new subscription model for its free AI companion, featuring new capabilities, custom GPT support, and deeper integration into its Microsoft 365 suite.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Copilot Pro?
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
  All in all, Microsoft wants Copilot Pro to be "a single AI experience that runs across your devices," providing a unified AI tool that's familiar with every bit of software you use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Much Does Copilot Pro Cost?
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, given the extensive number of free features Copilot has, I don't expect many folks will be disappointed. Deeper integration with Microsoft 365 is great if you use those tools, but if you're using Copilot as an enhanced internet search engine, these updates won't mean much to you.
@@ -106,22 +106,22 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-photo-cinematic-conversions-sonic-enhancements/"><u>[New] 2024 Approved Photo Cinematic Conversions Sonic Enhancements</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-streamlining-youtube-content-onto-insta-feed/"><u>[New] Streamlining YouTube Content Onto Insta Feed</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-13-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 13 to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-generative-ai-successfully-the-7-blunders-you-must-dodge/"><u>Navigating Generative AI Successfully: The 7 Blunders You Must Dodge</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-modern-life-top-9-tips-from-chatgpt-experts/"><u>Navigating Modern Life: Top 9 Tips From ChatGPT Experts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/next-gen-ai-methods-elevating-web-search-standards/"><u>Next-Gen AI Methods Elevating Web Search Standards</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/potential-outcomes-of-the-collaboration-between-microsoft-and-blizzard/"><u>Potential Outcomes of the Collaboration Between Microsoft and Blizzard</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protecting-privacy-how-not-to-save-conversations-with-chatgpt/"><u>Protecting Privacy: How Not to Save Conversations with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/reimagining-coding-with-non-chatgpt-ai-innovations/"><u>Reimagining Coding with Non-ChatGPT AI Innovations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/scam-or-solution-delving-into-truthgpt-token/"><u>Scam or Solution? Delving Into TruthGPT Token</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-ai-chatting-on-ubuntu-how-to-connect-with-chatgpt-via-shell-command-line-interface/"><u>Seamless AI Chatting on Ubuntu: How to Connect with ChatGPT via Shell Command Line Interface</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-ai-integration-for-windows-systems/"><u>Seamless AI Integration for Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-6-android-time-management-applications-enhance-your-productivity/"><u>Top 6 Android Time Management Applications: Enhance Your Productivity</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/understanding-the-hold-up-continuous-postponement-of-diablo-immortal-on-pcs/"><u>Understanding the Hold-Up: Continuous Postponement of Diablo Immortal on PCs</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-if-you-want-an-app-to-make-videos-with-pictures-and-music-for-social-media-posts-we-are-with-the-best-apps-to-make-videos-with-music-and-pictures-fo/"><u>Updated If You Want an App to Make Videos with Pictures and Music for Social Media Posts, We Are with the Best Apps to Make Videos with Music and Pictures for 2024</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/zdnet-explores-the-newly-unveiled-enterprise-level-chatgpt-by-openai/"><u>ZDNet Explores the Newly Unveiled Enterprise-Level ChatGPT by OpenAI</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-masterful-text-effects-in-adobe-after-effects/"><u>[New] 2024 Approved Masterful Text Effects in Adobe After Effects</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-digital-dollars-in-motion-a-side-by-side-of-vids-vs-videos/"><u>[New] In 2024, Digital Dollars in Motion A Side-by-Side of Vids Vs. Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unveiling-the-most-effective-zoom-recording-tools/"><u>[New] Unveiling the Most Effective Zoom Recording Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-motorola-moto-g73-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-window-11s-task-management-filtering-and-theme-transformation/"><u>Expert Tips for Window 11'S Task Management: Filtering and Theme Transformation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gamify-your-experience-with-chatgpt-check-out-these-6-engaging-titles/"><u>Gamify Your Experience with ChatGPT - Check Out These 6 Engaging Titles!</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-se-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone SE Data Completely | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-navigating-hashtags-for-a-6-figure-view-spike-on-youtube/"><u>In 2024, Navigating Hashtags for a 6-Figure View Spike on YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-googles-newest-innovation-bard-the-revolutionary-ai-set-to-challenge-chatgpt/"><u>Introducing Google's Newest Innovation: Bard, the Revolutionary AI Set to Challenge ChatGPT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-with-manycam-premium-virtual-camera-and-screen-recording-app/"><u>Live Streaming with ManyCam: Premium Virtual Camera and Screen Recording App</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/masterful-error-correction-for-chatgpts-top-6-slip-ups/"><u>Masterful Error Correction for ChatGPT's Top 6 Slip-Ups</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-internet-queries-the-rise-of-microsofts-smart-bing-feature/"><u>Revolutionizing Internet Queries: The Rise of Microsoft's Smart Bing Feature</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/setting-up-and-managing-network-connections-via-windows-control-panel-tutorial-expert-advice-from-yl-software/"><u>Setting Up and Managing Network Connections via Windows Control Panel Tutorial - Expert Advice From YL Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/smart-reading-assistants-discover-your-ideal-books-with-ai-powered-sites/"><u>Smart Reading Assistants: Discover Your Ideal Books with AI-Powered Sites</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dawn-of-truthgpt-and-the-scrutiny-over-mullvad-vpn-by-law-enforcement-your-comprehensive-list-to-top-free-pc-games-and-understanding-mechanical-keyboard20/"><u>The Dawn of TruthGPT and the Scrutiny over Mullvad VPN by Law Enforcement, Your Comprehensive List to Top FREE PC Games & Understanding Mechanical Keyboards Better</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-9-benefits-of-switching-to-chatgpt-plus-now/"><u>Top 9 Benefits of Switching to ChatGPT Plus Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-secrets-of-claude-3-exploring-its-features-and-capabilities/"><u>Unveiling the Secrets of Claude 3: Exploring Its Features and Capabilities</u></a></li>
 </ul></div>
 

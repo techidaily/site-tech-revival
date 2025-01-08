@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Strategy: Implementing Self-Created GPT Calls in Any Conversational AI Setting"
-date: 2024-12-26T17:21:39.625Z
-updated: 2024-12-29T08:55:34.659Z
+date: 2024-12-31T16:22:59.825Z
+updated: 2025-01-08T03:07:30.216Z
 tags:
   - chatgpt
   - open-ai
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are the Differences between Google Bard and Bing Chat?
@@ -62,11 +62,11 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![Screenshot Bard  CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Ease of Use
 
@@ -78,12 +78,16 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We did manage to get a response from Bard by rewording the prompt.
@@ -91,7 +95,7 @@ We did manage to get a response from Bard by rewording the prompt.
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As both platforms are going through rapid development, the user experience will continue to improve.
@@ -105,10 +109,6 @@ We did manage to get a response from Bard by rewording the prompt.
  GPT-4 is a generative model. It generates answers based on the text it's been trained on. By contrast,[LaMDA works differently](https://www.makeuseof.com/what-is-google-lamda-ai/) —it is a discriminative model, meaning it can distinguish between various kinds of text.
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which Is Best for You: Bing Chat or Google Bard?
 
@@ -147,15 +147,17 @@ We did manage to get a response from Bard by rewording the prompt.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-a-cleaner-look-in-your-videos-quickly-and-easily/"><u>[Updated] 2024 Approved Get a Cleaner Look in Your Videos Quickly and Easily</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/between-two-leaders-of-conversational-ai-exploring-the-top-10-differences-between-chatgpt-and-microsofts-bing-bot/"><u>Between Two Leaders of Conversational AI - Exploring the Top 10 Differences Between ChatGPT & Microsoft's Bing Bot</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/build-next-gen-custom-ai/"><u>Build Next-Gen Custom AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-microsofts-language-model-chatgpt-tackle-math-puzzles-successfully/"><u>Can Microsoft's Language Model, ChatGPT, Tackle Math Puzzles Successfully?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-magic-9-lifesaving-tricks-for-everyday-convenience/"><u>ChatGPT Magic - 9 Lifesaving Tricks for Everyday Convenience</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-poco-x5-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Poco X5 to Another | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-more-than-just-likes-decoding-the-secrets-to-youtube-views/"><u>In 2024, More than Just Likes Decoding the Secrets to YouTube Views</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/perfecting-the-chorus-of-visual-content-on-facebook-through-music/"><u>Perfecting the Chorus of Visual Content on Facebook Through Music</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/preserving-excellence-a-step-by-step-process-to-downscale-your-1080p-footage-to-720p-without-quality-loss/"><u>Preserving Excellence: A Step-by-Step Process to Downscale Your 1080P Footage to 지팡사이트하려면 염두에서 생각해보세요720P Without Quality Loss</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-leading-selection-no-cost-outstanding-lut-links/"><u>The Leading Selection No-Cost, Outstanding LUT Links</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-viral-videos-how-to-excel-in-youtubers-music-reactions-for-2024/"><u>[New] Crafting Viral Videos How to Excel in Youtubers' Music Reactions for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1724765944416-dvd/"><u>動画ダビングの詳細: DVDに運ぶたっぷりの方法、解き明かします!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macdvdyoutube-dvd/"><u>完全無料のMac用DVDからYouTubeへの変換ソフトウェア - DVDを多形式で容易にコンバートする方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1724766461936-dvd-vrdvd/"><u>無料でDVD-VR/DVDビデオを動画にする：複数選び自由なコンバータプログラム案内！</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-formulating-engaging-content-excerpts-for-streaming/"><u>In 2024, Formulating Engaging Content Excerpts for Streaming</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-getting-started-with-snapchats-new-spotlight/"><u>In 2024, Getting Started with Snapchat's New Spotlight</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p40-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Itel P40 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-ultimate-guide-to-seamless-snapchat-lens-creation/"><u>In 2024, The Ultimate Guide to Seamless Snapchat Lens Creation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/melodies-of-matrimony-romantic-hits-for-the-big-moment-for-2024/"><u>Melodies of Matrimony Romantic Hits for the Big Moment for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/seamlessly-integrate-pip-on-microsoft-edge/"><u>Seamlessly Integrate PIP on Microsoft Edge</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-distinctions-and-overlaps-between-mp4-and-m4v-file-formats/"><u>Understanding the Distinctions & Overlaps Between MP4 and M4V File Formats</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Art of AI Interaction: Top Tutorials for Commanders"
-date: 2024-12-23T22:02:13.001Z
-updated: 2024-12-29T08:05:05.273Z
+date: 2024-12-31T21:47:44.312Z
+updated: 2025-01-07T23:17:51.608Z
 tags:
   - chatgpt
   - open-ai
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/3bd086f6ddbea0000b61dea6630a396d485fdb4d6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Potential Risks of Generative AI to Spread Disinformation
 
  Generative AI poses many threats to people, like taking away jobs, more surveillance, and cyberattacks. And the[security problems with AI will get even worse](https://www.makeuseof.com/reasons-generative-ai-security-issues-will-worsen/) . But there's another worry: people can use it to spread lies. Deceptive individuals can use generative AI to share fake news through visual, auditory, or textual content.
@@ -42,13 +38,13 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -61,14 +57,10 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -81,6 +73,10 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -88,6 +84,10 @@ Here's the fictitious article that ChatGPT came up with:
  Additionally, political adversaries may use deepfake audio and videos to tarnish the reputation of their opponents, manipulating public sentiment with the help of AI. So[AI-generated deepfakes pose numerous threats in the future](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/) . According to a 2023[Reuters report](https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/) , the rise of AI technology could impact America's 2024 elections. The report highlights the accessibility of tools like Midjourney and DALL-E that can easily create fabricated content and influence people's collective opinions.
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
 
@@ -109,7 +109,7 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -133,17 +133,19 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-android-technique-transpose-digital-media-order-for-2024/"><u>[New] Android Technique Transpose Digital Media Order for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-survivals-tightrope-ranking-the-top-8-zombie-adventures-for-2024/"><u>[New] Survival's Tightrope Ranking the Top 8 Zombie Adventures for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dying-light-optimization-increase-frames-per-second-for-a-smoother-playthrough/"><u>Dying Light Optimization – Increase Frames Per Second for a Smoother Playthrough</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flipped-frames-understanding-instagram-video-orientation-for-2024/"><u>Flipped Frames Understanding Instagram Video Orientation for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-14-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 14 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/perfecting-your-craft-the-role-of-chatgpt-in-freelance-writing-success/"><u>Perfecting Your Craft: The Role of ChatGPT in Freelance Writing Success</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pioneering-artistic-journey-via-microsofts-innovative-imagery-toolkit/"><u>Pioneering Artistic Journey via Microsoft’s Innovative Imagery Toolkit</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/questioning-authority-has-openai-relinquished-supervision-over-chatgpt/"><u>Questioning Authority: Has OpenAI Relinquished Supervision Over ChatGPT?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolving-chatgpt-is-currently-overloaded-on-your-windows-pc/"><u>Resolving 'ChatGPT Is Currently Overloaded' On Your Windows PC</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/step-by-step-guide-fixing-the-internal-error-in-vmware-vcenter/"><u>Step-by-Step Guide: Fixing the 'Internal Error' In VMware vCenter</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-quieting-geforces-visual-flourishes/"><u>Step-By-Step: Quieting GeForce's Visual Flourishes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/uncover-the-power-of-the-dell-g5/"><u>Uncover the Power of the Dell G5</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-battlebuddies-channel-over-a-hundred-friends-in-games/"><u>[New] In 2024, BattleBuddies Channel Over a Hundred Friends in Games</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-are-m1-laptops-setting-the-standard-in-editing-studios/"><u>[Updated] Are M1 Laptops Setting the Standard in Editing Studios?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-optimizing-your-video-capture-with-screencastify/"><u>[Updated] In 2024, Optimizing Your Video Capture with Screencastify</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-your-videos-and-audios-with-macx-free-mp3-and-media-tools-for-macos/"><u>Convert Your Videos and Audios with MacX: Free MP3 & Media Tools for MacOS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-updating-drivers-a-guide-for-intel-centrino-ultimate-n-6305-wireless-network-card-users/"><u>Easy Steps to Updating Drivers: A Guide for Intel Centrino Ultimate-N 6305 Wireless Network Card Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-the-finest-usb-network-adapters-available/"><u>Expert Picks: The Finest USB Network Adapters Available</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fast-track-techniques-how-to-change-your-mp4-videos-into-h265-format/"><u>Fast Track Techniques: How to Change Your MP4 Videos Into H.265 Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-downloads-of-shakiras-fifa-world-cup-anthems-mp3-and-mp4-versions/"><u>Free Downloads of Shakira's FIFA World Cup Anthems: MP3 & MP4 Versions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-transform-mp4-videos-into-3gp-format-top-solutions-for-mac-and-pc-enthusiasts/"><u>How to Transform MP4 Videos Into 3GP Format: Top Solutions for Mac and PC Enthusiasts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-maximizing-igtv-impact-effective-tips-for-vertical-video-conversion/"><u>In 2024, Maximizing IGTV Impact Effective Tips for Vertical Video Conversion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-itunes-movie-issues-unexpected-tricks-to-get-your-films-flowing-smoothly/"><u>Overcoming iTunes Movie Issues: Unexpected Tricks to Get Your Films Flowing Smoothly</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-vivo-v30-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo V30 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-guide-resolving-stalled-applications-in-windows-11/"><u>Troubleshooting Guide: Resolving Stalled Applications in Windows 11</u></a></li>
 </ul></div>
 

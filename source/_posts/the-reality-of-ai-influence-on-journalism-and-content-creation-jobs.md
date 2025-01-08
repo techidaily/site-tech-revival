@@ -1,7 +1,7 @@
 ---
 title: The Reality of AI Influence on Journalism & Content Creation Jobs
-date: 2024-12-22T07:38:23.770Z
-updated: 2024-12-29T03:28:38.679Z
+date: 2025-01-06T21:07:31.674Z
+updated: 2025-01-07T20:59:32.189Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,13 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1.[Decktopus AI](https://www.decktopus.com/)
 
 ![A Screenshot of Decktopus AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/decktopus-ai-presentation-generator-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Decktopus is an AI-powered presentation generator that aims to simplify the process of making presentations for any situation, and getting started with it couldn't be easier. All you have to do is type out a description of what you want your presentation to be about. If you’re not sure, Decktopus can often provide some useful suggestions.
 
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
  Each of these questions comes with several pre-generated responses, but you can always input your own by typing out what it is that you want. Then, Decktopus will then have your presentation entirely generated based on your inputs. The results look good on their own, but you can also adjust the themes and colors.
 
  On top of this, Decktopus also generates multiple layouts for its slides, so you can adjust it that way. If you really don’t like what Decktopus has created, you can also regenerate the presentation in its entirety to get a new AI response.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2.[SlidesAI.io](https://www.slidesai.io/)
 
@@ -54,13 +58,13 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
  Alternatively, you can ask SlidesAI.io to create a presentation using just a simple title. The process here is much the same. There are also options to customize the look of SlidesAI.io within the add-on, though you can always adjust the look using Google Slides' in-built tools as well if you so wish.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3.[Tome](https://tome.app/)
 
 ![A Screenshot of Tome s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tome-ai-presentation-generator-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re looking for a comprehensive presentation tool full of features, then Tome might just be exactly what you’re looking for. Features such as custom themes, fonts, and logos, are all present with Tome. If you’re looking for collaborative tools or[how to make a presentation more interactive](https://www.makeuseof.com/make-presentations-interactive-google-slides-presenter-view/) , then you can find that too.
 
@@ -69,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
  This includes creating AI images to match your content, creating a new slide with your content, converting a document into a presentation, or simply making one from scratch. Tome works quickly and efficiently with these AI tools, and you can easily make impressive presentations in mere moments.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4.[GPT_PPT](https://gpt-ppt.neftup.app/)
@@ -91,16 +95,12 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
  If there’s anything you don’t like about the slides, there are options to change the type or style of the slides, and you can add points and edit what Presentations.AI has created as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6.[ChatBA](https://www.chatba.com)
 
 ![A Screenshot of ChatBA s AI Presentation Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatba-ai-presentation-generator-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ChatBA is an online AI presentation generation tool that allows you to quickly and easily create a complete presentation on just about any topic. With ChatBA, all you have to do is input the topic that you want a presentation on and leave the rest to the AI.
 
@@ -137,18 +137,18 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-stardom-in-your-sights-6-must-try-techniques-for-verification-and-growth-for-2024/"><u>[New] Instagram Stardom in Your Sights 6 Must-Try Techniques for Verification and Growth for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-editors-edge-advanced-techniques-in-chromatic-manipulation/"><u>[New] The Editor's Edge Advanced Techniques in Chromatic Manipulation</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-cut-copy-and-paste-quickly-create-perfect-video-conclusions-no-cost-for-2024/"><u>[Updated] Cut, Copy & Paste Quickly Create Perfect Video Conclusions (No Cost) for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-premium-multi-device-video-talks-solutions/"><u>[Updated] Premium Multi-Device Video Talks Solutions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/abbyy-at-the-forefront-of-financial-strategy-highlights-from-the-2017-summit/"><u>ABBYY at the Forefront of Financial Strategy: Highlights From the 2017 Summit</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-update-intels-inwin-drivers/"><u>How to Update Intel's InWin Drivers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/securing-the-best-presentation-of-subtitles-through-srt-uploads/"><u>Securing the Best Presentation of Subtitles Through SRT Uploads</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-spots-for-ai-fueled-innovation/"><u>Ultimate Spots for AI-Fueled Innovation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-ai-simplified-explanation-of-artificnicial-intelligence/"><u>Understanding AI: Simplified Explanation of Artificnicial Intelligence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-trade-offs-the-benefits-and-drawbacks-of-using-a-local-llm/"><u>Understanding the Trade-Offs: The Benefits and Drawbacks of Using a Local LLM</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-creative-code-with-alternatives-to-chatgpt/"><u>Unleashing Creative Code with Alternatives to ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-ai-artistry-leveraging-dall-e-3-on-microsoft-bing-without-cost/"><u>Unlocking AI Artistry: Leveraging DALL-E 3 on Microsoft Bing Without Cost</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-potential-top-six-uses-of-the-chatgpt-code-interpretation-tool/"><u>Unlocking Potential: Top Six Uses of the ChatGPT Code Interpretation Tool</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-ancient-images-modern-preservation-the-art-and-science-of-old-print-digitizing/"><u>[New] Ancient Images, Modern Preservation The Art & Science of Old Print Digitizing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-snap-it-up-innovative-ig-images-that-inspire-for-2024/"><u>[Updated] Snap It Up! Innovative IG Images That Inspire for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-world-of-drawing-on-your-chromebook-today/"><u>2024 Approved Explore the World of Drawing on Your Chromebook Today</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Samsung Galaxy M34 5G.</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-access-unlimited-ringtones-our-top-4-online-spots/"><u>In 2024, Access Unlimited Ringtones Our Top 4 Online Spots</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-a24-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy A24 is off? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/quick-launch-long-growth-the-10-best-youtube-business-channels/"><u>Quick Launch, Long Growth The 10 Best YouTube Business Channels</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-cleaning-with-just-one-click-an-insightful-review-on-the-xpower-a-2-electrostatic-duster/"><u>Revolutionize Cleaning with Just One Click! An Insightful Review on the XPOWER A-2 Electrostatic Duster</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sennheiser-momentum-true-wireless-headphones-review-exceptional-sound-quality-and-comfort/"><u>Sennheiser Momentum True Wireless Headphones Review - Exceptional Sound Quality and Comfort</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/smarthome-rollshade-review-discover-the-magic-of-automated-window-treatments-with-our-diy-installation-guide/"><u>SmartHome RollShade Review: Discover the Magic of Automated Window Treatments with Our DIY Installation Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/soundcore-sleep-pillow-bass-q35-overview-the-ultimate-bedside-listening-experience/"><u>SoundCore Sleep Pillow Bass Q35 Overview: The Ultimate Bedside Listening Experience</u></a></li>
+<li><a href="https://win-hot.techidaily.com/system-start-blocked-how-a-single-patch-can-prevent-boot-up/"><u>System Start Blocked: How a Single Patch Can Prevent Boot-Up</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-portable-video-player-mkv-format-for-2024/"><u>Ultimate Portable Video Player (MKV Format) for 2024</u></a></li>
 </ul></div>
 

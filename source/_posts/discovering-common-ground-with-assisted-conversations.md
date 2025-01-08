@@ -1,7 +1,7 @@
 ---
 title: Discovering Common Ground with Assisted Conversations
-date: 2024-09-01T19:16:31.314Z
-updated: 2024-09-02T19:16:31.314Z
+date: 2025-01-02T17:38:00.730Z
+updated: 2025-01-07T21:14:23.517Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/5962b87511edddba346cb57d7aca143b8c59fba6d
 * [How to Filter and Favorite AIPRM Prompts](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#how-to-filter-and-favorite-aiprm-prompts)
 * [How to Create AIPRM Prompts](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#how-to-create-aiprm-prompts)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Crafting effective prompts for ChatGPT is crucial for quality responses. AIPRM offers a vast library of expert prompts.
@@ -32,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/5962b87511edddba346cb57d7aca143b8c59fba6d
 
  ChatGPT is a useful generative AI tool that can help you do various tasks, from research to content creation. However, the quality of ChatGPT responses largely depends on how well you frame your instructions or prompts. If you find it challenging to craft effective ChatGPT prompts or wish to save time, you can use a handy Chrome Extension called AIPRM to make ChatGPT prompting easy.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is AIPRM for ChatGPT?
 
  Your ability to[write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) is crucial to getting quality responses, but it's not the easiest task crafting prompts that deliver your desired output. Luckily, AI prompting tools like AIPRM can help.
@@ -50,14 +51,14 @@ thumbnail: https://thmb.techidaily.com/5962b87511edddba346cb57d7aca143b8c59fba6d
 ![AIPRM for ChatGPT plans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-pricing-plan.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The free version of AIPRM can access the extensive library of Community Prompts, save two private prompt templates, and set favorite prompt templates, which is more than enough to get you started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Install the AIPRM for ChatGPT Chrome Extension
 
@@ -69,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/5962b87511edddba346cb57d7aca143b8c59fba6d
 4. This should automatically direct you to your ChatGPT homepage, where you will see a terms & conditions popup for the AIPRM extension. Tick the checkbox to agree and click**Confirm.**  
 ![AIPRM terms and conditions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-terms-conditions-chatgpt.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You should now see the AIPRM dashboard on your ChatGPT page.
 
 ## How to Use the AIPRM for ChatGPT Chrome Extension
@@ -80,9 +78,6 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
 ![The AIPRM green popup in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-green-popup.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you can see, there are several tabs in the AIPRM dashboard, including:
 
 1. **Favorites** where you can save your commonly-used prompts.
@@ -104,9 +99,6 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
 ![The AIPRM for ChatGPT Activity filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/filter-aiprm-prompts.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the**Star** icon next to the prompt to add it to your**Favorites** tab. Next, go to the**Favorites** tab to view and access all your saved prompts.
 
 ## How to Create AIPRM Prompts
@@ -122,8 +114,9 @@ To create a custom AIPRM prompt:
 ![AIPRM screenshot showing how to create a template](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/create-aiprm-prompt-template.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For instance, "Write a Facebook post with emojis and a call to action about**\[PROMPT\]** ." Make sure to add the prompt variable**\[PROMPT\]** in your template, as it will be replaced by what you type whenever you use this prompt. In this example, the prompt variable**\[PROMPT\]** will be the topic for the Facebook post. You can also provide one or more examples of what you want the output to look like.
 
  Next, fill in the**Teaser** field. This is a description to help you remember the prompt easily. The**Prompt Hint** reminds you of what you will type in when using the prompt. This replaces the prompt variable**\[PROMPT\]** .
@@ -134,20 +127,21 @@ To create a custom AIPRM prompt:
 
 ![AIPRM for ChatGPT prompt template creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-prompt-template-creation.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once your prompt is saved, you can find it under the**Own** tab.
 
  You have just created your first AIPRM prompt! Test it out and see what kind of response you get from ChatGPT. You can always edit your prompt by clicking the**pencil** icon next to it.
 
  AIPRM for ChatGPT is a handy productivity tool that can help you get relevant and quality responses from ChatGPT. Its vast library of expertly crafted prompts makes it easier to interact with ChatGPT and get the desired output. With AIPRM, you can save time, be more productive, and have fun experimenting with different prompt templates.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,4 +150,26 @@ To create a custom AIPRM prompt:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-an-impartial-appraisal-the-power-of-recordcast/"><u>[New] An Impartial Appraisal The Power of RecordCast</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastery-guide-downloading-windows-movie-maker-6/"><u>[New] Mastery Guide Downloading Windows Movie Maker 6</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-video-popularity-predictor-top-8-insight/"><u>[New] Ultimate Video Popularity Predictor Top 8 Insight</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-new-era-of-social-media-a-side-by-side-comparison-between-tiktok-and-snap/"><u>[Updated] The New Era of Social Media A Side-By-Side Comparison Between TikTok and Snap</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-free-online-tool-easily-transform-mobile-files-into-print-ready-pdfs/"><u>1. Free Online Tool: Easily Transform Mobile Files Into Print-Ready PDFs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/audio-file-conversion-simplified-aax-and-audible-books-into-mp3-format/"><u>Audio File Conversion Simplified: AAX & Audible Books Into MP3 Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparative-analysis-of-drm-unlock-techniques-for-ultimate-vs-all-software/"><u>Comparative Analysis of DRM Unlock Techniques for Ultimate Vs. All Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-best-epubor-software-solutions-for-your-digital-publishing-needs/"><u>Discover the Best EPUBOR Software Solutions for Your Digital Publishing Needs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/illustration-revolution-adding-depth-to-text-with-3d/"><u>Illustration Revolution Adding Depth to Text with 3D</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-screen-lock-difficulties-fix-your-guided-access-woes-with-these-6-tips/"><u>IPhone Screen Lock Difficulties? Fix Your Guided Access Woes with These 6 Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fix-silent-system-post-windows-11-update-quick-guide/"><u>Solved: Fix Silent System Post-Windows 11 Update – Quick Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-swiftly-switch-from-nook-to-kindle-for-a-hassle-free-reading-experience/"><u>Step-by-Step Guide: Swiftly Switch From Nook to Kindle for a Hassle-Free Reading Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-optimal-ebook-reader-apps-for-macos-a-comprehensive-guide/"><u>Top 5 Optimal eBook Reader Apps for macOS: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforme-seus-filmes-do-m2ts-para-formato-mkv-gratuitamente-via-o-movavi-conversor-online-seguro-e-facil-de-usar/"><u>Transforme Seus Filmes Do M2TS Para Formato MKV Gratuitamente via O Movavi - Conversor Online Seguro E Fácil De Usar!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-customizing-your-kindle-fires-display-with-new-wallpapers/"><u>Ultimate Guide: Customizing Your Kindle Fire's Display with New Wallpapers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-and-save-your-kindle-books-as-secure-pdf-files-a-comprehensive-how-to-tutorial/"><u>Unlock and Save Your Kindle Books as Secure PDF Files – A Comprehensive How-To Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-your-audible-audiobook-files-how-to-eliminate-drm-protection-in-epub-format/"><u>Unlocking Your Audible Audiobook Files: How to Eliminate DRM Protection in EPUB Format</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unraveling-photoshops-magic-with-image-curving/"><u>Unraveling Photoshop’s Magic with Image Curving</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ws-2902a-osprey-ambient-weather-station-high-capability-at-a-budget/"><u>WS-2902A Osprey Ambient Weather Station - High Capability at a Budget</u></a></li>
+</ul></div>
 

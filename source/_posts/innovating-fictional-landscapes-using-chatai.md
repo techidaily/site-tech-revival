@@ -1,7 +1,7 @@
 ---
 title: Innovating Fictional Landscapes Using ChatAI
-date: 2024-09-05T12:43:57.053Z
-updated: 2024-09-06T12:43:57.053Z
+date: 2025-01-05T02:02:02.152Z
+updated: 2025-01-07T16:02:05.287Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Innovating Fictional Landscapes Using ChatAI
 thumbnail: https://thmb.techidaily.com/716b773a3a0bbb4238a628ab28cfde8731d3dd391169cbf818a66e733201ea5d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which Makes the Cut? Evaluating Claude and ChatGPT's Abilities in Handling Everyday Duties
 
  ChatGPT has undoubtedly made history as the most popular AI chatbot to hit our screens, but it has no shortage of competitors. One such competitor, Claude, offers an impressive AI chatbot service, but does this outshine ChatGPT?
@@ -40,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/716b773a3a0bbb4238a628ab28cfde8731d3dd391
 We'll be using Claude 1.3 and Claude 2 in this comparison.
 
  ChatGPT's two most recent versions, GPT-3.5 and GPT-4, can be used, though the latter is only available via ChatGPT Plus. GPT-4 has far more parameters than GPT-3.5 and a higher character input and output limit. Again, both iterations of ChatGPT will be discussed here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude: a Quick Comparison
 
@@ -83,12 +81,6 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
 
  These plugins have various functions but generally allow you to integrate ChatGPT into your online activities.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### ChatGPT's Cons
 
  One of ChatGPT's biggest downsides is that its training data only dates up to September 2021\. This means that ChatGPT cannot provide any newer information, which limits what you can request.
@@ -102,27 +94,13 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
  Lastly, ChatGPT does not support use via a VPN, which can be tricky if you're a regular VPN user or want to get around your region's geo-restrictions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Claude's Pros and Cons
 
 So, how does Claude compare to ChatGPT?
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Claude's Pros
 
  There are some[ways in which Claude outshines ChatGPT](https://www.makeuseof.com/ways-claude-ai-chatbot-better-than-chatgpt/) , which we'll get into here.
@@ -151,6 +129,10 @@ So, how does Claude compare to ChatGPT?
 
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Creative Abilities
 
  First, we asked both Claude and ChatGPT to provide us with a poem using the same prompt each time.
@@ -159,18 +141,6 @@ So, how does Claude compare to ChatGPT?
 
 ![screenshot of chatgpt poem prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-poem-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ChatGPT's poem was a little shorter, highlighting that it followed the requested ABAB rhyming structure.
 
 ![claude poem prompt chat screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-poem-prompt.jpg)
@@ -186,29 +156,19 @@ So, how does Claude compare to ChatGPT?
 ![screenshot of chatgpt trigonometry prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-trig-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 When given the same problem, Claude gave us the following response:
 
 ![screenshot of claude response to trigonometry prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-trig-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Translation
 
  Lastly, we asked ChatGPT and Claude to translate a paragraph of Japanese into English. The original paragraph reads:
@@ -226,23 +186,18 @@ Claude's interpretation read...
  Compared to the original text, Claude did a slightly better job translating from Japanese to English.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT and Claude May Become Close Rivals
 
  While ChatGPT is almost a household name nowadays, competitors like Claude have a lot of potential to knock it from its number-one spot. Who knows, Claude could one day become ChatGPT's biggest competitor!
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -251,4 +206,26 @@ Claude's interpretation read...
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-most-advanced-video-grabbers-for-windows-enthusiasts/"><u>[New] In 2024, The Most Advanced Video Grabbers for Windows Enthusiasts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-discover-new-heights-top-10-adventure-channels-for-2024/"><u>[Updated] Discover New Heights Top 10 Adventure Channels for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-tiktok-to-twitter-a-2023-blueprint-for-2024/"><u>[Updated] From TikTok to Twitter A 2023 Blueprint for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-incredible-inexpensive-stopwatch-solutions-for-2024/"><u>[Updated] Incredible Inexpensive Stopwatch Solutions for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-evaluation-of-the-top-tier-aliennware-pro-wireless-keyboard-a-prime-selection-for-serious-players/"><u>Expert Evaluation of the Top-Tier Aliennware Pro Wireless Keyboard - A Prime Selection for Serious Players</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-techniques-for-pace-modification-on-snapchat-videos/"><u>In 2024, Unveiling Techniques for Pace Modification on Snapchat Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722984653771-oculus-link-wont-work-try-these-six-swift-fixes-now/"><u>Oculus Link Won’t Work? Try These Six Swift Fixes Now!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/step-by-step-guide-to-efficient-and-effective-tag-usage-on-youtube/"><u>Step-by-Step Guide to Efficient and Effective Tag Usage on YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-disabling-sticky-keys-feature-in-windows-10-with-visual-aid/"><u>Step-by-Step Guide: Disabling Sticky Keys Feature in Windows 10 with Visual Aid</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-driver-removal-on-windows-10-7-and-81/"><u>Step-by-Step Guide: Driver Removal on Windows 10, 7 and 8.1</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-to-connect-and-configure-racing-steering-wheels-with-pc-games/"><u>Step-by-Step Instructions to Connect and Configure Racing Steering Wheels with PC Games</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-updating-your-hp-printers-software-with-windows-n-operating-system/"><u>Step-by-Step Tutorial: Updating Your HP Printer's Software with Windows N Operating System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/test-microphone-windows-11-step-by-step/"><u>Test Microphone Windows 11 [Step by Step]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-gamers-guide-to-enhancing-gameplay-on-windows-11-eliminate-mouse-acceleration-for-better-control/"><u>The Gamer's Guide to Enhancing Gameplay on Windows 11 - Eliminate Mouse Acceleration for Better Control</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-fixes-to-correct-a-driver-power-state-malfunction/"><u>The Ultimate Fixes to Correct a Driver Power State Malfunction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-upgrading-to-windows-10-creators-update-in-just-two-simple-steps/"><u>The Ultimate Guide: Upgrading to Windows 10 Creators Update in Just Two Simple Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-of-12-free-movie-streaming-websites/"><u>The Ultimate Selection of 12 Free Movie Streaming Websites</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-and-correcting-storage-problems-on-your-windows-10-machine/"><u>Troubleshooting and Correcting Storage Problems on Your Windows 10 Machine</u></a></li>
+</ul></div>
 

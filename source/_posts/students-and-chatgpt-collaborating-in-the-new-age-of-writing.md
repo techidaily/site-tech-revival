@@ -1,7 +1,7 @@
 ---
 title: "Students and ChatGPT: Collaborating in the New Age of Writing"
-date: 2024-12-25T16:04:45.954Z
-updated: 2024-12-29T01:06:23.249Z
+date: 2024-12-31T23:46:22.110Z
+updated: 2025-01-07T20:49:56.616Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 
  Currently, you can only[access GPT-4 on ChatGPT](https://www.makeuseof.com/how-to-use-gpt4/) by upgrading to ChatGPT Plus for $20 a month.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Data Accuracy
 
  ChatGPT has explicit disclaimers about data inaccuracy. The platform occasionally produces incorrect information since it carries limited knowledge of events after 2021\. It doesn’t even know its own release date.
@@ -55,14 +59,22 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 ![Asking ChatGPT About Its Launch Date](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-making-precise-answers.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Whereas Bing AI’s advanced language model and integrated search engine produce more reliable, precise data. Unlike ChatGPT, Microsoft didn’t train Bing on limited datasets. Instead, it uses its search engine to pull timely, relevant information about world events and general knowledge questions.
 
 ![Asking Bing AI About ChatGPT Launch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-giving-precise-dates.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It’s also worth noting that Bing's AI cites sources. Neither platform guarantees 100% accuracy, but knowing which resources to double-check streamlines fact-checking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Mathematical Precision
 
@@ -78,6 +90,10 @@ Bing AI answers the same physics question correctly.
 
 ![Bing AI Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bing-ai-solving-physics-question.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Security Measures
 
  Cybercriminals started misusing ChatGPT almost immediately. Consequently, some saw[ChatGPT as a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) that lets crooks write spam emails, develop malware, and build phishing links.
@@ -87,20 +103,12 @@ Bing AI answers the same physics question correctly.
 ![Overriding ChatGPT Limits Through Character Portrayal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-tomie-portrayal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Bing's AI bot faces similar cybersecurity risks. It combats them by enforcing stricter limitations, reducing the platform’s susceptibility to jailbreaking. Conversations get terminated if you mention anything unusual.
 
 ![Bing AI Ends Conversation for Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bingai-security-feature.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Accessibility
 
@@ -120,16 +128,12 @@ Bing AI answers the same physics question correctly.
 
  Thankfully, Microsoft since lifted the waitlist. Users gain instant access after creating an email account and downloading Microsoft Edge.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Functionality
 
 ![Setting Custom Instructions for Prompts on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/custom-instructions-on-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Bing's AI bot has a more advanced language model and broader dataset, boosting its functionality over ChatGPT. It even uses its search engine before responding. You can expect to get more accurate, reliable responses and up-to-date information.
@@ -142,6 +146,10 @@ Bing AI answers the same physics question correctly.
 
  Instead of feeding Bing's AI and ChatGPT generic prompts, curate unique ones based on their language models. The quality of their responses depends on your prompts. Aim to maximize the AI tool’s datasets without violating its guidelines.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Fees
 
 ![ChatGPT Plus Pricing at $20 Per Month](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-pricing.jpg)
@@ -152,10 +160,6 @@ Bing AI answers the same physics question correctly.
 
  Although affordable, subscription fees are unnecessary expenses. Instead of losing $240 per year on ChatGPT Plus, explore Bing's AI first. It already runs on GPT-4, and since[Microsoft plans to monetize Bing through advertisements](https://www.reuters.com/technology/microsofts-bing-plans-ai-ads-early-pitch-advertisers-2023-02-17/) , the platform will likely stay free.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Token Limits
 
  AI-driven chatbots like[ChatGPT learn from user chats through contextual memory](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) . It enables them to reference previous inputs, thus improving output accuracy and relevance as the conversation goes on. The responses improve as you provide information.
@@ -163,10 +167,6 @@ Bing AI answers the same physics question correctly.
  But considering the computing power that contextual memory uses, developers usually set token limits on the volume of data that chatbots process. Irrelevant pieces of information are dropped once users hit the token limit.
 
  These restrictions vary per platform.[ChatGPT has a high upper limit](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) that can process around 3,000 words per turn, assuming they’re all relevant and related. Meanwhile, Bing AI has a much smaller limit. It caps users to 30 turns, after which you must start a new conversation or restate your custom instructions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Should You Use Bing's AI or ChatGPT?
 
@@ -187,24 +187,16 @@ Bing AI answers the same physics question correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-memetic-innovations-ideas-that-delight-any-audience/"><u>[New] Memetic Innovations Ideas That Delight Any Audience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-camera-clicks-to-youtube-views-mobiles-in-cinematic-success/"><u>[Updated] 2024 Approved From Camera Clicks to YouTube Views Mobiles in Cinematic Success</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harness-the-full-potential-of-your-videos-with-simple-cuts-on-windows/"><u>[Updated] Harness the Full Potential of Your Videos with Simple Cuts on Windows</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-capture-every-angle-how-to-create-dynamic-viewpoint-driven-reaction-vids-for-youtube-success/"><u>[Updated] In 2024, Capture Every Angle – How to Create Dynamic, Viewpoint-Driven Reaction Vids for YouTube Success</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/curating-the-best-general-knowledge-content-2024-edition/"><u>Curating the Best General Knowledge Content, 2024 Edition</u></a></li>
-<li><a href="https://win-trending.techidaily.com/expert-tutorial-on-mastering-raid-0-data-restoration-techniques/"><u>Expert Tutorial on Mastering RAID 0 Data Restoration Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/how-to-make-picture-in-picture-videos-on-mac-os-sierra-for-2024/"><u>How to Make Picture in Picture Videos on Mac OS Sierra for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-v30withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme V30with/without a PC</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-mastering-seamless-scene-shifts-in-video-editing/"><u>New Mastering Seamless Scene Shifts in Video Editing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-perplexing-problem-of-windowss-c0000005/"><u>Overcoming the Perplexing Problem of Windows's C0000005</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-downsides-7-cases-against-ai-messaging/"><u>The Downsides: 7 Cases Against AI Messaging</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-of-internet-browsing-introducing-microsoft-bings-artificial-intelligence-upgrade/"><u>The Future of Internet Browsing: Introducing Microsoft Bing's Artificial Intelligence Upgrade</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-hidden-dangers-of-ai-dependence-six-compelling-cases-against-unwavering-trust/"><u>The Hidden Dangers of AI Dependence: Six Compelling Cases Against Unwavering Trust</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-hidden-threat-of-fraudgpt-your-protection-blueprint/"><u>The Hidden Threat of FraudGPT - Your Protection Blueprint</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-10-chatgpt-mimicking-tools-to-optimize-your-pdf-handling/"><u>The Ultimate List of 10 ChatGPT Mimicking Tools to Optimize Your PDF Handling</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-4-pitfalls-in-harnessing-chatgpt-for-effective-content-production/"><u>Top 4 Pitfalls in Harnessing ChatGPT for Effective Content Production</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-artificial-intelligence-extensions-for-google-chrome-to-supercharge-your-workflows/"><u>Top 5 Artificial Intelligence Extensions for Google Chrome to Supercharge Your Workflows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-ai-an-easy-guide/"><u>Understanding AI: An Easy Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-word-and-characters-restrictions-in-chatgpt-dialogue/"><u>Understanding Word and Characters Restrictions in ChatGPT Dialogue</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-edit-gopro-4k-video-for-2024/"><u>[Updated] How to Edit GoPro 4K Video for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-minds-on-fire-best-gk-quiz-videos-online/"><u>2024 Approved Minds on Fire Best GK Quiz Videos Online</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/a-guide-on-starting-private-live-streams-on-youtube-for-2024/"><u>A Guide on Starting Private Live Streams on YouTube for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/fine-tune-video-aspect-ratios-for-instagram-bliss-for-2024/"><u>Fine-Tune Video Aspect Ratios for Instagram Bliss for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/from-basics-to-expertise-the-quantum-hdr-journey-for-2024/"><u>From Basics to Expertise The Quantum HDR Journey for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-apple-iphone-15-pro-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Apple iPhone 15 Pro using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-mp4-manipulation-a-step-by-step-tutorial-for-dividingcombining-video-files-on-mac-and-pc/"><u>Mastering MP4 Manipulation: A Step-by-Step Tutorial for Dividing/Combining Video Files on Mac & PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-on-how-to-perform-a-full-restore-of-your-ios-device-using-soft-and-hard-reset-options/"><u>Step-by-Step Instructions on How to Perform a Full Restore of Your iOS Device Using Soft and Hard Reset Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-preserving-video-clarity-during-online-compression/"><u>Step-by-Step Tutorial on Preserving Video Clarity During Online Compression</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strumenti-fai-tutti-mac-scarica-makemkv-per-riprodurre-senza-costi-i-tuoi-film-blu-raydvd/"><u>Strumenti Fai Tutti Mac: Scarica MakeMKV per Riprodurre Senza Costi I Tuoi Film Blu-Ray/DVD</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-walk-through-showcasing-your-gaming-skills-via-ps5-share-functionality/"><u>The Ultimate Walk-Through: Showcasing Your Gaming Skills via PS5 Share Functionality</u></a></li>
 </ul></div>
 

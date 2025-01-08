@@ -1,7 +1,7 @@
 ---
 title: "Digital Mixologist Test: Evaluating the Competence of ChatGPT with Drinks"
-date: 2024-12-27T07:58:56.191Z
-updated: 2024-12-29T02:04:44.674Z
+date: 2025-01-02T01:21:47.521Z
+updated: 2025-01-07T20:48:14.246Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 * [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
@@ -62,15 +58,19 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -107,17 +107,24 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-10-best-voice-modification-apps-for-vtubing-success-for-2024/"><u>[New] 10 Best Voice Modification Apps for VTubing Success for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-improve-obs-rendering-speed-and-quality/"><u>[New] Improve OBS Rendering Speed and Quality</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-augmented-eyes-seeing-the-unseen-enhanced-way-for-2024/"><u>[Updated] Augmented Eyes Seeing the Unseen Enhanced Way for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-adapter-issue-resolved/"><u>Display Adapter Issue Resolved</u></a></li>
-<li><a href="https://win-news.techidaily.com/emeditor-text-editor-how-to-access-keyboard-shortcuts-outside-the-macro-toolbar/"><u>EmEditor Text Editor: How to Access Keyboard Shortcuts Outside the Macro Toolbar</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enforcing-discretion-in-corporate-ai-interactions/"><u>Enforcing Discretion in Corporate AI Interactions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-fun-top-6-game-experiences-with-chatgpt-revealed/"><u>Explore Fun: Top 6 Game Experiences with ChatGPT Revealed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-chatgpts-role-in-literary-innovation/"><u>Exploring ChatGPT's Role in Literary Innovation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-source-material-how-does-chatgpt-avoid-plagiarism/"><u>Exploring Source Material: How Does ChatGPT Avoid Plagiarism?</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-6-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone 6 for Parents | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/tips-to-rectify-broken-airdrop-connectivity-across-apple-gadgets-for-2024/"><u>Tips to Rectify Broken AirDrop Connectivity Across Apple Gadgets for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-magic-vs-2-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor Magic Vs 2 Device</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-from-muffled-to-clear-the-initial-use-of-fade-in-audition/"><u>[New] 2024 Approved From Muffled to Clear The Initial Use of Fade in Audition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-dive-deep-into-the-world-of-facebook-story-creation-expert-advice-inside-for-2024/"><u>[New] Dive Deep Into the World of Facebook Story Creation Expert Advice Inside for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-a-beginners-guide-to-youtube-seo-keywords/"><u>[New] In 2024, A Beginner's Guide to YouTube SEO Keywords</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-leverage-youtube-on-instagram-stories-for-maximum-engagement-for-2024/"><u>[New] Leverage YouTube on Instagram Stories for Maximum Engagement for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-elevate-your-lenovo-experience-with-advanced-capture-methods/"><u>[Updated] Elevate Your Lenovo Experience with Advanced Capture Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/affordable-quality-the-edifier-neobuds-pro-2-your-go-to-choice-over-airpods-for-android-users/"><u>Affordable Quality: The Edifier NeoBuds Pro 2 - Your Go-To Choice Over AirPods for Android Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/analyzing-the-ugreen-5000mah-inductive-power-bank-a-surprising-review-of-performance-and-stability/"><u>Analyzing the Ugreen 5,000mAh Inductive Power Bank: A Surprising Review of Performance and Stability</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-video-quality-with-the-opal-tadpole-webcam-the-perfect-enhancement-for-subpar-laptop-cameras/"><u>Boost Your Video Quality with the Opal Tadpole Webcam - The Perfect Enhancement for Subpar Laptop Cameras</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-workflow-with-plugables-usb-c-to-hdmi-docking-station-a-must-have-for-windows-enthusiasts/"><u>Boost Your Workflow with Plugable's USB-C to HDMI Docking Station - A Must-Have for Windows Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/budget-friendly-earfun-air-2-tinnitus-relief-headphones-in-depth-review-and-analysis/"><u>Budget-Friendly EarFun Air 2 Tinnitus Relief Headphones – In-Depth Review and Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/budget-friendly-soundpeats-air4-pro-assessment-a-robust-substitute-for-the-original-airpods-pro/"><u>Budget-Friendly Soundpeats Air4 Pro Assessment: A Robust Substitute for the Original AirPods Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-bose-smart-ultra-soundbar-evaluation-rich-audio-experience-with-a-wealth-of-functionalities-simplified/"><u>Comprehensive Bose Smart Ultra Soundbar Evaluation: Rich Audio Experience with a Wealth of Functionalities Simplified</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-evaluation-of-the-ecovacs-deebot-x2-omni-robotic-vacuum-mastery-in-home-cleaning/"><u>Comprehensive Evaluation of the Ecovacs Deebot X2 Omni Robotic Vacuum: Mastery in Home Cleaning</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-mastering-your-media-with-the-elgato-stream-deck-neos-customizable-buttons/"><u>Comprehensive Guide: Mastering Your Media with the Elgato Stream Deck Neo's Customizable Buttons</u></a></li>
+<li><a href="https://win-hot.techidaily.com/data-erasing-and-disk-wiping-strategies-for-windows-11-users-exploring-two-effective-methods/"><u>Data Erasing and Disk Wiping Strategies for Windows 11 Users: Exploring Two Effective Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-portable-playstation-to-simulated-game-boy-ace/"><u>From Portable PlayStation to Simulated Game Boy Ace</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-explore-and-relish-top-sandbox-journeys/"><u>In 2024, Explore and Relish Top Sandbox Journeys</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-significance-of-analytics-in-youtube-rank-enhancement/"><u>In 2024, The Significance of Analytics in YouTube Rank Enhancement</u></a></li>
 </ul></div>
 

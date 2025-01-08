@@ -1,7 +1,7 @@
 ---
 title: "Smartphone Advancements Simplified: Android & iPhone's Best AI Apps"
-date: 2024-09-01T19:15:53.820Z
-updated: 2024-09-02T19:15:53.820Z
+date: 2025-01-01T22:04:58.639Z
+updated: 2025-01-07T20:51:24.220Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -44,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,8 +61,22 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-mobile-marvels-the-leading-arvr-app-picks/"><u>[New] Mobile Marvels The Leading AR/VR App Picks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-optimize-your-streaming-game-incorporating-chroma-key-effects-with-ease/"><u>[Updated] 2024 Approved Optimize Your Streaming Game Incorporating Chroma Key Effects with Ease</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-dissecting-youtubes-strategy-to-empower-short-form-content-makers/"><u>[Updated] Dissecting YouTube’s Strategy to Empower Short-Form Content Makers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-the-world-of-fb-instream-ads-a-comprehensive-setup-manual-for-2024/"><u>[Updated] Navigating the World of FB Instream Ads A Comprehensive Setup Manual for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/challenges-to-overcome-a-deep-dive-into-why-chatgpt-jailbreaks-are-unfeasible-7-reasons/"><u>Challenges to Overcome: A Deep Dive Into Why ChatGPT Jailbreaks Are Unfeasible (7 Reasons)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comment-obtenir-des-films-youtube-pour-les-plateformes-ios-android-et-windows-sans-frais/"><u>Comment Obtenir Des Films YouTube Pour Les Plateformes iOS, Android Et Windows Sans Frais?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-engagement-on-social-platforms-using-chatgpt-writing-tips/"><u>Enhancing Engagement on Social Platforms Using ChatGPT Writing Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-privacy-email-change-via-protonbrowser/"><u>Enhancing Privacy: Email Change via ProtonBrowser</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/interpreter-invasion-ais-battle-for-clarity/"><u>Interpreter Invasion: AI's Battle for Clarity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-investing-in-high-quality-ai-prompt-creation-justified/"><u>Is Investing in High-Quality AI Prompt Creation Justified?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-your-lifestyles-ultimate-boost/"><u>Leveraging ChatGPT: Your Lifestyle's Ultimate Boost</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-xbox-app-store-crash-fixing-error-0x80073d26/"><u>Overcome Xbox App Store Crash: Fixing Error 0X80073D26</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-obstacles-restoring-connection-between-chatgpt-and-plugins/"><u>Overcoming Obstacles: Restoring Connection Between ChatGPT and Plugins</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/step-by-step-guide-ensuring-total-data-removal-from-personal-devices-tips-from-yl-software-experts/"><u>Step-by-Step Guide: Ensuring Total Data Removal From Personal Devices - Tips From YL Software Experts</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->

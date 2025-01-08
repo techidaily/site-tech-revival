@@ -1,7 +1,7 @@
 ---
 title: "Navigate with Ease Into AI-Enhanced Bing: Setup Guide"
-date: 2024-09-05T12:43:55.199Z
-updated: 2024-09-06T12:43:55.199Z
+date: 2025-01-01T20:56:29.732Z
+updated: 2025-01-07T22:01:42.519Z
 tags:
   - chatgpt
   - open-ai
@@ -13,18 +13,6 @@ excerpt: "This Article Describes Navigate with Ease Into AI-Enhanced Bing: Setup
 thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42baca05e040ad76d70daee8c3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Boosting Artifice Intelligence with Vector Database Technology: An Insightful Guide
 
  Vector databases have gained a resurgence due to the widespread availability of pre-trained AI models. Although the concept of a vector database has been around for several decades, it is only now, in the age of large language models (LLMs), that vector databases can be used to their full potential.
@@ -32,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
  Vector databases are particularly helpful in applications such as recommendation systems, image similarity search, anomaly detection, face detection, and natural language processing applications.
 
  So, what exactly is a vector database? How does it work, and when should you use them to boost AI capabilities?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is a Vector Database?
 
@@ -42,17 +34,9 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
  Vector databases are services that can easily be integrated with a pre-trained model, many of which will need an[API key to access the service](https://www.makeuseof.com/chatgpt-api-complete-guide/) .
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Are Vector Embeddings
 
  In simple terms, vector embeddings, or simply embeddings, are numerical representations of a subject or a word. For example, a two-dimensional embedding might look like "2, -3", where 2 represents two units in the positive direction along the x-axis, while -3 represents a negative three units along the y-axis. While a three-dimensional embedding would look like "2, -3, 5", where five places the data point 5 units in the positive direction of the z-axis.
@@ -63,12 +47,6 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
 
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Are Vector Embeddings Important?
 
  Having the ability to plot the location of data in mathematical space allows computers to understand the relationship between data points and how strongly correlated they are to each other. By knowing the degree of correlation between each data point, an AI model will have the capability to understand queries in a contextual manner like a human would.
@@ -86,16 +64,14 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
 * **Image and Video Analysis:** With video and image embedding models, AI models can be fine-tuned to work with images to find items that look similar to the query. This is currently being implemented in many online shopping apps and websites.
 * **Anomaly Detection:** By recording actions as embeddings, an[AI model can make the world more secure](https://www.makeuseof.com/ai-cybersecurity-making-world-more-secure/) by detecting anomalies and certain outliers based on the norm. AI Anomaly detection is now a popular tool for fraud detection, system monitoring, and network intrusion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How a Vector Database Works
 
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
 
 1. **Creation of vector embeddings:** Based on the type of data, a vector embedding model is used to generate vector embeddings to be indexed. These embedding models are what turn words, images, videos, and audio into numbers/embeddings.
@@ -103,17 +79,9 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Popular Vector Databases
 
  With the explosion of publicly available pre-trained models, vector databases rapidly gained popularity as expanded the capabilities and rate of fine-tuning of these models. And with such high demand for vector databases, many companies have started their own vector database services; here are some of the most popular ones:
@@ -124,31 +92,20 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
 * **Weaviate:** Offers schema discovery, real-time updates, semantic search, and contextualizing data. With these features, Weaviate is often used to create personalized experience systems for applications.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Future of Vector Databases
 
  With the continuous growth of high-dimensional data types for images, videos, and text, vector databases will play a crucial role in improving and expanding the capabilities of current AI models. Through constant development with vector databases, we can expect better services in the fields of healthcare, finance, e-commerce, and cybersecurity.
 
  If you want to experience and try a vector database for yourself, you can try installing Auto-GPT and implementing a vector database such as Pinecone. Of course, you will need an API key to use their services.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,4 +114,24 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-high-quality-webcam-videos-with-best-editors-for-2024/"><u>[New] High-Quality Webcam Videos with Best Editors for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-video-quality-from-youtube-to-crisp-avis-format-for-2024/"><u>[Updated] Elevate Video Quality From YouTube to Crisp Avis Format for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-self-created-soundtracks-for-your-instagram-alerts/"><u>[Updated] Self-Created Soundtracks for Your Instagram Alerts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-chic-characters-cheeky-captions-making-memes/"><u>2024 Approved Chic Characters, Cheeky Captions Making Memes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-horizonhawk-reality-check/"><u>2024 Approved HorizonHawk Reality Check</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-the-mechanics-of-predictive-ai-technology/"><u>Demystifying the Mechanics of Predictive AI Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-why-experts-prefer-claude-over-chatgpt-the-definitive-4-point-comparison/"><u>Discover Why Experts Prefer Claude Over ChatGPT: The Definitive 4-Point Comparison</u></a></li>
+<li><a href="https://win-popular.techidaily.com/effortless-techniques-for-capturing-screenshots-on-an-lg-smartphone-or-tablet/"><u>Effortless Techniques for Capturing Screenshots on an LG Smartphone or Tablet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-how-the-chatgpt-desktop-version-excels-beyond-its-web-based-platform/"><u>Exploring How the ChatGPT Desktop Version Excels Beyond Its Web-Based Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-pivotal-reasons-behind-chatgpts-swift-journey-to-global-app-stardom/"><u>Exploring the Pivotal Reasons Behind ChatGPT's Swift Journey to Global App Stardom</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-bland-drafts-to-dynamic-content-with-microsofts-ai/"><u>From Bland Drafts to Dynamic Content with Microsoft's AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-ai-forecasting-more-accurate-than-horoscope-claims/"><u>Is AI Forecasting More Accurate Than Horoscope Claims?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-resolve-backward-typing-phenomenon/"><u>Solutions to Resolve Backward Typing Phenomenon</u></a></li>
+<li><a href="https://article-files.techidaily.com/starting-strategies-for-an-engaging-fb-giveaway/"><u>Starting Strategies for an Engaging FB Giveaway</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210223931-9780008485023-ten-times-happier-how-to-let-go-of-whats-holding-you-back/"><u>Ten Times Happier: How to Let Go of What’s Holding You Back | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unearth-hidden-gems-6-must-try-chatgpt-games-for-an-ultimate-play-experience/"><u>Unearth Hidden Gems: 6 Must-Try ChatGPT Games for an Ultimate Play Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unpacking-the-turing-test-can-it-be-superseded/"><u>Unpacking the Turing Test: Can It Be Superseded?</u></a></li>
+</ul></div>
 

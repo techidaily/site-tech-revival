@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Here: How Machine Learning Revolutionizes Online Discovery and Site Interaction"
-date: 2024-12-26T16:36:50.893Z
-updated: 2024-12-28T16:18:03.631Z
+date: 2025-01-04T20:56:53.227Z
+updated: 2025-01-07T22:38:56.074Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Increased AI-Powered Attacks
 
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Throughout 2022 and 2023, we've seen just how advanced AI systems currently are. The most notable AI-based service launched during this time is ChatGPT, a language processing tool powered by artificial intelligence. Not long after its launch, stories began surfacing about[cybercriminals using ChatGPT to write malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) . While the malware only seemed to be a simple Python-based script, it showed that AI can, in fact, be leveraged maliciously.
 
@@ -48,6 +48,10 @@ It was also stated in the same report that:
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
 
  It's the gravity of supply chain's influence that has made it an attractive target for cybercriminals. As the demand for mass production and global shipping increases, so does the impact of hacks on supply chain systems.
@@ -57,6 +61,10 @@ It was also stated in the same report that:
 ## 3\. Further Adoption of Zero-Trust Systems
 
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Zero-trust systems do not rely on any user or group of users to authenticate, monitor, or store data. Additionally, every user present in a zero-trust system must authorize access to a new user, otherwise the system remains off-limits to that individual. In short, a zero-trust system is designed not to trust any one individual. All users are assumed untrustworthy unless authentication is provided by other users.
 
@@ -76,6 +84,10 @@ It was also stated in the same report that:
 
  This is just one of the numerous[types of EV hacks](https://www.makeuseof.com/can-electric-vehicles-be-hacked/) that are possible. In order to avoid this, EV manufacturers need to thoroughly vet their software to ensure vulnerabilities aren't being left behind in the code.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Improved Smart Home and IoT Security
 
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
@@ -92,27 +104,15 @@ It was also stated in the same report that:
 
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.
 
  While cloud platforms are undeniably a convenient storage option, one's ability to access data anywhere with the correct credentials creates a problem. If a hacker manages to access someone's account, they can then look at any data stored on said account—work documents, ID photos, photos and videos, financial information, or anything else.
 
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Continued Topical Email Scams
 
 ![laptop surrounded by cybersecurity buzzwords ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There's no shortage of scammers looking to profit from current events. We saw a slew of scams arise from the COVID-19 pandemic, but things don't stop there. The Russia-Ukraine war and the Israel-Palestine conflict have also been used throughout 2023 to squeeze money out of victims through social engineering.
 
@@ -121,7 +121,7 @@ It was also stated in the same report that:
  As we continue to see more conflicts, tragedies, and scandals arise, there's no doubt that cybercriminals will continue to try and profit from other people's hardships.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Each Year Brings New Cybersecurity Threats
@@ -143,21 +143,24 @@ It was also stated in the same report that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-simplifying-the-screen-recording-process-for-dell-users/"><u>[New] In 2024, Simplifying the Screen-Recording Process for Dell Users</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/essential-tips-acquiring-unparalleled-photos-for-free/"><u>Essential Tips Acquiring Unparalleled Photos for Free</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-upgrades-for-a-better-chatgpt-extensions-hub/"><u>Essential Upgrades for a Better ChatGPT Extensions Hub</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-next-level-of-conversational-agents-10-upgrades-to-chatgpt/"><u>Exploring the Next Level of Conversational Agents - 10 Upgrades to ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/getting-started-with-chatgpt-widget-in-android-expert-tips-and-tricks/"><u>Getting Started with ChatGPT Widget in Android: Expert Tips & Tricks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-ai-power-for-windows-users/"><u>Harnessing AI Power for Windows Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-chatgpt-redefines-medical-advice-top-7-insights/"><u>How ChatGPT Redefines Medical Advice: Top 7 Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-fitness-enthusiasts-can-write-more-effective-chatgpt-prompts/"><u>How Fitness Enthusiasts Can Write More Effective ChatGPT Prompts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-quickly-switch-dall-e-3-generated-artwork-from-webp-to-popular-image-types-jpg-and-png/"><u>How to Quickly Switch DALL-E 3 Generated Artwork From WebP to Popular Image Types: JPG and PNG</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-enhancing-communication-snap-camera-in-microsoft-teams/"><u>In 2024, Enhancing Communication Snap Camera in Microsoft Teams</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Nokia C12? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-seamless-integration-of-launchers-on-steam-devices/"><u>The Seamless Integration of Launchers on Steam Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-s18-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo S18 Pro Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/upgrading-your-computers-audio-replacing-onboard-sound-card-with-an-exterior-device-advice-from-yl-software-experts/"><u>Upgrading Your Computer's Audio: Replacing Onboard Sound Card with an Exterior Device – Advice From YL Software Experts</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-lgs-visionary-360-camera-review-and-technological-advances-for-2024/"><u>[New] LG's Visionary 360 Camera Review and Technological Advances for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-tune-into-trends-integrating-songs-with-reels/"><u>[Updated] 2024 Approved Tune Into Trends Integrating Songs with Reels</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ais-detective-blind-spots-an-urgent-warning/"><u>AI's Detective Blind Spots: An Urgent Warning</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/battling-anxiety-with-ai-tips-and-tricks-for-utilizing-chatgpt/"><u>Battling Anxiety with AI: Tips and Tricks for Utilizing ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-chatgpt-interactions-five-proven-methods-for-writing-high-quality-prompts/"><u>Boost Your ChatGPT Interactions: Five Proven Methods for Writing High-Quality Prompts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-allure-in-online-visuals-for-beauty/"><u>Crafting Allure in Online Visuals for Beauty</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-conversations-10-superior-personal-gpt-variants-that-outshine-chatgpt/"><u>Enhance Conversations: 10 Superior Personal GPT Variants That Outshine ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-can-you-determine-if-you-are-being-tracked-by-a-tiny-invisible-tracker-zdnet/"><u>How Can You Determine if You Are Being Tracked by a Tiny, Invisible Tracker? | ZDNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-t2-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo T2 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/llamas-3-against-gpt-4-battle-analyzing-which-emerges-victorious-in-the-ai-arena/"><u>Llamas 3 Against GPT-4 Battle: Analyzing Which Emerges Victorious in the AI Arena</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/optimizing-your-pcs-configuration-boost-its-speed-with-simple-tweaks-guided-by-yl-computing/"><u>Optimizing Your PC's Configuration: Boost Its Speed with Simple Tweaks – Guided by YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pocket-sized-ai-the-top-8-mobile-apps-for-androidios/"><u>Pocket-Sized AI: The Top 8 Mobile Apps for Android/iOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protect-yourself-from-these-5-notorious-chatgpt-scams/"><u>Protect Yourself From These 5 Notorious ChatGPT Scams</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/surpassing-chatgpt-discover-the-top-4-advantages-of-claude-3/"><u>Surpassing ChatGPT? Discover the Top 4 Advantages of Claude 3!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-new-era-of-ai-artistry-with-dall-e-3s-editable-tools-still-evolving/"><u>The New Era of AI Artistry with DALL-E 3'S Editable Tools - Still Evolving</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-oddworld-soulstorm-on-windows-ultimate-guide-to-stability/"><u>Troubleshooting Oddworld: Soulstorm on Windows – Ultimate Guide to Stability</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-xiaomi-14-pro-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Xiaomi 14 Pro</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-10-must-hear-tunes-as-your-phones-greeting-melody/"><u>Updated 10 Must-Hear Tunes as Your Phones Greeting Melody</u></a></li>
 </ul></div>
 

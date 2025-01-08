@@ -1,7 +1,7 @@
 ---
 title: "Key Considerations: Choosing ChatGPT Wisely for Psychological Support"
-date: 2024-12-22T05:06:38.859Z
-updated: 2024-12-29T03:19:55.265Z
+date: 2025-01-05T02:12:44.218Z
+updated: 2025-01-08T02:12:59.530Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is a Vector Database?
@@ -44,12 +44,16 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 ![Two and three dimensional vectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/dimensional-vector.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
 
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Are Vector Embeddings Important?
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
  Having the ability to plot the location of data in mathematical space allows computers to understand the relationship between data points and how strongly correlated they are to each other. By knowing the degree of correlation between each data point, an AI model will have the capability to understand queries in a contextual manner like a human would.
 
  Without understanding semantics or context, an AI may provide logically correct but contextually wrong answers. For example, the AI may misinterpret the phrase "He had a heavy heart as he walked away" as a guy with a heart condition instead of a guy feeling sad or burdened.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Vector Databases Help Boost AI
 
@@ -77,15 +77,15 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
 
 1. **Creation of vector embeddings:** Based on the type of data, a vector embedding model is used to generate vector embeddings to be indexed. These embedding models are what turn words, images, videos, and audio into numbers/embeddings.
 2. **Indexing:** Once vector embeddings have been generated, they can now be stored on a vector database such as Pinecone, Milvus, and Chroma. These vector databases use various algorithms, such as product quantization (PQ) and locality-sensitive hashing (LSH), to index each embedding for quick and efficient storing and retrieval of data.
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Popular Vector Databases
 
@@ -97,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 * **Weaviate:** Offers schema discovery, real-time updates, semantic search, and contextualizing data. With these features, Weaviate is often used to create personalized experience systems for applications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Future of Vector Databases
@@ -121,14 +121,20 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/gpu-non-detection-seek-immediate-assistance/"><u>GPU Non-Detection, Seek Immediate Assistance</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-sharing-videos-the-ultimate-youtube-photo-poster/"><u>In 2024, Expert Tips for Sharing Videos The Ultimate YouTube Photo Poster</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-itel-a05s-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Itel A05s</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-success-6-strategies-for-excelling-amidst-artificial-intelligence-revolution/"><u>Navigating Success: 6 Strategies for Excelling Amidst Artificial Intelligence Revolution</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-chatgpts-default-add-ons-insights-into-their-roles-and-applications/"><u>Navigating Through ChatGPT's Default Add-Ons: Insights Into Their Roles and Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-wellness-queries-here-are-7-good-points-to-choose-chatgpt-as-your-ai-doctor/"><u>Navigating Wellness Queries? Here Are 7 Good Points to Choose ChatGPT as Your AI Doctor</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-online-video-flipper-top-tools-for-the-job/"><u>New In 2024, Online Video Flipper Top Tools for the Job</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/no-deterioration-in-chatgpt-ai-says-openai/"><u>No Deterioration in ChatGPT AI, Says OpenAI</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-fixes-for-iphone-call-failures-get-connected-now/"><u>Quick Fixes for iPhone Call Failures – Get Connected Now!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snap-into-fun-step-by-step-guide-for-adding-gifs-in-conversations/"><u>[New] Snap Into Fun Step-by-Step Guide for Adding Gifs in Conversations</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevating-your-channel-maximizing-adsense-on-youtube/"><u>[Updated] 2024 Approved Elevating Your Channel Maximizing AdSense on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastery-in-monitoring-adding-time-based-events-to-obs/"><u>[Updated] Mastery in Monitoring Adding Time-Based Events to OBS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-quick-guide-to-mobile-devices-becoming-virtual-reality-hubs-for-2024/"><u>[Updated] The Quick Guide to Mobile Devices Becoming Virtual Reality Hubs for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-vr-accessories-unleashed-in-depth-reviews-for-2024/"><u>[Updated] VR Accessories Unleashed In-Depth Reviews for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-newest-drivers-to-unlock-full-potential-of-your-huion-h610-pro-digital-artboard/"><u>Install the Newest Drivers to Unlock Full Potential of Your Huion H610 Pro Digital Artboard</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macos-guide-effortless-transformation-of-wmv-files-into-high-quality-mov-format/"><u>MacOS Guide: Effortless Transformation of WMV Files Into High-Quality MOV Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-your-icloud-capacity-a-step-by-step-guide-to-clearing-space-and-earn-extra-storage/"><u>Maximize Your iCloud Capacity: A Step-by-Step Guide to Clearing Space & Earn Extra Storage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/schritt-fur-schritt-anleitung-zum-umwandeln-von-videos-mit-handbrake-auf-deutsch/"><u>Schritt-Für-Schritt-Anleitung Zum Umwandeln Von Videos Mit Handbrake Auf Deutsch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-repair-exploration-sifting-through-disms-role-with-chkdsksfc/"><u>System Repair Exploration: Sifting Through DISM's Role with CHKDSK/SFC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-complete-guide-to-the-garmin-forerunner-945-a-revolutionary-multi-sport-tracking-device/"><u>The Complete Guide to the Garmin Forerunner 945 - A Revolutionary Multi-Sport Tracking Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-15-video-transcoding-tools-for-macos-comprehensive-free-and-premium-options/"><u>Top 15 Video Transcoding Tools for macOS: Comprehensive Free and Premium Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-vignette-editing-apps-for-mobile-devices-free-and-premium-options-for-2024/"><u>Top Vignette Editing Apps for Mobile Devices Free and Premium Options for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-common-video-streaming-issues-a-comprehensive-guide/"><u>Troubleshooting Common Video Streaming Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-top-macx-mobile-video-transformer-the-premier-no-cost-tool-for-editing-videos-on-your-smartphone/"><u>Ultimate Top MacX Mobile Video Transformer - The Premier No-Cost Tool for Editing Videos on Your Smartphone</u></a></li>
 </ul></div>
 

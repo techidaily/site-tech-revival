@@ -1,7 +1,7 @@
 ---
 title: New AI Boss Challenges GPT Outlook
-date: 2024-12-25T18:46:28.523Z
-updated: 2024-12-28T16:29:09.309Z
+date: 2025-01-01T01:42:25.174Z
+updated: 2025-01-08T03:05:07.947Z
 tags:
   - chatgpt
   - open-ai
@@ -20,16 +20,16 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is Google's Gemini AI Model?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#what-is-google-39-s-gemini-ai-model)
 * [How to Use Google Gemini AI](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#how-to-use-google-gemini-ai)
 * [How Gemini Compares to GPT-3.5 and GPT-4](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#how-gemini-compares-to-gpt-3-5-and-gpt-4)
 * [Is Gemini Better than ChatGPT?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#is-gemini-better-than-chatgpt)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -57,13 +57,13 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Google Gemini AI
 
@@ -94,19 +94,23 @@ Here's the source screenshot.
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
@@ -118,10 +122,6 @@ Here's the source screenshot.
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Gemini Better than ChatGPT?
 
@@ -144,18 +144,17 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-viral-videos-on-youtube-a-strategic-plan/"><u>[New] 2024 Approved Crafting Viral Videos on YouTube A Strategic Plan</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-quick-pexels-tips-for-visual-explorers/"><u>[New] Quick Pexels Tips for Visual Explorers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-device-efficiency-disabling-run-time-android-application-activities/"><u>Boosting Device Efficiency: Disabling Run-Time Android Application Activities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-versus-google-translate-an-in-depth-look-at-language-capabilities/"><u>ChatGPT Versus Google Translate – An In-Depth Look at Language Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-versus-google-translate-a-battle-for-best-language-conversion-tools/"><u>ChatGPT Versus Google Translate: A Battle for Best Language Conversion Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decode-the-mystery-can-codegpt-actually-write-functional-code/"><u>Decode the Mystery: Can CodeGPT Actually Write Functional Code?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-the-tech-an-insight-into-how-seven-cutting-edge-tools-utilize-gpt-4-capabilities/"><u>Demystifying the Tech: An Insight Into How Seven Cutting-Edge Tools Utilize GPT-4 Capabilities</u></a></li>
-<li><a href="https://fox-that.techidaily.com/detecting-moisture-damage-key-indicators-on-iphones/"><u>Detecting Moisture Damage: Key Indicators on iPhones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/do-real-world-dialogues-enhance-chatgpts-knowledge-base/"><u>Do Real-World Dialogues Enhance ChatGPT’s Knowledge Base?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On OnePlus Ace 3? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ring-youtube-team-ups-finding-perfect-co-stars/"><u>Mastering YouTube Team-Ups Finding Perfect Co-Stars</u></a></li>
-<li><a href="https://fox-that.techidaily.com/utilize-readonly-fields-where-applicable/"><u>Utilize Readonly Fields Where Applicable.</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-fundamentals-of-earnings-on-youtube/"><u>[New] 2024 Approved The Fundamentals of Earnings on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-skip-the-hassle-find-4-ringtone-sources-here/"><u>[New] Skip the Hassle Find 4 Ringtone Sources Here</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oneplus-nord-n30-se-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/data-protection-concerns-with-chatgpt-heres-your-pathway-to-opt-out/"><u>Data Protection Concerns with ChatGPT? Here's Your Pathway to Opt-Out</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/essential-guide-fetching-twitter-videos-directly-from-mobile/"><u>Essential Guide Fetching Twitter Videos Directly From Mobile</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-enhanced-interaction-through-effective-zoom-screenshares/"><u>In 2024, Enhanced Interaction Through Effective Zoom Screenshares</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-oneplus-12-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For OnePlus 12</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-crypto-discussion-starters-for-engaging-conversations-with-chatgpt/"><u>Leading Crypto Discussion Starters for Engaging Conversations with ChatGPT</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/screen-recording-made-simple-5-essential-strategies-for-minecraft-mac-for-2024/"><u>Screen Recording Made Simple 5 Essential Strategies for Minecraft (Mac) for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-paradox-of-machine-writing-how-chatgpt-struggles-with-self-identification/"><u>The Paradox of Machine Writing: How ChatGPT Struggles with Self-Identification</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-five-essential-drawbacks-of-leveraging-chatgpt-in-cryptocurrency-analysis/"><u>Unveiling Five Essential Drawbacks of Leveraging ChatGPT in Cryptocurrency Analysis</u></a></li>
 </ul></div>
 

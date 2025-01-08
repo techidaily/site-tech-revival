@@ -1,7 +1,7 @@
 ---
 title: How Effective Is Watson in Handling Complex Arithmetic Issues?
-date: 2024-12-26T05:16:33.121Z
-updated: 2024-12-29T03:38:38.689Z
+date: 2024-12-31T16:17:38.563Z
+updated: 2025-01-08T02:29:44.361Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Siri vs. ChatGPT: How Are They Different?
 
  The most fundamental difference between the two arises in their purpose. While ChatGPT is a language-based model with the ability to hold a human-like conversation, Siri is a virtual assistant that responds to commands and performs various tasks on Apple devices.
@@ -31,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
  It's safe to say both occupy completely different niches despite being run by AI. It's not much of a race if they're both playing a different sport, is it? We'll dissect some specific differences down below so that you know which is better suited for your purpose.\\
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Real-Time Updates
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
  For example, if you try to ask the chatbot to tell you today's weather or the date of Queen Elizabeth's death, it will tell you it does not have access to current weather conditions and that Queen Elizabeth is still alive according to its knowledge. Live events and breaking news are also no-shows for ChatGPT.
 
  Siri, on the other hand, can give you real-time updates on the weather and other things like the stock market, and its database is updated regularly, so it does not have a knowledge cutoff as old as ChatGPT does. Siri will immediately tell you the date Queen Elizabeth passed away and what the weather will be like tomorrow.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Engaging in Conversations
 
@@ -56,13 +64,13 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
  Siri is much more focused on implementing tasks and executing your command. Thus, its answers are usually short and straightforward. Its ability to carry out a long conversation and understand context is relatively low, so it's definitely not something you would want to use if you need long, explanatory answers and a back-and-forth conversation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Activation
 
 ![voice recognition homepod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/voice-recognition-homepo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit:[Apple](https://support.apple.com/en-us/HT204753)
 
@@ -76,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
 ![iOS 16.2 Siri shutdown prompt on iPhone offering the Cancel and Power Off options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/apple-ios-16-2-siri-prompt-turn-off-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  One of the most significant differences between the two emerges when executing tasks. This is where Siri excels, and it's also where its primary purpose lies. As Apple's official virtual assistant, the AI model is here to help make your everyday tasks easier and more efficient.
 
  You can ask Siri to control a home device, turn on Bluetooth, switch to[Low Power Mode](https://www.makeuseof.com/iphone-low-power-mode/) , set the alarm, make a phone call—you name it, Siri can do it. It's here to make your life convenient.
@@ -90,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
 ![A ChatGPT screenshot showing a personalized output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-personalized-responses.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Siri and ChatGPT both hold power to answer your queries, albeit in slightly different ways. Put forth a question for Siri, and it will give you a short and sweet response.
 
  For example, ask Siri when World War 2 occurred, and it will tell you the exact date and leave it at that. However, ChatGPT, with its enormous training data, provides a broader spectrum of information. Give it the same question, and the chatbot responds with a paragraph of details about World War 2 alongside the date. Its large database is one of the reasons there is speculation that[ChatGPT will replace jobs](https://www.makeuseof.com/can-chatgpt-replace-me/) in the future.
@@ -97,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
  Apart from the amount of information given, both also differ in the way information is provided. If you pose Siri with an open-ended question or a creative scenario like "What is the Bermuda Triangle?" or "What is a black hole?", the virtual assistant will list relevant web searches and links you can sift through to gain your information on the matter.
 
  When ChatGPT is posed with the same questions, it will do all the hard work for you. It will run through all the data it has and give you a well-formulated answer, so you don't have to spend your time poring over large chunks of text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Both Siri and ChatGPT for the Best Results
 
@@ -119,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 ![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -138,16 +142,12 @@ Now:
 ![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
  Now all you have to say is, "Hey Siri, launch ChatGPT 1.2.4," and the chatbot will work. You can also use shortcuts apart from the one listed above, so make sure to pick out the option you find easiest.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Siri vs. ChatGPT: Two Completely Different AI Models
 
@@ -170,21 +170,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-essential-8-websites-fusing-impressive-3d-and-opulent-texts-for-2024/"><u>[New] Essential 8 Websites Fusing Impressive 3D & Opulent Texts for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-experts-guide-to-infinite-space-utilization-for-2024/"><u>[New] Expert's Guide to Infinite Space Utilization for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-free-webinar-creation-and-management-on-youtube-for-2024/"><u>[Updated] Free Webinar Creation & Management on Youtube for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-transform-into-a-live-stream-enthusiast-on-tiktok-for-2024/"><u>[Updated] Transform Into a Live-Stream Enthusiast on TikTok for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-poco-c55-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Poco C55 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ning-dynamic-denouements-for-2024/"><u>Designing Dynamic Denouements for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-transform-your-footage-how-to-add-stunning-effects-in-fcp-x-3-steps/"><u>New In 2024, Transform Your Footage How to Add Stunning Effects in FCP X (3 Steps)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/time-narrative-builder-for-2024/"><u>Real-Time Narrative Builder for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-7-file-deletion-algorithms-securely-erase-your-data-forever/"><u>Top 7 File Deletion Algorithms - Securely Erase Your Data Forever!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-public-private-and-personal-ai-key-distinctions-explained/"><u>Understanding Public, Private & Personal AI: Key Distinctions Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-attraction-of-cybercriminals-to-popular-tools-such-as-chatgpt/"><u>Understanding the Attraction of Cybercriminals to Popular Tools Such as ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-bings-ai-capabilities-sign-up-method/"><u>Unlocking Bing’s AI Capabilities: Sign Up Method</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-new-possibilities-combining-chatgpt-and-siri-features-on-iphones/"><u>Unlocking New Possibilities: Combining ChatGPT and Siri Features on iPhones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-ransomware-with-mobile-economy-wisdom/"><u>Unraveling Ransomware with Mobile Economy Wisdom</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-emotion-ai-is-it-really-possible-for-technology-to-understand-and-interpret-human-emotions-accurately/"><u>Unveiling Emotion AI - Is It Really Possible for Technology to Understand and Interpret Human Emotions Accurately?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-shapley-value-explainers-shape-how-does-openais-innovation-function/"><u>Unveiling Shapley Value Explainers (ShapE): How Does OpenAI's Innovation Function?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-bite-sized-beatstories-role-and-tune-fusion/"><u>[New] In 2024, Bite-Sized Beatstories Role & Tune Fusion</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cutting-the-excess-a-guide-to-shortening-youtube-videos/"><u>[Updated] 2024 Approved Cutting the Excess A Guide to Shortening YouTube Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-top-metaverse-content-creators-and-their-hilarity/"><u>[Updated] 2024 Approved Top Metaverse Content Creators & Their Hilarity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-guide-discovering-every-image-on-your-windows-11-computer/"><u>Complete Guide: Discovering Every Image on Your Windows 11 Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/connecting-your-ps5-dualsense-wireless-controllers-with-windows-10-a-step-by-step-guide/"><u>Connecting Your PS5 DualSense Wireless Controllers with Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-a-multitude-of-authentic-mac-gaming-titles-across-steam-gog-and-epic-a-guide-to-finding-them/"><u>Discover a Multitude of Authentic Mac Gaming Titles Across Steam, GOG & Epic - A Guide to Finding Them</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-the-invisible-step-by-step-instructions-for-finding-and-displaying-hidden-files-in-macos/"><u>Discovering the Invisible: Step-by-Step Instructions for Finding and Displaying Hidden Files in macOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-windows-11-at-no-cost-a-comprehensive-guide/"><u>Download Windows 11 at No Cost: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embracing-the-appeal-my-journey-through-apples-seamless-ecosystem/"><u>Embracing the Appeal: My Journey Through Apple's Seamless Ecosystem</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhanced-integration-how-chromebook-compatibility-with-microsoft-office-and-onedrive-has-improved/"><u>Enhanced Integration: How Chromebook Compatibility with Microsoft Office & OneDrive Has Improved</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-poco-c55-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Poco C55 Location | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-auditory-delights-in-cinema-celebrating-the-best-8-film-soundscapes-for-2024/"><u>New Auditory Delights in Cinema - Celebrating the Best 8 Film Soundscapes for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-technical-glitches-in-spellbreak-for-pc-players/"><u>Resolving Technical Glitches in Spellbreak for PC Players</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/selecting-video-editors-filmora-vs-democreator-compared-for-2024/"><u>Selecting Video Editors Filmora Vs. Democreator Compared for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125957-9781609254315-the-pictorial-key-to-the-tarot/"><u>The Pictorial Key to the Tarot | Free Book</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/vulkan-runtime-libraries-what-is-it-and-what-to-do-about-it/"><u>Vulkan RunTime Libraries – What Is It and What to Do About It?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Essential Tips: Leveraging ChatGPT Effectively for Your Writing Gigs"
-date: 2024-12-28T05:06:45.856Z
-updated: 2024-12-28T20:49:13.850Z
+date: 2024-12-31T22:57:22.967Z
+updated: 2025-01-08T00:37:09.671Z
 tags:
   - chatgpt
   - open-ai
@@ -35,14 +35,6 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
  In the example below, after having a long discussion about the US military, we asked ChatGPT to tell us about some global conflicts, and it only picked those with some form of US participation.
 
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Too Many Instructions In a Single Prompt
 
@@ -87,6 +79,10 @@ You could use:
 
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Not Using Examples
 
  Incorporating examples is a crucial aspect of[crafting effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) . While not every prompt necessitates an example, when the opportunity arises, including one can greatly enhance the specificity and accuracy of ChatGPT's responses.
@@ -99,30 +95,34 @@ You could use:
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Not Being Clear and Specific With Your Instructions
@@ -152,20 +152,17 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-quick-fixes-to-resume-paused-stream-on-facebook/"><u>[New] Quick Fixes to Resume Paused Stream on Facebook</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-be-moved-by-motivation-top-15-tiktok-talents-today/"><u>[Updated] Be Moved by Motivation Top 15 TikTok Talents Today</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-chuckle-champs-twitters-humor-heap/"><u>2024 Approved Chuckle-Champs Twitter’s Humor Heap</u></a></li>
-<li><a href="https://discover-community.techidaily.com/boost-your-pcs-performance-expert-tips-from-yl-computings-latest-guide/"><u>Boost Your PC's Performance: Expert Tips From YL Computing's Latest Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/engage-on-major-networks-navigate-facebook-twitter-instagram-and-youtube-successfully/"><u>Engage on Major Networks: Navigate Facebook, Twitter, Instagram & Youtube Successfully</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/envisioning-innovation-4-essential-upgrades-for-next-gen-gpt-n-model/"><u>Envisioning Innovation: 4 Essential Upgrades for Next-Gen GPT-N Model</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/envisioning-tomorrow-exploring-gpts-significant-innovations/"><u>Envisioning Tomorrow: Exploring GPT's Significant Innovations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-errors-what-not-to-do-with-generative-ai-technology/"><u>Essential Errors: What NOT to Do with Generative AI Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-remedies-for-chatgpts-most-recurrent-faults/"><u>Essential Remedies for ChatGPT's Most Recurrent Faults</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-advantages-and-disadvantages-of-chatgpt-plus-a-detailed-analysis/"><u>Exploring the Advantages & Disadvantages of ChatGPT Plus: A Detailed Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/extract-digest-and-understand-4-advanced-tips-for-chatgpt-and-pdfs/"><u>Extract, Digest & Understand: 4 Advanced Tips for ChatGPT and PDFs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-to-use-travel-wizards-the-compilation-of-top-7-planning-apps/"><u>Free-to-Use Travel Wizards - The Compilation of Top 7 Planning Apps</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-samsung-galaxy-xcover-7-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Samsung Galaxy XCover 7 to iPad | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-creativity-through-intense-iphone-photos-for-2024/"><u>Unlocking Creativity Through Intense iPhone Photos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-your-blogs-imagery-adding-company-logowatermark-to-videos/"><u>[New] In 2024, Boost Your Blog's Imagery Adding Company Logo/Watermark to Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-endless-viewing-with-iphone-writes-of-video/"><u>[Updated] In 2024, Endless Viewing with iPhone' Writes of Video</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-uncomplicated-blueprint-for-crafting-successful-ads-online-for-2024/"><u>[Updated] Uncomplicated Blueprint for Crafting Successful Ads Online for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/behind-the-scenes-of-huggingchat-the-chatgpt-free-counterpart/"><u>Behind the Scenes of HuggingChat - The ChatGPT Free Counterpart</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-fix-for-qualcomm-atheros-bluetooth-drivers-that-wont-work-on-windows-11/"><u>Comprehensive Fix for Qualcomm Atheros Bluetooth Drivers That Won't Work on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/content-design-powered-by-canva-and-gpts-batch-capabilities/"><u>Content Design Powered by Canva & GPT's Batch Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/empowering-communication-with-intelligence-how-to-forge-a-specialized-chatbot-using-your-own-dataset/"><u>Empowering Communication with Intelligence: How to Forge a Specialized Chatbot Using Your Own Dataset</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-overcoming-windows-10-wont-install-challenges-your-ultimate-fix-guide/"><u>Expert Tips for Overcoming 'Windows 10 Won't Install' Challenges - Your Ultimate Fix Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-leverage-chatgpts-power-in-writing-compelling-youtube-video-scripts/"><u>How to Leverage ChatGPT's Power in Writing Compelling YouTube Video Scripts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/internal-oversights-by-chatgpt-writers/"><u>Internal Oversights by ChatGPT Writers</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-the-most-straightforward-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>New The Most Straightforward Guide to Learning How to Clone Your Voice for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-musical-notes-understanding-youtube-shorts-for-2024/"><u>Quick Musical Notes Understanding YouTube Shorts for 2024</u></a></li>
 </ul></div>
 

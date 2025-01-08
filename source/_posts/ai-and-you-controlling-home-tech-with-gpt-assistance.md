@@ -1,7 +1,7 @@
 ---
 title: "AI and You: Controlling Home Tech with GPT Assistance"
-date: 2024-12-27T20:48:52.287Z
-updated: 2024-12-29T08:13:45.742Z
+date: 2025-01-01T20:42:30.352Z
+updated: 2025-01-08T01:17:02.396Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 1: Download Python and AutoGPT
 
@@ -58,6 +62,10 @@ After Installing Python, you can download Auto-GPT from GitHub.
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
 4. Once opened, scroll down to the**LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
 
  This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
@@ -77,10 +85,6 @@ python -m autogpt
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
 
 Congratulations! You have successfully Installed Auto-GPT.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Auto-GPT
 
@@ -105,7 +109,7 @@ Congratulations! You have successfully Installed Auto-GPT.
 ![Running Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-recipe-generator-thinking.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once you give your last goal, you can hit enter for Auto-GPT to run.
@@ -119,7 +123,7 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 ![AutoGPT downloading file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-recipe-generator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This makes this[AI potentially dangerous](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) ; that's why Auto-GPT always asks you for authorization before executing plans. Always read and understand your AI assistant's thoughts, reasoning, and plan before authorizing its actions.
@@ -128,15 +132,15 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 
 ![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
 
 After making the recipe, our AI has now completed its task.
 
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To view the output, go to your Auto-GPT folder and**open auto-gpt-workspace** .
 
@@ -145,7 +149,7 @@ After making the recipe, our AI has now completed its task.
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Auto-GPT Limitations
@@ -159,10 +163,6 @@ After making the recipe, our AI has now completed its task.
  Other problems that contribute to Auto-GPT getting stuck are the model struggling to handle or navigate website advertising and cookies, login pages, and all kinds of pop-ups (the stuff humans hate, too!).
 
  Using GPT-4 will noticeably reduce hallucinations and improve overall performance. However, its context size is still limited to 8,000 tokens. After reaching the 8k-token mark, GPT-4 will start losing context starting from the beginning of the task, affecting results. Furthermore, using GPT-4 is several times pricier than GPT-3.5 ([each GPT token has a cost](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) ). You'll want to set limits through your API account.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Future of Auto-GPT
 
@@ -185,21 +185,24 @@ After making the recipe, our AI has now completed its task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-tomorrows-reality-progress-in-virtual-worlds/"><u>[New] 2024 Approved Tomorrow's Reality Progress in Virtual Worlds</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-6-sustainable-mc-base-designs/"><u>[Updated] In 2024, Top 6 Sustainable MC Base Designs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-8-youtube-thumbnail-grabbers/"><u>[Updated] Top 8 YouTube Thumbnail Grabbers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-transforming-youtube-descriptions-leveraging-template-power-for-2024/"><u>[Updated] Transforming YouTube Descriptions Leveraging Template Power for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-power-of-pause-effectively-responding-to-comments/"><u>2024 Approved The Power of Pause Effectively Responding to Comments</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversation-privacy-tactics-against-gpt-savings/"><u>Conversation Privacy Tactics Against GPT Savings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafted-perfection-discover-the-1e-custom-ai-models-elevating-beyond-basic-chatgpt/"><u>Crafted Perfection: Discover the 1E Custom AI Models Elevating Beyond Basic ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-online-communication-the-dead-internet-theory-uncovered/"><u>Deciphering Online Communication: The 'Dead Internet' Theory Uncovered</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-the-impact-of-chatgpt-litigations-evolving-features-in-google-news-streams-and-achieving-prime-internet-access-for-mobile-devices-amidst-travel.16/"><u>Deciphering the Impact of ChatGPT Litigations, Evolving Features in Google News Streams & Achieving Prime Internet Access for Mobile Devices Amidst Travel</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/desktop-advantages-why-choose-the-chatgpt-app-over-the-website/"><u>Desktop Advantages: Why Choose the ChatGPT App over the Website?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-four-key-benefits-of-transitioning-from-chatgpt-to-claude-3/"><u>Discover the Four Key Benefits of Transitioning From ChatGPT to Claude 3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dissecting-syntax-giants-unveiling-gpt-and-bert-distinctions/"><u>Dissecting Syntax Giants: Unveiling GPT & BERT Distinctions</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-asus-rog-phone-8-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Asus ROG Phone 8 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-lava-yuva-3-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Lava Yuva 3 Pro to New Android? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-poco-c55-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Poco C55 Phone? Unlock It Now</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-an-ai-headshot-generator-wondershare-virbo-glossary/"><u>New 2024 Approved What Is an AI Headshot Generator? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-pioneering-televised-facebook-interactions-via-live-streams/"><u>[New] In 2024, Pioneering Televised Facebook Interactions via Live Streams</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-enhancing-facebook-traffic-with-innovative-video-techniques/"><u>[Updated] 2024 Approved Enhancing Facebook Traffic with Innovative Video Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-obs-broadcasting-your-skype-voice-capture-methods-for-2024/"><u>[Updated] OBS Broadcasting Your Skype Voice Capture Methods for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-stream-like-a-pro-optimizing-your-360-youtube-broadcasts/"><u>2024 Approved Stream Like a Pro Optimizing Your 360° Youtube Broadcasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-inaccessible-page-errors-for-windows-store-apps/"><u>Addressing Inaccessible Page Errors for Windows Store Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-programming-assistant-of-2023-github-copilot-or-chatgpt-takes-on-the-challenge/"><u>Best Programming Assistant of 2023: GitHub Copilot or ChatGPT Takes on the Challenge</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-on-your-fingertips-how-to-get-the-cutting-edge-ios-application/"><u>ChatGPT on Your Fingertips - How to Get the Cutting-Edge iOS Application</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-overcoming-humankind-game-failure-to-load/"><u>Effective Solutions for Overcoming 'Humankind' Game Failure to Load</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-entry-to-next-gen-ai-gpt-4s-secrets-unveiled/"><u>Free Entry to Next-Gen AI: GPT-4's Secrets Unveiled</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-the-chatgpt-desktop-version-outshines-its-web-counterpart/"><u>How the ChatGPT Desktop Version Outshines Its Web Counterpart</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/incorporating-gpt-references-highlighting-your-unique-ai-models-in-chatgpt-dialogues/"><u>Incorporating GPT References: Highlighting Your Unique AI Models in ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-using-chatgpt-secure-a-comprehensive-guide-to-uncovering-6-significant-cybersecurity-hazards/"><u>Is Using ChatGPT Secure? A Comprehensive Guide to Uncovering 6 Significant Cybersecurity Hazards</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-success-top-strategies-for-flourishing-amidst-artificial-intelligence-advancements/"><u>Navigating Success: Top Strategies for Flourishing Amidst Artificial Intelligence Advancements</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-to-a-cleaner-chatgpt-experience/"><u>Navigating to a Cleaner ChatGPT Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-creativity-with-free-dall-e-3-on-microsofts-bing-platform/"><u>Transform Your Creativity with Free DALL-E 3 on Microsoft's Bing Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vocal-vanquishers-bards-and-chatgpt-clash-with-llama-companions/"><u>Vocal Vanquishers: Bards & ChatGPT Clash with Llama Companions</u></a></li>
 </ul></div>
 

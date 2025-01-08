@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Progression: A Step-by-Step Breakdown of OpenAI's GPT Models, Spanning GPT-1 Through GPT-4"
-date: 2024-12-22T02:34:56.047Z
-updated: 2024-12-28T18:47:04.234Z
+date: 2025-01-05T20:29:56.054Z
+updated: 2025-01-07T20:29:21.155Z
 tags:
   - chatgpt
   - open-ai
@@ -26,9 +26,17 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Multi-Modal AI and DIY: What Is a Multi-Modal AI?
 
 ![An electric bulb on a black chalkboard with chat bubbles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bulb-on-chalkboard.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Multi-modal AI refers to AI models that can process and understand different types of data, such as text, images, and videos. Get this, if GPT-4 becomes a multi-modal AI, it will be a game changer for DIY enthusiasts.
 
@@ -37,30 +45,22 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
  It could also provide step-by-step instructions that incorporate both text and visual cues, making it easier for users to follow along. With multi-modal capabilities, GPT-4 could open up a whole new world of possibilities for DIY enthusiasts looking to take on more complex projects.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Will GPT-4 Speed Up DIY Development?
 
 ![Woman working on a circuit board](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/woman-working-on-a-circuit-board.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As the field of NLP continues to evolve, the release of GPT-4 is highly anticipated due to its potential to accelerate DIY development.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Advanced Language Processing Capabilities
 
  Large-scale language generation is a feature that will allow the generation of large, coherent, and accurate texts that provide informative responses to DIY enthusiasts. A multilingual support feature will also diversify the use of the language model by the DIY community, hence promoting collaboration and quickening the formation and implementation of ideas.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### AI-Based IDE Plugins
 
@@ -76,13 +76,13 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 ![A white robot assistant with a tablet with user interface attached to the chest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/white-robot-assistant.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microcontroller-based platforms could benefit greatly from advancements in AI models such as ChatGPT4\. Integrating these models can expand the processing power and memory of the platforms, leading to more accurate data analysis from embedded and IoT systems. Speaking of this, we've covered many[Arduino IoT projects](https://www.makeuseof.com/best-arduino-iot-projects/) you can try without waiting for GPT advancements.
 
  Predictive maintenance measures could also be developed using this data. In the future, lightweight AI versions could even be integrated into devices for DIY projects using compression techniques. Generally, DIY partakers will soon be able to efficiently ideate, research, implement, and modify projects.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bringing AI to the DIY World
 
@@ -103,16 +103,20 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-cutting-edge-imaging-a-shoppers-selection-process/"><u>[New] Navigating Cutting-Edge Imaging A Shopper's Selection Process</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-best-mac-screen-grabbers-compiled-here/"><u>[Updated] Best Mac Screen Grabbers Compiled Here</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-oppo-k11x-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Oppo K11x Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-the-risk-of-employer-sanctions-for-using-chatgpt-tools/"><u>Assessing the Risk of Employer Sanctions for Using ChatGPT Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bring-chatgpt-to-your-linux-desktop-using-shellgpt-with-ubuntus-terminal/"><u>Bring ChatGPT to Your Linux Desktop: Using ShellGPT with Ubuntu's Terminal</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-decoded-a-guide-to-the-versatile-uses-of-its-source-code-translator/"><u>ChatGPT Decoded: A Guide to the Versatile Uses of Its Source Code Translator</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-a-potential-data-privacy-concern/"><u>ChatGPT: A Potential Data Privacy Concern?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/humor-unleashed-top-meme-creator/"><u>Humor Unleashed Top Meme Creator</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/strategies-for-structuring-an-efficient-collaborative-office-environment/"><u>Strategies for Structuring an Efficient, Collaborative Office Environment</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-motorola-edge-40-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Motorola Edge 40</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-backing-up-your-chat-history-with-chatgpt/"><u>The Ultimate Guide to Backing Up Your Chat History with ChatGPT</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-tips-for-obs-on-android-platforms-for-2024/"><u>[Updated] Essential Tips for OBS on Android Platforms for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/base-vs-augmented-choose-your-preferred-chatgpt-approach/"><u>Base vs Augmented: Choose Your Preferred ChatGPT Approach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/breaking-the-code-barrier-how-chatgpt-translates-text/"><u>Breaking the Code Barrier: How ChatGPT Translates Text</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/continuous-knowledge-flow-from-chatgpt-to-public/"><u>Continuous Knowledge Flow From ChatGPT to Public</u></a></li>
+<li><a href="https://win11.techidaily.com/evaluating-the-disparity-between-remote-windows-upgrades-and-purchases/"><u>Evaluating the Disparity Between Remote Windows Upgrades & Purchases</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-your-network-speed-with-newly-released-wlan-drivers-compatible-with-win11-10-8-and-n7/"><u>Improve Your Network Speed with Newly Released WLAN Drivers – Compatible with Win11, 10, 8 & N7</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-11-pro-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 11 Pro Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-honor-magic-6-pro-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Honor Magic 6 Pro</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-steering-clear-of-stereotypes-with-your-youtube-channel-name/"><u>In 2024, Steering Clear of Stereotypes with Your YouTube Channel Name</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/live-stream-champions-clash-pick-your-preferred-software/"><u>Live Stream Champions Clash – Pick Your Preferred Software?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-keeping-a-record-accessing-past-chatgpt-exchanges-easily/"><u>Mastering the Art of Keeping a Record: Accessing Past ChatGPT Exchanges Easily</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/minds-eye-marvels-da-vinci-3s-top-30-ai-image-ideas/"><u>Mind’s Eye Marvels: Da Vinci 3'S Top 30 AI Image Ideas</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-key-configurations-controlled-by-admin-in-windows-os/"><u>Resolved: Key Configurations Controlled by Admin in Windows OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-hidden-pitfalls-why-you-shouldnt-use-an-ai-for-personal-counseling-or-diagnosis/"><u>The Hidden Pitfalls: Why You Shouldn't Use an AI for Personal Counseling or Diagnosis</u></a></li>
+<li><a href="https://fox-that.techidaily.com/usb-c-liquid-warning-on-iphone-understanding-and-resolution-steps/"><u>USB-C Liquid Warning on iPhone: Understanding and Resolution Steps</u></a></li>
 </ul></div>
 

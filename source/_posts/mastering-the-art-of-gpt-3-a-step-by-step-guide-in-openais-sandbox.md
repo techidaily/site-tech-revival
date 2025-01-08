@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of GPT-3: A Step-by-Step Guide in OpenAI's Sandbox"
-date: 2024-12-24T22:43:20.246Z
-updated: 2024-12-29T01:55:12.927Z
+date: 2024-12-31T23:47:03.247Z
+updated: 2025-01-07T18:29:58.823Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/14a25359b86e19d1002308583500dde5e5cec0555
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Auto-GPT is an automation AI model that uses GPT-3.5 or GPT-4 to complete tasks independently, making it like a personal assistant that can automate most of your tasks.
@@ -31,12 +35,16 @@ thumbnail: https://thmb.techidaily.com/14a25359b86e19d1002308583500dde5e5cec0555
  Well, there is a new kid on the block that makes it even easier to use GPT-4: Auto-GPT. How does it work? And can you use it without GPT-4?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Auto-GPT?
 
 ![Woman working on a laptop with a cup of coffee](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-on-desk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Auto-GPT is an automation AI model that uses GPT-3.5 or GPT-4 to complete tasks independently. In other words, Auto-GPT can develop its own prompts and answer autonomously to complete an objective.[Auto-GPT differs from ChatGPT](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/) because it doesn't need a human agent to prompt it every step of the way.
 
@@ -56,10 +64,6 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 ![A tab showing a tab to install Python ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-install-python.jpg)
 2. Download[Auto-GPT source code](http://github.com/Significant-Gravitas/Auto-GPT) from GitHub.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Extract the ZIP archive and copy the Auto-GPT folder to your preferred location.
 4. Search for the ".env" file in the folder, right-click it, and select**Open with Notepad.**
 5. Visit your OpenAI account, and on the top right of your screen, click**Personal** and select**View** **API keys** . This should take you to the[OpenAI API keys page](https://platform.openai.com/account/api-keys) while you're signed in.  
@@ -67,11 +71,15 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 6. Copy your secret API keys from Open AI. If you don't have API keys, click on**Create new secret key** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Screenshot showing blurred out OpenAI API keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/api-keys.jpg)
 7. Replace the "your-openai-api-key" text in the ".env.template" file with the API keys.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![A notepad showing blurred out OpenAI key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/notepad.jpg)
 8. Create a free account on[pinecone.io](https://www.pinecone.io/) . Once you've signed in to your account, select**API Keys** and click**Create API Key** . However, it's not mandatory you use pinecone.io to install Auto-GPT—if you're put on a waiting list, you can skip to step 12.
@@ -85,16 +93,8 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 ![Open AutoGPT environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/10-open-terminal.jpg)
 13. After you've opened the Terminal, enter "pip install -r requirements.txt" to automatically download and install the necessary libraries for Auto-GPT.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/11-pip-install-requirements.jpg)
 14. Launch Auto-GPT on your computer by executing the following command: "python -m autogpt".  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/weldom.jpg)
 15. Once you've launched Auto-GPT on your computer, the API will prompt you to give it a name and specific goals. For instance, you can define its role and tell it to analyze the stock market and save the report on a file.
@@ -104,16 +104,12 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
  If you want to stop an ongoing task quickly, you can utilize the**Ctrl + C** keyboard shortcut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Auto-GPT Benchmarking Tool
 
  The Auto-GPT August 2023 update introduced a new benchmarking tool designed to track the performance of the agents deployed.[Auto-GPT Benchmarks](https://github.com/Significant-Gravitas/AutoGPT/tree/master/benchmark) is still in development, but it gives you an idea of how your automated agents are performing in areas like "code, retrieval, memory, and safety."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Do You Access Auto-GPT on Your Browser?
 
@@ -129,10 +125,6 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 4. Click**Deploy Agent** to initiate the process.
 
 Once it's done, you can copy or save the information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Auto-GPT 3.5 API vs. Auto-GPT 4 API
 
@@ -154,11 +146,19 @@ Once it's done, you can copy or save the information.
 
  In retrospect, Auto-GPT with either GPT-3.5 or GPT-4 API can automate some of your tasks with simple defined goals. Of course, Auto-GPT with GPT-4 API has the edge over GPT-3.5 because it's more accurate and better at making sense of images. Here are the[key differences between GPT-4 and GPT 3.5 explained](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is It Worth Using Auto-GPT Without GPT-4?
 
  Even though Auto-GPT with GPT-4 API performs better than Auto-GPT-3.5, you can still use Auto-GPT 3.5 to complete tasks autonomously. For example, I prompted Auto-GPT with GPT-3.5 API to search the internet for the best laptops on the market and give me a report with pros and cons.
 
 ![auto-gpt with gpt 3.5 output example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/auto-gpt-with-gpt-3-5-output-example.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Similarly, I prompted Auto-GPT with GPT-4 API with the same goals, and it gave me a report.
 
@@ -191,16 +191,19 @@ Once it's done, you can copy or save the information.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/1726030572931-gogoanime/"><u>最適な手段でGOGOAnimeからアニメ動画をダウンロードする方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciding-on-investing-in-gpt-plus/"><u>Deciding on Investing in GPT Plus</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-claude-2-capabilities-explored/"><u>Decoding Claude 2: Capabilities Explored</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/direct-communication-using-rtx-ai-on-your-device/"><u>Direct Communication: Using RTX AI on Your Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dont-get-fooled-the-truth-about-non-existent-windows-clients-for-chatgpt-they-might-harbor-viruses/"><u>Don't Get Fooled: The Truth About Non-Existent Windows Clients for ChatGPT - They Might Harbor Viruses</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-content-creation-with-ai-driven-dialogue-systems-insightful-techniques/"><u>Enhancing Content Creation with AI-Driven Dialogue Systems: Insightful Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-tips-resolving-steam-timeout-error-with-rustwindows/"><u>Expert Tips: Resolving Steam Timeout Error with Rust/Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96505769-9781633841871-in-tune-with-the-infinite/"><u>In Tune With The Infinite | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrim-booster-issues-windows-repair-guide/"><u>Skyrim Booster Issues: Windows Repair Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-new-gadgets-with-toms-hardware-insights/"><u>Unveiling New Gadgets with Tom’s Hardware Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-enhancing-youtube-beauty-mastering-video-color-dynamics/"><u>[Updated] Enhancing YouTube Beauty Mastering Video Color Dynamics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-home-filmmaking-mastery-with-5-easy-diy-hacks/"><u>[Updated] Home Filmmaking Mastery with 5 Easy DIY Hacks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-solution-how-to-enable-apple-dvds-playback-on-your-mac-when-you-encounter-a-not-allowed-message/"><u>Complete Solution: How to Enable Apple DVDs Playback on Your Mac When You Encounter a 'Not Allowed' Message</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-guide-eliminating-subtitles-from-mkv-videos-using-a-dedicated-subtitle-stripper-tool/"><u>Effortless Guide: Eliminating Subtitles From MKV Videos Using a Dedicated Subtitle Stripper Tool</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/einfache-losungen-fur-das-bereinigen-von-systemspeicherplatz-unter-windows-11-entfernung-der-leeren-partitionen/"><u>Einfache Lösungen Für Das Bereinigen Von Systemspeicherplatz Unter Windows 11 - Entfernung Der Leeren Partitionen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exclusive-online-offer-get-macx-dvd-ripper-pro-at-a-bargain-price/"><u>Exclusive Online Offer: Get MacX DVD Ripper Pro at a Bargain Price!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/frame-it-right-essential-2023-tools-and-sites-for-image-edits/"><u>Frame It Right Essential 2023 Tools & Sites for Image Edits</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-17-transformative-metaverse-trials-explained/"><u>In 2024, 17 Transformative Metaverse Trials Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mac-video-downloader-pro-free-tool-for-capturing-and-saving-online-videos-on-macos/"><u>Mac Video Downloader Pro - Free Tool for Capturing and Saving Online Videos on macOS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-xiaomi-13t-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Xiaomi 13T Pro Black and White | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974538684-quick-setup-with-zebra-gk42d-driver-software-download-now/"><u>Quick Setup with Zebra GK42d Driver Software – Download Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-crafting-engaging-successful-games-learn-from-helldivers-2/"><u>The Art of Crafting Engaging, Successful Games: Learn From Helldivers 2</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-vive-cosmos-unveiled-exceptional-virtual-reality-device-in-a-crowded-marketplace/"><u>The Vive Cosmos Unveiled: Exceptional Virtual Reality Device in a Crowded Marketplace</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transferring-your-entire-music-library-from-an-iphone-to-a-macbook-pro-air-or-imac-a-step-by-step-guide/"><u>Transferring Your Entire Music Library From an iPhone to a MacBook Pro, Air or iMac: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

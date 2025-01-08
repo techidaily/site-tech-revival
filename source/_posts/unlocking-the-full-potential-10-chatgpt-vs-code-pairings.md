@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Full Potential: 10 ChatGPT-VS Code Pairings"
-date: 2024-12-25T20:51:16.688Z
-updated: 2024-12-28T19:25:31.433Z
+date: 2025-01-01T21:27:31.059Z
+updated: 2025-01-07T21:29:10.220Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -49,14 +53,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The more context you provide your AI tool, the better of a response you'll receive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2 Ask for More Information After Getting an Initial Answer
 
@@ -72,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
  As you use AI prompting more frequently, you'll get a better idea of what does and doesn't work for you. You'll also learn which prompts are useful and which ones confuse the tool that you're using. Once you've become more familiar with AI, make sure that you clearly outline what hasn't worked before.
@@ -88,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
 [Avoiding common mistakes when using AI prompting tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) isn't always easy, but one of the main issues you'll encounter is trying to make the tool multitask. AI programs will often generate your results within a few minutes, but they can only do one thing at a time. If you try to ask too many things in one go, you won't get the results you want.
@@ -99,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
  Sometimes, you'll begin a prompt and realize you forgot to add further information. When this happens, stop or edit the current prompt and include those details before re-generating your answer.
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -118,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
  Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .
@@ -125,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
  If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
@@ -147,20 +147,24 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-effortlessly-merge-your-memories-photos-from-iphone-to-snapchat/"><u>[Updated] 2024 Approved Effortlessly Merge Your Memories Photos From iPhone to Snapchat</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-perfecting-live-broadcasts-with-streamlabs-obs-tips/"><u>[Updated] In 2024, Perfecting Live Broadcasts with Streamlabs OBS Tips</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-pioneering-online-techniques-for-vhs-image-refinement/"><u>[Updated] Pioneering Online Techniques for VHS Image Refinement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5-creative-utilizations-of-chatbots-like-gpt/"><u>5 Creative Utilizations of ChatBots Like GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-deciphered-the-must-know-terminology-guide/"><u>AI Deciphered: The Must-Know Terminology Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-partnership-for-perfecting-your-date-life/"><u>AI Partnership for Perfecting Your Date Life</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-revolution-is-chatgpt-a-threat-to-your-career-stability/"><u>AI Revolution: Is ChatGPT a Threat to Your Career Stability?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-driven-writing-assistance-how-to-optimize-chatgpt-for-your-gaming-scenarios/"><u>AI-Driven Writing Assistance: How to Optimize ChatGPT for Your Gaming Scenarios</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722171729655-cultivate-daily-meditation-using-chatgpt-effective-strategies-inside/"><u>Cultivate Daily Meditation Using ChatGPT - Effective Strategies Inside!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-compel-your-pixel-timepiece-easy-steps-for-downloading-the-newest-firmware/"><u>How to Compel Your Pixel Timepiece: Easy Steps for Downloading the Newest Firmware</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-device-drivers-manually-on-windows-10-and-7-by-drivereasy-guide/"><u>How to install and update device drivers manually on Windows 10 & 7</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-realme-gt-5-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Realme GT 5 by Name | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-lava-yuva-3-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Lava Yuva 3 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721865302693-navigating-through-words-evaluating-chatgpt-against-google-translate-for-superior-accuracy/"><u>Navigating Through Words: Evaluating ChatGPT Against Google Translate for Superior Accuracy</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-v29e-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo V29e Phone Pattern Lock</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-tagging-made-easy-with-these-high-impact-instagram-hashtags/"><u>[New] 2024 Approved Tagging Made Easy with These High-Impact Instagram Hashtags</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-7-free-video-editing-programs-that-work-flawlessly/"><u>[Updated] 7 Free Video Editing Programs That Work Flawlessly</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-secure-your-brand-on-youtube-adding-logos-and-watermarks/"><u>[Updated] Secure Your Brand on YouTube Adding Logos & Watermarks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unlocking-the-secrets-of-high-quality-twitch-broadcasts/"><u>[Updated] Unlocking the Secrets of High-Quality Twitch Broadcasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-ultimate-dvd-conversion-suite-for-mac-breeze-through-backing-up-and-extracting-dvds-on-macos-with-seamless-transfer-to-any-video-format/"><u>1. Ultimate DVD Conversion Suite for Mac: Breeze Through Backing Up and Extracting DVDs on macOS with Seamless Transfer to Any Video Format</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-learn-from-the-best-youtubes-top-green-screen-techniques/"><u>2024 Approved Learn From The Best Youtube’s Top Green Screen Techniques</u></a></li>
+<li><a href="https://win-top.techidaily.com/windows-1087/"><u>安全模式下Windows 10/8/7的硬盘克隆方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beat-bliss-enjoy-endless-house-music-samples-perfect-for-chill-vibes-and-social-gatherings/"><u>Beat Bliss: Enjoy Endless House Music Samples - Perfect for Chill Vibes & Social Gatherings</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/beginners-guide-to-german-numbers-1-100/"><u>Beginner's Guide to German Numbers 1-100</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-premium-iphone-organizer-at-no-cost-optimize-and-securely-back-up-your-device/"><u>Download Premium iPhone Organizer at No Cost – Optimize and Securely Back Up Your Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-guide-convert-and-add-cd-music-to-iphone-without-costing-you-a-penny/"><u>Effortless Guide: Convert and Add CD Music to iPhone Without Costing You a Penny</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ethical-guidelines-utilizing-chatgpt-for-wellness/"><u>Ethical Guidelines: Utilizing ChatGPT for Wellness</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/review-free-and-easy-the-ultimate-guide-to-macx-youtube-downloader/"><u>Review: Free and Easy - The Ultimate Guide to MacX YouTube Downloader</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-video-files-into-idvd-quality-mp4s-using-free-macx-tool/"><u>Transform Your Video Files Into iDVD Quality MP4s Using Free MacX Tool!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-handbrake-dvd-ripper-failures-due-to-damaged-disk-areas/"><u>Troubleshooting Handbrake DVD Ripper Failures Due to Damaged Disk Areas</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-dvd-to-mkv-conversion-tools-for-perfect-uncompromised-quality-transfer/"><u>Ultimate Guide to DVD to MKV Conversion Tools for Perfect, Uncompromised Quality Transfer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-and-convert-stream-the-avengers-movie-from-protected-dvds-on-your-apple-gadgets/"><u>Unlock & Convert: Stream 'The Avengers' Movie From Protected DVDs on Your Apple Gadgets</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-12x-steam-deck-step-by-step-guide/"><u>Windows 12X Steam Deck: Step-by-Step Guide</u></a></li>
 </ul></div>
 

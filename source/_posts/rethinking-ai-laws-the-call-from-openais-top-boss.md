@@ -1,7 +1,7 @@
 ---
 title: "Rethinking AI Laws: The Call From OpenAI's Top Boss"
-date: 2024-09-01T19:18:38.931Z
-updated: 2024-09-02T19:18:38.931Z
+date: 2025-01-03T01:59:19.394Z
+updated: 2025-01-07T20:53:34.664Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
 ---
 
 ## Top 6 No-Cost AI Models That Can Compete with the Power of Phi From OpenAI
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -41,21 +45,14 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
 
  Judging from the quality of Sora-generated clips shared by OpenAI, Sora bests Runway Gen-2 as an AI text-to-video generator. However, given the speed of development in the AI space (and the fact that Runway launched Gen-2 about a year before the first preview of Sora was released), it's clear OpenAI's Sora and Runway Gen-2 (and its future versions) will battle for the best text-to-video AI generator title.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 2 [Pika](https://pika.art/)
 
 ![screenshot of pika labs homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-pika-labs-homepage.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * **Free:** 250 initial credits (free 30 credits daily after exhausting initial credits)
 * **Standard:** $10/month ($8 when paid annually) for 700 monthly credits
 
@@ -76,8 +73,9 @@ A stylish woman walks down a Tokyo street filled with warm glowing neon and anim
  We'll let you judge which is better, but it's clear Pika has some catching up to do compared to the quality of Sora-generated clips online. However, its other features, like lip-syncing and image animation, give it an edge over Sora—at least for now.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3 [Pixverse](http://pixverse.ai/)
 
 ![screenshot of pixverse homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-pixverse-homepage.jpg)
@@ -103,8 +101,9 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 ![screenshot of kaiber homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-kaiber-homepage.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * **Free:** 100 initial credits
 * **Explorer:** $5/month for 300 credits.
 
@@ -116,12 +115,13 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
  Your browser does not support the video tag.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 [Synthesia](http://www.synthesia.io/)
 
 ![screenshot of synthesia homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-synthesia-homepage.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Free:** Test video
 * **Starter:** $29/month ($22 when billed annually) for 10 minutes of video.
@@ -134,9 +134,6 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
  Synthesia is a good alternative to Sora for creating engaging and personalized videos for education, marketing, or entertainment purposes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 6 [Vidnoz](http://www.vidnoz.com/)
 
 ![Screenshot of vidnoz homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-vidnoz-homepage.jpg)
@@ -152,14 +149,11 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
  If what followed OpenAI's launch of ChatGPT is anything to go by, then you can expect more AI text-to-video platforms to be introduced. You can also expect Google's Lumiere and Meta's Make-A-Video to become accessible to the public.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +162,21 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-melodic-mastery-mac-studio-tips-for-2024/"><u>[New] Melodic Mastery Mac Studio Tips for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-radeon-rx-590-driver-setup-for-microsoft-windows-systems/"><u>AMD Radeon RX 590 Driver Setup for Microsoft Windows Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-workday-efficiency-using-gpt-technology/"><u>Boost Your Workday Efficiency Using GPT Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-data-accuracy-and-speed-master-6-ways-to-integrate-chatgpt-as-an-analyst/"><u>Boosting Data Accuracy and Speed: Master 6 Ways to Integrate ChatGPT as an Analyst</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-plugin-service-malfunctions-diagnosis-and-repair-tips/"><u>ChatGPT Plugin Service Malfunctions – Diagnosis and Repair Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-3-an-in-depth-look-at-its-uses/"><u>Claude 3: An In-Depth Look at Its Uses</u></a></li>
+<li><a href="https://facebook.techidaily.com/combat-the-quiescence-wake-up-your-facebook-account/"><u>Combat the Quiescence: Wake Up Your Facebook Account</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-chatgpt-pioneering-the-artificial-intelligence-frontier/"><u>Discovering ChatGPT: Pioneering the Artificial Intelligence Frontier</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-including-a-cover-letter-in-profile/"><u>In 2024, Including a Cover Letter in Profile</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-generative-ai-successfully-the-7-blunders-to-dodge/"><u>Navigating Generative AI Successfully: The 7 Blunders to Dodge</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-mental-care-with-these-5-advanced-ai-therapy-bots/"><u>Revolutionize Your Mental Care with These 5 Advanced AI Therapy Bots</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-fixing-diagnostics-error-on-pc/"><u>Solutions for Fixing 'Diagnostics Error' On PC</u></a></li>
+</ul></div>
 

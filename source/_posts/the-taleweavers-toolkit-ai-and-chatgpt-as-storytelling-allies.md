@@ -1,7 +1,7 @@
 ---
 title: "The Taleweaver's Toolkit: AI and ChatGPT as Storytelling Allies"
-date: 2024-09-01T19:18:44.954Z
-updated: 2024-09-02T19:18:44.954Z
+date: 2025-01-06T23:22:51.751Z
+updated: 2025-01-08T02:28:04.154Z
 tags:
   - chatgpt
   - open-ai
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 
 ![dalle 3 editing tools example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 However, it's a mixed bag.
 
 [OpenAI's official blog](https://help.openai.com/en/articles/9055440-editing-your-images-with-dall-e) example shows DALL-E adding cherry blossoms to a Ukiyo-e-style image of cat, and it working perfectly. In my experience, DALL-E's editing tools struggle to add such detailed imagery to an existing image and, for the most part, can't process requests of this nature.
@@ -50,6 +54,10 @@ However, it's a mixed bag.
 ## How to Use DALL-E 3's Editing Tool
 
  The best way to show you what DALL-E 3's editing tool can do is with some proper examples.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Removing and Erasing
 
@@ -64,8 +72,9 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Adding and Changing
 
  DALL-E 3 can make some changes to images, but again, it depends on the scale of what you're asking. Small additions and changes are possible, but most of the time, DALL-E's editing tool can't process what is asked.
@@ -79,8 +88,9 @@ Close
 ![dalle 3 editing tools close up human eye changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye-changed-colour.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The color is slightly dull but unchanged, and some features are warped slightly.
 
  Next up, I prompted DALL-E to "create a 4k 2:1 claymation style image of a person wearing a tiger onesie skiing down a slope with a yeti background."
@@ -88,20 +98,15 @@ Close
 ![dalle 3 editing tools tiger yeti claymation style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-tiger-yeti-claymation-style.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Again, the original image is good, has sharp, vibrant colors, and matches the prompt. However, I wanted to switch the yeti to a different type of scary animal.
 
 ![dalle 3 editing tools yeti removed from image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-yeti-removed-from-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Instead of swapping the yeti for a different animal, it's just completely gone. Instead, I returned to the original image and asked it to add another yeti, which it failed to do. It similarly failed when asked to add more trees to the image.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Adding Text
 
  There isn't much to cover here. As said, generative AI generally struggles with text anyway, and adding text to an image is even more difficult. I prompted DALL-E to create a postcard from a British seaside, which it did, capturing the scene nicely. I then wanted to add the words "Sunny Beach" to the image, which it just couldn't handle. That is, until after around six or seven back-and-forth prompts reminding DALL-E what it needed to do, it created a whole new image with the required text. And accurate text, too; I'm not sure about the baby face in the sunshine, mind.
@@ -112,23 +117,17 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)
 
  I've found that DALL-E's editing tools are useful for certain tasks, but it takes some time to get the editing right. At other times, it just won't work, and you're probably better off taking your original prompt and tweaking that to create a new image.
 
  DALL-E's editing tools will likely improve over time, but until then, you might be better off editing your image with an image editing tool rather than going through multiple time-consuming rounds of conversation with DALL-E. When it works, it's good; when it doesn't understand or doesn't make the edit at all, it's frustrating.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +136,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-breaking-barriers-the-best-pc-vr-headsets-of-2023/"><u>[Updated] Breaking Barriers The Best PC VR Headsets of 2023</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fb-a-resource-for-video-discovery-enthusiasts-for-2024/"><u>[Updated] FB A Resource for Video Discovery Enthusiasts for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-beatfinder-tools-tune-in-to-online-freshness/"><u>[Updated] In 2024, Beatfinder Tools Tune in to Online Freshness</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-free-a-deep-dive-into-chatgpt-plus/"><u>Beyond Free: A Deep Dive Into ChatGPT Plus</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/capturing-your-digital-world-for-2024/"><u>Capturing Your Digital World for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-crypto-analysis-the-five-key-drawbacks-to-consider/"><u>ChatGPT and Crypto Analysis – The Five Key Drawbacks to Consider</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-content-clash-notion-versus-chatgpt-battleground/"><u>Crafting Content Clash: Notion Versus ChatGPT Battleground</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-best-8-ai-chat-solutions-for-your-wellness-journey/"><u>Discover the Best 8 AI Chat Solutions for Your Wellness Journey</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-steps-for-updating-hp-envy-5540-drivers-and-software-get-the-latest-version/"><u>Easy Steps for Updating HP Envy 지피 5540 Drivers & Software - Get the Latest Version</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-your-system-surface-pro-pro-4-driver-setup/"><u>Enhance Your System: Surface Pro Pro 4 Driver Setup</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expertly-tackle-numbers-with-our-selection-of-top-artificial-intelligence-math-helpers/"><u>Expertly Tackle Numbers With Our Selection of Top Artificial Intelligence Math Helpers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-safe-are-your-finances-and-devices-when-hackers-utilize-ai-services-like-chatgpt-for-illicit-purposes/"><u>How Safe Are Your Finances and Devices When Hackers Utilize AI Services Like ChatGPT for Illicit Purposes?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/iconic-locales-for-stream-video-quality/"><u>Iconic Locales for Stream Video Quality</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466612328-trouble-with-airpods-and-iphone-connections-here-are-nine-fixes-to-restore-seamless-interaction/"><u>Trouble With AirPods and iPhone Connections? Here Are Nine Fixes to Restore Seamless Interaction!</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/troubleshooting-techniques-for-system-clashes-with-expert-advice-from-yl-software/"><u>Troubleshooting Techniques for System Clashes with Expert Advice From YL Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-does-openais-shap-e-offer-a-deep-dive-into-feature-attribution-tools/"><u>What Does OpenAI's Shap-E Offer? A Deep Dive Into Feature Attribution Tools</u></a></li>
+</ul></div>
 

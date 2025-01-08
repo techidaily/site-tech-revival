@@ -1,7 +1,7 @@
 ---
 title: What Determines the Length of Texts From ChatGPT AI?
-date: 2024-12-22T00:28:05.469Z
-updated: 2024-12-29T06:20:00.651Z
+date: 2025-01-03T17:42:06.938Z
+updated: 2025-01-07T21:56:46.606Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/7e02bd572984315c91b0feee5bb97c59ecfef3acd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is GPT-4?
 
  GPT-4, short for[Generating Pre-trained Transformer 4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/) , is the fourth iteration of the GPT family of large language models developed by OpenAI. It is the successor of the GPT-3 model, which powers the viral AI chatbot ChatGPT. GPT-4, like its predecessor, GPT-3, is designed to generate human-like text, complete tasks such as summarization and language translation, and even generate creative writing such as poetry, lyrics for music, and fiction.
@@ -35,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/7e02bd572984315c91b0feee5bb97c59ecfef3acd
  It has been trained on a massive corpus of text data and can perform a wide range of[natural language processing](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) tasks with impressive accuracy and fluency.
 
  Before its public launch, the prospect of GPT-4 generated huge excitement in the AI community due to its touted capabilities and potential applications in various fields. Now, GPT-4 is here, but how can you access it?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Access GPT-4 on ChatGPT
 
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/7e02bd572984315c91b0feee5bb97c59ecfef3acd
 
  For the free tier users, to get started with GPT-4, you'll need a ChatGPT Plus subscription. So, how do you upgrade to ChatGPT Plus?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Upgrade to ChatGPT Plus
 
 To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
@@ -56,6 +60,10 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 2. On the bottom of the left sidebar of the chat interface, locate and click on**Upgrade to Plus** .  
 ![Upgrade to ChatGPT+](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/upgrade-to-chatgpt.jpg)
 3. You'll get a pop-up comparing the free plan and the ChatGPT Plus plan. Tap on the green**Upgrade Plan** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ChatGPT plus comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-comparison.jpg)
 4. Up next, you'll be redirected to a page to provide your credit card details and other billing information. Provide all the required information and make payment.
@@ -66,13 +74,13 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
  One way to be sure you're using the GPT-4 model instead of the older models is to check the color of the OpenAI logo that precedes ChatGPT's responses. GPT-3.5 model responses are preceded with a green-white logo, while GPT-4 responses are preceded with a black-white logo.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the Difference Between GPT-3.5 and GPT-4?
 
  GPT-4 stands out from previous versions in two major ways: it demonstrates considerably enhanced capabilities, yet it imposes an unpopular, restrictive message quota.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Performance Improvement
 
@@ -82,10 +90,6 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
  GPT-4 is a multimodal AI model with a significantly larger context window, able to process both text and image inputs. Its full capabilities were demoed during the official GPT-4 announcement event but have not been pushed to the public, likely due to a shortage of computer chips needed to back the massive amount of compute power required for such features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Usage Cap
 
  Despite the improvements that come with GPT-4, access to the model comes with an inconvenient limitation—a usage cap. Unlike GPT-3.5, with which you can prompt all day long, GPT-4 users are restricted to anywhere from 25 to 200 messages every three hours. We are not sure how OpenAI decides who gets a higher cap, but it seems, at least for now, to be arbitrarily or by the luck of the draw. Once again, a limited supply of GPUs and the need to adequately balance server loads might be behind the mandatory usage cap.
@@ -93,7 +97,7 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
  Notwithstanding, GPT-4 is an exciting and powerful model worth the $20 you'll need to pay for a ChatGPT Plus plan. But what if you don't want to upgrade to ChatGPT Plus? Is this the end of the road for free-tier users? Not really. Here's how to use GPT-4 for free.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use GPT-4 for Free
@@ -103,10 +107,6 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
  Bing Chat's GPT-4 isn't much different from ChatGPT's version. If anything, Bing's internet connection gives it access to much more up-to-date and relevant data and can produce more timely and relevant information as a result. ChatGPT, on the other hand, is limited by the cut-off date of its knowledge base. So, unless you're using ChatGPT plugins that can access and retrieve live data from the internet, you could say Bing's implementation of the GPT-4 model provides much more current data.
 
  Bing Chat aside, whether GPT-4 will ever be available for ChatGPT free tier users is unclear. GPT-4 is already several months post-release, and there is no indication that OpenAI will make GPT-4 generally available as a free offering. However, since OpenAI is already making the GPT-4 model available to third-party developers, you can use GPT-4 in a limited capacity through third-party apps powered by GPT-4.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## GPT-4: Is It Worth the Hype?
 
@@ -129,21 +129,15 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-best-free-screen-recording-apps-reviewed-and-ranked/"><u>[New] 2024 Approved Best Free Screen Recording Apps Reviewed & Ranked</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-correcting-time-jumps-fixing-obs-studio-problems/"><u>[New] Correcting Time Jumps Fixing OBS Studio Problems</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-five-premier-extensions-to-hoard-fb-videos-for-2024/"><u>[New] Five Premier Extensions to Hoard FB Videos for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-acquiring-safe-gratis-vlc-media-player-on-macos-systems/"><u>[New] In 2024, Acquiring Safe, Gratis VLC Media Player on macOS Systems</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-melody-in-motion-iphones-role-in-making-music-videos-for-2024/"><u>[New] Melody in Motion IPhone's Role in Making Music Videos for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-step-by-step-conquering-tiktok-edit-mastery-for-2024/"><u>[New] Step-by-Step Conquering TikTok Edit Mastery for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-expert-video-downloader-kit-ideal-for-firefox-browser-users/"><u>2024 Approved Expert Video Downloader Kit Ideal for FireFox Browser Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-and-personal-information-assessing-the-safety-of-your-data/"><u>ChatGPT and Personal Information: Assessing the Safety of Your Data</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-as-a-dm-ally-strategies-for-enhancing-role-playing-with-ai-assistance/"><u>ChatGPT as a DM Ally: Strategies for Enhancing Role-Playing with AI Assistance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-unveiled-six-techniques-for-novelists/"><u>ChatGPT Unveiled: Six Techniques for Novelists</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/claude-2-explained-unlocking-its-potential-and-applications-for-users/"><u>Claude 2 Explained: Unlocking Its Potential and Applications for Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-implementing-microsoft-copilot-on-a-mac-device/"><u>Comprehensive Guide: Implementing Microsoft Copilot on a Mac Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/content-revolution-7-ways-gpt-transforms-creativity/"><u>Content Revolution: 7 Ways GPT Transforms Creativity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cooking-made-easy-utilizing-chatgpt-for-your-culinary-creations/"><u>Cooking Made Easy: Utilizing ChatGPT for Your Culinary Creations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-these-10-fantastic-free-tv-shows-instead-of-netflix/"><u>Explore These 10 Fantastic Free TV Shows Instead of Netflix</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-game-changer-review-dji-mavic-air-takes-on-spark/"><u>In 2024, Game Changer Review DJI Mavic Air Takes on Spark</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-view-old-stories-on-facebook/"><u>[New] How to View Old Stories on Facebook?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-srgb-vs-standard-rgb/"><u>[New] Srgb vs Standard Rgb</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-lume-cube-edge-light-20-assessment-exceptional-workstation-illumination-experience/"><u>Comprehensive Lume Cube Edge Light 2.0 Assessment - Exceptional Workstation Illumination Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719261046850-experience-gptclone-at-home-for-free-on-windows/"><u>Experience GPTClone at Home for FREE on Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/figure-skating-highlights-2022-winter-olympics/"><u>Figure Skating Highlights 2022 Winter Olympics</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-analysis-of-the-dell-inspiron-16-plus-i7630-exceptional-value-for-power-users/"><u>In-Depth Analysis of the Dell Inspiron 16 Plus (I7630): Exceptional Value for Power Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-get-your-laptop-mousepad-functioning-again-on-various-windows-versions-win-11-8-and-7/"><u>Resolved: How to Get Your Laptop Mousepad Functioning Again on Various Windows Versions (Win 11, 8 & 7)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/review-of-arlo-essential-indoor-camera-second-generation-excellent-functionality-with-high-price-point/"><u>Review of Arlo Essential Indoor Camera - Second Generation: Excellent Functionality with High Price Point</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-the-pixel-9-series-might-signify-unveiling-the-potential/"><u>What the Pixel 9 Series Might Signify: Unveiling the Potential</u></a></li>
 </ul></div>
 
