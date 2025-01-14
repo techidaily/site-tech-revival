@@ -1,7 +1,7 @@
 ---
 title: Three Unbeatable Excel Functions That Outperform ChatGPT's Limitations
-date: 2025-01-03T17:00:45.202Z
-updated: 2025-01-07T18:12:05.420Z
+date: 2025-01-10T00:05:53.291Z
+updated: 2025-01-14T07:32:09.334Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is NVIDIA AI Foundations?
 
  NVIDIA AI Foundations is a cloud-based generative AI service that you can fine-tune for your business, use for medical research, or generate AI artwork. The AI models can be trained to produce texts, images, videos, and 3D content unique to your enterprise. This is particularly useful if you can't afford to build a customized AI model for your business because it's too expensive or complicated.
@@ -36,13 +32,13 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
  NVIDIA AI Foundations is available in three models: NeMo, Picasso, and BioNeMo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### NVIDIA NeMo
 
 ![NVIDIA NEMO illustration ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-nemo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-large-language-ai-models-to-enterprises-worldwide)
 
@@ -59,19 +55,23 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [NVIDIA Picasso](https://www.nvidia.com/en-us/gpu-cloud/picasso/) is a generative AI model that works similarly to[OpenAI's DALL-E image creator](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) . However, NVIDIA Picasso is not limited to images only since it can also turn text into video or 3D content.
 
  In addition, NVIDIA Picasso is made for software creators, service providers, and businesses intending to train AI models using copyright or licensed data. Alternatively, using pre-trained models, you could add text prompts to create images, videos, and 3D content from scratch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## NVIDIA BioNeMo
 
 ![nvidia-bionemo-cloud-services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-bionemo-cloud-services.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-unveils-large-language-models-and-generative-ai-services-to-advance-life-sciences-r-d)
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
  So far, a few companies like Getty Images, Adobe, and Shutterstock have partnered with NVIDIA to develop text-to-image or video AI models. Similarly, more than a dozen big companies, including Deloitte and Morningstar, have already implemented NVIDIA's AI language models into their business operations. Biotech companies like Amgen and Insilico Medicine are also using NVIDIA's BioNeMo to develop drugs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## NVIDIA'S AI Foundation is a Game Changer
@@ -115,22 +115,16 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-easy-download-of-youtube-preview-pictures-for-2024/"><u>[New] Easy Download of YouTube Preview Pictures for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-create-a-personalized-broadcasting-experience-record-webcam-with-vlc/"><u>[Updated] 2024 Approved Create a Personalized Broadcasting Experience Record Webcam with VLC</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-harnessing-the-power-of-speech-on-tiktok-platform-for-2024/"><u>[Updated] Harnessing the Power of Speech on TikTok Platform for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/amp-up-your-sessions-with-essential-tips-from-zooms-changer-suite/"><u>Amp Up Your Sessions with Essential Tips From Zoom's Changer Suite</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-tecno-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Tecno FRP Locks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-iphones-hdr-photography-techniques/"><u>In 2024, Mastering iPhone's HDR Photography Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-quick-windows-data-assessment-tutorial/"><u>In 2024, Quick Windows Data Assessment Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/organizing-success-with-microsoft-word-a-step-by-step-guide-to-crafting-your-own-digital-bullet-journal-for-goal-achievement/"><u>Organizing Success with Microsoft Word: A Step-by-Step Guide to Crafting Your Own Digital Bullet Journal for Goal Achievement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/patching-perfection-microsoft-resolves-issues-in-latest-windows-10-and-11-update-releases/"><u>Patching Perfection: Microsoft Resolves Issues in Latest Windows 10 & 11 Update Releases</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pro-audio-software-win-edition-for-2024/"><u>Pro Audio Software Win Edition for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamlessly-integrate-and-use-windows-software-on-your-linux-system-with-our-top-tool-choice/"><u>Seamlessly Integrate and Use Windows Software on Your Linux System with Our Top Tool Choice</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/securing-image-data-in-linux-removing-exif-information-using-exiftool/"><u>Securing Image Data in Linux: Removing EXIF Information Using Exiftool</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solve-your-windows-start-menu-issues-expert-tips-and-quick-fixes/"><u>Solve Your Windows Start Menu Issues: Expert Tips & Quick Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solving-windows-11s-zip-dilemma-a-guide-to-restoring-compromised-compressed-files/"><u>Solving Windows 11'S ZIP Dilemma: A Guide to Restoring Compromised Compressed Files</u></a></li>
-<li><a href="https://techidaily.com/top-5-ways-to-fix-excel-2023-file-not-opening-error-stellar-by-stellar-guide/"><u>Top 5 Ways to Fix Excel 2023 File Not Opening Error | Stellar</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-tricks-for-terminating-lagging-applications-on-your-windows-11-pc/"><u>Ultimate Tricks for Terminating Lagging Applications on Your Windows 11 PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-the-threat-how-windows-updates-can-be-manipulated-to-reverse-security-fixes/"><u>Unraveling the Threat: How Windows Updates Can Be Manipulated to Reverse Security Fixes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-inspiring-visual-collages-a-kaleidoscope-for-the-soul/"><u>[New] 2024 Approved Inspiring Visual Collages A Kaleidoscope for the Soul</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-navigating-the-maze-mastering-inverted-visual-lookups-in-instagram-photos/"><u>2024 Approved Navigating the Maze Mastering Inverted Visual Lookups in Instagram Photos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accelerating-video-conversion-youtube-to-mpeg-edition/"><u>Accelerating Video Conversion YouTube to MPEG Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/confidentiality-concerns-when-using-tools-such-as-chatgpt-online/"><u>Confidentiality Concerns When Using Tools Such as ChatGPT Online</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/discover-the-enhanced-functionality-of-apowensofts-latest-release-the-remarkable-background-eraser/"><u>Discover the Enhanced Functionality of Apowensoft's Latest Release - The Remarkable Background Eraser!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-poco-x5-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Poco X5 by Name | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/utube-premium-worth-it-a-user-guide-for-2024/"><u>Is YouTube Premium Worth It A User Guide for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-creativity-discover-6-ways-to-utilize-chatgpt-for-your-written-works/"><u>Mastering Creativity: Discover 6 Ways to Utilize ChatGPT for Your Written Works</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ransomware-explained-podcasts-aided-by-budget-phones/"><u>Ransomware Explained: Podcasts Aided by Budget Phones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-windows-chatgpt-capacity-full-issue-a-step-by-step-guide/"><u>Solving Windows' 'ChatGPT Capacity Full' Issue: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

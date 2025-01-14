@@ -1,7 +1,7 @@
 ---
 title: "Crafting AI Interactions: Potential for Real Employment?"
-date: 2025-01-04T00:20:12.715Z
-updated: 2025-01-07T20:00:30.711Z
+date: 2025-01-12T16:39:36.880Z
+updated: 2025-01-14T11:18:24.815Z
 tags:
   - chatgpt
   - open-ai
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Potential Risks of Generative AI to Spread Disinformation
 
  Generative AI poses many threats to people, like taking away jobs, more surveillance, and cyberattacks. And the[security problems with AI will get even worse](https://www.makeuseof.com/reasons-generative-ai-security-issues-will-worsen/) . But there's another worry: people can use it to spread lies. Deceptive individuals can use generative AI to share fake news through visual, auditory, or textual content.
@@ -42,6 +38,10 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
@@ -56,14 +56,10 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -78,7 +74,7 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -89,6 +85,10 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -96,10 +96,6 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -111,6 +107,10 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -133,18 +133,24 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-comprehensive-guide-to-ultimate-video-editing-vivacut-24-edition/"><u>[New] The Comprehensive Guide to Ultimate Video Editing VivaCut '24 Edition</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-strategies-to-quicken-vimeo-videos/"><u>[Updated] In 2024, Strategies to Quicken Vimeo Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-professional-panasonic-video-format-converter-hd-and-4k-support/"><u>1. Professional Panasonic Video Format Converter: HD & 4K Support</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exclusive-list-of-2022s-must-watch-netflix-movies-plus-secure-your-viewing-experience/"><u>Exclusive List of 2022'S Must-Watch Netflix Movies + Secure Your Viewing Experience</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-to-fix-unrecognized-graphics-card-issues-expert-advice-from-yl-software/"><u>How To Fix Unrecognized Graphics Card Issues: Expert Advice From YL Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-the-wealth-of-mr-beast/"><u>In 2024, The Wealth of Mr. Beast</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722891642640-insiders-look-at-amazon-prime-day-2024-tips-dates-and-deals-unveiled/"><u>Insider's Look at Amazon Prime Day 2024: Tips, Dates, and Deals Unveiled!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721266645873-lose-the-clutter-how-to-perform-a-clean-iphone-reboot-no-backup-required/"><u>Lose the Clutter? How to Perform a Clean iPhone Reboot No Backup Required</u></a></li>
-<li><a href="https://solve-help.techidaily.com/1726029977530-mp4/"><u>MP4ビデオの字幕管理を一括で行うワンソフト！編集ツール</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-ultimate-guide-to-slow-motion-video-editing-top-10-software/"><u>New In 2024, The Ultimate Guide to Slow Motion Video Editing Top 10 Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transforming-mp4-to-quicktime-mov-format-across-macos-and-windows-systems/"><u>Step-by-Step Guide: Transforming MP4 to QuickTime MOV Format Across macOS & Windows Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/title-distinguishing-mpeg-4-from-mp4-key-differences-explained/"><u>Title: Distinguishing MPEG-4 From MP4: Key Differences Explained</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-directory-of-various-visual-recording-devices/"><u>[New] In 2024, Directory of Various Visual Recording Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-sculpt-striking-signs-with-stock-designs-at-no-cost/"><u>[Updated] 2024 Approved Sculpt Striking Signs with Stock Designs at No Cost</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715783492855-2024-approved-how-to-fix-obs-studio-drop-frames-issue/"><u>2024 Approved How To Fix OBS Studio Drop Frames Issue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-live-streaming-with-manycam-ultimate-virtual-camera-solutions/"><u>Best Live Streaming with ManyCam: Ultimate Virtual Camera Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-manycam-alternatives-top-virtual-camera-apps-for-streamers/"><u>Best ManyCam Alternatives: Top Virtual Camera Apps for Streamers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-webcam-apps-compatible-with-tinychat-multi-camera-options/"><u>Best Webcam Apps Compatible with Tinychat: Multi-Camera Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/capture-your-sessions-instantly-using-manycam-the-ultimate-online-presentation-software/"><u>Capture Your Sessions Instantly Using ManyCam – The Ultimate Online Presentation Software</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/direct-to-mp3-ease-select-10-video-to-audio-devices/"><u>Direct to Mp3 Ease Select 10 Video-to-Audio Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dynamic-broadcasting-with-manycam-the-ultimate-live-streaming-and-virtual-webcam-solution/"><u>Dynamic Broadcasting with ManyCam: The Ultimate Live Streaming and Virtual Webcam Solution</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-fix-crashing-episodes-while-playing-fallout-4-on-personal-computers/"><u>Effective Solutions to Fix Crashing Episodes While Playing Fallout 4 on Personal Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-online-presence-with-manycam-the-ultimate-choice-for-real-time-virtual-webcams-and-recording-tools/"><u>Elevate Your Online Presence with ManyCam - The Ultimate Choice for Real-Time Virtual Webcams and Recording Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-remote-communication-with-manycam-advanced-features-for-professional-live-video-software-and-digital-camera-alternatives/"><u>Elevate Your Remote Communication with ManyCam: Advanced Features for Professional Live Video Software and Digital Camera Alternatives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-broadcasts-with-manycam-powerful-software-for-live-video-capture-and-fake-webcams/"><u>Enhance Your Broadcasts with ManyCam: Powerful Software for Live Video Capture & Fake Webcams</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-livestreams-with-manycam-the-ultimate-virtual-webcam-and-editing-suite/"><u>Enhance Your Livestreams with ManyCam - The Ultimate Virtual Webcam and Editing Suite</u></a></li>
+<li><a href="https://discover-best.techidaily.com/integrating-hyperautomation-with-sap-cloud-revolutionizing-the-financial-industry-through-abbyy-solutions/"><u>Integrating Hyperautomation with SAP Cloud: Revolutionizing the Financial Industry Through ABBYY Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-stuck-auto-brightness-settings-on-iphone-with-these-7-effective-solutions/"><u>Troubleshoot Stuck Auto-Brightness Settings on iPhone with These 7 Effective Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unlocking-free-clip-art-for-your-designs-for-2024/"><u>Unlocking Free Clip-Art for Your Designs for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-revenue-demystified/"><u>YouTube Revenue Demystified</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why ChatGPT Fails to Review Its Own Words
-date: 2024-12-31T23:30:18.978Z
-updated: 2025-01-07T20:42:12.607Z
+date: 2025-01-10T22:00:19.437Z
+updated: 2025-01-14T12:02:26.325Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -53,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
@@ -63,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use [third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
@@ -83,16 +83,12 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -120,6 +116,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
  Temporary Chat is available to both Plus and Free tier users. You can access it through the model drop-down menu by selecting the Temporary Chat option. Once activated, you can now enjoy a private and non-persistent chat experience.
@@ -141,24 +141,19 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-seamless-integration-share-confidential-youtube-videos-on-gmail/"><u>[New] In 2024, Seamless Integration Share Confidential YouTube Videos on Gmail</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-master-video-extraction-from-linkedin-using-these-6-choices/"><u>[New] Master Video Extraction From LinkedIn Using These 6 Choices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-essential-tutorial-on-using-snapchat-spotlight/"><u>[New] The Essential Tutorial on Using Snapchat Spotlight</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-create-captivating-photos-adding-motion-blur-in-photoshop/"><u>[Updated] In 2024, Create Captivating Photos Adding Motion Blur in Photoshop</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-quickscreencapture-simple-windows-10-app/"><u>[Updated] QuickScreenCapture Simple Windows 10 App</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-discovering-those-who-left-my-instagram-circle/"><u>2024 Approved Discovering Those Who Left My Instagram Circle</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-free-mac-software-ultimate-guide-to-youtube-to-mp3-converters/"><u>Best Free Mac Software : Ultimate Guide to YouTube-to-MP3 Converters</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-everything-you-need-to-know-about-macxdvd-applications/"><u>Discover Everything You Need to Know About MacXDVD Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-your-favorite-songs-at-no-cost-high-definition-mp4-videos-with-ultra-hd-options/"><u>Download Your Favorite Songs at No Cost - High-Definition MP4 Videos with Ultra HD Options!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/hidden-method-access-and-grab-professional-soccer-techniques-and-tactics-without-cost/"><u>Hidden Method: Access & Grab Professional Soccer Techniques & Tactics Without Cost</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c32-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Nokia C32 Phone without Any Data Loss</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/inspirational-slide-shows-10-best-places-to-download-them-for-free/"><u>Inspirational Slide Shows 10 Best Places to Download Them For Free</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leading-photo-library-applications-for-both-macos-and-windows-users-a-comprehensive-guide/"><u>Leading Photo Library Applications for Both macOS and Windows Users: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mac-friendly-guide-safe-methods-for-extracting-content-from-encrypted-dvds/"><u>Mac-Friendly Guide: Safe Methods for Extracting Content From Encrypted DVDs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-hindi-made-easy-top-8-reasons-why-choose-mondlys-online-platform/"><u>Mastering Hindi Made Easy: Top 8 Reasons Why Choose Mondly's Online Platform</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-methods-seamless-iphone-to-mac-photo-transfer-guide/"><u>Top 10 Methods: Seamless iPhone to Mac Photo Transfer Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-and-enjoy-the-best-no-cost-universal-video-adapter-by-macx-for-all-mobile-devices/"><u>Transform & Enjoy: The Best No-Cost Universal Video Adapter by MacX for All Mobile Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-playable-media-video-and-audio-codecs-on-apples-smart-television-interface/"><u>Understanding Playable Media: Video and Audio Codecs on Apple's Smart Television Interface</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-full-spectrum-analysis-the-logitech-4k-pro-webcam/"><u>[New] In 2024, Full Spectrum Analysis The Logitech 4K Pro Webcam</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-greatest-to-growth-youtube-stars-with-soaring-subs/"><u>[Updated] 2024 Approved The Greatest to Growth YouTube Stars with Soaring Subs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-skills-discover-non-ai-opportunities-on-the-cutting-edge-insights-from-zdnet/"><u>Elevate Your Skills: Discover Non-AI Opportunities on The Cutting Edge – Insights From ZDNet</u></a></li>
+<li><a href="https://win-community.techidaily.com/guide-restoring-full-file-visibility-on-google-drive/"><u>Guide: Restoring Full File Visibility on Google Drive</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-live-video-solutions-with-manycam-the-definitive-virtual-webcam-experience/"><u>Innovative Live Video Solutions with ManyCam – The Definitive Virtual Webcam Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-stream-mastery-made-easy-discover-the-power-of-manycams-virtual-cam-features/"><u>Live Stream Mastery Made Easy: Discover the Power of ManyCam's Virtual Cam Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-with-manycam-premium-virtual-webcam-solutions/"><u>Live Streaming Made Easy with ManyCam: Premium Virtual Webcam Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-with-manycam-professional-videocamera-and-webcast-software/"><u>Live Streaming Made Easy with ManyCam: Professional Videocamera and Webcast Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-made-simple-discover-manycams-ultimate-virtual-camera-solution/"><u>Live Streaming Made Simple: Discover ManyCam's Ultimate Virtual Camera Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-mastery-best-features-of-manycam-virtual-camera-software/"><u>Live Streaming Mastery: Best Features of ManyCam - Virtual Camera Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-driver-fix-for-windows-11-expert-tips-and-tricks/"><u>Qualcomm Atheros Bluetooth Driver Fix for Windows 11: Expert Tips and Tricks!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-mastering-tabletop-gameplay-and-crafting-digital-graphics-with-ai-bots/"><u>Step-by-Step Tutorial: Mastering Tabletop Gameplay & Crafting Digital Graphics with AI Bots</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unlock-fcps-full-potential-top-5-editing-secrets-revealed/"><u>Updated 2024 Approved Unlock FCPs Full Potential Top 5 Editing Secrets Revealed</u></a></li>
 </ul></div>
 

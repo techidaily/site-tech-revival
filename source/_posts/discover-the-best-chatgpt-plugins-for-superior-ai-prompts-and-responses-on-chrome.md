@@ -1,7 +1,7 @@
 ---
 title: Discover the Best ChatGPT Plugins for Superior AI Prompts and Responses on Chrome
-date: 2024-12-24T05:33:05.733Z
-updated: 2024-12-29T08:52:26.106Z
+date: 2025-01-11T23:50:18.162Z
+updated: 2025-01-13T21:49:50.123Z
 tags:
   - chatgpt
   - open-ai
@@ -24,16 +24,12 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Increased AI-Powered Attacks
 
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Throughout 2022 and 2023, we've seen just how advanced AI systems currently are. The most notable AI-based service launched during this time is ChatGPT, a language processing tool powered by artificial intelligence. Not long after its launch, stories began surfacing about[cybercriminals using ChatGPT to write malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) . While the malware only seemed to be a simple Python-based script, it showed that AI can, in fact, be leveraged maliciously.
@@ -48,13 +44,13 @@ It was also stated in the same report that:
 
  It seems the continued adoption and development of AI will pose a threat to our cybersecurity, though the degree to which it affects us is yet to be seen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Increased Digital Supply Chain Attacks
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
 
@@ -84,13 +80,13 @@ It was also stated in the same report that:
 
  This is just one of the numerous[types of EV hacks](https://www.makeuseof.com/can-electric-vehicles-be-hacked/) that are possible. In order to avoid this, EV manufacturers need to thoroughly vet their software to ensure vulnerabilities aren't being left behind in the code.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Improved Smart Home and IoT Security
 
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  IoT devices make our day-to-day lives possible. Whether you're using your smartphone, smart speaker, smartwatch, or anything similar, IoT is facilitating your actions. In short IoT is a blanket term covering all interconnected devices. This network of connected "things" forms its own[Internet of Things (IoT)](https://www.makeuseof.com/tag/what-is-internet-of-things/) . It's this increased connectivity forming the Internet of Things that has attracted cybercriminals.
 
@@ -104,6 +100,10 @@ It was also stated in the same report that:
 
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.
 
  While cloud platforms are undeniably a convenient storage option, one's ability to access data anywhere with the correct credentials creates a problem. If a hacker manages to access someone's account, they can then look at any data stored on said account—work documents, ID photos, photos and videos, financial information, or anything else.
@@ -111,7 +111,7 @@ It was also stated in the same report that:
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Continued Topical Email Scams
@@ -143,21 +143,24 @@ It was also stated in the same report that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-asuss-high-tech-display-unveiled-the-mg28uq-monitor-insight/"><u>[New] ASUS's High Tech Display Unveiled – The MG28UQ Monitor Insight</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-quick-fix-guide-to-instagram-popularity-accelerate-your-visibility-with-15-tricks-of-the-trade-for-2024/"><u>[New] The Quick-Fix Guide to Instagram Popularity Accelerate Your Visibility with 15 Tricks of the Trade for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-key-techniques-for-storing-lol-matches/"><u>[Updated] In 2024, Key Techniques for Storing LOL Matches</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-deep-dive-into-moto-z2s-smarter-side-for-2024/"><u>A Deep Dive Into Moto Z2's Smarter Side for 2024</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/free-avi-to-mp4-conversion-tools-for-pc-and-mac-top-picks/"><u>Free AVI to MP4 Conversion Tools for PC and Mac: Top Picks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-step-by-step-approach-to-incorporating-luts-in-obs-studio-projects/"><u>In 2024, A Step-by-Step Approach to Incorporating LUTs in OBS Studio Projects</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-infinix-smart-7-hd-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Infinix Smart 7 HD Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimize-valheim-network-stability-ping-improvement-tips-for-pc-users/"><u>Optimize Valheim Network Stability: Ping Improvement Tips for PC Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/parameters-to-ponder-choosing-chatgpt-for-counseling-purposes/"><u>Parameters to Ponder: Choosing ChatGPT for Counseling Purposes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/personalized-exercise-plans-made-easy-with-chatgpt-a-trainers-toolkit/"><u>Personalized Exercise Plans Made Easy with ChatGPT – A Trainer’s Toolkit</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-conversation-with-ai-utilizing-chatgpt-alongside-siri-on-iphones/"><u>Seamless Conversation with AI: Utilizing ChatGPT Alongside Siri on iPhones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simplify-your-presenting-with-these-top-7-ai-driven-tools/"><u>Simplify Your Presenting with These Top 7 AI-Driven Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simplifying-gpt4alls-advanced-mechanisms/"><u>Simplifying GPT4All's Advanced Mechanisms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamlining-the-file-format-change-from-dall-es-webp-to-jpegpng/"><u>Streamlining the File Format Change: From DALL-E's WebP to JPEG/PNG</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-beginners-roadmap-to-enabling-codegpt-features-within-vscode-environment/"><u>The Beginner's Roadmap to Enabling CodeGPT Features Within VSCode Environment</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unraveling-status-bts-merits-cost-economic-but-not-ideal/"><u>Unraveling Status BT's Merits: Cost-Economic but Not Ideal</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-dive-into-the-deep-end-of-facebook-meme-culture/"><u>[New] 2024 Approved Dive Into The Deep End of Facebook Meme Culture</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nraveling-the-economic-power-of-mr-beast/"><u>[New] Unraveling the Economic Power of Mr. Beast</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nraveling-the-secrets-of-viral-content-creation-for-2024/"><u>[New] Unraveling the Secrets of Viral Content Creation for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/query-how-does-studying-animal-behavior-contribute-to-our-understanding-of-human-psychology/"><u>[Query]: How Does Studying Animal Behavior Contribute to Our Understanding of Human Psychology?</u></a></li>
+<li><a href="https://discover-best.techidaily.com/exploring-various-cryptocurrency-options-an-in-depth-guide-by-yl-computing/"><u>Exploring Various Cryptocurrency Options: An In-Depth Guide by YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/halloween-extravaganza-wonderfoxs-spooky-sweepstakes-nears-grand-finale/"><u>Halloween Extravaganza: WonderFox's Spooky Sweepstakes Nears Grand Finale</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-oneplus-nord-ce-3-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of OnePlus Nord CE 3 5G Through Google Earth?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approach-for-rotating-and-interlacing-multiple-videographies-android/"><u>In 2024, Innovative Approach for Rotating & Interlacing Multiple Videographies (Android)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-video-size-reduction-in-windows-11-fotos-utility-and-effective-workarounds-if-not-possible/"><u>Mastering Video Size Reduction in Windows 11 Fotos Utility and Effective Workarounds if Not Possible</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209638212-9781547573233-meditacao-guia-de-atencao-plena-para-autodisciplina-e-sucesso/"><u>Meditação: Guia De Atenção Plena Para Autodisciplina E Sucesso | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mkvwav/"><u>MKVファイルをWAV形式への変換手順 - 専門家が推薦する方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-guide-convert-multiple-flac-files-to-mp3-rapidly/"><u>Quick Guide: Convert Multiple FLAC Files to MP3 Rapidly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-import-issues-with-mp4-files-in-audacity-expert-solutions/"><u>Resolving Import Issues with MP4 Files in Audacity – Expert Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-playstation-3-issues-easy-steps-for-avi-video-compatibility/"><u>Resolving PlayStation 3 Issues - Easy Steps for AVI Video Compatibility</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-on-uploading-dvd-chapters-vobvideots-to-youtube/"><u>Step-by-Step Guide on Uploading DVD Chapters (VOB/VIDEO_TS) to YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-multiple-mp3-tracks-into-aiff-audio-format/"><u>Step-by-Step Guide: Converting Multiple MP3 Tracks Into AIFF Audio Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-the-fluxus-iptv-extension-in-kodi-version-190-matrix/"><u>Step-by-Step Guide: Setting Up the Fluxus IPTV Extension in Kodi Version 19.0 Matrix</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-expert-insights-on-computer-components/"><u>Tom's Tech Review: Expert Insights on Computer Components</u></a></li>
 </ul></div>
 

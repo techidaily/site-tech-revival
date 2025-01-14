@@ -1,7 +1,7 @@
 ---
 title: "Essential Tips: Leveraging ChatGPT Effectively for Your Writing Gigs"
-date: 2024-12-31T22:57:22.967Z
-updated: 2025-01-08T00:37:09.671Z
+date: 2025-01-08T03:18:20.312Z
+updated: 2025-01-14T02:32:14.994Z
 tags:
   - chatgpt
   - open-ai
@@ -67,6 +67,10 @@ You could use:
 
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Not Providing Context When Necessary
 
  Context plays a vital role in how ChatGPT responds to any given prompt. Even a minor shift in context can lead to significantly different responses. If no context is provided, your prompt becomes ambiguous, resulting in varied responses each time the same prompt is used. This lack of consistency may not be desirable when seeking precise answers because there's no way of knowing the right response. But how do you provide context, and when should you?
@@ -78,10 +82,6 @@ You could use:
  However, this was misinterpreted because no context was provided. After we provided context to ChatGPT by including additional information that the sentence should be interpreted from the context of someone talking about safety (which is what was discussed in the text it was copied from), ChatGPT provided the expected translation.
 
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Not Using Examples
 
@@ -95,16 +95,12 @@ You could use:
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
@@ -112,18 +108,18 @@ You could use:
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
- Loved the second set of jokes? Well, the moral of the story is to use examples more often.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Loved the second set of jokes? Well, the moral of the story is to use examples more often.
 
 ## 6\. Not Being Clear and Specific With Your Instructions
 
@@ -132,6 +128,10 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
  "What is the meaning of life?" and "What is the best way to stay healthy?" are two examples of prompts that seem normal but are quite ambiguous. There's no definitive answer to both questions. However, ChatGPT will try to provide you with an answer that seems like hard facts. Prompts like "What is the meaning of life from a biological perspective?" or "What are some specific lifestyle changes or habits that can help improve mental health?" are good examples of specific, less ambiguous alternatives.
 
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Garbage In, Garbage Out
 
@@ -152,17 +152,18 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-your-blogs-imagery-adding-company-logowatermark-to-videos/"><u>[New] In 2024, Boost Your Blog's Imagery Adding Company Logo/Watermark to Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-endless-viewing-with-iphone-writes-of-video/"><u>[Updated] In 2024, Endless Viewing with iPhone' Writes of Video</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-uncomplicated-blueprint-for-crafting-successful-ads-online-for-2024/"><u>[Updated] Uncomplicated Blueprint for Crafting Successful Ads Online for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/behind-the-scenes-of-huggingchat-the-chatgpt-free-counterpart/"><u>Behind the Scenes of HuggingChat - The ChatGPT Free Counterpart</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-fix-for-qualcomm-atheros-bluetooth-drivers-that-wont-work-on-windows-11/"><u>Comprehensive Fix for Qualcomm Atheros Bluetooth Drivers That Won't Work on Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/content-design-powered-by-canva-and-gpts-batch-capabilities/"><u>Content Design Powered by Canva & GPT's Batch Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/empowering-communication-with-intelligence-how-to-forge-a-specialized-chatbot-using-your-own-dataset/"><u>Empowering Communication with Intelligence: How to Forge a Specialized Chatbot Using Your Own Dataset</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-for-overcoming-windows-10-wont-install-challenges-your-ultimate-fix-guide/"><u>Expert Tips for Overcoming 'Windows 10 Won't Install' Challenges - Your Ultimate Fix Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-leverage-chatgpts-power-in-writing-compelling-youtube-video-scripts/"><u>How to Leverage ChatGPT's Power in Writing Compelling YouTube Video Scripts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/internal-oversights-by-chatgpt-writers/"><u>Internal Oversights by ChatGPT Writers</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-the-most-straightforward-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>New The Most Straightforward Guide to Learning How to Clone Your Voice for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-musical-notes-understanding-youtube-shorts-for-2024/"><u>Quick Musical Notes Understanding YouTube Shorts for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-highfidelity-capture-tool-win-10/"><u>[New] 2024 Approved HighFidelity Capture Tool Win 10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-youtube-snippets-get-high-quality-images-without-a-penny-paid/"><u>[Updated] 2024 Approved YouTube Snippets Get High-Quality Images Without a Penny Paid</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/androids-prime-portable-gba-simulators-ranked/"><u>Android's Prime Portable GBA Simulators Ranked</u></a></li>
+<li><a href="https://win-webster.techidaily.com/comment-est-ce-que-lon-peut-transferer-un-fichier-entre-deux-ordinateurs-a-laide-dun-cable-reseau-ethernet/"><u>Comment Est-Ce Que L'on Peut Transférer Un Fichier Entre Deux Ordinateurs À L'aide D'un Câble Réseau Ethernet?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-the-languages-differences-in-computing/"><u>Deciphering the Languages' Differences in Computing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/big-on-youtube-strategies-for-successful-creators-for-2024/"><u>Earn Big on YouTube Strategies for Successful Creators for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-laptop-sound-problem-a-step-by-step-solution-guide/"><u>Fixing Your Laptop Sound Problem: A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-do-these-top-7-gpt-4-powered-applications-function/"><u>How Do These Top 7 GPT-4 Powered Applications Function?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mp4-and-mov-file-recovery-hacks-how-to-utilize-vlc-player-for-corrupted-video-fixes/"><u>MP4 and MOV File Recovery Hacks: How to Utilize VLC Player for Corrupted Video Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-new-territory-add-ons-in-your-chatgpt-experience/"><u>Navigating New Territory: Add-Ons in Your ChatGPT Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-hidden-traps-of-self-diagnosing-with-ai-health-tools/"><u>The Hidden Traps of Self-Diagnosing with AI Health Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-power-behind-snapchats-my-ai-explored-in-6-aspects/"><u>The Power Behind Snapchat's My AI Explored in 6 Aspects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-imagination-integrating-ai-into-narrative-art/"><u>Unleashing Imagination: Integrating AI Into Narrative Art</u></a></li>
 </ul></div>
 

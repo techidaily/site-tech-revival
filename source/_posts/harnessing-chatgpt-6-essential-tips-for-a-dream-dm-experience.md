@@ -1,7 +1,7 @@
 ---
 title: "Harnessing ChatGPT: 6 Essential Tips for a Dream DM Experience"
-date: 2024-12-22T21:20:31.424Z
-updated: 2024-12-29T05:24:47.002Z
+date: 2025-01-11T12:05:50.353Z
+updated: 2025-01-13T21:51:37.045Z
 tags:
   - chatgpt
   - open-ai
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Potential Risks of Generative AI to Spread Disinformation
@@ -42,13 +42,13 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -60,11 +60,11 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -86,7 +86,7 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -109,7 +109,7 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -133,24 +133,21 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-photomontage-artisans-blueprint/"><u>[New] 2024 Approved The PhotoMontage Artisan's Blueprint</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-ensure-consistent-frame-rates-in-multi-camera-setups/"><u>[New] How to Ensure Consistent Frame Rates in Multi-Camera Setups</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-tune-and-time-lapses-creating-music-videos-with-your-phone-for-2024/"><u>[New] Tune & Time Lapses Creating Music Videos with Your Phone for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-grasping-the-fundamentals-of-animated-communication/"><u>2024 Approved Grasping the Fundamentals of Animated Communication</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/boosting-pc-speeds-with-additional-ram-essential-tips-from-yl-systems-experts/"><u>Boosting PC Speeds with Additional RAM: Essential Tips From YL Systems Experts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/detecting-counterfeit-chatbot-ios-apps/"><u>Detecting Counterfeit ChatBot iOS Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-chatgpts-latest-feature-an-app-tailored-for-iphone-and-ipad-users/"><u>Discover ChatGPT's Latest Feature: An App Tailored for iPhone and iPad Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-how-chatgpt-for-iphone-and-ipad-surpasses-its-online-platform-in-6-ways/"><u>Discover How ChatGPT for iPhone & iPad Surpasses Its Online Platform in 6 Ways</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-mentioning-personalized-gpts-in-conversational-ai-exchanges/"><u>Effective Strategies for Mentioning Personalized GPTs in Conversational AI Exchanges</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-storytelling-with-chatgpt-a-guide-to-6-key-approaches/"><u>Elevate Your Storytelling with ChatGPT - A Guide to 6 Key Approaches</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-tecno-camon-20-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Tecno Camon 20 Phones with/without a PC</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/learn-the-secrets-of-maintaining-continuous-mac-operation-and-avoiding-unwanted-sleep/"><u>Learn the Secrets of Maintaining Continuous Mac Operation and Avoiding Unwanted Sleep</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/legal-showdown-how-sarah-silverman-and-fellow-creatives-challenge-openai-meta-with-lawsuit/"><u>Legal Showdown: How Sarah Silverman and Fellow Creatives Challenge OpenAI, Meta With Lawsuit</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-integration-seamless-functionality-with-google-sheets-docs-and-more/"><u>Mastering ChatGPT Integration: Seamless Functionality with Google Sheets, Docs & More</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-language-learning-the-power-of-chatgpt-plus/"><u>Mastering Language Learning: The Power of ChatGPT Plus</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigate-the-digital-world-easier-bings-new-ai-search-feature-for-phones/"><u>Navigate the Digital World Easier: Bing’s New AI Search Feature for Phones</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/online-zonder-kosten-converteer-je-swf-naar-flv-graag-probeer-movavi/"><u>Online Zonder Kosten: Converteer Je SWF Naar FLV Graag? Probeer Movavi!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-java-installer-glitches-on-pc/"><u>Steps to Resolve Java Installer Glitches on PC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-exploring-free-screen-capture-software-bandicam-vs-camtasia/"><u>[New] 2024 Approved Exploring Free Screen Capture Software Bandicam Vs. Camtasia</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aster-the-art-of-yt-channel-creation-right-from-your-smartphone/"><u>[New] Master the Art of YT Channel Creation, Right From Your Smartphone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-skyrocket-to-success-mastering-seo-for-youtubers-and-beyond/"><u>[New] Skyrocket to Success Mastering SEO for YouTubers and Beyond</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-best-practices-for-free-clipart-use-in-projects/"><u>2024 Approved Best Practices for Free Clipart Use in Projects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-video-format-converter-from-dvd-to-avi-on-pc-optimized-for-windows-10-and-11-in-2e24/"><u>Best Video Format Converter From DVD to AVI on PC: Optimized for Windows 10 and 11 in 2E24</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-editing-skills-switch-to-our-pro-grade-video-converter-for-advanced-features/"><u>Elevate Your Editing Skills: Switch to Our Pro-Grade Video Converter for Advanced Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206802457-error-code-31-on-your-pc-heres-how-you-can-solve-it/"><u>Error Code 31 on Your PC? Here's How You Can Solve It</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-animated-magic-access-free-online-cartoon-shows-and-anime/"><u>Experience Animated Magic: Access Free Online Cartoon Shows & Anime</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fast-and-easy-steps-to-transform-your-m4v-files-to-mkv-format/"><u>Fast and Easy Steps to Transform Your M4V Files to MKV Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/four-easy-and-powerful-techniques-to-transform-dv-files-into-mp4-format/"><u>Four Easy & Powerful Techniques to Transform DV Files Into MP4 Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-and-simple-steps-transforming-webm-videos-into-mp4-format-without-hassle/"><u>Free & Simple Steps: Transforming WebM Videos Into MP4 Format Without Hassle</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-your-free-wonderfox-template-zips-secure-downloads-here/"><u>Get Your Free WonderFox Template ZIPs - Secure Downloads Here!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-boost-your-online-presence-by-mastering-video-editing-in-sony-vegas/"><u>In 2024, Boost Your Online Presence by Mastering Video Editing in Sony Vegas</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-lava-blaze-2-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Lava Blaze 2 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/professionelle-software-zum-kopieren-von-datentragern-unter-windows-server-2012/"><u>Professionelle Software Zum Kopieren Von Datenträgern Unter Windows Server 2012</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-infinix-hot-40i-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Infinix Hot 40i on Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Risk: Are Alternative ChatGPT Plugins Secure to Use?"
-date: 2024-12-22T00:48:49.650Z
-updated: 2024-12-28T17:54:37.794Z
+date: 2025-01-09T17:48:30.302Z
+updated: 2025-01-14T08:11:54.352Z
 tags:
   - chatgpt
   - open-ai
@@ -20,15 +20,15 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
@@ -59,10 +59,14 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
 
@@ -77,11 +81,7 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -107,21 +107,22 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-elevate-cinematic-quality-introducing-device-based-filters/"><u>[New] 2024 Approved Elevate Cinematic Quality Introducing Device-Based Filters</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-10-tips-for-shooting-profesional-youtube-videos/"><u>[New] In 2024, 10 Tips For Shooting Profesional YouTube Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-bandicam-vs-camtasia-a-comparative-review/"><u>[Updated] Bandicam Vs. Camtasia A Comparative Review</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-strategies-for-bulk-tiktok-video-acquisition/"><u>[Updated] Strategies for Bulk TikTok Video Acquisition</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-experts-choice-top-10-best-free-lut-downloads/"><u>2024 Approved Expert's Choice - Top 10 Best Free LUT Downloads</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-ethics-in-software-from-defense-to-offense-crafting/"><u>AI Ethics in Software: From Defense to Offense Crafting</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-showdown-which-chatbot-reigns-supreme-chatgpt-microsofts-bing-or-google-bard/"><u>AI Showdown: Which Chatbot Reigns Supreme - ChatGPT, Microsoft's Bing or Google Bard?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ais-ingenuity-range-from-effortless-to-expert/"><u>AI's Ingenuity Range: From Effortless to Expert</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/alert-on-mimicry-genuine-ai-apps-versus-fake-ones/"><u>Alert on Mimicry: Genuine AI Apps Versus Fake Ones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bard-enhanced-7-innovations-from-googles-palm-2/"><u>Bard Enhanced: 7 Innovations From Google's PaLM 2</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beware-the-google-bard-app-may-pose-a-cybersecurity-threat-do-not-download/"><u>Beware! The Google Bard App May Pose a Cybersecurity Threat - Do Not Download</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-productivity-with-these-10-essential-chatgpt-and-pdf-integration-plugins/"><u>Boost Productivity with These 10 Essential ChatGPT & PDF Integration Plugins</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-cant-connect-missing-driver-issue/"><u>Device Can't Connect: Missing Driver Issue</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-essential-hd-screenshots-for-mac-limit-156-chars/"><u>In 2024, Essential HD Screenshots for Mac (Limit 156 Chars)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-reverse-a-video-on-snapchat/"><u>In 2024, How to Reverse a Video on Snapchat?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-the-battle-royale-black-screen-expert-strategies/"><u>Troubleshooting the Battle Royale Black Screen: Expert Strategies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-digital-space-for-every-need-the-best-free-services-offering-massive-storage/"><u>[New] Digital Space for Every Need - The Best Free Services Offering Massive Storage</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-professional-macbook-webcam-capture-techniques-guide/"><u>[New] Professional MacBook Webcam Capture Techniques Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-easy-ways-to-get-free-views-on-youtube-alternative-methods/"><u>[Updated] 2024 Approved Easy Ways To Get Free Views on YouTube! Alternative Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028640171-youtube/"><u>「YouTubeミュージックの安全なダウンロード手順ガイド」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wrfmp4/"><u>簡単な手順でWRFをMP4にアップコンバートする方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027475280-dvdmp4/"><u>市販DVDから簡単MP4への変換ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027331772-gifgif/"><u>最新GIF解析ソフトウェアランキング：GIFを完璧に解きほぐす方法</u></a></li>
+<li><a href="https://discover-great.techidaily.com/can-your-gpu-handle-high-definition-video-insights-from-yl-computings-guide/"><u>Can Your GPU Handle High-Definition Video: Insights From YL Computing’s Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-motorola-edge-40-pro-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Motorola Edge 40 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-optimize-youtube-watch-experience-boostslow-down-feature-usage/"><u>In 2024, Optimize YouTube Watch Experience Boost/Slow Down Feature Usage</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/masterclasses-on-procuring-photo-and-video-borders-for-2024/"><u>Masterclasses on Procuring Photo & Video Borders for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028433989-pc/"><u>PCで放送大学ラジオ番組録音テクニック</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winning-the-battle-againnst-patchy-playbacks-top-fixes-for-windows-11-audio-issues-updated-troubleshooting/"><u>Winning the Battle Againnst Patchy Playbacks: Top Fixes for Windows 11 Audio Issues, Updated Troubleshooting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wma-to-mp3-windows-1011/"><u>WMA to MP3に完璧な変換 - Windows 10/11ユーザ向けレシピ</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027823422-mp3/"><u>サンプリングレート変換:MP3音楽ファイルへの応用方法</u></a></li>
 </ul></div>
 

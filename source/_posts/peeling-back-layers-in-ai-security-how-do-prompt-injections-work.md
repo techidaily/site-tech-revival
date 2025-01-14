@@ -1,7 +1,7 @@
 ---
 title: "Peeling Back Layers in AI Security: How Do Prompt Injections Work?"
-date: 2024-12-24T20:43:56.247Z
-updated: 2024-12-28T19:28:19.094Z
+date: 2025-01-07T11:42:58.835Z
+updated: 2025-01-13T16:49:08.021Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 * [Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#get-early-access-to-chatgpt-voice-mode-and-the-chatgpt-desktop-app)
 * [Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#full-access-to-advanced-data-analysis-file-uploads-vision-and-web-browsing)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Free users get limited access to GPT-4o, the latest AI model, while Plus subscribers get more messages and guaranteed availability.
@@ -39,17 +43,9 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
  Well, here are some reasons you might want to keep your ChatGPT Plus sub.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1 More Access to GPT-4o
 
 ![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) [is OpenAI's latest flagship GPT model](http://www.makeuseof.com/how-gpt-4o-works-is-it-free/) , which it states is twice as fast as GPT-4 Turbo and 50% cheaper (when using APIs). However, Free users are not granted unlimited access to GPT-4o. OpenAI provides Free users with "limited access to GPT-4o."
 
@@ -60,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
  However, all of these message rates are the best you will get. As ChatGPT becomes the crutch for more businesses and individuals, usage and availability will likely decline (temporarily) in the near future. Based on this, you'd likely want a Plus subscription to insure against crowded conditions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 Retain Access to GPT-4 Turbo
@@ -69,9 +65,17 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
 
  If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Create Your Own Custom GPT
 
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 ## 4 Generate Images With DALL-E
 
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
 
@@ -106,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 ![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Advanced data analysis, file uploads, vision, and web browsing were once features exclusive to OpenAI's paying customers. That has now changed, and all of these are available to Free users but with more limits. The limits include fewer prompts, fewer file uploads, and lower priority access to these services during peak hours.
@@ -132,22 +132,24 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ashtag-mastery-enhancing-freefire-gameplay-videos-for-2024/"><u>[New] Hashtag Mastery Enhancing FreeFire Gameplay Videos for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-ace-2-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-13-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 13 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/behind-the-scenes-crafting-a-movie-blueprint/"><u>Behind the Scenes Crafting a Movie Blueprint</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-ai-resources-for-comprehensive-online-investigations/"><u>Expert AI Resources for Comprehensive Online Investigations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exploring-magix-music-creators-capabilities/"><u>Exploring Magix Music Creator's Capabilities</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/iphone-vs-android-which-one-is-right-for-you/"><u>IPhone vs Android: Which One Is Right For You?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-skies-drone-shooting-basics-for-2024/"><u>Navigating Skies Drone Shooting Basics for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/precision-in-ai-reactions-the-power-of-6-strategic-prompts/"><u>Precision in AI Reactions: The Power of 6 Strategic Prompts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/prompt-engineering-jobs-unveiling-the-legitimacy-and-important-points-to-think-about/"><u>Prompt Engineering Jobs: Unveiling the Legitimacy and Important Points to Think About</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-workflow-with-these-8-smart-auto-gpt-techniques/"><u>Revolutionize Your Workflow with These 8 Smart Auto-GPT Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/safeguarding-confidentiality-in-an-era-of-customizable-gpt-models-like-chatgpt/"><u>Safeguarding Confidentiality in an Era of Customizable GPT Models Like ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-dawn-of-bard-googles-revolutionary-response-to-chatgpt/"><u>The Dawn of 'Bard' - Google's Revolutionary Response to ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-efficient-approach-to-persona-creation-with-chatgpt/"><u>The Efficient Approach to Persona Creation with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-potential-of-emotion-recognition-technology-by-ai-fact-or-fiction/"><u>The Potential of Emotion Recognition Technology by AI: Fact or Fiction?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-preserving-and-revisiting-your-chatgpt-conversations/"><u>The Ultimate Guide: Preserving and Revisiting Your ChatGPT Conversations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-harnessing-the-power-of-visual-education-techniques/"><u>[New] 2024 Approved Harnessing the Power of Visual Education Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-streaming-services-showdown-vimeo-versus-youtube/"><u>[New] 2024 Approved Streaming Services Showdown Vimeo Versus YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-digital-dawnings-of-insight-augmented-metaverse-mantras/"><u>[New] In 2024, Digital Dawnings of Insight Augmented Metaverse Mantras</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/pload-youtube-shorts-detailed-instructions-from-desktopmobile/"><u>[New] Upload YouTube Shorts Detailed Instructions From Desktop/Mobile</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-affordable-obs-adjustments-and-tweaks/"><u>[Updated] In 2024, Affordable OBS Adjustments and Tweaks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/elite-zero-cost-fb-picturemovie-composer/"><u>Elite Zero-Cost FB Picture/Movie Composer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oppo-reno-11f-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Oppo Reno 11F 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-to-buying-todays-best-360-cameras/"><u>In 2024, Unveiling the Secrets to Buying Today's Best 360 Cameras</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-efficiently-cutting-videos-using-adobe-premiere-pro/"><u>Step-by-Step Guide to Efficiently Cutting Videos Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-videots-to-high-quality-mp4-files/"><u>Step-by-Step Guide: Converting Video_ts to High-Quality MP4 Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-downloading-your-favorite-youtubes-using-the-power-of-vlc/"><u>Step-by-Step Guide: Downloading Your Favorite YouTubes Using the Power of VLC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-solution-for-integrating-webm-videos-with-final-cut-pro-x-successfully/"><u>Step-by-Step Solution for Integrating WebM Videos with Final Cut Pro X Successfully</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steps-for-uploading-your-dvd-content-onto-youtube/"><u>Steps for Uploading Your DVD Content Onto YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/taking-charge-wonderfox-steps-up-in-the-wake-of-glarysoft-giveaway-transition/"><u>Taking Charge: WonderFox Steps Up in the Wake of Glarysoft Giveaway Transition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-13-zero-cost-internal-microphone-apps-comprehensive-list-by-movavi/"><u>Top 13 Zero-Cost Internal Microphone Apps: Comprehensive List by Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-3-free-xnxx-video-downloader-apps-quick-and-simple-ways-to-save-videos-from-xnxx/"><u>Top 3 FREE XNXX Video Downloader Apps: Quick & Simple Ways to Save Videos From XNXX</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-premier-audio-tools-enhancing-your-youtube-creations/"><u>Top 7 Premier Audio Tools Enhancing Your YouTube Creations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-recommended-youtube-to-mp3-converters-how-to-guide-and-safety-tips/"><u>Top Recommended YouTube to MP3 Converters - How-To Guide and Safety Tips!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/try-simple-recipes-that-require-minimal-preparation-especially-on-busy-days-from-work/"><u>Try Simple Recipes that Require Minimal Preparation, Especially on Busy Days From Work.</u></a></li>
 </ul></div>
 

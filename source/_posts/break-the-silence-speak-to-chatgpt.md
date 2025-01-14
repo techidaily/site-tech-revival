@@ -1,7 +1,7 @@
 ---
 title: "Break The Silence: Speak To ChatGPT"
-date: 2025-01-04T17:50:12.449Z
-updated: 2025-01-07T23:23:20.597Z
+date: 2025-01-12T18:01:23.710Z
+updated: 2025-01-13T21:56:39.385Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [More Access to GPT-4o](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#more-access-to-gpt-4o)
@@ -30,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 * [Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#full-access-to-advanced-data-analysis-file-uploads-vision-and-web-browsing)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
@@ -70,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
  If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Create Your Own Custom GPT
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 ## 4 Generate Images With DALL-E
 
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
 
@@ -101,13 +101,13 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 
  OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
 ![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Advanced data analysis, file uploads, vision, and web browsing were once features exclusive to OpenAI's paying customers. That has now changed, and all of these are available to Free users but with more limits. The limits include fewer prompts, fewer file uploads, and lower priority access to these services during peak hours.
 
@@ -132,14 +132,20 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-adding-soundtracks-to-your-inshot-projects/"><u>[Updated] 2024 Approved Adding Soundtracks to Your InShot Projects</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-prolong-your-snapstreak-legacy-with-ease/"><u>[Updated] 2024 Approved Prolong Your Snapstreak Legacy with Ease</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bridging-the-gap-how-chatgpt-reads-pdf-files/"><u>Bridging the Gap: How ChatGPT Reads PDF Files</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/four-innovative-approaches-to-leveraging-artificve-intelligence-for-better-research-outcomes/"><u>Four Innovative Approaches to Leveraging Artificve Intelligence for Better Research Outcomes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-ai-genius-top-5-free-avenues-into-gpt-4-mastery/"><u>Harnessing AI Genius: Top 5 Free Avenues Into GPT-4 Mastery</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-asus-rog-phone-7-ultimate-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Asus ROG Phone 7 Ultimate Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-final-cut-pro-masterclass-top-10-plugin-guide/"><u>In 2024, Final Cut Pro Masterclass Top 10 Plugin Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximize-your-linkedin-presence-10-key-benefits-of-chatgpt-assistance-in-job-placement/"><u>Maximize Your LinkedIn Presence: 10 Key Benefits of ChatGPT Assistance in Job Placement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-strategies-leveraging-chatgpt-with-the-wolfram-alpha-extension/"><u>Top Strategies: Leveraging ChatGPT with the Wolfram Alpha Extension</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-focus-on-the-essentials-the-compreenas-for-removing-youtube-channels-for-2024/"><u>[Updated] Focus on the Essentials The Compreenas for Removing Youtube Channels for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/battling-chatgpt-with-intelligence-google-unveils-its-own-ai-bard/"><u>Battling ChatGPT with Intelligence: Google Unveils Its Own AI - Bard</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-creativity-top-performances-of-three-ai-chatbots-on-identical-tasks/"><u>Comparing Creativity: Top Performances of Three AI Chatbots on Identical Tasks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-guide-steps-to-successfully-set-up-local-llama-2/"><u>Complete Guide: Steps to Successfully Set Up Local Llama 2</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-setup-comprehensive-driver-installation-guide-for-samsung-c460/"><u>Effortless Setup: Comprehensive Driver Installation Guide for Samsung C46^0</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/fast-and-simple-guide-converting-avi-files-into-dvd-format/"><u>Fast & Simple Guide: Converting AVI Files Into DVD Format</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securing-your-files-a-step-by-step-guide-to-protecting-documents-in-libreoffice-zdnet/"><u>Securing Your Files: A Step-by-Step Guide to Protecting Documents in LibreOffice (ZDNet)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-magic-behind-machine-learning-insights-unraveling-openais-shap-e-tool/"><u>The Magic Behind Machine Learning Insights: Unraveling OpenAI's Shap-E Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-tips-for-integrating-chatgpt-into-your-vs-code-workflow/"><u>Top 10 Tips for Integrating ChatGPT Into Your VS Code Workflow</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-touchscreen-notebooks-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Touchscreen Notebooks: In-Depth Analysis & Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-drives-into-dialogues-mercedes-vehicle-voice-tech/"><u>Transforming Drives Into Dialogues: Mercedes Vehicle Voice Tech</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/king-biz-potential-the-best-channels-for-growth/"><u>Unlocking Biz Potential The Best Channels for Growth</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-chatgpt-4-techniques-to-convert-and-read-pdf-files/"><u>Unlocking the Power of ChatGPT: 4 Techniques to Convert and Read PDF Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-you-should-think-twice-about-using-ai-generated-content-in-instant-messages-insights-and-concerns/"><u>Why You Should Think Twice About Using AI-Generated Content in Instant Messages: Insights and Concerns</u></a></li>
 </ul></div>
 

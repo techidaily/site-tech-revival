@@ -1,7 +1,7 @@
 ---
 title: "Creating Original AI Artwork with Microsoft Copilot: A Step-by-Step Guide"
-date: 2024-09-01T19:13:31.160Z
-updated: 2024-09-02T19:13:31.160Z
+date: 2025-01-12T10:49:38.661Z
+updated: 2025-01-13T23:25:35.112Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 ---
 
 ## Explore the Power of Artificial Creativity with Microsoft's Bing and DALL-E 3 for Free
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  But the most notable change about DALL-E 3 is that it has been integrated into ChatGPT, OpenAI's powerful AI chatbot. It opens up a whole new way of interacting with the image generator and gives you a fresh way of creating prompts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## How to Craft a Good DALLE-3 Prompt Using Bing
 
  DALL-E 3 is much easier to use thanks to its integration with GPT-4, the large language model that powers ChatGPT and Microsoft Bing.
@@ -57,30 +58,30 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
 ![DALL-E 2 image of NYC and plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-image-of-nyc-and-plants.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  When we asked if it could add animals to that image it just generated, it couldn't. Instead, it generated new images of just animals.
 
 ![DALL-E 2 prompt for animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-prompt-for-animals.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Compare that with DALL-E 3 in Bing. The image it generated is quite good, considering our prompt barely contained any specific details.
 
 ![DALL-E 3 in Bing Chat image of a city covered in plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-in-bing-chat-image-of-a-city-covered-in-plants.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We followed this up by asking if it could add animals to the image it just created. Unlike DALL-E 2, it had no trouble understanding our request.
 
 ![DALL-E 3 iamge of New York City overgrown with plants and animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-iamge-of-new-york-city-overgrown-with-plants-and-animals.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can even ask Bing to redo one of the images. We told it that we liked the second image and would like to see if it could make the animals more detailed.
 
 ![DALL-E 3 image of a city overun with animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-overun-with-animals.jpg)
@@ -90,8 +91,9 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Limitations of DALL-E 3 and Bing
 
  With no subscription fees or waitlist, you're probably wondering what the catch is.
@@ -108,14 +110,11 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  Head to Bing Chat to try DALL-E 3 for free. Each week, you get free boost credits that make it quick to generate an image. On top of that, you don't need to worry about engineering a prompt any longer, as DALL-E 3 can transform even the most vague request into an interesting AI-generated image.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +123,24 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-best-vr-cycling-experiences-awaiting-you-for-2024/"><u>[New] Best VR Cycling Experiences Awaiting You for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-elite-avc-playback-software-for-smartphones-and-pcs/"><u>[New] Elite AVC Playback Software for Smartphones and PCs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-creating-user-friendly-youtube-subscribe-icons/"><u>[Updated] In 2024, Creating User-Friendly YouTube Subscribe Icons</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ultimate-virtual-races-the-quintessential-list-for-2024/"><u>[Updated] Ultimate Virtual Races The Quintessential List for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beware-these-3-privacy-pitfalls-when-engaging-with-conversational-agents/"><u>Beware These 3 Privacy Pitfalls When Engaging With Conversational Agents</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-plus-is-the-added-features-justification-for-subscription/"><u>ChatGPT Plus: Is the Added Features Justification for Subscription?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-right-ai-companion-claude-vs-chatgpt-for-daily-use/"><u>Choosing the Right AI Companion: Claude Vs. ChatGPT for Daily Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-text-view-windows-11-notepad-setup-for-focus/"><u>Elevate Your Text View: Windows 11 Notepad Setup for Focus</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-6-prime-locations-for-viewing-your-most-loved-music-visuals-on-the-web/"><u>Explore 6 Prime Locations for Viewing Your Most-Loved Music Visuals on the Web</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-mechanisms-of-generative-ai-in-search-leading-compannies-applications/"><u>Exploring the Mechanisms of Generative AI in Search: Leading Compannies' Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovation-in-ai-predicting-the-launch-of-gpt-5/"><u>Innovation in AI: Predicting the Launch of GPT-5?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-microsoft-excel-with-chatgpt-overcoming-spreadsheet-anxiety/"><u>Mastering Microsoft Excel with ChatGPT: Overcoming Spreadsheet Anxiety</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-earning-potential-side-hustles-using-chatgpt-building-your-own-computer-and-nostalgic-handheld-consoles-revival/"><u>Maximizing Earning Potential: Side Hustles Using ChatGPT, Building Your Own Computer, and Nostalgic Handheld Consoles Revival</u></a></li>
+<li><a href="https://win11.techidaily.com/modern-standby-understanding-the-shortcomings/"><u>Modern Standby: Understanding the Shortcomings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-ranking-ai-powered-search-engines-your-ultimate-guide/"><u>Top-Ranking AI-Powered Search Engines: Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-leading-mp3-players-for-202n4-featured-on-zdnet/"><u>Ultimate Guide to the Leading MP3 Players for 202N4 - Featured on ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/k-monetization-how-to-apply-for-the-youtube-partner-program-2024/"><u>Unlock Monetization How to Apply for the YouTube Partner Program 2024</u></a></li>
+</ul></div>
 

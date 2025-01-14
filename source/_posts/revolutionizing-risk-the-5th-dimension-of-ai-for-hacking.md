@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Risk: The 5Th Dimension of AI for Hacking"
-date: 2025-01-01T17:58:55.249Z
-updated: 2025-01-07T23:47:38.685Z
+date: 2025-01-08T08:14:08.137Z
+updated: 2025-01-13T23:13:18.687Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Access the GPT Store](https://godlikehost.sjv.io/vnbxzv)
@@ -27,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://getlyla.pxf.io/ek9gkg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -64,28 +68,24 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click **Keep in sidebar**. This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
@@ -113,24 +113,22 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-15-must-use-gaming-tags-for-skyrocketing-views-on-youtube/"><u>[Updated] Top 15 Must-Use Gaming Tags for Skyrocketing Views on YouTube</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-12-pro-max-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 12 Pro Max in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-masterpieces-at-your-fingertips-how-to-merge-dall-e-and-chatgpt-4-capabilities/"><u>AI Masterpieces at Your Fingertips: How to Merge DALL-E and ChatGPT-4 Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-troubleshooting-for-chatgpt-not-connecting-to-plugin-service-issues/"><u>Comprehensive Troubleshooting for 'ChatGPT Not Connecting to Plugin Service' Issues</u></a></li>
-<li><a href="https://blog-min.techidaily.com/coupevideo-premium-la-solution-la-plus-econome-en-ressources-pour-supprimer-les-passages-inutiles-dans-vos-fichiers-videos-sous-windows-et-macos/"><u>Coupevidéo Premium : La Solution La Plus Économe en Ressources Pour Supprimer Les Passages Inutiles Dans Vos Fichiers Vidéos Sous Windows Et macOS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-novice-to-expert-the-gpt-4-influence-on-diy/"><u>From Novice to Expert: The GPT-4 Influence on DIY</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guia-simple-para-transformar-archivos-de-codificacion-hevc-en-mp4-sin-degradacion-visual/"><u>Guía Simple Para Transformar Archivos De Codificación HEVC en MP4 Sin Degradación Visual</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-m54-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy M54 5G Phone | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-v29-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo V29? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-transfer-learning-empower-ai-an-intuitive-approach/"><u>How Does Transfer Learning Empower AI? An Intuitive Approach</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-reliable-is-chatgpt-when-proofreading-written-content/"><u>How Reliable Is ChatGPT When Proofreading Written Content?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-journey-towards-facebooks-premium-verified-emblem/"><u>In 2024, Journey Towards Facebook's Premium Verified Emblem</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/insiders-pick-of-advanced-audio-software-a-vtubers-guide-for-2024/"><u>Insider's Pick of Advanced Audio Software A Vtuber's Guide for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-the-classic-turing-test-still-relevant-discover-5-innovative-alternatives-in-ai-evaluation/"><u>Is the Classic Turing Test Still Relevant? Discover 5 Innovative Alternatives in AI Evaluation</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-amd-ryzen-5-2500u-driver-installation-quick-easy-and-effective-steps/"><u>Latest AMD Ryzen 5 2500U Driver Installation: Quick, Easy & Effective Steps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/prevent-ai-data-collection-onsite/"><u>Prevent AI Data Collection Onsite</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-great-linguistic-race-analyzing-distinctive-characteristics-of-gpt-versus-bert-models/"><u>The Great Linguistic Race: Analyzing Distinctive Characteristics of GPT versus BERT Models</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unpacking-the-call-for-enhanced-ai-supervision-by-openais-ceo-consequences-and-interpretations/"><u>Unpacking the Call for Enhanced AI Supervision by OpenAI’s CEO – Consequences & Interpretations</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-14-plus-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 14 Plus? Fixed | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mapping-instagrams-unfollowers-landscape/"><u>[New] 2024 Approved Mapping Instagram's Unfollowers Landscape</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-future-of-advertising-on-youtube-shorts/"><u>[New] In 2024, The Future of Advertising on YouTube Shorts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-legal-influence-unveiled/"><u>ChatGPT's Legal Influence Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-your-digital-sidekick-snapchats-my-ai-vs-chatgpt/"><u>Choosing Your Digital Sidekick: Snapchat's My AI Vs. ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/diving-into-auto-gpt-vs-chatgpt-key-differences-explained/"><u>Diving Into Auto-GPT Vs. ChatGPT: Key Differences Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/does-chatgpts-performance-decline-debunking-the-myth-insights-from-openai/"><u>Does ChatGPT's Performance Decline? Debunking the Myth: Insights From OpenAI</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-resolve-issues-with-realtek-8821ae-wireless-lan-pci-e-nic-drivers-in-compatibility-mode/"><u>How to Resolve Issues with Realtek 8821AE Wireless LAN PCI-E NIC Drivers in Compatibility Mode</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oneplus-ace-3-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring OnePlus Ace 3 to PC? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to Stop Life360 from Tracking You On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-professional-communication-utilizing-chatgpt-for-complex-workplace-emails/"><u>Mastering Professional Communication: Utilizing ChatGPT for Complex Workplace Emails</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-with-ease-into-ai-enhanced-bing-setup-guide/"><u>Navigate with Ease Into AI-Enhanced Bing: Setup Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/smart-tech-gpt-enhancements-for-home-productivity/"><u>Smart Tech: GPT Enhancements for Home Productivity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-challenges-in-sending-presents-via-apple-devices/"><u>Top 5 Challenges in Sending Presents via Apple Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-paperwork-into-intelligence-chatgpts-fourfold-path/"><u>Transforming Paperwork Into Intelligence: ChatGPT's Fourfold Path</u></a></li>
+<li><a href="https://win-news.techidaily.com/unraveling-typical-windows-hardware-problems-a-comprehensive-guide-by-yl-computing/"><u>Unraveling Typical Windows Hardware Problems: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/why-do-my-photoshoot-videos-grind-to-a-halt-in-2024/"><u>Why Do My Photoshoot Videos Grind to a Halt, In 2024</u></a></li>
 </ul></div>
 

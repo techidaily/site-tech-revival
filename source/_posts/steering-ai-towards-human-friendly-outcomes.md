@@ -1,7 +1,7 @@
 ---
 title: Steering AI Towards Human-Friendly Outcomes
-date: 2024-12-22T03:52:41.626Z
-updated: 2024-12-29T00:03:52.091Z
+date: 2025-01-09T06:49:05.036Z
+updated: 2025-01-14T02:47:18.864Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. WebChatGPT
@@ -58,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 **Download:** ChatGPT Prompt Genius for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. ChatGPT Writer
 
  When someone sends a professional email your way for something like a meeting or a job opportunity, it's bad form to reply with a one or two-line email (even if that sums up everything you want to say). ChatGPT Writer takes your intended reply and generates a long, professional-sounding email message.
@@ -79,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. YouTube Summary With ChatGPT
@@ -92,15 +88,15 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
 
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Talk-to-ChatGPT
 
@@ -120,13 +116,13 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
@@ -135,6 +131,10 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
  While the tool summarizes the information in a neat manner, it ends the answers with a quick mention of the best, legitimate sources. And while there's still a possibility of fault here (you'd still need to rely on the sources that Perplexity provides), we believe it's much better than going in blind with the usual, source-less responses you'd otherwise gotten from ChatGPT.
 
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Awesome, But Be Realistic…
 
@@ -157,18 +157,16 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-clear-photography-archives-legal-purchase-tactics-for-2024/"><u>[Updated] Clear Photography Archives Legal Purchase Tactics for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-nostalgia-reimagined-transforming-your-vintage-photos-into-cutting-edge-videos/"><u>2024 Approved Nostalgia Reimagined Transforming Your Vintage Photos Into Cutting-Edge Videos</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-the-all-in-one-charging-solution-jackery-powerbar-with-wall-socket-functionality/"><u>Comprehensive Review: The All-In-One Charging Solution - Jackery PowerBar with Wall Socket Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-handling-fatal-dxgkrnl-errors-during-video-streaming-in-windows/"><u>Effective Fixes for Handling Fatal Dxgkrnl Errors During Video Streaming in Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-t2x-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo T2x 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-highlight-your-pc-gaming-6-effective-screen-methods/"><u>In 2024, Highlight Your PC Gaming 6 Effective Screen Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-approaches-to-cbt-using-conversational-ai-platforms-like-chatgpt/"><u>Innovative Approaches to CBT Using Conversational AI Platforms Like ChatGPT</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-lenovos-latest-ai-powered-thinkpads-the-perfect-tech-solution-every-office-professional-has-been-anticipating-insights/"><u>Introducing Lenovo's Latest AI-Powered ThinkPads: The Perfect Tech Solution Every Office Professional Has Been Anticipating - Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/langchain-101-for-languaged-learners/"><u>LangChain 101 for Languaged Learners</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-ai-writing-assistant-chatgpt-for-mac-enthusiasts/"><u>Leveraging AI Writing Assistant ChatGPT for Mac Enthusiasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-conversational-agents-like-chatgpt-for-advanced-emotional-intelligence-training/"><u>Leveraging Conversational Agents Like ChatGPT for Advanced Emotional Intelligence Training</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/top-25-mentors-in-modern-social-media-mastery-on-instagram/"><u>Top 25 Mentors in Modern Social Media Mastery on Instagram</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-12-and-12-pro-protective-covers-expert-picks/"><u>Top Rated iPhone 12 & 12 Pro Protective Covers : Expert Picks</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-fresh-filmmaking-innovative-biographical-ideas-to-triple-your-tiktok-following-on-filmora/"><u>[Updated] 2024 Approved Fresh Filmmaking Innovative Biographical Ideas to Triple Your TikTok Following on Filmora</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-youtube-ad-revenue-how-much-do-youtubers-make-per-ad/"><u>2024 Approved YouTube Ad Revenue How Much Do YouTubers Make Per Ad?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1010634-9781780993300-pagan-portals-hedge-witchcraft/"><u>Pagan Portals - Hedge Witchcraft | Free Book</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-removing-titles-from-your-nook-library/"><u>Step-by-Step Guide: Removing Titles From Your Nook Library</u></a></li>
+<li><a href="https://extra-information.techidaily.com/subtle-screen-entry-sequence/"><u>Subtle Screen Entry Sequence</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-definitive-guide-to-secure-social-networking-on-fb/"><u>The Definitive Guide to Secure Social Networking on FB</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-converting-3g2-media-files-to-mp4-and-additional-variants/"><u>The Ultimate Guide: Converting 3G2 Media Files to MP4 & Additional Variants</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-rated-sound-capture-applications-compatible-with-windows-8-internal-and-usb-options/"><u>Top-Rated Sound Capture Applications Compatible with Windows 8: Internal and USB Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-mp4-playback-issues-on-google-drive-a-step-by-step-guide/"><u>Troubleshooting MP4 Playback Issues on Google Drive: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/why-choose-youtubes-av1-for-impeccable-video-playback-in-2024/"><u>Why Choose YouTube's AV1 for Impeccable Video Playback, In 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tvafreecatvpc/"><u>アフリカTV（AfreecaTV）のライブ配信がPCからも記録可能!? 専門家が推薦する方法</u></a></li>
 </ul></div>
 

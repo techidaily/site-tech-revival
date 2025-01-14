@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Implementing and Operating Plug-Ins for ChatGPT"
-date: 2025-01-06T22:35:55.349Z
-updated: 2025-01-07T17:52:31.279Z
+date: 2025-01-08T18:55:03.774Z
+updated: 2025-01-13T18:54:15.231Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is HuggingChat?
 
  We won't go into too much detail here, as by now, most people know[what generative AI chatbots are](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) . But it is worth touching on, as this will help you understand some underlying differences between the two chatbots.
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  Now that we know all about HuggingChat, let's see how it stacks up against ChatGPT.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## HuggingChat vs. ChatGPT: How Do They Compare?
 
  Let's start by comparing how to access the tools. ChatGPT first, although it is possible to[use ChatGPT without an account](https://www.makeuseof.com/ways-to-use-chatgpt-without-openai-account/) , accessing the tool directly will require an[OpenAI account](https://auth0.openai.com/u/signup/identifier?state=hKFo2SBJYnBoZTVIMkdqWVZDVmgxRjVVYXhhc2tnaDhmN1U4VaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDd3aGZkd2QxOG91WmJFV3BBdEN3TXhWVF9UdWRwOEUzo2NpZNkgVGRKSWNiZTE2V29USHROOTVueXl3aDVFNHlPbzZJdEc) . Once you have set this up, the tool is free to use (unless you[upgrade to ChatGPT Pro](https://www.makeuseof.com/how-to-use-gpt4/) ).
@@ -47,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 ![Screenshot of HuggingChat confirming an account is required](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-confirming-an-account-is-required.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, we used it with an account and without any problems. If this changes, or you'd prefer to set up an account, it is free, and you can sign up on[HuggingFace](https://huggingface.co/join) .
@@ -55,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
  The tools have remarkably similar interfaces, as the bulk of these tools do. Simplicity is the key to AI chatbots, and both tools have a simple input box to allow you to enter prompts, which is about it. However, learning[prompting techniques can help improve response quality](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) .
 
  Next, we will look at other metrics and capabilities and compare the responses.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Large Language Models (LLMs)
 
@@ -77,6 +81,10 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
 ![Screenshot of ChatGPT answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-answering-baseball-question.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Summarizing Articles
 
  You can use URLs to "force" both tools to access more current data. We tested this ability by asking them to summarize a MakeUseOf article on[remotely accessing Android phones](https://www.makeuseof.com/tag/can-i-control-a-phone-with-my-computer-android/) . In the first instance, we provided the URL.
@@ -86,7 +94,7 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 ![Screenshot of ChatGPt summary with URL of article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summary-with-url-of-article.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The HuggingChat response wasn't bad but lacked some of the detail covered by ChatGPT.
@@ -106,7 +114,7 @@ HuggingChat's summary looked like this:
  There isn't much difference between the two tools here, so let's see how they compare when we test them for creativity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## HuggingChat vs. ChatGPT: How Do They Compare Creatively?
@@ -118,10 +126,6 @@ HuggingChat's summary looked like this:
  We asked both to compose a two-verse love song based on Romeo and Juliet. This was ChatGPT's response:
 
 ![Screenshot of ChatGPT lovesong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-lovesong.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 And this was HuggingChat's.
 
@@ -140,10 +144,6 @@ Shakespeare himself would be impressed with both of these!
 * **Cybersecurity vulnerabilities** : ChatGPT is a complex system that may contain cybersecurity vulnerabilities that can be exploited by attackers.
 
  One thing to note is that HuggingChat seems to work fine with an account. This is useful if you want to minimize the privacy risks associated with the platforms.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which Is Best: HuggingChat or ChatGPT?
 
@@ -180,24 +180,22 @@ Shakespeare himself would be impressed with both of these!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-entertainment-unlocked-apk-of-funimate-explained/"><u>[Updated] Entertainment Unlocked APK of Funimate Explained</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-instantaneous-change-from-srt-to-txt-with-our-proven-methods/"><u>2024 Approved Instantaneous Change From SRT to TXT with Our Proven Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-smart-responses-via-python-plus-gpt-3/"><u>Crafting Smart Responses via Python + GPT-3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-reasons-behind-openai-ceos-appeal-for-enhanced-ai-oversight/"><u>Decoding the Reasons Behind OpenAI CEO's Appeal for Enhanced AI Oversight</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-sharing-conversations-from-chatgpt-a-step-by-step-guide/"><u>Effective Strategies for Sharing Conversations From ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-blockchain-game-with-these-8-must-have-ai-chatgpt-add-ons/"><u>Elevate Your Blockchain Game with These 8 Must-Have AI ChatGPT Add-Ons</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elon-musk-reveals-cutting-edge-grok-ai-features-functionality-and-investment-cost-analysis/"><u>Elon Musk Reveals Cutting-Edge Grok AI: Features, Functionality, and Investment Cost Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-guide-free-update-programs-ranked-top-8-picked/"><u>Essential Guide: Free Update Programs Ranked - Top 8 Picked!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-insights-protect-your-privacy-from-common-chatbot-threats/"><u>Essential Insights: Protect Your Privacy From Common Chatbot Threats</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-find-n3-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo Find N3 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-collage-alchemy-transforming-scraps-into-art/"><u>In 2024, Collage Alchemy Transforming Scraps Into Art</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-possible-to-harness-chatgpts-capabilities-for-crafting-harmful-code-or-viruses/"><u>Is It Possible to Harness ChatGPT's Capabilities for Crafting Harmful Code or Viruses?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/rapidrush-framefrozen-recording/"><u>RapidRush FrameFrozen Recording</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-the-magic-of-stereo-mix-step-by-step-guide-to-restoration/"><u>Revive the Magic of Stereo Mix - Step-by-Step Guide to Restoration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solving-the-chatgpt-body-stream-malfunction-top-7-effective-methods/"><u>Solving the ChatGPT Body Stream Malfunction: Top 7 Effective Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/speak-up-and-command-chatgpt-top-5-techniques-for-vocal-control/"><u>Speak Up and Command ChatGPT: Top 5 Techniques for Vocal Control</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-the-ultimate-gm-top-strategies-to-utilize-chatgpt-in-dandd/"><u>Unleashing the Ultimate GM: Top Strategies to Utilize ChatGPT in D&D</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-m14-4g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy M14 4G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtube-to-mp3-simple-recording-steps-for-2024/"><u>YouTube to MP3 Simple Recording Steps for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-explore-windows-and-mac-8-best-3d-video-apps-for-free/"><u>[New] Explore Windows & Mac 8 Best 3D Video Apps for FREE</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-create-impactful-youtube-videos-top-20-font-picks/"><u>[New] In 2024, Create Impactful YouTube Videos Top 20 Font Picks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revive-your-missing-iphone-x-crucial-tips-revealed/"><u>[New] Revive Your Missing iPhone X Crucial Tips Revealed</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-nokia-c02-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Nokia C02 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-faux-pas-how-to-sidestep-these-blunders/"><u>ChatGPT Faux Pas: How to Sidestep These Blunders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-fresh-batch-of-innovations-a-guide-to-the-most-useful-additions/"><u>ChatGPT's Fresh Batch of Innovations: A Guide to the Most Useful Additions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-requesting-automotive-assistance-from-chatgpt/"><u>Effective Strategies for Requesting Automotive Assistance From ChatGPT</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/cing-video-quality-editing-tips-for-published-content/"><u>Enhancing Video Quality Editing Tips for Published Content</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-insights-how-to-choose-among-the-top-9-free-youtube-makers/"><u>Essential Insights How to Choose Among the Top 9 Free YouTube Makers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/googles-artificial-intelligence-endeavors-the-pioneering-project-gemini/"><u>Google's Artificial Intelligence Endeavors – The Pioneering Project Gemini</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leadership-change-at-openai-ceo-sam-altman-steps-down-consequences-for-ais-communication-frontier-chatgpt/"><u>Leadership Change at OpenAI: CEO Sam Altman Steps Down - Consequences for AI's Communication Frontier, ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/swift-stardom-the-five-tenets-of-gpts-triumph/"><u>Swift Stardom: The Five Tenets of GPT's Triumph</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-role-of-prompt-engineers-key-9-factors-for-career-decisions/"><u>Understanding the Role of Prompt Engineers - Key 9 Factors for Career Decisions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlock-your-photography-potential-with-lightzones-free-darkroom-tool-windows-mac-and-linux-friendly/"><u>Unlock Your Photography Potential with Lightzone's Free Darkroom Tool – Windows, Mac & Linux Friendly.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-excel-potential-with-chatgpt-assistance/"><u>Unlocking Excel Potential with ChatGPT Assistance</u></a></li>
 </ul></div>
 

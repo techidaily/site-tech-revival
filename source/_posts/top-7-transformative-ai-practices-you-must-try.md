@@ -1,7 +1,7 @@
 ---
 title: Top 7 Transformative AI Practices You Must Try
-date: 2024-12-26T19:58:38.584Z
-updated: 2024-12-29T05:59:51.250Z
+date: 2025-01-07T05:09:11.590Z
+updated: 2025-01-14T08:50:36.194Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -50,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -66,10 +66,14 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
@@ -80,17 +84,9 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -100,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -107,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
  When designing your prompt, be very specific about what you don't want in your results. For example, if you're planning a trip, you may want to mention that you don't want to join tours or would prefer to avoid popular spots.
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
@@ -117,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
  If you're using AI to create art, it's also a good idea to upload images that the AI tool can use as examples. Meanwhile, if you want to[use Photo AI](https://www.makeuseof.com/what-is-photo-ai/) or similar tools for pictures of yourself, uploading selfies, headshots, and other images will help you achieve what you want.
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
@@ -147,20 +147,17 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-capture-and-save-video-images-on-windows-11/"><u>[New] 2024 Approved Capture and Save Video Images on Windows 11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cognitive-conclaves-educational-yt-powerhouses/"><u>[Updated] 2024 Approved Cognitive Conclaves Educational YT Powerhouses</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-leading-plot-crafting-hub/"><u>[Updated] 2024 Approved Leading Plot Crafting Hub</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/combatting-loss-of-detail-on-online-video/"><u>Combatting Loss of Detail on Online Video</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-eyecapture-screen-logger-x/"><u>In 2024, EyeCapture Screen Logger X</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overview-reverting-custom-energy-settings-in-windows/"><u>Overview: Reverting Custom Energy Settings in WIndows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/synthesizing-success-in-metaverse-sales-techniques/"><u>Synthesizing Success in Metaverse Sales Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-underground-guide-5-unauthorized-uses-of-ai/"><u>The Underground Guide: 5 Unauthorized Uses of AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-vanguard-verdict-which-ai-tops-gemini-or-plush-chatgpt/"><u>The Vanguard Verdict: Which AI Tops, Gemini or Plush ChatGPT?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-y100-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo Y100 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-challenges-into-opportunities-with-ai-integration/"><u>Transforming Challenges Into Opportunities with AI Integration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-ai-triad-open-vs-closed-worlds/"><u>Understanding the AI Triad: Open Vs. Closed Worlds</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-ai-potential-explore-the-20-most-effective-chatgpt-prompts-curated-for-github-enthusiasts/"><u>Unleash AI Potential: Explore the 20 Most Effective ChatGPT Prompts Curated for GitHub Enthusiasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-potential-7-artificial-intelligence-tools/"><u>Unleashing Potential: 7 Artificial Intelligence Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-potential-of-rtx-ai-conversational-support/"><u>Unlocking the Potential of RTX AI Conversational Support</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-lift-the-tab-listen-up-fb-music-secrets/"><u>[New] In 2024, Lift the Tab, Listen Up FB Music Secrets</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-contrasting-copyright-clauses-in-youtube-and-the-freedom-of-cc/"><u>[Updated] Contrasting Copyright Clauses in Youtube & the Freedom of CC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210882842-9781088161166-break-free-daily-revival-prayers-may-towards-national-transformation/"><u>Break-free - Daily Revival Prayers - MAY - Towards NATIONAL TRANSFORMATION | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-extraordinary-performance-with-durable-battery-and-eye-catching-design-the-ultimate-guide-to-premium-13-inch-laptops-reviewed-by-zdnet/"><u>Experience Extraordinary Performance with Durable Battery and Eye-Catching Design - The Ultimate Guide to Premium 13-Inch Laptops Reviewed by ZDNet.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oneplus-nord-n30-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on OnePlus Nord N30 5G Device</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-tecno-phantom-v-fold-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Tecno Phantom V Fold Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-building-the-ultimate-bk19-addon-for-your-kodi-matrix-experience/"><u>Step-by-Step Guide: Building the Ultimate BK19 Addon for Your Kodi Matrix Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-your-video-files-from-wlmp-to-wmv-and-more-compatible-formats/"><u>Step-by-Step Guide: Converting Your Video Files From WLMP to WMV & More Compatible Formats</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-retrieving-sent-emails-from-your-inbox-using-microsoft-outlook/"><u>Step-by-Step Guide: Retrieving Sent Emails From Your Inbox Using Microsoft Outlook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-enabling-offline-viewing-of-youtube-videos-on-android-phones-and-tablets/"><u>Step-by-Step Tutorial: Enabling Offline Viewing of YouTube Videos on Android Phones & Tablets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-hosts-epic-journey-continues-get-your-movie-42-dvd-copy-today/"><u>The Host's Epic Journey Continues: Get Your Movie 42 DVD Copy Today!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-15-must-see-turkish-dramas-on-netflix-with-english-captions-2024-forecast/"><u>Top 15 Must-See Turkish Dramas on Netflix with English Captions - 2024 Forecast</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Idea Generation Strategies: Collaborative Techniques with Mind Mapping & AI Tools Like ChatGPT"
-date: 2024-12-26T07:56:22.224Z
-updated: 2024-12-29T01:03:59.408Z
+date: 2025-01-08T09:58:18.583Z
+updated: 2025-01-13T22:47:18.839Z
 tags:
   - chatgpt
   - open-ai
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/943f842d3159d7c62db6db70d1cc358ee65b1b472
 ![Screenshot of a ChatGPT response to meditation setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-meditation-setup.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Ask ChatGPT Initial Questions About Meditation
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/943f842d3159d7c62db6db70d1cc358ee65b1b472
 ![Screenshot of a ChatGPT response to meditation intentions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-meditation-intentions.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Try to frame your intentions positively, with statements such as:
@@ -85,14 +85,10 @@ Try to frame your intentions positively, with statements such as:
 
 ![Screenshot of a ChatGPT response to meditation session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-meditation-session.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Because ChatGPT is a text-based service, it won’t lead you through a session as you would expect from a[meditation app like Insight Timer](https://www.makeuseof.com/deep-dive-into-insight-timer-meditation-app/) , the[meditation and mindfulness app Calm](https://www.makeuseof.com/meditating-calm-app-improve-mindfulness/) , or even a teacher. Instead, you’ll receive a list of ideas to work with, and you can consider which approaches might work best for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reflect Mindfully on Responses and Ask Further Questions for Clarity
@@ -103,13 +99,13 @@ Try to frame your intentions positively, with statements such as:
 
 ![Screenshot of a ChatGPT response refining answers about meditation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-refining-answers-about-meditation.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Apply the ChatGPT Advice in Your Meditation Session
 
  Practice some of the suggestions, using everything you have learned from your interactions with ChatGPT.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Conclude Your Meditation Session With Breathing Exercises
 
@@ -118,6 +114,10 @@ Try to frame your intentions positively, with statements such as:
  Breathe deeply and take a few moments to return to your ordinary state. You could journal your responses to help you next time.
 
 ![Screenshot of a ChatGPT response to breathing exercise question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-breathing-exercise-question.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Set Future Goals Using ChatGPT for Guidance
 
@@ -131,11 +131,11 @@ Try to frame your intentions positively, with statements such as:
 
 ![Screenshot of a ChatGPT response to setting meditation goals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-setting-meditation-goals.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Of course, you can combine these answers with advice from other sources, such as our list of[meditation apps to help you pause for a mindful moment on the go](https://www.makeuseof.com/meditation-apps-mindful-moment-on-go/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Can Be a Useful Tool to Help You Develop a Regular Meditation Habit
 
@@ -158,16 +158,24 @@ Try to frame your intentions positively, with statements such as:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-implementing-photography-snippets-from-videos/"><u>[New] Implementing Photography Snippets From Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-navigate-with-ease-best-7-android-browsers-without-pop-ups/"><u>[Updated] 2024 Approved Navigate With Ease Best 7 Android Browsers Without Pop-Ups</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1-best-live-streaming-apps-discover-manycam-and-virtual-webcams/"><u>1. Best Live Streaming Apps: Discover ManyCam and Virtual Webcams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/access-your-personal-ai-buddy-get-the-new-chatgpt-app-on-ios-devices/"><u>Access Your Personal AI Buddy – Get the New ChatGPT App on iOS Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/achieve-a-streamlined-workflow-essential-ai-tools-every-writer-needs/"><u>Achieve a Streamlined Workflow: Essential AI Tools Every Writer Needs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722201119489-eagerly-anticipating-the-chatgpt-desktop-release-discover-an-amazing-open-source-option/"><u>Eagerly Anticipating the ChatGPT Desktop Release? Discover an Amazing Open Source Option!</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-social-syncing-strategy-post-videos-between-platforms/"><u>In 2024, Social Syncing Strategy Post Videos Between Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-dominates-as-they-secure-top-seven-positions-in-worldwide-smartphone-market-share/"><u>IPhone Dominates as They Secure Top Seven Positions in Worldwide Smartphone Market Share</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/perfect-posts-every-time-mastering-instagram-video-uploads-on-desktop-for-2024/"><u>Perfect Posts Every Time Mastering Instagram Video Uploads on Desktop for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721895341531-unleash-creativity-with-our-top-picks/"><u>Unleash Creativity with Our Top Picks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-snapchat-tricks-unleashing-yourself-with-a-cartoon-lens/"><u>[Updated] In 2024, Snapchat Tricks Unleashing Yourself with a Cartoon Lens</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtubes-twist-rearranging-queue-from-end-to-beginning/"><u>[Updated] YouTube's Twist Rearranging Queue From End to Beginning</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-getting-into-film-editing-made-easy/"><u>2024 Approved Getting Into Film Editing Made Easy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-brainstorming-skills-combining-mindmaps-and-chatgpt-for-creative-thinking/"><u>Boost Brainstorming Skills: Combining Mindmaps and ChatGPT for Creative Thinking</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-strategies-building-powerful-presentations/"><u>ChatGPT Strategies: Building Powerful Presentations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-limitless-potential-of-imagination-using-free-dall-e-3-on-bing/"><u>Explore the Limitless Potential of Imagination: Using Free DALL-E 3 on Bing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-linguistic-milestones-unveiling-bert-and-gpt/"><u>Exploring Linguistic Milestones: Unveiling BERT and GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/foregoing-gpts-mobile-version-a-smart-choice/"><u>Foregoing GPT's Mobile Version: A Smart Choice</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-motorola-moto-e13-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Motorola Moto E13 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-harmony-in-transition-15-masterful-scores-enhancing-diverse-video-styles/"><u>In 2024, Harmony in Transition 15 Masterful Scores Enhancing Diverse Video Styles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-tele-loop-techniques-easy-endless-watching-on-television/"><u>In 2024, Tele-Loop Techniques Easy, Endless Watching on Television</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-business-potential-8-innovative-uses-of-chatgpt/"><u>Maximizing Business Potential: 8 Innovative Uses of ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/microsofts-new-era-of-search-with-ai-transforming-the-way-you-discover-information/"><u>Microsoft's New Era of Search with AI: Transforming the Way You Discover Information</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/opt-out-of-chatgpt-choose-microsoft-copilot-reasons/"><u>Opt Out of ChatGPT: Choose Microsoft CoPilot Reasons</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-for-usb-headsets-a-step-by-step-guide-for-windows-7-users/"><u>Reviving Audio for USB Headsets: A Step-by-Step Guide for Windows 7 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-resolving-the-problem-of-a-silent-microphone-in-zoom-sessions-on-microsoft-operating-systems/"><u>Solution Guide: Resolving the Problem of a Silent Microphone in Zoom Sessions on Microsoft Operating Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210762067-9781800073265-the-secret-to-happiness/"><u>The Secret to Happiness | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-truthgpt-coin-a-comprehensive-guide-to-its-authenticity-and-value/"><u>Unveiling TruthGPT Coin: A Comprehensive Guide to Its Authenticity and Value</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-essential-list-of-acoustic-amplifiers-and-boosters-for-android-and-ios-users-2023-edition/"><u>Updated In 2024, The Essential List of Acoustic Amplifiers and Boosters for Android & iOS Users, 2023 Edition</u></a></li>
 </ul></div>
 

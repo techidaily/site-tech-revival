@@ -1,7 +1,7 @@
 ---
 title: The Influence of the EU’s Proposed AI Framework on Next-Gen Communication Bots Such as ChatGPT
-date: 2024-09-01T19:13:46.711Z
-updated: 2024-09-02T19:13:46.711Z
+date: 2025-01-08T10:48:10.624Z
+updated: 2025-01-14T00:09:17.296Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
  NVIDIA AI Foundations is available in three models: NeMo, Picasso, and BioNeMo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### NVIDIA NeMo
 
 ![NVIDIA NEMO illustration ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-nemo.jpg)
@@ -42,26 +46,25 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
  There are five NeMo models available with different parameters ranging from 8 billion parameters to 530 billion. If you're unsure which is the most suitable AI model for your business, you can consult an NVIDIA AI expert to help you.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### NVIDIA Picasso
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [NVIDIA Picasso](https://www.nvidia.com/en-us/gpu-cloud/picasso/) is a generative AI model that works similarly to[OpenAI's DALL-E image creator](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) . However, NVIDIA Picasso is not limited to images only since it can also turn text into video or 3D content.
 
  In addition, NVIDIA Picasso is made for software creators, service providers, and businesses intending to train AI models using copyright or licensed data. Alternatively, using pre-trained models, you could add text prompts to create images, videos, and 3D content from scratch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NVIDIA BioNeMo
 
 ![nvidia-bionemo-cloud-services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-bionemo-cloud-services.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-unveils-large-language-models-and-generative-ai-services-to-advance-life-sciences-r-d)
 
 [NVIDIA's BioNeMo](https://nvidianews.nvidia.com/news/nvidia-unveils-large-language-models-and-generative-ai-services-to-advance-life-sciences-r-d) is a pre-trained AI model for biology, chemistry, genomics, and molecular dynamics research. To put into perspective, NVIDIA's BioNemo will speed up the process of drug development—a process that used to take years could be shortened to a few weeks.
@@ -69,38 +72,34 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
  Beyond that, pharmaceutical scientists can choose from six different AI models of BioNemo depending on their scope of research. This could revolutionize[the future of the healthcare industry](https://www.makeuseof.com/ai-will-power-future-healthcare/) .
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Who Can Use NVIDIA AI Foundations?
 
 ![NVIDIA AI Foundations ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-ai-foundations.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models)
 
  NVIDIA's AI Foundations isn't available to the general public. However, you can request early access by filling up your company's details on NVIDIA's website. Once your business application is approved, you can access the AI models through a browser or[a dedicated API](https://www.makeuseof.com/what-is-api/) .
 
  So far, a few companies like Getty Images, Adobe, and Shutterstock have partnered with NVIDIA to develop text-to-image or video AI models. Similarly, more than a dozen big companies, including Deloitte and Morningstar, have already implemented NVIDIA's AI language models into their business operations. Biotech companies like Amgen and Insilico Medicine are also using NVIDIA's BioNeMo to develop drugs.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## NVIDIA'S AI Foundation is a Game Changer
 
  NVIDIA has partnered with Microsoft Azure, Google Cloud, and Oracle Cloud to develop its AI model for businesses. On top of that, NVIDIA has decades of experience building the best GPUs on the market—for example, OpenAI used NVIDIA GPUs to develop ChatGPT.
 
  With NVIDIA finally jumping on board, you can access its AI model and customize it to easily perform tasks that fall within the parameters of your business. In addition, you can also adopt NVIDIA's AI Foundations to improve your organization's efficiency and accuracy.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,4 +108,26 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-essential-steps-for-clear-quality-iphone-recordings/"><u>[New] Essential Steps for Clear, Quality iPhone Recordings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-quick-fixes-for-perfect-ipad-screenshots/"><u>[Updated] 2024 Approved Quick Fixes for Perfect iPad Screenshots</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unveiling-ultra-details-in-minecraft-games/"><u>[Updated] 2024 Approved Unveiling Ultra Details in Minecraft Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-skybound-creativity-essential-editing-skills-for-drone-films/"><u>2024 Approved Skybound Creativity Essential Editing Skills for Drone Films</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-enables-interactive-conversations-with-openais-voice-enabled-ai/"><u>ChatGPT Enables Interactive Conversations with OpenAI's Voice-Enabled AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-role-in-enhancing-cognitive-behavioral-therapy-practices/"><u>ChatGPT's Role in Enhancing Cognitive Behavioral Therapy Practices</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effortless-pdf-viewing-on-windows-systems-a-comprehensive-tutorial-by-yl-software-professionals/"><u>Effortless PDF Viewing on Windows Systems: A Comprehensive Tutorial by YL Software Professionals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-online-queries-discover-why-perplexer-is-the-top-choice-for-ai-enhanced-google-searching/"><u>Elevate Your Online Queries: Discover Why Perplexer Is the Top Choice for AI-Enhanced Google Searching</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-xs-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone XS Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-auto-gpts-value-self-verified/"><u>Is Auto-GPT's Value Self-Verified?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/large-language-models-unveiled-is-going-with-a-local-option-right-for-you/"><u>Large Language Models Unveiled: Is Going with a Local Option Right For You?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/learn-how-to-stream-hulu-on-your-lg-television-a-beginners-guide/"><u>Learn How to Stream Hulu on Your LG Television: A Beginner's Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-visuals-and-audio-top-5-video-creators-guide-for-2024/"><u>Mastering Visuals and Audio Top 5 Video Creators' Guide for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-corporate-policies-the-implications-of-using-chatgpt-on-your-career/"><u>Navigating Corporate Policies: The Implications of Using ChatGPT on Your Career</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-position-predictor-highest-charting-videos/"><u>Prime Position Predictor Highest Charting Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-digital-wallet-top-8-chatgpt-powered-crypto-plugins/"><u>Revolutionize Your Digital Wallet: Top 8 ChatGPT Powered Crypto Plugins</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-thoughts-of-key-tech-figures-globally-regarding-the-future-of-artificial-intelligence/"><u>The Thoughts of Key Tech Figures Globally Regarding the Future of Artificial Intelligence</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-x100-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo X100 Pro FRP Bypass</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-mechanics-of-chatgpt-shared-connections/"><u>Unveiling the Mechanics of ChatGPT Shared Connections</u></a></li>
+</ul></div>
 

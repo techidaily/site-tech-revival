@@ -1,7 +1,7 @@
 ---
 title: Poetic Warriors & GPT Ewes - Bard's Ballad Battle with Woolly Allies
-date: 2024-12-28T05:21:47.362Z
-updated: 2024-12-29T04:55:47.599Z
+date: 2025-01-12T08:56:09.938Z
+updated: 2025-01-13T20:49:11.069Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. WebChatGPT
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 ![WebChatGPT takes your ChatGPT prompt and performs a search query with it first, and then instructs ChatGPT to use those search results while answering your query so that its data is more updated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-chatgpt-browser-extensions-chrome-webchatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As impressive as ChatGPT's answers are, it's still limited. If you know[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) , you'll know that it isn't scraping the internet for the latest information about any topic or news. The AI works on older data and doesn't search the internet. WebChatGPT is an innovative workaround for this problem that adds web search results to ChatGPT.
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
@@ -98,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Talk-to-ChatGPT
 
  ChatGPT is currently a text-only AI app where the prompts and the answers are written. But Google Chrome offers some excellent voice commands and text-to-speech features. Talk-to-ChatGPT bridges this gap to let you issue prompts by talking to your computer and having the ChatGPT answers read aloud by AI.
@@ -107,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
  Talk-to-ChatGPT is an open-source extension that lets you fiddle around with the settings. You can choose from different AI voices, the voice pitch, and the speed at which text is read. It also supports voice command shortcuts of "Stop" and "Pause" to control playback.
 
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. ChatGPT for Search Engines
 
@@ -125,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
@@ -157,16 +157,19 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-harness-quick-download-powers-for-tiktok-videos-for-2024/"><u>[New] Harness Quick-Download Powers for TikTok Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-social-media-success-start-with-facebook-insights-for-2024/"><u>[Updated] Unlocking Social Media Success Start with Facebook Insights for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/5-most-prominent-driverless-car-companies-to-watch-in-2024-teslas-dominance-as-the-no1-autonomous-vehicle-manufacturer/"><u>5 Most Prominent Driverless Car Companies to Watch in 202#4 Tesla's Dominance as the No.1 Autonomous Vehicle Manufacturer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-power-of-claude-3-discovering-how-to-utilize-its-capabilities/"><u>Decoding the Power of Claude 3: Discovering How to Utilize Its Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/does-chatgpt-have-a-maximum-character-or-word-count-per-answer/"><u>Does ChatGPT Have a Maximum Character or Word Count per Answer?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/educators-guide-to-ai-the-8-key-advantages-of-accepting-artificial-intelligence-in-schools/"><u>Educators' Guide to AI: The 8 Key Advantages of Accepting Artificial Intelligence in Schools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-solutions-overcoming-chatgpt-and-plugin-service-integration-hiccups/"><u>Effective Solutions: Overcoming ChatGPT and Plugin Service Integration Hiccups</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-against-online-distractions-using-chatgpt-top-8-prompts/"><u>Effective Strategies Against Online Distractions Using ChatGPT – Top 8 Prompts</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-best-10-free-manga-sites-to-read-online/"><u>New 2024 Approved Best 10 Free Manga Sites to Read Online</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-thrifty-consumers-guide-to-the-fitbit-versa-assessing-features-and-functionality/"><u>The Thrifty Consumer's Guide to the Fitbit Versa: Assessing Features and Functionality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unmasking-fake-chatgpt-platforms-securing-online-transactions/"><u>Unmasking Fake ChatGPT Platforms: Securing Online Transactions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-essential-tips-for-crafting-engaging-facebook-reels/"><u>[New] 2024 Approved Essential Tips for Crafting Engaging Facebook Reels</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-innovative-home-designs-for-modern-minecraft-world/"><u>[New] 2024 Approved Innovative Home Designs for Modern Minecraft World</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-expert-tutorials-on-precision-digital-video-capture/"><u>[New] In 2024, Expert Tutorials on Precision Digital Video Capture</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-blues-of-microsofts-update-troubles-a-step-by-step-guide-for-error-0x800f0922-in-windows-11/"><u>Beat the Blues of Microsoft's Update Troubles: A Step-by-Step Guide for Error 0X800f0922 in Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-business-on-instagram-a-step-by-step-guide/"><u>In 2024, Mastering Business on Instagram A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-power-of-speech-recognition-for-effective-office-documentation-in-microsoft-word/"><u>In 2024, Unlock the Power of Speech Recognition for Effective Office Documentation in Microsoft Word</u></a></li>
+<li><a href="https://discover-data.techidaily.com/instantly-turn-pdf-files-into-interactive-ebooks-at-no-cost/"><u>Instantly Turn PDF Files Into Interactive Ebooks at No Cost</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-instructions-for-enabling-bluetooth-on-your-pc-windows-11-and-10/"><u>Step-by-Step Instructions for Enabling Bluetooth on Your PC (Windows 11 and 10)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-choosing-the-right-streaming-sound-recorder-for-your-device-in-223-windows-mac-android-and-ios-compatible-picks/"><u>Ultimate Guide to Choosing the Right Streaming Sound Recorder for Your Device in 2^23: Windows, Mac, Android & iOS Compatible Picks!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wav-windows-10/"><u>WAV形式のオーディオファイルを改良: Windows 10によるガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027718552-windows-11/"><u>Windows 11で最適な手順で動画の回転: 一つ上げる簡単ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/youtube-clips-download-tutorial-how-to-save-videos-just-for-you/"><u>YouTube Clips Download Tutorial - How to Save Videos Just for You</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029217027-youtube/"><u>YouTube動画取得ガイド：ダウンロード手順</u></a></li>
+<li><a href="https://article-helps.techidaily.com/zenith-zephyrs-elite-notebooks-for-uhd-content-creation/"><u>Zenith Zephyrs Elite Notebooks for UHD Content Creation</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What Is NVIDIA's AI Foundations Customizable Generative AI Service and Who Can Use It?
-date: 2024-12-24T17:47:03.685Z
-updated: 2024-12-28T23:10:59.061Z
+date: 2025-01-09T10:58:51.692Z
+updated: 2025-01-14T12:20:46.171Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
  ChatGPT, OpenAI’s flagship AI product, has received a game-changing update with a bunch of new features. With several key updates rolling out simultaneously, OpenAI has truly spoiled ChatGPT users, particularly ChatGPT Plus subscribers.
 
  There's a lot to get through, and we don't want you to miss out—so we’ve explored the latest ChatGPT update to see how it will impact your experience with the AI chatbot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. The Arrival of GPT-4 Turbo
 
@@ -50,11 +46,11 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
 ![chatgpt4 turbo data cut off point question november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt4-turbo-data-cut-off-point-question-november-2023.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Also, ChatGPT Plus users can rejoice—the cumbersome dropdown menu for switching between models will soon be retired. ChatGPT’s upgraded multimodal skills owing to GPT-4 Turbo’s upgrades will allow it to automatically select the optimal model for a given task, goodbye to manual toggling. This improvement may seem minor, but power users will appreciate not having to constantly switch models mid-conversation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Ability to Create Custom GPTs
 
@@ -62,10 +58,14 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
 ![chatgpt custom gpt model football manager example november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-november-2023.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![chatgpt custom gpt model football manager example with suggestions november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-with-suggestions-november-2023.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -75,7 +75,7 @@ Close
  You could make other custom GPTs as well, like one for movie recommendations primed with a database of films. Then prompt your custom movie bot anytime you want a recommendation. The best part is that you’ll eventually be able to share these specialized GPTs publicly and potentially profit when others find them useful. Custom GPTs allow you to easily customize ChatGPT for specialized purposes beyond its general knowledge without the need to write any code.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use Pre-Listed GPTs
@@ -107,22 +107,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-navigating-the-world-of-no-fee-visual-aids/"><u>[New] Navigating the World of No-Fee Visual Aids</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-enhancing-televisual-engagement-through-fb-live/"><u>[Updated] 2024 Approved Enhancing Televisual Engagement Through FB Live</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-excellent-multimedia-collaboration-apps/"><u>[Updated] In 2024, Excellent Multimedia Collaboration Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/beyond-the-lens-essential-ios-and-android-video-platforms-for-2024/"><u>Beyond the Lens Essential iOS and Android Video Platforms for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-every-dinner-party-with-7-smart-gpt-tips/"><u>Elevate Every Dinner Party with 7 Smart GPT Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-your-presentation-game-the-ultimate-list-of-7-ai-based-software-solutions/"><u>Enhancing Your Presentation Game: The Ultimate List of 7 AI-Based Software Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-guide-to-resolving-standard-auto-gpt-implementation-obstacles/"><u>Essential Guide to Resolving Standard Auto-GPT Implementation Obstacles</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/false-alarm-a-real-chatgpt-windows-application-doesnt-exist-its-a-cyber-threat-in-disguise/"><u>False Alarm: A Real ChatGPT Windows Application Doesn't Exist; It’s a Cyber Threat In Disguise</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-idea-to-interface-building-web-applications-with-gpt-3/"><u>From Idea to Interface: Building Web Applications with GPT-3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gain-instant-access-unveiling-openais-new-gpt-powered-retail-platform/"><u>Gain Instant Access: Unveiling OpenAI's New GPT-Powered Retail Platform</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpt-versus-bing-comparing-generative-chatbot-supremacy/"><u>GPT Versus Bing: Comparing Generative Chatbot Supremacy</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-integrate-live-streaming-footage-into-gaming-sessions-using-the-action-software/"><u>How to Integrate Live Streaming Footage Into Gaming Sessions Using the Action Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-the-mind-of-gpt4all-working-details/"><u>Inside the Mind of GPT4All: Working Details</u></a></li>
-<li><a href="https://extra-information.techidaily.com/motivate-and-master-your-movements-20-top-rated-workout-tracks/"><u>Motivate and Master Your Movements 20 Top-Rated Workout Tracks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-reinstalling-ios-on-your-iphone-without-using-itunes/"><u>Step-by-Step Guide: Reinstalling iOS on Your iPhone without Using iTunes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/unlock-your-media-hd-dvd-to-iphone-and-android-conversion-with-winx-dvd-ripper-free/"><u>Unlock Your Media: HD DVD-to-iPhone & Android Conversion with WinX DVD Ripper (Free)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-as-a-tool-in-cbt-techniques/"><u>Utilizing ChatGPT as a Tool in CBT Techniques</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-unleash-creative-potential-using-storyremix-for-windows-11s-photo-videos/"><u>[Updated] 2024 Approved Unleash Creative Potential Using StoryRemix for Windows 11'S Photo Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-from-project-board-to-public-display-imovie-on-youtube-for-2024/"><u>[Updated] From Project Board to Public Display IMovie on YouTube for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/going-viral-made-easy-essential-methods-for-amplifying-your-instagram-presence/"><u>Going Viral Made Easy: Essential Methods for Amplifying Your Instagram Presence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-creativity-harnessing-the-full-potential-of-movie-maker-windows-8/"><u>In 2024, Unleashing Creativity Harnessing the Full Potential of Movie Maker (Windows 8)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210193892-9781931679169-returning-to-oneness-3rd-ed/"><u>Returning to Oneness (3rd ed.) | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-for-quick-and-effective-4k-xavc-to-prores-format-change/"><u>Step-by-Step Guide for Quick and Effective 4K XAVC to ProRes Format Change</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-creating-an-iso-file-from-a-regular-folder/"><u>Step-by-Step Guide: Creating an ISO File From a Regular Folder</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-on-installing-kodi-app-on-your-android-device-visual-tutorial/"><u>Step-by-Step Instructions on Installing Kodi App on Your Android Device - Visual Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-vp9-video-processing-with-top-encoder-software-downloads/"><u>Streamline VP9 Video Processing with Top Encoder Software Downloads</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-oppo-reno-11-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Oppo Reno 11 Pro 5G to Other Android Devices | Dr.fone</u></a></li>
 </ul></div>
 

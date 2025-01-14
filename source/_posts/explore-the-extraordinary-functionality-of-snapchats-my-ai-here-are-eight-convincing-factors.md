@@ -1,7 +1,7 @@
 ---
 title: Explore the Extraordinary Functionality of Snapchat's My AI - Here Are Eight Convincing Factors
-date: 2024-12-22T07:11:45.414Z
-updated: 2024-12-28T20:45:59.388Z
+date: 2025-01-07T08:44:25.551Z
+updated: 2025-01-14T00:59:52.425Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -35,16 +35,12 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
  But what is Perplexity AI really about, and can you use it instead of Google?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Perplexity AI, and What Can You Do With It?
 
 ![screenshot showing perplexity ai on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-16-123353-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Perplexity AI is a conversational search engine that uses natural language text to answer questions. It was founded in 2022 by a quartet of former AI researchers from OpenAI and Meta: Aravind Srinivas, Andy Konwiski, Denis Yarats, and Johnny Ho.
 
@@ -56,12 +52,16 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 
 ![perplexity app home screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-home-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![perplexity app discover page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-discover-page-screenshot.jpg)
 
 ![perplexity app library page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-library-page-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -72,10 +72,6 @@ Close
 
  Perplexity is free to use. However, you can upgrade to its Pro plan ($20/month) for access to additional features, such as unlimited access to its more powerful AI models like OpenAI's GPT-4, Anthropic's Claude 3 Opus and Sonnet, and Mistral's Large, plus support for images and files, and better support.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can Perplexity AI Replace Google?
 
  While Perplexity AI offers a unique value proposition, it's not positioned to replace Google entirely. Google's vast data infrastructure and established user base give it an advantage in many areas. Perplexity excels in providing AI overviews of user queries. However, it's not effective for several other uses that Google has come to be known for, like weather forecasts and geo-sensitive queries.
@@ -83,6 +79,10 @@ Close
  For example, a search for "bakery near me" returned a "summary" of a list of bakeries. The interesting part? Not one from its list was within a 100-mile radius. The same query on Google returned options within a five-mile radius, which is absolutely what I wanted.
 
 ![screenshot showing search result on perplexity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-showing-search-result-on-perplexity.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It's worth noting that[Google has been testing Search Generative Experience (SGE)](https://www.makeuseof.com/how-to-access-google-ai-powered-search/) , an AI-assisted search feature. SGE provides AI overviews of search queries similar to Perplexity AI. Perplexity AI currently does a better job of answering queries thoroughly and also provides in-text citations for cross-referencing. However, this is something Google can replicate, if it becomes where the battle line is drawn.
 
@@ -105,21 +105,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-complete-screencast-cheat-sheet-must-knows/"><u>[New] The Complete Screencast Cheat Sheet Must-Knows</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-turn-your-youtube-videos-into-lively-gifs-without-saving-files/"><u>[New] Turn Your YouTube Videos Into Lively GIFs Without Saving Files</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/arma-3-stability-fixes-ultimate-guide-to-prevent-game-crashes/"><u>Arma 3 Stability Fixes : Ultimate Guide to Prevent Game Crashes</u></a></li>
-<li><a href="https://win-info.techidaily.com/guide-de-recuperation-des-donnees-sur-une-cle-usb-hs-etapes-et-conseils-essentiels/"><u>Guide De Récupération Des Données Sur Une Clé USB HS : Étapes Et Conseils Essentiels.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-ai-for-literary-legends-with-gpts-techniques/"><u>Leveraging AI for Literary Legends with GPT's Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-efficient-language-conversion-a-comprehensive-guide/"><u>Leveraging ChatGPT for Efficient Language Conversion: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/llama-3-and-gpt-4-face-off-unveiling-the-leading-force-of-ai-innovation/"><u>Llama 3 and GPT-4 Face Off: Unveiling the Leading Force of AI Innovation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-deduction-with-advanced-ai-discover-4-engaging-cyber-sleuthing-challenges/"><u>Mastering Deduction with Advanced AI: Discover 4 Engaging Cyber Sleuthing Challenges</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-gpt-mechanics-a-detailed-manual-on-crafting-individualized-chat-versions/"><u>Mastering GPT Mechanics – A Detailed Manual on Crafting Individualized Chat Versions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximize-chatgpt-engagement-discover-7-responsive-techniques-to-refine-answers/"><u>Maximize ChatGPT Engagement: Discover 7 Responsive Techniques to Refine Answers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-dandd-fun-with-gpt-assisted-strategy/"><u>Maximizing D&D Fun with GPT-Assisted Strategy</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/optimizing-google-nest-speakers/"><u>Optimizing Google Nest Speakers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/set-up-your-steelseries-arctis-5-comprehensive-driver-download-guide/"><u>Set Up Your SteelSeries Arctis 5: Comprehensive Driver Download Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-stalled-ios-update-issues-expert-tips-to-get-your-device-upgrading-again/"><u>Troubleshooting Stalled iOS Update Issues - Expert Tips to Get Your Device Upgrading Again</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/understanding-avchd-vs-mp4-formats-a-comprehensive-guide-with-movavi-converter/"><u>Understanding AVCHD vs MP4 Formats: A Comprehensive Guide with Movavi Converter</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inside-the-core-a-thorough-insight-into-xstudio-video-studio/"><u>[New] Inside the Core A Thorough Insight Into XStudio Video Studio</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-decrypting-youtube-live-thumbnails-for-success/"><u>[Updated] 2024 Approved Decrypting YouTube Live Thumbnails for Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-video-grabber-software-in-windows-11/"><u>[Updated] 2024 Approved Mastering Video Grabber Software in Windows 11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-enjoy-a-stream-of-nine-complete-christmas-capsules-on-youtube/"><u>[Updated] Enjoy a Stream of Nine Complete Christmas Capsules on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-sierras-cloud-storage-for-effortless-documentdrive-access/"><u>[Updated] Mastering Sierra's Cloud Storage for Effortless Document/Drive Access</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/openrectv/"><u>「ダウンロード・録画」機能でOPENREC.tvの動画を安全にコピー</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-bots-integrating-the-power-of-chatgpt-across-multiple-software-platforms/"><u>Beyond Bots: Integrating the Power of ChatGPT Across Multiple Software Platforms</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-the-best-no-cost-live-football-games-apps-for-your-smartphone-or-tablet/"><u>Download the Best No-Cost Live Football Games Apps for Your Smartphone or Tablet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-enable-australian-free-iptv-and-live-television-on-your-kodi-device-using-the-iptv-au-plugin-comprehensive-tutorial/"><u>How to Enable Australian Free IPTV and Live Television on Your Kodi Device Using the IPTV AU Plugin – Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-overcome-errors-in-your-google-drive-file-downloading-process-a-guide-with-14-strategies/"><u>How To Overcome Errors in Your Google Drive File Downloading Process: A Guide With 14 Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/jpg-to-mp4-video-conversion-top-online-and-desktop-tools/"><u>JPG to MP4 Video Conversion: Top Online & Desktop Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/kodi-could-not-connect-to-repository-issue-here-are-your-fixes/"><u>Kodi 'Could Not Connect to Repository' Issue? Here Are Your Fixes!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-creating-voice-over-presentations-in-google-slides/"><u>Mastering the Art of Creating Voice-Over Presentations in Google Slides</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4-mot3/"><u>MP4への変換: MOT制作者が気になる3つの無料ツール</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-best-of-the-big-screen-top-movie-trailer-apps-for-iphone-and-ipad-users/"><u>Updated 2024 Approved The Best of the Big Screen Top Movie Trailer Apps for iPhone and iPad Users</u></a></li>
 </ul></div>
 

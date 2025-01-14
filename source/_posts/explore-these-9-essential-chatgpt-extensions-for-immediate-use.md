@@ -1,7 +1,7 @@
 ---
 title: Explore These 9 Essential ChatGPT Extensions for Immediate Use
-date: 2024-12-26T07:45:18.238Z
-updated: 2024-12-28T16:39:36.902Z
+date: 2025-01-12T02:24:03.615Z
+updated: 2025-01-14T10:51:08.070Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/d65abb8416376df0de26bd98013124b5d718bb272
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Use ChatGPT to create personalized workout plans and get advice on cardio fitness and time constraints for exercising from home.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/d65abb8416376df0de26bd98013124b5d718bb272
  The growing popularity of AI means that this technology has permeated almost every aspect of modern life, including health and wellness. And although you may never have considered turning to the AI-powered ChatGPT tool for advice and support for your physical and mental health, you may be amazed at the many ways it could support you.
 
  Here are the top ways you can use ChatGPT for your health and well-being.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Use ChatGPT to Create a Workout Plan
 
@@ -42,10 +50,6 @@ Type prompts such as:
 
 ![Screenshot ofChatGPT response to exercise prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-ofchatgpt-response-to-exercise-prompt.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The AI chatbot generates a series of solid workout plans that don’t sound too different from the advice you might get in some of those great[workout apps you’ll stick with for the long haul](https://www.makeuseof.com/best-workout-apps/) .
 
  Although general questions will yield general answers, you can always respond with further prompts. Remember, the more specific your question, the more tailored to your needs the answers are likely to be. It’s definitely worth learning[how to write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) to get the most out of your interaction with the tool.
@@ -53,6 +57,10 @@ Type prompts such as:
  It’s notable that however you frame your prompt, ChatGPT spells out from the very first line of its answer that “I am an AI language model and not a certified fitness trainer” and advises you to consult with a healthcare professional or qualified fitness expert to devise a plan to suit your individual needs.
 
  However, ChatGPT could be a great source of initial advice if you're just after a general workout plan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use ChatGPT to Get Advice on Meal Plans or Find New Recipes
 
@@ -65,7 +73,7 @@ Type prompts such as:
 ![Screenshot of ChatGPT response to meal plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-meal-plan-prompt.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are drawbacks, of course. Global variations can make a huge difference in the availability and cost of available ingredients. More importantly, you can’t guarantee the accuracy of everything the AI chatbot generates. Since your health rests on good nutritional intake, you should consult a professional if you have any concerns at all.
@@ -82,15 +90,15 @@ Type prompts such as:
 
 ![Screenshot of ChatGPT response to forming good sleep habits prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-forming-good-sleep-habits-prompt.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Use ChatGPT for Mindfulness and Meditation
 
  If you like the idea of meditation but not the reality of joining a class or practicing in front of strangers, ChatGPT can prove a great tool for giving you mindfulness and meditation ideas. Depending on your needs, you could ask for techniques for meditation or even phrases to help you to be mindful. For example, the simple prompt, “Provide some ideas for a mindful moment,” gave me excellent practical advice, such as breathing, walking in nature, and mindful eating.
 
 ![Screenshot of ChatGPT response to meditation information prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-meditation-information-prompt.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use ChatGPT for Journaling Prompts
 
@@ -110,10 +118,6 @@ Type prompts such as:
 
  As the technology and the AI database develops continually, there are many[reasons to consider using ChatGPT for health advice](https://www.makeuseof.com/reasons-consider-using-chatgpt-health-advice/) . Of course, you must verify any health advice provided in this manner, so here’s[how to fact-check health information from ChatGPT and AI sources](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Use ChatGPT to Understand and Manage Medications
 
  Although important for managing your medical condition or illness, medication can be very harmful if not managed correctly. This can often be a challenge, especially if you’re juggling multiple medications, but ChatGPT can help.
@@ -125,7 +129,7 @@ Type prompts such as:
 ![Screenshot of ChatGPT response to medication information request](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-medication-information-request.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Use ChatGPT for Mental Health Support
@@ -137,10 +141,6 @@ Type prompts such as:
 ![Screenshot of ChatGPT response to mental health question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-mental-health-question.jpeg)
 
  You must be aware of the limitations of this and all medical interactions with ChatGPT. For all its potential benefits, there are some valid[reasons why you shouldn’t trust ChatGPT for medical advice](https://www.makeuseof.com/reasons-you-shouldnt-trust-chatgpt-medical-advice/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Can Be a Valuable Tool for Health and Wellness
 
@@ -163,18 +163,24 @@ Type prompts such as:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-step-1-step-2-and-step-3-to-video-chatting-on-snapchat-now/"><u>[New] 2024 Approved Step 1, Step 2, and Step 3 to Video Chatting on Snapchat Now</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-discovering-2023s-cinematic-hidden-gems/"><u>[New] In 2024, Discovering 2023'S Cinematic Hidden Gems</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-uncovering-your-personalized-playlist-hideaway/"><u>[New] In 2024, Uncovering Your Personalized Playlist Hideaway</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-bringing-images-to-life-expert-level-photo-text-editing/"><u>[Updated] Bringing Images to Life Expert-Level Photo Text Editing</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/1-enhance-financial-sector-competitiveness-with-abbyy-checklists-gain-an-edge/"><u>1. Enhance Financial Sector Competitiveness with ABBYY Checklists - Gain an Edge</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5-gpt-enhancers-that-just-dont-deliver-worthless-plugins-revealed/"><u>5 GPT Enhancers That Just Don't Deliver: Worthless Plugins Revealed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5-star-chatgpt-plugin-selections-you-should-try-without-delay/"><u>5-Star ChatGPT Plugin Selections You Should Try Without Delay</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-expert-pick-mics-for-youtube-entrepreneurs/"><u>In 2024, Expert Pick Mics for YouTube Entrepreneurs</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-iphone-15-pro-max-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on iPhone 15 Pro Max or iPad?</u></a></li>
-<li><a href="https://win-net.techidaily.com/mastering-flipbook-shadows-a-step-by-step-guide-on-precision-alignment/"><u>Mastering FlipBook Shadows: A Step-by-Step Guide on Precision Alignment</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721978934650-maximize-your-potential-here-are-erreason-10-upgrades-to-opt-for-with-chatgpt-plus/"><u>Maximize Your Potential: Here Are erReason 10 Upgrades To Opt For With ChatGPT Plus!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722164448368-unpacking-financial-advice-via-emojis-activisions-digital-vulnerability-and-ai-driven-employment-concerns/"><u>Unpacking Financial Advice via Emojis, Activision's Digital Vulnerability and AI-Driven Employment Concerns.</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-enhancing-gaming-experience-minecraft-recordings-made-easy-for-2024/"><u>[Updated] Enhancing Gaming Experience Minecraft Recordings Made Easy for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-schedule-meetings-on-zoom/"><u>[Updated] How to Schedule Meetings on Zoom?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-rapid-adjustment-of-youtube-vids-for-mac-screen/"><u>[Updated] In 2024, Rapid Adjustment of YouTube Vids for Mac Screen</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/comment-reparer-les-fichiers-images-sous-windows-11/"><u>Comment Réparer Les Fichiers Images Sous Windows 11?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/enhance-creativity-on-tiktok-three-essential-steps-to-change-video-backdrops/"><u>Enhance Creativity on TikTok Three Essential Steps to Change Video Backdrops</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-a2-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-6-affordable-high-definition-projectors/"><u>In 2024, Best 6 Affordable High-Definition Projectors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-vivo-y78plus-t1-edition-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Vivo Y78+ (T1) Edition Data? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reducing-file-size-without-compromising-h264-mp4-video-quality/"><u>Reducing File Size without Compromising H264-MP4 Video Quality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-avi-file-playback-issues-on-xbox-360xbox-one-step-by-step-fixes/"><u>Solving AVI File Playback Issues on Xbox 360/Xbox One: Step-by-Step Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/speedy-tips-transforming-mp3-files-into-avi-format-with-ease/"><u>Speedy Tips: Transforming MP3 Files Into AVI Format with Ease!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-converting-dvds-into-swf-flash-format/"><u>Step-by-Step Guide to Converting DVDs Into SWF Flash Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-creating-a-video-from-individual-photos/"><u>Step-by-Step Guide: Creating a Video From Individual Photos</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/step-by-step-guide-recovering-lost-reminders-on-your-iphone/"><u>Step-by-Step Guide: Recovering Lost Reminders on Your iPhone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transforming-mp4-videos-into-jpeg-images-on-windows-10-and-11/"><u>Step-by-Step Guide: Transforming MP4 Videos Into JPEG Images on Windows 10 & 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-for-transforming-mts-files-into-mov-on-a-pc-with-windows-os/"><u>Step-by-Step Instructions for Transforming MTS Files Into MOV on a PC with Windows OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-avi-video-converters-for-iphone-best-pc-and-web-based-tools/"><u>Top AVI Video Converters for iPhone: Best PC & Web-Based Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-tips-flawless-wav-audio-playback-on-android-phones-and-tablets/"><u>Troubleshooting Tips: Flawless WAV Audio Playback on Android Phones and Tablets</u></a></li>
 </ul></div>
 

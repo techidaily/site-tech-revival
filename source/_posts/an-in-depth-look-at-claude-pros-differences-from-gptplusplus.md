@@ -1,7 +1,7 @@
 ---
 title: An In-Depth Look at Claude Pro’s Differences From GPT++
-date: 2024-12-22T04:19:52.141Z
-updated: 2024-12-29T08:52:47.203Z
+date: 2025-01-11T21:20:49.645Z
+updated: 2025-01-13T20:39:25.723Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -55,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
  As you can see below, we've received more of a customized workout plan with the types of exercises that we wanted.
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
@@ -76,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
  As you use AI prompting more frequently, you'll get a better idea of what does and doesn't work for you. You'll also learn which prompts are useful and which ones confuse the tool that you're using. Once you've become more familiar with AI, make sure that you clearly outline what hasn't worked before.
@@ -85,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Don't Make Your AI Multitask
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -119,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
@@ -147,20 +147,24 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-elevate-efficiency-discover-the-top-8-social-media-schedulers/"><u>[Updated] 2024 Approved Elevate Efficiency Discover the Top 8 Social Media Schedulers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-exclusive-review-top-10-budget-friendly-video-meetup-apps-for-companies-and-schools/"><u>[Updated] 2024 Approved Exclusive Review Top 10 Budget-Friendly Video Meetup Apps for Companies & Schools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-efficient-screenshot-with-audio-layered/"><u>[Updated] Efficient Screenshot With Audio Layered</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5-integral-applications-of-ai-for-digital-criminals/"><u>5 Integral Applications of AI for Digital Criminals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5-key-strategies-for-boosting-research-quality-using-ai-tools/"><u>5 Key Strategies for Boosting Research Quality Using AI Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/8-ways-to-turn-chatgpt-into-a-profitable-business/"><u>8 Ways to Turn ChatGPT Into a Profitable Business</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-6ipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 6/iPad? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oppo-reno-10-proplus-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Oppo Reno 10 Pro+ 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721889592223-get-your-next-trip-in-order-fast-check-out-these-7-free-ai-and-chatgpt-enabled-itinerary-creators/"><u>Get Your Next Trip in Order Fast: Check Out These 7 FREE AI & ChatGPT Enabled Itinerary Creators!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-beyond-the-screen-a-vr-odyssey/"><u>In 2024, Beyond the Screen A VR Odyssey</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-poco-c50-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Poco C50 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-insiders-guide-to-the-best-6-harnesses-for-capturing-life-with-gopro/"><u>In 2024, Insider's Guide to the Best 6 Harnesses for Capturing Life with GOPRO</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722153303131-is-it-better-to-use-gemini-advanced-over-chatgpt-plus-lets-find-out/"><u>Is It Better to Use Gemini Advanced Over ChatGPT Plus? Let's Find Out!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-overwatch-captivating-cooperative-fires-and-adrenaline-pumping-matchups/"><u>The Ultimate Guide to Overwatch: Captivating Cooperative Fires and Adrenaline-Pumping Matchups</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722204882743-tired-of-waiting-on-chatgpt-desktop-discover-a-top-notch-open-source-substitute-now/"><u>Tired of Waiting on ChatGPT Desktop? Discover a Top-Notch Open Source Substitute Now!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-techniques-for-exceptional-audio-recording-without-a-mic/"><u>[New] Techniques for Exceptional Audio Recording without a Mic</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unveil-your-gaming-prowess-with-perfect-screen-shots-pc/"><u>2024 Approved Unveil Your Gaming Prowess with Perfect Screen Shots (PC)</u></a></li>
+<li><a href="https://games-able.techidaily.com/cellphone-playtime-whats-in-it-for-us/"><u>Cellphone Playtime: What's in It for Us?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/code-28-issues-on-your-pc-heres-how-to-fix-them/"><u>Code 28 Issues on Your PC? Here's How to Fix Them</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortlessly-transforming-mts-audio-into-wav-format-a-users-guide/"><u>Effortlessly Transforming MTS Audio Into WAV Format - A User's Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-and-effective-techniques-to-cut-mp3-tracks-on-windows-11-a-step-by-step-guide/"><u>Free and Effective Techniques to Cut MP3 Tracks on Windows 11 - A Step-by-Step Guide!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-ways-to-install-hevc-encoder-on-your-windows-11-pc/"><u>Free Ways to Install HEVC Encoder on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-preserving-epic-overwatch-moments-three-effective-techniques/"><u>Guide: Preserving Epic Overwatch Moments – Three Effective Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/h264h2aturate-h265/"><u>H.264にリマスタリング：H.2aturate H.265ビデオファイルを無料で改質する方法！</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-decoding-av1-and-vp9-codec-showdown/"><u>In 2024, Decoding AV1 and VP9 Codec Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-12-now-supports-faster-qi2-wireless-charging-without-magsafe-accessory-tech-insights/"><u>IPhone 12 Now Supports Faster Qi2 Wireless Charging Without MagSafe Accessory | Tech Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/isovob/"><u>ISOファイルからVOBへの優れた転送技術: 品質保持を実現</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-iso-to-exe-conversion-the-best-3-utilities-for-seamless-file-transformation/"><u>Mastering ISO-to-EXE Conversion: The Best 3 Utilities for Seamless File Transformation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-your-content-top-video-formats-for-facebook/"><u>Optimizing Your Content: Top Video Formats for Facebook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-and-simple-guide-transforming-your-videos-from-vfr-to-compatible-constant-frame-rate-cfr-format/"><u>Quick & Simple Guide: Transforming Your Videos From VFR to Compatible Constant Frame Rate (CFR) Format</u></a></li>
+<li><a href="https://techidaily.com/samsung-messages-recovery-recover-deleted-messages-from-samsung-by-fonelab-android-recover-messages/"><u>Samsung Messages Recovery - Recover Deleted Messages from Samsung</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-tips-transforming-ordinary-into-extraordinary-in-canva/"><u>Top Tips Transforming Ordinary Into Extraordinary in Canva</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-entertainment-your-picks-for-8-superior-free-roku-platforms/"><u>Unlock Entertainment: Your Picks for 8 Superior Free Roku Platforms</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/what-to-consider-before-buying-a-new-tv/"><u>What to Consider Before Buying a New TV</u></a></li>
 </ul></div>
 

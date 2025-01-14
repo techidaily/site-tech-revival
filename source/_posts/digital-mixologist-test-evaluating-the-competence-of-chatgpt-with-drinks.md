@@ -1,7 +1,7 @@
 ---
 title: "Digital Mixologist Test: Evaluating the Competence of ChatGPT with Drinks"
-date: 2025-01-02T01:21:47.521Z
-updated: 2025-01-07T20:48:14.246Z
+date: 2025-01-13T00:17:00.716Z
+updated: 2025-01-13T16:44:42.139Z
 tags:
   - chatgpt
   - open-ai
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
@@ -59,13 +55,13 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
@@ -81,7 +77,11 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -107,24 +107,22 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-from-muffled-to-clear-the-initial-use-of-fade-in-audition/"><u>[New] 2024 Approved From Muffled to Clear The Initial Use of Fade in Audition</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-dive-deep-into-the-world-of-facebook-story-creation-expert-advice-inside-for-2024/"><u>[New] Dive Deep Into the World of Facebook Story Creation Expert Advice Inside for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-a-beginners-guide-to-youtube-seo-keywords/"><u>[New] In 2024, A Beginner's Guide to YouTube SEO Keywords</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-leverage-youtube-on-instagram-stories-for-maximum-engagement-for-2024/"><u>[New] Leverage YouTube on Instagram Stories for Maximum Engagement for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-elevate-your-lenovo-experience-with-advanced-capture-methods/"><u>[Updated] Elevate Your Lenovo Experience with Advanced Capture Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/affordable-quality-the-edifier-neobuds-pro-2-your-go-to-choice-over-airpods-for-android-users/"><u>Affordable Quality: The Edifier NeoBuds Pro 2 - Your Go-To Choice Over AirPods for Android Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/analyzing-the-ugreen-5000mah-inductive-power-bank-a-surprising-review-of-performance-and-stability/"><u>Analyzing the Ugreen 5,000mAh Inductive Power Bank: A Surprising Review of Performance and Stability</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-video-quality-with-the-opal-tadpole-webcam-the-perfect-enhancement-for-subpar-laptop-cameras/"><u>Boost Your Video Quality with the Opal Tadpole Webcam - The Perfect Enhancement for Subpar Laptop Cameras</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-workflow-with-plugables-usb-c-to-hdmi-docking-station-a-must-have-for-windows-enthusiasts/"><u>Boost Your Workflow with Plugable's USB-C to HDMI Docking Station - A Must-Have for Windows Enthusiasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/budget-friendly-earfun-air-2-tinnitus-relief-headphones-in-depth-review-and-analysis/"><u>Budget-Friendly EarFun Air 2 Tinnitus Relief Headphones – In-Depth Review and Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/budget-friendly-soundpeats-air4-pro-assessment-a-robust-substitute-for-the-original-airpods-pro/"><u>Budget-Friendly Soundpeats Air4 Pro Assessment: A Robust Substitute for the Original AirPods Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-bose-smart-ultra-soundbar-evaluation-rich-audio-experience-with-a-wealth-of-functionalities-simplified/"><u>Comprehensive Bose Smart Ultra Soundbar Evaluation: Rich Audio Experience with a Wealth of Functionalities Simplified</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-evaluation-of-the-ecovacs-deebot-x2-omni-robotic-vacuum-mastery-in-home-cleaning/"><u>Comprehensive Evaluation of the Ecovacs Deebot X2 Omni Robotic Vacuum: Mastery in Home Cleaning</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-mastering-your-media-with-the-elgato-stream-deck-neos-customizable-buttons/"><u>Comprehensive Guide: Mastering Your Media with the Elgato Stream Deck Neo's Customizable Buttons</u></a></li>
-<li><a href="https://win-hot.techidaily.com/data-erasing-and-disk-wiping-strategies-for-windows-11-users-exploring-two-effective-methods/"><u>Data Erasing and Disk Wiping Strategies for Windows 11 Users: Exploring Two Effective Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-portable-playstation-to-simulated-game-boy-ace/"><u>From Portable PlayStation to Simulated Game Boy Ace</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-explore-and-relish-top-sandbox-journeys/"><u>In 2024, Explore and Relish Top Sandbox Journeys</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-significance-of-analytics-in-youtube-rank-enhancement/"><u>In 2024, The Significance of Analytics in YouTube Rank Enhancement</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-speedy-shots-masterful-iphone-time-lapse-methods/"><u>[New] In 2024, Speedy Shots Masterful iPhone Time Lapse Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-from-novice-to-pro-an-extensive-guide-to-capturing-top-notch-audio-on-zoom/"><u>[Updated] From Novice to Pro An Extensive Guide to Capturing Top-Notch Audio on Zoom</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-ig-coverage-toolkit-apple-and-android-included/"><u>[Updated] The Ultimate IG Coverage Toolkit, Apple & Android Included</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-internet-research-game-with-perplexity-ai-the-premier-underrated-google-tool-everyone-should-use/"><u>Elevate Your Internet Research Game with Perplexity AI - The Premier, Underrated Google Tool Everyone Should Use!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-evolution-of-ai-language-models-spotlighting-the-top-5-contrasts-between-gpt-4-and-gpt-35/"><u>Exploring the Evolution of AI Language Models: Spotlighting the Top 5 Contrasts Between GPT-4 and GPT-3.5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-11-pro-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 11 Pro without Losing Data? | Stellar</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-complete-revamp-of-facetune-app-for-2024/"><u>In-Depth Analysis Complete Revamp of Facetune App for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-office-policies-potential-consequences-of-using-chatgpt-in-the-workplace/"><u>Navigating Office Policies: Potential Consequences of Using ChatGPT in the Workplace</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-dialogue-with-chatgpt-seven-proven-tricks-for-crafting-ideal-prompts/"><u>Optimizing Dialogue with ChatGPT: Seven Proven Tricks for Crafting Ideal Prompts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-time-management-book-appointments-with-google-calendars-latest-upgrade-check-it-out/"><u>Revolutionizing Time Management: Book Appointments with Google Calendar's Latest Upgrade – Check It Out!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/secure-your-ai-chatting-experience-engage-in-confidential-talks-with-duckduckgos-alternative-to-chatgpt/"><u>Secure Your AI Chatting Experience: Engage in Confidential Talks with DuckDuckGo's Alternative to ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/solving-gameplay-interruptions-a-guide-to-handling-fps-drops-in-beyond-light/"><u>Solving Gameplay Interruptions: A Guide to Handling FPS Drops in BEYOND LIGHT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tech-tinged-tenderninas-ai-love-scams-exposed/"><u>Tech-Tinged Tenderninas: AI Love Scams Exposed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-advantages-why-switching-to-claude-3-outshines-chatgpt/"><u>Top 4 Advantages: Why Switching to Claude 3 Outshines ChatGPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secrets-top-10-surprising-emoji-tidbits-revealed/"><u>Unlock the Secrets: Top 10 Surprising Emoji Tidbits Revealed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-youtube-success-subscriber-boosts-at-a-bargain-for-2024/"><u>Unlock YouTube Success - Subscriber Boosts at a Bargain for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-success-with-an-ai-chatbot-navigate-through-the-top-7-decisive-factors-for-subscription/"><u>Unlocking Success with an AI Chatbot: Navigate Through The Top 7 Decisive Factors for Subscription</u></a></li>
 </ul></div>
 

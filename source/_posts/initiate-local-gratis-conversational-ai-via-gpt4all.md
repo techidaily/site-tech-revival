@@ -1,7 +1,7 @@
 ---
 title: Initiate Local, Gratis Conversational AI via GPT4All
-date: 2024-12-23T17:06:03.368Z
-updated: 2024-12-28T16:50:50.830Z
+date: 2025-01-13T11:06:39.617Z
+updated: 2025-01-14T02:15:13.067Z
 tags:
   - chatgpt
   - open-ai
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Potential Risks of Generative AI to Spread Disinformation
@@ -43,7 +43,7 @@ False news can be categorized into three types:
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
@@ -60,14 +60,10 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -80,10 +76,6 @@ Here's the fictitious article that ChatGPT came up with:
 * **Targeted personalization** : Chatbots have access to vast amounts of data that they can gather to create personalized profiles. This enables them to customize content based on your preferences. Through targeted personalization, AI can persuade individuals or further strengthen their opinions.
 
  These examples all illustrate how chatbots can be utilized to mislead people.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
 
@@ -101,6 +93,10 @@ Here's the fictitious article that ChatGPT came up with:
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -111,6 +107,10 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -133,22 +133,17 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-optimizing-audio-and-visuals-in-mobile-broadcasting-via-obs/"><u>[Updated] 2024 Approved Optimizing Audio & Visuals in Mobile Broadcasting via OBS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-navigating-youtube-submission-a-filmmakers-guide-to-360-video/"><u>[Updated] Navigating YouTube Submission A Filmmaker's Guide to 360 Video</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-skepticism-6-essential-points-for-critical-thinking-in-the-age-of-smart-tech/"><u>AI Skepticism: 6 Essential Points for Critical Thinking in the Age of Smart Tech</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-titans-clash-evaluating-the-strengths-between-llama-3-and-microsofts-gpt-4/"><u>AI Titans Clash: Evaluating the Strengths Between Llama 3 and Microsoft's GPT-4</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-facilitated-world-design-beyond-boundaries/"><u>AI-Facilitated World Design: Beyond Boundaries</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-the-coquetry-of-chatgpts-mixology-abilities/"><u>Assessing the Coquetry of ChatGPT's Mixology Abilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/between-chatbot-titans-discovering-the-vital-differences-between-microsofts-bing-and-chatgpt-technologies/"><u>Between Chatbot Titans: Discovering the Vital Differences Between Microsoft's Bing & ChatGPT Technologies.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beware-gpts-summary-may-miss-critical-nuances/"><u>Beware: GPT's Summary May Miss Critical Nuances</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-the-hype-exposing-instances-when-ai-detection-fails-against-zerogpt/"><u>Beyond the Hype: Exposing Instances When AI Detection Fails Against ZeroGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-polyglot-skills-using-chatgpt-plus-effectively/"><u>Boost Your Polyglot Skills Using ChatGPT Plus Effectively</u></a></li>
-<li><a href="https://blog-min.techidaily.com/convertisseur-gratuit-de-fichiers-pcx-en-ligne-avec-movavi-guide-ultime/"><u>Convertisseur Gratuit De Fichiers PCX en Ligne Avec Movavi - Guide Ultime</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-setting-up-the-legacy-slamius-wizard-on-kodi-19-and-18-lasting-solutions/"><u>Guide: Setting up the Legacy Slamius Wizard on Kodi 19 & 18 – Lasting Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-realme-gt-neo-5-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Realme GT Neo 5 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-official-iphone-device-drivers-for-windows-11-users-a-step-by-step-guide/"><u>Installing Official iPhone Device Drivers for Windows 11 Users: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/protect-yourself-from-phishing-attacks-essential-tips-by-yl-computing/"><u>Protect Yourself From Phishing Attacks: Essential Tips by YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/tactics-to-stop-spotify-application-hang-ups-on-windows-11/"><u>Tactics to Stop Spotify Application Hang-Ups on Windows 11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-from-zero-to-hero-in-instagram-world-top-9-pathways-unveiled/"><u>[New] In 2024, From Zero to Hero in Instagram World Top 9 Pathways Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/radi/"><u>無料で簡単に、RADIこの聴取録画手引き</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fixes-for-battlenet-launcher-failures-on-microsoft-windows-systems/"><u>Effective Fixes for 'Battle.net Launcher' Failures on Microsoft Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-decrease-gpu-usage-of-dwm-in-windows-10-and-11/"><u>Effective Strategies to Decrease GPU Usage of DWM in Windows 10 and 11</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-a-compreenasion-of-siri-integration-into-tiktok-filmmaking/"><u>In 2024, A Compreenasion of Siri Integration Into TikTok Filmmaking</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-how-to-screen-capture-anything-including-netflix-on-a-mac-in-six-steps/"><u>In 2024, How to Screen Capture Anything, Including Netflix, on a Mac in Six Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-digital-realm-with-wonderfoxs-comprehensive-e-guides-and-breaking-stories/"><u>Navigating the Digital Realm with WonderFox's Comprehensive E-Guides & Breaking Stories</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-setup-bcm20702a0-windows-driver-downloads-hassle-free-process/"><u>Quick Setup: BCM20702A0 Windows Driver Downloads | Hassle-Free Process</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-tips-for-securely-acquiring-terrifying-movie-downloads/"><u>Quick Tips for Securely Acquiring Terrifying Movie Downloads</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-discord-glitches-for-a-smooth-streaming-experience-a-step-by-step-guide/"><u>Resolving Discord Glitches for a Smooth Streaming Experience: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-streaming-with-real-debrid-and-kodi-a-step-by-step-guide/"><u>Seamless Streaming with Real-Debrid and Kodi: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/securely-stream-for-free-top-2-dependable-ways-to-watch-spongebob-episodes-online/"><u>Securely Stream for Free: Top 2 Dependable Ways to Watch SpongeBob Episodes Online</u></a></li>
 </ul></div>
 

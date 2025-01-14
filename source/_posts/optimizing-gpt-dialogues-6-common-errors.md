@@ -1,7 +1,7 @@
 ---
 title: "Optimizing GPT Dialogues: 6 Common Errors"
-date: 2024-12-22T19:50:12.839Z
-updated: 2024-12-28T16:28:26.273Z
+date: 2025-01-07T08:18:26.887Z
+updated: 2025-01-14T08:09:01.158Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 * [You Can Always Use Both](https://www.makeuseof.com/github-copilot-vs-chatgpt-which-better-programming/#you-can-always-use-both)
 * [There Are Alternatives](https://www.makeuseof.com/github-copilot-vs-chatgpt-which-better-programming/#there-are-alternatives)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * GitHub Copilot excels in code completion and integration within coding environments, making it best for programming.
@@ -41,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
  So, which one should you be using?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is GitHub Copilot?
@@ -77,26 +81,18 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 
 ![Advanced Code Completion with GitHub Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/github-copilot-adavanced-code-suggestions.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Aside from advanced code completion, you can also use GitHub Copilot for refactoring, helping you[write cleaner and better code](https://www.makeuseof.com/tag/10-tips-writing-cleaner-better-code/) . And since it’s integrated into your programming environment, it’s more quickly available than a web app like ChatGPT. This saves you time and concentration, especially over long coding sessions.
 
  To make a request, simply highlight your code, click on the “twinkle/star” icon, and provide your instructions:
 
 ![Easy code refactoring with GitHub Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/using-requests-in-github-copilot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your subscription to GitHub Copilot also comes bundled with GitHub Copilot Chat. You can use it to ask coding questions, debug your program, and generate new lines of code. GitHub Copilot Chat generates usable code that will be a good fit for your project:
 
 ![Customized code generation with GitHub Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/generate-code-with-github-copilot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your primary focus is on programming, and you're looking for a tool to help you with writing, debugging, and refactoring code, GitHub Copilot is the clear choice. Its ability to generate accurate and contextually relevant code snippets can significantly speed up development workflows and reduce coding errors.
@@ -104,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
  Furthermore, its integration with popular IDEs, multi-language support, and collaborative coding system ensures GitHub Copilot works well on any team-based project. Whether you're programming for a passion project or a team player in a large company, GitHub Copilot provides advanced AI capabilities that make coding fast and easy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Better for Learning
@@ -112,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
  While ChatGPT may not match GitHub Copilot's prowess in code completion, it excels in other aspects outside of programming. It can be an invaluable tool for designing and brainstorming your project.
 
 ![Asking development related questions with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/asking-developer-questions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re learning to code, you can prompt ChatGPT to generate pseudocode to help you explore different solutions for a specific problem.
 
@@ -127,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 
  What’s great about ChatGPT is that it offers a completely free version that you can use throughout your learning process. Of course, a paid subscription does have extra benefits like better response quality and plugins. But overall, as long as you[employ prompting techniques](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) , the free version should work fine as a learning tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You Can Always Use Both
 
 ![Using both ChatGPT and GitHub Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/using-chatgpt-and-github-copilot.jpg)
@@ -142,6 +138,10 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
  If you’re a student, you can benefit from free access to GitHub Copilot. Combine that with OpenAI’s already free ChatGPT-3.5 Turbo, and you’ll have both tools without paying a cent!
 
  A monthly GitHub Copilot subscription and the freely available ChatGPT-3.5 should provide enough assistance for both personal and professional projects. If you still feel like you need that slight edge, then shelling out extra for[useful ChatGPT plugins](https://www.makeuseof.com/best-chatgpt-plugins/) may also be worth the investment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## There Are Alternatives
 
@@ -164,22 +164,14 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-mastering-full-rotation-shoots-9-must-follow-rules/"><u>[New] Mastering Full-Rotation Shoots 9 Must-Follow Rules</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-claude-3-a-guide-to-understanding-its-superiority-over-chatgpt-in-four-aspects/"><u>Choosing Claude 3: A Guide to Understanding Its Superiority over ChatGPT in Four Aspects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-gpt-4-with-gpt-35-unveiling-the-top-five-distinctions/"><u>Comparing GPT-4 with GPT-3.5: Unveiling the Top Five Distinctions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-overview-apples-revolutionary-ai-announcements-at-the-latest-wwdc/"><u>Comprehensive Overview: Apple's Revolutionary AI Announcements at the Latest WWDC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/customizing-chatgpts-style-how-to-coach-a-chatbot-to-mimic-your-voice/"><u>Customizing ChatGPT's Style: How to Coach a Chatbot to Mimic Your Voice</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-ai-evolution-five-essential-contrasts-between-gpt-4-and-gpt-35-models-unveiled/"><u>Deciphering AI Evolution: Five Essential Contrasts Between GPT-4 & GPT-3.5 Models Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/delving-into-gpt-4s-role-in-7-cutting-edge-apps/"><u>Delving Into GPT-4's Role in 7 Cutting-Edge Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/democratizing-discussions-sharing-your-gpt-conversations/"><u>Democratizing Discussions: Sharing Your GPT Conversations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-auto-gpt-integration-into-your-ubuntu-operating-environment/"><u>Easy Auto-GPT Integration Into Your Ubuntu Operating Environment</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210969752-9781439678619-haunted-inns-and-hotels-of-virginia/"><u>Haunted Inns and Hotels of Virginia | Free Book</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-honor-100-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Honor 100 Pro Phone that is Locked?</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-resolve-inaccessibility-issues-with-your-scanners-advanced-options-insights-from-yl-computing/"><u>How to Resolve Inaccessibility Issues with Your Scanner's Advanced Options - Insights From YL Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/is-the-viability-of-modular-peripherals-beyond-apples-implementation-possible-for-competitors/"><u>Is the Viability of Modular Peripherals Beyond Apple's Implementation Possible for Competitors?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/lava-bypass-tools-to-bypass-lock-screen-lava-blaze-2-5g-by-drfone-android-unlock-android-unlock/"><u>Lava Bypass Tools to Bypass Lock Screen(Lava Blaze 2 5G)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-xiaomi-redmi-a2-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Xiaomi Redmi A2 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamless-integration-moving-your-google-photos-library-to-icloud/"><u>Seamless Integration: Moving Your Google Photos Library to iCloud</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-5-online-titler-pros-unveiled/"><u>Top 5 Online Titler Pros Unveiled</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-mastering-iphones-voice-control-on-tiktok-an-intuitive-step-by-step-process/"><u>[New] 2024 Approved Mastering iPhone's Voice Control on TikTok An Intuitive Step-By-Step Process</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-list-of-11-uplifting-movies-guaranteed-to-spark-your-imagination/"><u>A List of 11 Uplifting Movies Guaranteed to Spark Your Imagination</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/install-the-latest-13-clowns-video-extension-on-kodi-step-by-step-guide/"><u>Install the Latest 13 Clowns Video Extension on Kodi: Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iphone-mkv/"><u>IPhone用マルチメディア再生: MKVフォーマットへの対応方法を学ぶ【第２章】</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/optimizacion-de-frame-interpolation-con-inteligencia-artificial-para-una-mejora-en-los-fps-y-flujos-visuales/"><u>Optimización De Frame Interpolation Con Inteligencia Artificial Para Una Mejora en Los FPS Y Flujos Visuales</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/recording-voice-overs-like-a-pro-top-tips-for-final-cut-pro-users/"><u>Recording Voice Overs Like a Pro Top Tips for Final Cut Pro Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solve-your-quicktime-mov-file-playback-issues-top-3-easy-fixes/"><u>Solve Your QuickTime MOV File Playback Issues: Top 3 Easy Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-your-mp3-files-into-high-quality-dts-format/"><u>Step-by-Step Guide: Converting Your MP3 Files Into High-Quality DTS Format</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-d-link-powerline-adapter-plk-p8e-quick-installation-high-speed-performance/"><u>Ultimate Guide to D-Link Powerline Adapter (PLK-P8E): Quick Installation, High-Speed Performance</u></a></li>
 </ul></div>
 

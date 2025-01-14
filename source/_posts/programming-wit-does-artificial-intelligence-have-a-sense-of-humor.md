@@ -1,7 +1,7 @@
 ---
 title: "Programming Wit: Does Artificial Intelligence Have a Sense of Humor?"
-date: 2024-12-21T22:33:41.002Z
-updated: 2024-12-28T17:24:56.312Z
+date: 2025-01-08T05:21:58.923Z
+updated: 2025-01-13T22:31:31.506Z
 tags:
   - chatgpt
   - open-ai
@@ -24,17 +24,9 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1.[Prompt Engineering for ChatGPT (Coursera)](https://www.coursera.org/learn/prompt-engineering)
 
 ![Dr Jules White teaching Prompt Engineering for ChatGPT on the Coursera online learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-37.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Can you use AI to create a Pokemon-inspired game that helps your kids learn math and eat healthy food? Apparently, yes! And there's more you can do with a dose of creativity and the help of ChatGPT, says course developer Dr. Jules White, an Associate Professor of Computer Science at Vanderbilt University.
 
@@ -45,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
  The lectures are content-rich and easy to follow. You'll be inspired to use, instead of fearing, large language models like ChatGPT. You'll understand how AI can be helpful in writing, programming, art, thought experiments, and other creative projects. And at the end of the course, you'll be proud to have written your first prompt and developed your own prompt-based application.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2.[Introduction to Prompt Engineering for Generative AI (LinkedIn Learning)](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai/joining-the-nlp-revolution)
@@ -59,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
  Each topic is concisely explained, providing all you need to begin your AI prompt engineering journey. You'll gain a solid foundation in AI that should lead to more in-depth learning. When you feel like you need more information, you can refer to the other online courses on this list. As Software Developer and Instructor Ronnie Sheer says, AI is a fast-evolving field, so there's always space for continuous learning.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3.[How to Research and Write Using Generative AI Tools (LinkedIn Learning)](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools/how-to-work-with-ai)
@@ -75,12 +67,16 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
  The lessons emphasize that AI does not replace you as a human. Instead, it augments your work so that you can produce better results. When ChatGPT gives you an output, you must still use your skills and judgment to check and refine the answers and deliver the best results.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4.[Learn Prompting](https://learnprompting.org/)
 
 ![Learn Prompting Website showing Basic Applications lessons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-40.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you prefer reading rather than watching videos, access the Learn Prompting website. The curriculum takes you through basic to advanced prompting techniques using text-based lessons. The courses are free for everyone and were developed by researchers, translators, and hobbyists.
 
@@ -104,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
  If you're job hunting, check out these videos for job seekers. You'll learn[how to use ChatGPT to write your resume](https://www.makeuseof.com/use-chatgpt-to-write-resume/) , create a personal bio, search for jobs, and email a potential employer. While the videos only give an overview, they're sure to spark ideas on how the AI tool can be helpful for your job search.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Learn AI Prompt Engineering Today
 
  You don't need advanced tech knowledge to enroll in these online courses. You only need a creative mind, access to AI tools, and an openness to explore concepts in artificial intelligence. If you started as a skeptic, you'd come out of these videos more open-minded about the benefits of AI on your career and personal life.
@@ -125,14 +125,24 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-tripod-alignment-secrets-for-clearer-videos/"><u>[Updated] In 2024, Tripod Alignment Secrets for Clearer Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/6-other-chatbots-to-skip-are-they-as-efficient-as-chatgpt/"><u>6 Other Chatbots to Skip: Are They as Efficient as ChatGPT?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/accessing-large-language-models-llms-via-quoras-poe-a-beginners-guide/"><u>Accessing Large Language Models (LLMs) via Quora's Poe - A Beginner’s Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/achieve-expertise-in-ai-communication-courses/"><u>Achieve Expertise in AI Communication Courses</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722157628043-chatgpt-desktop-app-coming-soon-dont-wait-experience-our-top-open-source-choice-instead/"><u>ChatGPT Desktop App Coming Soon? Don't Wait, Experience Our Top Open-Source Choice Instead!</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-jewels-of-online-watching-youtubes-treasures/"><u>Crown Jewels of Online Watching YouTube's Treasures</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortlessly-sync-your-ios-device-files-to-mac-os-x-using-appandora/"><u>Effortlessly Sync Your iOS Device Files to Mac OS X Using Appandora</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instaboomtown-building-community-with-loop-videos-for-2024/"><u>InstaBoomtown Building Community with Loop Videos for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/snag-the-new-299-10th-generation-apple-ipad-prime-day-special-covered-by-zdnet/"><u>Snag the New $299 10Th Generation Apple iPad - Prime Day Special Covered by ZDNet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-channel-command-center-masterminding-visionary-content/"><u>[New] 2024 Approved Channel Command Center Masterminding Visionary Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-equipment-for-making-a-travel-video/"><u>[New] Equipment for Making a Travel Video</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-recover-disappearing-watch-icon-for-fb-users/"><u>[New] Recover Disappearing Watch Icon for FB Users</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-immerse-in-pixel-worlds-the-best-pc-vr-playback-titles-compared/"><u>[Updated] Immerse in Pixel Worlds The Best PC VR Playback Titles Compared</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-avi-playback-software-for-pcmobile-users/"><u>[Updated] Optimal AVI Playback Software for PC/Mobile Users</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-instructions-setting-up-the-numbers-addon-in-kodi-a-detailed-walkthrough/"><u>Easy Instructions: Setting Up the Numbers Addon in Kodi – A Detailed Walkthrough</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-tricks-to-transform-mts-videos-into-editable-content-on-imovie/"><u>Easy Tricks to Transform MTS Videos Into Editable Content on iMovie</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-tutorial-on-transforming-video-mts-files-into-looping-gifs-for-the-web/"><u>Easy Tutorial on Transforming Video MTS Files Into Looping GIFs for the Web</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-reducing-video-size-to-under-25mb-quickly/"><u>Effective Strategies for Reducing Video Size to Under 25MB Quickly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-conversion-turn-your-flac-audio-to-aac-quickly-via-desktop-and-web-platforms/"><u>Effortless Conversion: Turn Your FLAC Audio to AAC Quickly via Desktop and Web Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-mp4-to-aac-file-transformation-tutorial-for-desktop-and-online-methods/"><u>Effortless MP4 to AAC File Transformation – Tutorial for Desktop & Online Methods</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gently-fading-sounds-in-os-environments-for-2024/"><u>Gently Fading Sounds in OS Environments for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-mastering-the-art-of-dvd-recording-using-vlc-media-player-and-exploring-top-alternatives/"><u>Guide: Mastering the Art of DVD Recording Using VLC Media Player & Exploring Top Alternatives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-enjoy-webm-videos-at-no-cost-top-3-free-solutions/"><u>How to Enjoy WebM Videos at No Cost: Top 3 Free Solutions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-ultimate-guide-to-podcast-names-plus-50plus-podcast-name-ideas/"><u>In 2024, Ultimate Guide to Podcast Names (Plus 50+ Podcast Name Ideas)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iphoneandriod/"><u>IPhone・Andriodデバイスに最適！有料配信ライブを成功させる録画技術</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/techniques-to-purge-background-from-photos-using-photopea/"><u>Techniques to Purge Background From Photos Using Photopea</u></a></li>
 </ul></div>
 

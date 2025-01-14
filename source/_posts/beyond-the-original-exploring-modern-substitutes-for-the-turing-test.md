@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Original: Exploring Modern Substitutes for the Turing Test"
-date: 2025-01-04T02:06:32.617Z
-updated: 2025-01-08T02:28:56.153Z
+date: 2025-01-11T20:51:13.706Z
+updated: 2025-01-13T17:21:48.961Z
 tags:
   - chatgpt
   - open-ai
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Get Basic Recipes and Tips on ChatGPT
 
  For the most part, ChatGPT handles basic recipe and cooking questions well. Prompts like “what's a healthy recipe for salmon?” or “how do I make a salad that tastes good?” provide fine responses for starter recipes.
@@ -33,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 ![ChatGPT salmon recipe part 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-salmon-recipe-part-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In addition, the chatbot can assist with everyday cooking questions, such as providing helpful techniques for preparing eggs in a more nutritious way upon request. With its ability to provide immediate and tailored advice, this feature offers a practical resource for anyone looking to make healthier and more informed cooking choices.
@@ -48,15 +44,19 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 
 ![ChatGPT healthy breakfast options part 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthy-breakfast-options-part-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don't feel like visiting the grocery store? Note the ingredients you already have on hand and the app can (usually) find an appropriate recipe.
 
 ![ChatGPT dinner ideas with what you have on hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dinner-ideas-with-what-you-have-on-hand.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It can also streamline your grocery shopping process. Prompt it to "please provide a healthy grocery shopping list" or "create a shopping list for a week's worth of lunch salads with plenty of protein." This option is perfect for those days when you don't have the brainpower to think about cooking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Get ChatGPT to Teach You Cooking Skills in a Variety of Ways
 
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 ![ChatGPT healthy meal for kids directions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthy-meal-for-kids-part-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Meanwhile, the prompt “please provide a healthy vegetable recipe as though you are an upscale professional chef” offers a recipe for Seared Asparagus with Lemon-Herb Gremolata. With plenty of fresh herbs for flavor, it's a delicious addition to any meal. Who knew the chatbot had such elegant taste?
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
  In other words, use your prompts to find recipes that suit your needs and interests. Tailor them to your family's nutritional needs, or try out different types of cuisine from around the world.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does ChatGPT Provide Useful Nutritional Information?
@@ -107,20 +107,19 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-6-effective-ways-to-add-live-facebook-content-online/"><u>[Updated] 2024 Approved 6 Effective Ways to Add Live Facebook Content Online</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-rhythmic-rarities-assembling-the-best-dj-video-samples/"><u>[Updated] 2024 Approved Rhythmic Rarities Assembling the Best DJ Video Samples</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-transforming-srt-files-into-text-a-speedy-expertise-guide/"><u>[Updated] 2024 Approved Transforming SRT Files Into Text A Speedy Expertise Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-eliminate-hurdle-video-playback-issue-in-chrome/"><u>[Updated] In 2024, Eliminate Hurdle Video Playback Issue in Chrome</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-optimal-action-capture-software-insights/"><u>[Updated] In 2024, Optimal Action Capture Software Insights</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-step-by-step-guide-to-mastering-magix-video-pro-x-for-2024/"><u>A Step-by-Step Guide to Mastering Magix Video Pro X for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/authenticity-verifier-openais-detector-for-chatgpt-replicas/"><u>Authenticity Verifier: OpenAI's Detector for ChatGPT Replicas</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/blue-screen-error-0x0000003d-troubleshooting-and-repair-tips/"><u>Blue Screen Error 0X0000003D: Troubleshooting and Repair Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/linguistic-legends-clash-determining-the-ai-champion/"><u>Linguistic Legends Clash: Determining the AI Champion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-updater-problem-0xca00a009/"><u>Navigating Through Windows Updater Problem 0xCA00A009</u></a></li>
-<li><a href="https://win-info.techidaily.com/troubleshooting-guide-overcoming-stuck-windows-updates-on-server-2016-systems/"><u>Troubleshooting Guide: Overcoming Stuck Windows Updates on Server 2016 Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ubiquitous-access-installing-microsofts-windows-copilot-across-all-devices/"><u>Ubiquitous Access: Installing Microsoft's Windows Copilot Across All Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-converting-1080p-outputs-to-crisp-4k-screenshots-on-any-monitor/"><u>Ultimate Tutorial: Converting 1080P Outputs to Crisp 4K Screenshots on Any Monitor</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-full-potential-vivaldis-latest-update-introduces-fully-customizable-quick-access-shortcuts/"><u>Unlocking the Full Potential: Vivaldi's Latest Update Introduces Fully-Customizable Quick Access Shortcuts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-todays-nyt-brain-teasers-hints-and-answers-for-august-7-422-a-deep-dive/"><u>Unlocking Today's NYT Brain Teasers: Hints and Answers for August 7 (#422) - A Deep Dive</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-step-by-step-applying-color-grading-and-keying/"><u>[New] 2024 Approved Step-by-Step Applying Color Grading and Keying</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-unlock-efficiency-the-editors-guide-to-speed-control/"><u>[New] 2024 Approved Unlock Efficiency The Editor's Guide to Speed Control</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-captivating-your-audience-tactics-for-powerful-snap-promotions/"><u>[Updated] Captivating Your Audience Tactics for Powerful Snap Promotions</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/mp4-3gp-movavi/"><u>網路直接自由下載 MP4 到 3GP - 使用 Movavi 優化的影片格式轉換工具</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/autonomous-gpt-how-it-differs-from-conversational-ai-model-chatgpt/"><u>Autonomous GPT: How It Differs From Conversational AI Model, ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ensuring-your-data-safety-on-chatgpt-a-guide-to-opting-out-effectively/"><u>Ensuring Your Data Safety on ChatGPT: A Guide to Opting Out Effectively</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/intro-excellence-app-your-device-friendly-solution-for-2024/"><u>Intro Excellence App Your Device-Friendly Solution for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-combining-chatgpt-and-vs-code-for-developers/"><u>The Ultimate Guide to Combining ChatGPT and VS Code for Developers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-techniques-for-integrating-chatgpt-into-your-visual-studio-code-workflow/"><u>Top 10 Techniques for Integrating ChatGPT Into Your Visual Studio Code Workflow</u></a></li>
+<li><a href="https://win11.techidaily.com/unexplained-taskers-microsofts-edge-twist/"><u>Unexplained Taskers: Microsoft’s Edge Twist</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-productivity-experience-flawless-ai-with-copilot-and-gpt-4-turbo-at-zero-cost/"><u>Unlocking Productivity: Experience Flawless AI with Copilot & GPT-4 Turbo at Zero Cost</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972016460-update-your-windows-pcs-logitech-hardware-in-a-flash-get-the-latest-drivers-today/"><u>Update Your Windows PC's Logitech Hardware in a Flash - Get the Latest Drivers Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-claude-3-takes-precedence-over-chatgpt-unveil-4-critical-factors/"><u>Why Claude 3 Takes Precedence Over ChatGPT – Unveil 4 Critical Factors</u></a></li>
 </ul></div>
 

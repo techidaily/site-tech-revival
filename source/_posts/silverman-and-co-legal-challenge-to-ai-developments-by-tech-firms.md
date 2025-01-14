@@ -1,7 +1,7 @@
 ---
 title: "Silverman & Co.: Legal Challenge to AI Developments by Tech Firms"
-date: 2025-01-04T00:07:26.278Z
-updated: 2025-01-08T01:12:44.120Z
+date: 2025-01-13T04:08:25.810Z
+updated: 2025-01-14T09:24:50.328Z
 tags:
   - chatgpt
   - open-ai
@@ -24,12 +24,16 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Learn What AI Is and How AI-Powered Tools Work
 
 ![A computer screen displaying ChatGPT's website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-generative-ai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It helps to start with understanding[what AI is, the dangers it poses](http://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) , and how it can help you. Understanding the basics of AI and how it works will help you know its strengths and limitations, as well as how to use it to thrive in your workplace.
@@ -55,12 +59,16 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 ![Close-up image of hand writing "be creative"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/future-proof-skills-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As good as generative AI tools like ChatGPT are, they have limitations, and AI is still far from replicating the unique skills, insights, and creativity that humans possess. As such, it is vital to invest in future-proofing skills that AI can't replicate to survive and thrive in the AI-dominated workplace.
 
  Some of these AI-proof skills include empathy, creativity, problem-solving abilities, adaptability, resilience, communication, and collaboration skills. Investing in these skills will empower you to bring unique insights and solutions. Additionally, as AI solutions continuously improve, you can use your creativity to find innovative ways to use the technologies in your workplace.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Learn How to Work With AI Tools
 
@@ -70,31 +78,23 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 
  There are several[prompting techniques you can use to improve your ChatGPT responses](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) , including writing grammatically correct prompts with enough context and details. In addition, you can also assign it a role to get more relevant and tailored answers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Build a Robust Professional Network
 
 ![A group of people sitting at a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/professional-networking-event.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Building strong connections with people who share similar interests and goals can be a great way to solidify your career prospects. As AI technologies continuously evolve and become inevitable in the workplace, staying updated on the latest trends, tools, and technologies can help you remain relevant. Building a solid professional network is one of the best ways to achieve this.
 
  There are several[ways creatives can network professionally](https://www.makeuseof.com/creative-professional-networking-ways/) , including attending in-person and virtual networking events, joining online forums and communities, attending conferences and meetups, or[building a professional network on LinkedIn](https://www.makeuseof.com/ways-to-build-professional-network-linkedin/) . Undoubtedly, some of these connections will prove invaluable in helping you thrive in your workplace.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Become a Lifelong Learner to Keep Up With Upcoming Tech
 
  As mentioned above, adaptability and flexibility are vital skills in an AI-dominated workplace. That's because there's a growing consensus that artificial intelligence is moving too fast—so fast that tech innovators like[Elon Musk want to pause AI development](https://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) . This means you will need to swiftly learn new skills to remain competitive in this AI-dominated workplace.
 
  One of the best ways to achieve this is by becoming a lifelong learner and continuously upskilling and reskilling yourself. This includes anything from staying on top of AI news to attending conferences and workshops or taking courses to learn about the latest tools.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Future-Proof Your Career in the AI-Dominated Workplace
 
@@ -115,19 +115,17 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-5-best-bandicam-mac-alternatives/"><u>[New] 2024 Approved 5 Best Bandicam Mac Alternatives</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-top-2-secrets-to-convert-instagram-videos-into-premium-mp4/"><u>[New] Top 2 Secrets to Convert Instagram Videos Into Premium MP4</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unlimited-screen-capture-tool/"><u>[Updated] In 2024, Unlimited Screen Capture Tool</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-navigating-the-numbers-game-a-guide-to-yt-stardom/"><u>[Updated] Navigating the Numbers Game A Guide to YT Stardom</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-5-video-frame-captures-for-mac-for-2024/"><u>[Updated] Top 5 Video Frame Captures for Mac for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-crypto-limitations-of-chatgpt-analyst-tools/"><u>Decoding Crypto: Limitations of ChatGPT Analyst Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-taskbar-windows-11-edition/"><u>Elevate Your Taskbar: Windows 11 Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elon-musk-unveils-grok-ai-understanding-the-breakthrough-technology/"><u>Elon Musk Unveils Grok AI - Understanding the Breakthrough Technology</u></a></li>
-<li><a href="https://fox-info.techidaily.com/essential-software-for-windows-filmmakers-critical-edits-selection-for-2024/"><u>Essential Software for Windows Filmmakers Critical Edits Selection for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208930168-mastering-the-fix-put-an-end-to-non-stop-rebooting-on-your-windows-11-pc-today/"><u>Mastering the Fix: Put an End to Non-Stop Rebooting on Your Windows 11 PC Today</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-leverage-chatgpt-within-your-whatsapp-customer-care-platform/"><u>Step-by-Step Guide to Leverage ChatGPT Within Your WhatsApp Customer Care Platform</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-synergy-of-chatgpt-and-cognitive-behavioral-therapy-methods-for-improved-mental-wellness/"><u>The Synergy of ChatGPT and Cognitive Behavioral Therapy: Methods for Improved Mental Wellness</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-risks-the-six-main-cybersecurity-concerns-associated-with-using-chatgpt/"><u>Understanding Risks: The Six Main Cybersecurity Concerns Associated with Using ChatGPT</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-image-editing-suite-for-text-overlay/"><u>[Updated] Top Image Editing Suite for Text Overlay</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-translation-battle-exploring-effectiveness-of-chatgpt-vs-google-translate-for-multilingual-mastery/"><u>AI Translation Battle: Exploring Effectiveness of ChatGPT Vs. Google Translate for Multilingual Mastery</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-we-still-trust-openai-to-guide-chatgpt-safely/"><u>Can We Still Trust OpenAI to Guide ChatGPT Safely?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-plus-a-language-learning-powerhouse-for-modern-learners/"><u>ChatGPT Plus: A Language Learning Powerhouse for Modern Learners</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-rename-your-iphone-two-simple-techniques-unveiled/"><u>Effortlessly Rename Your iPhone: Two Simple Techniques Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-tips-for-crafting-unique-sounds-with-chatgpt-inside-your-digital-audio-studio/"><u>Expert Tips for Crafting Unique Sounds with ChatGPT Inside Your Digital Audio Studio</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x-fold-2-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo X Fold 2 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-discover-the-best-free-3d-animation-apps-for-android-iphone-and-ipad/"><u>In 2024, Discover the Best Free 3D Animation Apps for Android, iPhone, and iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-7-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone 7 without Password?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/masterful-mentorship-with-ai-six-ways-for-an-outstanding-dungeon-master/"><u>Masterful Mentorship with AI: Six Ways for an Outstanding Dungeon Master</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/navigating-the-clouds-of-video-editing-best-drones-tools-ranked/"><u>Navigating the Clouds of Video Editing Best Drones Tools Ranked</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-2024-vista-into-vivacuts-video-editing-world/"><u>The Ultimate 2024 Vista Into VivaCut's Video Editing World</u></a></li>
 </ul></div>
 

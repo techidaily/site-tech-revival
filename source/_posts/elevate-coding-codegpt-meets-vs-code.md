@@ -1,7 +1,7 @@
 ---
 title: "Elevate Coding: CodeGPT Meets VS Code"
-date: 2024-12-24T05:50:38.108Z
-updated: 2024-12-28T23:57:53.989Z
+date: 2025-01-10T16:06:00.177Z
+updated: 2025-01-14T09:33:53.658Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
 ![man questions robot turing test example feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/man-questions-robot-turing-test-example-feature.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vector/robot-scientist-facing-turing-test-artificial-1651840888)
 
  To determine if the Turing test is outdated, you must first[understand how it works](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/) . For an AI to pass the Turing test, it must convince a human interrogator that it's a human. But there is a catch—the AI is evaluated alongside a human, and it must respond using text.
@@ -43,16 +39,24 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
  However, the current AI models like ChatGPT-4 and Google Bard haven't yet advanced to a point they can consistently pass the Turing test. In fact, if you're familiar with AI, you can[spot AI-generated text](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The 5 Best Turing Test Alternatives
 
  It's possible that[future AI models like ChatGPT-5](https://www.makeuseof.com/when-will-gpt5-launch/) could pass the Turing test. If that happens, we would need different tests combined with the Turing test to identify if we're talking to an AI or a human. Here are the best Turing test alternatives:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. The Marcus Test
 
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the[New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
@@ -70,31 +74,23 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the[thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014.
 
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However,[artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Reverse Turing Test
 
 ![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the[reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
 
  For instance, if ChatGPT-4 is the interrogator, you could enroll Google Bard and another human as participants. If the AI model can correctly identify the human participant based on the answers, it has passed the test.
 
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes[AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. AI Classification Framework
 
@@ -103,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -125,18 +125,20 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boost-your-tv-experience-automatic-loops-of-youtube-videos/"><u>[Updated] 2024 Approved Boost Your TV Experience Automatic Loops of YouTube Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-webcam-filming-made-professional-in-no-time/"><u>[Updated] 2024 Approved Webcam Filming Made Professional in No Time</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-balancing-acts-the-power-of-alternate-perspectives-in-crafting-engaging-reaction-videos-on-youtube-2-pov-method-for-2024/"><u>[Updated] Balancing Acts The Power of Alternate Perspectives in Crafting Engaging Reaction Videos on YouTube (2 POV Method) for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-step-by-step-integrating-comments-in-youtube-videos-for-2024/"><u>[Updated] Step-by-Step Integrating Comments in YouTube Videos for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-intelligent-discourse-with-custom-gpt-call-outs-a-guide-for-enthusiasts/"><u>Crafting Intelligent Discourse with Custom GPT Call-Outs: A Guide for Enthusiasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-mystery-behind-copyright-protection-and-attribution-in-ai-artworks-and-inventions/"><u>Decoding the Mystery Behind Copyright Protection and Attribution in AI Artworks and Inventions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-gptzero-an-in-depth-look-at-fighting-fake-content-generation/"><u>Demystifying GPTZero: An In-Depth Look at Fighting Fake Content Generation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dissecting-ai-lingo-understanding-the-basics/"><u>Dissecting AI Lingo: Understanding the Basics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dive-deeper-into-ai-chat-with-these-top-7-extensions/"><u>Dive Deeper Into AI Chat with These Top 7 Extensions</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-y100t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo Y100t Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-90-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Honor 90 Bootloader Easily</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-lava-agni-2-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Lava Agni 2 5G Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/smooth-soundscape-fading-techniques-with-lumafusion-for-2024/"><u>Smooth Soundscape Fading Techniques with Lumafusion for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-efficient-image-capturing-made-simple-the-best-pc-snipers-listed/"><u>[New] 2024 Approved Efficient Image Capturing Made Simple The Best PC Snipers Listed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-videography-titans-battle-for-2024/"><u>[New] Videography Titans Battle for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-quick-snapback-to-loss-prevention/"><u>[Updated] In 2024, Quick Snapback to Loss Prevention</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp410/"><u>「無料からセキュアなMP4ファイル編集ソフト！信頼されているトップ10をご紹介します」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pnggif3/"><u>自由ソフトを使ってすばやくPNG画像をGIFに変換：選考ベスト3</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/kinemasters-guide-to-fluid-film-segments/"><u>Kinemaster's Guide to Fluid Film Segments</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-video-editing-a-step-by-step-guide-to-using-vlc-media-player/"><u>Mastering the Art of Video Editing: A Step-by-Step Guide to Using VLC Media Player</u></a></li>
+<li><a href="https://facebook.techidaily.com/methods-for-regaining-facebook-account-control/"><u>Methods for Regaining Facebook Account Control</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mpegmpeg-2mpeg-4mpgyoutube/"><u>MPEG/MPEG-2/MPEG-4/MPGへのYouTubeビデオ変換手順解説</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-troubleshooting-tips-for-the-battlefield-nvidia-wont-start-up-error/"><u>Quick Troubleshooting Tips for the Battlefield nVidia Won’t Start-Up Error</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-video-editing-with-zero-cost-tips-for-swapping-mov-files-on-various-devices/"><u>Revolutionize Your Video Editing with Zero Cost: Tips for Swapping MOV Files on Various Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-guide-converting-avi-videos-to-mp4-format-on-your-pc/"><u>Simple Guide: Converting AVI Videos to MP4 Format on Your PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-methods-to-transform-flv-videos-into-high-quality-flac-audio-anywhere/"><u>Simple Methods to Transform FLV Videos Into High-Quality FLAC Audio – Anywhere!</u></a></li>
+<li><a href="https://games-able.techidaily.com/tactical-triumph-navigating-the-top-11-strategy-titles/"><u>Tactical Triumph: Navigating the Top 11 Strategy Titles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-video-proportions-instantly-using-our-aspect-ratio-modifier-tool-perfect-viewing-experience-every-time/"><u>Transform Video Proportions Instantly Using Our Aspect Ratio Modifier Tool - Perfect Viewing Experience Every Time.</u></a></li>
 </ul></div>
 

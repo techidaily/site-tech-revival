@@ -1,7 +1,7 @@
 ---
 title: "Become an Expert at Prompt Engineering: The Top Five Course Picks for AI Mastery"
-date: 2025-01-06T22:31:44.861Z
-updated: 2025-01-08T02:27:05.984Z
+date: 2025-01-07T07:41:21.197Z
+updated: 2025-01-13T20:46:54.064Z
 tags:
   - chatgpt
   - open-ai
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the Open-Source ChatGPT Desktop Application?
 
  ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
@@ -55,13 +51,13 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
@@ -69,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -81,7 +77,11 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -107,22 +107,19 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-captivate-viewers-designing-engaging-youtube-trailers-with-filmora/"><u>[Updated] In 2024, Captivate Viewers Designing Engaging YouTube Trailers with Filmora</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-crafting-masterpieces-top-meme-templates/"><u>[Updated] In 2024, Crafting Masterpieces Top Meme Templates</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-leading-tools-for-customizable-screenshot-capabilities/"><u>[Updated] Leading Tools for Customizable Screenshot Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-reduce-avi-video-sizes-perfectly-for-youtube-uploads-and-compact-email-attachments/"><u>1. Reduce AVI Video Sizes Perfectly for YouTube Uploads & Compact Email Attachments</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/abbyy-conducts-worldwide-study-on-client-acclimatization-methodologies/"><u>ABBYY Conducts Worldwide Study on Client Acclimatization Methodologies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/adquiera-su-copia-gratis-de-mediatrans-online-a-precios-exclusivos-no-se-lo-pierda/"><u>Adquiera Su Copia Gratis De MediaTrans Online a Precios Exclusivos - ¡No Se Lo Pierda!</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-honor-100-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Honor 100 Pro? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/delving-into-baldurs-gate-3-spec-requirements-and-more/"><u>Delving Into Baldur's Gate 3: Spec Requirements & More</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvdmp4-movmac-macx-dvd-ripper-pro/"><u>DVDをMP4, MOV形式でMac上でリッピングする: MacX DVD Ripper Pro 使い方詳しく解説します!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-solutions-for-icloud-backup-problems-a-step-by-step-guide/"><u>Effective Solutions for iCloud Backup Problems – A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-issues-with-yakuza-6-the-song-of-life-troubleshooting-guide-for-pc/"><u>Fixing Issues with Yakuza 6: The Song of Life - Troubleshooting Guide for PC</u></a></li>
-<li><a href="https://discover-able.techidaily.com/follow-up-question-2/"><u>Follow Up Question 2</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-your-exclusive-lifetime-access-to-macxdvd-suite-today-act-fast-on-limited-time-promo-for-an-entirely-free-upgrade/"><u>Get Your Exclusive, Lifetime Access to MacXDVD Suite Today! Act Fast on Limited-Time Promo for an Entirely Free Upgrade!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-new-normal-for-vr-industry-insights/"><u>In 2024, The New Normal for VR Industry Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/macx-pro-video-converter-turn-your-high-definition-videos-into-playable-files-for-ipods-on-macos/"><u>MacX Pro Video Converter: Turn Your High-Definition Videos Into Playable Files for iPods on macOS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolving-itunes-update-problem-step-by-step-guide-to-overcoming-error-code-14/"><u>Resolving iTunes Update Problem: Step-by-Step Guide to Overcoming Error Code 14</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/digiarty/"><u>インターネットビジネスを変える! Digiartyアフィリエイトプログラム:早速収入開始</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-6-hdmi-21-screens-detailed-feature-rundown/"><u>[Updated] In 2024, Top 6 HDMI 2.1 Screens Detailed Feature Rundown</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-your-camera-essential-tactics-for-hit-youtube-videos/"><u>[Updated] Mastering Your Camera Essential Tactics for Hit YouTube Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-with-manycam-leading-program-for-virtual-broadcast-and-screen-capture-solutions/"><u>Enhance Your Online Presence with ManyCam: Leading Program for Virtual Broadcast and Screen Capture Solutions</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/guida-rapida-al-recupero-dellinstallazione-di-windows-nella-tua-chiave-usb-che-non-si-avvia-piu/"><u>Guida Rapida Al Recupero Dell'installazione Di Windows Nella Tua Chiave USB Che Non Si Avvia Più</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/harness-the-power-of-cookiebot-technology-for-enhanced-analytics-and-conversion-tracking/"><u>Harness the Power of Cookiebot Technology for Enhanced Analytics & Conversion Tracking</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-alliance-of-creativity-brands-and-youtubes-fusion/"><u>In 2024, Alliance of Creativity Brands and YouTube's Fusion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-avoid-interrupting-allow-the-speaker-to-finish-their-thoughts-before-responding-or-asking-questions/"><u>In 2024, Avoid Interrupting Allow the Speaker to Finish Their Thoughts Before Responding or Asking Questions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-mastery-with-manycam-top-notch-virtual-webcam-and-hd-video-tools/"><u>Live Streaming Mastery with ManyCam: Top-Notch Virtual Webcam & HD Video Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-mastery-with-manycam-top-notch-virtual-webcam-software/"><u>Live Streaming Mastery with ManyCam: Top-Notch Virtual Webcam Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-mastery-with-manycam-ultimate-virtual-webcam-and-filming-tool/"><u>Live Streaming Mastery with ManyCam: Ultimate Virtual Webcam and Filming Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-mastery-top-features-of-manycam-virtual-camera-app/"><u>Live Streaming Mastery: Top Features of ManyCam Virtual Camera App</u></a></li>
+<li><a href="https://win11.techidaily.com/making-headway-with-windows-mail-error-x-0x80072746/"><u>Making Headway with Windows Mail Error X: 0X80072746</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-6-android-time-management-applications-enhance-your-productivity/"><u>Top 6 Android Time Management Applications: Enhance Your Productivity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-the-reasons-behind-ps4-loud-operation-and-fixing-them/"><u>Understanding the Reasons Behind PS4 Loud Operation & Fixing Them</u></a></li>
 </ul></div>
 

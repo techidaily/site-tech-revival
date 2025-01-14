@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Full Potential: 10 ChatGPT-VS Code Pairings"
-date: 2025-01-01T21:27:31.059Z
-updated: 2025-01-07T21:29:10.220Z
+date: 2025-01-06T19:27:56.410Z
+updated: 2025-01-14T07:04:46.966Z
 tags:
   - chatgpt
   - open-ai
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -52,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The more context you provide your AI tool, the better of a response you'll receive.
 
 ## 2 Ask for More Information After Getting an Initial Answer
@@ -84,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
 [Avoiding common mistakes when using AI prompting tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) isn't always easy, but one of the main issues you'll encounter is trying to make the tool multitask. AI programs will often generate your results within a few minutes, but they can only do one thing at a time. If you try to ask too many things in one go, you won't get the results you want.
@@ -93,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
@@ -104,10 +100,14 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
@@ -118,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
  Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .
@@ -129,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
  If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
@@ -147,24 +147,22 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-tagging-made-easy-with-these-high-impact-instagram-hashtags/"><u>[New] 2024 Approved Tagging Made Easy with These High-Impact Instagram Hashtags</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-7-free-video-editing-programs-that-work-flawlessly/"><u>[Updated] 7 Free Video Editing Programs That Work Flawlessly</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-secure-your-brand-on-youtube-adding-logos-and-watermarks/"><u>[Updated] Secure Your Brand on YouTube Adding Logos & Watermarks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unlocking-the-secrets-of-high-quality-twitch-broadcasts/"><u>[Updated] Unlocking the Secrets of High-Quality Twitch Broadcasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-ultimate-dvd-conversion-suite-for-mac-breeze-through-backing-up-and-extracting-dvds-on-macos-with-seamless-transfer-to-any-video-format/"><u>1. Ultimate DVD Conversion Suite for Mac: Breeze Through Backing Up and Extracting DVDs on macOS with Seamless Transfer to Any Video Format</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-learn-from-the-best-youtubes-top-green-screen-techniques/"><u>2024 Approved Learn From The Best Youtube’s Top Green Screen Techniques</u></a></li>
-<li><a href="https://win-top.techidaily.com/windows-1087/"><u>安全模式下Windows 10/8/7的硬盘克隆方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beat-bliss-enjoy-endless-house-music-samples-perfect-for-chill-vibes-and-social-gatherings/"><u>Beat Bliss: Enjoy Endless House Music Samples - Perfect for Chill Vibes & Social Gatherings</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/beginners-guide-to-german-numbers-1-100/"><u>Beginner's Guide to German Numbers 1-100</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-premium-iphone-organizer-at-no-cost-optimize-and-securely-back-up-your-device/"><u>Download Premium iPhone Organizer at No Cost – Optimize and Securely Back Up Your Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-guide-convert-and-add-cd-music-to-iphone-without-costing-you-a-penny/"><u>Effortless Guide: Convert and Add CD Music to iPhone Without Costing You a Penny</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ethical-guidelines-utilizing-chatgpt-for-wellness/"><u>Ethical Guidelines: Utilizing ChatGPT for Wellness</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/review-free-and-easy-the-ultimate-guide-to-macx-youtube-downloader/"><u>Review: Free and Easy - The Ultimate Guide to MacX YouTube Downloader</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-video-files-into-idvd-quality-mp4s-using-free-macx-tool/"><u>Transform Your Video Files Into iDVD Quality MP4s Using Free MacX Tool!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-handbrake-dvd-ripper-failures-due-to-damaged-disk-areas/"><u>Troubleshooting Handbrake DVD Ripper Failures Due to Damaged Disk Areas</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-dvd-to-mkv-conversion-tools-for-perfect-uncompromised-quality-transfer/"><u>Ultimate Guide to DVD to MKV Conversion Tools for Perfect, Uncompromised Quality Transfer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-and-convert-stream-the-avengers-movie-from-protected-dvds-on-your-apple-gadgets/"><u>Unlock & Convert: Stream 'The Avengers' Movie From Protected DVDs on Your Apple Gadgets</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-12x-steam-deck-step-by-step-guide/"><u>Windows 12X Steam Deck: Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-resolution-showdown-gopro-vs-polaroids-editing-experience/"><u>[Updated] In 2024, Resolution Showdown GoPro Vs. Polaroid's Editing Experience</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-key-audio-changer-software-for-content-creators/"><u>[Updated] Key Audio Changer Software for Content Creators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-retrieving-secret-snaps-tips-for-snapchats-private-photos-for-2024/"><u>[Updated] Retrieving Secret Snaps Tips for Snapchat's Private Photos for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-using-manycams-advanced-live-video-and-webcam-features/"><u>Enhance Your Online Presence Using ManyCam's Advanced Live Video and Webcam Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-using-manycams-advanced-virtual-webcam-features-for-seamless-livestreaming/"><u>Enhance Your Online Presence Using ManyCam's Advanced Virtual Webcam Features for Seamless Livestreaming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-with-manycam-top-notch-virtual-camera-solutions-for-real-time-broadcasts/"><u>Enhance Your Online Presence with ManyCam: Top-Notch Virtual Camera Solutions for Real-Time Broadcasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-with-manycams-advanced-video-editing-and-virtual-camera-features/"><u>Enhance Your Online Presence with ManyCam's Advanced Video Editing and Virtual Camera Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-streaming-experience-with-leading-virtual-camera-solutions-beyond-manycam/"><u>Enhance Your Streaming Experience with Leading Virtual Camera Solutions (Beyond ManyCam)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-video-conferencing-experience-with-multi-functional-webcams-supporting-manycam-compatibility/"><u>Enhance Your Video Conferencing Experience with Multi-Functional Webcams Supporting ManyCam Compatibility</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-asmrists-can-help-your-evening-routine-for-2024/"><u>How ASMRists Can Help Your Evening Routine for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-elevate-engagement-crafting-effective-youtube-shorts/"><u>In 2024, Elevate Engagement Crafting Effective YouTube Shorts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-discover-manycams-advanced-video-editing-and-virtual-webcam-features/"><u>Live Streaming Made Easy: Discover ManyCam's Advanced Video Editing and Virtual Webcam Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-discover-manycams-virtual-camera-solutions/"><u>Live Streaming Made Easy: Discover ManyCam's Virtual Camera Solutions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-webm-video-compression-made-easy-best-online-services/"><u>New WebM Video Compression Made Easy Best Online Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-spreadsheet-phobia-how-to-leverage-chatgpt-in-excel/"><u>Overcoming Spreadsheet Phobia: How to Leverage ChatGPT in Excel</u></a></li>
+<li><a href="https://win-premium.techidaily.com/solution-pour-lerreur-windows-nest-pas-en-mesure-dacceder-au-dossier-partage/"><u>Solution Pour L’erreur 'Windows N’est Pas en Mesure D'accéder Au Dossier Partagé'</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spark-ars-color-palette-expansion-via-free-accessible-lut-downloads/"><u>Spark AR's Color Palette Expansion via Free, Accessible LUT Downloads</u></a></li>
 </ul></div>
 
