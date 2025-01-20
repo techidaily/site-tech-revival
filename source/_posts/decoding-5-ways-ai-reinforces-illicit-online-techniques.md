@@ -1,7 +1,7 @@
 ---
 title: Decoding 5 Ways AI Reinforces Illicit Online Techniques
-date: 2025-01-08T09:47:36.004Z
-updated: 2025-01-14T07:38:18.298Z
+date: 2025-01-13T21:51:59.758Z
+updated: 2025-01-20T08:03:22.351Z
 tags:
   - chatgpt
   - open-ai
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -53,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The more context you provide your AI tool, the better of a response you'll receive.
@@ -72,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
  As you use AI prompting more frequently, you'll get a better idea of what does and doesn't work for you. You'll also learn which prompts are useful and which ones confuse the tool that you're using. Once you've become more familiar with AI, make sure that you clearly outline what hasn't worked before.
@@ -80,13 +80,13 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -95,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  Sometimes, you'll begin a prompt and realize you forgot to add further information. When this happens, stop or edit the current prompt and include those details before re-generating your answer.
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
@@ -106,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -119,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
@@ -147,19 +147,24 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-beyond-imagination-cutting-edge-vr-tech-for-2024/"><u>[New] Beyond Imagination Cutting-Edge VR Tech for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-boost-your-tv-experience-automatic-loops-of-youtube-videos/"><u>[New] In 2024, Boost Your TV Experience Automatic Loops of YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boost-engagement-through-anime-style-subscribe-buttons-filmora-tutorial/"><u>[Updated] 2024 Approved Boost Engagement Through Anime-Style Subscribe Buttons (Filmora Tutorial)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-instant-anonymity-shield-face-details/"><u>[Updated] Instant Anonymity Shield Face Details</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advanced-prompting-methods-to-optimize-your-chatgpt-conversational-experience/"><u>Advanced Prompting Methods to Optimize Your ChatGPT Conversational Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-focus-during-virtual-conferences-the-art-of-background-blurring-in-google-meet/"><u>Enhancing Focus During Virtual Conferences: The Art of Background Blurring in Google Meet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ensuring-confidentiality-with-chatgpt-strategies-for-secure-professional-use/"><u>Ensuring Confidentiality with ChatGPT: Strategies for Secure Professional Use</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generative-ai-unveiled-the-science-and-companies-leading-its-integration/"><u>Generative AI Unveiled: The Science & Companies Leading Its Integration</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-best-5-web-video-recorders/"><u>In 2024, Best 5 Web Video Recorders</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-best-in-class-top-drone-gimbals-compared/"><u>In 2024, Best in Class Top Drone Gimbals Compared</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/intelligent-conversations-creating-personalized-chatgpt/"><u>Intelligent Conversations: Creating Personalized ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/speak-listen-and-engage-with-chatgpt-its-easier-than-you-think/"><u>Speak, Listen, and Engage with ChatGPT - It's Easier Than You Think</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-creativity-how-dall-e-enhances-ai-image-production-with-chatgpt-ebytes/"><u>Unleashing Creativity: How DALL-E Enhances AI Image Production with ChatGPT-Ebytes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/learing-your-browsers-watched-videos/"><u>[New] Clearing Your Browser's Watched Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-evolution-of-4k-a-look-at-the-d500-model-for-2024/"><u>[Updated] The Evolution of 4K A Look at the D500 Model for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/44cm5yuv55s75zob6loq44ks55cg6kej44gz44kl77ya6kej5yop5bqm44cb44ki44k544oa44kv44oi5qplusu44cb44ou44kv44k744or5pww44go44gv44cn/"><u>「動画品質を理解する：解像度、アスペクト比、ピクセル数とは」</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/1-easily-adjust-your-videos-quality-resize-footage-on-pc-or-mac/"><u>1. Easily Adjust Your Video's Quality: Resize Footage on PC or Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-abodes-productivity-with-chatgpt-techniques/"><u>Elevate Your Abode's Productivity with ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-work-routine-7-surprising-benefits-of-integrating-chatgpt/"><u>Elevate Your Work Routine: 7 Surprising Benefits of Integrating ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-empathy-through-chatgpt-utilization/"><u>Enhancing Empathy Through ChatGPT Utilization</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enterprise-applications-of-chatgpt-explained/"><u>Enterprise Applications of ChatGPT Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-auto-gpts-broad-potential/"><u>Exploring Auto-GPT's Broad Potential</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-chatgpts-capability-can-it-be-used-as-a-math-solution-assistant/"><u>Exploring ChatGPT's Capability: Can It Be Used as a Math Solution Assistant?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-chatgpts-potential-to-innovate-in-health-services/"><u>Exploring ChatGPT's Potential to Innovate in Health Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-differences-a-deep-dive-into-claude-pro-and-its-comparison-with-chatgpt-plus/"><u>Exploring the Differences: A Deep Dive Into Claude Pro and Its Comparison with ChatGPT Plus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-potential-of-chatgpts-personalized-command-system-uses-and-benefits/"><u>Exploring the Potential of ChatGPT's Personalized Command System: Uses & Benefits</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-your-division-2-crash-issues-instantly-and-effortlessly/"><u>How to Resolve Your Division 2 Crash Issues Instantly & Effortlessly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-oppo-reno-11f-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Oppo Reno 11F 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-11-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 11 Pro Max Lock Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/premier-seo-firms-in-lebanons-capital-mastering-the-art-of-visibility-with-expertise/"><u>Premier SEO Firms in Lebanon's Capital: Mastering the Art of Visibility with Expertise</u></a></li>
+<li><a href="https://win-news.techidaily.com/44k344k544og44og5b6p5ywd5b6m44gu5ymk6zmk44ov44kh44kk44or5zue5b6p5oml6acg44gr44gk44ge44gm5a2m44g2/"><u>システム復元後の削除ファイル回復手順について学ぶ</u></a></li>
 </ul></div>
 

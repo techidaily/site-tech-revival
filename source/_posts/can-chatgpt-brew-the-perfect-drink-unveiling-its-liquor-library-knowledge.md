@@ -1,7 +1,7 @@
 ---
 title: Can ChatGPT Brew the Perfect Drink? Unveiling Its Liquor Library Knowledge
-date: 2024-12-21T22:46:11.758Z
-updated: 2024-12-29T08:26:48.457Z
+date: 2025-01-18T17:17:36.910Z
+updated: 2025-01-20T04:03:50.232Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do ChatGPT Plugins Work?
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 ![Monitor screen showing ChatGPT landing page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/monitor-screen-showing-chatgpt-landing-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT plugins are software components integrated into[the ChatGPT platform](https://www.makeuseof.com/how-does-chatgpt-work/) . They provide ChatGPT with additional information, such as up-to-date news or data from proprietary sources, and enable ChatGPT to perform specific actions on behalf of users.
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
  Then, ChatGPT could use these plugins to fetch relevant information and insert them into the email draft. It could also use the plugins to send emails, schedule a meeting, or update a task's status.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do You Sign Up for ChatGPT Plugins?
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 ![chatgpt plugin page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plugin-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Currently, the ChatGPT plugins feature is only available to ChatGPT Plus subscribers, and you have to join a waitlist to get access. You can[sign up for ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) by clicking on**Upgrade** **to** **Plus** on the left tab on the ChatGPT interface.
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 4. Click**Join Waitlist** to submit the form.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Joining ChatGPT's Plugins Waitlist
@@ -90,19 +90,22 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-practices-for-documenting-live-streamed-sporting-matches/"><u>[Updated] 2024 Approved Best Practices for Documenting Live-Streamed Sporting Matches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-conversational-ai-like-chatgpt-become-a-tool-for-cyber-attacks-on-financial-institutions-and-personal-computers/"><u>Can Conversational AI Like ChatGPT Become a Tool for Cyber Attacks on Financial Institutions and Personal Computers?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-the-key-to-controlling-your-smart-home-system/"><u>ChatGPT: The Key To Controlling Your Smart Home System</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-deal-alert-save-big-on-macbook-air-available-for-only-280-today/"><u>Exclusive Deal Alert: Save Big on MacBook Air - Available for Only $280 Today!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-prompt-injection-vulnerabilities-in-ai-systems-what-you-need-to-know/"><u>Exploring Prompt Injection Vulnerabilities in AI Systems – What You Need to Know</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-update-your-dell-dell-inspiron-3100-the-simplest-driver-download-methods/"><u>Find & Update Your DELL Dell Inspiron 3100: The Simplest Driver Download Methods</u></a></li>
-<li><a href="https://discover-great.techidaily.com/guida-completa-per-il-backup-centralizzato-di-clienti-windows-con-software-dedicato/"><u>Guida Completa per Il Backup Centralizzato Di Clienti Windows Con Software Dedicato</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/lost-in-conversation-a-guide-to-recovering-deleted-chatgpt-sessions/"><u>Lost in Conversation: A Guide to Recovering Deleted ChatGPT Sessions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-secrets-of-openai-a-full-overview/"><u>Mastering the Secrets of OpenAI: A Full Overview</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/streamline-customer-verification-with-abbyy-id-proof-simplifying-and-securing-the-onboarding-process/"><u>Streamline Customer Verification with ABBYY ID Proof: Simplifying & Securing the Onboarding Process</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-art-of-speech-interpretation-via-googles-technology/"><u>The Art of Speech Interpretation via Google's Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformative-health-aids-choosing-the-best-8-gpts/"><u>Transformative Health Aids: Choosing the Best 8 GPTs</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-asus-proart-pa-329q-the-pinnacle-in-high-definition-viewing/"><u>[New] 2024 Approved Asus ProArt PA 329Q The Pinnacle in High-Definition Viewing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-immediate-solution-for-podcast-livestreaming/"><u>[New] In 2024, Immediate Solution for Podcast Livestreaming</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-navigating-gradual-audio-reduction-in-digital-studios/"><u>[New] In 2024, Navigating Gradual Audio Reduction in Digital Studios</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/neaky-soundtrack-watching-youtube-unobtrusively/"><u>[New] Sneaky Soundtrack Watching YouTube Unobtrusively</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-job-security-exploring-10-scenarios-where-misuse-may-lead-to-termination/"><u>ChatGPT and Job Security: Exploring 10 Scenarios Where Misuse May Lead to Termination</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-api-for-beginners-how-to-get-started-and-build-interactive-experiences/"><u>ChatGPT API for Beginners: How to Get Started and Build Interactive Experiences</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-in-the-office-understanding-the-10-risks-to-your-job-security/"><u>ChatGPT in the Office: Understanding the 10 Risks to Your Job Security</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/clade-vs-gpt-a-tale-of-two-chatbots/"><u>Clade vs GPT: A Tale of Two Chatbots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-vs-gpt-optimal-ai-bot-for-daily-use/"><u>Claude Vs. GPT: Optimal AI Bot for Daily Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-the-pros-and-cons-of-gemini-advanced-vs-microsofts-chatgptplus-a-comprehensive-analysis/"><u>Comparing the Pros and Cons of Gemini Advanced Vs. Microsoft's ChatGPT+ – A Comprehensive Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/critical-privacy-concerns-in-ai-powered-dialogue-services-what-you-need-to-know/"><u>Critical Privacy Concerns in AI-Powered Dialogue Services: What You Need to Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-emotion-ai-is-it-possible-for-algorithms-to-accurately-understand-human-emotions/"><u>Decoding Emotion AI: Is It Possible for Algorithms to Accurately Understand Human Emotions?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-window-screenshots-a-comprehensive-tutorial-for-windows-users/"><u>Mastering Window Screenshots: A Comprehensive Tutorial for Windows Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/pushing-perception-analyzing-the-dreamcolors-z32x-4k-for-2024/"><u>Pushing Perception Analyzing the DreamColor's Z32X 4K for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210655611-9781454943471-the-enneagram-workbook/"><u>The Enneagram Workbook | Free Book</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-essential-blueprint-for-configuring-a-zoom-space/"><u>The Essential Blueprint for Configuring a Zoom Space</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-importance-of-regulatory-measures-in-ai-perspectives-from-the-head-of-openai/"><u>The Importance of Regulatory Measures in AI: Perspectives From the Head of OpenAI</u></a></li>
 </ul></div>
 

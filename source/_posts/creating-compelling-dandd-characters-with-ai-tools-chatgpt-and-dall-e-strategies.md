@@ -1,7 +1,7 @@
 ---
 title: Creating Compelling D&D Characters with AI Tools - ChatGPT and DALL-E Strategies
-date: 2025-01-08T05:47:53.523Z
-updated: 2025-01-14T06:04:28.035Z
+date: 2025-01-13T01:38:21.595Z
+updated: 2025-01-20T08:34:53.372Z
 tags:
   - chatgpt
   - open-ai
@@ -20,15 +20,15 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Are DALL-E 3's Editing Tools?](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#what-are-dall-e-3-39-s-editing-tools)
 * [How to Use DALL-E 3's Editing Tool](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#how-to-use-dall-e-3-39-s-editing-tool)
 * [DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#dall-e-39-s-editing-tools-are-useful-but-need-work-and-a-little-persistence)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -72,10 +72,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Adding and Changing
 
  DALL-E 3 can make some changes to images, but again, it depends on the scale of what you're asking. Small additions and changes are possible, but most of the time, DALL-E's editing tool can't process what is asked.
@@ -85,12 +81,16 @@ Close
 ![dalle 3 editing tools close up human eye](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Pretty decent, if a little odd (eyelash reflections?!), but I wanted to switch the iris color to blue-green instead, resulting in this image:
 
 ![dalle 3 editing tools close up human eye changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye-changed-colour.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The color is slightly dull but unchanged, and some features are warped slightly.
 
@@ -98,15 +98,15 @@ Close
 
 ![dalle 3 editing tools tiger yeti claymation style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-tiger-yeti-claymation-style.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Again, the original image is good, has sharp, vibrant colors, and matches the prompt. However, I wanted to switch the yeti to a different type of scary animal.
 
 ![dalle 3 editing tools yeti removed from image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-yeti-removed-from-image.jpg)
 
  Instead of swapping the yeti for a different animal, it's just completely gone. Instead, I returned to the original image and asked it to add another yeti, which it failed to do. It similarly failed when asked to add more trees to the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Adding Text
 
@@ -119,7 +119,7 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)
@@ -143,20 +143,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-conceptualize-entertaining-posts-in-adobe-for-2024/"><u>[New] Conceptualize Entertaining Posts in Adobe for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-insta-twist-techniques-for-turning-photos-into-viral-sensations-on-social-media/"><u>[New] In 2024, Insta-Twist Techniques for Turning Photos Into Viral Sensations on Social Media</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/critical-selection-of-terraria-upgrades-for-2024/"><u>Critical Selection of Terraria Upgrades for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-excellent-alternatives-to-bose-and-jbl-in-bluetooth-speakers-that-deliver-the-bass-tested-by-zdnet/"><u>Discovering Excellent Alternatives to Bose and JBL in Bluetooth Speakers That Deliver the Bass | Tested by ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-poco-m6-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Poco M6 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-safely-how-to-append-trusted-domains-on-windows-11/"><u>Navigate Safely: How to Append Trusted Domains on Windows 11</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/parallel-audio-stream-mapping/"><u>Parallel Audio Stream Mapping</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/peering-into-the-future-of-video-capturing-with-apeaksoft/"><u>Peering Into the Future of Video Capturing with Apeaksoft</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-how-to-watch-dav-videos-using-vlc/"><u>Step-by-Step Tutorial on How to Watch DAV Videos Using VLC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-transforming-your-region-2-discs-to-multi-region-playability/"><u>Step-by-Step Tutorial: Transforming Your Region 2 Discs to Multi-Region Playability</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-the-best-10-screen-recorders-for-windows-10-users/"><u>The Ultimate Guide to the Best 10 Screen Recorders for Windows 10 Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-common-video-format-and-codec-issues-during-conversion/"><u>Troubleshooting Common Video Format and Codec Issues During Conversion</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-selecting-the-ideal-avi-to-dvd-conversion-tool-on-windows-11/"><u>Ultimate Guide: Selecting the Ideal Avi to Dvd Conversion Tool on Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-kodi-user-manual-comprehensive-tutorials-and-insights-on-mastering-your-media-experience/"><u>Ultimate Kodi User Manual: Comprehensive Tutorials & Insights on Mastering Your Media Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-capturing-video-content-from-sling-tv-for-personal-use-on-pc/"><u>Ultimate Tutorial: Capturing Video Content From Sling TV for Personal Use on PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-hotspots-for-revolutionary-vr-cinema/"><u>[Updated] Hotspots for Revolutionary VR Cinema</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-decoding-facebooks-video-mutes-your-2023-remedy-guide/"><u>[Updated] In 2024, Decoding Facebook's Video Mutes – Your 2023 Remedy Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-youtube-shorts-key-facts-for-2024/"><u>[Updated] Mastering YouTube Shorts Key Facts for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-easy-mp3-snippet-from-fb-chats/"><u>2024 Approved Easy MP3 Snippet From FB Chats</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932843-9781855844940-anthroposophic-medicine-for-all-the-family/"><u>Anthroposophic Medicine for all the Family | Free Book</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s17t-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S17t Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-verify-your-youtube-account/"><u>How to Verify Your YouTube Account?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-elysiumeditpro-unveiling-photo-wonders/"><u>In 2024, ElysiumEditPro Unveiling Photo Wonders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-generative-ai-insights-into-its-functioning-and-industry-usage/"><u>Navigating the World of Generative AI - Insights Into Its Functioning & Industry Usage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-advantages-and-disadvantages-of-chatgpt-for-creative-expression/"><u>Navigating Through Advantages and Disadvantages of ChatGPT for Creative Expression</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-top-10-bgm-audio-archives-for-2024/"><u>New Top 10 BGM Audio Archives for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pioneering-plots-creating-rpgs-in-the-gpt-realm/"><u>Pioneering Plots: Creating RPGs in the GPT Realm</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/polite-conversations-do-they-matter-when-using-ai-voices-like-chatgpt-alexa-and-siri/"><u>Polite Conversations: Do They Matter When Using AI Voices Like ChatGPT, Alexa, and Siri?</u></a></li>
 </ul></div>
 

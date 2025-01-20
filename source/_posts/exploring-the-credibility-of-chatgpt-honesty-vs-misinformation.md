@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Credibility of ChatGPT: Honesty vs Misinformation"
-date: 2025-01-09T02:12:02.384Z
-updated: 2025-01-14T12:45:57.503Z
+date: 2025-01-18T18:45:07.266Z
+updated: 2025-01-19T20:15:14.048Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/d3b9fa260885ec727c421c1f7392781651fabce3d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Can Help Cybercriminals Hack Your PC
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/d3b9fa260885ec727c421c1f7392781651fabce3d
 ![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hackers, including script kiddies, can[use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/d3b9fa260885ec727c421c1f7392781651fabce3d
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/d3b9fa260885ec727c421c1f7392781651fabce3d
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/d3b9fa260885ec727c421c1f7392781651fabce3d
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -97,19 +97,24 @@ thumbnail: https://thmb.techidaily.com/d3b9fa260885ec727c421c1f7392781651fabce3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-picks-for-optimal-cloud-space-solutions/"><u>[Updated] 2024 Approved Top Picks for Optimal Cloud Space Solutions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-list-of-websites-ease-up-on-youtube-videos-and-templates-for-2024/"><u>[Updated] Expert List of Websites Ease Up on Youtube Videos and Templates for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-initiate-an-impactful-live-stream-on-facebook-today-for-2024/"><u>[Updated] Initiate an Impactful Live Stream on Facebook Today for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-remedy-for-audio-pause-in-obs-streams/"><u>[Updated] Remedy for Audio Pause in OBS Streams</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/como-migrar-archivos-de-windows-10-a-windows-11-sin-problemas-tres-metodos-sencillos/"><u>Cómo Migrar Archivos De Windows 10 a Windows 11 Sin Problemas: Tres Métodos Sencillos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974432615-get-your-steelseries-engine-compatible-with-windows-11-free-downloads-available/"><u>Get Your SteelSeries Engine Compatible With Windows 11 - Free Downloads Available!</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/mastering-dex3-dj-a-comprehensive-guide-on-adjusting-and-editing-font-sizes-in-pioneer-cdj/"><u>Mastering DEX3 DJ: A Comprehensive Guide on Adjusting & Editing Font Sizes in Pioneer CDJ</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-obs-blackout-problems-while-streaming-games-and-browsers-effective-fixes-unveiled/"><u>Troubleshooting OBS Blackout Problems While Streaming Games and Browsers - Effective Fixes Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-list-of-the-most-effective-dvd-to-mkv-converters-on-windows-updated/"><u>Ultimate List of the Most Effective DVD to MKV Converters on Windows, Updated</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/wav-itunes/"><u>WAV形式への簡単なアップデート: ITunes音楽曲変換ガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/webmmp4-google5/"><u>WebMとMP4への変換ができる簡単インターフェース! - Googleに最適化された5つの人気ツール</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-1011top3-mov/"><u>Windows 10/11向け人気の無料組み込みソフトウェアTOP3推奨 - MOV結合</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/wowowdvd/"><u>WOWOW番組の高品質DVDへの変換手順</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-brightening-edge-of-android-videos-easy-steps-unveiled/"><u>[New] Brightening Edge of Android Videos - Easy Steps Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-do-i-delete-or-close-my-old-linkedin-account-solved/"><u>[New] How Do I Delete Or Close My Old LinkedIn Account (Solved)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-xs-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone XS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-why-ios-gets-the-preferential-treatment-in-gpt/"><u>Discovering Why iOS Gets the Preferential Treatment in GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-setup-tutorial-activating-your-account-for-microsoft-bings-smart-search-features/"><u>Easy Setup Tutorial: Activating Your Account for Microsoft Bing's Smart Search Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-writing-productivity-the-ultimate-list-of/"><u>Elevate Writing Productivity: The Ultimate List Of</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-ux-through-tailored-personas-with-chatgpt-aid/"><u>Enhance UX Through Tailored Personas with ChatGPT Aid</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-ai-variants-the-distinctive-roles-of-public-private-and-personal-ais/"><u>Exploring AI Variants: The Distinctive Roles of Public, Private, and Personal AIs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-benefits-and-operations-of-chatgpt-as-your-digital-assistant-in-web-browsing/"><u>Exploring the Benefits and Operations of ChatGPT as Your Digital Assistant in Web Browsing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-downside-why-you-should-think-twice-about-generative-ai-for-messaging-services/"><u>Exploring the Downside: Why You Should Think Twice About Generative AI for Messaging Services</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/for-novices-to-ai-here-are-9-must-know-toolkits/"><u>For Novices to AI, Here Are 9 Must-Know Toolkits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-your-chatgpt-app-up-and-running-again-9-proven-troubleshooting-tips-for-iphones/"><u>Get Your ChatGPT App Up and Running Again: 9 Proven Troubleshooting Tips for iPhones.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-the-power-of-visual-education-techniques/"><u>In 2024, Harnessing the Power of Visual Education Techniques</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c65-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Poco C65 Phone without Any Data Loss</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-3d-luts-complete-guide/"><u>In 2024, Mastering 3D LUTs Complete Guide</u></a></li>
+<li><a href="https://techidaily.com/meet-the-upgraded-bing-chatbot-advanced-search-features-and-elevated-usage-restrictions-now-available/"><u>Meet the Upgraded Bing Chatbot: Advanced Search Features & Elevated Usage Restrictions Now Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-hardware-innovations-with-toms-computing-corner/"><u>Navigating Hardware Innovations with Tom's Computing Corner</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/visionarys-guide-top-5-slow-motion-tech/"><u>Visionary's Guide Top 5 Slow-Motion Tech</u></a></li>
 </ul></div>
 

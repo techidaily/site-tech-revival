@@ -1,7 +1,7 @@
 ---
 title: How Secure Are Your Talks with ChatGPT – Unpacking Privacy Risks
-date: 2025-01-07T07:41:30.772Z
-updated: 2025-01-14T09:09:50.995Z
+date: 2025-01-16T22:51:38.000Z
+updated: 2025-01-20T13:28:25.022Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does ChatGPT Gather Data?
 
  If you've ever interacted with other chatbots, you know that none of them can really compare to ChatGPT, which is actually capable of generating human-like responses. But why is ChatGPT so much better than other similar software?
@@ -36,13 +40,13 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
  Ethical considerations aside, there are serious concerns that Open AI is violating the General Data Protection Regulation (GDPR), and other similar privacy laws. Due to these concerns,[Italy officially banned ChatGPT](https://www.makeuseof.com/why-has-italy-banned-chatgpt/) in March 2023, with the country's data protection authority accusing Open AI of violating user privacy with its data collection practices in more than one way.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ChatGPT's Privacy Policy: What You Need to Know
 
 ![ChatGPT logo on dark purple background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-policy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  How much data does OpenAI collect from ChatGPT users directly, and how? The service's[privacy policy](https://openai.com/policies/privacy-policy) offers some answers.
 
@@ -54,33 +58,29 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
  But what about the conversations you have with the chatbot? How much of that information is stored, and how is it used? In the[FAQ](https://help.openai.com/en/articles/6783457-what-is-chatgpt) section, OpenAI explicitly states that it "reviews" conversations users have with ChatGPT, and that these conversations may be used for training. As for the prompts you submit to the bot, they cannot be deleted, according to OpenAI.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Protect Your Privacy When Using ChatGPT: 3 Key Tips
 
  Clearly, ChatGPT is not privacy-friendly—far from it. But few apps are these days, and there isn't much we can do about it. What you can do, however, is use ChatGPT responsibly. Here are three things you can do to protect your privacy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Register With a Private Email
 
  You can sign up to use ChatGPT with your Google or Microsoft account, but that would not be a very good idea, as convenient as it may seem. In order to protect your privacy, you should create an account with an email, preferably using a secure and encrypted email service like[ProtonMail or Tutanota](https://www.makeuseof.com/protonmail-vs-tutanota-which-encrypted-email-is-best/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Limit What You Share
 
  This is very important. You should be particularly careful what you share with ChatGPT, since there's a strong possibility all of it is being recorded and fed into the system. In fact, it might even be reviewed manually by a human being at some point. Assume that whatever you put into ChatGPT is in the public domain, and act accordingly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Delete Your Information
 
  Under GDPR, you have the right to be forgotten (also called the right of erasure, or the right to deletion). Californians have the same right, due to the[California Consumer Privacy Act (CCPA)](https://www.makeuseof.com/what-is-the-california-consumer-privacy-act/) . So, at least in theory, if you are in Europe or the state of California, you should be able to delete your personal information from OpenAI's servers. You can delete your OpenAI account entirely if you are based somewhere else, but it's unclear if the company would get rid of your data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is It Time to Regulate ChatGPT?
 
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
  Around the same time, the National Telecommunications and Information Administration in the United States began looking at the possibility of regulating artificial intelligence, and it's safe to assume governments around the world will take similar regulatory action in the years to come. Some fear excessive regulation could stifle progress, so it's more than likely the debates will continue as the world tries to navigate this landscape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly
@@ -111,21 +111,20 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-mastering-spotify-promos-your-comprehensive-guide/"><u>[New] 2024 Approved Mastering Spotify Promos Your Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/igital-footprint-and-interactive-iconography-honors/"><u>[New] Digital Footprint and Interactive Iconography Honors</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/aximize-engagement-insider-secrets-to-youtube-seo-for-2024/"><u>[New] Maximize Engagement Insider Secrets to YouTube SEO for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-live-life-in-hd-with-panasonic-hx-a1-cam/"><u>[Updated] 2024 Approved Live Life in HD with Panasonic HX-A1 Cam</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-rhythmreviewer-musical-and-conversational-analysis/"><u>[Updated] RhythmReviewer Musical and Conversational Analysis</u></a></li>
-<li><a href="https://discover-able.techidaily.com/windows-mp4-mpeg-2-4/"><u>最新 Windows でフリー MP4 に MPEG- 2 変換ソフトウェア4つのレコメンド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/become-a-hero-top-6-strategies-for-using-chatgpt-as-your-ideal-dungeon-master/"><u>Become a Hero: Top 6 Strategies for Using ChatGPT as Your Ideal Dungeon Master</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/breaking-down-emerging-twitter-frauds-the-introduction-of-metaverify-and-demystifying-chatgpt-4s-capabilities/"><u>Breaking Down Emerging Twitter Frauds, the Introduction of MetaVerify, and Demystifying ChatGPT-4's Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-spreadsheets-how-to-utilize-chatgpt-for-excel-mastery/"><u>Enhancing Spreadsheets: How to Utilize ChatGPT for Excel Mastery</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-capabilities-of-openais-shapley-explanation-tool-a-deep-dive/"><u>Exploring the Capabilities of OpenAI's Shapley Explanation Tool: A Deep Dive</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-a-guide-to-the-8-truly-effective-youtube-marketing-methods/"><u>In 2024, A Guide to the 8 Truly Effective Youtube Marketing Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mirthful-machine-musings-can-computers-create-gags/"><u>Mirthful Machine Musings: Can Computers Create Gags?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/prompt-engineering-career-prospects-is-it-legitimate-work/"><u>Prompt Engineering Career Prospects: Is It Legitimate Work?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/revolutionize-visual-storytelling-by-incorporating-cg-centrals-look-up-tables-luts/"><u>Revolutionize Visual Storytelling by Incorporating CG Central's Look-Up Tables (Luts)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tailor-your-next-read-explore-these-innovative-ai-powered-book-apps/"><u>Tailor Your Next Read: Explore These Innovative AI-Powered Book Apps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-future-is-bright-with-oneplus-10-anticipate-release-timing-cost-guesswork-rumored-perks-and-speculative-insights/"><u>The Future Is Bright with OnePlus 10 – Anticipate Release Timing, Cost Guesswork, Rumored Perks & Speculative Insights</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-event-harmony-sourcing-perfect-dj-video-templates/"><u>[New] 2024 Approved Event Harmony Sourcing Perfect DJ Video Templates</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-digital-design-trends-to-avoid-in-your-youtube-banners/"><u>[Updated] Digital Design Trends to Avoid in Your YouTube Banners</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi3gp/"><u>「Movaviのオンラインで免責金の3GPファイル変換 - 自由なサービス」</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-embracing-change-adaptability-as-the-new-normal-in-business/"><u>2024 Approved Embracing Change Adaptability as the New Normal in Business</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-like-a-pro-with-tomtoms-actioncam-2023/"><u>2024 Approved Explore Like a Pro with TomTom's ActionCam 2023</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/acquire-mova-media-editor-safely-at-unbeatable-prices-with-simova-converter-deal/"><u>Acquire MoVa Media Editor Safely at Unbeatable Prices with SiMOVA Converter Deal!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertissez-vos-fichiers-nsv-en-format-wmv-gratuitement-sur-internet-avec-movavi/"><u>Convertissez Vos Fichiers .nsv en Format WMV Gratuitement Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-memorable-home-videos-using-movavis-editing-software/"><u>Crafting Memorable Home Videos Using Movavi's Editing Software</u></a></li>
+<li><a href="https://solve-help.techidaily.com/discover-the-best-13-free-dvd-players-for-windows-11-users-complete-review-and-comparisons/"><u>Discover the Best 13 Free DVD Players for Windows 11 Users - Complete Review and Comparisons</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/google-online-movavi-jpgtiff/"><u>Google의 Online 도구를 사용한다: Movavi 공유 - 무료 JPG/TIFF 된화 대체</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-13-mini-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 13 mini Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transcode-un-flv-au-format-webm-gratuite-ligne-de-commande-avec-movavi/"><u>Transcode Un FLV Au Format WebM Gratuite - Ligne De Commande Avec Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-best-magsafe-wallets-of-2024-in-depth-testing-and-insights-zdnet/"><u>Ultimate Guide to the Best MagSafe Wallets of 2024: In-Depth Testing & Insights | ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winsoft-upgrade-no-more-interoperability-anxiety/"><u>WinSOFT Upgrade: No More Interoperability Anxiety</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726224411237-jpegbmp-movavi/"><u>무료 가용성: 온라인 JPEG/BMP 영상 전환 - Movavi</u></a></li>
 </ul></div>
 

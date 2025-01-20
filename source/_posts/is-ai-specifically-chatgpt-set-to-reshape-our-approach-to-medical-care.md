@@ -1,7 +1,7 @@
 ---
 title: Is AI, Specifically ChatGPT, Set to Reshape Our Approach to Medical Care?
-date: 2025-01-11T01:28:01.753Z
-updated: 2025-01-14T07:01:34.593Z
+date: 2025-01-13T14:08:53.824Z
+updated: 2025-01-20T13:58:51.231Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1.[Decktopus AI](https://www.decktopus.com/)
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
  Each of these questions comes with several pre-generated responses, but you can always input your own by typing out what it is that you want. Then, Decktopus will then have your presentation entirely generated based on your inputs. The results look good on their own, but you can also adjust the themes and colors.
 
  On top of this, Decktopus also generates multiple layouts for its slides, so you can adjust it that way. If you really don’t like what Decktopus has created, you can also regenerate the presentation in its entirety to get a new AI response.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2.[SlidesAI.io](https://www.slidesai.io/)
 
@@ -68,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
  This includes creating AI images to match your content, creating a new slide with your content, converting a document into a presentation, or simply making one from scratch. Tome works quickly and efficiently with these AI tools, and you can easily make impressive presentations in mere moments.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4.[GPT_PPT](https://gpt-ppt.neftup.app/)
 
 ![A Screenshot of GPT PPT s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_ppt-presentation-generator-screenshot.jpg)
@@ -77,12 +77,16 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
  As you might imagine, GPT\_PPT generates PowerPoint files. The results aren’t always the cleanest, and there’s no way to edit them from within the web page. Fortunately, you can always open them in PowerPoint to edit them yourself and tidy them up. If you already know some of[these advanced Microsoft PowerPoint features that everyone must know](https://www.makeuseof.com/advanced-microsoft-powerpoint-features/) , then making a stunning presentation out of them shouldn’t be hard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5.[Presentations.AI](https://www.presentations.ai/)
 
 ![A Screenshot of Presentations AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/presentations-ai-presentation-generator-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Presentations.AI is an online presentation generation service that uses AI to create presentations for business. To get started, all you have to do is select an AI template, and Presentations.AI will handle the rest.
 
@@ -90,17 +94,9 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
  If there’s anything you don’t like about the slides, there are options to change the type or style of the slides, and you can add points and edit what Presentations.AI has created as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6.[ChatBA](https://www.chatba.com)
 
 ![A Screenshot of ChatBA s AI Presentation Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatba-ai-presentation-generator-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ChatBA is an online AI presentation generation tool that allows you to quickly and easily create a complete presentation on just about any topic. With ChatBA, all you have to do is input the topic that you want a presentation on and leave the rest to the AI.
 
@@ -111,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 ## 7.[MagicSlides](https://www.magicslides.app)
 
 ![A Screenshot of MagicSlides AI Presentation Generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/magicslides-ai-presentation-generator-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  MagicSlides is a Google Slides add-on that aims to work like ChatGPT for your presentations. To use MagicSlides, all you have to do is enter your topic, though you can also include additional information such as reference material and instructions.
 
@@ -137,21 +137,22 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-influencer-insight-essential-hashtags-for-maximum-impact-for-2024/"><u>[Updated] Influencer Insight Essential Hashtags for Maximum Impact for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-no-cost-ai-art-generators-explore-our-top-5-picks/"><u>Best No-Cost AI Art Generators: Explore Our Top 5 Picks</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/como-diminuir-o-tamanho-dos-seus-arquivos-mov-online-e-gratuitamente-top-7-dicas/"><u>Como Diminuir O Tamanho Dos Seus Arquivos MOV Online E Gratuitamente - Top 7 Dicas</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/data-protection-alert-identifying-and-mitigating-three-major-risks-of-chatbot-interactions/"><u>Data Protection Alert: Identifying and Mitigating Three Major Risks of Chatbot Interactions</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-how-to-banish-windows-temp-files-for-good/"><u>Discover How to Banish Windows Temp Files for Good</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-best-practices-of-successful-ai-prompts-insightful-guide-with-7-tips/"><u>Discover the Best Practices of Successful AI Prompts - Insightful Guide with 7 Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exciting-gpt-5-improvements-top-4-enhancements-on-our-wishlist/"><u>Exciting GPT-5 Improvements: Top 4 Enhancements on Our Wishlist</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/highest-rated-mobile-video-enhancers-for-gopro-footage-for-2024/"><u>Highest-Rated Mobile Video Enhancers for GoPro Footage for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-best-free-premiere-pro-templates/"><u>In 2024, Best Free Premiere Pro Templates</u></a></li>
-<li><a href="https://fox-http.techidaily.com/learning-vector-artistry-an-overview-for-starters-and-software-picks/"><u>Learning Vector Artistry An Overview for Starters & Software Picks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-the-art-of-conversation-overlooked-strengths-in-ai-tools/"><u>Master the Art of Conversation: Overlooked Strengths in AI Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/plagiarism-detection-chatgpt-under-the-microscope/"><u>Plagiarism Detection: ChatGPT Under the Microscope</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/preservation-in-audio-how-ffmpeg-handles-originality-for-2024/"><u>Preservation in Audio How FFmpeg Handles Originality for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-7-best-tools-that-use-ai-to-make-presentations-for-you/"><u>The 7 Best Tools That Use AI to Make Presentations for You</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-oneplus-ace-2-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your OnePlus Ace 2 Pro Phone</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-nord-n30-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Nord N30 5G</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-how-to-stream-on-discord-step-by-step-guide-for-2024/"><u>[New] How to Stream on Discord [Step-by-Step Guide] for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-blueprint-for-youtube-video-narratives/"><u>ChatGPT's Blueprint for YouTube Video Narratives</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elite-dangerous-stability-fixes-handling-sudden-shutdowns-on-pc/"><u>Elite Dangerous Stability Fixes: Handling Sudden Shutdowns on PC</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-activate-dlna-on-windows-11-two-effective-strategies-for-video-streaming/"><u>How to Activate DLNA on Windows 11: Two Effective Strategies for Video Streaming</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-storytellers-secrets-utilizing-chatgpt-to-elevate-your-narrative-skills/"><u>Master Storyteller's Secrets: Utilizing ChatGPT to Elevate Your Narrative Skills</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-chatgpt-widget-on-android-a-step-by-step-tutorial/"><u>Mastering the ChatGPT Widget on Android - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/microsoft-enhances-bing-with-advanced-ai-the-impact-unveiled/"><u>Microsoft Enhances Bing with Advanced AI: The Impact Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-language-with-ease-claude-3-vs-gpt-3-in-4-points/"><u>Navigating Language with Ease: Claude 3 vs GPT-3, In 4 Points</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleash-your-creativity-a-comprehensive-guide-to-using-wax-for-free-video-editing/"><u>New In 2024, Unleash Your Creativity A Comprehensive Guide to Using Wax for Free Video Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pivoting-from-chatgpt-a-guide-to-superior-options/"><u>Pivoting From ChatGPT: A Guide to Superior Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplify-everyday-living-using-9-chatgpt-tricks/"><u>Simplify Everyday Living Using 9 ChatGPT Tricks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-chatgpt-plugin-connection-problems-a-step-by-step-guide/"><u>Solving ChatGPT Plugin Connection Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-communication-problems-addressing-the-chatgpt-and-plugin-service-connection-failure/"><u>Solving Communication Problems: Addressing the ChatGPT and Plugin Service Connection Failure</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-list-of-hd-webcams-compatible-with-windows-11-pcs/"><u>Ultimate List of HD Webcams Compatible with Windows 11 PCs</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-free-up-space-how-to-convert-your-dvds-to-digital-video-files/"><u>Updated 2024 Approved Free Up Space How to Convert Your DVDs to Digital Video Files</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Updated Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
 </ul></div>
 

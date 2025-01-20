@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Interaction: The Ultimate List of 10 Advanced GPT Variants Beating Out Original ChatGPT"
-date: 2025-01-10T16:53:55.547Z
-updated: 2025-01-14T05:36:47.242Z
+date: 2025-01-13T08:16:06.209Z
+updated: 2025-01-19T16:22:19.590Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tell ChatGPT Its Function and the Presentation Rules
 
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 
 ![ChatGPT displaying text adventure game output in code blocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-displaying-text-adventure-game-output-in-code-blocks.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, this is more compact and easier to look at than the default look.
 
 > 6\. The ‘Description’ must stay between 3 to 10 sentences.
@@ -65,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 > 10\. Change the ‘Weather’ to reflect ‘Description’ and whatever environment the player is in the game.
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Implement Fundamental Game Mechanics
 
@@ -134,10 +138,6 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
 ## Add Combat and Magic Rules
@@ -166,6 +166,10 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -181,7 +185,7 @@ And finally, don’t forget to actually start the game:
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
@@ -189,16 +193,12 @@ And finally, don’t forget to actually start the game:
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Complete ChatGPT RPG Prompt
 
@@ -319,20 +319,20 @@ And finally, don’t forget to actually start the game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-ace-the-art-of-digital-photography-with-lunapic-for-2024/"><u>[New] Ace the Art of Digital Photography with LunaPic for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-best-15-action-cam-footage-editors/"><u>[New] In 2024, Best 15 Action Cam Footage Editors</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-kinetic-gameplay-reimagined-a-comprehensive-analysis-of-kinemaster-on-android/"><u>[New] Kinetic Gameplay Reimagined A Comprehensive Analysis of KineMaster on Android</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-underwater-cinematography-made-simple-top-7-tips/"><u>[New] Underwater Cinematography Made Simple Top 7 Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-guide-transforming-gif-images-into-high-quality-webm-format-in-3-simple-steps/"><u>Easy Guide: Transforming GIF Images Into High-Quality WebM Format in 3 Simple Steps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/efficient-methods-for-converting-your-mkv-files-into-advanced-av1-video-codec/"><u>Efficient Methods for Converting Your MKV Files Into Advanced AV1 Video Codec</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/efficiently-trimming-footage-mastering-video-cropping-using-ffmpeg-on-windows/"><u>Efficiently Trimming Footage: Mastering Video Cropping Using FFmpeg on Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-solutions-to-tackle-non-functioning-videos-on-tumblr/"><u>Effortless Solutions to Tackle Non-Functioning Videos on Tumblr</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-techniques-cropping-mp4-videos-using-your-pc-or-online-tools/"><u>Effortless Techniques: Cropping MP4 Videos Using Your PC or Online Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-video-conversion-tutorial-changing-wmv-file-type-to-mp4-using-the-handbrake-software/"><u>Effortless Video Conversion Tutorial: Changing WMV File Type to MP4 Using the HandBrake Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortlessly-separate-singing-voices-from-music-tracks-top-3-free-tools-and-techniques/"><u>Effortlessly Separate Singing Voices From Music Tracks: Top 3 FREE Tools & Techniques</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-x7b-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor X7b 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/googles-latest-innovation-in-smart-tv-boxes-insider-info-on-features-price-estimates-and-expected-debut/"><u>Google's Latest Innovation in Smart TV Boxes - Insider Info on Features, Price Estimates & Expected Debut</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-google-pixel-fold-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Google Pixel Fold Phone that is Locked?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-smart-shoppers-guide-to-cloud-services-cost/"><u>In 2024, The Smart Shopper's Guide to Cloud Services Cost</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-top-15-video-capture-for-gamers-guide/"><u>[New] In 2024, Top 15 Video Capture for Gamers Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lens-leaderships-discover-the-top-ten-camera-lenses-of-2024/"><u>[Updated] Lens Leaderships Discover the Top Ten Camera Lenses of 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unlocking-chromebook-zoom-capabilities/"><u>[Updated] Unlocking Chromebook Zoom Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-invisible-wi-fi-visible-in-windows-11/"><u>How To Make Invisible Wi-Fi Visible in Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-honor-magic-5-lite-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Honor Magic 5 Lite Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-nokia-c300-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Nokia C300 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-dialogue-with-ai-comparing-claude-vs-chatgpt-in-4-key-ways/"><u>Revolutionizing Dialogue with AI: Comparing Claude vs ChatGPT in 4 Key Ways</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-integration-of-ai-powered-communication-tools-such-as-chatgpt-in-enhancing-medical-services/"><u>The Integration of AI-Powered Communication Tools Such as ChatGPT in Enhancing Medical Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-programmers-dilemma-github-copilot-vs-chatgpt/"><u>The Programmer's Dilemma: GitHub Copilot Vs. ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-secret-behind-elon-musk-and-the-groundbreaking-ai-project-truthgpt/"><u>The Secret Behind Elon Musk and the Groundbreaking AI Project, TruthGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-controversy-whats-gptbot-and-how-did-it-get-banned-online/"><u>Understanding the Controversy: What's GPTBot and How Did It Get Banned Online?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-pros-and-cons-why-a-chatgpt-mobile-app-might-not-be-ideal/"><u>Understanding the Pros and Cons: Why a ChatGPT Mobile App Might Not Be Ideal</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-new-features-signing-up-for-chatgpt-add-ons-explained/"><u>Unlock New Features: Signing Up for ChatGPT Add-Ons Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-ai-in-creative-writing-6-tips-with-chatgpt/"><u>Unlock the Power of AI in Creative Writing: 6 Tips with ChatGPT</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wdf-drivers-crisis-averted-stop-bsod-in-windows-os/"><u>WDF Drivers Crisis Averted: Stop BSOD in Windows OS</u></a></li>
 </ul></div>
 

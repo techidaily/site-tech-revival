@@ -1,7 +1,7 @@
 ---
 title: "How to Engage with OpenAI's Security Rewards: A Guide to Their Bug Bounty Program"
-date: 2025-01-09T10:47:43.972Z
-updated: 2025-01-14T05:08:33.855Z
+date: 2025-01-14T16:27:43.469Z
+updated: 2025-01-20T08:22:45.572Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is OpenAI's Bug Bounty Program?
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 ![Man writing code on a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/bug-bounty-programs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  OpenAI promises to protect you from liabilities or penalties if you follow its stated guidelines and will also acknowledge submissions and remedy validated vulnerabilities promptly. Furthermore, OpenAI claims it will publicly recognize your contribution if it is unique and leads to a configuration or code change.
@@ -56,22 +56,22 @@ The maximum reward you can earn is $20,000.
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With a Bugcrowd account, you can click the "Submit Report" tab on the[Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Here, you must fill in the following information:
@@ -91,7 +91,7 @@ Here, you must fill in the following information:
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the[OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
@@ -123,22 +123,20 @@ Here, you must fill in the following information:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-scaling-back-obs-video-bandwidth/"><u>[New] 2024 Approved Scaling Back OBS Video Bandwidth</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-unveiling-impressive-hdr-photography-for-portraits/"><u>[New] Unveiling Impressive HDR Photography for Portraits</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-mastering-drones-key-parts-for-peak-performance/"><u>[Updated] Mastering Drones Key Parts for Peak Performance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027914396-facebook/"><u>「不可解な Facebook 動画投稿エラーを解消する究極ガイド」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726026469677-mp4/"><u>「高品質ビデオフォーマッター：効果的にMP4の解像度を拡大してください！」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/up/"><u>「簡単なガイド：ダウンロードしてお楽しみ！UP!!オンラインライブの録画手順」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726028947887-androidyoutube/"><u>「Android着信メロディ製作ガイド：YouTube音楽や動画から作る方法」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/youtube-6/"><u>「YouTubeで人気のビデオ効果 - 軽量化ソフトウェア6選おすすめ！」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027542014-flac320kbps-mp3/"><u>高音質変換！FLACから320kbps MP3へ、劣化が起きない最適方法</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/capture-your-music-5-pro-tips-for-streaming-sound-online/"><u>Capture Your Music 5 Pro Tips for Streaming Sound Online</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/full-scene-preview-a-complete-ppro-manual/"><u>Full Scene Preview A Complete PPro Manual</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-moto-g34-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Moto G34 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-a-guide-to-navigating-posting-on-altered-instagram-landscape/"><u>In 2024, A Guide to Navigating Posting on Altered Instagram Landscape</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728470858710-microsoft-outlook/"><u>Microsoft Outlookでメールが失われた理由と回復方法を学ぶ！</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/optimizing-your-input-devices-a-comprehensive-guide-tweaking-mouse-and-keyboard-preferences-with-yl-computing/"><u>Optimizing Your Input Devices: A Comprehensive Guide - Tweaking Mouse & Keyboard Preferences with YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/translation-top-5-video-saving-tools-of-202-infobox/"><u>Translation: Top 5 Video Saving Tools of 202 [Infobox</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-1011avi3/"><u>Windows 10＆11向けの最適なAVIファイル統合手段トップ3 - 品質保持を忘れず</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-best-free-live-streaming-software-and-app-for-all-platforms-2023-list/"><u>[Updated] Best Free Live Streaming Software and App for All Platforms [2023 List]</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-fuel-the-fire-top-videos-that-inspire-audiences-for-2024/"><u>[Updated] Fuel the Fire Top Videos That Inspire Audiences for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-pro-streamers-list-5-innovative-webcams-for-gamers/"><u>[Updated] Pro Streamer's List 5 Innovative Webcams for Gamers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-scouring-youtubes-notable-responses/"><u>[Updated] Scouring YouTube's Notable Responses</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212365734-astro-a40-microphone-not-working-heres-how-you-can-get-it-up-and-running-again/"><u>Astro A40 Microphone Not Working? Here's How You Can Get It Up and Running Again</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dma-engine-stability-after-kernel-update/"><u>DMA Engine Stability After Kernel Update</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-social-media-influencers-secret-creating-captivating-facebook-biographies/"><u>In 2024, Social Media Influencers' Secret Creating Captivating Facebook Biographies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/prime-day-extravaganza-discover-the-37-best-value-tablet-bargains-still-going-insider-picks/"><u>Prime Day Extravaganza: Discover the 37 Best-Value Tablet Bargains Still Going | Insider Picks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-journey-through-generative-ais-evolution/"><u>The Journey Through Generative AI's Evolution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-strategy-integrating-chatgpt-into-your-3d-printing-workflow/"><u>The Ultimate Strategy: Integrating ChatGPT Into Your 3D Printing Workflow</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-unreliability-of-zerogpt-in-ai-authenticity-tests-what-you-should-know/"><u>The Unreliability of ZeroGPT in AI Authenticity Tests: What You Should Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-limitations-of-using-chatgpt-in-analyzing-the-cryptocurrency-market/"><u>Top 5 Limitations of Using ChatGPT in Analyzing the Cryptocurrency Market</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-uses-for-tailored-chatgpt-guidance/"><u>Top 5 Uses for Tailored ChatGPT Guidance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-crafting-dynamic-conversations-with-chatgpt-on-github/"><u>Ultimate Guide to Crafting Dynamic Conversations with ChatGPT on GitHub</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-conversational-agents-deploying-chatgpt-on-ubuntu-using-shell-gpt-techniques/"><u>Unleashing Conversational Agents: Deploying ChatGPT on Ubuntu Using Shell GPT Techniques</u></a></li>
 </ul></div>
 

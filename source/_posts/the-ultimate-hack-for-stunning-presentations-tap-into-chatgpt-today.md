@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Hack for Stunning Presentations: Tap Into ChatGPT Today"
-date: 2025-01-09T05:08:16.568Z
-updated: 2025-01-14T02:39:56.107Z
+date: 2025-01-18T10:28:06.930Z
+updated: 2025-01-19T21:50:49.760Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. No More Waitlist for Bard AI
 
  While this isn't entirely a new feature per se, it's refreshing to know that Google has dropped the waitlist for using Bard and opened the chatbot to all. So, if you've been sneaking onto the Bard website using a VPN, it's time to drop the mask. Bard is now open to over 180 countries and territories.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Dark Theme
 
@@ -44,12 +44,16 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
  We saw a glimpse of what could be possible. A future where Bard AI integrates with Google Maps, Sheets, and a range of exciting services from third-party developers. This has the potential to be genuinely game-changing. Well, that is if Google doesn't under-deliver, of course.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Image Prompting
 
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
@@ -58,19 +62,23 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
  In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Image Generation With Adobe Firefly
 
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
  If you can't[generate images with Midjourney's](https://www.makeuseof.com/how-to-use-midjourney-create-ai-art/) free tier anymore (or more like being force-fed the paid tier), there's hope yet. Bard AI will soon be able to generate images from the Bard AI interface courtesy of Adobe Firefly. If you're unfamiliar with Adobe Firefly, here's a quick[explainer on Adobe Firefly and what you can do with it](https://www.makeuseof.com/what-is-adobe-firefly-generative-ai/) .
 
  Although we aren't exactly sure how deeply integrated Bard AI will be with Abode Firefly, the demo at Google I/O gave a sneak peek at something exciting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Tools for Exporting Generated Content
 
@@ -84,17 +92,9 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
 ![Generating code with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-code-with-bard-ai.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  At launch, Bard AI couldn't write code—an embarrassing pitfall considering coding was one of the big hype surrounding the emergence of AI chatbots. However, Bard AI competitors like[ChatGPT have been helping people code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) since its debut. Google has now significantly ramped up Bard's coding abilities—so much so that a lot of precious presentation time was dedicated to discussing it at its Google I/O 2023 event.
 
  Bard AI can now generate code in several programming languages. It can also explain code snippets, debug code, and sometimes point to the origin of the code to give credit to whoever created the original codebase that was used to answer your question.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Google's AI Endgame Is Gemini
 
@@ -117,21 +117,21 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-top-ranked-video-recorders-face-camera/"><u>[New] Top-Ranked Video Recorders Face Camera</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-tapping-into-digital-humors-potential/"><u>[Updated] In 2024, Tapping Into Digital Humor's Potential</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gifavi/"><u>「無劣化」ビデオ作成: GIFをAVIフォーマットに移行する方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/hd-1080p72p/"><u>高解像度ビデオをHDにダウンサイジング: 1080Pから72pへの変換手順</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capturing-photos-from-moving-frames-on-windows-11-for-2024/"><u>Capturing Photos From Moving Frames on Windows 11 for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/compact-windows-powered-systems-unveiled/"><u>Compact Windows-Powered Systems Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-vidme-video-downloads-discovering-the-best-three-strategies-to-save-your-favorites/"><u>Effortless Vidme Video Downloads: Discovering the Best Three Strategies to Save Your Favorites!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enabling-and-streaming-h264-video-format-through-microsofts-media-player-tips-and-tricks/"><u>Enabling and Streaming H.2#64 Video Format Through Microsoft's Media Player - Tips & Tricks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ensuring-smooth-streaming-on-kindle-fire-a-guide-to-video-format-supports-and-efficient-conversion-techniques/"><u>Ensuring Smooth Streaming on Kindle Fire: A Guide to Video Format Supports and Efficient Conversion Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-tips-for-assembling-moving-image-mosaics-in-microsoft-windows/"><u>Expert Tips for Assembling Moving Image Mosaics in Microsoft Windows</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-unmountable-boot-volume-bsod-on-windows-10-step-by-step-solutions/"><u>Fixing 'Unmountable Boot Volume' BSOD on Windows 10 - Step by Step Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-video-sticker-editing-adding-emojis-and-graphics-to-your-clips-on-any-device/"><u>Free Video Sticker Editing: Adding Emojis and Graphics to Your Clips on Any Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-address-the-issue-of-disappearing-steam-file-permissions-successfully/"><u>How To Address the Issue of Disappearing Steam File Permissions Successfully</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-m34-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy M34</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-master-your-media-on-vimeo-with-top-ranked-editors/"><u>In 2024, Master Your Media on Vimeo with Top-Ranked Editors</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/voice-recording-mastery-with-ipad-tools-for-2024/"><u>Voice Recording Mastery with iPad Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-channel-identity-made-simple-with-these-top-11-zero-cost-tools-for-2024/"><u>[New] Channel Identity Made Simple with These Top 11 Zero-Cost Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-ideas-for-customized-gif-art/"><u>[New] Innovative Ideas for Customized GIF Art</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-mastering-subtitle-creation-an-in-depth-srt-guide-with-strategies/"><u>[Updated] 2024 Approved Mastering Subtitle Creation An In-Depth SRT Guide with Strategies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-edits-10-essential-apps-for-instagram-videos/"><u>[Updated] Elevate Your Edits 10 Essential Apps for Instagram Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-ultimate-guide-to-fb-timing-and-free-tools/"><u>[Updated] In 2024, The Ultimate Guide to FB Timing & Free Tools</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-note-30-vip-racing-edition-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Infinix Note 30 VIP Racing Edition to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-freezing-fun-at-the-beijing-olympics-2022/"><u>In 2024, Freezing Fun at the Beijing Olympics 2022</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-new-normal-artificial-intelligence-transforming-developer-task-management/"><u>Navigating the New Normal: Artificial Intelligence Transforming Developer Task Management</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-take-your-editing-to-the-next-level-5-expert-final-cut-pro-tips/"><u>New Take Your Editing to the Next Level 5 Expert Final Cut Pro Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimize-your-diet-a-step-by-step-guide-to-planning-balanced-meals-via-chatgpt/"><u>Optimize Your Diet: A Step-by-Step Guide to Planning Balanced Meals via ChatGPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/perfect-picks-for-kid-gamers-selecting-consoles-and-essential-add-ons/"><u>Perfect Picks for Kid Gamers: Selecting Consoles and Essential Add-Ons</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-routine-hr-responsibilities-discover-5-smart-prompt-strategies/"><u>Revolutionize Routine HR Responsibilities: Discover 5 Smart Prompt Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-mobile-internet-experience-with-bings-cutting-edge-ai-search-android-and-ios-compatible/"><u>Revolutionize Your Mobile Internet Experience with Bing's Cutting-Edge AI Search – Android & iOS Compatible</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-novels-characters-using-these-11-powerful-ai-prompt-techniques/"><u>Revolutionize Your Novel's Characters Using These 11 Powerful AI Prompt Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguard-digital-assets-block-ai-bots/"><u>Safeguard Digital Assets: Block AI Bots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/six-budget-friendly-artificial-intelligence-options/"><u>Six Budget-Friendly Artificial Intelligence Options</u></a></li>
 </ul></div>
 

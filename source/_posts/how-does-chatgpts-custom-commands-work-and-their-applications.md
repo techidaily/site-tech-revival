@@ -1,7 +1,7 @@
 ---
 title: How Does ChatGPT's Custom Commands Work & Their Applications
-date: 2025-01-08T22:55:12.525Z
-updated: 2025-01-13T16:31:12.184Z
+date: 2025-01-15T03:51:14.557Z
+updated: 2025-01-19T23:20:27.530Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Be as Specific as Possible](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#be-as-specific-as-possible)
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
  But it's not always easy. How specific should you be? What information should you include? And how do you request your data in a useful format?
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1 Be as Specific as Possible
 
@@ -66,10 +66,14 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
@@ -93,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
@@ -105,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
@@ -126,10 +130,6 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
 <ins class="adsbygoogle"
@@ -147,17 +147,24 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-advanced-webcam-and-chat-software-rankings/"><u>[Updated] In 2024, Advanced Webcam & Chat Software Rankings</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-premier-10-video-grabbers-for-streaming-content-creators/"><u>[Updated] In 2024, Premier 10 Video Grabbers for Streaming Content Creators</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-4-main-methods-of-ai-regulation-by-authorities-worldwide/"><u>Exploring the 4 Main Methods of AI Regulation by Authorities Worldwide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-foundations-to-frontiers-the-progress-of-openais-gpt-models-explained-gpt-1-to-gpt-4/"><u>From Foundations to Frontiers: The Progress of OpenAI's GPT Models Explained (GPT-1 to GPT-4)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-realme-11x-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Realme 11X 5G?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your Apple iPhone 15 Plus?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-nlp-titans-understanding-the-gpt-bert-chasm/"><u>Navigating NLP Titans: Understanding the GPT-BERT Chasm</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/ps4-screenshot-sharing-for-beginners-a-quick-start-guide-for-2024/"><u>PS4 Screenshot Sharing for Beginners A Quick Start Guide for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/self-awareness-and-social-cognition-via-gpt/"><u>Self-Awareness and Social Cognition via GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-how-to-access-the-cutting-edge-beta-features-of-chatgpt-for-improved-web-experience-and-plugins-integration/"><u>Step by Step: How to Access the Cutting-Edge Beta Features of ChatGPT for Improved Web Experience & Plugins Integration</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/the-decline-of-an-ancient-power-exploring-the-catalysts-for-the-end-of-qin-dynasty-with-yl-tech-solutions/"><u>The Decline of an Ancient Power: Exploring the Catalysts for the End of Qin Dynasty with YL Tech Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-tempting-upgrade-how-apples-new-17-usb-c-earpods-became-a-must-have-for-this-techie-during-amazon-prime-day-insights-from-zdnet/"><u>The Tempting Upgrade: How Apple's New $17 USB-C EarPods Became a Must-Have for This Techie During Amazon Prime Day - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-eliminating-suggested-podcast-selections-on-spotify/"><u>[New] Eliminating Suggested Podcast Selections on Spotify</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-essential-skills-delivering-stellar-presentations-on-gmeet-anywhere/"><u>[Updated] In 2024, Essential Skills Delivering Stellar Presentations on GMeet, Anywhere</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-2023-guide-to-top-value-streaming-tools-for-all-platform-users/"><u>[Updated] In 2024, The 2023 Guide to Top Value Streaming Tools for All Platform Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-step-by-step-obs-integration-for-youtube-and-twitch-viewers-for-2024/"><u>[Updated] Step-by-Step OBS Integration for YouTube & Twitch Viewers for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/does-chatgpt-impose-text-limits-for-users/"><u>Does ChatGPT Impose Text Limits for Users?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/engage-now-8-unique-gpts-at-your-fingertips/"><u>Engage Now: 8 Unique GPTs at Your Fingertips</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-media-player-tutorial-mastering-the-art-of-streaming-on-youtube-music/"><u>Free Media Player Tutorial: Mastering the Art of Streaming on YouTube Music</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-cameras-for-sports-capturing-edge/"><u>In 2024, Best Cameras for Sports Capturing Edge</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Fixing Foneazy MockGo Not Working On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-infinix-hot-30i-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Infinix Hot 30i Without PUK Codes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-strategies-integrating-chatgpt-into-3d-printing-projects/"><u>Innovative Strategies: Integrating ChatGPT Into 3D Printing Projects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-gpt-3-a-step-by-step-guide-in-openais-sandbox/"><u>Mastering the Art of GPT-3: A Step-by-Step Guide in OpenAI's Sandbox</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/microsoft-and-ai-merge-for-next-gen-bing-searches/"><u>Microsoft and AI Merge for Next-Gen Bing Searches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-7-key-arguments-against-adopting-generative-ai-in-chatbot-systems/"><u>Understanding the 7 Key Arguments Against Adopting Generative AI in Chatbot Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-bings-intelligent-search-on-your-ios-and-android-devices/"><u>Unlock Bing's Intelligent Search on Your iOS and Android Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-machine-potential-understanding-ai-transfer-learning/"><u>Unlocking Machine Potential: Understanding AI Transfer Learning</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-modern-sound-engineers-guide-ranking-the-best-ios-daws-for-ipad-and-iphone/"><u>Updated The Modern Sound Engineers Guide Ranking the Best iOS DAWs for iPad and iPhone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/utilizing-chatgpt-for-optimal-tv-show-and-movie-selections/"><u>Utilizing ChatGPT for Optimal TV Show and Movie Selections</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-powers-openais-clarity-shap-e-insights/"><u>What Powers OpenAI's Clarity: SHAP E Insights</u></a></li>
 </ul></div>
 

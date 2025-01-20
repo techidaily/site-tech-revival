@@ -1,7 +1,7 @@
 ---
 title: What Does the Co-Pilot Extension Do for ChatGPT?
-date: 2025-01-13T12:31:05.571Z
-updated: 2025-01-13T19:40:44.875Z
+date: 2025-01-16T20:05:10.769Z
+updated: 2025-01-20T06:07:14.216Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Prompt Perfect
 
  The responses you get from the ChatGPT are only as good as the prompts you provide. But prompting can be tricky--it's a game of hits and misses. Prompt Perfect is a ChatGPT plugin that helps you[craft well-structured and effective prompts that will get you the results you want](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) .
@@ -38,6 +34,14 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
 
 ![ChatGPT Prompt perfect plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-perfect-plugin-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Link Reader
 
  Another useful ChatGPT plugin is the aptly named Link Reader plugin. Although its primary function is reading the content of the links you provide, when paired with other ChatGPT plugins, there's a lot you can do with it. From summarizing the content of web pages to fact-checking news, the possibilities are endless.
@@ -45,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
  In the example below, we paired the Link Reader plugin with ChatGPT's inbuilt browsing feature to fact-check a news article.
 
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. InstaCart
 
@@ -60,17 +60,21 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
 
 ![InstaCart and ChatGPT in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/instacart-and-chatgpt-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When we replied "yes," InstaCart generated a link to a shopping list of the remaining ingredient we'll need to cook Jollof rice.
 
 ![Jollof Rice shopping list by InstaCart ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/jollof-rice-shopping-list-by-instacart-chatgpt-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
 
 ![InstarCart Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/instarcart-plugin-in-action.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Wolfram
 
@@ -88,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
 
  Wolfram was able to run the generated information against its database to check for accuracy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. ChatWithPDF
 
  The ChatWithPDF plugin does exactly what the name suggests. With this handy tool, you can effortlessly[use ChatGPT to extract information from any PDF file](https://www.makeuseof.com/chatgpt-read-pdf-ways/) by simply providing a link to it. No additional steps are required—just share the PDF link in your prompt and begin asking your questions.
@@ -103,6 +103,10 @@ Does GPT-4 have visual input abilities? Use the PDF at the URL "<https://cdn.ope
  We provided a link to OpenAI's GPT-4 technical report and asked it about the model's visual input abilities. Here's what it had to say:
 
 ![GPT-4 visual input abilities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/gpt-4-visual-input-abilities.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Turns out another important use case is making sense of technical documents like this.
 
@@ -119,7 +123,7 @@ What's the YouTube video at this URL (<https://www.youtube.com/watch?v=OFvXuyITw
 Yes, it was a spot-on description of the video if you're wondering.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. SceneXplain
@@ -129,6 +133,10 @@ Yes, it was a spot-on description of the video if you're wondering.
  We drew an image of a web page layout and asked ChatGPT to create an HTML and CSS code that replicates the layout by invoking SceneXplain. The results weren't too far off the mark.
 
 ![SceneXplain plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/scenexplain-plugin-in-action.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To use the plugin, use a prompt like:
 
@@ -142,19 +150,11 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
 ![There is an AI for that ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/there-is-an-ai-for-that-chatgpt-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. What to Watch
 
  If you are a fan of movies and TV shows, then the "What to Watch" plugin is one worth installing. Describe the kind of movies or TV shows you want, and it will bring up plausible suggestions. Unfortunately, one major setback is that it isn't hooked up to an updated movie database. When we prompted it for new movies, it failed to turn up any movie released after 2021.
 
  If your prompting skills aren't particularly strong, you'll find it useful. However, if you know your way around ChatGPT prompts, you might be better off using your own ChatGPT prompts, in which case we recommend checking out our comprehensive[guide on using ChatGPT to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Embrace ChatGPT Plugins
 
@@ -175,21 +175,18 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-vivacut-review-unpacking-the-latest-editing-advancements/"><u>[Updated] In 2024, VivaCut Review Unpacking the Latest Editing Advancements</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-ultimate-free-timers-for-daily-use/"><u>[Updated] Ultimate Free Timers for Daily Use</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/activate-double-protection-icloud-mail-and-two-step-authenticator/"><u>Activate Double Protection: ICloud Mail and Two-Step Authenticator</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-practices-for-effective-chatgpt-interactions-from-github/"><u>Best Practices for Effective ChatGPT Interactions From Github</u></a></li>
-<li><a href="https://facebook.techidaily.com/demystifying-profile-naming-and-username-systems/"><u>Demystifying Profile Naming and Username Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-leading-open-source-ai-programs-for-image-generation/"><u>Discover the Leading Open-Source AI Programs for Image Generation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/re-establishing-missed-dialogues-with-ai/"><u>Re-Establishing Missed Dialogues with AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secrecy-at-stake-evaluating-chatgpts-ability-to-keep-your-information-private/"><u>Secrecy at Stake: Evaluating ChatGPT's Ability to Keep Your Information Private</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-and-running-chatgpt-on-your-windows-machine/"><u>Step-by-Step Guide: Setting Up & Running ChatGPT on Your Windows Machine</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-gaining-complete-control-over-your-steam-installation/"><u>The Ultimate Guide to Gaining Complete Control Over Your Steam Installation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-resolve-dxgierror-device-latency-issue-in-win11/"><u>Tips to Resolve DXGI_ERROR: Device Latency Issue in Win11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-creative-potential-with-ai-microsoft-and-blizzard-merger-discussed-on-our-tech-and-innovation-podcast/"><u>Unlocking Creative Potential with AI: Microsoft and Blizzard Merger Discussed on Our Tech & Innovation Podcast</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unveiling-the-excellence-of-microsoft-surface-laptop-4-review/"><u>Unveiling the Excellence of Microsoft Surface Laptop 4 Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-true-cost-benefit-ratio-in-high-grade-ai-inputs/"><u>Unveiling the True Cost-Benefit Ratio in High-Grade AI Inputs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-a-step-by-step-tutorial-on-screencastify-use/"><u>[Updated] In 2024, A Step-by-Step Tutorial on Screencastify Use</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-camera-balance-gimbals-for-drones-explained/"><u>2024 Approved Mastering Camera Balance Gimbals for Drones Explained</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1728477163740-ssd/"><u>成功しないSSDクローニングプロセスにおけるコモディティ</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-manycam-features-professional-live-streaming-and-virtual-webcams/"><u>Best ManyCam Features: Professional Live Streaming and Virtual Webcams</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cambiar-formatos-de-imagen-animadas-gif-a-video-3gp-online-de-forma-gratuita-con-herramientas-como-movavi/"><u>Cambiar Formatos De Imagen Animadas (GIF) a Video 3GP Online De Forma Gratuita Con Herramientas Como Movavi</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/circumventing-video-send-blockages-in-facebook-chat-apps-for-2024/"><u>Circumventing Video Send Blockages in Facebook Chat Apps for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-monoprice-graphic-tablet-exceptional-value-on-a-low-budget/"><u>Comprehensive Review of the Monoprice Graphic Tablet: Exceptional Value on a Low Budget</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-videos-from-mov-to-mp4-for-free-quick-and-simple-online-tool-by-movavi/"><u>Convert Videos From MOV to MP4 for Free - Quick and Simple Online Tool by Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-converter-swf-and-mp4-formats-by-movavi/"><u>Free Online Converter: SWF and MP4 Formats by Movavi</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inspirational-article-leaderboard-maker-for-2024/"><u>Inspirational Article Leaderboard Maker for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/registrazione-gratuitamente-trasforma-i-tuoi-file-mp3-in-audiolibri-m4b-con-movavi/"><u>Registrazione Gratuitamente: Trasforma I Tuoi File MP3 in Audiolibri M4B Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/slidegenius-pro-seamless-slideshow-creation-with-advanced-features/"><u>SlideGenius Pro: Seamless Slideshow Creation with Advanced Features</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-art-of-audio-design-in-magix-vst-2023/"><u>The Art of Audio Design in Magix VST 2023</u></a></li>
 </ul></div>
 

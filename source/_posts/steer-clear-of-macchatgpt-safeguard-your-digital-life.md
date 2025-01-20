@@ -1,7 +1,7 @@
 ---
 title: "Steer Clear of MacChatGPT: Safeguard Your Digital Life"
-date: 2025-01-13T06:29:28.694Z
-updated: 2025-01-14T12:13:29.331Z
+date: 2025-01-18T17:46:46.364Z
+updated: 2025-01-20T14:21:02.708Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Scammers are using Google's generative AI tool, Bard, to infect users with malware and steal login credentials.
@@ -35,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
  Although Google has filed a lawsuit to tackle the malware, the scammers are still up and running, and that's why you should avoid downloading anything like a "Google Bard app." It's malware waiting to infect your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Google Bard?
@@ -45,12 +41,16 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
 ![A screenshot of the Google Bard chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/google-bard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are many[ways to use Google Bard](https://www.makeuseof.com/how-to-use-google-bard/) . You can enter a prompt asking Google Bard to explain how something works, give you ideas for a project, and even write code for you.
 
  The key issue is that Google Bard is only available in browsers and requires a Google account. So, don't be tempted to install an app advertised as Google Bard, as it's malware that Google is taking legal action to take down.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why You Shouldn't Download the Google Bard App
 
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
 ![An image of AIGoogleBard's Facebook page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/aigooglebard-facebook-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf)
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
  Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stick With Google Bard on Your Browser
@@ -99,19 +99,17 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-winning-titles-and-tags-for-your-youtube-videos/"><u>[New] In 2024, Crafting Winning Titles & Tags for Your YouTube Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-leading-titles-the-top-5-android-apps-for-ps2-games/"><u>[New] Leading Titles The Top 5 Android Apps for PS2 Games</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-premium-7-video-gear-ideas-for-captivating-vloggers/"><u>[Updated] Premium 7 Video Gear Ideas for Captivating Vloggers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-latest-toshiba-bluetooth-chip-driver-now/"><u>Download the Latest Toshiba Bluetooth Chip Driver Now!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-methods-for-converting-mpg-to-mp3-files-using-your-computer/"><u>Easy Methods for Converting MPG to MP3 Files Using Your Computer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/efficient-methods-for-transforming-mp2-files-into-mp3-format/"><u>Efficient Methods for Transforming MP2 Files Into MP3 Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-techniques-for-dividing-videos-into-one-minute-chunks/"><u>Effortless Techniques for Dividing Videos Into One-Minute Chunks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-ultimate-list-of-leading-in-pc-microphones-for-windows-macos-and-iphone-users/"><u>Explore the Ultimate List of Leading In-PC Microphones for Windows, macOS, and iPhone Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fast-and-high-quality-wonderfox-dvd-to-mp4-video-converter/"><u>Fast & High-Quality WonderFox DVD to MP4 Video Converter</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Honor X7b? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-the-quintessential-thumbnails-for-live-video-success/"><u>In 2024, Crafting the Quintessential Thumbnails for Live Video Success</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/subscribe-bonanza-thousands-acquired-for-just-5-for-2024/"><u>Subscribe Bonanza Thousands Acquired for Just $5 for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-operating-point-of-a-centrifugal-pump-within-a-system-is-where-the-pump-performance-curve-intersects-with-the-system-curve-dictating-actual-flow-rate-an242/"><u>The Operating Point of a Centrifugal Pump Within a System Is Where the Pump Performance Curve Intersects with the System Curve, Dictating Actual Flow Rate and Head.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-age-old-artwork-free-from-modern-constraints/"><u>[New] Age-Old Artwork Free From Modern Constraints</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-perfectly-preserved-your-ultimate-guide-to-saving-tweet-animations-for-2024/"><u>[New] Perfectly Preserved Your Ultimate Guide to Saving Tweet Animations for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ideal-hues-the-ultimate-guide-to-color-enhancement-11-steps/"><u>2024 Approved Ideal Hues The Ultimate Guide to Color Enhancement (11 Steps)</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/openais-shap-e-unveiled-a-comprehensive-overview-of-its-role-in-explainable-ai/"><u>OpenAI's SHAP-E Unveiled: A Comprehensive Overview of Its Role in Explainable AI</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premium-mkv-encoder-software-achieve-high-quality-conversions-of-your-videos-to-mkv/"><u>Premium MKV Encoder Software: Achieve High-Quality Conversions of Your Videos to MKV</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/prime-networks-for-collaborative-prompt-creation/"><u>Prime Networks for Collaborative Prompt Creation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/professional-steinberg-drivers-bundle/"><u>Professional Steinberg Drivers Bundle</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reality-assurance-no-gpt-windows-isnt-harmful-app/"><u>Reality Assurance: No, GPT-Windows Isn't Harmful App</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-your-graphics-driver-modern-ddu-approach/"><u>Revamp Your Graphics Driver - Modern DDU Approach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safekeeping-for-chatgpt-dialogues/"><u>Safekeeping for ChatGPT Dialogues</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-editing-plain-text-files-txt-on-windows-os-tips-from-yl-computing/"><u>Step-by-Step Guide: Editing Plain Text Files (.TXT) on Windows OS - Tips From YL Computing</u></a></li>
 </ul></div>
 

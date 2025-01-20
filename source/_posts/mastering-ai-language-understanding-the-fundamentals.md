@@ -1,7 +1,7 @@
 ---
 title: "Mastering AI Language: Understanding the Fundamentals"
-date: 2025-01-07T06:26:00.095Z
-updated: 2025-01-14T05:36:11.761Z
+date: 2025-01-18T11:49:19.993Z
+updated: 2025-01-20T00:11:55.683Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 * [Should You Upgrade to Copilot Pro?](https://www.makeuseof.com/copilot-vs-copilot-pro/#should-you-upgrade-to-copilot-pro)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
  And you'll be very pleased to hear that isn't changing any time soon—but Microsoft is rolling out Copilot Pro, a new subscription model for its free AI companion, featuring new capabilities, custom GPT support, and deeper integration into its Microsoft 365 suite.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Copilot Pro?
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
  All in all, Microsoft wants Copilot Pro to be "a single AI experience that runs across your devices," providing a unified AI tool that's familiar with every bit of software you use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Much Does Copilot Pro Cost?
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
  Given the deeper integration of Copilot Pro into Microsoft's ecosystem, the $20 subscription could make Pro a valuable tool versus other tools that are useful in terms of AI but lack specific integrations with regularly used software, especially in business and productivity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Upgrade to Copilot Pro?
@@ -106,24 +106,16 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-fast-tracking-fb-content-efficiency-strategies-explored/"><u>[Updated] Fast-Tracking FB Content Efficiency Strategies Explored</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-vlog-verily-tips-and-taboos-in-the-daily-digital-sphere/"><u>[Updated] Vlog Verily Tips and Taboos in the Daily Digital Sphere</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/44cm44kv44oq44od44ox44k544k44k444kq44o744oa44kk44oz44oi44gn5asx44kp44km44gf44oh44o844k44ks5zue5b6p44gz44kl5oml6acg44cn/"><u>「クリップスタジオ・ペイントで失われたデータを回復する手順」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp3-adts/"><u>高音質MP3への変換: ADTSファイルをうまく保ちながら効率良く変更する方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gif9gif/"><u>GIF分析ツールトップ9品評！効果的にGIFを分解するテクニック</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-to-seamlessly-installing-kodi-version-189-onto-your-fire-tv-stick-in-depth-instructions-for-a-smooth-experience/"><u>Guide to Seamlessly Installing Kodi Version 18.9 Onto Your Fire TV Stick – In-Depth Instructions for a Smooth Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/hassle-free-guide-transforming-dvd-content-into-mov-format/"><u>Hassle-Free Guide: Transforming DVD Content Into MOV Format</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-unsupported-input-challenges-with-your-monitor-solutions-and-support/"><u>How to Overcome Unsupported Input Challenges with Your Monitor – Solutions and Support</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-transform-your-avi-videos-into-high-quality-mp3-audio-with-these-top-techniques/"><u>How to Transform Your AVI Videos Into High-Quality MP3 Audio with These Top Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ipadiphoneavi/"><u>IPad・iPhone上でAVI動画をスムーズに再生する詳しいガイド</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/market-victory-through-unwrapped-strategy-for-2024/"><u>Market Victory Through Unwrapped Strategy for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-dvd-modification-a-beginners-tutorial-for-windows-users/"><u>Master DVD Modification: A Beginner's Tutorial for Windows Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-puhutv-downloads-a-step-by-step-tutorial-for-tv-series-and-movies-acquisition/"><u>Mastering Puhutv Downloads: A Step-by-Step Tutorial for TV Series & Movies Acquisition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp3-dat2/"><u>MP3への変換: DATファイルから始める効果的な2通り</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-add-emojis-to-videos-on-youtubefacebooksnapchat-step-by-step-guide/"><u>New Add Emojis to Videos on YouTube/Facebook/Snapchat Step by Step Guide</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-videopad-review-is-it-the-best-video-editing-software-for-you-in-2024/"><u>New Videopad Review Is It the Best Video Editing Software for You , In 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-personalizing-your-microsoft-start-menu-in-windows-11-tips-from-yl-computing/"><u>Step-by-Step Guide: Personalizing Your Microsoft Start Menu in Windows 11 - Tips From YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-benefits-of-switching-to-iphone-15-youre-not-experienncing-yet-zdnet-uncovered/"><u>The Benefits of Switching to iPhone 15 You're Not Experienncing Yet | ZDNet Uncovered</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/troubleshooting-common-issues-importing-videos-in-premiere-pros-compatible-formats/"><u>Troubleshooting Common Issues: Importing Videos in Premiere Pro's Compatible Formats</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-front-row-diversions-beyond-sports-galore/"><u>[New] Front Row Diversions Beyond Sports Galore</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-mirrored-moments-the-essence-of-flipping-videos/"><u>[Updated] In 2024, Mirrored Moments The Essence of Flipping Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-samsung-galaxy-m54-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Samsung Galaxy M54 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-exploration-of-apple-ai-developments-announced-at-wwdc-2024/"><u>Comprehensive Exploration of Apple AI Developments Announced at WWDC 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/control-issues-with-chatgpt-is-openai-at-risk-of-losing-the-helm/"><u>Control Issues with ChatGPT – Is OpenAI at Risk of Losing the Helm?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dall-e-3-introduces-new-editing-features-are-they-ready/"><u>DALL-E 3 Introduces New Editing Features - Are They Ready?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-digital-defenses-foreseeing-7-security-trajectories/"><u>Decoding Digital Defenses: Foreseeing 7 Security Trajectories</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easing-your-mind-effective-ways-to-manage-stress-through-chatgpt-sessions/"><u>Easing Your Mind: Effective Ways to Manage Stress Through ChatGPT Sessions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-fix-this-video-file-cannot-be-played-error/"><u>How to Fix This Video File Cannot Be Played Error?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-transforming-shipping-surprises-into-experiences/"><u>In 2024, Transforming Shipping Surprises Into Experiences</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your OnePlus Ace 2V | Dr.fone</u></a></li>
 </ul></div>
 

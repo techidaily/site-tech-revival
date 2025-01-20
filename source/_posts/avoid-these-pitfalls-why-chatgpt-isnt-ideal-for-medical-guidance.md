@@ -1,7 +1,7 @@
 ---
 title: "Avoid These Pitfalls: Why ChatGPT Isn't Ideal for Medical Guidance"
-date: 2024-12-28T01:24:49.973Z
-updated: 2024-12-29T04:52:28.537Z
+date: 2025-01-13T12:10:24.780Z
+updated: 2025-01-20T10:10:48.448Z
 tags:
   - chatgpt
   - open-ai
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A Fake ChatGPT Extension Is Targeting Facebook Users
@@ -41,7 +41,7 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably[sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Thousands of Facebook Accounts May Have Been Compromised
@@ -51,7 +51,7 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Malicious App Has Been Removed from Chrome
@@ -59,7 +59,7 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT's Name Is Consistently Used by Scammers
@@ -81,14 +81,24 @@ Guardio took to Twitter to warn readers of the malicious campaign.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/eciding-on-the-best-videography-camera-type-dslr-or-mirrorless/"><u>[New] Deciding on the Best Videography Camera Type DSLR or Mirrorless?</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-navigating-through-hands-free-technological-advances/"><u>[New] Navigating Through Hands-Free Technological Advances</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/authenticity-at-risk-recognizing-ai-influence-on-writing/"><u>Authenticity at Risk: Recognizing AI Influence on Writing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30i-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Note 30i Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-pc-repair-a-step-by-step-guide-using-chatgpt/"><u>Mastering PC Repair: A Step-by-Step Guide Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-writing-convincing-proposals-using-chatgpt/"><u>Mastering the Art of Writing Convincing Proposals Using ChatGPT</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-nokia-c12-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Nokia C12 Pro and Browser | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-aspiring-prompt-engineers-roadmap-beginning-your-professional-path/"><u>The Aspiring Prompt Engineer's Roadmap: Beginning Your Professional Path</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/ultimate-iphone-video-transformation-tool-factory-pro-edition/"><u>Ultimate iPhone Video Transformation Tool: Factory Pro Edition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-snorkel-ready-tech-the-finest-waterproof-camcorders-of-the-year/"><u>[New] Snorkel-Ready Tech The Finest Waterproof Camcorders of the Year</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-recording-winning-calls-a-complete-guide-free-vs-paid-for-windows-and-mac-users/"><u>[Updated] 2024 Approved Recording Winning Calls A Complete Guide (Free vs Paid) for Windows & Mac Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-canons-spectral-conversion-paid-and-gratis-lut-tools/"><u>[Updated] In 2024, Canon's Spectral Conversion Paid & Gratis LUT Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-leading-edge-free-players-for-pc-and-mac-os/"><u>[Updated] In 2024, Leading Edge Free Players for PC & Mac OS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-the-secrets-to-supervised-simultaneous-streams/"><u>[Updated] Unveiling the Secrets to Supervised Simultaneous Streams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-time-saving-tips-regaining-archived-reddit-posts/"><u>2024 Approved Time-Saving Tips Regaining Archived Reddit Posts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-intel-z270-msi-mpg-b450-gaming-mate-k6-jd39-a-lga1151-motherboard-free/"><u>Get Your Intel Z270 MSI MPG B450 Gaming Mate K6 JD39-A LGA1151 Motherboard FREE!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-multimedia-how-to-teach-chatgpt-to-interpret-pdf-documents/"><u>Mastering Multimedia: How to Teach ChatGPT to Interpret PDF Documents</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/microsoft-enhances-bing-with-advanced-ai-features-discover-the-future-of-search/"><u>Microsoft Enhances Bing with Advanced AI Features - Discover the Future of Search</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mistral-ais-le-chat-face-off-with-chatgpt-insights-from-a-real-user-test/"><u>Mistral AI’s Le Chat Face-Off with ChatGPT – Insights From a Real User Test</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-digital-landscape-a-guide-to-identifying-recent-twitter-scams-understanding-metas-new-verification-system-and-exploring-the-capabilities-of-c1/"><u>Navigating the Digital Landscape: A Guide to Identifying Recent Twitter Scams, Understanding Meta's New Verification System & Exploring the Capabilities of ChatGPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-pitfalls-why-you-might-want-to-skip-chatgpt-in-the-mac-app-store/"><u>Navigating the Pitfalls: Why You Might Want to Skip ChatGPT in the Mac App Store</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-best-free-mpeg-video-splitters-a-comprehensive-guide-for-2024/"><u>New The Best Free MPEG Video Splitters A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pilot-prowess-explained-from-basic-to-advanced-flight/"><u>Pilot Prowess Explained: From Basic to Advanced Flight</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revealing-the-ratio-why-does-chatgpt-4-run-roughly/"><u>Revealing the Ratio: Why Does ChatGPT-4 Run Roughly?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-team-sessions-with-chatgpt-integration/"><u>Revolutionizing Team Sessions with ChatGPT Integration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sensing-souls-in-silicon-is-ais-grasp-on-emotion-complete/"><u>Sensing Souls in Silicon: Is AI's Grasp on Emotion Complete?</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/soluzioni-per-il-problema-del-negozio-microsoft-non-funzionante-su-windows-11/"><u>Soluzioni per Il Problema Del Negozio Microsoft Non Funzionante Su Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-vivo-v30-pro-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Vivo V30 Pro Phone Hassle-Free</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Mechanics of AI Black Boxes Explained for Better Insight and Transparency
-date: 2025-01-11T19:11:35.260Z
-updated: 2025-01-13T18:28:40.733Z
+date: 2025-01-18T17:35:46.177Z
+updated: 2025-01-19T22:49:32.962Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -63,20 +63,24 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unmatched-quality-and-reliability-our-5-best-recorder-selections/"><u>[Updated] In 2024, Unmatched Quality and Reliability - Our 5 Best Recorder Selections</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-top-heavy-lift-uavs-for-global-industrial-use-for-2024/"><u>[Updated] Top Heavy-Lift UAVs for Global Industrial Use for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024windows-and-macand5/"><u>2024年のビデオダウンロードを容易に！Windows & Mac対応、無料ソフト&アプリベスト5!</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/leading-windows-apps-top-video-editing-picks/"><u>Leading Windows Apps Top Video Editing Picks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pazeras-audio-extraction-mastery-in-the-2024-landscape/"><u>Pazera's Audio Extraction Mastery in the 2024 Landscape</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/real-time-webcam-and-screen-melding-tips-for-2024/"><u>Real-Time Webcam & Screen Melding Tips for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-python24dll-file-not-found-a-comprehensive-guide/"><u>Resolving 'Python24.dll' File Not Found: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamlessly-delete-photos-from-icloud-while-retaining-iphone-versions/"><u>Seamlessly Delete Photos From iCloud While Retaining iPhone Versions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-streaming-sky-sports-on-kodi-complete-tutorial-with-images/"><u>Step-by-Step Guide to Streaming Sky Sports on Kodi - Complete Tutorial with Images</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-mpeg-videos-to-mp4-format-across-different-systems-latest-techniques/"><u>Step-by-Step Guide: Converting MPEG Videos to MP4 Format Across Different Systems – Latest Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-integrating-sound-into-your-adobe-after-effects-project/"><u>Step-by-Step Guide: Integrating Sound Into Your Adobe After Effects Project</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-the-cyanfluence-addon-for-kodi-version-19-matrix/"><u>Step-by-Step Guide: Setting Up the Cyanfluence Addon for Kodi Version 19 Matrix</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-the-iconic-19-core-addon-in-kodi-version-19-matrix/"><u>Step-by-Step Guide: Setting Up the Iconic 19 Core Addon in Kodi Version 19 Matrix</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-accessing-high-quality-flac-music-on-ios-platforms/"><u>Step-by-Step Tutorial: Accessing High-Quality FLAC Music on iOS Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-essential-tools-for-creating-professional-youtube-videos-desktop-and-online-solutions/"><u>Top 7 Essential Tools for Creating Professional YouTube Videos: Desktop and Online Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-immersion-redefined-vrs-cinematic-promise/"><u>[New] In 2024, Immersion Redefined VR's Cinematic Promise</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-end-video-resizer-unparalleled-definition/"><u>[Updated] High-End Video Resizer Unparalleled Definition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-meditative-tunes-compilation-top-10-legal-streams/"><u>[Updated] Meditative Tunes Compilation - Top 10 Legal Streams</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-test-of-creativity-amongst-3-leading-chatbots-who-excelled/"><u>A Test of Creativity Amongst 3 Leading Chatbots - Who Excelled?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advancing-crypto-discussions-via-gpt-innovations/"><u>Advancing Crypto Discussions via GPT Innovations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-communicators-from-idea-to-interaction-using-gpt/"><u>AI Communicators: From Idea to Interaction - Using GPT</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/aprenda-as-etapas-para-transformar-seus-videos-do-youtube-em-arquivos-mp3-com-facilidade-e-precisao/"><u>Aprenda as Etapas Para Transformar Seus Vídeos Do Youtube Em Arquivos Mp3 Com Facilidade E Precisão.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/balancing-ai-realism-six-key-cues-for-authentic-respitsonses/"><u>Balancing AI Realism: Six Key Cues for Authentic Respitsonses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/behind-chatgpt-revolutionizing-creativity-through-ai/"><u>Behind ChatGPT: Revolutionizing Creativity Through AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722169736514-chatgpt-conversations-not-storing-heres-how-you-can-fix-it/"><u>ChatGPT Conversations Not Storing? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722189837875-discover-the-new-ai-revolution-chatgpt-now-available-on-iphones/"><u>Discover the New AI Revolution: ChatGPT Now Available on iPhones!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-the-years-finest-tech-marvels-leading-gizmos-and-tools-of-2e23-spotlighted-by-zdnet/"><u>Explore the Year's Finest Tech Marvels: Leading Gizmos and Tools of 2E23 Spotlighted by ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722046806470-is-using-chatgpt-compromising-your-online-privacy-a-deep-dive-analysis/"><u>Is Using ChatGPT Compromising Your Online Privacy? A Deep Dive Analysis.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722208971214-ransomware-crackdown-unlock-your-phone-for-just-50-plus-chatgpts-role-in-crafting-our-podcast-stories/"><u>Ransomware Crackdown: Unlock Your Phone for Just $50 + ChatGPT's Role in Crafting Our Podcast Stories</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/utionizing-video-views-conquering-youtube-millions/"><u>Revolutionizing Video Views, Conquering YouTube Millions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96490194-9781595808943-the-99th-monkey/"><u>The 99th Monkey | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-dealing-with-mss32dll-error-missing-or-not-detected/"><u>Troubleshooting Steps: Dealing with mss32.dll Error - Missing or Not Detected</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-how-to-merge-video-and-audio/"><u>Updated How to Merge Video and Audio</u></a></li>
 </ul></div>
 

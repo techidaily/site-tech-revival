@@ -1,7 +1,7 @@
 ---
 title: "Exploring Predictive AI: Its Method and Mechanics Unfolded"
-date: 2025-01-08T12:57:53.038Z
-updated: 2025-01-13T21:19:41.234Z
+date: 2025-01-15T15:09:29.434Z
+updated: 2025-01-20T12:32:29.239Z
 tags:
   - chatgpt
   - open-ai
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/bef0ee80271c03bca8fa1ceeb9bd487dbcf95a1c3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Potential Risks of Generative AI to Spread Disinformation
@@ -43,12 +43,16 @@ False news can be categorized into three types:
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -62,10 +66,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -77,6 +77,10 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -84,10 +88,6 @@ Here's the fictitious article that ChatGPT came up with:
  Additionally, political adversaries may use deepfake audio and videos to tarnish the reputation of their opponents, manipulating public sentiment with the help of AI. So[AI-generated deepfakes pose numerous threats in the future](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/) . According to a 2023[Reuters report](https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/) , the rise of AI technology could impact America's 2024 elections. The report highlights the accessibility of tools like Midjourney and DALL-E that can easily create fabricated content and influence people's collective opinions.
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
 
@@ -98,7 +98,7 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
@@ -133,18 +133,18 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-elevating-video-sharing-from-youtube-to-insta/"><u>[New] In 2024, Elevating Video Sharing From YouTube to Insta</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-transform-ideas-into-laughter-generate-text-memes/"><u>[New] Transform Ideas Into Laughter Generate Text Memes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-efficacy-of-vlcs-screen-recording/"><u>[Updated] In 2024, The Efficacy of VLC's Screen Recording</u></a></li>
-<li><a href="https://driver-install.techidaily.com/beat-the-blues-troubleshoot-m-track-issues/"><u>Beat the Blues: Troubleshoot M-Track Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-livestreams-discover-the-power-of-manycams-virtual-webcams-and-editing-tools/"><u>Elevate Your Livestreams: Discover the Power of ManyCam's Virtual Webcams and Editing Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-online-presence-with-manycams-advanced-virtual-camera-technology-for-seamless-broadcasting/"><u>Elevate Your Online Presence with ManyCam's Advanced Virtual Camera Technology for Seamless Broadcasting</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/endless-screen-time-recorder/"><u>Endless Screen Time Recorder</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-online-interactions-with-manycam-top-choice-for-live-video-software-and-digital-camera-experience/"><u>Enhance Online Interactions with ManyCam: Top Choice for Live Video Software and Digital Camera Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-broadcasts-with-manycam-the-premier-choice-in-live-video-tech-and-fake-cams/"><u>Enhance Your Broadcasts with ManyCam: The Premier Choice in Live Video Tech and Fake Cams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-broadcasts-discover-manycams-powerful-online-video-and-webcam-tools/"><u>Enhance Your Broadcasts: Discover ManyCam's Powerful Online Video and Webcam Tools</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-access-all-nba-games-effortlessly-top-15-streaming-methods/"><u>In 2024, Access All NBA Games Effortlessly Top 15 Streaming Methods</u></a></li>
-<li><a href="https://extra-support.techidaily.com/intersecting-experiences-dissecting-vr-augmented-and-mixed-reality-for-2024/"><u>Intersecting Experiences Dissecting VR, Augmented & Mixed Reality for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/refining-photos-the-step-by-step-guide-to-clean-edges-on-photopea/"><u>Refining Photos The Step-by-Step Guide to Clean Edges on Photopea</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-diverse-video-editing-apps-for-pc-users/"><u>[New] In 2024, Diverse Video Editing Apps for PC Users</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-elevate-your-content-a-guide-to-engaging-live-thumbnails/"><u>[New] In 2024, Elevate Your Content A Guide to Engaging Live Thumbnails</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-optimal-energy-solutions-official-and-third-party-hero5-batteries/"><u>[Updated] 2024 Approved Optimal Energy Solutions - Official & Third-Party Hero5 Batteries</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-building-profitable-collaborations-with-brands-on-youtube/"><u>[Updated] In 2024, Building Profitable Collaborations with Brands on Youtube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-photo-text-editing-made-simple-tools-and-techniques/"><u>[Updated] In 2024, Photo Text Editing Made Simple Tools & Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957176123-get-your-bluetooth-controllers-working-download-drivers-here/"><u>Get Your Bluetooth Controllers Working - Download Drivers Here!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/instant-visualization-techniques-for-timestamp-implementation-for-2024/"><u>Instant Visualization Techniques for Timestamp Implementation for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavim4bmkv/"><u>Movaviで使いやすく、安全なM4BからMKVへのオンライン変換ツール – 完全無料対応</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/olivia-morrissey-video-showcase-high-quality-clips-by-movavi/"><u>Olivia Morrissey Video Showcase - High-Quality Clips by Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-11-free-mp4-video-editors-of-2024-compatible-with-windows-and-mac/"><u>Top 11 Free MP4 Video Editors of 2024: Compatible with Windows and Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformez-gratuitement-vos-fichiers-nef-en-png-via-le-web-movavi/"><u>Transformez Gratuitement Vos Fichiers Nef en Png via Le Web - Movavi</u></a></li>
 </ul></div>
 

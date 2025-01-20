@@ -1,7 +1,7 @@
 ---
 title: "Articulate Your Intentions: Five Voice Commands for GPT"
-date: 2025-01-12T11:25:26.688Z
-updated: 2025-01-14T05:29:12.220Z
+date: 2025-01-14T17:15:36.162Z
+updated: 2025-01-19T17:14:52.458Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -51,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
  Since text translation is one of the[things ChatGPT can do impressively](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) , we decided to compare how it stacks up against Google Translate. We selected some hard-to-translate text that featured common translation problems to compare the two tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Google Translate vs. ChatGPT: Translating Colloquialisms
@@ -74,17 +78,9 @@ ChatGPT had a go at it:
 
 ![ChatGPT tries to translate a Filipino idiomatic expression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-translate-filipino2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 And so did Google:
 
 ![Google translates a Filipino idiomatic expression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-translates-filipino2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This clearly gave both tools a hard time, but Google Translate seemed to have an edge.
 
@@ -95,16 +91,12 @@ And so did Google:
 ![ChatGPT malayalam translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chat.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Google, on the other hand, did fairly well.
 
 ![Google Translate translating malayalam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/goo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  None of the tools could get it perfectly, but Google Translate was as close as you can get. This is a close contest. While Google Translate has an edge, ChatGPT can provide the meaning of idioms instead of just translations. This could be very useful when translating a larger body of text that contains an idiom. In such cases, translating an idiom literally could be a source of confusion when read together with the surrounding text.
 
@@ -128,14 +120,22 @@ Up next is a translation task in Filipino.
 
 ![Google translates filipino text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-translates-filipino.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT, on the other hand, turned up: "The cure for a heartbroken woman is the affection of an understanding man."
 
 ![ChatGPT translate filipino](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-translate-filipino.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  None of the translations are particularly perfect, but ChatGPT got as close as possible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Google Translate vs. ChatGPT: Translating Creoles
@@ -187,24 +187,22 @@ Below is the source text:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-freepaid-audio-cleanup-tools-for-higher-video-quality/"><u>[Updated] 2024 Approved Free/Paid Audio-Cleanup Tools for Higher Video Quality</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-mastering-likes-tips-for-successful-tiktok-unboxings/"><u>[Updated] Mastering Likes Tips for Successful TikTok Unboxings</u></a></li>
-<li><a href="https://blog-min.techidaily.com/convert-your-vob-files-to-wmv-format-for-free-with-movavis-powerful-online-tool/"><u>Convert Your VOB Files to WMV Format for Free with Movavi's Powerful Online Tool</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-stunning-visuals-using-chatgpt-for-ai-powered-imagery/"><u>Crafting Stunning Visuals Using ChatGPT for AI-Powered Imagery</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/cally-acclaimed-video-cards-for-clear-youtube-broadcasts-for-2024/"><u>Critically Acclaimed Video Cards for Clear YouTube Broadcasts for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/full-screen-fiasco-resolved-in-obs-for-2024/"><u>Full Screen Fiasco Resolved in Obs for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/getting-started-integrating-and-utilizing-nvidias-rtx-chatbot-on-pc/"><u>Getting Started: Integrating and Utilizing Nvidia's RTX Chatbot on PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-ai-for-smart-device-symphony-chatgpts-influence/"><u>Harnessing AI for Smart Device Symphony: ChatGPT's Influence</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-20-great-tools-for-live-streaming-and-webcam-recordings/"><u>In 2024, 20 Great Tools for Live Streaming & Webcam Recordings</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-crafting-impactful-video-campaigns-for-startups/"><u>In 2024, Crafting Impactful Video Campaigns for Startups</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-health-techniques-using-chatgpts-power/"><u>Innovative Health Techniques Using ChatGPT's Power</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-ai-trends-essential-tools-for-business-excellence/"><u>Navigating AI Trends: Essential Tools for Business Excellence</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722974180859-sandisk-ssd-owners-rejoice-how-to-securely-download-the-right-drivers-now/"><u>SanDisk SSD Owners Rejoice! How To Securely Download The Right Drivers Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/smart-suggestions-find-your-next-read-using-these-innovative-ai-powered-book-applications/"><u>Smart Suggestions: Find Your Next Read Using These Innovative AI-Powered Book Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tips-crafting-distinctive-ai-visuals-via-microsoft-copilot/"><u>Tips: Crafting Distinctive AI Visuals via Microsoft Copilot</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-insights-utilizing-chatgpt-in-your-data-analytic-practices/"><u>Unlocking Insights: Utilizing ChatGPT in Your Data Analytic Practices</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-animation-artists-toolkit-7-best-drawing-software-for-exceptional-results/"><u>Updated In 2024, The Animation Artists Toolkit 7 Best Drawing Software for Exceptional Results</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/us-market-first-to-experience-enhanced-ai-chatgpt-plus-introduced/"><u>US Market, First to Experience Enhanced AI: ChatGPT Plus Introduced</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-diverse-designs-at-your-fingertips-from-these-6-websites-for-2024/"><u>[New] Diverse Designs at Your Fingertips From These 6 Websites for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-maintaining-the-right-video-aspect-on-twitters/"><u>[Updated] 2024 Approved Maintaining the Right Video Aspect on Twitters</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-download-your-instagram-masterpieces-easily/"><u>[Updated] Download Your Instagram Masterpieces Easily</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-vs-chatgpt-face-off-deciding-on-the-top-choice-for-your-routine-needs/"><u>Claude Vs. ChatGPT Face-Off: Deciding on the Top Choice for Your Routine Needs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claudio-vs-generative-genius-everyday-excellence/"><u>Claudio Vs. Generative Genius: Everyday Excellence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-overview-all-you-must-understand-about-openai/"><u>Comprehensive Overview: All You Must Understand About OpenAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/delving-into-gpt-plugins-overview-and-uses/"><u>Delving Into GPT Plugins: Overview and Uses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-brilliance-of-claude-next-gen-ai-for-your-enterprise/"><u>Discover the Brilliance of Claude: Next-Gen AI for Your Enterprise</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-multifaceted-potential-of-chatgpts-my-gpt-bots-for-educational-games-and-artistic-image-creation/"><u>Discover the Multifaceted Potential of ChatGPT's My GPT Bots for Educational Games and Artistic Image Creation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eliminate-tech-distractions-with-these-8-powerful-chatgpt-prompts-you-need-to-try/"><u>Eliminate Tech Distractions with These 8 Powerful ChatGPT Prompts You Need to Try</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-paperclip-maximizer-issue-in-the-context-of-ai-development/"><u>Exploring the Paperclip Maximizer Issue in the Context of AI Development</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-14-pro-max-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 14 Pro Max iCloud Bypass</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/quick-guide-to-changing-the-significant-dates-in-your-facebook-profile/"><u>Quick Guide to Changing the Significant Dates in Your Facebook Profile</u></a></li>
+<li><a href="https://win-docs.techidaily.com/temporary-concealment-of-columns-in-csv-files-a-guide-using-emeditor/"><u>Temporary Concealment of Columns in CSV Files: A Guide Using EmEditor</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Start Leveraging Custom AI: Your Guide to Implementing Nine GPTs Instantly"
-date: 2024-12-26T07:47:05.754Z
-updated: 2024-12-29T00:22:05.407Z
+date: 2025-01-18T08:12:12.369Z
+updated: 2025-01-19T20:24:41.792Z
 tags:
   - chatgpt
   - open-ai
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Lack of Real-Time Data
@@ -32,13 +32,13 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
  Because ChatGPT has only been trained with data up to September 2021, it cannot provide up-to-date information on the crypto market. Without real-time data, it becomes almost impossible to make a wise crypto trading decision, so it's best not to rely on ChatGPT entirely here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. AI Hallucinations and Potential Biases
 
 ![bitcoin logo at the end of warped tunnel ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The huge success of ChatGPT, as well as the release of[similar AI chatbots](https://www.makeuseof.com/best-alternatives-chatgpt/) , has brought the concern of hallucination into the limelight.
 
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
  ChatGPT can hold a bias in certain scenarios due to its training data. According to[BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) , ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Fails to Give Personalized Financial Advice
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can certainly ask ChatGPT any number of questions about the crypto market, as well as use it for financial tips. But while this is possible, it may not be the best route to pursue.
@@ -77,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 ## 4\. Relies Heavily on Historical Data
 
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
 
@@ -98,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ChatGPT Is Revolutionary but Far From Perfect
 
  There's no denying that ChatGPT can help you in a myriad of ways, be it in research, writing, idea generation, or creativity. But if you want to use this chatbot in your crypto trading venture, it's paramount that you consider the risks and downsides listed above.
@@ -121,18 +121,19 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/approved-optimizing-audience-retention-through-engaging-shorts/"><u>2024 Approved Optimizing Audience Retention Through Engaging Shorts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/battle-of-the-brainiacs-which-is-superior-chatgpt-or-gemini-in-software-crafting/"><u>Battle of the Brainiacs: Which Is Superior, ChatGPT or Gemini in Software Crafting?</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-ps5s-dualsense-play-on-ps4-devices/"><u>Can PS5's DualSense Play on PS4 Devices?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-tips-preventing-the-top-6-slip-ups-in-creating-effective-chatgpt-prompts/"><u>Essential Tips: Preventing the Top 6 Slip-Ups in Creating Effective ChatGPT Prompts</u></a></li>
-<li><a href="https://win-tips.techidaily.com/guide-capturing-your-zoom-sessions-with-ease-pc-and-mobile-device-tutorial/"><u>Guide: Capturing Your Zoom Sessions with Ease - PC & Mobile Device Tutorial</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-zte-nubia-z60-ultra-by-drfone-android/"><u>How to Bypass FRP on ZTE Nubia Z60 Ultra?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-depth-discussion-on-trojan-threats-and-chatgpt-troubles-navigating-cybersecurity-in-a-digital-world/"><u>In-Depth Discussion on Trojan Threats and ChatGPT Troubles: Navigating Cybersecurity in a Digital World</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210966362-9781088233108-narrativas-ocultas/"><u>Narrativas Ocultas | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/premier-free-software-for-ai-image-fabrication/"><u>Premier Free Software for AI Image Fabrication</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-data-analysis-in-excel-with-chatgpt/"><u>Revolutionizing Data Analysis in Excel with ChatGPT</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-mix-fold-3-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Mix Fold 3 Screen | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-14-pro-max-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 14 Pro Max Without Passcode Easily</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-benefits-of-chatgpt-enterprise-and-its-market-distinctions/"><u>Unveiling the Benefits of ChatGPT Enterprise & Its Market Distinctions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-comprehensive-guide-to-captioning-for-enhanced-video-impact-for-2024/"><u>[New] Comprehensive Guide to Captioning for Enhanced Video Impact for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-razer-kiyo-webcam-detailed-review/"><u>[Updated] Razer Kiyo Webcam - Detailed Review</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-methods-to-transform-ipad-footage-into-mp4-files/"><u>Easy Methods to Transform iPad Footage Into MP4 Files</u></a></li>
+<li><a href="https://win-hot.techidaily.com/guide-to-decreasing-run-time-processes-for-enhanced-system-performance-with-tips-from-yl-computing-and-yl-software/"><u>Guide to Decreasing Run-Time Processes for Enhanced System Performance with Tips From YL Computing and YL Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-europes-ai-legislation-could-transform-chatgpt/"><u>How Europe's AI Legislation Could Transform ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-these-fraudulent-malware-masquerading-as-chatgpt-could-steal-your-confidential-information/"><u>How These Fraudulent Malware Masquerading as ChatGPT Could Steal Your Confidential Information</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/huggingchat-unveiled-a-free-open-source-counterpart-to-gpt/"><u>HuggingChat Unveiled: A Free, Open-Source Counterpart to GPT</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-tutorial-for-zoom-and-gmail-users/"><u>In 2024, Comprehensive Tutorial for Zoom and Gmail Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-htc-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your HTC Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-llms-revolutionizing-text-understanding/"><u>Inside LLMs: Revolutionizing Text Understanding</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-gpt-3-data-4-best-extensions-and-apps-at-a-glance/"><u>Mastering GPT-3 Data: 4 Best Extensions & Apps at a Glance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027697726-vlc/"><u>VLCメディアプレーヤー用動画コンパクト化 - より小さなファイルにしてください</u></a></li>
 </ul></div>
 

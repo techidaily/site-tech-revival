@@ -1,7 +1,7 @@
 ---
 title: "Crafting Imaginary Realms: A Guide to Using ChatGPT for Worldbuilding Adventures"
-date: 2025-01-08T22:47:57.532Z
-updated: 2025-01-14T03:31:40.074Z
+date: 2025-01-14T00:24:30.122Z
+updated: 2025-01-19T20:35:11.640Z
 tags:
   - chatgpt
   - open-ai
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/5bcf8cebc4ec75a2f2c5443679e92acacca4bb84e
 
 ![Screenshot of HuggingChat confirming an account is required](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-confirming-an-account-is-required.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, we used it with an account and without any problems. If this changes, or you'd prefer to set up an account, it is free, and you can sign up on[HuggingFace](https://huggingface.co/join) .
 
  The tools have remarkably similar interfaces, as the bulk of these tools do. Simplicity is the key to AI chatbots, and both tools have a simple input box to allow you to enter prompts, which is about it. However, learning[prompting techniques can help improve response quality](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) .
@@ -70,7 +66,7 @@ As you can see, HuggingChat answered this easily.
 ![Screenshot of HuggingChat answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-answering-baseball-question.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Whereas, ChatGPT appears to believe that 2022 lies in the future!
@@ -89,22 +85,22 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
 ![Screenshot of HuggingChat summarzing MUO article-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarzing-muo-article-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To test this ability further, we asked a similar question without entering the URL and using an article that was only published (it was "[What Are IPFS Phishing Attacks](https://www.makeuseof.com/what-are-ipfs-phishing-attacks-and-how-to-avoid-them) ," for reference). Again, both tools managed this admirably, as the images demonstrate.
 
 This was ChatGPT's effort:
 
 ![Screenshot of ChatGPT referencing an article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-referencing-an-article-without-a-url.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 HuggingChat's summary looked like this:
 
 ![Screenshot of HuggingChat summarizing article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarizing-article-without-a-url.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There isn't much difference between the two tools here, so let's see how they compare when we test them for creativity.
@@ -119,15 +115,19 @@ HuggingChat's summary looked like this:
 
 ![Screenshot of ChatGPT lovesong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-lovesong.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 And this was HuggingChat's.
 
 ![Screenshot HuggingChat love song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-huggingchat-love-song.jpg)
 
-Shakespeare himself would be impressed with both of these!
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Shakespeare himself would be impressed with both of these!
 
 ## Security and Privacy
 
@@ -141,10 +141,6 @@ Shakespeare himself would be impressed with both of these!
 
  One thing to note is that HuggingChat seems to work fine with an account. This is useful if you want to minimize the privacy risks associated with the platforms.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which Is Best: HuggingChat or ChatGPT?
 
  As you can see from the tests, there is no easy answer. ChatGPT had a definite edge when summarizing articles, whereas HuggingChat had the advantage when you compare how current the training data is.
@@ -156,6 +152,10 @@ Shakespeare himself would be impressed with both of these!
  We also found both tools to be responsive and quick with answers. This would seem to illustrate that ChatGPT has addressed the demand issues that slowed the platform down.
 
  Ultimately, the choice between them will likely be driven more by user requirements than user preferences. As the tools are free and quick to access, checking both out is not a great hassle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are You a Hugger or a Chatter?
 
@@ -180,18 +180,20 @@ Shakespeare himself would be impressed with both of these!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-easy-guide-to-using-your-phone-as-an-alternative-camera/"><u>[New] 2024 Approved Easy Guide to Using Your Phone as an Alternative Camera</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-navigating-through-excellent-alternatives-to-gopro-cams/"><u>[New] 2024 Approved Navigating Through Excellent Alternatives to GoPro Cams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726029255384-windows/"><u>様々な動画同時表示: Windowsパソコン用ガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726028175026-audacity/"><u>Audacity使用時の音声ファイルへのノーイズパート挿入手順</u></a></li>
-<li><a href="https://win-able.techidaily.com/debugging-battles-ensuring-smooth-gameplay-for-midgardian-clans/"><u>Debugging Battles: Ensuring Smooth Gameplay for Midgardian Clans</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhance-your-mp4-files-with-srt-the-complete-guide/"><u>Enhance Your MP4 Files with SRT – The Complete Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-reno-10-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Reno 10 5Gwith/without a PC</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-understanding-group-dynamics-in-zoom-sessions/"><u>In 2024, Understanding Group Dynamics in Zoom Sessions</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-motorola-moto-g14-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Motorola Moto G14</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-tecno-pova-6-pro-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Tecno Pova 6 Pro 5G Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-114k/"><u>Windows 11上で4K動画がうまく流れない時のトラブルシューティング手順</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/wmvmov2/"><u>WMVファイルをMOVに容易に変換する方法：スッキリ2つ</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027651056-powerdirector/"><u>ビデオ編集のプロフェッショナルなコツ：PowerDirectorでのトリミング方法</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-lens-leaderships-top-ten-camera-lens-selections-for-photographers/"><u>[New] Lens Leaderships Top Ten Camera Lens Selections for Photographers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-enhancing-your-content-10-exceptional-reacting-techniques/"><u>[Updated] 2024 Approved Enhancing Your Content 10 Exceptional Reacting Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-razr-40-ultra-by-fonelab-android-recover-data/"><u>How to recover lost data from Razr 40 Ultra?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-10t-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme 10T 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-xiaomi-13t-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi 13T Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-samsung-galaxy-s23plus-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Samsung Galaxy S23+ Phone?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/master-the-world-of-digital-drawing-with-gaomons-pd1560-stylus-board-a-full-featured-review/"><u>Master the World of Digital Drawing with Gaomon's PD1560 Stylus Board - A Full-Featured Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-efficiency-in-the-office-leveraging-chatgpt-for-enhanced-workflow-management/"><u>Maximizing Efficiency in the Office: Leveraging ChatGPT for Enhanced Workflow Management</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-natures-perils-with-chatgpt-can-it-really-help-you-survive/"><u>Navigating Nature's Perils with ChatGPT – Can It Really Help You Survive?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-use-of-gpt-for-harmful-software/"><u>Navigating the Use of GPT for Harmful Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-corporate-correspondence-via-ai-practical-tips-and-tricks/"><u>Optimizing Corporate Correspondence via AI: Practical Tips & Tricks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/predicting-the-role-of-ai-in-transforming-developer-routines/"><u>Predicting the Role of AI in Transforming Developer Routines</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reimagine-your-note-taking-chatgpts-revolutionary-method/"><u>Reimagine Your Note Taking - ChatGPT's Revolutionary Method</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-zoom-expertise-for-improved-google-meet-visibility/"><u>The Ultimate Zoom Expertise for Improved Google Meet Visibility</u></a></li>
 </ul></div>
 

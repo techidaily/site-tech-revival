@@ -1,7 +1,7 @@
 ---
 title: Why ChatGPT Fails to Review Its Own Words
-date: 2025-01-10T22:00:19.437Z
-updated: 2025-01-14T12:02:26.325Z
+date: 2025-01-14T05:40:56.579Z
+updated: 2025-01-20T07:51:21.646Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 * [Multi-Modal Voice and Video Interactions](https://aligracehair.sjv.io/y209r3)
 * [Upgraded Code Analysis](https://appsumo.8odi.net/gmezyk)
 * [Temporary Chat](https://copa.sjv.io/6eoowq)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
@@ -81,10 +81,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  I asked ChatGPT to check the Saturday weather forecast and advise whether I should reschedule my activities based on the weather update.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
@@ -112,12 +108,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
@@ -141,19 +141,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-full-spectrum-analysis-the-logitech-4k-pro-webcam/"><u>[New] In 2024, Full Spectrum Analysis The Logitech 4K Pro Webcam</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-greatest-to-growth-youtube-stars-with-soaring-subs/"><u>[Updated] 2024 Approved The Greatest to Growth YouTube Stars with Soaring Subs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/elevate-your-skills-discover-non-ai-opportunities-on-the-cutting-edge-insights-from-zdnet/"><u>Elevate Your Skills: Discover Non-AI Opportunities on The Cutting Edge – Insights From ZDNet</u></a></li>
-<li><a href="https://win-community.techidaily.com/guide-restoring-full-file-visibility-on-google-drive/"><u>Guide: Restoring Full File Visibility on Google Drive</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-live-video-solutions-with-manycam-the-definitive-virtual-webcam-experience/"><u>Innovative Live Video Solutions with ManyCam – The Definitive Virtual Webcam Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-stream-mastery-made-easy-discover-the-power-of-manycams-virtual-cam-features/"><u>Live Stream Mastery Made Easy: Discover the Power of ManyCam's Virtual Cam Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-with-manycam-premium-virtual-webcam-solutions/"><u>Live Streaming Made Easy with ManyCam: Premium Virtual Webcam Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-with-manycam-professional-videocamera-and-webcast-software/"><u>Live Streaming Made Easy with ManyCam: Professional Videocamera and Webcast Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-made-simple-discover-manycams-ultimate-virtual-camera-solution/"><u>Live Streaming Made Simple: Discover ManyCam's Ultimate Virtual Camera Solution</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-mastery-best-features-of-manycam-virtual-camera-software/"><u>Live Streaming Mastery: Best Features of ManyCam - Virtual Camera Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-driver-fix-for-windows-11-expert-tips-and-tricks/"><u>Qualcomm Atheros Bluetooth Driver Fix for Windows 11: Expert Tips and Tricks!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-mastering-tabletop-gameplay-and-crafting-digital-graphics-with-ai-bots/"><u>Step-by-Step Tutorial: Mastering Tabletop Gameplay & Crafting Digital Graphics with AI Bots</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unlock-fcps-full-potential-top-5-editing-secrets-revealed/"><u>Updated 2024 Approved Unlock FCPs Full Potential Top 5 Editing Secrets Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/response-to-determine-the-coefficient-of-kinetic-friction-we-can-use-the-following-equation/"><u>[Response]: To Determine the Coefficient of Kinetic Friction, We Can Use the Following Equation:</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-building-your-screencasting-skills-from-the-ground-up/"><u>[Updated] Building Your Screencasting Skills From the Ground Up</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mp4-reimagined-effortlessly-adding-srt/"><u>2024 Approved MP4 Reimagined Effortlessly Adding SRT</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-ipodiverse-compreenasol-for-ios-podcast-downloads/"><u>2024 Approved Navigating the iPodiverse Compreenasol for iOS Podcast Downloads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-all-in-one-video-editing-solutions-movavis-tutti-and-unlimited-options-for-creators/"><u>Discover All-in-One Video Editing Solutions - Movavi's Tutti & Unlimited Options for Creators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-video-editing-convert-your-mkv-videos-into-high-quality-mjpeg-streams-for-free-via-movavi-tool/"><u>Effortless Video Editing: Convert Your MKV Videos Into High-Quality MJPEG Streams for Free via Movavi Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-and-vrijgebeurd-efficient-webm-in-wmv-omzetten-met-gratis-oplage-over-de-kracht-van-movavi/"><u>Online & Vrijgebeurd: Efficiënt WEBM-In WMV Omzetten Met Gratis Oplage - Over De Kracht Van Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-accessing-photos-via-windows-11s-explorer/"><u>Tips for Accessing Photos via Windows 11'S Explorer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-motorola-razr-40-ultra-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Motorola Razr 40 Ultra Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-disconnected-printer-resolving-error-code-30-successfully/"><u>Troubleshooting Your Disconnected Printer: Resolving Error Code -30 Successfully</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726228190862-avi-m4a-movavi/"><u>오늘날의 가장 유용한 무료 AVI 크리펫: M4A 변환을 위해 Movavi를 사용</u></a></li>
 </ul></div>
 

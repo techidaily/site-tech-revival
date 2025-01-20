@@ -1,7 +1,7 @@
 ---
 title: "Harnessing ChatGPT: 6 Essential Tips for a Dream DM Experience"
-date: 2025-01-11T12:05:50.353Z
-updated: 2025-01-13T21:51:37.045Z
+date: 2025-01-19T11:46:16.918Z
+updated: 2025-01-20T09:58:33.796Z
 tags:
   - chatgpt
   - open-ai
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Potential Risks of Generative AI to Spread Disinformation
 
  Generative AI poses many threats to people, like taking away jobs, more surveillance, and cyberattacks. And the[security problems with AI will get even worse](https://www.makeuseof.com/reasons-generative-ai-security-issues-will-worsen/) . But there's another worry: people can use it to spread lies. Deceptive individuals can use generative AI to share fake news through visual, auditory, or textual content.
@@ -42,13 +38,13 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -60,10 +56,14 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -86,7 +86,7 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -96,6 +96,10 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -107,10 +111,6 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -133,21 +133,19 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-exploring-free-screen-capture-software-bandicam-vs-camtasia/"><u>[New] 2024 Approved Exploring Free Screen Capture Software Bandicam Vs. Camtasia</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/aster-the-art-of-yt-channel-creation-right-from-your-smartphone/"><u>[New] Master the Art of YT Channel Creation, Right From Your Smartphone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-skyrocket-to-success-mastering-seo-for-youtubers-and-beyond/"><u>[New] Skyrocket to Success Mastering SEO for YouTubers and Beyond</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-best-practices-for-free-clipart-use-in-projects/"><u>2024 Approved Best Practices for Free Clipart Use in Projects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-video-format-converter-from-dvd-to-avi-on-pc-optimized-for-windows-10-and-11-in-2e24/"><u>Best Video Format Converter From DVD to AVI on PC: Optimized for Windows 10 and 11 in 2E24</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-editing-skills-switch-to-our-pro-grade-video-converter-for-advanced-features/"><u>Elevate Your Editing Skills: Switch to Our Pro-Grade Video Converter for Advanced Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206802457-error-code-31-on-your-pc-heres-how-you-can-solve-it/"><u>Error Code 31 on Your PC? Here's How You Can Solve It</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/experience-animated-magic-access-free-online-cartoon-shows-and-anime/"><u>Experience Animated Magic: Access Free Online Cartoon Shows & Anime</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fast-and-easy-steps-to-transform-your-m4v-files-to-mkv-format/"><u>Fast and Easy Steps to Transform Your M4V Files to MKV Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/four-easy-and-powerful-techniques-to-transform-dv-files-into-mp4-format/"><u>Four Easy & Powerful Techniques to Transform DV Files Into MP4 Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-and-simple-steps-transforming-webm-videos-into-mp4-format-without-hassle/"><u>Free & Simple Steps: Transforming WebM Videos Into MP4 Format Without Hassle</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-your-free-wonderfox-template-zips-secure-downloads-here/"><u>Get Your Free WonderFox Template ZIPs - Secure Downloads Here!</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-boost-your-online-presence-by-mastering-video-editing-in-sony-vegas/"><u>In 2024, Boost Your Online Presence by Mastering Video Editing in Sony Vegas</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-lava-blaze-2-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Lava Blaze 2 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/professionelle-software-zum-kopieren-von-datentragern-unter-windows-server-2012/"><u>Professionelle Software Zum Kopieren Von Datenträgern Unter Windows Server 2012</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-infinix-hot-40i-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Infinix Hot 40i on Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-master-the-art-of-cutting-a-video-editors-handbook-for-instagram/"><u>[Updated] 2024 Approved Master the Art of Cutting A Video Editor's Handbook for Instagram</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-free-pc-screen-capture-tools-a-comprehensively-assessed-list/"><u>2024 Approved Free PC Screen Capture Tools - A Comprehensively Assessed List</u></a></li>
+<li><a href="https://techtrends.techidaily.com/desktop-decisions-unpacked-understanding-the-top-8-purchasing-criteria/"><u>Desktop Decisions Unpacked: Understanding the Top 8 Purchasing Criteria</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-workflow-with-zendures-superbase-pro-2000-hands-on-review-and-features-explored-by-zdnet/"><u>Elevate Your Workflow with Zendure's SuperBase Pro 2000: Hands-On Review & Features | Explored by ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-chatgpt-enterprise-features-benefits-and-distinctive-advantages/"><u>Exploring ChatGPT Enterprise: Features, Benefits, and Distinctive Advantages</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-eus-artifice-intelligence-framework-potential-consequences-on-platforms-such-as-chatgpt/"><u>Exploring the EU's Artifice Intelligence Framework: Potential Consequences on Platforms Such as ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/freelancers-guide-to-mastering-ai-assistantsbing-chat-vs-chatgpt/"><u>Freelancer's Guide to Mastering AI Assistants—Bing Chat Vs. ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/full-reveal-the-cutting-edge-ai-technologies-announced-by-apple-during-wwdc-2024/"><u>Full Reveal: The Cutting-Edge AI Technologies Announced by Apple During WWDC 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/holding-off-for-the-official-chatgpt-app-check-this-fantastic-open-source-version-instead/"><u>Holding Off for the Official ChatGPT App? Check This Fantastic Open Source Version Instead!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-home-cinema-top-10-blu-ray-choices/"><u>In 2024, Immersive Home Cinema Top 10 Blu-Ray Choices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-uncovering-budget-friendly-video-conferencing-tools-for-all-systems/"><u>In 2024, Uncovering Budget-Friendly Video Conferencing Tools for All Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-m34-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy M34 5G Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/successful-installation-guide-how-to-add-missing-drivers-for-your-device-on-windows-11-8-and-7/"><u>Successful Installation Guide: How to Add Missing Drivers for Your Device on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-s23-fe-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy S23 FE | Dr.fone</u></a></li>
 </ul></div>
 

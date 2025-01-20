@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT at Work: How to Keep Your Sensitive Projects Safe From Privacy Breaches"
-date: 2025-01-11T19:11:56.481Z
-updated: 2025-01-14T01:45:51.220Z
+date: 2025-01-16T06:09:22.352Z
+updated: 2025-01-20T05:38:00.697Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is ChatGPT's Chat History and Training Feature?](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#what-is-chatgpt-39-s-chat-history-and-training-feature)
@@ -37,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
  But worry not; you can opt out of having your chat data used, keeping your ChatGPT conversations private.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is ChatGPT's Chat History and Training Feature?
@@ -52,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
  However, in April 2023, OpenAI started offering users the choice to disable or enable chat history and training data collection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Opt-Out of ChatGPT's Chat History and Training Feature
 
  There's one downside of opting out of ChatGPT's chat data feature, and that's the loss of your chat history. This doesn't just mean OpenAI can't keep a history of your chats; it also means you cannot view your chat history. Therefore, returning to previous chats becomes impossible, rendering all your previous chat data inaccessible. Note that this doesn't[delete your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) but does make it off-limits until you re-enable the chat history and training feature.
@@ -64,16 +64,12 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
 ![chatgpt sidebar menu options list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-sidebar-menu-options-list.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  First, click on your profile name at the bottom-left of the main page and head to**Settings & Beta** .
 
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In your settings, click on the**Data controls** option. Now, you'll see a setting named**Chat history & training** . This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
@@ -83,12 +79,16 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
 
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Data Collection You Can't Opt Out From
 
@@ -115,19 +115,14 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-elevating-your-win11-capture-experience-with-top-tools-for-2024/"><u>[New] Elevating Your Win11 Capture Experience with Top Tools for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/claude-vs-chatgpt-analyzing-which-chatbot-takes-the-lead-in-intelligent-conversations/"><u>Claude Vs. ChatGPT: Analyzing Which Chatbot Takes the Lead in Intelligent Conversations.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/getting-started-with-langchain-llm-your-ultimate-starter-pack/"><u>Getting Started with LangChain LLM: Your Ultimate Starter Pack</u></a></li>
-<li><a href="https://win-online.techidaily.com/guia-pratico-configuracao-do-modo-picture-in-picture-para-melhor-experiencia-video-dicas-detalhadas-e-funcionais/"><u>Guia Prático: Configuração Do Modo Picture-in-Picture Para Melhor Experiência Vídeo - Dicas Detalhadas E Funcionais</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-decoding-the-underlying-messages-in-snapchats-symbolic-language/"><u>In 2024, Decoding the Underlying Messages in Snapchat's Symbolic Language</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-s18e-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo S18e</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 11 Pro Max?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pacing-presentations-with-ease-speedy-slides/"><u>In 2024, Pacing Presentations with Ease Speedy Slides</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigate-the-world-of-windows-and-chatgpt/"><u>Navigate the World of Windows and ChatGPT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-dx11-and-wwe-2k-battlegrounds-level-100-functionality-glitches/"><u>Overcoming DX11 and WWE 2K: Battlegrounds Level 10.0 Functionality Glitches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/privacy-in-question-how-safe-is-your-data-when-using-chtgit/"><u>Privacy in Question: How Safe Is Your Data When Using ChtGit?</u></a></li>
-<li><a href="https://facebook.techidaily.com/restoring-access-a-guide-to-overcoming-sudden-fb-outages/"><u>Restoring Access: A Guide to Overcoming Sudden FB Outages</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-y78t-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo Y78t</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-growing-ai-complicates-our-security-landscape/"><u>Why Growing AI Complicates Our Security Landscape</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-effortless-and-economical-the-best-free-youtube-name-generators/"><u>2024 Approved Effortless & Economical The Best Free YouTube Name Generators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guia-paso-a-paso-para-realizar-un-acercamiento-de-pantalla-completa-con-capturas-de-pantalla-en-windows-11/"><u>Guía Paso a Paso Para Realizar Un Acercamiento De Pantalla Completa Con Capturas De Pantalla en Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-civi-3-disney-100th-anniversary-edition-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Civi 3 Disney 100th Anniversary Edition Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-syncopated-syntax-showcase/"><u>In 2024, Syncopated Syntax Showcase</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tripping-up-heres-how-to-avoid-it/"><u>In 2024, Tripping Up? Here's How to Avoid It</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolucao-1080p-vs-4k-entendendo-as-principais-diferencas-e-o-up-scaling/"><u>Resolução 1080P Vs. 4K: Entendendo as Principais Diferenças E O Up-Scaling</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rising-demand-for-evs-confronted-with-persistent-issues-a-closer-look-by-zdnet/"><u>Rising Demand for EVs Confronted with Persistent Issues - A Closer Look by ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-movavi-software-opinies-en-voorkeur-van-zevenzijdigers-professionele-beoordelingen-gekozen/"><u>Top Movavi Software Opinies en Voorkeur Van Zevenzijdigers: Professionele Beoordelingen Gekozen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pcxbmp/"><u>オンラインでフリー: PCX画像のBMP変換を簡単に行う方法</u></a></li>
 </ul></div>
 

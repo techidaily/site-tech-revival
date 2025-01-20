@@ -1,7 +1,7 @@
 ---
 title: Top 11 Powerful ChatGPT Triggers for Crafting Engaging Book Characters
-date: 2025-01-09T06:48:22.316Z
-updated: 2025-01-14T12:12:06.848Z
+date: 2025-01-18T11:58:27.821Z
+updated: 2025-01-20T11:15:38.681Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
 ![Find Your Next Book gives you book recommendations based on your ChatGPT prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-find-your-next-book.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Author Screenshot by Mihir Patkar - No attribution required
 
  Find Your Next Book (FYNB) calls it an AI-powered librarian. The bot, based on OpenAI, has "read" a large database of books and can now recommend what you should read based on any query. It processes natural language and urges you to specify your queries in detail. So rather than writing something like "a murder mystery,"[write an effective ChatGPT prompt](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) like "a murder mystery set in the future but not in a dystopian world."
@@ -37,16 +33,12 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
  FYNB will take a few minutes to process your request and then give you one recommendation at a time. The recommendation page includes a summary of why the AI thinks the book's topics match what you are looking to read, as well as a non-AI-generated description of the book, like what you're likely to find on the back cover. If you aren't happy with the result, click the "Next Book" button for another recommendation with the same prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2.[Sona](https://www.readthistwice.com/sona) (Web): Quickly Browse a Long List of AI-Recommended Books
 
 ![Sona is an AI book recommendation engine by the makers of Read This Twice that makes AI prompt results easy to read](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-read-this-twice-sona.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -61,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 ![Next Three Books suggests three titles from a ChatGPT prompt, and lets you filter results by genre, writing style, length, and type of book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-next-three-books.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -92,16 +84,24 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
  Whenever you add or remove a personal favorite, Readow will update the results with 30 book recommendations. You can like books from the recommendations to add them to your favorites or delete them from the recommendations to indicate to the AI that it shouldn't suggest similar titles.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5.[BooksAI](https://booksai.app/) (Android, iOS): Got Recommendations? Read Spoiler-Free AI Summaries
 
 ![Search for a book or look through celebrity recommendations to generate a summary of any book with BooksAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Author Screenshot by Mihir Patkar - No attribution required
 
 ![BooksAI can summarize a book without spoilers, or give a detailed summary broken down by chapters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -138,20 +138,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-ace-titles-essentials-for-digital-marketing-success/"><u>[Updated] Ace Titles Essentials for Digital Marketing Success</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windowsmacamrmp3/"><u>一発屋でも楽勝！Windows/Mac両方使える、AMRをMP3に容易な変換ガイド</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/come-cancellare-ed-eseguire-il-ripristino-automatico-dei-cronologici-backup-di-windows-e-system-restore/"><u>Come Cancellare Ed Eseguire Il Ripristino Automatico Dei Cronologici Backup Di Windows E System Restore</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-google-pixel-8-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Google Pixel 8 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-motorola-edge-40-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Edge 40 phone? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/mastering-negative-playback-on-your-instagram-feed-for-2024/"><u>Mastering Negative Playback on Your Instagram Feed for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ynamic-duo-of-filmmaking-and-thumbnail-design-for-2024/"><u>The Dynamic Duo of Filmmaking and Thumbnail Design for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-steps-watching-vob-movies-seamlessly-on-your-chromebook/"><u>Troubleshooting Steps: Watching VOB Movies Seamlessly on Your Chromebook</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-choosing-the-perfect-screen-recording-tool-for-windows-11-ranked/"><u>Ultimate Guide to Choosing the Perfect Screen Recording Tool for Windows 11 - Ranked!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-extracting-high-quality-surround-sound-from-dvds-with-top-dvd-rippers/"><u>Ultimate Guide to Extracting High-Quality Surround Sound From DVDs with Top DVD Rippers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-on-utilizing-nokia-video-converter-factory-for-free/"><u>Ultimate Tutorial on Utilizing Nokia Video Converter Factory for Free</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-magnet-links-a-beginners-simple-tutorial/"><u>Unlocking Magnet Links: A Beginner's Simple Tutorial</u></a></li>
-<li><a href="https://facebook.techidaily.com/which-platform-do-you-love-more-participate/"><u>Which Platform Do You Love More? Participate</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnet-unveils-how-dell-redefines-gaming-laptops-with-a-work-ready-ultraportable-design/"><u>ZDNet Unveils How Dell Redefines Gaming Laptops with a Work-Ready Ultraportable Design</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027016262-windows-11/"><u>マイクを使ってWindows 11で音声ファイルをどう作成するか</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-expert-advice-on-editing-away-backgrounds/"><u>[New] Expert Advice on Editing Away Backgrounds</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pushing-boundaries-the-9-most-advanced-mobile-filmmaking-accessories/"><u>[Updated] Pushing Boundaries The 9 Most Advanced Mobile Filmmaking Accessories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-techniques-for-sharing-srt-data-on-vimeo-and-linkedin/"><u>2024 Approved Advanced Techniques for Sharing SRT Data on Vimeo and LinkedIn</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-elitepixel-recorder-winos-series/"><u>2024 Approved ElitePixel Recorder WinOS Series</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/archiving-intelligence-methods-to-retain-and-revisit-chatgpt-discussions-anytime/"><u>Archiving Intelligence: Methods to Retain and Revisit ChatGPT Discussions Anytime</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-face-value-the-key-differences-between-siri-and-chatgpt-explored/"><u>Beyond Face Value: The Key Differences Between Siri and ChatGPT Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/build-a-budget-oriented-chatgpt-replica-locally/"><u>Build a Budget-Oriented ChatGPT Replica Locally</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chapter-1-registering-for-chatgpts-latest-extensions/"><u>Chapter 1: Registering for ChatGPT's Latest Extensions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-4s-speed-a-comparative-glance-with-gpt-35/"><u>ChatGPT-4's Speed: A Comparative Glance with GPT-3.5</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721923097281-faux-chatgpt-browser-tool-threatening-facebook-account-security-stay-safe/"><u>Faux ChatGPT Browser Tool Threatening Facebook Account Security: Stay Safe</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-continuous-freezing-and-crashes-in-resident-evil-village-on-your-computer/"><u>How to Fix Continuous Freezing and Crashes in Resident Evil Village on Your Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-repair-unresponsive-laptop-touchpad-issues-and-fixes/"><u>How to Repair: Unresponsive Laptop Touchpad Issues and Fixes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-solutions-for-gionee-network-unlock-by-drfone-android/"><u>In 2024, Best Solutions for Gionee Network Unlock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Infinix Note 30 VIP Racing Edition?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-art-of-chuckles-by-code-from-laptops-to-vpn-safeguarding/"><u>The Art of Chuckles by Code: From Laptops to VPN Safeguarding</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dawn-of-voice-activated-chatgpt-in-cars/"><u>The Dawn of Voice-Activated ChatGPT in Cars</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-novices-roadmap-to-mastering-key-ai-tools-top-9-picks/"><u>The Novice's Roadmap to Mastering Key AI Tools (Top 9 Picks)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/troubleshooting-guide-fixing-issues-when-windows-media-player-cant-rip-songs-from-your-cd/"><u>Troubleshooting Guide: Fixing Issues When Windows Media Player Can't Rip Songs From Your CD</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: GPT's Proficiency with Probability Questions
-date: 2025-01-09T08:46:27.513Z
-updated: 2025-01-14T09:18:53.691Z
+date: 2025-01-18T23:03:28.505Z
+updated: 2025-01-19T22:00:35.030Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
 * [Upgraded Code Analysis](https://www.makeuseof.com/chatgpt-new-features-spring-update/#upgraded-code-analysis)
 * [Temporary Chat](https://www.makeuseof.com/chatgpt-new-features-spring-update/#temporary-chat)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * ChatGPT now converses with image inputs and outputs, providing accurate results and generated images in its responses.
@@ -37,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Image Input and Output Capabilities
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
  In this example, I asked ChatGPT for recipes for the items visible in the fridge.
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
@@ -59,10 +67,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
 
@@ -79,7 +83,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
@@ -91,10 +95,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  Pairing this feature with ChatGPT's browsing and memory functionality allows for a highly versatile AI companion. This enhanced version of ChatGPT can now better assist you with shopping, planning, and organizing. GPT-4o's conversation functionality makes it possible to use ChatGPT as a hands-free assistant using voice commands, making it easier to interact with the AI while you're on the go or multitasking.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Upgraded Code Analysis
 
@@ -108,13 +108,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
@@ -137,18 +137,24 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-social-snapshots-highest-view-counts/"><u>[Updated] 2024 Approved Social Snapshots Highest View Counts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-blending-images-for-a-captivating-visual-journey/"><u>[Updated] In 2024, Blending Images for a Captivating Visual Journey</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/4k-vs-8k/"><u>「4K vs 8K - 解説！高解像度ビデオをダウンロードする完全ガイド」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/2024mp4/"><u>2024年版ムービー製作で直面するMP4保存問題とその回避手段 - プロの方法教えます</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030611664-iphone-youtube/"><u>楽しい iPhonE 着信音作り: 好きな YouTube 曲を使える手順</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726028851653-bgm/"><u>BGMの永遠な循環：ループするための製作テクニック</u></a></li>
-<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-starters-journey-mastering-video-quality-and-resolution/"><u>In 2024, Starter's Journey Mastering Video Quality and Resolution</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Nokia 130 Music? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-video-game-best-mac-video-editing-apps/"><u>New Elevate Your Video Game Best Mac Video Editing Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/unlocking-obs-video-potential-five-must-know-techniques-for-2024/"><u>Unlocking OBS Video Potential Five Must-Know Techniques for 2024</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/unzipping-files-on-windows-a-step-by-step-guide-from-yl-computing/"><u>Unzipping Files on Windows: A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/2024-t17260306955406/"><u>クロームキャストで映らない! 2024ユーチューブ動画見る方法</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-ultimate-choice-of-lenses-for-industrys-finest-4k-vision/"><u>[New] In 2024, The Ultimate Choice of Lenses for Industry's Finest 4K Vision</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevating-video-experience-best-youtube-to-avi-companions/"><u>[Updated] 2024 Approved Elevating Video Experience Best YouTube-to-AVI Companions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/evaluating-engagement-a-side-by-side-look-at-tiktok-and-snap/"><u>Evaluating Engagement A Side-by-Side Look at TikTok & Snap</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tune-auto-lock-and-screensaver-on-pc/"><u>Fine-Tune Auto-Lock & Screensaver on PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-nubia-red-magic-8s-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Nubia Red Magic 8S Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-workflow-through-ai-dialogue-coaching/"><u>Maximizing Workflow Through AI Dialogue Coaching</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/motorola-one-5g-ace-fastest-5g-performance-with-exceptional-battery-longevity/"><u>Motorola One 5G Ace - Fastest 5G Performance with Exceptional Battery Longevity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-chatgpt-options-a-comparison-between-browsing-enabled-and-plugin-versions/"><u>Navigating ChatGPT Options: A Comparison Between Browsing-Enabled and Plugin Versions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/openais-struggle-with-ai-liberation/"><u>OpenAI's Struggle with AI Liberation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reassessing-paperclips-through-ais-lens-of-innovation/"><u>Reassessing Paperclips Through AI's Lens of Innovation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/recognizing-and-responding-to-chatgpt-phishing-sites-a-comprehensive-guide/"><u>Recognizing and Responding to ChatGPT Phishing Sites: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-site-design-with-chatgpts-methodology/"><u>Revolutionize Your Site Design with ChatGPT’s Methodology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-chatgpts-plugin-store-5-key-improvements-awaiting/"><u>Revolutionizing ChatGPT's Plugin Store - 5 Key Improvements Awaiting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-guide-changing-your-dall-e-3-creations-from-webp-format-to-jpeg-and-png/"><u>Simple Guide: Changing Your DALL-E 3 Creations From WebP Format to JPEG & PNG</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/six-typical-installation-hurdles-for-auto-gpt-and-their-solutions/"><u>Six Typical Installation Hurdles for Auto-GPT and Their Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fixing-a-pc-that-wont-proceed-past-the-windows-preparation-stage/"><u>Step-by-Step Guide to Fixing a PC That Won't Proceed Past the Windows Preparation Stage</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/strategic-youtube-content-publishing-to-boost-view-counts-for-2024/"><u>Strategic YouTube Content Publishing to Boost View Counts for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transitioning-visuals-from-android-to-apple-gear-for-2024/"><u>Transitioning Visuals From Android to Apple Gear for 2024</u></a></li>
 </ul></div>
 

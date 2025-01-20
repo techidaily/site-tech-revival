@@ -1,7 +1,7 @@
 ---
 title: "Conversations with Shadows: Decoding the Enigma of Posthumous Online Presence"
-date: 2025-01-08T17:29:39.160Z
-updated: 2025-01-13T21:44:33.734Z
+date: 2025-01-15T16:54:06.581Z
+updated: 2025-01-20T12:00:09.670Z
 tags:
   - chatgpt
   - open-ai
@@ -34,17 +34,21 @@ thumbnail: https://thmb.techidaily.com/53fe0eda386b7492486b516c7c80e84033132f711
 
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
-![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
 Close
 
  If you're on a Windows PC, you'll need to rely on third-party workarounds like[Whisper Desktop to turn your voice to text in real time](https://www.makeuseof.com/windows-whisper-desktop-guide/) .
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Send ChatGPT Prompts With Your Voice
 
@@ -62,28 +66,24 @@ Close
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
 
@@ -104,16 +104,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-8-best-screen-capture-tools-for-linux/"><u>[New] 2024 Approved Top 8 Best Screen Capture Tools for Linux</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-affordable-obs-adjustments-and-tweaks/"><u>[Updated] 2024 Approved Affordable OBS Adjustments and Tweaks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-motorola-moto-g73-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Motorola Moto G73 5G Unlock Without Password</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avchd2/"><u>AVCHD映像パーツへの巧みな分割方法：2種類の選択肢</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avipc-4/"><u>Avi形式最適PCアプリ無料コンパクト化ツール集 - 4つ選び!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-alternatives-to-mp3boo-discover-the-top-5-free-music-downloading-sites/"><u>Best Alternatives to MP3BOO: Discover the Top 5 Free Music Downloading Sites</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-mpeg-video-players-top-6-free-downloads-compatible-with-windows-mac-android-and-iphone/"><u>Best MPEG Video Players: Top 6 Free Downloads Compatible with Windows, Mac, Android & iPhone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/mastering-folder-synchronization-how-to-create-a-seamless-dropbox-mirror-on-various-versions-of-windows/"><u>Mastering Folder Synchronization: How to Create a Seamless Dropbox Mirror on Various Versions of Windows</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/sizzle-smile-and-savor-top-15-culinary-adventures-on-tiktok-for-2024/"><u>Sizzle, Smile, and Savor Top 15 Culinary Adventures on TikTok for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44gv44gplus44gw44gplus44gq44oh44oq44kk44k544gr5zci44kp44gb44gf44k544oi44oq44o844of44oz44kw5yuv55s75lplusd5a2y5pa55rov/"><u>さまざまなデバイスに合わせたストリーミング動画保存方法</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-unlocking-the-power-of-fb-giveaways-in-your-business-plan/"><u>[New] 2024 Approved Unlocking the Power of FB Giveaways in Your Business Plan</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-optimizing-your-youtube-video-preservation/"><u>[New] In 2024, Optimizing Your YouTube Video Preservation</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-expert-tweeting-tools-top-video-converters-for-2024/"><u>[Updated] Expert Tweeting Tools - Top Video Converters for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1716068674495-updated-in-2024-ultimate-recorder-select-top-12-no-timer/"><u>[Updated] In 2024, Ultimate Recorder Select Top 12, No Timer!</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/guia-completa-como-ejecutar-windows-10-en-una-memoria-usb-con-dos-tecnicas-distintas/"><u>Guía Completa: Cómo Ejecutar Windows 10 en Una Memoria USB Con Dos Técnicas Distintas</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-use-microsofts-copilot-image-creator-to-generate-unique-ai-images/"><u>How to Use Microsoft's Copilot Image Creator to Generate Unique AI Images</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ignite-creativity-unique-ai-art-with-the-power-of-microsofts-copilot/"><u>Ignite Creativity: Unique AI Art with the Power of Microsoft's Copilot</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-c50frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco C50FRP Lock</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-counterfeit-proof/"><u>Is ChatGPT Counterfeit-Proof?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-gpt-to-streamline-home-device-operations/"><u>Leveraging GPT to Streamline Home Device Operations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-imaginary-realms-with-ai-dialogue/"><u>Mastering Imaginary Realms with AI Dialogue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-ai-transparency-the-veracity-of-chatgpt-in-providing-accurate-information/"><u>Navigating AI Transparency: The Veracity of ChatGPT in Providing Accurate Information</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/openai-gpt-4-vs-google-palm-2-an-in-depth-look-at-their-unique-features/"><u>OpenAI GPT-4 Vs. Google PaLM 2: An In-Depth Look at Their Unique Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-phasmophobia-voice-chat-problems/"><u>Step-by-Step Solution for Phasmophobia Voice Chat Problems</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-creativity-the-10-most-popular-animated-text-creators/"><u>Updated Unleash Creativity The 10 Most Popular Animated Text Creators</u></a></li>
 </ul></div>
 

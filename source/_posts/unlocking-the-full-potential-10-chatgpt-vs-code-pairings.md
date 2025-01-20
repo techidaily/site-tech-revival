@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Full Potential: 10 ChatGPT-VS Code Pairings"
-date: 2025-01-06T19:27:56.410Z
-updated: 2025-01-14T07:04:46.966Z
+date: 2025-01-14T02:53:27.744Z
+updated: 2025-01-19T21:32:56.316Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -57,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
  This time, we've asked our AI tool to give us a three-day San Francisco itinerary for a couple's trip. Using the first tip mentioned in this guide and being more specific, we got a pretty good outline.
 
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
@@ -76,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
 [Avoiding common mistakes when using AI prompting tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) isn't always easy, but one of the main issues you'll encounter is trying to make the tool multitask. AI programs will often generate your results within a few minutes, but they can only do one thing at a time. If you try to ask too many things in one go, you won't get the results you want.
@@ -87,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
  Sometimes, you'll begin a prompt and realize you forgot to add further information. When this happens, stop or edit the current prompt and include those details before re-generating your answer.
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
@@ -101,13 +105,13 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
@@ -126,10 +130,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
 <ins class="adsbygoogle"
@@ -147,22 +147,16 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-resolution-showdown-gopro-vs-polaroids-editing-experience/"><u>[Updated] In 2024, Resolution Showdown GoPro Vs. Polaroid's Editing Experience</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-key-audio-changer-software-for-content-creators/"><u>[Updated] Key Audio Changer Software for Content Creators</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-retrieving-secret-snaps-tips-for-snapchats-private-photos-for-2024/"><u>[Updated] Retrieving Secret Snaps Tips for Snapchat's Private Photos for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-using-manycams-advanced-live-video-and-webcam-features/"><u>Enhance Your Online Presence Using ManyCam's Advanced Live Video and Webcam Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-using-manycams-advanced-virtual-webcam-features-for-seamless-livestreaming/"><u>Enhance Your Online Presence Using ManyCam's Advanced Virtual Webcam Features for Seamless Livestreaming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-with-manycam-top-notch-virtual-camera-solutions-for-real-time-broadcasts/"><u>Enhance Your Online Presence with ManyCam: Top-Notch Virtual Camera Solutions for Real-Time Broadcasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-with-manycams-advanced-video-editing-and-virtual-camera-features/"><u>Enhance Your Online Presence with ManyCam's Advanced Video Editing and Virtual Camera Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-streaming-experience-with-leading-virtual-camera-solutions-beyond-manycam/"><u>Enhance Your Streaming Experience with Leading Virtual Camera Solutions (Beyond ManyCam)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-video-conferencing-experience-with-multi-functional-webcams-supporting-manycam-compatibility/"><u>Enhance Your Video Conferencing Experience with Multi-Functional Webcams Supporting ManyCam Compatibility</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-asmrists-can-help-your-evening-routine-for-2024/"><u>How ASMRists Can Help Your Evening Routine for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-elevate-engagement-crafting-effective-youtube-shorts/"><u>In 2024, Elevate Engagement Crafting Effective YouTube Shorts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-discover-manycams-advanced-video-editing-and-virtual-webcam-features/"><u>Live Streaming Made Easy: Discover ManyCam's Advanced Video Editing and Virtual Webcam Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-discover-manycams-virtual-camera-solutions/"><u>Live Streaming Made Easy: Discover ManyCam's Virtual Camera Solutions</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-webm-video-compression-made-easy-best-online-services/"><u>New WebM Video Compression Made Easy Best Online Services</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-spreadsheet-phobia-how-to-leverage-chatgpt-in-excel/"><u>Overcoming Spreadsheet Phobia: How to Leverage ChatGPT in Excel</u></a></li>
-<li><a href="https://win-premium.techidaily.com/solution-pour-lerreur-windows-nest-pas-en-mesure-dacceder-au-dossier-partage/"><u>Solution Pour L’erreur 'Windows N’est Pas en Mesure D'accéder Au Dossier Partagé'</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/spark-ars-color-palette-expansion-via-free-accessible-lut-downloads/"><u>Spark AR's Color Palette Expansion via Free, Accessible LUT Downloads</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-elite-selection-of-10-websites-offering-free-photos/"><u>[New] 2024 Approved The Elite Selection of 10 Websites Offering FREE Photos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-infinity-sharp-monitors-top-5-gaming-panels-with-hdmi-21-ps5/"><u>[Updated] In 2024, Infinity Sharp Monitors Top 5 Gaming Panels with HDMI 2.1 [PS5]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm5bplusr6ygp44gr44k544oi44oq44o844og5lplusd5a2y44ks6kgm44gg44gf44kb44gu5a6j5ywo44gq6yyy55s75oqa6kgt44cn/"><u>「快適にストリーム保存を行うための安全な録画技術」</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-get-official-passport-photo-online-download-and-print-your-portraits-for-free/"><u>2024 Approved Get Official Passport Photo Online – Download & Print Your Portraits for FREE</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-quick-tips-incorporating-video-from-youtube-into-google-presentations/"><u>2024 Approved Quick Tips Incorporating Video From YouTube Into Google Presentations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cambia-facilmente-tu-fotografia-de-cr2-a-jpg-gratuita-usando-movavi-en-linea/"><u>Cambia Fácilmente Tu Fotografía De CR2 a JPG Gratuita Usando Movavi en Línea</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/codec-de-audio-libre-y-en-linea-convertir-mp3-a-webm-con-movavi/"><u>Códec De Audio Libre Y en Línea: Convertir MP3 a WebM Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-7-finest-no-cost-web-video-recording-apps-movavi-reviewed/"><u>Explore the 7 Finest No-Cost Web Video Recording Apps - Movavi Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mp3mov-movavi/"><u>MP3/MOVファイルを自由に変換！ - 動画対応のオンラインツールMovavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4-v-mp3-preobrazovanie-onlajn-besplatno-s-pomoshyu-servira-movavi-luchshie-rezultaty-dlya-polzovatelej-rossii/"><u>MP4 В MP3 Преобразование Онлайн Бесплатно С Помощью Сервира Movavi - Лучшие Результаты Для Пользователей России</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-nintendo-switch-breakdowns-restore-or-exchange/"><u>Navigating Nintendo Switch Breakdowns: Restore or Exchange?</u></a></li>
 </ul></div>
 

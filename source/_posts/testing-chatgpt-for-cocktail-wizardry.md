@@ -1,7 +1,7 @@
 ---
 title: Testing ChatGPT for Cocktail Wizardry
-date: 2025-01-11T19:12:10.762Z
-updated: 2025-01-14T11:25:30.066Z
+date: 2025-01-13T18:03:13.854Z
+updated: 2025-01-19T18:33:01.999Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Research the Type of Novel You Want to Write
 
  The first step in writing a book is to do research about your concept. This will include the narrative structure, length, and tropes to avoid (or incorporate).
@@ -42,9 +38,17 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 
 ![Asking ChatGPT What Tropes to Avoid in a Crime Thriller Novel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-what-tropes-to-avoid-crime-thriller-novel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Simply ask "what is the best narrative structure for a crime thriller". Or, if there's something in your book that necessitates specialized knowledge, like how an ice skating tournament works, ask exactly that and ChatGPT will generate the relevant information in a summary.
 
  Keep in mind that the chatbot might generate inaccurate answers, which is just one of the[big problems with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) , so it's essential to verify the results. You also need to ensure that whatever information you derive from ChatGPT is compatible with your theme; don't just settle for the first answer it spits out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Has Anyone Else Used the Same Idea Already?
 
@@ -53,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
  We are all influenced and inspired by the art and media around us, so it is possible that your concept is based on another book you've read or film you've watched. These ideas can take root in our minds, disguising themselves as our own. Just ask ChatGPT if your idea already exists.
 
 ![Asking ChatGPT to Check the Originality of Novel Concept](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-checking-the-originality-of-story-idea.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Your story will most likely draw upon a widely recognized framework of narratives in literature and film, such as an alien invasion or a money heist. So you need to be very specific with your prompt to ensure that ChatGPT has every element of your story to check its originality.
 
@@ -68,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 
  Editing the outline is critical; add any details ChatGPT missed, remove things that you don't like, or ask the chatbot to generate a new outline altogether. Now you've got something to work with, and it didn't take all day to put together!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Flesh Out the Characters and World
 
  If you don't have a clear vision of your characters or the world they're in, then you won't be able to paint a picture for your readers.
@@ -79,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
  You might already have an idea of who your protagonist is, but what about what they look like, their history, behaviors, goals, and flaws? Ask ChatGPT for ideas, or input a general description of what you already have in mind to get something more detailed.
 
 ![Asking ChatGPT to Elaborate on the World of Story Idea](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-elaborating-on-world-for-novel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The same goes for world. Don't know how to elaborate on "a dark forest"? Ask ChatGPT.
 
@@ -89,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
  Our foremost suggestion is to focus on character arc. Most readers tend to stay engaged when they genuinely care about the characters and their journey, even if the plot isn't phenomenal. But that doesn't mean that you should skimp on plot development.
 
  Whether you're struggling to go from scene to scene or need ideas for the overarching progression of your story, ChatGPT can help. You can even ask it for unique plot twist ideas if you want to steer clear of clichés.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Ask for Paraphrases and Synonyms
 
@@ -114,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 
  Remember that ChatGPT might not always get it right, plus grammar rules aren't the same across the board, so it might be worth getting a human copy editor instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Generate Novel Title Ideas
 
  The title of your novel is going to be what draws readers in, so it needs to be captivating. There are no rules here, it can be one word or ten, simple or complex, as long as it reflects your story.
@@ -123,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
  If you have no idea where to begin, jot down the main themes of your story and ask ChatGPT to generate title ideas based on that. You can also do this for individual chapter names.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Generate Book Cover Art Ideas
@@ -153,21 +153,22 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagram-victory-tackling-video-tribulations-head-on/"><u>[New] Instagram Victory Tackling Video Tribulations Head-On</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-swift-video-editing-made-easy-with-top-iosdesktop-apps-8/"><u>[New] Swift Video Editing Made Easy with Top iOS/Desktop Apps #8</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-elevate-your-presence-50plus-hashtags-on-the-rise-in-tiktok/"><u>2024 Approved Elevate Your Presence 50+ Hashtags on the Rise in TikTok</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-humor-how-chatgpts-joke-crafting-skills-compare-with-human-comedians/"><u>AI Humor: How ChatGPT's Joke-Crafting Skills Compare with Human Comedians</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-emotional-smarts-a-guide-on-leveraging-chatgpt/"><u>Boosting Emotional Smarts: A Guide on Leveraging ChatGPT</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/budget-friendly-pro-gamers-essentials-keyboards-for-2024/"><u>Budget-Friendly Pro Gamers' Essentials Keyboards for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-usage-can-vpns-improve-your-privacy/"><u>ChatGPT Usage: Can VPNs Improve Your Privacy?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-7-online-techniques-to-elevate-your-proficiency-in-prompt-engineering/"><u>Discover 7 Online Techniques to Elevate Your Proficiency in Prompt Engineering</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-blockchain-engagement-with-these-top-8-chatgpt-plugins/"><u>Enhance Your Blockchain Engagement with These Top 8 ChatGPT Plugins</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-0x80072f8f-in-windows-comprehensive-fixes-and-guidance-for-users/"><u>Error Code 0X80072F8F in Windows: Comprehensive Fixes and Guidance for Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/five-reasons-to-question-the-effectiveness-of-tools-like-zerogpt-for-spotting-ai-texts/"><u>Five Reasons to Question the Effectiveness of Tools Like ZeroGPT for Spotting AI Texts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-emotion-ai-interpret-human-sentiments-accurately/"><u>How Does Emotion AI Interpret Human Sentiments Accurately?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/optimizing-youtube-performance-crafting-perfect-titles-and-tags-for-2024/"><u>Optimizing YouTube Performance Crafting Perfect Titles and Tags for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-honor-magic-5-lite-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Honor Magic 5 Lite Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-identifying-if-the-latest-hiccup-on-playstation-network-is-widespve-or-individual-glitches/"><u>Troubleshooting Guide: Identifying if the Latest Hiccup on PlayStation Network Is Widespve or Individual Glitches</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-lava-agni-2-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Lava Agni 2 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-complete-guide-to-record-google-meet-for-free-as-hostpaticipants/"><u>[New] 2024 Approved Complete Guide to Record Google Meet for Free [As Host/Paticipants]</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-optimal-no-cost-android-video-maker/"><u>[New] In 2024, Optimal No-Cost Android Video Maker</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-google-meet-conversation-blueprint-for-success/"><u>[New] The Google Meet Conversation Blueprint for Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-free-video-conferencing-excellence-plus-screen-sharing-guide/"><u>[Updated] Free Video Conferencing Excellence + Screen Sharing Guide</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1-discover-the-top-3-effective-strategies/"><u>1. Discover the Top 3 Effective Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ace-interviews-the-ultimate-guide-to-writing-cover-letters-via-chatgpt/"><u>Ace Interviews: The Ultimate Guide to Writing Cover Letters via ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advancing-beyond-bounds-the-top-4-upgrades-needed-in-the-next-gpt-era/"><u>Advancing Beyond Bounds: The Top 4 Upgrades Needed in the Next GPT Era</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-advanced-ais-such-as-chatgpt-and-googles-bard-safe-to-guide-you-in-personal-wealth-management/"><u>Are Advanced AIs Such as ChatGPT and Google's Bard Safe to Guide You in Personal Wealth Management?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/auto-writing-systems-skip-their-own-critiques/"><u>Auto-Writing Systems Skip Their Own Critiques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-of-two-worlds-evaluating-google-bard-against-microsoft-bing-chat/"><u>Best of Two Worlds: Evaluating Google Bard Against Microsoft Bing Chat</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/browser-based-strategies-implementing-ai-with-agentgpt/"><u>Browser-Based Strategies: Implementing AI with AgentGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-conversational-ai-specifically-chatgpt-orchestrate-your-smart-home-ecosystems-seamlessly/"><u>Can Conversational AI, Specifically ChatGPT, Orchestrate Your Smart Home Ecosystems Seamlessly?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/challenging-the-notion-is-chatgpt-dumbing-down-or-remaining-intelligent/"><u>Challenging the Notion: Is ChatGPT Dumbing Down or Remaining Intelligent?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-winx-dvd-author-software-top-rated-free-dvd-burning-tool-for-windows-10-and-11/"><u>Free WinX DVD Author Software: Top Rated Free DVD Burning Tool for Windows 10 & 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/next-level-technologies-tailored-to-transform-your-bedtime-routine/"><u>Next-Level Technologies Tailored to Transform Your Bedtime Routine</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-13-zero-cost-hdd-evaluation-utilities-updated-for-july-2024/"><u>Top 13 Zero-Cost HDD Evaluation Utilities Updated for July 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-substitutes-for-elevenlabs-explored-detailed-comparison-and-key-characteristics/"><u>Top 5 Substitutes for ElevenLabs Explored: Detailed Comparison and Key Characteristics</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Scaling Up Intelligence: Identifying This Year's Most Promising AI Tech"
-date: 2025-01-13T00:24:40.551Z
-updated: 2025-01-13T17:54:05.226Z
+date: 2025-01-13T19:36:58.513Z
+updated: 2025-01-20T13:29:28.142Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Bing Chat and ChatGPT
 
  The first difference between Bing Chat and ChatGPT is in how you access each tool.
@@ -36,19 +40,23 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
 ![Screenshot of New Bing Introduction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-new-bing-introduction.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The process with ChatGPT is even simpler. First, you will need to create an[OpenAI](https://chat.openai.com/auth/login) account. Once created, you can use ChatGPT from any supported browser. This multi-browser compatibility marks the first notable difference. Bing Chat does offer a form of multi-browser support but with limited functionality.
 
 ![Screenshot of ChatGPT home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-home-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Comparing the Language Models of Bing Chat and ChatGPT
 
  One of the fundamental differences between the chatbots is the language model they use. Currently, free ChatGPT users are restricted to GPT-3.5, with the much-hyped GPT-4 only available to premium users.
 
  Bing Chat uses the latest version of the language model, GPT-4\. However, there are some[key differences between GPT-4 and GPT-3.5](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) :
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Creativity
 
@@ -62,13 +70,13 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Safety
 
  Moderating responses that were factually incorrect or otherwise unsuitable was performed "on the fly" with GPT-3.5\. In other words, it was a reactive strategy that acted after the horse had bolted. GPT-4 has safety measures designed into the model, meaning safety is more proactive. Where safety is a concern, Bing Chat technically has the upper hand.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Image Processing and Accuracy
 
@@ -87,7 +95,7 @@ For example, below is Bing Chat's effort at a simple limerick.
 ![Screenshot of Plastic Recycling Stats from Bing Chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-plastic-recycling-stats-from-bing-chat.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The response supplied figures as well as links to the sources from which the data was retrieved. However, the inclusion of US plastic exports was slightly out of context with the question. We would hesitate to call this a glitch, but it does show AI's tendency to wander off-topic at times.
@@ -97,7 +105,7 @@ By contrast, the ChatGPT response was to admit its limitations.
 ![Screenshot of ChatGPT response to recycling question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-recycling-question.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
@@ -118,10 +126,6 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which Is Best: Bing Chat or Chat GPT?
 
  There is no straightforward answer, as both tools are incredibly impressive.
@@ -139,10 +143,6 @@ By contrast, the ChatGPT response was to admit its limitations.
  Additionally, the ability to run on browsers other than Edge may make it more appealing to some.
 
  Ultimately, this is a case of choosing the right tool for the job. The beauty of this is that both platforms are free, so trying them both is quick and easy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Chatbots Are Here to Stay
 
@@ -163,22 +163,17 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-screen-building-a-youtube-trailer-in-filmora/"><u>[New] In 2024, From Script to Screen Building a YouTube Trailer in Filmora</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-easy-steps-to-share-your-screen-via-google-meet/"><u>[Updated] 2024 Approved Easy Steps to Share Your Screen via Google Meet</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-easy-way-to-edit-youtube-videos-in-imovie-for-2024/"><u>[Updated] Easy Way to Edit YouTube Videos in iMovie for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-generative-ai-assistants-of-2021-comparing-notion-with-microsofts-gpt-3-chatgpt/"><u>Best Generative AI Assistants of 2021: Comparing Notion with Microsoft's GPT-3 (ChatGPT)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategies-to-resolve-dbghelpdll-not-detected-mishaps/"><u>Comprehensive Strategies to Resolve 'Dbghelp.dll' Not Detected Mishaps</u></a></li>
-<li><a href="https://facebook.techidaily.com/deciphering-metas-status-symbol/"><u>Deciphering Meta's Status Symbol</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/empowering-data-management-gpt-meets-google-apps/"><u>Empowering Data Management: GPT Meets Google Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-the-value-of-auto-gpt-in-the-absence-of-gpt-4-capabilities/"><u>Evaluating the Value of Auto-GPT in the Absence of GPT-4 Capabilities</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/from-basics-to-brilliance-a-complete-guide-to-writing-impactful-biographies-for-2024/"><u>From Basics to Brilliance A Complete Guide to Writing Impactful Biographies for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-leverage-larger-thumbnails-for-video-success/"><u>In 2024, Leverage Larger Thumbnails for Video Success</u></a></li>
-<li><a href="https://win-answers.techidaily.com/nba-2k24-troubleshooting-overcoming-error-code-727e66ac-expert-tips-and-solutions/"><u>NBA 2K24 Troubleshooting: Overcoming Error Code 727E66ac - Expert Tips & Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pioneering-progress-in-ai-discovering-chatgpts-interpreter-masterpieces/"><u>Pioneering Progress in AI - Discovering ChatGPT's Interpreter Masterpieces</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-phenomenon-of-ai-powered-dialogue-systems/"><u>The Phenomenon of AI-Powered Dialogue Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-structuring-your-chatgpt-exchange-with-personalized-folder-systems/"><u>The Ultimate Guide to Structuring Your ChatGPT Exchange with Personalized Folder Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-top-10-chatgpt-prompts-revolutionizing-cryptocurrency-discussions/"><u>Ultimate Guide: Top 10 ChatGPT Prompts Revolutionizing Cryptocurrency Discussions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-chatgpt-usage-tips/"><u>Unveiling ChatGPT Usage Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-to-do-when-you-encounter-a-fake-chatgpt-website-a-guide/"><u>What to Do When You Encounter a Fake ChatGPT Website: A Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-2023s-ios-leading-psp-emulators-ranked-the-creme-de-la-creme/"><u>[New] 2024 Approved 2023'S iOS Leading PSP Emulators Ranked The Crème De La Crème</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-essential-tools-for-adding-framing-to-digital-pictures-2023-edition/"><u>[Updated] 2024 Approved Essential Tools for Adding Framing to Digital Pictures - 2023 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-mastering-quieter-audio-with-progressive-volume-reduction-in-lumafusion/"><u>[Updated] Mastering Quieter Audio with Progressive Volume Reduction in Lumafusion</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-new-magicard-rio-pro-driver-compatible-with-windows-10-81-and-7/"><u>Download the New Magicard Rio Pro Driver: Compatible with Windows 10, 8.1 & 7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-conversion-of-pef-format-effortless-with-movavi/"><u>Free Online Conversion of PEF Format: Effortless with Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-movavi-videobewerkplaat-eenvoudig-en-geavanceerd-editing-oplossing/"><u>Gratis Movavi Videobewerkplaat: Eenvoudig en Geavanceerd Editing-Oplossing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-tozo-t6-compatibility-problems-on-windows-11-devices/"><u>How to Solve Tozo T6 Compatibility Problems on Windows 11 Devices</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-ultimate-strategy-guide-to-boosting-view-count-on-youtube-shorts/"><u>In 2024, The Ultimate Strategy Guide to Boosting View Count on YouTube Shorts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movaviwebmpeiphoneandroidm4r/"><u>Movaviの無償WebベースMPE形式をiPhone/Android端末用にM4Rへ変換</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-unveiled-process-how-to-save-instagram-videos-with-computermac-os-for-2024/"><u>The Unveiled Process How to Save Instagram Videos with Computer/Mac OS for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/66qo67cu7j287zmuioqwgoukpe2vncdrkzag7jib7iobioqyso2vqsdrsknrspuglsdrr7jrsknsoitsnyqg7jye7zw07isc/"><u>모바일화 가능한 두 영상 결합 방법 - 미방전을 위해서</u></a></li>
 </ul></div>
 

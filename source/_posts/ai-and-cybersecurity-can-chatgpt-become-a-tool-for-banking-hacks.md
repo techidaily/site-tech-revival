@@ -1,7 +1,7 @@
 ---
 title: "AI and Cybersecurity: Can ChatGPT Become a Tool for Banking Hacks?"
-date: 2025-01-09T12:50:01.261Z
-updated: 2025-01-14T09:32:44.625Z
+date: 2025-01-19T00:38:34.363Z
+updated: 2025-01-19T16:40:25.688Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -63,24 +63,18 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techidaily.com/solved-download-directx-12-for-windows-11/"><u>[SOLVED] Download DirectX 12 for Windows 11</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-uncomplicated-techniques-for-keeping-a-transcript-of-google-voice-calls/"><u>[Updated] Uncomplicated Techniques for Keeping a Transcript of Google Voice Calls</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mpegmp4online-movavi/"><u>「MpegMP4ファイルを効率的に無料で変換！【Onlineツール】 - Movavi」</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/best-solutions-for-resolving-iphone-and-ipad-screen-freeze-post-update/"><u>Best Solutions for Resolving iPhone and iPad Screen Freeze Post-Update</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-tutorial-mastering-the-art-of-sharing-files-and-posting-online/"><u>Complete Tutorial: Mastering the Art of Sharing Files & Posting Online</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-how-the-samsung-galaxy-tab-s7-measures-up-in-the-mid-tier-android-tablet-category/"><u>Comprehensive Review: How the Samsung Galaxy Tab S7 Measures Up in the Mid-Tier Android Tablet Category</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-on-how-to-easily-handle-webm-imports-and-exports-with-adobe-after-effects/"><u>Comprehensive Tutorial on How to Easily Handle WebM Imports and Exports with Adobe After Effects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/converting-drp-files-to-mp4-in-davinci-resolve-a-step-by-step-guide/"><u>Converting DRP Files to MP4 in DaVinci Resolve - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-and-transfer-despicable-me-2-movie-from-dvd-to-computerportable-device-anytime/"><u>Download & Transfer 'Despicable Me 2' Movie From DVD to Computer/Portable Device, Anytime</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-guide-setting-up-matrix-compatible-sinister-chain-addons-in-kodi/"><u>Easy Guide: Setting Up Matrix-Compatible Sinister Chain Addons in Kodi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-techniques-for-perfectly-matching-your-voiceover-to-videos/"><u>Effortless Techniques for Perfectly Matching Your Voiceover to Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-troubleshooting-steps-when-windows-voice-recording-malfunctions/"><u>Essential Troubleshooting Steps When Windows Voice Recording Malfunctions</u></a></li>
-<li><a href="https://win-news.techidaily.com/exploring-cost-free-substitutes-to-wdsyncing-tools-what-are-your-options/"><u>Exploring Cost-Free Substitutes to WDSyncing Tools – What Are Your Options?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-elite-srs-conversions-maximum-benefits-for-tech-enthusiasts/"><u>In 2024, Elite SRS Conversions Maximum Benefits for Tech Enthusiasts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/introducing-chatgpt-the-new-desktop-application-launch/"><u>Introducing ChatGPT: The New Desktop Application Launch</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-the-htc-hd7-worth-your-investment-pros-and-cons-explored/"><u>Is the HTC HD7 Worth Your Investment? Pros and Cons Explored</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-scholarly-path-to-lower-costs-a-guide-for-saving-with-lenovo-as-a-student/"><u>The Scholarly Path to Lower Costs: A Guide for Saving with Lenovo as a Student</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/winning-at-freefire-top-strategies-and-hashtags-shared/"><u>Winning at FreeFire Top Strategies and Hashtags Shared</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/jcom-stream/"><u>スムーズにJ:COM STREAMで視聴したい！記録方法ガイド</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-illuminati-the-top-25-visionaries-you-need-to-see/"><u>[New] 2024 Approved Instagram Illuminati The Top 25 Visionaries You Need to See</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-pova-5-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-best-chatgpt-enabled-applications-for-interacting-with-text-in-pdfs/"><u>Discover the Best ChatGPT-Enabled Applications for Interacting with Text in PDFs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/engage-with-gpt-3s-beta-web-integration-advances/"><u>Engage with GPT-3's Beta Web Integration Advances</u></a></li>
+<li><a href="https://win-community.techidaily.com/enhancing-security-can-you-run-windows-defender-and-other-av-tools-simultaneously-learn-best-practices-yl-software/"><u>Enhancing Security: Can You Run Windows Defender and Other AV Tools Simultaneously? Learn Best Practices | YL Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertly-curated-audio-experience-on-android-for-2024/"><u>Expertly Curated Audio Experience on Android for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/exploring-screenflow-features-a-mac-developers-perspective-for-2024/"><u>Exploring ScreenFlow Features – A Mac Developer's Perspective for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-uncensored-ai-conversations-setting-up-a-freedomgpt-chatbot-on-your-windows-pc/"><u>Exploring Uncensored AI Conversations: Setting Up a FreedomGPT Chatbot on Your Windows PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/feature-face-off-which-is-better-ring-or-nest-doorbells/"><u>Feature Face-Off: Which Is Better, Ring or Nest Doorbells?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-words-to-waves-mastering-sound-synthesis-via-ai/"><u>From Words to Waves: Mastering Sound Synthesis via AI</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-a-unresponsive-windows-start-button/"><u>How to Reactivate a Unresponsive Window's Start Button</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-to-enable-the-facebook-marketplace-feature-for-users/"><u>Navigating to Enable the Facebook Marketplace Feature for Users</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-video-dubbing-made-easy-top-software-for-pc-free-download/"><u>New 2024 Approved Video Dubbing Made Easy Top Software for PC (Free Download)</u></a></li>
 </ul></div>
 

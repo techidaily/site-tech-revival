@@ -1,7 +1,7 @@
 ---
 title: "From Simple to Sophisticated: AI Dialogue Journey"
-date: 2024-12-27T18:08:42.439Z
-updated: 2024-12-29T08:37:12.551Z
+date: 2025-01-13T05:20:16.157Z
+updated: 2025-01-20T00:57:30.529Z
 tags:
   - chatgpt
   - open-ai
@@ -44,21 +44,17 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. pay.chatgptftw.com
 
@@ -66,13 +62,13 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
 
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. AI Photo
 
@@ -83,13 +79,13 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
@@ -101,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
  If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
@@ -129,15 +129,17 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-streamlined-steps-to-document-chat-calls-on-whatsapp-for-2024/"><u>[New] Streamlined Steps to Document Chat Calls on WhatsApp for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-innovative-stride-solutions-top-vr-treadmills-reviewed/"><u>2024 Approved Innovative Stride Solutions Top VR Treadmills Reviewed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-app-not-working-on-your-iphone-9-fixes-to-try/"><u>ChatGPT App Not Working on Your iPhone? 9 Fixes to Try</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/critical-review-of-dall-e-s-edit-capabilities-where-it-excels-and-where-it-falls-short/"><u>Critical Review of DALL-E ’S Edit Capabilities - Where It Excels and Where It Falls Short</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-chatgpt-unlock-the-power-of-cutting-edge-generative-artificial-intelligence/"><u>Demystifying ChatGPT: Unlock the Power of Cutting-Edge Generative Artificial Intelligence</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/effortless-guide-for-transforming-caf-audio-to-mp3-on-pcs-mac-computers-and-via-online-tools/"><u>Effortless Guide for Transforming CAF Audio to MP3 on PCs, Mac Computers & via Online Tools</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-15-plus-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From Apple iPhone 15 Plus If Youve Tried Everything</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silenced-anthem-in-windows-11-top-fixes-for-restoring-gaming-audio/"><u>Silenced Anthem in Windows 11 - Top Fixes for Restoring Gaming Audio</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tapping-into-the-future-activating-beta-browser-options/"><u>Tapping Into the Future: Activating Beta Browser Options</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/vimeo-and-youtube-a-compreayer-of-their-core-philosophies-for-2024/"><u>Vimeo and YouTube A Compreayer of Their Core Philosophies for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevate-your-edits-10-essential-apps-for-instagram-videos/"><u>[New] In 2024, Elevate Your Edits 10 Essential Apps for Instagram Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-track-a-step-by-step-guide-for-swiftly-deleting-comments-on-youtube/"><u>[Updated] 2024 Approved Fast Track A Step by Step Guide for Swiftly Deleting Comments on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-secure-communication-made-easy-the-best-10-free-and-protected-video-conferencing-tools/"><u>[Updated] In 2024, Secure Communication Made Easy The Best 10 Free and Protected Video Conferencing Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-mp3-to-ogg-conversion-tool-by-movavi-effortless-audio-format-transformation/"><u>Free Online MP3 to Ogg Conversion Tool by Movavi: Effortless Audio Format Transformation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-lava-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Lava on Mac?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-f15-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy F15 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/magazine-forecasts-or-machine-learning-which-offers-better-insight-into-your-tomorrow/"><u>Magazine Forecasts or Machine Learning: Which Offers Better Insight Into Your Tomorrow?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-email-communication-at-work-with-ai-powered-tool-chatgpt/"><u>Mastering Email Communication at Work with AI-Powered Tool, ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mistral-ais-le-chat-in-focus-an-informative-guide-to-how-it-matches-up-with-chatgpt/"><u>Mistral AI's Le Chat in Focus: An Informative Guide to How It Matches Up with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-ai-language-models-analyzing-similarities-and-differences-between-gpt-and-bert/"><u>Navigating Through AI Language Models: Analyzing Similarities & Differences Between GPT & BERT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsungs-hidden-gem-a-top-tier-affordable-tablet-for-labor-day-specials-zdnets-inside-look/"><u>Samsung’s Hidden Gem: A Top-Tier, Affordable Tablet for Labor Day Specials - ZDNet's Inside Look</u></a></li>
 </ul></div>
 
