@@ -1,7 +1,7 @@
 ---
 title: "Professional Note-Taking Mastery with ChatGPT: A Comprehensive Guide"
-date: 2025-01-18T21:50:49.087Z
-updated: 2025-01-20T01:28:56.840Z
+date: 2025-01-25T05:25:26.208Z
+updated: 2025-01-25T23:15:22.215Z
 tags:
   - chatgpt
   - open-ai
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 
  Despite these nuances, ChatGPT and Bing execute similar functions. With the correct prompts, they could write essays, answer general knowledge queries, recap books, and scrutinize arguments, among other tasks. Just expect varied responses based on their trained datasets.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Conversational Language
 
  ChatGPT and Bing both use the GPT model. This advanced natural language processing (NLP) system responds to prompts with human-like text. It answers follow-up questions, analyzes problems, and challenges non-factual statements.
@@ -46,15 +42,15 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 
 ![Having a Casual, Normal Conversation With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-normal-conversation.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the other hand,[Bing AI uses GPT-4](https://blogs.bing.com/search/march%5F2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4) , an iteration of ChatGPT’s language model. Its output sounds casual and genuine.
 
 ![Generating Creative Responses from Microsoft Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-bing-creative-responses.jpg)
 
  Currently, you can only[access GPT-4 on ChatGPT](https://www.makeuseof.com/how-to-use-gpt4/) by upgrading to ChatGPT Plus for $20 a month.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Data Accuracy
 
@@ -66,11 +62,11 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 
 ![Asking Bing AI About ChatGPT Launch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-giving-precise-dates.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It’s also worth noting that Bing's AI cites sources. Neither platform guarantees 100% accuracy, but knowing which resources to double-check streamlines fact-checking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Mathematical Precision
 
@@ -81,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
  Now, however, discrepancies only arise when you explore the more intricate branches of math, such as advanced statistics, physics, and probability. For example, ChatGPT can already intermediate-level physics questions like this correctly.
 
 ![ChatGPT Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solving-physics-questions.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Bing AI answers the same physics question correctly.
 
@@ -98,12 +90,20 @@ Bing AI answers the same physics question correctly.
 
 ![Overriding ChatGPT Limits Through Character Portrayal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-tomie-portrayal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Bing's AI bot faces similar cybersecurity risks. It combats them by enforcing stricter limitations, reducing the platform’s susceptibility to jailbreaking. Conversations get terminated if you mention anything unusual.
 
 ![Bing AI Ends Conversation for Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bingai-security-feature.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Accessibility
@@ -125,12 +125,16 @@ Bing AI answers the same physics question correctly.
  Thankfully, Microsoft since lifted the waitlist. Users gain instant access after creating an email account and downloading Microsoft Edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Functionality
 
 ![Setting Custom Instructions for Prompts on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/custom-instructions-on-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Bing's AI bot has a more advanced language model and broader dataset, boosting its functionality over ChatGPT. It even uses its search engine before responding. You can expect to get more accurate, reliable responses and up-to-date information.
 
@@ -141,10 +145,6 @@ Bing AI answers the same physics question correctly.
  ChatGPT will automatically apply these to every conversation moving forward, unless you instruct otherwise. It’s a helpful feature if you need specific, personalized output.
 
  Instead of feeding Bing's AI and ChatGPT generic prompts, curate unique ones based on their language models. The quality of their responses depends on your prompts. Aim to maximize the AI tool’s datasets without violating its guidelines.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Fees
 
@@ -165,7 +165,7 @@ Bing AI answers the same physics question correctly.
  These restrictions vary per platform.[ChatGPT has a high upper limit](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) that can process around 3,000 words per turn, assuming they’re all relevant and related. Meanwhile, Bing AI has a much smaller limit. It caps users to 30 turns, after which you must start a new conversation or restate your custom instructions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Use Bing's AI or ChatGPT?
@@ -187,16 +187,24 @@ Bing AI answers the same physics question correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-design-principles-for-captivating-fb-advertising/"><u>[New] 2024 Approved Design Principles for Captivating FB Advertising</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-secure-your-conversations-mastering-free-and-paid-skype-captures-on-pcsmac/"><u>[New] 2024 Approved Secure Your Conversations Mastering Free and Paid Skype Captures on PCs/Mac</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-elevate-your-drone-videos-with-the-best-editing-programs/"><u>[New] In 2024, Elevate Your Drone Videos with the Best Editing Programs</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-ultimate-guide-to-cross-social-sharing/"><u>[Updated] 2024 Approved The Ultimate Guide to Cross-Social Sharing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/discover-the-leading-free-game-recording-tools/"><u>Discover the Leading Free Game Recording Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/interactive-learning-on-utilizing-openais-api-capabilities/"><u>Interactive Learning on Utilizing OpenAI's API Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/introducing-bard-googles-new-ai-contender-against-chatgpt/"><u>Introducing 'Bard': Google's New AI Contender Against ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/introducing-mac-friendly-communication-with-gpt/"><u>Introducing Mac-Friendly Communication with GPT</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/invigorate-clips-with-top-winter-backdrop-choices-for-2024/"><u>Invigorate Clips with Top Winter Backdrop Choices for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-gemini-the-future-of-ai-beyond-chatgpts-reach/"><u>Is Gemini the Future of AI Beyond ChatGPT's Reach?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-the-chatgpt-for-windows-authentic-a-deep-dive-into-browser-extensions/"><u>Is the ChatGPT for Windows Authentic? A Deep Dive Into Browser Extensions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-best-scribblers-ios-and-androids-leading-image-editors-for-2024/"><u>[New] Best Scribblers IOS & Android's Leading Image Editors for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-creating-an-efficient-framework-for-ps3-game-screencasts/"><u>[New] In 2024, Creating an Efficient Framework for PS3 Game Screencasts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ush-boundaries-with-unique-split-screen-videos-for-youtube/"><u>[New] Push Boundaries with Unique Split-Screen Videos for YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-mastering-gopro-livestreams-connecting-to-facebook-and-periscope/"><u>[Updated] In 2024, Mastering Gopro Livestreams Connecting to Facebook & Periscope</u></a></li>
+<li><a href="https://extra-information.techidaily.com/23-key-metaverse-implementations-unveiling-future-prospects/"><u>23 Key Metaverse Implementations Unveiling Future Prospects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/access-free-ai-with-gpt-n4-but-dont-overlook-these-top-6-benefits-of-sticking-to-chatgpt-plus/"><u>Access Free AI with GPT-N4, but Don't Overlook These Top 6 Benefits of Sticking to ChatGPT Plus</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-the-launch-error-of-granblue-fantasys-link-replacement-feature/"><u>Addressing the Launch Error of Granblue Fantasy's Link Replacement Feature</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/anthropics-guide-to-claude-3-toolbox/"><u>Anthropic's Guide to Claude 3 Toolbox</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/courteous-conversations-with-voice-controlled-tech-siri-gpt/"><u>Courteous Conversations with Voice-Controlled Tech (Siri, GPT)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-game-crash-issues-black-screen-solutions-for-resident-evil-village/"><u>How to Overcome Game-Crash Issues: Black Screen Solutions for Resident Evil Village</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-in-depth-steps-to-document-googles-collaborative-sessions/"><u>In 2024, In-Depth Steps to Document Google's Collaborative Sessions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oppo-a56s-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo A56s 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-time-management-discover-the-top-7-shared-calendars-for-families/"><u>Mastering Time Management: Discover the Top 7 Shared Calendars for Families</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-tips-for-leveraging-chatgpts-personalized-guidelines/"><u>Top 5 Tips for Leveraging ChatGPT's Personalized Guidelines</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-ai-prompt-platforms-the-ultimate-list-of-markets/"><u>Top 7 AI Prompt Platforms: The Ultimate List of Markets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformative-presentation-tech-explore-the-top-7-ai-tools-to-elevate-your-slides/"><u>Transformative Presentation Tech: Explore the Top 7 AI Tools to Elevate Your Slides</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/uncharted-dialogues-with-gpt-powered-systems/"><u>Uncharted Dialogues with GPT-Powered Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-full-potential-of-your-images-with-dall-es-format-conversion/"><u>Unlock the Full Potential of Your Images with DALL-E's Format Conversion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-your-potential-the-six-advantages-of-using-chatgpt-as-a-worker-or-job-seeker/"><u>Unlock Your Potential: The Six Advantages of Using ChatGPT as a Worker or Job Seeker</u></a></li>
 </ul></div>
 

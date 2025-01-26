@@ -1,7 +1,7 @@
 ---
 title: Microsoft and AI Merge for Next-Gen Bing Searches
-date: 2025-01-13T20:45:54.604Z
-updated: 2025-01-20T07:07:52.446Z
+date: 2025-01-23T14:02:31.920Z
+updated: 2025-01-26T10:18:17.224Z
 tags:
   - chatgpt
   - open-ai
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
  Why are people so hyped about setting up their own[large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) on their computers? Beyond the hype and bragging rights, what are some practical benefits?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Less Censorship
 
  When ChatGPT and Bing AI first came online, the things both chatbots were willing to say and do were as fascinating as they were alarming. Bing AI acted warm and lovely, like it had emotions. ChatGPT was willing to use curse words if you asked nicely. At the time, both chatbots would even help you make a bomb if you used the right prompts. This might sound like all shades of wrong, but being able to do anything was emblematic of the unrestricted capabilities of the language models that powered them.
@@ -50,16 +46,12 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
  One of the primary reasons people opt for a local LLM is to ensure that whatever happens on their computer stays on their computer. When you use a local LLM, it's like having a conversation privately in your living room—no one outside can listen in. Whether you're experimenting with your credit card details or having sensitive personal conversations with the LLM, all the resulting data is stored only on your computer. The alternative is using publicly-facing LLMs like GPT-4, which gives the companies in charge access to your chat information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offline Usage
 
  With the internet being widely affordable and accessible, offline access might seem like a trivial reason to use a local LLM. Offline access could become especially critical in remote or isolated locations where internet service is unreliable or unavailable. In such scenarios, a local LLM operating independently of an internet connection becomes a vital tool. It allows you to continue doing whatever you want to do without interruption.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Cost Savings
@@ -67,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
  The average price of accessing a capable LLM like GPT-4 or Claude 2 is $20 per month. Although that might not seem like an alarming price, you still get several annoying restrictions for that amount. For instance, with GPT-4, accessed via ChatGPT, you are stuck with a 50-message per three-hour cap. You can only get past those limits by[switching to the ChatGPT Enterprise plan](https://www.makeuseof.com/what-is-chatgpt-enterprise/) , which could potentially cost thousands of dollars. With a local LLM, once you've set up the software, there are no $20 monthly subscription or recurring costs to pay. It's like buying a car instead of relying on ride-share services. Initially, it's expensive, but over time, you save money.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Better Customization
@@ -77,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 ## The Cons of Using Local LLMs
 
 ![An illustration of a young boy using ChatGPT on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-child.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Before you make the switch, there are some downsides to using a local LLM you should consider.
 
@@ -94,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
  Deploying a local LLM is more involved than just signing up for a web-based AI service. With an internet connection, your ChatGPT, Bard, or Bing AI account could be ready to start prompting in minutes. Setting up a full local LLM stack requires downloading frameworks, configuring infrastructure, and integrating various components. For larger models, this complex process can take hours, even with tools that aim to simplify installation. Some bleeding-edge AI systems still require deep technical expertise to get running locally. So, unlike plug-and-play web-based AI models, managing your own AI involves a significant technical and time investment.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Limited Knowledge
 
  A lot of local LLMs are stuck in the past. They have limited knowledge of current events. Remember when ChatGPT couldn't access the internet? When it could only provide answers to questions about events that occurred before September 2021? Yes? Well, similar to early ChatGPT models, locally hosted language models are often trained only on data before a certain cutoff date. As a result, they lack awareness of recent developments after that point.
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
  Additionally, local LLMs can't access live internet data. This restricts usefulness for real-time queries like stock prices or weather. To enjoy a semblance of real-time data, local LLMs will typically require an additional layer of integration with internet-connected services. Internet access is one of the reasons you might[consider upgrading to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/) !
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Use a Local LLM?
@@ -125,20 +125,16 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-quick-ways-to-reshuffle-youtube-tracks-on-pcphonetv/"><u>[New] In 2024, Quick Ways to Reshuffle YouTube Tracks on PC/Phone/TV</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-to-maximizing-your-roi-on-spotify-ads/"><u>[New] Step-by-Step Guide to Maximizing Your ROI on Spotify Ads</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-viewer-interest-6-essential-video-formats/"><u>[Updated] Mastering Viewer Interest 6 Essential Video Formats</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/2024-win11/"><u>2024 上市前 Win11 圖像編輯器推荐清單</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mkamp4-movavi/"><u>無限制地瀏覽：將MKA格式自動化變更成MP4 - 使用 Movavi 編解碼工具</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-step-by-step-tutorial-on-video-downscaling-for-smooth-uploads-to-whatsapp-across-devices/"><u>A Step-by-Step Tutorial on Video Downscaling for Smooth Uploads to WhatsApp Across Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convertissez-des-fichiers-audio-au-format-mp3-directement-sur-internet-le-guide-facile-de-movavi/"><u>Convertissez Des Fichiers Audio Au Format MP3 Directement Sur Internet – Le Guide Facile De Movavi</u></a></li>
-<li><a href="https://facebook.techidaily.com/dissecting-facebooks-masked-user-decline/"><u>Dissecting Facebook's Masked User Decline</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-amd-radeon-rx-480-drivers-latest-updates-and-installation-guide/"><u>Download AMD Radeon RX 480 Drivers: Latest Updates and Installation Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/efficient-weg-ontsnappen-van-hintergrundbomen-in-beeldvorming-de-gids-voor-movavi/"><u>Efficiënt Weg Ontsnappen Van Hintergrundbomen in Beeldvorming: De Gids Voor Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-converter-change-flv-files-into-wav-format-with-moveave/"><u>Free Online Converter: Change FLV Files Into WAV Format with Moveave</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guia-gratuita-para-transformar-tu-wma-y-wmv-en-m4r-facilmente-usando-la-herramienta-online-de-movavi/"><u>Guía Gratuita Para Transformar Tu WMA Y WMV en M4R Fácilmente Usando La Herramienta Online De Movavi</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/inclusive-iptv-broadcast-architecture-for-2024/"><u>Inclusive IPTV Broadcast Architecture for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/lock-down-a-steal-save-250-on-top-tier-rtx-4090-gaming-setup/"><u>Lock Down a Steal! Save $250 on Top-Tier RTX 4090 Gaming Setup</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-user-interactions-how-adobe-utilizes-generative-ai-for-enhanced-customer-experiences/"><u>Revolutionizing User Interactions: How Adobe Utilizes Generative AI for Enhanced Customer Experiences</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-crafting-personalized-instagram-story-sections/"><u>[New] In 2024, Crafting Personalized Instagram Story Sections</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-directcapture-pro-windows-11-recording-made-simple/"><u>[Updated] DirectCapture Pro - Windows 11 Recording Made Simple</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advancing-originality-in-writing-the-role-of-chatgpt-in-crafting-compelling-content-projects/"><u>Advancing Originality in Writing: The Role of ChatGPT in Crafting Compelling Content Projects</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oppo-find-x7-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Oppo Find X7 Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-motorola-moto-g-stylus-5g-2023-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Motorola Moto G Stylus 5G (2023)? Try These Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-insight-behind-emotion-sensitive-technology-how-well-does-it-really-read-our-feelings/"><u>The Insight Behind Emotion-Sensitive Technology: How Well Does It Really Read Our Feelings?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-5-revolutionary-ai-applications-for-entrepreneurs/"><u>The Ultimate Guide to 5 Revolutionary AI Applications for Entrepreneurs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-ai-interactions-with-these-7-ingenious-prompt-techniques-that-work/"><u>Transform Your AI Interactions with These 7 Ingenious Prompt Techniques That Work!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-tension-with-gpt-help/"><u>Transform Your Tension with GPT Help</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/turing-test-upgrades-top-5-contemporary-approaches/"><u>Turing Test Upgrades: Top 5 Contemporary Approaches</u></a></li>
 </ul></div>
 

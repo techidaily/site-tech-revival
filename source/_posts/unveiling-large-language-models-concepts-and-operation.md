@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Large Language Models: Concepts & Operation"
-date: 2025-01-17T04:58:41.769Z
-updated: 2025-01-20T06:51:54.959Z
+date: 2025-01-24T19:16:55.511Z
+updated: 2025-01-25T20:37:18.540Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Speak to ChatGPT
 
  ChatGPT's Whisper integration allows you to use your voice to speak with ChatGPT instead of typing. The beauty of this lies in the fact that you can speed up your prompts instead of typing long and descriptive sentences.
@@ -32,20 +36,12 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -68,18 +64,22 @@ Close
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
-![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 Close
 
@@ -104,20 +104,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-your-cameras-potential-with-top-rated-drones-gimbals/"><u>2024 Approved Unleashing Your Camera's Potential with Top-Rated Drones Gimbals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-movavi-movie-collection-indexed-and-categorized/"><u>Complete Movavi Movie Collection Indexed and Categorized</u></a></li>
-<li><a href="https://games-able.techidaily.com/current-currents-of-change/"><u>Current Currents of Change</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/descargas-gratuitas-para-convertir-archivos-ogg-a-mp3-y-otros-formatos/"><u>Descargas Gratuitas Para Convertir Archivos OGG a MP3 Y Otros Formatos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guida-esclusiva-ai-migliori-creatori-di-contenuti-youtube-nel-2024-download-delle-video-lezioni-senza-costi/"><u>Guida Esclusiva Ai Migliori Creatori Di Contenuti YouTube Nel 2024: Download Delle Video-Lezioni Senza Costi!</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-note-12-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi Note 12 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-y100-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo Y100 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/revitalize-your-pc-a-guide-to-refreshing-windows-drivers-with-yl-computing/"><u>Revitalize Your PC: A Guide to Refreshing Windows Drivers with YL Computing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-art-of-capturing-conversations-iphoneipad-tips-for-top-quality-interviews-for-2024/"><u>The Art of Capturing Conversations IPhone/iPad Tips for Top Quality Interviews for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-editores-de-video-para-nuevos-creadores-eleccion-perfecta/"><u>Top 10 Editores De Video Para Nuevos Creadores: Elección Perfecta</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-gratuit-et-paid-software-de-creation-de-cartes-anniversaire-comparatif/"><u>Top Gratuit Et Paid Software De Création De Cartes Anniversaire: Comparatif</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/topo-5-ferramentas-mais-populares-para-converter-imagens-em-arte-por-artistas-iniciante-gratuito/"><u>Topo 5 Ferramentas Mais Populares Para Converter Imagens Em Arte Por Artistas Iniciante, Gratuito</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshoot-and-fix-stuttering-in-grounded-expert-advice-for-smooth-gaming/"><u>Troubleshoot & Fix Stuttering in 'Grounded': Expert Advice for Smooth Gaming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/aifc-movavi/"><u>무료 AIFC 웹 매디어를 사용하여: Movavi 구현 방법</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-complete-hp-laptop-screen-recording-manual/"><u>[Updated] In 2024, The Complete HP Laptop Screen Recording Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-sustaining-wellbeing-in-virtual-reality/"><u>[Updated] Sustaining Wellbeing in Virtual Reality</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-deep-dive-into-digital-platform-wealth-dailymotion-and-youtube-comparison/"><u>2024 Approved A Deep-Dive Into Digital Platform Wealth Dailymotion & YouTube Comparison</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-asus-rog-phone-8-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Asus ROG Phone 8 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-linux-setup-not-wsl/"><u>Efficient Linux Setup, Not WSL</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-vs-huggingface-duel-who-wins/"><u>GPT Vs. Huggingface Duel: Who Wins?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpts-future-foresight-versus-astrology-wonders/"><u>GPT’s Future Foresight Versus Astrology Wonders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-chatgpt-skyrocketed-unveiling-5-key-reasons-for-its-rapid-rise/"><u>How ChatGPT Skyrocketed: Unveiling 5 Key Reasons for Its Rapid Rise</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-far-can-you-take-your-conversations-with-chatgpt/"><u>How Far Can You Take Your Conversations with ChatGPT?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-htc-u23-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For HTC U23 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Honor X9b | Dr.fone</u></a></li>
 </ul></div>
 

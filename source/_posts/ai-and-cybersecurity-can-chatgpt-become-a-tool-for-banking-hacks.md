@@ -1,7 +1,7 @@
 ---
 title: "AI and Cybersecurity: Can ChatGPT Become a Tool for Banking Hacks?"
-date: 2025-01-19T00:38:34.363Z
-updated: 2025-01-19T16:40:25.688Z
+date: 2025-01-23T00:27:17.347Z
+updated: 2025-01-26T15:07:45.060Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -63,18 +63,22 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-illuminati-the-top-25-visionaries-you-need-to-see/"><u>[New] 2024 Approved Instagram Illuminati The Top 25 Visionaries You Need to See</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-pova-5-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-best-chatgpt-enabled-applications-for-interacting-with-text-in-pdfs/"><u>Discover the Best ChatGPT-Enabled Applications for Interacting with Text in PDFs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/engage-with-gpt-3s-beta-web-integration-advances/"><u>Engage with GPT-3's Beta Web Integration Advances</u></a></li>
-<li><a href="https://win-community.techidaily.com/enhancing-security-can-you-run-windows-defender-and-other-av-tools-simultaneously-learn-best-practices-yl-software/"><u>Enhancing Security: Can You Run Windows Defender and Other AV Tools Simultaneously? Learn Best Practices | YL Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expertly-curated-audio-experience-on-android-for-2024/"><u>Expertly Curated Audio Experience on Android for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/exploring-screenflow-features-a-mac-developers-perspective-for-2024/"><u>Exploring ScreenFlow Features – A Mac Developer's Perspective for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-uncensored-ai-conversations-setting-up-a-freedomgpt-chatbot-on-your-windows-pc/"><u>Exploring Uncensored AI Conversations: Setting Up a FreedomGPT Chatbot on Your Windows PC</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/feature-face-off-which-is-better-ring-or-nest-doorbells/"><u>Feature Face-Off: Which Is Better, Ring or Nest Doorbells?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-words-to-waves-mastering-sound-synthesis-via-ai/"><u>From Words to Waves: Mastering Sound Synthesis via AI</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reactivate-a-unresponsive-windows-start-button/"><u>How to Reactivate a Unresponsive Window's Start Button</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-to-enable-the-facebook-marketplace-feature-for-users/"><u>Navigating to Enable the Facebook Marketplace Feature for Users</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-video-dubbing-made-easy-top-software-for-pc-free-download/"><u>New 2024 Approved Video Dubbing Made Easy Top Software for PC (Free Download)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mov-file-saving-techniques-for-windows-11-users/"><u>[New] In 2024, .MOV File Saving Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-achieve-clear-and-smooth-video-outputs-with-these-logitech-camera-insights/"><u>[New] In 2024, Achieve Clear & Smooth Video Outputs with These Logitech Camera Insights</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-mold-sharable-imagery-in-adobe-software/"><u>[Updated] In 2024, Mold Sharable Imagery in Adobe Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/s-unlimited-free-high-quality-green-screen-footage-online/"><u>Access Unlimited Free, High-Quality Green Screen Footage Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-ai-debate-is-gemini-the-better-choice-over-chatgpt-plus/"><u>Advanced AI Debate: Is Gemini the Better Choice Over ChatGPT Plus?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-use-chatgpt-right-now-explore-five-ways-to-verify-its-up-and-running/"><u>Can You Use ChatGPT Right Now? Explore Five Ways to Verify It’s Up and Running</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dall-e-3-upgrades-introducing-edit-functions-with-development-needed/"><u>DALL-E 3 Upgrades: Introducing Edit Functions with Development Needed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-installation-pathway-setting-up-llama-2-in-local-environment/"><u>Easy Installation Pathway: Setting Up Llama 2 in Local Environment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-personal-care-with-chatgpts-cutting-edge-uses/"><u>Elevating Personal Care with ChatGPT's Cutting-Edge Uses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eliminate-misguided-ai-outputs-with-these-six-strategic-prompting-approaches/"><u>Eliminate Misguided AI Outputs with These Six Strategic Prompting Approaches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722093182035-experience-cutting-edge-ai-search-on-the-go-with-bings-new-app-support-for-android-and-ios/"><u>Experience Cutting-Edge AI Search on the Go with Bing's New App Support for Android and iOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-the-latest-from-openai-your-step-by-step-guide-to-their-exclusive-gpt-shop/"><u>Experience the Latest From OpenAI - Your Step-by-Step Guide to Their Exclusive GPT Shop</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-icloud-integration-for-apple-pages-documents-expert-strategies/"><u>Mastering iCloud Integration for Apple Pages Documents: Expert Strategies</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-exploring-the-wilderness-on-your-phone-10-premium-nature-sounds-apps/"><u>New Exploring the Wilderness on Your Phone 10 Premium Nature Sounds Apps</u></a></li>
+<li><a href="https://win-best.techidaily.com/unveiling-new-features-in-pcdj-dex-v310plus-interactive-karaoke-tutorial-with-step-by-step-demonstration/"><u>Unveiling New Features in PCDJ DEX V3.10+: Interactive Karaoke Tutorial with Step-by-Step Demonstration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/winxdvd-nutzen-zum-komprimieren-grosser-videoinhalte-fur-whatsapp-ohne-bild-und-tonqualitatseinbussen/"><u>WinXDVD Nutzen Zum Komprimieren Großer Videoinhalte Für WhatsApp Ohne Bild- Und Tonqualitätseinbußen</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The New Era of AI-Powered Bing by Microsoft – What Changes Will You See?
-date: 2025-01-16T21:24:13.201Z
-updated: 2025-01-20T11:54:38.552Z
+date: 2025-01-23T14:17:24.164Z
+updated: 2025-01-25T18:10:23.678Z
 tags:
   - chatgpt
   - open-ai
@@ -28,17 +28,9 @@ thumbnail: https://thmb.techidaily.com/5007fff59cf8da665a883eea8dc45d22315969cbd
 
  If you want to try DALL-E 3 but don't want to pay for a ChatGPT Plus subscription, there's an easy way around it. Microsoft Bing has a powerful DALL-E 3 integration, and right now, you can use it for free.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Access DALL-E 3 With Microsoft Bing
 
 ![A half human half robot character generated with DALL-E 3 on Bing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/a-half-human-half-robot-character-generated-with-dall-e-3-on-bing.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Bing is a search engine featuring an AI chat function and an AI Image Creator. Thanks to a partnership with OpenAI, Microsoft was the first company to integrate DALL-E 3 into its products. This means you can use DALL-E 3 for free using either of the features mentioned.
 
@@ -53,12 +45,16 @@ thumbnail: https://thmb.techidaily.com/5007fff59cf8da665a883eea8dc45d22315969cbd
 
 ![Four AI-generated images of cats wearing a hat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/four-ai-generated-images-of-cats-wearing-a-hat.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  DALL-E 3 promises to be a step up from its previous versions with improved accuracy, better photorealism capabilities, and more creative images. We've noticed a step up in quality as well, even when our prompts contain very few details.
 
  But the most notable change about DALL-E 3 is that it has been integrated into ChatGPT, OpenAI's powerful AI chatbot. It opens up a whole new way of interacting with the image generator and gives you a fresh way of creating prompts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Craft a Good DALLE-3 Prompt Using Bing
@@ -75,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/5007fff59cf8da665a883eea8dc45d22315969cbd
 
 ![DALL-E 2 prompt for animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-prompt-for-animals.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Compare that with DALL-E 3 in Bing. The image it generated is quite good, considering our prompt barely contained any specific details.
 
 ![DALL-E 3 in Bing Chat image of a city covered in plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-in-bing-chat-image-of-a-city-covered-in-plants.jpg)
@@ -91,12 +83,16 @@ thumbnail: https://thmb.techidaily.com/5007fff59cf8da665a883eea8dc45d22315969cbd
 
 ![DALL-E 3 image of a city overun with animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-overun-with-animals.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With just a small amount of time chatting with DALLE-3 in Bing, we arrived at a really interesting image of New York City if it were overrun by plants and animals. No prompt engineering is required.
 
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Limitations of DALL-E 3 and Bing
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/5007fff59cf8da665a883eea8dc45d22315969cbd
  Another change to DALL-E 3 is the increase in moderation and safety measures that some people might consider a limitation, such as "removing public figure names" from the prompt, as mentioned in the[DALL-E 3 research paper](https://cdn.openai.com/papers/DALL%5FE%5F3%5FSystem%5FCard.pdf) .
 
  But this will be a welcome addition for artists who don't want their images to train DALL-E in the first place. Adding to this, you can now fill in the[OpenAI opt-out form](https://share.hsforms.com/1%5FOuT5tfFSpic89PqN6r1CQ4sk30) to make sure your image doesn't go into the training pool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Don't Wait to Try DALL-E 3; Access It Now With Bing
 
@@ -130,24 +130,24 @@ thumbnail: https://thmb.techidaily.com/5007fff59cf8da665a883eea8dc45d22315969cbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-optimize-your-gaming-by-learning-ps3-video-capture-techniques-for-2024/"><u>[New] Optimize Your Gaming by Learning PS3 Video Capture Techniques for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-innovating-messaging-sounds-a-guide-to-downloading-and-personalizing-whatsapp-ringtones/"><u>[Updated] 2024 Approved Innovating Messaging Sounds A Guide to Downloading & Personalizing WhatsApp Ringtones</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-free-versatile-laptop-software-to-watch-dvds-for-2024/"><u>[Updated] Free, Versatile Laptop Software to Watch DVDs for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-discovering-the-true-significance-of-pfp-in-tiktok-world/"><u>[Updated] In 2024, Discovering the True Significance of PFP in TikTok World</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unlock-insta-money-potential-with-our-top-7-list/"><u>2024 Approved Unlock Insta Money Potential with Our Top 7 List</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726221641733-amv-movavi/"><u>網路上無限AMV影片分享平台 - Movavi</u></a></li>
-<li><a href="https://fox-http.techidaily.com/comprehensive-guide-to-masterful-win11-zoom-use/"><u>Comprehensive Guide to Masterful Win11 Zoom Use</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversion-gratuita-de-archivos-jpeg-a-linea-tecnica-rapida-y-sencilla-con-photolineconverter/"><u>Conversión Gratuita De Archivos JPEG a Línea - Técnica Rápida Y Sencilla Con PhotoLineConverter</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/converter-online-de-mpg-para-gif-ferramenta-gratuita-do-movavi/"><u>Converter Online De MPG Para GIF - Ferramenta Gratuita Do Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-13-free-audio-software-tools-with-built-in-mic-for-recording-by-movavi/"><u>Discover the Ultimate 13 Free Audio Software Tools with Built-In Mic for Recording by Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-wav-to-mp3-switching-utilize-movavis-complimentary-web-service/"><u>Effortless WAV to MP3 Switching - Utilize Movavi's Complimentary Web Service!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/grandes-ofertas-con-cupones-de-descuento-en-movavi-ahorro-para-su-nueva-camara/"><u>Grandes Ofertas Con Cupones De Descuento en Movavi: Ahorro Para Su Nueva Cámara</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratis-omzetten-van-mpg-bestandjes-online-expertise-movavi/"><u>Gratis Omzetten Van MPG Bestandjes Online - Expertise Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-void-of-originality-in-vr-content/"><u>In 2024, Exploring the Void of Originality in VR Content</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-increase-volume-of-the-media-files/"><u>New In 2024, How to Increase Volume of the Media Files</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/online-toolbox-effortlessly-transforming-m4v-videos-to-3g2-fit-for-mobile-playback-tips-by-movavi/"><u>Online Toolbox: Effortlessly Transforming M4V Videos to 3G2 Fit for Mobile Playback - Tips by Movavi</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/picsart-app-insights-comprehensive-review-and-walkthrough/"><u>PicsArt App Insights Comprehensive Review and Walkthrough</u></a></li>
-<li><a href="https://win-able.techidaily.com/unraveling-the-mystery-behind-fluctuating-frame-rates-solutions-and-tips/"><u>Unraveling the Mystery Behind Fluctuating Frame Rates: Solutions and Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/zasadni-pruspechy-pro-podporeni-nabozenstvi-v-videoprodukci/"><u>Zásadní Průspěchy Pro Podpoření Náboženství v Videoprodukci</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-100-virtual-bicycle-escapades-to-experience-for-2024/"><u>[New] Top 100 Virtual Bicycle Escapades to Experience for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-film-substitutes-to-stream-top-7-picks/"><u>[Updated] In 2024, Film Substitutes to Stream - Top 7 Picks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-visualedge-7-3-elite-image-amplification-for-2024/"><u>[Updated] VisualEdge 7-3 Elite Image Amplification for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/crafting-memories-a-complete-guide-to-the-top-6-minecraft-recordings-techniques-for-2024/"><u>Crafting Memories A Complete Guide to the Top 6 Minecraft Recordings Techniques for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-fix-pcl-xl-error-easily/"><u>How to Fix PCL XL Error Easily</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/immediate-access-future-legacy-preserving-your-digital-moments/"><u>Immediate Access, Future Legacy Preserving Your Digital Moments</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-xiaomi-redmi-k70-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Xiaomi Redmi K70 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-lava-yuva-2-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Lava Yuva 2 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/investment-returns-on-youtuber-promotions/"><u>Investment Returns on Youtuber Promotions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-new-era-of-employment-7-ways-generative-ai-influences-careers/"><u>Navigating the New Era of Employment: 7 Ways Generative AI Influences Careers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/openais-linguistic-titans-understanding-gpt-14/"><u>OpenAI’s Linguistic Titans: Understanding GPT-1–4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-ai-interaction-the-benefits-that-place-the-chatgpt-desktop-in-the-lead-against-its-website-version/"><u>Optimizing AI Interaction: The Benefits That Place the ChatGPT Desktop in the Lead Against Its Website Version</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protect-yourself-from-these-9-counterfeit-chatgpt-malware-programs-threatening-your-information/"><u>Protect Yourself From These 9 Counterfeit ChatGPT Malware Programs Threatening Your Information</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/relying-on-ai-the-role-of-chatgpt-in-wilderness-rescue-scenarios/"><u>Relying on AI: The Role of ChatGPT in Wilderness Rescue Scenarios</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-chat-with-these-9-chatgptplus-advantages/"><u>Revolutionize Your Chat with These 9 ChatGPT+ Advantages</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-customer-service-upgrade-merging-chatgpt-with-whatsapp/"><u>Seamless Customer Service Upgrade: Merging ChatGPT with WhatsApp</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/securing-creativity-nightshades-guide-against-ai-art-replication/"><u>Securing Creativity: Nightshade's Guide Against AI Art Replication</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/self-help-gone-wrong-the-hidden-dangers-in-artificial-therapy/"><u>Self-Help Gone Wrong: The Hidden Dangers in Artificial Therapy</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Oppo Find X6 Pro | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Creating Compelling D&D Characters with AI Tools - ChatGPT and DALL-E Strategies
-date: 2025-01-13T01:38:21.595Z
-updated: 2025-01-20T08:34:53.372Z
+date: 2025-01-22T15:13:03.340Z
+updated: 2025-01-26T12:33:09.093Z
 tags:
   - chatgpt
   - open-ai
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 * [What Are DALL-E 3's Editing Tools?](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#what-are-dall-e-3-39-s-editing-tools)
 * [How to Use DALL-E 3's Editing Tool](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#how-to-use-dall-e-3-39-s-editing-tool)
 * [DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#dall-e-39-s-editing-tools-are-useful-but-need-work-and-a-little-persistence)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -56,9 +52,17 @@ However, it's a mixed bag.
 
  That's not to say the editing tools don't work. They can absolutely remove features and make small changes, as detailed below, but it's all on a small scale.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use DALL-E 3's Editing Tool
 
  The best way to show you what DALL-E 3's editing tool can do is with some proper examples.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Removing and Erasing
 
@@ -72,6 +76,10 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Adding and Changing
 
  DALL-E 3 can make some changes to images, but again, it depends on the scale of what you're asking. Small additions and changes are possible, but most of the time, DALL-E's editing tool can't process what is asked.
@@ -80,16 +88,12 @@ Close
 
 ![dalle 3 editing tools close up human eye](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Pretty decent, if a little odd (eyelash reflections?!), but I wanted to switch the iris color to blue-green instead, resulting in this image:
 
 ![dalle 3 editing tools close up human eye changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye-changed-colour.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The color is slightly dull but unchanged, and some features are warped slightly.
@@ -97,10 +101,6 @@ Close
  Next up, I prompted DALL-E to "create a 4k 2:1 claymation style image of a person wearing a tiger onesie skiing down a slope with a yeti background."
 
 ![dalle 3 editing tools tiger yeti claymation style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-tiger-yeti-claymation-style.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Again, the original image is good, has sharp, vibrant colors, and matches the prompt. However, I wanted to switch the yeti to a different type of scary animal.
 
@@ -119,7 +119,7 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)
@@ -143,18 +143,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-hotspots-for-revolutionary-vr-cinema/"><u>[Updated] Hotspots for Revolutionary VR Cinema</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-decoding-facebooks-video-mutes-your-2023-remedy-guide/"><u>[Updated] In 2024, Decoding Facebook's Video Mutes – Your 2023 Remedy Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mastering-youtube-shorts-key-facts-for-2024/"><u>[Updated] Mastering YouTube Shorts Key Facts for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-easy-mp3-snippet-from-fb-chats/"><u>2024 Approved Easy MP3 Snippet From FB Chats</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210932843-9781855844940-anthroposophic-medicine-for-all-the-family/"><u>Anthroposophic Medicine for all the Family | Free Book</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s17t-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S17t Location Settings | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/how-to-verify-your-youtube-account/"><u>How to Verify Your YouTube Account?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-elysiumeditpro-unveiling-photo-wonders/"><u>In 2024, ElysiumEditPro Unveiling Photo Wonders</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-generative-ai-insights-into-its-functioning-and-industry-usage/"><u>Navigating the World of Generative AI - Insights Into Its Functioning & Industry Usage</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-advantages-and-disadvantages-of-chatgpt-for-creative-expression/"><u>Navigating Through Advantages and Disadvantages of ChatGPT for Creative Expression</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-top-10-bgm-audio-archives-for-2024/"><u>New Top 10 BGM Audio Archives for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pioneering-plots-creating-rpgs-in-the-gpt-realm/"><u>Pioneering Plots: Creating RPGs in the GPT Realm</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/polite-conversations-do-they-matter-when-using-ai-voices-like-chatgpt-alexa-and-siri/"><u>Polite Conversations: Do They Matter When Using AI Voices Like ChatGPT, Alexa, and Siri?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-restoring-your-broadcast-essential-steps-for-uninterrupted-fb-live/"><u>[New] 2024 Approved Restoring Your Broadcast Essential Steps for Uninterrupted FB Live</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-regain-access-to-confidential-snapshots-for-2024/"><u>[New] Regain Access to Confidential Snapshots for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-select-top-6-slideshow-creation-software-for-x-models-for-2024/"><u>[New] Select Top 6 Slideshow Creation Software for X Models for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-tech-tutorial-exporting-and-storing-your-snaps-safely-for-2024/"><u>[New] Tech Tutorial Exporting and Storing Your Snaps Safely for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-adventure-videography-supplies-for-travelers/"><u>[Updated] In 2024, Adventure Videography Supplies for Travelers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unmatched-closure-in-cyberspace-quest/"><u>[Updated] Unmatched Closure in Cyberspace Quest</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-chatgpt-response-quality-with-these-7-methods/"><u>Boosting ChatGPT Response Quality with These 7 Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-generative-artificial-intelligence-be-used-as-a-weapon-in-the-war-on-truth/"><u>Can Generative Artificial Intelligence Be Used as a Weapon in the War on Truth?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-talk-to-ai-discover-your-ability-to-communicate-with-chatgpt/"><u>Can You Talk To AI? Discover Your Ability to Communicate with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-home-automation-control-fact-or-fiction/"><u>ChatGPT and Home Automation Control: Fact or Fiction?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-frauds-exposed-the-top-5-scams-to-recognize-and-dodge/"><u>ChatGPT Frauds Exposed: The Top 5 Scams to Recognize and Dodge</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-credibility-truthful-or-deceptive/"><u>ChatGPT's Credibility: Truthful or Deceptive?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/concealing-your-digital-chatter-with-gpt/"><u>Concealing Your Digital Chatter with GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creative-collaboration-ai-brainstorming-with-mindmaps/"><u>Creative Collaboration: AI, Brainstorming with Mindmaps</u></a></li>
+<li><a href="https://win-community.techidaily.com/discover-the-power-of-ai-in-microsofts-new-paste-tool-masterful-techniques-revealed-zdnet/"><u>Discover the Power of AI in Microsoft's New Paste Tool - Masterful Techniques Revealed | ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/engage-enrich-and-excel-while-listening-to-your-favorite-podcasts-for-2024/"><u>Engage, Enrich & Excel While Listening to Your Favorite Podcasts for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-aa-personalitynationalitycounty-lgbtqv-25-for-yout-database-thatdeeds-30-mildly-happy-to-find-the-gender/"><u>The A/A Personality_nationalityCounty LGBTQv 25% for Yout Database That'deed''s] ==#30 Mildly Happy-To Find the Gender</u></a></li>
 </ul></div>
 

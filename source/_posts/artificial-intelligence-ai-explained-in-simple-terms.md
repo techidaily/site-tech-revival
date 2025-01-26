@@ -1,7 +1,7 @@
 ---
 title: Artificial Intelligence (AI) Explained in Simple Terms
-date: 2025-01-18T01:43:35.238Z
-updated: 2025-01-20T00:18:09.725Z
+date: 2025-01-23T05:55:55.193Z
+updated: 2025-01-26T03:05:44.680Z
 tags:
   - chatgpt
   - open-ai
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -43,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
  But Bard was never the AI titan people hoped for, and GPT-4 remains the dominant generative AI chat bot platform. Now, Google's Gemini is here—but is the long-awaited AI model better than ChatGPT?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Google's Gemini AI Model?
 
 [Gemini is Google's most capable generative AI model](https://www.makeuseof.com/what-is-googles-ai-project-gemini/) , able to understand and operate across different data formats, including text, audio, image, and video. It is Google's attempt to create a unified AI model drawing capabilities from its most capable AI technologies. Gemini will be available in three variants:
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Google Gemini AI
@@ -93,6 +93,10 @@ Here's the source screenshot.
 
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
@@ -101,26 +105,22 @@ Here's the source screenshot.
 
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Gemini Better than ChatGPT?
@@ -144,24 +144,14 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-easy-path-from-spotify-to-youtube-discover-the-best-playlist-tools/"><u>[New] In 2024, Easy Path From Spotify to YouTube Discover the Best Playlist Tools</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-optimal-placement-boosting-youtube-video-visibility-for-2024/"><u>[New] Optimal Placement Boosting YouTube Video Visibility for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-key-to-accumulating-a-huge-collection-of-tiktok-videos/"><u>[Updated] 2024 Approved The Key to Accumulating a Huge Collection of TikTok Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-future-is-in-your-cloud-price-rankings-and-bargains-2024/"><u>[Updated] The Future Is in Your Cloud Price Rankings & Bargains 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-how-to-download-your-favorite-cartoon-network-shows-in-various-video-formats/"><u>1. How to Download Your Favorite Cartoon Network Shows in Various Video Formats</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-innovating-the-open-box-phenomenon/"><u>2024 Approved Innovating the Open-Box Phenomenon</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-machines-pass-the-turing-test-an-exploration-of-ais-limits-and-possibilities/"><u>Can Machines Pass the Turing Test? An Exploration of AI's Limits and Possibilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-by-openai-an-in-depth-look-at-its-top-8-limitations-and-problems/"><u>ChatGPT by OpenAI: An In-Depth Look at Its Top 8 Limitations and Problems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-revolutionizes-your-study-notes-strategy/"><u>ChatGPT Revolutionizes Your Study Notes Strategy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-unveiled-a-familys-perspective/"><u>ChatGPT Unveiled: A Family's Perspective</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/countdown-to-gpt-5-insights-into-its-potential-release-timeline/"><u>Countdown to GPT-5: Insights Into Its Potential Release Timeline</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creative-challenge-showdown-unveiling-the-best-response-amongst-3-cutting-edge-ai-assistants/"><u>Creative Challenge Showdown: Unveiling the Best Response Amongst 3 Cutting-Edge AI Assistants</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cross-platform-mastery-getting-started-with-chatgpt-on-android-phones-and-ipads/"><u>Cross-Platform Mastery: Getting Started with ChatGPT on Android Phones and iPads</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-natural-language-processing-vs-ml/"><u>Demystifying Natural Language Processing vs ML</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/diy-computer-fixes-with-artificial-intelligence-leveraging-chatgpts-expertise/"><u>DIY Computer Fixes with Artificial Intelligence - Leveraging ChatGPT's Expertise</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-beneath-the-oceans-veil-tips-for-recording-top-notch-underwater-gopro-videos/"><u>In 2024, Beneath the Ocean’s Veil Tips for Recording Top-Notch Underwater GoPro Videos</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/most-recommended-mini-mobile-devices-2024-edition/"><u>Most Recommended Mini Mobile Devices - 2024 Edition</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/securely-saving-your-instagram-videos-on-pc-and-macos-for-2024/"><u>Securely Saving Your Instagram Videos on PC and MacOS for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/rt-of-captivating-valorant-video-thumbnails-on-youtube-for-2024/"><u>The Art of Captivating Valorant Video Thumbnails on YouTube for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-avoidance-tactics-for-edg-vids-in-learning/"><u>[New] 2024 Approved Avoidance Tactics for EDG Vids in Learning</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-boost-engagement-the-art-of-adding-borders-on-insta-for-2024/"><u>[New] Boost Engagement The Art of Adding Borders on Insta for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-premier-picture-driven-journey-maker/"><u>[New] Premier Picture-Driven Journey Maker</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dispelling-dark-pixels-youtube-solution-guide/"><u>[Updated] In 2024, Dispelling Dark Pixels YouTube Solution Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/apowersoft/"><u>Apowersoft 硬上相輸 - 真誠評估與教學功能深入介紹</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-power-shift-in-natural-language-processing-why-gemini-15s-context-capabilities-are-groundbreaking/"><u>The Power Shift in Natural Language Processing: Why Gemini 1.5'S Context Capabilities Are Groundbreaking</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-tutorial-on-running-chatgpt-as-a-desktop-app-on-windows-systems/"><u>The Ultimate Tutorial on Running ChatGPT as a Desktop App on Windows Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-20-effective-gpt-3-conversation-starters-found-on-github/"><u>Top 20 Effective GPT-3 Conversation Starters Found on GitHub</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-benefits-opting-for-microsoft-copilot-over-chatgpt/"><u>Top 4 Benefits: Opting for Microsoft Copilot Over ChatGPT</u></a></li>
 </ul></div>
 

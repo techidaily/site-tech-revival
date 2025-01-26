@@ -1,7 +1,7 @@
 ---
 title: "Harnessing ChatGPT: 6 Essential Tips for a Dream DM Experience"
-date: 2025-01-19T11:46:16.918Z
-updated: 2025-01-20T09:58:33.796Z
+date: 2025-01-19T08:34:21.263Z
+updated: 2025-01-25T17:28:53.814Z
 tags:
   - chatgpt
   - open-ai
@@ -39,7 +39,7 @@ False news can be categorized into three types:
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
@@ -56,14 +56,10 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -77,6 +73,10 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -86,7 +86,7 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -98,7 +98,7 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
@@ -133,19 +133,21 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-master-the-art-of-cutting-a-video-editors-handbook-for-instagram/"><u>[Updated] 2024 Approved Master the Art of Cutting A Video Editor's Handbook for Instagram</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-free-pc-screen-capture-tools-a-comprehensively-assessed-list/"><u>2024 Approved Free PC Screen Capture Tools - A Comprehensively Assessed List</u></a></li>
-<li><a href="https://techtrends.techidaily.com/desktop-decisions-unpacked-understanding-the-top-8-purchasing-criteria/"><u>Desktop Decisions Unpacked: Understanding the Top 8 Purchasing Criteria</u></a></li>
-<li><a href="https://some-tips.techidaily.com/elevate-your-workflow-with-zendures-superbase-pro-2000-hands-on-review-and-features-explored-by-zdnet/"><u>Elevate Your Workflow with Zendure's SuperBase Pro 2000: Hands-On Review & Features | Explored by ZDNET</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-chatgpt-enterprise-features-benefits-and-distinctive-advantages/"><u>Exploring ChatGPT Enterprise: Features, Benefits, and Distinctive Advantages</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-eus-artifice-intelligence-framework-potential-consequences-on-platforms-such-as-chatgpt/"><u>Exploring the EU's Artifice Intelligence Framework: Potential Consequences on Platforms Such as ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/freelancers-guide-to-mastering-ai-assistantsbing-chat-vs-chatgpt/"><u>Freelancer's Guide to Mastering AI Assistants—Bing Chat Vs. ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/full-reveal-the-cutting-edge-ai-technologies-announced-by-apple-during-wwdc-2024/"><u>Full Reveal: The Cutting-Edge AI Technologies Announced by Apple During WWDC 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/holding-off-for-the-official-chatgpt-app-check-this-fantastic-open-source-version-instead/"><u>Holding Off for the Official ChatGPT App? Check This Fantastic Open Source Version Instead!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-home-cinema-top-10-blu-ray-choices/"><u>In 2024, Immersive Home Cinema Top 10 Blu-Ray Choices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-uncovering-budget-friendly-video-conferencing-tools-for-all-systems/"><u>In 2024, Uncovering Budget-Friendly Video Conferencing Tools for All Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-m34-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy M34 5G Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/successful-installation-guide-how-to-add-missing-drivers-for-your-device-on-windows-11-8-and-7/"><u>Successful Installation Guide: How to Add Missing Drivers for Your Device on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-s23-fe-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-editing-savvy-streamlining-your-youtube-video-lengths/"><u>[New] In 2024, Editing Savvy Streamlining Your YouTube Video Lengths</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-essential-guide-to-photo-backdrop-removal-in-picsart-for-2024/"><u>[New] The Essential Guide to Photo Backdrop Removal in Picsart for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-why-no-sound-the-twitter-video-amplification-guide/"><u>[Updated] In 2024, Why No Sound? The Twitter Video Amplification Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-inside-out-a-thorough-examination-of-dji-phantom-4-for-2024/"><u>[Updated] Inside Out A Thorough Examination of DJI Phantom 4 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-novice-guide-to-earning-on-periscope-live-streaming/"><u>[Updated] Novice Guide to Earning on Periscope Live Streaming</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-smooth-integration-of-vimeo-videos-into-instagram/"><u>2024 Approved Smooth Integration of Vimeo Videos Into Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/descarga-e-instalacion-perfecta-para-windows-x-dvd-la-guia-definitiva/"><u>Descarga E Instalación Perfecta Para Windows X DVD: La Guía Definitiva</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-analysis-complete-look-at-xvideo-studio-essentials/"><u>Expert Analysis Complete Look at XVideo Studio Essentials</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/talk-directly-with-chatgpt/"><u>Talk Directly with ChatGPT!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-mechanics-behind-shared-links-in-chatgpt-an-in-depth-analysis/"><u>The Mechanics Behind Shared Links in ChatGPT: An In-Depth Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-privacy-dilemma-with-chatgpt-use/"><u>The Privacy Dilemma with ChatGPT Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-image-ai-production-with-dall-e-and-gpt-4-integration/"><u>The Ultimate Guide to Image AI Production with DALL-E and GPT-4 Integration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-integration-methods-enhancing-vs-code-with-chatgpt/"><u>Top 10 Integration Methods: Enhancing VS Code with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/turings-challenge-the-quest-for-ai-superiority/"><u>Turing's Challenge: The Quest for AI Superiority</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-artificnial-intelligence-insights-and-potential-risks/"><u>Understanding Artificnial Intelligence: Insights & Potential Risks</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-raspberry-pi-6-key-benefits-for-retro-games/"><u>Why Raspberry Pi? - 6 Key Benefits for Retro Games</u></a></li>
 </ul></div>
 

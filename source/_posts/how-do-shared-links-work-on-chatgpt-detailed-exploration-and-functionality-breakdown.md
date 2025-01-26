@@ -1,7 +1,7 @@
 ---
 title: How Do Shared Links Work on ChatGPT? Detailed Exploration and Functionality Breakdown
-date: 2025-01-13T07:09:33.480Z
-updated: 2025-01-19T23:10:05.620Z
+date: 2025-01-23T22:26:33.559Z
+updated: 2025-01-26T02:57:35.470Z
 tags:
   - chatgpt
   - open-ai
@@ -60,20 +60,28 @@ Let's see how you can install and use GPT4All on your Windows PC.
 ![GPT4All Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-setup.jpg)
 3. GPT4All's installer needs to download extra data for the app to work. So if the installer fails, try to rerun it after you grant it access through your firewall.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![GPT4All Installer Downloading Component](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-installer-downloading-component.jpg)
 4. When you eventually find yourself looking at GPT4All's interface, you will also have to download a Language Model to use it. GPT4All will present you with a list of available models. Check its size (next to its name) to ensure you have enough RAM or VRAM to run it. When you decide on a model, click its**Download** button to have GPT4All download and install it.  
 
 ![GPT4All Model Size and Download Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-model-size-and-download-button.jpg)
 5. If you change your mind, click the**Cancel** button to stop an active download and choose another model.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![GPT4All Downloading Language Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-downloading-language-model.jpg)
 6. To save some time, if you want to try out multiple models, you can have GPT4All download them in parallel. However, note that the gigabytes can soon add up and ensure you have enough storage space for all the models you selected.  
 
-![GPT4All Downloading Multiple Language Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-downloading-multiple-language-models.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![GPT4All Downloading Multiple Language Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-downloading-multiple-language-models.jpg)
 
 ## Getting Familiar With GPT4All
 
@@ -85,10 +93,6 @@ Let's see how you can install and use GPT4All on your Windows PC.
 
 ![GPT4All Options Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-options-panel.jpg)
 3. The first options on GPT4All's panel allow you to create a**New chat** ,**rename** the current one, or**trash** it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![GPT4All Chat Name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-chat-name.jpg)
 4. The**Updates** button lets you update the application and add or remove components.  
@@ -103,7 +107,7 @@ Let's see how you can install and use GPT4All on your Windows PC.
 7. Chatting with an LLM in GPT4All is similar to ChatGPT's online version. Type something in the**entry field** at the bottom of GPT4All's window, and after pressing Enter, you will see your prompt in GPT4All's main view. The selected Language Model's response will appear below your prompt.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![GPT4All Chatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-chatting.jpg)
@@ -112,12 +116,12 @@ Let's see how you can install and use GPT4All on your Windows PC.
 ![GPT4All Stop Generating Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-stop-generating-response.jpg)
 9. Similarly, if you don't like an already generated response and want to see an alternative take, you can click the**Regenerate Response** button, which appears on the same spot.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![GPT4All Regenerate Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-regenerate-response.jpg)
 10. Note that GPT4All also allows you access to what's known as**Unrestricted** language models. Those don't come with artificial limitations. This "freedom" supposedly "liberates" and "empowers" them to be more creative and offer more factual responses. However, it also means they may produce offensive output.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![GPT4All Unrestricted Language Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-unrestricted-language-model.jpg)
 11. The two first buttons on the top right of the app allow you to**reset** a conversation or**copy** it to the clipboard to paste it elsewhere.  
@@ -131,15 +135,7 @@ Let's see how you can install and use GPT4All on your Windows PC.
 ![GPT4All Generation Variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-generation-variables.jpg)
 14. The**Application** tab allows you to choose a**Default Model** for GPT4All, define a**Download path** for the Language Model, assign a specific number of**CPU Threads** to the app, have every chat automatically saved locally, and enable its internal**web server** to have it accessible through your browser.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![GPT4All Application Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-application-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Chatting With Your Documents With GPT4All
 
@@ -153,21 +149,25 @@ Let's see how you can install and use GPT4All on your Windows PC.
 3. You will see an entry for your documents folder on GPT4All's**LocalDocs Plugin** document list. If you decide to remove a documents folder, select it from here and click the**Remove** button on its right.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![GPT4All Local Docs Plugin with Added User Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-docs-plugin-with-added-user-document.jpg)
 4. From the same spot, you can tweak the**Document snippet size** and the**Document snippets to process per prompt** values from the bottom left of the panel. Increasing those will improve the selected Language Model's ability to "understand" your documents and offer more relevant responses. However, it will also severely slow GPT4All down since it must analyze your documents after every prompt.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![GPT4All Local Docs Plugin Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-docs-plugin-options.jpg)
 5. You can manage your external documents through GPT4All's**Collections** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![GPT4All Collections Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-collections-button.jpg)
 6. You can add multiple document collections to GPT4All. It's better, though, instead of having them all active all the time, dragging GPT4All's performance down to control**which** group of documents ("collection") you want active from the**Collections** panel.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![GPT4All Available Collections Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-available-collections-panel.jpg)
 7. After you add some documents and enable their collection, GPT4All will tell you that it's**processing** them after a prompt.  
@@ -175,18 +175,18 @@ Let's see how you can install and use GPT4All on your Windows PC.
 ![GPT4All Processing User s Documents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-processing-user-s-documents.jpg)
 8. Each time GPT4All presents a response that pulls data from your documents, it will offer a list of**references** and**context links** under the response.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![GPT4All Response from User's Documents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-response-from-user-s-documents.jpg)
 9. By clicking a**context link** , GPT4All will show you a snippet of text from your documents that it used for its response.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![GPT4All Response Checking User Document Context](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-response-checking-user-document-context.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Your Own ChatGPT on Windows
 
@@ -211,20 +211,16 @@ Let's see how you can install and use GPT4All on your Windows PC.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-pigments-and-palettes-the-artists-guidebook/"><u>[New] Pigments & Palettes The Artist's Guidebook</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-unplugging-the-servers-deleting-discord-on-devices/"><u>2024 Approved Unplugging the Servers Deleting Discord on Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/au-wmvwmvmp4-movavi/"><u>免費線上AU WMV影片變WMV為MP4 - 使用Movavi解決方法指南</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comment-convertir-facilement-un-fichier-3gp-au-format-mov-gratuitement-a-laide-dun-service-en-ligne-easymovieconvertercom/"><u>Comment Convertir Facilement Un Fichier 3GP Au Format MOV Gratuitement À L'aide D'un Service en Ligne - EasyMovieConverter.com</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/cosmic-archives-restoration-manual/"><u>Cosmic Archives Restoration Manual</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-chatgpt-overlooks-its-own-syntax/"><u>How ChatGPT Overlooks Its Own Syntax</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-premium-software-selection-upload-videos-for-twitter/"><u>In 2024, Premium Software Selection Upload Videos for Twitter</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/la-solution-definitive-pour-gerer-des-fichiers-vob-top-5-lecteurs-compatibles-avec-windows-et-mac-explique/"><u>La Solution Définitive Pour Gérer Des Fichiers VOB : Top 5 Lecteurs Compatibles Avec Windows Et Mac, Expliqué!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726225926089-mp4gif-movavi/"><u>MP4至GIF無條件線上改造 - Movavi的即時編譯器</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-step-by-step-eliminating-sound-from-modern-avi-format-avi-2023/"><u>New Step-by-Step Eliminating Sound From Modern AVI Format (AVI 2023)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/online-avi-en-wmv-vergelijkend-konverteren-vrije-dienst-expertise-movavi/"><u>Online AVI en WMV Vergelijkend Konverteren Vrije Dienst - Expertise Movavi</u></a></li>
-<li><a href="https://facebook.techidaily.com/reviving-your-social-media-account-without-old-credentials/"><u>Reviving Your Social Media Account without Old Credentials</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-star-citizens-windows-malfunction-say-goodbye-to-disruptions/"><u>Solving Star Citizen's Windows Malfunction – Say Goodbye to Disruptions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trasforma-i-tuoi-file-mp3-in-formato-vob-gratuitamente-su-internet-movavi/"><u>Trasforma I Tuoi File MP3 in Formato VOB Gratuitamente Su Internet - Movavi</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/where-to-find-top-notch-instagram-ringtones-and-how-to-make-a-keen-ringt-for-2024/"><u>Where to Find Top-Notch Instagram Ringtones & How to Make a Keen Ringt for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-frame-perfect-our-top-10-photo-lenses-list/"><u>[New] 2024 Approved Frame Perfect Our Top 10 Photo Lenses List</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-upload-mastery-understanding-and-using-correct-video-sizes-on-youtube/"><u>[New] Upload Mastery Understanding and Using Correct Video Sizes on YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mobile-methods-download-gifs-from-twitter-on-devices/"><u>[Updated] Mobile Methods Download GIFs From Twitter on Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-secure-value-discovering-the-top-7-artwork-to-nft-services/"><u>[Updated] Secure Value Discovering the Top 7 Artwork-to-NFT Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-assisted-narratives-how-chatgpt-elevates-storytelling/"><u>AI-Assisted Narratives: How ChatGPT Elevates Storytelling</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722065456417-discover-what-to-read-next-using-powerful-ai-tools-check-out-these-5-amazing-booksites/"><u>Discover What to Read Next Using Powerful AI Tools - Check Out These 5 Amazing Booksites</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlined-techniques-for-ios-image-sharing/"><u>In 2024, Streamlined Techniques for iOS Image Sharing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721888392921-is-it-time-to-retire-the-turing-test-five-modern-evaluation-methods-for-artifice-intelligence/"><u>Is It Time to Retire the Turing Test? Five Modern Evaluation Methods for Artifice Intelligence.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-selecting-all-conversations-in-your-gmail-inbox/"><u>Mastering the Art of Selecting All Conversations in Your Gmail Inbox</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818386395-sprint-through-apex-with-ease/"><u>Sprint Through Apex with Ease!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-cybercrime-the-role-of-ai-in-crafting-romance-scam-techniques/"><u>Unveiling Cybercrime: The Role of AI in Crafting Romance Scam Techniques</u></a></li>
 </ul></div>
 

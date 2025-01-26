@@ -1,7 +1,7 @@
 ---
 title: "Deciphering Distinctions: GPT-4 Vs. GPT-4x Versions Explained"
-date: 2025-01-12T16:36:16.139Z
-updated: 2025-01-20T13:52:22.179Z
+date: 2025-01-23T22:24:09.389Z
+updated: 2025-01-26T04:39:41.091Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 * [ChatGPT Data Collection You Can't Opt Out From](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#chatgpt-data-collection-you-can-39-t-opt-out-from)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 
  But worry not; you can opt out of having your chat data used, keeping your ChatGPT conversations private.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is ChatGPT's Chat History and Training Feature?
 
  When you sign up for a ChatGPT account (be it the free or premium version), ChatGPT saves your chat history and uses your chat data for future training by default.
@@ -55,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
  While OpenAI doesn't claim to do anything nefarious with your chat data, the[OpenAI FAQ](https://help.openai.com/en/articles/6783457-what-is-chatgpt) states your chats "may be reviewed by \[its\] AI trainers to improve \[its\] systems." OpenAI can use your conversations at its discretion, feeding them to its[large language model (LLM)](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) in the training process.
 
  However, in April 2023, OpenAI started offering users the choice to disable or enable chat history and training data collection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Opt-Out of ChatGPT's Chat History and Training Feature
 
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In your settings, click on the**Data controls** option. Now, you'll see a setting named**Chat history & training** . This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Data Collection You Can't Opt Out From
@@ -115,24 +115,15 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-crafting-compelling-documentary-narratives/"><u>[New] 2024 Approved Crafting Compelling Documentary Narratives</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-essential-tips-for-subtitling-stories-on-instagram-for-2024/"><u>[New] The Essential Tips for Subtitling Stories on Instagram for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing/"><u>[Updated] Strategize & Succeed A Stepwise Approach to Impactful Reddit Sharing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-find-x7-ultra-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversion-gratuita-de-mkv-a-mjpeg-en-linea-por-expertos-descubre-movavi-video-editor/"><u>Conversión Gratuita De MKV a MJPEG en Línea Por Expertos: Descubre Movavi Video Editor</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-avi-mp4-videos-to-mov-format-for-free-with-movavis-online-tool/"><u>Convert AVI, MP4 Videos to MOV Format for Free with Movavi's Online Tool</u></a></li>
-<li><a href="https://common-error.techidaily.com/demystifying-and-solving-error-0x800n4005-a-step-by-step-guide-to-fixing-unspecified-issues/"><u>Demystifying and Solving Error 0X800n4005: A Step-by-Step Guide to Fixing Unspecified Issues</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-taming-the-wildscape-techniques-for-subtracting-unwanted-audio-disturbances/"><u>In 2024, Taming The Wildscape Techniques for Subtracting Unwanted Audio Disturbances</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximizing-velocity-in-real-time-periscope-livestreams/"><u>Maximizing Velocity in Real-Time Periscope Livestreams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavis-quick-guide-to-convert-your-ogg-recordings-into-mp3-without-costing-a-penny/"><u>Movavi's Quick Guide to Convert Your OGG Recordings Into MP3 Without Costing a Penny</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/passos-simples-para-conversao-de-arquivos-ifo-para-o-formato-mp4-no-windows-e-macos/"><u>Passos Simples Para Conversão De Arquivos IFO Para O Formato MP4 No Windows E macOS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ricodifica-video-da-ogg-a-mov-gratuitamente-con-il-software-di-moovavi-tutorial-passo-passo-online/"><u>Ricodifica Video Da OGG a MOV Gratuitamente Con Il Software Di Moovavi: Tutorial Passo-Passo Online</u></a></li>
-<li><a href="https://win-superb.techidaily.com/top-strategies-to-enhance-your-gaming-experience-by-boosting-pc-performance-insights-from-yl-software/"><u>Top Strategies to Enhance Your Gaming Experience by Boosting PC Performance - Insights From YL Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforma-archivos-m4v-a-formato-vob-sin-costo-con-herramientas-de-conversion-online-gratuita/"><u>Transforma Archivos M4V a Formato VOB Sin Costo Con Herramientas De Conversión Online Gratuita</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-your-instagrams-virtual-meet-up-potential/"><u>Unlocking Your Instagram's Virtual Meet-Up Potential</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/veerkrachtig-voorbereiden-van-caf-tot-flac-online-gratis-met-moveavi/"><u>Veerkrachtig Voorbereiden Van CAF Tot FLAC Online Gratis Met MoveAVI</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-13-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726226124983-mp4-mjpeg-movavi/"><u>분실로 MP4를 MJPEG로 바꾸기: 모바일 장치의 경우 Movavi 자동화</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/flv-movavis-online-converter/"><u>언제나 크레딧없이 FLV 파일을 바로 대화형 원활한 변환 - Movavi's Online Converter</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-capturing-moments-dslr-setup-for-online-streaming-pcmac/"><u>[New] 2024 Approved Capturing Moments DSLR Setup for Online Streaming (PC/Mac)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-flight-expertise-unleashed-an-examination-of-dji-phantom-3/"><u>[New] 2024 Approved Flight Expertise Unleashed An Examination of DJI Phantom 3</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-perfecting-your-snap-with-snapchats-inbuilt-editing-tools/"><u>[New] In 2024, Perfecting Your Snap with Snapchat's Inbuilt Editing Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oppo-a78-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Oppo A78 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-apple-airtags-on-sale-save-24-now-during-walmarts-labor-day-promotion-insights/"><u>Get Apple AirTags on Sale: Save $24 Now During Walmart’s Labor Day Promotion - Insights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/image-innovation-at-your-fingertips-applications-for-photo-text-adjustments-for-2024/"><u>Image Innovation at Your Fingertips Applications for Photo Text Adjustments for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-gpt-3-on-android-and-ios-platforms/"><u>Mastering GPT-3 on Android & iOS Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-languages-with-chatgpt-plus-a-comprehensive-guide/"><u>Mastering Languages with ChatGPT Plus: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-mass-content-creation-combining-canva-with-chatgpt/"><u>Mastering Mass Content Creation: Combining Canva with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/minstrels-versus-chatgpt-and-real-alpacas-top-llms-battle/"><u>Minstrels Versus ChatGPT & Real Alpacas: Top LLMs Battle</u></a></li>
 </ul></div>
 

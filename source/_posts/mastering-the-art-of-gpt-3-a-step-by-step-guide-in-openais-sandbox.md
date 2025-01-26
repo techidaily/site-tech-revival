@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of GPT-3: A Step-by-Step Guide in OpenAI's Sandbox"
-date: 2025-01-13T13:44:13.916Z
-updated: 2025-01-20T04:52:52.873Z
+date: 2025-01-20T19:22:53.362Z
+updated: 2025-01-25T21:07:00.748Z
 tags:
   - chatgpt
   - open-ai
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/14a25359b86e19d1002308583500dde5e5cec0555
 
 ![Woman working on a laptop with a cup of coffee](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-on-desk.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Auto-GPT is an automation AI model that uses GPT-3.5 or GPT-4 to complete tasks independently. In other words, Auto-GPT can develop its own prompts and answer autonomously to complete an objective.[Auto-GPT differs from ChatGPT](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/) because it doesn't need a human agent to prompt it every step of the way.
 
  What's more, Auto-GPT uses ChatGPT API to communicate with software, apps, and websites. This means Auto-GPT can reply to your emails, develop apps or websites, and even analyze the stock market autonomously with a single prompt.
@@ -49,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/14a25359b86e19d1002308583500dde5e5cec0555
 ![A grey laptop and a phone on a table](https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abeb6dec26820e9ae291c1ae1c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For starters, you can access Auto-GPT using Windows, MacOS, or Linux. You also need an OpenAI API account before you start.
@@ -66,12 +62,12 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 ![OpenAI home page showing Personal section with View API keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/openai-home-page.jpg)
 6. Copy your secret API keys from Open AI. If you don't have API keys, click on**Create new secret key** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screenshot showing blurred out OpenAI API keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/api-keys.jpg)
 7. Replace the "your-openai-api-key" text in the ".env.template" file with the API keys.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![A notepad showing blurred out OpenAI key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/notepad.jpg)
 8. Create a free account on[pinecone.io](https://www.pinecone.io/) . Once you've signed in to your account, select**API Keys** and click**Create API Key** . However, it's not mandatory you use pinecone.io to install Auto-GPT—if you're put on a waiting list, you can skip to step 12.
@@ -81,13 +77,13 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 ![A screenshot showing blurred Pinecone API key on Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/pinecone.jpg)
 11. Save the ".env" file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 12. Right-click the Auto-GPT folder and select**Open in Terminal** .  
 ![Open AutoGPT environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/10-open-terminal.jpg)
 13. After you've opened the Terminal, enter "pip install -r requirements.txt" to automatically download and install the necessary libraries for Auto-GPT.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/11-pip-install-requirements.jpg)
 14. Launch Auto-GPT on your computer by executing the following command: "python -m autogpt".  
@@ -99,13 +95,13 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 
  If you want to stop an ongoing task quickly, you can utilize the**Ctrl + C** keyboard shortcut.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Auto-GPT Benchmarking Tool
 
  The Auto-GPT August 2023 update introduced a new benchmarking tool designed to track the performance of the agents deployed.[Auto-GPT Benchmarks](https://github.com/Significant-Gravitas/AutoGPT/tree/master/benchmark) is still in development, but it gives you an idea of how your automated agents are performing in areas like "code, retrieval, memory, and safety."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do You Access Auto-GPT on Your Browser?
 
@@ -126,6 +122,10 @@ Once it's done, you can copy or save the information.
 
 ![Art of an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rup-ai-chatgpt4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you've subscribed to ChatGPT-4, you can access the GPT-4 API. But if you're using the free version of ChatGPT, you will be limited to GPT-3.5 API. What's the difference between using GPT-3.5 and GPT-4 to access Auto-GPT?
 
  The biggest difference is that Auto-GPT with GPT-3.5 API is much faster than GPT-4 API at completing tasks. However, in some cases, Auto-GPT with GPT-3.5 API is inaccurate with AI hallucinations. It also tends to go off-topic when you set up a goal.
@@ -141,13 +141,13 @@ Once it's done, you can copy or save the information.
 ![AutoGPT downloading file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-recipe-generator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In retrospect, Auto-GPT with either GPT-3.5 or GPT-4 API can automate some of your tasks with simple defined goals. Of course, Auto-GPT with GPT-4 API has the edge over GPT-3.5 because it's more accurate and better at making sense of images. Here are the[key differences between GPT-4 and GPT 3.5 explained](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is It Worth Using Auto-GPT Without GPT-4?
@@ -155,10 +155,6 @@ Once it's done, you can copy or save the information.
  Even though Auto-GPT with GPT-4 API performs better than Auto-GPT-3.5, you can still use Auto-GPT 3.5 to complete tasks autonomously. For example, I prompted Auto-GPT with GPT-3.5 API to search the internet for the best laptops on the market and give me a report with pros and cons.
 
 ![auto-gpt with gpt 3.5 output example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/auto-gpt-with-gpt-3-5-output-example.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Similarly, I prompted Auto-GPT with GPT-4 API with the same goals, and it gave me a report.
 
@@ -171,6 +167,10 @@ Once it's done, you can copy or save the information.
  However, according to its developers, Auto-GPT is not yet polished enough to completely rely on it without counter-checking the information—even if you're using GPT-4 API. It could also be expensive if you don't limit its token usage. Therefore, we recommend you terminate its connection after a task is complete.
 
  Besides that, Auto-GPT's developers acknowledge that Auto-GPT is experimental and may not be ideal for real-world situations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Auto-GPT Is a Game Changer
 
@@ -191,24 +191,19 @@ Once it's done, you can copy or save the information.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-elevate-sound-recording-on-windows-the-ultimate-guide-for-2024/"><u>[New] Elevate Sound Recording on Windows The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-economical-options-best-11-vlogging-gear/"><u>[New] In 2024, Economical Options Best 11 Vlogging Gear</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-virtual-vanguard-10-most-liked-youtubers/"><u>[New] In 2024, Virtual Vanguard 10 Most Liked YouTubers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mpegaacmovevai/"><u>「MPEGファイルからAACへの無料変換！MoveVaiオンラインツール」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/wmv-videonix/"><u>零費用瀏覽線上 WMV格式更新 - Videonix</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726224427720-mkvmp4-movavi/"><u>網路移動電影文件無條件改制MKV成MP4 - 使用Movavi轉顯儀</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avi-mpeg-avi/"><u>AVI 이미지 값 MPEG 형식으로의 원형 전환 - 오픈소스 AVI 변환 가정</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/beste-alternativen-zu-jdownloader-funf-empfehlungen-fur-optimale-dateiubertragungen/"><u>Beste Alternativen Zu JDownloader - Fünf Empfehlungen Für Optimale Dateiübertragungen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-mp4-audios-to-enhanced-aac-streaming-with-no-cost-using-movavis-online-tool/"><u>Convert MP4 Audios to Enhanced AAC Streaming with No Cost Using Movavi's Online Tool</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721994307953-discover-the-wonders-of-gpt-4-universal-access-unveiled/"><u>Discover the Wonders of GPT-4: Universal Access Unveiled!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-converter-change-flac-files-into-avi-format-with-just-a-click-movavi/"><u>Free Online Converter: Change FLAC Files Into AVI Format with Just a Click - Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guia-paso-a-paso-para-crear-videos-de-pantalla-divisoria-con-doble-contenido/"><u>Guía Paso a Paso Para Crear Videos De Pantalla Divisoria Con Doble Contenido</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-noise-free-videography-utilizing-free-tools-or-purchasing/"><u>In 2024, Noise-Free Videography Utilizing Free Tools or Purchasing</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-prime-choice-best-microphone-for-youtubers/"><u>In 2024, Prime Choice Best Microphone for YouTubers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209857911-9781880050125-new-world-wisdom-book-one/"><u>New World Wisdom, Book One | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/reflet-parfait-en-photographie-avec-le-correcteur-de-photo-de-movavi/"><u>Reflet Parfait en Photographie Avec Le Correcteur De Photo De Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/samsung-galaxy-z-flip3-exciting-revelations-on-pricing-release-plans-and-technical-details-awaiting/"><u>Samsung Galaxy Z Flip3: Exciting Revelations on Pricing, Release Plans, and Technical Details Awaiting!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformation-de-fichiers-png-vers-jpg-sans-frais-service-en-ligne-rapide-avec-movavi/"><u>Transformation De Fichiers PNG Vers JPG Sans Frais - Service en Ligne Rapide Avec Movavi</u></a></li>
-<li><a href="https://win-studio.techidaily.com/unleash-your-inner-dj-top-songs-for-a-virtual-karaoke-celebration-on-st-patricks-day/"><u>Unleash Your Inner DJ: Top Songs for a Virtual Karaoke Celebration on St. Patrick's Day</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-record-ps4-with-obs-full-guide/"><u>[New] Record PS4 with OBS Full Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-masterful-sound-note-taking-a-roadmap-to-excellence-for-2024/"><u>[Updated] Masterful Sound Note-Taking A Roadmap to Excellence for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-wallet-friendly-digital-repository-heavyweight-file-haven/"><u>2024 Approved Wallet-Friendly Digital Repository Heavyweight File Haven</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/6-ways-to-use-chatgpt-for-remote-and-freelance-work/"><u>6 Ways to Use ChatGPT for Remote and Freelance Work</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showdown-2023-chatgpt-vs-google-bard-choosing-the-best-virtual-assistant/"><u>AI Showdown 2023: ChatGPT Vs. Google Bard - Choosing the Best Virtual Assistant</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-banks-and-pc-users-at-risk-of-ai-driven-cyber-attacks-using-technologies-like-chatgpt-heres-what-you-need-to-know/"><u>Are Banks and PC Users at Risk of AI-Driven Cyber Attacks Using Technologies Like ChatGPT? Here's What You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-frustration-with-11-troubleshooting-windows-tips/"><u>Avoid Frustration with 11 Troubleshooting Windows Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-income-the-best-8-chatgpt-side-jobs-that-can-pay-off-big/"><u>Boost Your Income: The Best 8 ChatGPT Side Jobs That Can Pay Off Big</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-content-quality-with-chatgpt-a-comprehamendous-guide-for-innovation/"><u>Boosting Content Quality with ChatGPT - A Comprehamendous Guide for Innovation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-cryptocurrency-analysis-understanding-its-five-major-constraints/"><u>ChatGPT and Cryptocurrency Analysis: Understanding Its Five Major Constraints</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comment-sauvegarder-votre-donnees-sur-un-disque-dur-externe-avec-les-3-etapes-fondamentales-pour-windows/"><u>Comment Sauvegarder Votre Données Sur Un Disque Dur Externe Avec Les 3 Étapes Fondamentales Pour Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebots-revolutionary-tracking-system-for-tailored-user-engagement-and-content-optimization/"><u>Cookiebot's Revolutionary Tracking System for Tailored User Engagement and Content Optimization</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/from-canvas-to-ledger-the-ultimate-list-of-nft-engines-for-artists/"><u>From Canvas to Ledger The Ultimate List of NFT Engines for Artists</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/les-top-extracteurs-gratuites-de-dvd-sous-windows-10-et-11-meilleurs-outils-du-marche-telechargeable-complet-en-2023/"><u>Les Top Extracteurs Gratuites De DVD Sous Windows 10 Et 11 : Meilleurs Outils Du Marché, Téléchargeable Complet en 2023</u></a></li>
 </ul></div>
 

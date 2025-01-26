@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Here: How Machine Learning Revolutionizes Online Discovery and Site Interaction"
-date: 2025-01-12T20:14:25.445Z
-updated: 2025-01-19T20:54:38.965Z
+date: 2025-01-24T11:34:18.686Z
+updated: 2025-01-26T11:56:02.700Z
 tags:
   - chatgpt
   - open-ai
@@ -25,16 +25,12 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Increased AI-Powered Attacks
 
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Throughout 2022 and 2023, we've seen just how advanced AI systems currently are. The most notable AI-based service launched during this time is ChatGPT, a language processing tool powered by artificial intelligence. Not long after its launch, stories began surfacing about[cybercriminals using ChatGPT to write malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) . While the malware only seemed to be a simple Python-based script, it showed that AI can, in fact, be leveraged maliciously.
 
@@ -52,10 +48,6 @@ It was also stated in the same report that:
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
 
  It's the gravity of supply chain's influence that has made it an attractive target for cybercriminals. As the demand for mass production and global shipping increases, so does the impact of hacks on supply chain systems.
@@ -66,6 +58,10 @@ It was also stated in the same report that:
 
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Zero-trust systems do not rely on any user or group of users to authenticate, monitor, or store data. Additionally, every user present in a zero-trust system must authorize access to a new user, otherwise the system remains off-limits to that individual. In short, a zero-trust system is designed not to trust any one individual. All users are assumed untrustworthy unless authentication is provided by other users.
 
  In terms of cybersecurity, a zero-trust system can be a huge benefit. A lot of current networks—be it those used for data storage, social communication, media sharing, or server hosting—are not designed to be zero-trust. This means that the system puts a level of trust in certain users. If a given user turns out to be malicious and the system has already decided to trust them, cyberattacks become possible.
@@ -73,7 +69,7 @@ It was also stated in the same report that:
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Further Exploit of EV Security Systems
@@ -87,6 +83,10 @@ It was also stated in the same report that:
  For instance, a[hacker may exploit an EV charger](https://www.makeuseof.com/ev-charger-hacking-concerns/) in order to access information on a given vehicle. When an EV connects to a charger, the two exchange information, such as how much energy is being supplied, how long the EV was charged for, and even the owner's payment information (if the EV charger is linked to the user's charging app). If there's a software vulnerability present in the charging station, a hacker can take advantage of this and infiltrate the connection between the EV and the charger. A user's location, payment details, and other data can be stolen here.
 
  This is just one of the numerous[types of EV hacks](https://www.makeuseof.com/can-electric-vehicles-be-hacked/) that are possible. In order to avoid this, EV manufacturers need to thoroughly vet their software to ensure vulnerabilities aren't being left behind in the code.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Improved Smart Home and IoT Security
 
@@ -114,15 +114,15 @@ It was also stated in the same report that:
 
 ![laptop surrounded by cybersecurity buzzwords ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There's no shortage of scammers looking to profit from current events. We saw a slew of scams arise from the COVID-19 pandemic, but things don't stop there. The Russia-Ukraine war and the Israel-Palestine conflict have also been used throughout 2023 to squeeze money out of victims through social engineering.
 
  For instance, a scammer may email a potential victim claiming to be a representative for a charity. They provide a link to a donation page so that the recipient can provide some money for the cause. But in reality, the charity is either make-believe, or the sender is impersonating an employee from a well known charitable organization. The scammer may be looking for a one-off payment, but they could also be providing a link to a phishing site designed to steal the victim's payment details. Either way, the recipient ends up losing out.
 
  As we continue to see more conflicts, tragedies, and scandals arise, there's no doubt that cybercriminals will continue to try and profit from other people's hardships.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Each Year Brings New Cybersecurity Threats
 
@@ -143,22 +143,20 @@ It was also stated in the same report that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/est-practices-for-youtube-to-igtv-transformation/"><u>[New] Best Practices for YouTube to IGTV Transformation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-enhancing-meet-visuals-applying-filters-effects-and-masks/"><u>[New] In 2024, Enhancing Meet Visuals Applying Filters, Effects & Masks</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-social-media-stardom-in-a-nutshell-master-these-9-tactics-for-insta-glory/"><u>[Updated] In 2024, Social Media Stardom in a Nutshell Master These 9 Tactics for Insta Glory</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-understanding-movavis-comprehensive-refund-guidelines/"><u>1. Understanding Movavi's Comprehensive Refund Guidelines</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-easy-routine-reverse-playback-on-vlc-platform/"><u>2024 Approved Easy Routine Reverse Playback on VLC Platform</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/descubre-la-forma-rapida-y-gratuita-de-transformar-tus-videos-aifc-en-calidad-m4a-usando-movavi-online-converter/"><u>Descubre La Forma Rápida Y Gratuita De Transformar Tus Videos AIFC en Calidad M4A Usando Movavi Online Converter</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/getting-the-best-out-of-your-lenovo-ideapad-100-drivers-update-guide-for-windows-10-users/"><u>Getting the Best Out of Your Lenovo IdeaPad 100: Drivers Update Guide for Windows 10 Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/google-pngjpg-movavi/"><u>Google에서 찾기 쉬운 오픈 소스 PNG/JPG 변환 도구 - Movavi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavi-mp4m4b/"><u>Movavi 上線免費MP4到M4B格式改造解決方案 - 簡便指南</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavioma-mp3-web/"><u>Movaviのように、OMA MP3フォーマットへのシームレス変換: 無料Webツールで簡単学ぶ</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/solution-de-la-panne-dimage-system-restore-erreur-0x80042309-sous-windows-7-8-et-10/"><u>Solution De La Panne D'Image System Restore - Erreur 0X80042309 Sous Windows 7, 8 Et 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-meilleures-applications-libres-pour-remplir-des-fichiers-pdf-sur-windows-et-macos/"><u>Top 10 Meilleures Applications Libres Pour Remplir Des Fichiers PDF Sur Windows Et macOS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-12-gif-creation-tools-for-mac-users-discover-the-ideal-recorder/"><u>Top 12 GIF Creation Tools for Mac Users: Discover the Ideal Recorder</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-resolving-boot-issues-on-laptops-and-desktops/"><u>Troubleshooting Guide for Resolving Boot Issues on Laptops and Desktops</u></a></li>
-<li><a href="https://fox-access.techidaily.com/utilizing-luts-for-enhanced-color-correction-in-pscc/"><u>Utilizing LUTs for Enhanced Color Correction in PSCC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/m4b-mp4-movavi/"><u>자이로드용 M4B 프리미우스를 MP4에 조작하는 가장 좋은 도구 - Movavi 저베이트</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-skys-canvas-transforming-drones-into-dynamic-videos-for-2024/"><u>[New] Sky's Canvas Transforming Drones Into Dynamic Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-revolutionize-your-memes-with-these-7-top-gif-creation-techniques/"><u>[Updated] 2024 Approved Revolutionize Your Memes with These 7 Top GIF Creation Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-essentials-in-composing-a-compelling-trailer-score/"><u>[Updated] Essentials in Composing a Compelling Trailer Score</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-strategies-to-correct-common-chatgpt-sign-in-errors/"><u>Expert Strategies to Correct Common ChatGPT Sign-In Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-tips-for-installing-and-operating-the-nvidia-rtx-chatbot-on-windowsmac-systems/"><u>Expert Tips for Installing and Operating the Nvidia RTX Chatbot on Windows/Mac Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-artificial-intelligences-role-in-transforming-medical-practices-the-potential-of-chatgpt/"><u>Exploring Artificial Intelligence's Role in Transforming Medical Practices: The Potential of ChatGPT.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-chatgpt-unveiling-the-capabilities-of-generative-artificn-intelligence/"><u>Exploring ChatGPT: Unveiling the Capabilities of Generative Artificn Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/find-your-next-great-read-5-revolutionary-apps-powered-by-ai-for-personalized-book-suggestions/"><u>Find Your Next Great Read: 5 Revolutionary Apps Powered by AI for Personalized Book Suggestions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-conversation-to-cinema-guided-chatgpt-views/"><u>From Conversation to Cinema: Guided ChatGPT Views</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-fiction-to-reality-exploring-the-gap-between-strong-ai-and-its-weaker-counterpart/"><u>From Fiction to Reality: Exploring the Gap Between Strong AI and Its Weaker Counterpart</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-6-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 6 Passcode not Working?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/libera-conversione-online-per-video-mkv-su-mp4-utilizzando-videoproc-senza-costi/"><u>Libera Conversione Online per Video Mkv Su MP4 Utilizzando VideoProc - Senza Costi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-no-cost-mp4-video-converter-software-for-windows-operating-system/"><u>Top Rated No-Cost MP4 Video Converter Software for Windows Operating System</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-the-power-of-windows-11-with-auto-hdr-feature-activation/"><u>Unleash the Power of Windows 11 with Auto HDR Feature Activation</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unlock-pro-level-video-effects-a-step-by-step-guide/"><u>Updated In 2024, Unlock Pro-Level Video Effects A Step-by-Step Guide</u></a></li>
 </ul></div>
 

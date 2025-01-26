@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Overcome the Hurdle – Why Age of Empires IV Won't Start"
-date: 2025-01-18T13:36:29.823Z
-updated: 2025-01-20T00:33:22.784Z
+date: 2025-01-24T01:06:14.643Z
+updated: 2025-01-25T20:20:16.052Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/a446c77eb3a38ef1182231809e6f1b7dff4f64919
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fixes to try:**
 
  Here’s a list of fixes that have resolved this problem for other Fortnite players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/a446c77eb3a38ef1182231809e6f1b7dff4f64919
 10. **[Close bandwidth hogging applications](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Install the latest Fortnite patch
 
@@ -79,6 +87,10 @@ See if you can log in or not. if not, try the next fix, below.
 2. Click**GO** to start testing your connection speed.  
 ![speedtest](https://images.drivereasy.com/wp-content/uploads/2018/10/speedtest.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the speed test result is much slower than usual, you should turn to your Internet service provider (ISP) for further supports. If the test result is normal, then try the next fix, below.
 
 ### Fix 4: Reset Winsock data
@@ -88,10 +100,6 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and then type **cmd** in the search box. When you see **Command Prompt** in the list of results, right-click it and then select **Run as administrator** . You will be prompted for permission. Click **Yes** to run**Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-5-step-1.jpg)
 2. In Command Prompt, type**netsh winsock reset**  and press **Enter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
@@ -109,14 +117,10 @@ See if you can log in or not. if not, try the next fix, below.
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### To renew your IP
 
@@ -131,6 +135,10 @@ See if you can log in or not. if not, try the next fix, below.
 4. Launch Fortnite.
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Update your network driver
 
@@ -154,7 +162,7 @@ See if you can log in or not. if not, try the next fix, below.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
@@ -163,10 +171,14 @@ See if you can log in or not. if not, try the next fix, below.
 ![Update Broadcom 802.11.ac Network Adapter driver](https://images.drivereasy.com/wp-content/uploads/2018/12/Update-Broadcom-802.11.ac-Network-Adapter-driver.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Avoid wireless interference
 
@@ -185,12 +197,12 @@ See if you can log in or not. if not, try the next fix, below.
 ![inetcpl.cpl](https://images.drivereasy.com/wp-content/uploads/2018/10/inetcpl-cpl.jpg)
 2. Navigate to the **Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…** ). Then click on **LAN settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![internet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/internet-properties.jpg)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
@@ -205,22 +217,18 @@ See if you can log in or not. if not, try the next fix, below.
 ![Win + R to open control panel](https://images.drivereasy.com/wp-content/uploads/2018/10/control.jpg)
 2. **View** the Control Panel **by Category** . Click **View network status and tasks** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
 3. In the pop-up window, click**Change adapter settings** .  
 
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Ethernet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties.jpg)
 5. Double-click**Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Ethernet properties 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties-2.jpg)
 6. Select**Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.  
@@ -228,15 +236,7 @@ See if you can log in or not. if not, try the next fix, below.
 ![TCP/IPv4 Properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Internet-protocol-verison-4-properties.jpg)
 7. Restart your PC and launch Fortnite.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 See if you can log in or not. If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 10: Close bandwidth hogging applications
 
@@ -271,24 +271,20 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-breakthrough-the-top-8-web-based-photo-blender/"><u>[New] 2024 Approved Breakthrough The Top 8 Web-Based Photo Blender</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-excellent-html5-video-tools-you-must-check/"><u>[New] Excellent HTML5 Video Tools You Must Check</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-best-image-safekeepers-online/"><u>[New] In 2024, Best Image Safekeepers Online</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-picture-perfect-presentations-posting-on-youtube/"><u>[Updated] Picture-Perfect Presentations Posting on YouTube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/2024app-8/"><u>2024新熱門：免費動手繪似顏畫App - 8款選擇</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/rawbmpmovavi/"><u>立即免費 - 從RAW到BMP格式：使用Movavi圖片編輯器進行轉換</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/acceso-libre-y-sin-coste-al-audio-de-los-videos-pasos-faciles-de-seguir/"><u>Acceso Libre Y Sin Coste Al Audio De Los Videos: Pasos Fáciles De Seguir</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-unbranded-no-cost-video-editors-available-on-pc-a-comprehensive-guide/"><u>Best Unbranded, No-Cost Video Editors Available on PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cambie-facilmente-su-video-mp4-al-formato-swf-sin-costo-alguno-usando-el-convertidor-de-archivos-streamy-online/"><u>Cambie Fácilmente Su Video MP4 Al Formato SWF Sin Costo Alguno Usando El Convertidor De Archivos Streamy Online</u></a></li>
-<li><a href="https://extra-information.techidaily.com/captivation-craftsman-for-posters/"><u>Captivation Craftsman for Posters</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversion-gratuite-des-fichiers-vers-le-format-mp4-avec-movavi-online-convertir-tod-en-video-pour-tous-vos-documents/"><u>Conversion Gratuite Des Fichiers Vers Le Format MP4 Avec Movavi Online - Convertir TOD en Vidéo Pour Tous Vos Documents</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-converter-transform-webm-into-gif-format-with-ease-movavi/"><u>Free Online Converter: Transform WebM Into GIF Format with Ease - Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guia-completo-para-iniciar-sessao-com-o-movavi-em-computadores-apple-instrucoes-detalhadas/"><u>Guia Completo Para Iniciar Sessão Com O Movavi Em Computadores Apple - Instruções Detalhadas</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oneplus-12r-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of OnePlus 12R Phone</u></a></li>
-<li><a href="https://techidaily.com/identifying-synthetic-stories-unveiling-artificial-intelligence-generated-misinformation/"><u>Identifying Synthetic Stories: Unveiling Artificial Intelligence-Generated Misinformation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-skillful-strategies-for-sustaining-design-success/"><u>In 2024, Skillful Strategies for Sustaining Design Success</u></a></li>
-<li><a href="https://fox-access.techidaily.com/master-the-art-of-livestream-recession-with-these-24-dynamic-tips-for-2024/"><u>Master the Art of Livestream Recession with These 24 Dynamic Tips for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/passos-faceis-para-fazer-um-corte-musical-personalizado-tecnica-da-movevi/"><u>Passos Fáceis Para Fazer Um Corte Musical Personalizado: Técnica Da MoveVi</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-motorola-defy-2-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Motorola Defy 2 Phone Now with These Tips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-guide-top-10-places-to-download-inspiring-slideshow-designs/"><u>[New] The Ultimate Guide Top 10 Places to Download Inspiring Slideshow Designs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-smartphone-tools-for-perfecting-your-pronunciation/"><u>[Updated] Smartphone Tools for Perfecting Your Pronunciation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-governance-oversight-organizations/"><u>AI Governance: Oversight Organizations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-learning-journey-your-first-stop-at-9-tool-communities/"><u>AI Learning Journey: Your First Stop at 9 Tool Communities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-assisted-poem-writing-techniques-using-chatgpt/"><u>AI-Assisted Poem Writing Techniques Using ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-8-ai-enhanced-browser-addons-for-boosting-efficiency/"><u>Best 8 AI Enhanced Browser Addons for Boosting Efficiency</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beware-no-legitimate-chatgpt-client-for-windows-avoid-these-fake-programs/"><u>Beware: No Legitimate ChatGPT Client for Windows – Avoid These Fake Programs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-day-with-chatgpts-4-time-management-solutions/"><u>Boost Your Day with ChatGPT’s 4 Time Management Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/brainstorm-boost-ai-and-visual-thought-mapping/"><u>Brainstorm Boost: AI and Visual Thought Mapping</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/convert-static-pngs-into-dynamic-gif-animations/"><u>Convert Static PNGs Into Dynamic GIF Animations</u></a></li>
+<li><a href="https://facebook.techidaily.com/discovering-the-updated-navigation-of-facebook/"><u>Discovering the Updated Navigation of Facebook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/full-review-exploring-hero4-black-functions/"><u>Full Review Exploring Hero4 Black Functions</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-poco-f5-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Poco F5 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-echo-of-valyria-prime-destinations-for-tts-downloads-for-2024/"><u>The Echo of Valyria Prime Destinations for TTS Downloads for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-solving-forza-horizon-5-pc-crashes/"><u>Ultimate Guide: Solving Forza Horizon 5 PC Crashes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Art of AI Interaction: Top Tutorials for Commanders"
-date: 2025-01-18T22:18:57.918Z
-updated: 2025-01-19T17:02:03.823Z
+date: 2025-01-20T05:45:02.005Z
+updated: 2025-01-26T04:11:50.934Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,10 @@ False news can be categorized into three types:
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -53,13 +57,13 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -74,7 +78,7 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -93,10 +97,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -109,7 +109,7 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -133,15 +133,22 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ourly-hitlist-the-leading-youtube-videos-by-watch-time-for-2024/"><u>[New] Hourly Hitlist The Leading YouTube Videos by Watch Time for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-saving-linkedin-videos-made-easy-with-this-6-app-selection-guide-for-2024/"><u>[Updated] Saving LinkedIn Videos Made Easy with This 6-App Selection Guide for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-audiophile-codecs-the-comparative-analysis-of-alac-and-flac-with-movavis-insight/"><u>Decoding Audiophile Codecs: The Comparative Analysis of ALAC and FLAC with Movavi's Insight</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-guide-to-transferring-songs-onto-your-usb-stick-macpc-movavi/"><u>Easy Guide to Transferring Songs Onto Your USB Stick (Mac/PC) - Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-grayed-out-extend-button-revive-it-for-discmgmt/"><u>Fix Grayed-Out Extend Button, Revive It for DiscMgmt</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratuit-konvertereen-vob-naar-mp3-online-movavibe/"><u>Gratuit Konvertereen VOB Naar MP3 Online - movavi.be</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-f5-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Poco F5 Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leer-van-mov-bestand-vervangen-door-digitaal-formaat-gratis-diensten-van-movavi/"><u>LEER VAN MOV-Bestand Vervangen Door Digitaal Formaat: Gratis Diensten Van Movavi</u></a></li>
-<li><a href="https://discover-community.techidaily.com/step-by-step-guide-converting-youtube-flv-videos-into-a-format-compatible-with-your-kindle-fire/"><u>Step-by-Step Guide: Converting YouTube FLV Videos Into a Format Compatible with Your Kindle Fire</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-your-companion-in-choosing-high-grade-hdr-cameras-for-2024/"><u>[New] Your Companion in Choosing High-Grade HDR Cameras for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-boost-engagement-with-smart-video-cropping-and-exporting/"><u>[Updated] In 2024, Boost Engagement with Smart Video Cropping & Exporting</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-leveraging-likes-and-shares-top-30-facebook-marketing-steps/"><u>2024 Approved Leveraging Likes and Shares Top 30 Facebook Marketing Steps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-mental-agility-triumphs-in-premier-escape-venues/"><u>2024 Approved Mental Agility Triumphs in Premier Escape Venues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-productivity-in-microsoft-teams-with-ai-copilot-an-in-depth-tutorial/"><u>Boost Your Productivity in Microsoft Teams with AI Copilot: An In-Depth Tutorial</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortlessly-switch-from-mp3-to-ogg-audio-a-cost-free-method/"><u>Effortlessly Switch From MP3 to OGG Audio - A Cost-Free Method</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-found-overcome-the-hurdle-age-of-empires-iv-startup-issue-resolved/"><u>Fixes Found: Overcome the Hurdle - Age of Empires IV Startup Issue Resolved</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-predictive-ai-anticipate-the-future-exploring-its-inner-workings/"><u>How Does Predictive AI Anticipate the Future? Exploring Its Inner Workings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hdr-advantages-in-video-workflow-over-traditional-sdr/"><u>In 2024, HDR Advantages in Video Workflow Over Traditional SDR</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-windows-support-software-for-logitech-g602-wireless-sound-system/"><u>Installing Windows Support Software for Logitech G602 Wireless Sound System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/interactive-evolution-6-ways-ai-transforms-video-game-scriptwriting/"><u>Interactive Evolution: 6 Ways AI Transforms Video Game Scriptwriting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-gemini-by-google-a-worthy-contender-against-microsofts-popular-chatgpt-platform/"><u>Is Gemini by Google a Worthy Contender Against Microsoft's Popular ChatGPT Platform?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-ai-synergy-delving-into-the-complexities-of-aligning-machine-goals/"><u>Mastering AI Synergy: Delving Into the Complexities of Aligning Machine Goals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-through-idea-stagnation-with-these-5-ai-assistants/"><u>Navigate Through Idea Stagnation With These 5 AI Assistants</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nonewsubs-when-will-chatgpt-welcome-again/"><u>NoNewSubs: When Will ChatGPT Welcome Again?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/perfect-your-palate-with-ai-enhanced-gourmet-guidance/"><u>Perfect Your Palate with AI-Enhanced Gourmet Guidance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/prompt-engineering-job-outlook-nine-parameters-that-determine-its-validity-and-opportunities/"><u>Prompt Engineering Job Outlook: Nine Parameters That Determine Its Validity and Opportunities</u></a></li>
 </ul></div>
 

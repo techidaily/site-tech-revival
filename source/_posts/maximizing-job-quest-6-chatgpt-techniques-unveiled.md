@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Job Quest: 6 ChatGPT Techniques Unveiled"
-date: 2025-01-15T17:04:32.420Z
-updated: 2025-01-20T12:11:23.380Z
+date: 2025-01-24T16:01:56.715Z
+updated: 2025-01-26T13:15:36.803Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
  Aside from taking images as input, ChatGPT can also generate DALL-E images within the interaction.
@@ -61,7 +57,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
@@ -69,7 +65,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
@@ -81,6 +77,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  I asked ChatGPT to check the Saturday weather forecast and advise whether I should reschedule my activities based on the weather update.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
@@ -108,13 +108,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
@@ -137,18 +137,18 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-iconic-inning-cameo-examination/"><u>[New] 2024 Approved Iconic Inning - Cameo Examination</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/rom-vision-to-visual-impact-youtube-trailers-via-filmora/"><u>[New] From Vision to Visual Impact YouTube Trailers via Filmora</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-launch-your-filmmaking-dreams-xp-edition-preparation/"><u>[New] Launch Your Filmmaking Dreams XP Edition Preparation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-reviewing-the-impression-of-high-dynamic-range-on-aurora-tv/"><u>[New] Reviewing the Impression of High Dynamic Range on Aurora TV</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-pro-tips-effortless-capture-of-hulu-videos-across-windowsmaciphone/"><u>[Updated] Pro Tips Effortless Capture of Hulu Videos Across Windows/Mac/iPhone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-the-vulnerability-issues-surrounding-chatgpt-interaction/"><u>Assessing the Vulnerability Issues Surrounding ChatGPT Interaction</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/best-8-youtube-editing-software-for-linux/"><u>Best 8 YouTube Editing Software for Linux</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/discover-optimal-free-webm-players-for-your-browser-for-2024/"><u>Discover Optimal Free WebM Players for Your Browser for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/embarking-on-a-mission-becoming-an-ai-conversation-maestro/"><u>Embarking on a Mission: Becoming an AI Conversation Maestro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/key-aspects-to-evaluate-when-implementing-chatgpt-in-psychological-care/"><u>Key Aspects to Evaluate When Implementing ChatGPT in Psychological Care</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-integrating-bing-chatbot-into-android-keyboard-app/"><u>Step-by-Step Guide: Integrating Bing Chatbot Into Android Keyboard App</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-influence-of-ai-powered-chatbots-on-modern-content-production-techniques/"><u>The Influence of AI-Powered Chatbots on Modern Content Production Techniques</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-key-internet-locations-specializing-in-free-lofi-music-files-and-backgrounds/"><u>Updated 2024 Approved Key Internet Locations Specializing in Free Lofi Music Files & Backgrounds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-your-channels-crafting-captivating-yt-descriptions-using-custom-templates/"><u>[New] In 2024, Boost Your Channels Crafting Captivating YT Descriptions Using Custom Templates</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-channel-makeovers-made-easy-top-10-online-tools-for-artists/"><u>[New] In 2024, Channel Makeovers Made Easy - Top 10 Online Tools for Artists</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-gamers-almanac-expert-tips-to-record-and-save-your-minecraft-sessions/"><u>[New] In 2024, Gamer's Almanac Expert Tips to Record and Save Your Minecraft Sessions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-navigating-your-way-through-screen-capturing-with-dell-for-2024/"><u>[New] Navigating Your Way Through Screen Capturing with Dell for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-your-workflow-implementing-chatgpt-for-enhanced-personal-assistance/"><u>Ace Your Workflow: Implementing ChatGPT for Enhanced Personal Assistance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-launch-bugs-on-dead-space-remake-with-these-proven-fixes-2024-edition/"><u>Beat Launch Bugs on Dead Space Remake with These Proven Fixes – 2024 Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/clarifying-ai-chatbot-facts-the-definitive-list-of-top-myths-busted/"><u>Clarifying AI Chatbot Facts: The Definitive List of Top Myths Busted</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-three-ai-bots-creativity-on-a-shared-writing-task-who-won/"><u>Comparing Three AI Bots' Creativity on a Shared Writing Task - Who Won?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-intelligent-responses-with-gpt-3-in-the-openai-interface/"><u>Crafting Intelligent Responses with GPT-3 in the OpenAI Interface</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-top-6-tools-for-conversing-and-evaluating-text-in-pdfs-with-ai-powered-chatbots/"><u>Discover Top 6 Tools for Conversing & Evaluating Text in PDFs with AI-Powered ChatBots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-ai-experience-with-these-10-amazing-chatgpt-alternatives/"><u>Elevate Your AI Experience with These 10 Amazing ChatGPT Alternatives</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-combatting-windows-not-found-problem/"><u>Essential Tips: Combatting Windows Not Found Problem</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-the-charge-in-online-healthcare-promotions-and-ads/"><u>Leading the Charge in Online Healthcare Promotions & Ads</u></a></li>
 </ul></div>
 

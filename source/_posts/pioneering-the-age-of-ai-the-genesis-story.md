@@ -1,7 +1,7 @@
 ---
 title: "Pioneering the Age of AI: The Genesis Story"
-date: 2025-01-14T22:39:49.883Z
-updated: 2025-01-19T23:56:50.495Z
+date: 2025-01-24T21:02:46.989Z
+updated: 2025-01-26T04:40:42.474Z
 tags:
   - chatgpt
   - open-ai
@@ -31,13 +31,13 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 ![artificial intelligence brain connected to human being](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-4389372_1920-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do People Use ChatGPT?
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some[criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) , ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Will ChatGPT Replace Other Jobs?
@@ -107,15 +107,20 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-realme-11-pro-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Realme 11 Pro</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/guia-completa-para-realizar-una-copia-exacta-de-windows-aturpa-la-macbook-pro/"><u>Guía Completa Para Realizar Una Copia Exacta De Windows Aturpa La MacBook Pro</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-stand-out-in-the-stream-top-name-generators-reviewed/"><u>In 2024, Stand Out in the Stream Top Name Generators Reviewed</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/montar-fotografias-com-facilidade-e-velocidade-uma-aula-de-montagem-musical-do-movavi/"><u>Montar Fotografias Com Facilidade E Velocidade: Uma Aula De Montagem Musical Do Movavi</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/remove-inconvenient-black-edges-from-youtube-videos/"><u>Remove Inconvenient Black Edges From YouTube Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-screenplay-structure-unveiled-for-2024/"><u>The Screenplay Structure Unveiled for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-generative-artificial-intelligence-definition-and-applications/"><u>Unveiling Generative Artificial Intelligence: Definition & Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-googles-next-gen-linguistic-ai-the-power-of-palm-2-explained/"><u>Unveiling Google's Next-Gen Linguistic AI: The Power of PaLM 2 Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-power-of-claude-2-discovering-its-purpose-and-capabilities/"><u>Unveiling the Power of Claude 2 - Discovering Its Purpose & Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-bypassing-chatgpt-apps-is-prudent/"><u>Why Bypassing ChatGPT Apps Is Prudent</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-webcam-techniques-for-live-recording-powerpoint/"><u>[New] 2024 Approved Webcam Techniques for Live Recording PowerPoint</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-efficient-video-marketing-incorporating-timestamps-effectively-for-2024/"><u>[Updated] Efficient Video Marketing Incorporating Timestamps Effectively for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-between-chatgpt-and-huggingchat-for-your-ai-needs/"><u>Choosing Between ChatGPT and HuggingChat for Your AI Needs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-conversational-ai-chatgpt-vs-googles-bard-who-wins/"><u>Comparing Conversational AI: ChatGPT Vs. Google's Bard - Who Wins?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creative-quest-how-different-chatbots-rose-to-one-standardized-task/"><u>Creative Quest: How Different Chatbots Rose to One Standardized Task</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/did-you-realize-its-possible-to-have-a-dialogue-with-chatgpt/"><u>Did You Realize It's Possible to Have a Dialogue with ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-leading-ai-assisted-search-engines-to-revolutionize-your-web-queries/"><u>Discover Leading AI Assisted Search Engines to Revolutionize Your Web Queries</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-7-most-effective-ai-applications-for-mastering-mathematics/"><u>Discover the 7 Most Effective AI Applications for Mastering Mathematics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficiently-managing-excel-data-with-chatgpt-tips/"><u>Efficiently Managing Excel Data with ChatGPT Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-sharefake-location-on-whatsapp-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mkv-compression-guide-dejouez-ces-erreurs-communes-et-repensez-vos-strategies/"><u>MKV Compression Guide - Déjouez Ces Erreurs Communes Et Repensez Vos Stratégies !</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/screensnipers-digest-the-ultimate-2023-software-roundup/"><u>ScreenSniper's Digest The Ultimate 2023 Software Roundup</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-nba-2k23-from-freezing-on-your-computer-top-7-fixes-for-a-smoother-experience/"><u>Stop NBA 2K23 From Freezing on Your Computer: Top 7 Fixes for a Smoother Experience</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210070646-9781913479268-wellness-magick/"><u>Wellness Magick | Free Book</u></a></li>
 </ul></div>
 

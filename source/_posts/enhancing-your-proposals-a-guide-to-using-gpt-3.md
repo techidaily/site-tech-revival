@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Proposals: A Guide to Using GPT-3"
-date: 2025-01-15T18:56:39.967Z
-updated: 2025-01-19T19:45:55.641Z
+date: 2025-01-20T11:24:42.560Z
+updated: 2025-01-26T05:11:43.661Z
 tags:
   - chatgpt
   - open-ai
@@ -41,11 +41,7 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
 ![Screenshot of ChatGPT home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-home-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Comparing the Language Models of Bing Chat and ChatGPT
@@ -53,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
  One of the fundamental differences between the chatbots is the language model they use. Currently, free ChatGPT users are restricted to GPT-3.5, with the much-hyped GPT-4 only available to premium users.
 
  Bing Chat uses the latest version of the language model, GPT-4\. However, there are some[key differences between GPT-4 and GPT-3.5](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) :
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Creativity
 
@@ -62,13 +62,13 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of Bing Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-limerick-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As you see from the ChatGPT effort below, both models can construct creative prose remarkably well.
 
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Safety
 
@@ -85,7 +85,7 @@ For example, below is Bing Chat's effort at a simple limerick.
 ![Screenshot of GPT limitations for bin and chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-gpt-limitations-for-bin-and-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Bing Chat has a distinct advantage here. The GPT-4 model has the twin advantages of access to more recent data and multiple sources of information. By contrast, the GPT-3.5/GPT-4 dataset was cut off at the end of 2021, and though it has received some topical updates, it is limited.
@@ -94,10 +94,6 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of Plastic Recycling Stats from Bing Chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-plastic-recycling-stats-from-bing-chat.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The response supplied figures as well as links to the sources from which the data was retrieved. However, the inclusion of US plastic exports was slightly out of context with the question. We would hesitate to call this a glitch, but it does show AI's tendency to wander off-topic at times.
 
 By contrast, the ChatGPT response was to admit its limitations.
@@ -105,6 +101,10 @@ By contrast, the ChatGPT response was to admit its limitations.
 ![Screenshot of ChatGPT response to recycling question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-recycling-question.jpg)
 
  The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Comparing the Interfaces of ChatGPT and Bing Chat
 
@@ -118,13 +118,13 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of Bing Chat response to education query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-chat-response-to-education-query.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, the response included links to the listed websites. Compare this to the ChatGPT response:
 
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which Is Best: Bing Chat or Chat GPT?
 
@@ -163,18 +163,14 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-2023s-premier-action-cameras-on-motorcycle-gear-guide/"><u>[New] 2024 Approved 2023'S Premier Action Cameras on Motorcycle Gear Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-advanced-editing-guide-for-creating-compelling-360-degree-videos-using-premiere-pro/"><u>[Updated] 2024 Approved Advanced Editing Guide for Creating Compelling 360-Degree Videos Using Premiere Pro</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-broadcast-brilliance-with-cost-effective-templates/"><u>[Updated] Broadcast Brilliance with Cost-Effective Templates</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-top-10-audio-playback-accelerators-for-phones/"><u>[Updated] In 2024, Top 10 Audio Playback Accelerators for Phones</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-emotional-depth-in-self-narrated-videos-yt/"><u>[Updated] Unlocking Emotional Depth in Self-Narrated Videos YT</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-y02t-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo Y02T without App | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726224947973-movavii-tod-mov/"><u>在線MOVAvii 自由解碼器 - 完全免費的 TOD 到 MOV 影片格式變更</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-a15-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy A15 5G? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/create-stunning-slideshows-with-our-easy-to-use-slidemaker-shop-today/"><u>Create Stunning Slideshows with Our Easy-to-Use SlideMaker: Shop Today!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explicadas/"><u>Explicadas</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratuito-online-conversor-de-arquivos-ogg-pelo-movavi/"><u>Gratuito: Online Conversor De Arquivos OGG Pelo Movavi</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-realme-narzo-n55-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Realme Narzo N55 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726222743181-aac-movavi/"><u>영화 및 오디오를 위한 제자금없는 안정적인 AAC 파일 매터리 변환: Movavi 사용법</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ac-users-mastering-mp3-conversion-from-youtube/"><u>[New] Mac Users Mastering MP3 Conversion From YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-core-elements-in-asmr-visual-media/"><u>[New] The Core Elements in ASMR Visual Media</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/diversify-your-income-with-side-jobs-diy-computer-assembly-tricks-and-treasured-retro-gaming-handheld-collectibles-advice/"><u>Diversify Your Income with Side Jobs, DIY Computer Assembly Tricks, and Treasured Retro Gaming Handheld Collectibles Advice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-writing-with-innovative-ideas-from-the-worlds-5-leading-ai-generators/"><u>Elevate Your Writing with Innovative Ideas From the World's 5 Leading AI Generators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-a-new-dimension-of-online-exploration-how-microsoft-bing-is-leveraging-ai-to-transform-your-searches/"><u>Experience a New Dimension of Online Exploration: How Microsoft Bing Is Leveraging AI to Transform Your Searches</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-the-missing-rockalldlldll-file-strategies-and-tips/"><u>Fix the Missing Rockalldll.dll File: Strategies and Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/freelancers-guide-choosing-between-bing-chat-and-chatgpt-top-8-factors/"><u>Freelancer's Guide: Choosing Between Bing Chat & ChatGPT - Top 8 Factors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/resolved-how-to-fix-the-black-screen-on-windows-server-201e9-top-3-solutions/"><u>Resolved: How to Fix the Black Screen on Windows Server 201E9 - Top 3 Solutions</u></a></li>
 </ul></div>
 

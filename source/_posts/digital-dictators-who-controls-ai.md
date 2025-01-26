@@ -1,7 +1,7 @@
 ---
 title: "Digital Dictators: Who Controls AI?"
-date: 2025-01-12T16:41:28.823Z
-updated: 2025-01-19T16:45:29.025Z
+date: 2025-01-21T02:03:00.460Z
+updated: 2025-01-25T19:17:37.138Z
 tags:
   - chatgpt
   - open-ai
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
 **Download:** [VoiceGPT](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2026716/https://play.google.com/store/apps/details?id=gpt.voice.chatgpt) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Voice Input and Text-To-Speech Features With VoiceGPT
 
  With VoiceGPT, you can interact with and[control ChatGPT using your voice](https://www.makeuseof.com/ways-to-control-chatgpt-with-voice/) , making the experience more natural and intuitive than ever before. The app utilizes text-to-speech and talk-back features to enable you to hear responses coming from the ChatGPT interface, providing a seamless and personalized conversational experience. Here's how to set this up:
@@ -53,12 +49,16 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
 ![enable hey chat hotword](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![set up voice input in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs3.jpg)
 
 ![voice inputs in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -77,24 +77,32 @@ Close
 
 ![Predefined prompts database in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Game prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun1.jpg)
 
-![Fun category prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun2.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Fun category prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun2.jpg)
 
 Close
 
  These prompts range across various categories including coding, music, education, games, travel, email writing, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Third-Party Integrations With VoiceGPT
 
  VoiceGPT isn't only useful when it comes to voice commands. You can also take advantage of its other non-voice integrations, such as extracting text from images, executing code snippets, and generating images with DALL-E 2\. Let's take a look at these features below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Execute Code Snippets With RunGPT
@@ -111,17 +119,9 @@ Close
 
 ![RunGPT integration for code snippets in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rungpt1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  For those of us looking to optimize and speed up our coding process workflow or simply learn new[programming techniques with ChatGPT](https://www.makeuseof.com/chatgpt-programming-practical-uses/) , this feature can be helpful.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Generate AI Images With DALL-E 2
 
@@ -133,10 +133,6 @@ Close
 
 ![Dall-e2 interface in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Image prompts in Dall- E2 using VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e3.jpg)
 
 Close
@@ -147,17 +143,21 @@ Close
 
 ![ocr in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Image editor in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr2.jpg)
 
 ![OCR results generated in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  Undoubtedly, this feature can be a powerful time saver for anyone who needs to extract text from various sources, such as business cards, posters, flyers, or receipts. You can also check out[these OCR apps for your smartphone](https://www.makeuseof.com/tag/best-android-ocr-apps-extracting-text-images/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get More Done With ChatGPT via Voice Commands
 
@@ -180,21 +180,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-enhanced-engagement-with-effective-youtube-video-outros-strategies/"><u>[Updated] 2024 Approved Enhanced Engagement with Effective YouTube Video Outros Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/6-effective-strategies-to-minimize-ai-misinterpretations-through-smart-prompting/"><u>6 Effective Strategies to Minimize AI Misinterpretations Through Smart Prompting</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-journey-through-openais-gpt-generations/"><u>A Journey Through OpenAI’s GPT Generations</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-f04-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy F04</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-machine-intelligence-beyond-traditional-trials/"><u>Assessing Machine Intelligence Beyond Traditional Trials</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/automated-prose-perfection-the-hix-way/"><u>Automated Prose Perfection: The HIX Way</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/barricade-website-from-robotic-data-collectors/"><u>Barricade Website From Robotic Data Collectors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722193779525-beware-of-fake-chatgpt-desktop-apps-these-are-actually-malware/"><u>Beware of Fake ChatGPT Desktop Apps: These Are Actually Malware!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722212256665-chatgpt-desktop-still-coming-soon-discover-exceptional-open-source-counterparts-now/"><u>ChatGPT Desktop Still Coming Soon? Discover Exceptional Open Source Counterparts Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-top-ranked-android-wearables-going-steeply-discounted-this-labor-day-insights-from-tech-reviews-at-zdnet/"><u>Exclusive Offer: Top-Ranked Android Wearables Going Steeply Discounted This Labor Day - Insights From Tech Reviews at ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-first-row-leisure-10-alternatives-to-sports/"><u>In 2024, First Row Leisure 10 Alternatives to Sports</u></a></li>
-<li><a href="https://games-able.techidaily.com/mac-setup-steps-for-adding-discord/"><u>Mac Setup: Steps for Adding Discord</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ng-awareness-with-youtubes-cc-membership-tips-for-view-growth/"><u>Raising Awareness with YouTube's CC Membership Tips for View Growth</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-paper-simulating-power-of-the-2019-kindle-oasis-in-depth-review-and-insights/"><u>The Paper-Simulating Power of the 2019 Kindle Oasis: In-Depth Review & Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/veilig-en-gemakkelijk-kunt-u-mp4-videos-direct-online-in-mjpeg-format-omzetten-het-veertiende-beoefening-hierboven-getuigenisert-dekkingen-van-movavi/"><u>Veilig en Gemakkelijk Kunt U MP4 Video's Direct Online in MJPEG Format Omzetten, Het Veertiende Beoefening Hierboven Getuigenisert – Dekkingen Van Movavi</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-convert-twitter-vids-into-aacmp4-files/"><u>[New] Convert Twitter Vids Into AAC/MP4 Files</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-grateful-for-viewership-template-choices-at-no-cost/"><u>[New] Grateful for Viewership! Template Choices at No Cost</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-enhancing-soundscapes-mastering-audacitys-crossfade-feature/"><u>[Updated] Enhancing Soundscapes Mastering Audacity's Crossfade Feature</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-enhancing-zoom-meetings-with-effects/"><u>[Updated] The Ultimate Guide to Enhancing Zoom Meetings With Effects</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expand-your-nes-collection-a-comprehensive-guide-to-including-additional-titles/"><u>Expand Your NES Collection: A Comprehensive Guide to Including Additional Titles</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-130-music-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/refine-your-prompt-craftsmanship-discover-7-must-use-online-utilities-for-better-outcomes/"><u>Refine Your Prompt Craftsmanship: Discover 7 Must-Use Online Utilities for Better Outcomes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplified-concepts-of-artificial-intelligence-unveiled/"><u>Simplified Concepts of Artificial Intelligence Unveiled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-interactive-ui-on-windows-after-repair/"><u>Smooth Interactive UI on Windows After Repair</u></a></li>
+<li><a href="https://article-tips.techidaily.com/speed-kings-and-queens-of-2022-for-2024/"><u>Speed Kings and Queens of 2022 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-up-your-browsing-experience-7-chrome-extensions-for-ai/"><u>Step Up Your Browsing Experience: 7 Chrome Extensions for AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/swiftly-create-better-guides-with-these-7-online-apps/"><u>Swiftly Create Better Guides with These 7 Online Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-art-of-convincing-proposals-using-chatgpt-smartly/"><u>The Art of Convincing Proposals: Using ChatGPT Smartly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-gptbot-conundrum-harnessing-its-powers-responsibly/"><u>The GPTBot Conundrum - Harnessing Its Powers Responsibly?</u></a></li>
 </ul></div>
 

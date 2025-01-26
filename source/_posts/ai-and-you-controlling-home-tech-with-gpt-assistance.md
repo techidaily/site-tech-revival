@@ -1,7 +1,7 @@
 ---
 title: "AI and You: Controlling Home Tech with GPT Assistance"
-date: 2025-01-13T01:10:20.319Z
-updated: 2025-01-19T18:21:45.781Z
+date: 2025-01-24T08:03:42.287Z
+updated: 2025-01-26T04:33:05.797Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 1: Download Python and AutoGPT
@@ -48,6 +48,10 @@ After Installing Python, you can download Auto-GPT from GitHub.
 
 **Source code.zip** is for Windows, while**Source code.tar.gz** is for Linux and MacOS. First, download the file for your operating system, then copy the folder and paste it into your desired location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 2: Configure Auto-GPT
 
  Since AutoGPT uses OpenAI's GPT model, you must generate an API key from OpenAI to act as your credential to use their product.
@@ -60,7 +64,7 @@ After Installing Python, you can download Auto-GPT from GitHub.
 3. Now you have your API key, go to your Auto-GPT folder and open the**.env** file using Notepad.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
@@ -86,6 +90,10 @@ python -m autogpt
 
 Congratulations! You have successfully Installed Auto-GPT.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Auto-GPT
 
  Now that you have successfully installed Auto-GPT on your computer let's discuss how to use Auto-GPT.
@@ -104,17 +112,9 @@ Congratulations! You have successfully Installed Auto-GPT.
 
 ![Creating Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/recipe-generator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In this example, we have named our AI assistant "Recipe-Generator." Its role is to make a recipe based on the top five ingredients readily available in the US. We've set the first three goals as parameters on what we expect the recipe will be and set the last two to tell Auto-GPT to save the file as TXT, then shutdown.
 
 ![Running Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-recipe-generator-thinking.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once you give your last goal, you can hit enter for Auto-GPT to run.
 
@@ -126,15 +126,15 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 
 ![AutoGPT downloading file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-recipe-generator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This makes this[AI potentially dangerous](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) ; that's why Auto-GPT always asks you for authorization before executing plans. Always read and understand your AI assistant's thoughts, reasoning, and plan before authorizing its actions.
 
  After every action of the AI, you can also provide your feedback to help the AI with its task.
 
 ![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
 
@@ -146,11 +146,11 @@ After making the recipe, our AI has now completed its task.
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Auto-GPT Limitations
 
@@ -185,24 +185,24 @@ After making the recipe, our AI has now completed its task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-the-core-contrasts-between-youtube-and-dailymention-for-2024/"><u>[Updated] Decoding the Core Contrasts Between YouTube and DailyMention for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-gateway-to-grandeur-embarking-on-a-classic-lit-journey/"><u>[Updated] Gateway to Grandeur Embarking on a Classic Lit Journey</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-in-depth-study-of-audafreedomaudiotools/"><u>2024 Approved The In-Depth Study of AudaFreedomAudioTools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp4mp3-movavi-mpx/"><u>線上MP4到MP3無成本變換工具 - Movavi MPx</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-mp2-files-to-wav-format-for-free-with-movavi-online-tools/"><u>Convert MP2 Files to WAV Format for Free with Movavi Online Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-aac-to-mp3-audio-converter-by-movavi-effortless-format-transformation/"><u>Free Online AAC-to-MP3 Audio Converter by Movavi - Effortless Format Transformation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratis-online-webm-converter-para-mp4-mov-e-wmv-pelo-movavi/"><u>Grátis Online Webm Converter Para Mp4, Mov E Wmv Pelo Movavi</u></a></li>
-<li><a href="https://discover-best.techidaily.com/how-can-i-restore-the-missing-sound-indicator-on-my-windows-taskbar-expert-advice-from-yl-computing/"><u>How Can I Restore the Missing Sound Indicator on My Windows Taskbar? - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-leveraging-windows-10s-photos-app-a-guide-to-adding-text-to-visual-content/"><u>In 2024, Leveraging Windows 10'S Photos App A Guide to Adding Text to Visual Content</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-revolutionizing-voice-capture-a-compreenas-guide-to-facetime-recording/"><u>In 2024, Revolutionizing Voice Capture A Compreenas Guide to FaceTime Recording</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From Apple iPhone 6s</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/methode-facile-pour-convertir-un-fichier-mpeg-au-format-ogg-en-ligne-gratuit-tutorial-movavi/"><u>Méthode Facile Pour Convertir Un Fichier MPEG Au Format Ogg en Ligne Gratuit – Tutorial Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/online-aac-mp4-convertie-gratis-het-uitvoerige-leermeester-movavi/"><u>Online AAC-MP4 Convertie Gratis - Het Uitvoerige Leermeester Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimat-konvertera-med-vlc-till-mp4-filer-den-basta-processningsmetoden/"><u>Optimat Konvertera Med VLC Till MP4-Filer - Den Bästa Processningsmetoden</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-13-unbeatable-chrome-os-bargains-this-month-february-2023-tech-insights/"><u>Top 13 Unbeatable Chrome OS Bargains This Month - February 2023 | Tech Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-overlaying-photos-with-5-effective-methods/"><u>Ultimate Guide to Overlaying Photos with 5 Effective Methods</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-overcoming-challenges-with-dual-graphics-cards/"><u>Windows 10: Overcoming Challenges with Dual Graphics Cards</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-xs-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone XS?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726225166202-aviwmv-movavi/"><u>フリーウェアでAVIWMVビデオコンバート - MOVAVI</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-earn-facebooks-trusted-prestigious-symbol/"><u>[New] How to Earn Facebook's Trusted, Prestigious Symbol</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-high-performance-mac-editors-ranked-1-to-5/"><u>[Updated] In 2024, High-Performance Mac Editors - Ranked #1 to #5</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/e-impact-with-intro-excellence-best-free-services-reviewed-for-2024/"><u>Create Impact with Intro Excellence Best Free Services Reviewed for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-your-next-great-read-with-these-5-cutting-edge-ai-recommender-systems/"><u>Explore Your Next Great Read with These 5 Cutting-Edge AI Recommender Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-dilemma-how-do-we-ensure-ai-adheres-to-our-ethical-standards/"><u>Exploring the Dilemma: How Do We Ensure AI Adheres to Our Ethical Standards?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/generative-ai-and-its-impact-on-search-technology-an-overview-with-industry-examples/"><u>Generative AI and Its Impact on Search Technology: An Overview with Industry Examples</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-artifice-intelligence-enhances-learning-unveiling-8-key-benefits-for-teachers/"><u>How Artifice Intelligence Enhances Learning: Unveiling 8 Key Benefits for Teachers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-craftsmanship-at-fingertips-discovering-apples-8-excellent-drawing-apps/"><u>In 2024, Craftsmanship at Fingertips Discovering Apple's 8 Excellent Drawing Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-depth-guide-to-capturing-and-enhancing-ps4-gaming/"><u>In-Depth Guide to Capturing and Enhancing PS4 Gaming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-look-every-detail-of-apples-ai-breakthrough-at-wwdc-24-uncovered/"><u>In-Depth Look: Every Detail of Apple's AI Breakthrough at WWDC 24 Uncovered</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-the-deal-microsofts-strategic-purchase-of-blizzard-unpacking-ai-creativity-and-language-tech-podcast/"><u>Inside the Deal: Microsoft's Strategic Purchase of Blizzard - Unpacking AI Creativity & Language Tech [Podcast]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/insight-into-auto-gpt-comparative-analysis-with-conversation-ai/"><u>Insight Into Auto-GPT: Comparative Analysis with Conversation AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/intelligent-systems-academic-research-revolution/"><u>Intelligent Systems: Academic Research Revolution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/italys-swift-ban-on-chatgpt-whats-the-reason/"><u>Italy's Swift Ban on ChatGPT: What's the Reason?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722964983720-step-by-step-installation-of-logitech-racing-wheel-software-for-windows-7-8-and-10-secure-and-reliable-download-options/"><u>Step-by-Step Installation of Logitech Racing Wheel Software for Windows 7, 8 & 10 - Secure and Reliable Download Options!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-gadget-reviews-and-performance-analysis/"><u>Tom's Tech Insights: Expert Gadget Reviews and Performance Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-how-to-fix-windows-11-usb-detection-issues/"><u>Troubleshooting: How to Fix Windows 11 USB Detection Issues</u></a></li>
 </ul></div>
 

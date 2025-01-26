@@ -1,7 +1,7 @@
 ---
 title: "Understanding Generative AI: The Future Technology Unveiled"
-date: 2025-01-13T13:34:14.321Z
-updated: 2025-01-20T05:51:35.454Z
+date: 2025-01-20T20:34:21.593Z
+updated: 2025-01-26T13:14:34.850Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is a Vector Database?
 
  A vector database is a way to store information through the use of vectors. Unlike the usual form of databases that organize data as tabulated lists, vector databases organize data through high-dimensional vectors. These vectors can then be represented in mathematical space as vector embeddings.
@@ -41,16 +45,12 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 ![Two and three dimensional vectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/dimensional-vector.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
 
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Are Vector Embeddings Important?
 
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
  Without understanding semantics or context, an AI may provide logically correct but contextually wrong answers. For example, the AI may misinterpret the phrase "He had a heavy heart as he walked away" as a guy with a heart condition instead of a guy feeling sad or burdened.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Vector Databases Help Boost AI
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
@@ -86,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 1. **Creation of vector embeddings:** Based on the type of data, a vector embedding model is used to generate vector embeddings to be indexed. These embedding models are what turn words, images, videos, and audio into numbers/embeddings.
 2. **Indexing:** Once vector embeddings have been generated, they can now be stored on a vector database such as Pinecone, Milvus, and Chroma. These vector databases use various algorithms, such as product quantization (PQ) and locality-sensitive hashing (LSH), to index each embedding for quick and efficient storing and retrieval of data.
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Popular Vector Databases
 
@@ -95,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 * **Milvus** : An open-source vector platform built with similarity search and AI applications in mind. It provides quick and efficient indexing and search capabilities for high-dimensional vectors. In addition, Milvus supports multiple indexing algorithms and offers SDKs for various programming languages.
 * **Redis:** A high-performance vector database capable of supporting real-time applications, session management, and high-traffic websites. Redis is often used for real-time analytics, similarity search, and recommendation systems.
 * **Weaviate:** Offers schema discovery, real-time updates, semantic search, and contextualizing data. With these features, Weaviate is often used to create personalized experience systems for applications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Future of Vector Databases
 
@@ -121,22 +121,18 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-tips-for-turning-off-automatic-podcast-adds-on-spotify/"><u>[New] Tips for Turning Off Automatic Podcast Adds on Spotify</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unboxing-essentials-selecting-audio-that-complements-videos/"><u>[Updated] 2024 Approved Unboxing Essentials Selecting Audio that Complements Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-sextuple-of-full-frame-hd-innovations/"><u>[Updated] In 2024, Ultimate Sextuple of Full Frame HD Innovations</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-secrets-of-excellence-how-zoom-can-transform-your-podcast-recordings/"><u>[Updated] Secrets of Excellence How Zoom Can Transform Your Podcast Recordings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/advanced-techniques-in-itunes-video-saving/"><u>Advanced Techniques in iTunes Video Saving</u></a></li>
-<li><a href="https://win-net.techidaily.com/hddssdwindows-1011/"><u>HDD/SSD間でパーティションコピー:Windows 10/11対応ガイド</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-c53-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Realme C53 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/securing-your-digital-footprint-with-ai-customizations/"><u>Securing Your Digital Footprint with AI Customizations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-activating-microsoft-copilot-on-your-apple-device/"><u>Step-by-Step Guide: Activating Microsoft Copilot on Your Apple Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/strong-ai-vs-weak-ai-whats-the-difference/"><u>Strong AI Vs. Weak AI: What's the Difference?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-complete-set-of-castilian-speakers/"><u>The Complete Set of Castilian Speakers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-hidden-power-of-snapchats-my-ai-discover-6-benefits-beyond-entertainment/"><u>The Hidden Power of Snapchat's My AI: Discover 6 Benefits Beyond Entertainment</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-turing-test-in-the-age-of-ai-are-there-better-ways-to-assess-machine-intelligence-learn-about-5-alternatives/"><u>The Turing Test in the Age of AI: Are There Better Ways to Assess Machine Intelligence? Learn About 5 Alternatives</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/top-strategies-for-capturing-lol-matches-for-2024/"><u>Top Strategies for Capturing LOL Matches for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-and-correcting-6-typical-gpt-malfunctions/"><u>Understanding & Correcting 6 Typical GPT Malfunctions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-bert-an-in-depth-look-at-its-unique-approach-to-nlp/"><u>Understanding BERT: An In-Depth Look at Its Unique Approach to NLP</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-function-of-top-7-gpt-4-integrated-applications/"><u>Understanding the Function of Top 7 GPT-4 Integrated Applications</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-expert-5-virtual-screenshots-tech/"><u>[New] In 2024, Expert 5 Virtual Screenshots Tech</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-masterpiece-makers-leading-ios-draw-tools-for-2024/"><u>[Updated] Masterpiece Makers Leading iOS Draw Tools for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-realme-gt-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-you-a-handy-approach-to-troubleshooting-pc-problems-efficiently/"><u>ChatGPT and You: A Handy Approach to Troubleshooting PC Problems Efficiently</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciding-on-investing-in-gpt-plus/"><u>Deciding on Investing in GPT Plus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-claude-2-capabilities-explored/"><u>Decoding Claude 2: Capabilities Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/direct-communication-using-rtx-ai-on-your-device/"><u>Direct Communication: Using RTX AI on Your Device</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-v30t-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme V30T to PC? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/mp4-made-easy-10-best-webm-to-mp4-conversion-tools-for-2024/"><u>MP4 Made Easy 10 Best WebM to MP4 Conversion Tools for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/network-printer-vanishes-whats-the-remedy/"><u>Network Printer Vanishes, What's the Remedy?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcome-windows-11-wont-run-problems-on-your-pc-with-easy-fixes-by-revouninstaller/"><u>Overcome 'Windows 11 Wont Run' Problems on Your PC with Easy Fixes by RevoUninstaller</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-f34-5g-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-screen-woes-top-6-easy-fixes-uncovered/"><u>Windows Screen Woes: Top 6 Easy Fixes Uncovered</u></a></li>
 </ul></div>
 

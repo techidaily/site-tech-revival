@@ -1,7 +1,7 @@
 ---
 title: "The End of an Era: Why Modern ChatGPT Jailbreaks Fail - Insights and Analysis"
-date: 2025-01-12T19:49:59.310Z
-updated: 2025-01-20T07:11:09.442Z
+date: 2025-01-22T20:12:09.249Z
+updated: 2025-01-26T13:34:37.779Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -63,17 +63,24 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-echoes-of-harmony-in-a-social-sphere/"><u>[New] 2024 Approved Echoes of Harmony in a Social Sphere</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-addressing-freeze-during-facebook-live-events/"><u>[New] Addressing Freeze During Facebook Live Events</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-essential-tutorial-for-creating-a-biz-focused-instagram/"><u>2024 Approved The Essential Tutorial for Creating a Biz-Focused Instagram</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-10-terraria-game-boosters/"><u>2024 Approved Top 10 Terraria Game Boosters</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-chatgpts-potential-in-academia/"><u>Maximizing ChatGPT's Potential in Academia</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-productivity-with-chatgpt-a-guide-for-gig-workers/"><u>Maximizing Productivity with ChatGPT: A Guide for Gig Workers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-ai-tools-for-your-freelance-business-bing-chat-vs-chatgpt-and-8-critical-points-to-ponder/"><u>Navigating AI Tools for Your Freelance Business: Bing Chat Vs. ChatGPT and 8 Critical Points to Ponder</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-chatgpt-jailbreaking-benefits-vs-risks/"><u>Navigating the World of ChatGPT Jailbreaking: Benefits Vs. Risks</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-in-this-article-we-will-share-with-you-some-of-the-minimum-requirement-of-running-premiere-pro-cc-on-your-computer-and-how-to-check-the-sp/"><u>New 2024 Approved In This Article, We Will Share with You some of the Minimum Requirement of Running Premiere Pro CC on Your Computer and How to Check the Specification of Your PC and Mac, and Also How to Set up the Co</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/sicherung-ihres-raid-0-speichers-ohne-kosten-effiziente-und-schrittweise-methode-fur-die-datensicherheit/"><u>Sicherung Ihres RAID-0 Speichers Ohne Kosten: Effiziente Und Schrittweise Methode Für Die Datensicherheit</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-apple-iphone-15-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on Apple iPhone 15 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/yuneec-typhoon-q500-4k-review-for-2024/"><u>Yuneec Typhoon Q500 4K Review for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hidden-pitfalls-investing-in-fraudulent-subscribers-for-2024/"><u>[Updated] Hidden Pitfalls Investing in Fraudulent Subscribers for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-enrich-social-media-content-with-auto-generated-speech-for-2024/"><u>[Updated] How to Enrich Social Media Content with Auto-Generated Speech for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-complete-sphere-unveiled-in-film-tech/"><u>[Updated] In 2024, The Complete Sphere Unveiled in Film Tech</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-how-to-restore-windows-photo-viewer-in-windows-10/"><u>2024 Approved How to Restore Windows Photo Viewer in Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-trust-ai-detectors-unveiling-the-truth-with-four-examples-including-zerogpt/"><u>Can You Trust AI Detectors? Unveiling the Truth with Four Examples (Including ZeroGPT)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-personal-chef-helper-discover-these-7-cooking-hacks/"><u>ChatGPT as Your Personal Chef Helper: Discover These 7 Cooking Hacks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-desktop-version-is-coming-soon-want-a-great-free-alternative/"><u>ChatGPT's Desktop Version Is Coming Soon, Want a Great Free Alternative?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/coding-showdown-can-chatgpt-outperform-gemini-in-the-world-of-programming/"><u>Coding Showdown: Can ChatGPT Outperform Gemini in the World of Programming?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/customizing-chatgpt-with-your-own-ai-a-step-by-step-guide/"><u>Customizing ChatGPT with Your Own AI: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-ais-enigma-assessing-inherent-risks-for-society/"><u>Deciphering AI's Enigma: Assessing Inherent Risks for Society</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-purpose-of-twitter-axes-checkmarks-linus-tech-tips-cyber-attack-expose-and-the-dangers-of-trojan-threats-online/"><u>Decoding the Purpose of Twitter Axes Checkmarks | Linus Tech Tips' Cyber Attack Exposé & The Dangers of Trojan Threats Online</u></a></li>
+<li><a href="https://win11.techidaily.com/designed-permanent-file-wastebasket-for-windows-desktops-win1011/"><u>Designed Permanent File Wastebasket for Windows Desktops (Win10/11)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-enhanced-search-capabilities-with-bings-new-ai-integration-on-your-iphone-ipad-or-android-device/"><u>Discover Enhanced Search Capabilities with Bing's New AI Integration on Your iPhone, iPad, or Android Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-list-of-no-cost-ai-programs-for-photo-generation/"><u>Discover The Ultimate List of No-Cost AI Programs for Photo Generation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-field-of-ai-prompt-creation-and-its-long-term-career-potential/"><u>Navigating the Field of AI Prompt Creation and Its Long-Term Career Potential</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-pinnacle-of-iphone-photography-finding-ultimate-angles/"><u>The Pinnacle of iPhone Photography Finding Ultimate Angles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-mfc42ddll-not-found-problem-steps-to-solve/"><u>Troubleshooting the 'mfc42d.dll Not Found' Problem - Steps to Solve</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-digital-storage-tips-for-dvd-collections-in-202-the-future-of-dvd-preservation-transitioning-to-digital-formats/"><u>Ultimate Digital Storage Tips for DVD Collections in 202 The Future of DVD Preservation: Transitioning to Digital Formats</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-timeless-tunes-selecting-melodies-for-matrimonial-cinematography-for-2024/"><u>Updated Timeless Tunes Selecting Melodies for Matrimonial Cinematography for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ensuring Safety When Using AI Like ChatGPT in Therapeutic Coaching
-date: 2025-01-16T19:43:54.109Z
-updated: 2025-01-19T22:47:11.077Z
+date: 2025-01-21T15:22:57.594Z
+updated: 2025-01-26T10:38:03.899Z
 tags:
   - chatgpt
   - open-ai
@@ -28,19 +28,23 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 
 ![gpt-4 language model with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-4-language-model-with-openai-logo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  One of the most pronounced advantages of the GPT-4 model over GPT-3.5 is its ability to provide more creative replies to prompts. Don't get me wrong; GPT-3.5 is very creative. There's a long list of[creative things you can do with ChatGPT that uses the model](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) . However, it already outperforms many large language models in terms of creativity.
 
  However, GPT-4 raises the bar even further. Although GPT-4's creative advantage may not be apparent when trying to solve basic problems, the difference in creativity between both models becomes apparent as the task becomes harder and requires a higher level of creativity.
 
  For example, if you ask both models to complete a creative task like writing a poem using both English and French on each line of the poem,[ChatGPT powered by the latest GPT-4 model](https://www.makeuseof.com/how-to-use-gpt4/) will deliver better results. While GPT-4's response would use both languages on every line, GPT-3.5 would alternate between both languages instead, with each line using one language and the next using the other.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. GPT-4 vs. GPT-3.5: Image or Visual Inputs
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While GPT-3.5 can only accept text prompts, GPT-4 is multi-modal and can accept both text and visual inputs. To be clear, when we say visual inputs, the image doesn't have to be an image of a typed prompt—it can be an image of anything. So from an image of a handwritten math problem to Reddit memes, GPT-4 can understand and describe almost any image.
 
@@ -49,7 +53,7 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
  During the GPT-4 announcement live stream, an OpenAI engineer fed the model with a screenshot of a Discord server. GPT-4 could describe every detail on it, including the names of users online at the time. An image of a hand-drawn mockup of a joke website was also fed to the model with instructions to turn it into a website, and amazingly, GPT-4 provided a working code for a website that matched the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. GPT-4 vs. GPT-3.5: Safer Responses
@@ -64,6 +68,10 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
 
 ​​​​​​
@@ -71,16 +79,12 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
  In GPT-4, hallucination is still a problem. However, according to the GPT-4 technical report, the new model is 19% to 29% less likely to hallucinate when compared to the GPT-3.5 model. But this isn't just about the technical report. Responses from the GPT-4 model on ChatGPT are noticeably more factual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
 
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A less talked about difference between GPT-4 and GPT-3.5 is the context window and context size. A context window is how much data a model can retain in its "memory" during a chat session and for how long. GPT-4 has a significantly better context size and window than its predecessor model.
 
@@ -89,10 +93,6 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
  An issue with GPT-3.5 is the propensity of the model to go off-topic or fail to follow instructions as you progress during the course of a conversation. You could, for instance, tell the model to address you by your name, and it would do so for a while but then fail to follow the instructions along the way. Although this problem still exists with the GPT-4 model, it is less of an issue because of a better context window.
 
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## GPT-4: A Step Up from GPT-3.5
 
@@ -113,20 +113,18 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-uncharted-territory-latest-windows-10-apps-and-games-for-2024/"><u>[New] Uncharted Territory Latest Windows 10 Apps & Games for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-venues-for-vr-entertainment/"><u>[Updated] Prime Venues for VR Entertainment</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-tecno-phantom-v-flip-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Tecno Phantom V Flip Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722994501281-elevate-your-vr-experience-with-the-essential-oculus-quest-2-elite-carrying-case-unbox-test-and-reveal-proscons/"><u>Elevate Your VR Experience with the Essential Oculus Quest 2 Elite Carrying Case – Unbox, Test & Reveal Pros/Cons</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-effective-is-watson-in-handling-complex-arithmetic-issues/"><u>How Effective Is Watson in Handling Complex Arithmetic Issues?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-amplifying-photos-keeping-precision/"><u>In 2024, Amplifying Photos Keeping Precision</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-discover-the-potential-of-screencastify-recorder/"><u>In 2024, Discover the Potential of Screencastify Recorder</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oneplus-nord-ce-3-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from OnePlus Nord CE 3 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-a-guide-to-resolving-crc-verification-failures-efficiently/"><u>Mastering the Fix: A Guide to Resolving CRC Verification Failures Efficiently</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-features-in-recent-kubernetes-update-enhanced-support-for-ai-tasks-and-additional-improvements-zdnet/"><u>New Features in Recent Kubernetes Update: Enhanced Support for AI Tasks & Additional Improvements | ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-combining-chatgpt-technology-with-whatsapp-for-better-customer-engagement/"><u>Step-by-Step Tutorial on Combining ChatGPT Technology with WhatsApp for Better Customer Engagement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-strategy-for-handling-multiple-chatgpt-dialogues-via-folder-management/"><u>The Ultimate Strategy for Handling Multiple ChatGPT Dialogues via Folder Management</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-ai-powered-pdf-plugins-inspired-by-chatgpt-boosting-productivity/"><u>Top 10 AI-Powered PDF Plugins Inspired by ChatGPT: Boosting Productivity</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unleash-powerful-photo-repair-on-windows-get-your-stellar-pixelpilot-software-now/"><u>Unleash Powerful Photo Repair on Windows: Get Your Stellar PixelPilot Software Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-chatgpt-widget-on-android-devices/"><u>Unlocking ChatGPT Widget on Android Devices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-ultimate-roadmap-for-spotify-ad-mastery/"><u>[Updated] In 2024, The Ultimate Roadmap for Spotify Ad Mastery</u></a></li>
+<li><a href="https://facebook.techidaily.com/customizing-who-views-your-fb-activity/"><u>Customizing Who Views Your FB Activity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embrace-a-wiser-approach-to-self-care-with-these-7-insights-on-chatgpt-use/"><u>Embrace a Wiser Approach to Self-Care With These 7 Insights on ChatGPT Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-creative-writing-skills-through-chatgpt-six-essential-strategies/"><u>Enhancing Creative Writing Skills Through ChatGPT: Six Essential Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-web-based-applications-to-master-the-art-of-prompting/"><u>Essential Web-Based Applications to Master the Art of Prompting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evolution-or-revolution-ais-effect-on-video-game-industry/"><u>Evolution or Revolution? AI's Effect on Video Game Industry</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expedient-approach-to-identifying-real-chatai-apps/"><u>Expedient Approach to Identifying Real ChatAI Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-these-7-premier-prompt-based-ai-marketplaces/"><u>Explore These 7 Premier Prompt-Based AI Marketplaces</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-nokia-g310-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Nokia G310 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-ensuring-copyright-compliance-in-youtube-to-mp4/"><u>In 2024, Ensuring Copyright Compliance in Youtube-to-MP4</u></a></li>
+<li><a href="https://article-files.techidaily.com/transitioning-away-from-newest-sierra-version-back-to-1010/"><u>Transitioning Away From Newest Sierra Version Back to 10.10</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/troubleshooting-guide-for-common-minecraft-world-connection-errors/"><u>Troubleshooting Guide for Common Minecraft World Connection Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-im-a-convert-the-gamers-guide-to-oled-screens/"><u>Why I'm a Convert: The Gamer’s Guide to OLED Screens.</u></a></li>
 </ul></div>
 

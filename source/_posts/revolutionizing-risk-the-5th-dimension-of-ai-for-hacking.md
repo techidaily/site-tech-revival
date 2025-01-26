@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Risk: The 5Th Dimension of AI for Hacking"
-date: 2025-01-15T08:20:05.531Z
-updated: 2025-01-20T01:20:06.374Z
+date: 2025-01-20T23:02:34.842Z
+updated: 2025-01-26T13:18:33.632Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://getlyla.pxf.io/ek9gkg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Access the GPT Store
 
  Access and use of the new GPT Store [requires a ChatGPT subscription](http://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Only users with ChatGPT Plus, ChatGPT Teams, or ChatGPT Enterprise accounts will be able to use the store's catalog of custom GPTs. You also need a ChatGPT subscription if you want to [create your own custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/).
@@ -63,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
  On the left sidebar of the ChatGPT interface, you should see **Explore GPTs** instead of simply **Explore**. Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Find the Best Custom GPTs in the GPT Store
@@ -83,10 +79,14 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
@@ -113,22 +113,16 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-a-step-by-step-tutorial-on-screencastify-use-for-2024/"><u>[New] A Step-by-Step Tutorial on Screencastify Use for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mp3-repository-from-fb-posts/"><u>[New] In 2024, MP3 Repository From Fb Posts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-marketing-mastery-discerning-real-engagement-from-skewed-statistics-for-2024/"><u>[New] Marketing Mastery Discerning Real Engagement From Skewed Statistics for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-tales-of-trial-by-fire-vs-innovative-challenges/"><u>[Updated] 2024 Approved Tales of Trial by Fire Vs. Innovative Challenges</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-essential-list-of-free-rippers-for-video-conversion/"><u>[Updated] Essential List of Free Rippers For Video Conversion</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-essential-tips-for-extracting-vimeo-content-as-high-quality-mp4s-for-2024/"><u>[Updated] Essential Tips for Extracting Vimeo Content as High-Quality MP4s for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-inside-look-a-catalog-of-tracking-methods/"><u>[Updated] Inside Look A Catalog of Tracking Methods</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-perfect-your-minecraft-recording-with-these-hacks-for-2024/"><u>[Updated] Perfect Your Minecraft Recording with These Hacks for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-como-reducir-el-tamano-de-un-archivo-mp3-guia-paso-a-paso-con-software-y-herramientas-en-linea/"><u>1. Cómo Reducir El Tamaño De Un Archivo MP3: Guía Paso a Paso Con Software Y Herramientas en Línea</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726220880620-apnggif/"><u>簡単な手順でオンライン無料APNG画像GIF変換 - モバヴィ</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726224727549-ramwma-movavi/"><u>網路直接無成本轉換RAM成WMA格式 - 利用Movavi編解碼器</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/qt-to-avi-via-movavi/"><u>無料オンラインツールで動画形式を変更: QT to AVI via Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/scambia-formato-jpeg-per-tiff-online-a-basso-costo-con-laiuto-di-movavi/"><u>Scambia Formato JPEG per TIFF Online a Basso Costo Con L'Aiuto Di Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/telecharger-et-convertir-facilement-votre-fichier-m4v-au-format-wav-gratuitement-via-movavi/"><u>Télécharger Et Convertir Facilement Votre Fichier M4V Au Format WAV Gratuitement via Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-aplicativos-de-gravadoras-mais-eficientes-e-livres-para-windows-10-11-e-7/"><u>Top 6 Aplicativos De Gravadoras Mais Eficientes E Livres Para Windows 10, 11 E 7</u></a></li>
-<li><a href="https://win-dash.techidaily.com/updated-hp-officejet-3670-drivers-for-optimal-performance/"><u>Updated HP Officejet 3670 Drivers for Optimal Performance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726223022017-vobwav-movavi/"><u>모바일화, VOB/WAV 청킵을 위한 무료 웹 통합 - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-loop-youtube-videos-on-tv/"><u>[New] In 2024, How to Loop YouTube Videos on TV</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-enhance-your-binge-watch-list-with-these-six-mac-methods-for-netflix-recording/"><u>[Updated] 2024 Approved Enhance Your Binge-Watch List with These Six Mac Methods for Netflix Recording</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-zoom-streaming-tutorial-on-youtube/"><u>[Updated] Comprehensive Zoom Streaming Tutorial on YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/accessing-gpt-via-chat-are-vpns-essential/"><u>Accessing GPT via Chat: Are VPNs Essential?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/benevolent-algorithms-is-ai-truly-sensitive-to-human-feelings/"><u>Benevolent Algorithms: Is AI Truly Sensitive to Human Feelings?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722201609786-cut-the-red-tape-speak-to-chatgpt/"><u>Cut the Red Tape – Speak to ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722164575235-discover-your-next-adventure-faster-the-best-free-travel-planning-ai-applications-available-today/"><u>Discover Your Next Adventure Faster - The Best Free Travel Planning AI Applications Available Today</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-persistent-wi-fi-disconnection-problem-with-these-5-steps/"><u>Fix Your iPhone's Persistent Wi-Fi Disconnection Problem with These 5 Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-webcams-that-win-top-picks-for-youtube-stream-success/"><u>In 2024, Webcams that Win Top Picks for YouTube Stream Success</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-the-best-text-to-speech-online-tools-to-use/"><u>New The Best Text-to-Speech Online Tools To Use</u></a></li>
+<li><a href="https://win11.techidaily.com/the-illusion-of-choice-confronting-microphone-and-camera-shackles/"><u>The Illusion of Choice: Confronting Microphone and Camera Shackles</u></a></li>
 </ul></div>
 

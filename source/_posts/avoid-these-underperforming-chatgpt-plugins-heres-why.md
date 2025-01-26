@@ -1,7 +1,7 @@
 ---
 title: Avoid These Underperforming ChatGPT Plugins – Here's Why
-date: 2025-01-13T10:26:38.839Z
-updated: 2025-01-19T23:31:49.622Z
+date: 2025-01-24T23:04:52.944Z
+updated: 2025-01-25T23:23:26.263Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. ChatGPT Email Scams
 
 ![picture of mail app icon on iphone menu screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-mail-1.jpg)
@@ -34,13 +38,13 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
  In general, using ChatGPT to write phishing emails can streamline the scam process for cybercriminals, which may cause phishing attacks to grow in frequency overall.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Fake ChatGPT Browser Extensions
 
 ![chatgpt open on computer monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-open-monitor.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Browser extensions are a popular and convenient tool used by millions, but malicious, phony versions of this software are also used to install malware and steal data. The case is no different for ChatGPT.
 
@@ -49,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
  The extension was named specifically to confuse users, being almost identical to the legitimate ChatGPT for Google tool. Many people didn't think twice about the name and installed the extension under the guise that it was safe. In reality, the extension was being used to install hidden backdoors on Facebook accounts and access admin permissions.
 
  So, it's crucial that you verify the legitimacy of a ChatGPT extension before downloading it. Also keep an eye out for discrete differences in the names of extensions, as a malicious extension can be listed under a very similar name in order to trick users.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Fake ChatGPT Apps
 
@@ -64,16 +64,12 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
  To keep yourself safe from these apps, it's important to do background research on any given kind of software program to see if it has a positive reputation, or any reputation at all. Even if an app looks enticing, it's not worth the installation if you can't verify whether it is safe. Stick to trusted app stores and check user reviews before downloading any kind of app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Malware Created by ChatGPT
 
 ![black skull and bones flag on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malware-on-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There's been a lot of talk about AI and cybercrime in recent years, as many are concerned this technology may make it easier for malicious actors to scam and attack victims.
@@ -83,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
  This malware was not highly complex, and no severely dangerous malware, such as ransomware, has been identified as a product of ChatGPT. But ChatGPT's ability to write even simple malware programs opens a door to people who want to get into cybercrime but do not have much, or any, technical expertise. In any case, this new AI-powered capability may prove to be a big issue in the near future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. ChatGPT Phishing Sites
@@ -97,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
  Alternatively, you may receive an email from a user claiming to be a ChatGPT staff member, stating that your ChatGPT account requires some form of verification. This email will likely include a link to a webpage where you can log into your account and complete the verification, or so the sender claims.
 
  In reality, the link you click on leads to a malicious webpage that can steal any data you enter, including your login credentials. Now, another person can access your ChatGPT account and view your prompt history, account details, and other sensitive data. It's important to know[how to spot phishing scams](https://www.makeuseof.com/top-signs-phishing-scams/) in order to avoid this kind of cybercrime.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Scams Are Worryingly Common
 
@@ -117,20 +117,15 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-historical-discoveries-at-your-screen-10-best-educational-youtubers-for-2024/"><u>[Updated] Historical Discoveries at Your Screen - 10 Best Educational YouTubers for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-personalized-instagram-notification-melodies/"><u>[Updated] Personalized Instagram Notification Melodies</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-automate-calendar-events-to-zoom-on-mobile-devices/"><u>2024 Approved Automate Calendar Events to Zoom on Mobile Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-breakthrough-ideas-to-amplify-brand-impact-on-reddit/"><u>2024 Approved Breakthrough Ideas to Amplify Brand Impact on Reddit</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fv-downloader-for-social-networking-videos/"><u>2024 Approved FV-Downloader for Social Networking Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-power-dynamics-strong-vs-weak/"><u>AI Power Dynamics: Strong Vs. Weak</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/an-introduction-to-hugging-face-and-its-role-in-technology/"><u>An Introduction to Hugging Face and Its Role in Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/are-emojis-the-new-source-of-financial-guidance-insights-on-activision-security-breach-and-impacts-of-ai-like-chatgpt-in-employment/"><u>Are Emojis the New Source of Financial Guidance? Insights on Activision Security Breach & Impacts of AI Like ChatGPT in Employment</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-affordable-openai-image-modifiers/"><u>Best Affordable OpenAI Image Modifiers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-brainstorming-skills-combining-mind-maps-and-ai-chat-gpt-for-ideas/"><u>Boost Your Brainstorming Skills: Combining Mind Maps and AI Chat GPT for Ideas</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/building-personalized-chatbot-versions-using-gpt-techniques-how-to-get-started/"><u>Building Personalized Chatbot Versions Using GPT Techniques: How to Get Started</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-you-rely-on-chatgpt-for-error-free-writing-assistance/"><u>Can You Rely on ChatGPT for Error-Free Writing Assistance?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-ace-2-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change OnePlus Ace 2 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-adventure-companion-unveiling-panasonic-hx-a1-actioncam-for-2024/"><u>The Adventure Companion Unveiling Panasonic HX-A1 ActionCam for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/understanding-vr-headsets-an-overview/"><u>Understanding VR Headsets An Overview</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/harting-earnings-from-youtube-adsense-what-you-can-expect-per-1000-views/"><u>[New] Charting Earnings From YouTube AdSense What You Can Expect per 1,000 Views</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-roadmap-to-youtube-profits-with-sourav-joshi/"><u>[New] The Roadmap to YouTube Profits with Sourav Joshi</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-looking-beneath-surface-understanding-vr-drawbacks/"><u>[Updated] In 2024, Looking Beneath Surface Understanding VR Drawbacks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-maximizing-social-sharing-uploading-360-degree-images-on-mobile-platforms/"><u>[Updated] Maximizing Social Sharing Uploading 360-Degree Images on Mobile Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-analysis-of-gemini-vs-chatgpt-plus-determining-top-performance/"><u>Advanced Analysis of Gemini Vs. ChatGPT Plus - Determining Top Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721947116928-discover-talk-directly-to-chatgpt/"><u>Discover: Talk Directly to ChatGPT!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722134124453-easy-enrollment-start-using-microsofts-ai-boosted-search-service-now/"><u>Easy Enrollment: Start Using Microsoft's AI-Boosted Search Service Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-the-options-menu-win11-pointer-personalization-guide/"><u>Navigate the Options Menu: Win11 Pointer Personalization Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722157283102-revolutionize-your-internet-experience-with-these-7-must-have-chatgpt-extensions-for-enhanced-browsing-interactions/"><u>Revolutionize Your Internet Experience with These 7 Must-Have ChatGPT Extensions for Enhanced Browsing Interactions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-flight-simulation-software-ms-flight-simulator-x-gold-reviewed/"><u>Top-Rated Flight Simulation Software: MS Flight Simulator X (Gold) Reviewed</u></a></li>
 </ul></div>
 

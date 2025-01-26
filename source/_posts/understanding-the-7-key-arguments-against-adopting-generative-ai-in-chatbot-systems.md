@@ -1,7 +1,7 @@
 ---
 title: Understanding the 7 Key Arguments Against Adopting Generative AI in Chatbot Systems
-date: 2025-01-13T11:54:53.414Z
-updated: 2025-01-20T06:57:53.024Z
+date: 2025-01-25T14:07:52.773Z
+updated: 2025-01-26T14:57:58.976Z
 tags:
   - chatgpt
   - open-ai
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
  But Bard was never the AI titan people hoped for, and GPT-4 remains the dominant generative AI chat bot platform. Now, Google's Gemini is here—but is the long-awaited AI model better than ChatGPT?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Google's Gemini AI Model?
@@ -57,13 +57,13 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Google Gemini AI
 
@@ -93,20 +93,20 @@ Here's the source screenshot.
 
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
@@ -120,7 +120,7 @@ Here's the source screenshot.
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Gemini Better than ChatGPT?
@@ -144,19 +144,18 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-discovering-androids-finest-multiplayer-battles/"><u>2024 Approved Discovering Android's Finest Multiplayer Battles</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavi-mpgmp4/"><u>移動電影格式自由切換 - 使用Movavi MPG到MP4無成本方法</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-content-production-8-ai-solutions-for-writers-to-streamline-their-processes/"><u>Elevate Content Production: 8 AI Solutions for Writers to Streamline Their Processes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratis-film-producer-softwares-para-sistemas-operativos-windows-11-8-y-7-un-listado-de-los-18-mejores/"><u>Gratis Film Producer Softwares Para Sistemas Operativos Windows 11, 8 Y 7: Un Listado De Los 18 Mejores</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Tecno Spark 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-13-mini-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 13 mini? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/resetting-your-preferences-for-windows-explorer-layout/"><u>Resetting Your Preferences for Window's Explorer Layout</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/restauration-et-conversion-video-transformer-des-fichiers-rmvb-en-avi-sans-cout-solutions-de-movavi/"><u>Restauration Et Conversion Vidéo : Transformer Des Fichiers RMVB en AVI Sans Coût - Solutions De Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/save-big-on-google-pixel-9-score-yours-for-just-100-with-this-hidden-discount-strategy-techradar/"><u>Save Big on Google Pixel 9 - Score Yours for Just $100 with This Hidden Discount Strategy | TechRadar</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-13-gopro-video-editing-apps-your-ultimate-guide-to-the-best-editing-software/"><u>Top 13 GoPro Video Editing Apps: Your Ultimate Guide to the Best Editing Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-automatiska-videoredigerar-navigera-i-det-latestna-trenden-med-videoautomation/"><u>Top 7 Automatiska Videoredigerar: Navigera I Det Latestna Trenden Med Videoautomation!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/vullen-sie-ihre-ppm-fiches-in-gratis-gifs-um-professioneelles-konvertierungstools-von-movavi-im-internet/"><u>Vullen Sie Ihre PPM-Fiches in Gratis GIFs Um: Professioneelles Konvertierungstools Von Movavi Im Internet</u></a></li>
-<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2019-file-error-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2019 File Error</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-navigating-the-ins-and-outs-of-aiseesofts-screencast-functionality/"><u>[New] Navigating the Ins and Outs of Aiseesoft's Screencast Functionality</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-cross-network-laughter-whos-tops-today/"><u>[Updated] Cross-Network Laughter Who's Tops Today?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unveiling-the-mechanics-behind-instagrams-content-curation/"><u>2024 Approved Unveiling the Mechanics Behind Instagram’s Content Curation</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-infinix-smart-8-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Infinix Smart 8 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-personal-training-crafting-unique-workout-plans-with-ai-assistance/"><u>ChatGPT and Personal Training: Crafting Unique Workout Plans with AI Assistance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-plus-upgrade-is-it-worth-your-subscription-dollars/"><u>ChatGPT Plus Upgrade: Is It Worth Your Subscription Dollars?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquer-calculations-explore-the-best-7-ai-tools-to-decode-mathematical-puzzles/"><u>Conquer Calculations: Explore the Best 7 AI Tools to Decode Mathematical Puzzles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-successful-interactions-with-gpt-3-5-essential-tips-for-writing-compelling-prompts/"><u>Crafting Successful Interactions with GPT-3: 5 Essential Tips for Writing Compelling Prompts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/customizing-conversations-with-chatgpt-crafting-a-bot-that-reflects-your-unique-voice/"><u>Customizing Conversations with ChatGPT: Crafting a Bot that Reflects Your Unique Voice</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/passive-viewers-to-earnings-youtubes-monetization-mastery-for-2024/"><u>From Passive Viewers to Earnings YouTube's Monetization Mastery for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-oppo-find-x6-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo Find X6 Pro Phone?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-viewsplit-diagnostics/"><u>In 2024, ViewSplit Diagnostics</u></a></li>
 </ul></div>
 

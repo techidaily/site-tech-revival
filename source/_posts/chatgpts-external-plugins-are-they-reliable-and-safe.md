@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's External Plugins: Are They Reliable and Safe?"
-date: 2025-01-18T11:07:59.951Z
-updated: 2025-01-20T00:46:07.586Z
+date: 2025-01-23T05:54:11.657Z
+updated: 2025-01-26T02:30:52.286Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is NVIDIA AI Foundations?
 
  NVIDIA AI Foundations is a cloud-based generative AI service that you can fine-tune for your business, use for medical research, or generate AI artwork. The AI models can be trained to produce texts, images, videos, and 3D content unique to your enterprise. This is particularly useful if you can't afford to build a customized AI model for your business because it's too expensive or complicated.
@@ -33,12 +37,16 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
  NVIDIA AI Foundations is available in three models: NeMo, Picasso, and BioNeMo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### NVIDIA NeMo
 
 ![NVIDIA NEMO illustration ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-nemo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-large-language-ai-models-to-enterprises-worldwide)
 
@@ -51,24 +59,16 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
  There are five NeMo models available with different parameters ranging from 8 billion parameters to 530 billion. If you're unsure which is the most suitable AI model for your business, you can consult an NVIDIA AI expert to help you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### NVIDIA Picasso
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [NVIDIA Picasso](https://www.nvidia.com/en-us/gpu-cloud/picasso/) is a generative AI model that works similarly to[OpenAI's DALL-E image creator](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) . However, NVIDIA Picasso is not limited to images only since it can also turn text into video or 3D content.
 
  In addition, NVIDIA Picasso is made for software creators, service providers, and businesses intending to train AI models using copyright or licensed data. Alternatively, using pre-trained models, you could add text prompts to create images, videos, and 3D content from scratch.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## NVIDIA BioNeMo
 
@@ -80,13 +80,13 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
  Beyond that, pharmaceutical scientists can choose from six different AI models of BioNemo depending on their scope of research. This could revolutionize[the future of the healthcare industry](https://www.makeuseof.com/ai-will-power-future-healthcare/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Who Can Use NVIDIA AI Foundations?
 
 ![NVIDIA AI Foundations ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-ai-foundations.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models)
 
@@ -115,17 +115,20 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-becoming-a-lyric-video-pro-a-lyric-video-makers-journey-for-2024/"><u>[New] Becoming a Lyric Video Pro A Lyric Video Maker's Journey for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-essential-simple-shelter-strategies-in-mc/"><u>[New] Essential Simple Shelter Strategies in MC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-effective-instructions-for-bespoke-chatgpt-experience/"><u>Crafting Effective Instructions for Bespoke ChatGPT Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enjoy-confidential-chats-discover-private-messaging-on-duckduckgo-powered-by-ai-including-chatgpt/"><u>Enjoy Confidential Chats: Discover Private Messaging on DuckDuckGo Powered by AI, Including ChatGPT</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/estimating-time-for-20mb-media-file-for-2024/"><u>Estimating Time for 20MB Media File for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-adding-expressive-gifs-to-your-insta-conversations/"><u>Guide: Adding Expressive GIFs to Your Insta Conversations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/peeling-back-layers-in-ai-security-how-do-prompt-injections-work/"><u>Peeling Back Layers in AI Security: How Do Prompt Injections Work?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Lava Blaze 2? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/seagate-barracuda-platte-wiederherstellung-professionelle-datenwiederherstellungslosungen-von-myrecover/"><u>Seagate Barracuda Platte Wiederherstellung: Professionelle Datenwiederherstellungslösungen Von MyRecover</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-chatbot-showdown-gpt-microsoft-bing-ai-google-bard/"><u>The Ultimate Chatbot Showdown: GPT, Microsoft Bing AI, Google Bard</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/windows-11-videography-selecting-best-apps-for-2024/"><u>Windows 11 Videography Selecting Best Apps for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamless-music-import-into-premiere-pro-workflows/"><u>[New] Seamless Music Import Into Premiere Pro Workflows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-picture-perfect-videos-to-melodious-mp3-files/"><u>[Updated] From Picture-Perfect Videos to Melodious MP3 Files</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-giggle-grind-exploring-twitters-comedy-gold/"><u>2024 Approved Giggle Grind Exploring Twitters' Comedy Gold</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-recording-tech-evaluation-blueprint/"><u>2024 Approved Recording Tech Evaluation Blueprint</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/playful-ai-alert-find-out-which-6-chatgpt-games-are-winning-hearts/"><u>Playful AI Alert: Find Out Which 6 ChatGPT Games Are Winning Hearts!</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/ps5-original-vs-ps5-slim-which-one-should-you-choose/"><u>PS5 Original Vs PS5 Slim – Which One Should You Choose?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pushing-limits-launching-revolutionary-gpt-4/"><u>Pushing Limits: Launching Revolutionary GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revisiting-the-problem-a-guide-for-chatgpts-unsaved-dialogue-dilemma/"><u>Revisiting the Problem: A Guide for ChatGPT's Unsaved Dialogue Dilemma</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/separating-medical-truths-fact-checking-techniques-with-chatgpt/"><u>Separating Medical Truths: Fact-Checking Techniques with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplifying-global-interaction-with-chatgpts-translation-capabilities/"><u>Simplifying Global Interaction with ChatGPT's Translation Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sync-your-speech-with-chatgpts-ai-response-system/"><u>Sync Your Speech with ChatGPT's AI Response System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-auto-gpt-journey-start-and-complete/"><u>The Auto-GPT Journey: Start and Complete</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-7-metodos-faciles-y-gratuitos-para-comprimir-archivos-mov-guia-completa/"><u>Top 7 Métodos Fáciles Y Gratuitos Para Comprimir Archivos MOV: Guía Completa</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Oppo A2? | Dr.fone</u></a></li>
 </ul></div>
 

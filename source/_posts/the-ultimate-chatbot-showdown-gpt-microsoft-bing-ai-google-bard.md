@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Chatbot Showdown: GPT, Microsoft Bing AI, Google Bard"
-date: 2025-01-18T12:24:47.590Z
-updated: 2025-01-20T11:51:47.094Z
+date: 2025-01-19T15:13:34.649Z
+updated: 2025-01-26T13:07:18.822Z
 tags:
   - chatgpt
   - open-ai
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What You Need to Know About AI Chatbots
@@ -51,16 +51,12 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
@@ -72,12 +68,16 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
@@ -91,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
  None of our models could respond that the correct term for a pea-shaped object is "pisiform," with ChatGPT going so far as to suggest that peas have a "three-dimensional geometric shape that is perfectly round and symmetrical."
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which LLM Is Good for Technical Instructions?
 
@@ -115,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
@@ -159,24 +159,22 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-aspect-tweaking-over-the-internet/"><u>[New] Quick Aspect Tweaking Over the Internet</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-10-pro-ways-to-upgrade-your-twitch-broadcast-experience-for-2024/"><u>[Updated] 10 Pro Ways to Upgrade Your Twitch Broadcast Experience for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-chronological-counterflow-technique-for-snapchat/"><u>[Updated] In 2024, The Chronological Counterflow Technique for Snapchat</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-differences-in-ai-chatbots-a-head-to-head-of-mistrals-le-chat-and-chatgpt/"><u>Exploring Differences in AI Chatbots: A Head-to-Head of Mistral’s Le Chat and ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-potential-shifts-in-the-gaming-market-due-to-ai-powered-game-creation/"><u>Exploring the Potential Shifts in the Gaming Market Due to AI-Powered Game Creation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/minecraft-youtube-banners-with-templates-for-2024/"><u>Free Minecraft YouTube Banners with Templates for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-chatgpt-for-impressive-job-applications/"><u>Harnessing ChatGPT for Impressive Job Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-dall-e-3s-recently-implemented-editing-functions-can-be-optimized-further/"><u>How DALL-E 3'S Recently Implemented Editing Functions Can Be Optimized Further</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-chatgpts-tailored-command-function-work-and-its-potential-applications/"><u>How Does ChatGPT's Tailored Command Function Work, and Its Potential Applications?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-realme-narzo-n55-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Realme Narzo N55?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-use-these-8-superior-chatgpt-instructions-to-curtail-digital-diversions/"><u>How to Use These 8 Superior ChatGPT Instructions to Curtail Digital Diversions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/improving-blog-commentaries-with-ai-wisdom/"><u>Improving Blog Commentaries with AI Wisdom</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-techniques-for-swapping-video-content-in-android/"><u>In 2024, Techniques for Swapping Video Content in Android</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-v29e-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo V29e to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-secure-to-use-external-chatgpt-programs-and-plugins-on-your-browsers/"><u>Is It Secure to Use External ChatGPT Programs and Plugins on Your Browsers?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leading-ai-generated-prompts-tools-you-cant-miss/"><u>Leading AI Generated Prompts Tools You Can't Miss</u></a></li>
-<li><a href="https://techidaily.com/solved-excel-2003-spreadsheet-disappears-after-opening-stellar-by-stellar-guide/"><u>Solved Excel 2003 Spreadsheet Disappears after Opening | Stellar</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unraveling-the-mystery-behind-the-historic-windows-meltdown-and-crowdstrike-clash-a-detailed-retrospective/"><u>Unraveling the Mystery Behind the Historic Windows Meltdown and CrowdStrike Clash - A Detailed Retrospective</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-7-optimized-support-lenovo-ideapad-y470/"><u>Windows 7 Optimized Support: Lenovo IdeaPad Y470</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-how-to-post-twitter-videos-on-snapchat/"><u>[New] In 2024, How to Post Twitter Videos on Snapchat?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-resolving-fb-message-app-video-not-sending-error-on-mobile-devices/"><u>[New] In 2024, Resolving FB Message App Video Not Sending Error on Mobile Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-perfecting-bokeh-mastering-instagram-story-blur-for-2024/"><u>[New] Perfecting Bokeh Mastering Instagram Story Blur for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-gopro-evolution-a-step-by-step-comparison-tutorial/"><u>[Updated] In 2024, Gopro Evolution A Step-by-Step Comparison Tutorial</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-musical-masterclasses-in-15-short-video-formats-on-youtube/"><u>[Updated] In 2024, Musical Masterclasses in 15 Short Video Formats on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/kalk-cake-electric-bike-the-perfect-fusion-of-utility-and-fun-rides-for-commuting-and-adventures-zdnet/"><u>Kalk Cake Electric Bike: The Perfect Fusion of Utility & Fun Rides for Commuting & Adventures | ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/872146-9781451684292-la-magia/"><u>La Magia | Free Book</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tailor-your-text-to-voice-top-5-cloud-services-for-chrome-os-sound-transformation/"><u>Tailor Your Text to Voice Top 5 Cloud Services for Chrome OS Sound Transformation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-risks-of-ai-in-cybersecurity-facilitating-criminal-activities/"><u>The Risks of AI in Cybersecurity: Facilitating Criminal Activities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-essential-chatbot-tools-boosting-health-and-well-being/"><u>Top 8 Essential Chatbot Tools Boosting Health & Well-Being</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-ten-erroneous-beliefs-corrected-regarding-ai-chatbot-technology/"><u>Top Ten Erroneous Beliefs Corrected Regarding AI Chatbot Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-analysis-game-6-innovative-ways-to-apply-chatgpt-in-datasets/"><u>Transform Your Analysis Game: 6 Innovative Ways to Apply ChatGPT in Datasets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-spots-for-ai-fueled-innovation/"><u>Ultimate Spots for AI-Fueled Innovation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-ai-simplified-explanation-of-artificnicial-intelligence/"><u>Understanding AI: Simplified Explanation of Artificnicial Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-trade-offs-the-benefits-and-drawbacks-of-using-a-local-llm/"><u>Understanding the Trade-Offs: The Benefits and Drawbacks of Using a Local LLM</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-creative-code-with-alternatives-to-chatgpt/"><u>Unleashing Creative Code with Alternatives to ChatGPT</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-audio-alchemy-revealed-a-deep-dive-into-premier-sound-design-software/"><u>Updated In 2024, Audio Alchemy Revealed A Deep Dive Into Premier Sound Design Software</u></a></li>
 </ul></div>
 

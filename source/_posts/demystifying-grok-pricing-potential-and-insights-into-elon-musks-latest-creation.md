@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Grok: Pricing, Potential & Insights Into Elon Musk's Latest Creation"
-date: 2025-01-14T17:24:55.671Z
-updated: 2025-01-19T22:48:27.749Z
+date: 2025-01-21T20:52:18.001Z
+updated: 2025-01-25T16:33:28.074Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should You Be Polite to AI like ChatGPT, Alexa, and Siri?
 
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It doesn't make a difference if you're polite to AI. This is because AI like ChatGPT, Alexa, or Siri cannot process emotions like humans, and it won't be offended if you're not polite.
 
@@ -40,19 +40,15 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
 ![chatgpt no feelings or emotions text march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-no-feelings-or-emotions-text.jpg)
 
- For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
 
@@ -61,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can AI Be Rude to You?
@@ -69,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
@@ -79,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  AI chatbots also present biased opinions since they've learned from humans, and, at times,[AI will hallucinate answers](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) and deliver them with confidence. However, we're still in the early days of AI adoption, and leading tech companies like OpenAI and Microsoft acknowledge that AI systems will improve with more user feedback. GPT-4 is testament to that improvement since it has safer responses than GPT 3.5,[among other differences](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
 
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Interact With AI How You Want
 
@@ -101,15 +101,18 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-imagery-the-art-of-digital-bending/"><u>[New] Innovative Imagery The Art of Digital Bending</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-master-picks-for-commercial-cloud-space-for-2024/"><u>[New] Master Picks for Commercial Cloud Space for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-8-best-screen-capture-tools-for-linux-for-2024/"><u>[Updated] 8 Best Screen Capture Tools for Linux for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/4-avenues-for-state-intervention-in-ai-technologies/"><u>4 Avenues for State Intervention in AI Technologies</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-s17-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722159255168-chatgpt-desktop-software-for-windows-is-a-myth-dont-fall-victim-to-malware/"><u>ChatGPT Desktop Software for Windows Is a Myth – Don't Fall Victim to Malware!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722107922768-discover-personalized-language-powerhouses-at-openais-store/"><u>Discover Personalized Language Powerhouses at OpenAI's Store!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-fortnites-video-memory-issues-a-step-by-step-guide/"><u>Resolve Fortnite's Video Memory Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/wmamp4mpeg4/"><u>WMAオーディオファイルを簡単にMP4/MPEG4フォーマットに全量コンバートする方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/zerogpt-and-peers-are-they-trustworthy-for-accurate-ai-detection-evidence-based-analysis/"><u>ZeroGPT and Peers: Are They Trustworthy for Accurate AI Detection? Evidence-Based Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-iphone-hdr-photography-for-professional-results/"><u>[Updated] Mastering iPhone HDR Photography for Professional Results</u></a></li>
+<li><a href="https://win-news.techidaily.com/beginner-friendly-tutorial-on-utilizing-apowersoft-for-live-audio-capture/"><u>Beginner-Friendly Tutorial on Utilizing Apowersoft for Live Audio Capture</u></a></li>
+<li><a href="https://games-able.techidaily.com/dial-in-the-perfect-ambiance-adjusting-console-light-intensity/"><u>Dial in the Perfect Ambiance: Adjusting Console Light Intensity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-variety-a-comprehensive-guide-on-contrasting-video-formats-gadgets-and-beyond/"><u>Exploring the Variety: A Comprehensive Guide on Contrasting Video Formats, Gadgets & Beyond</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-effectively-acquire-and-integrate-auto-cutting-edge-gpt-into-your-system/"><u>How to Effectively Acquire and Integrate Auto-Cutting-Edge GPT Into Your System.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-utilize-chatgpt-for-creating-effective-youtube-content-scripts/"><u>How to Utilize ChatGPT for Creating Effective YouTube Content Scripts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-look-at-digital-dialogues-in-social-media/"><u>In-Depth Look at Digital Dialogues in Social Media</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ios-enthusiasts-rejoice-discover-how-to-install-and-use-chatgpt-now/"><u>IOS Enthusiasts Rejoice! Discover How to Install and Use ChatGPT Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-art-of-writing-with-chatgpt-explore-six-strategies/"><u>Master the Art of Writing with ChatGPT: Explore Six Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/outriders-performance-tuned-how-to-eliminate-unwanted-delays/"><u>Outriders Performance Tuned: How to Eliminate Unwanted Delays</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-compatibility-telemetry-excessive-storage-use-in-windows-10/"><u>Resolving Microsoft Compatibility Telemetry Excessive Storage Use in Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-fundamentals-of-starting-an-instantaneous-broadcast-for-2024/"><u>The Fundamentals of Starting an Instantaneous Broadcast for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-live-sports-install-and-watch-fubotv-on-your-fire-tv-device/"><u>Unlocking Live Sports: Install and Watch FuboTV on Your Fire TV Device</u></a></li>
 </ul></div>
 

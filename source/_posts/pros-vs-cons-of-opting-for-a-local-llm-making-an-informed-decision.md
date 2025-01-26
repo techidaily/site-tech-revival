@@ -1,7 +1,7 @@
 ---
 title: Pros Vs. Cons of Opting for a Local LLM – Making an Informed Decision
-date: 2025-01-13T17:44:19.801Z
-updated: 2025-01-20T06:27:39.559Z
+date: 2025-01-18T17:05:56.648Z
+updated: 2025-01-26T05:56:04.062Z
 tags:
   - chatgpt
   - open-ai
@@ -43,7 +43,7 @@ False news can be categorized into three types:
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
@@ -56,10 +56,14 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -73,10 +77,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -86,7 +86,7 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -109,7 +109,7 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -133,22 +133,19 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-best-instagram-highlight-cover-makers-online-you-should-know/"><u>[New] In 2024, Best Instagram Highlight Cover Makers Online You Should Know</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-virtual-room-recordings-desktop-and-mobile-tips/"><u>[New] In 2024, Virtual Room Recordings Desktop & Mobile Tips</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-prime-filters-to-elevate-submerged-photography/"><u>[New] Prime Filters to Elevate Submerged Photography</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-inspire-your-recruitment-process-with-pioneering-tapes/"><u>[Updated] Inspire Your Recruitment Process with Pioneering Tapes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversione-gratuiti-online-trasforma-file-webp-in-formato-jpeg-con-movielabs/"><u>Conversione Gratuiti Online: Trasforma File WEBP in Formato JPEG Con MovieLabs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/descompunere-gratuita-si-simpla-in-time-de-webm-video-in-format-mp4/"><u>Descompunere Gratuita Și Simplă In-Time De Webm Video În Format Mp4</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp3-vs-aac-audio-codecs-determining-superior-sound-quality-and-file-efficiency/"><u>MP3 Vs. AAC Audio Codecs: Determining Superior Sound Quality and File Efficiency</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/nejblizsi-strategie-k-poklesu-pocet-navstevniku-video-u-divika/"><u>Nejbližší Strategie K Poklesu Počet Návštěvníků Video U Divíka</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/online-streaming-video-editor-convert-your-m4v-files-into-swf-format-by-movavi-free-of-cost/"><u>Online Streaming Video Editor - Convert Your M4V Files Into SWF Format by Movavi, Free of Cost!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/online-vrij-beschikbaar-m4v-wmv-vervanger-gratuitie-zeer-gewenst-kenniswijzer-movavi/"><u>Online Vrij Beschikbaar M4V-WMV Vervanger - Gratuitie Zeer Gewenst! Kenniswijzer Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/os-melhores-6-gravadores-de-dvd-compativeis-com-sistemas-operacionais-windows-and-mac/"><u>Os Melhores 6 Gravadores De DVD Compatíveis Com Sistemas Operacionais Windows & Mac</u></a></li>
-<li><a href="https://win-forum.techidaily.com/steps-for-accessing-system-properties-on-windows-11-a-comprehensive-guide/"><u>Steps for Accessing System Properties on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformer-gratuitement-un-fichier-webp-en-png-via-linterface-en-ligne-de-movavi/"><u>Transformer Gratuitement Un Fichier WebP en PNG via L'interface en Ligne De Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-peer-to-peer-power-top-windows-apps/"><u>Unleashing Peer-to-Peer Power: Top Windows Apps</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210525158-9781841815268-your-crystals-your-journey-your-journal/"><u>Your Crystals, Your Journey, Your Journal | Free Book</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-comprehensive-breakdown-obs-video-capture-capabilities/"><u>[New] 2024 Approved Comprehensive Breakdown OBS Video Capture Capabilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-screens-to-spreads-the-dos-and-donts-of-live-blogging-for-2024/"><u>[New] From Screens to Spreads The Do's and Don'ts of Live Blogging for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-evaluating-mr-beasts-monetary-world/"><u>[Updated] In 2024, Evaluating Mr. Beast's Monetary World</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-activating-bluetooth-on-your-pc-running-windows-10-or-11/"><u>Comprehensive Guide: Activating Bluetooth on Your PC Running Windows 10 or 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-elevating-video-marketing-with-youtube-thumbnails/"><u>In 2024, Elevating Video Marketing with YouTube Thumbnails</u></a></li>
+<li><a href="https://facebook.techidaily.com/journalism-journey-extended-facebook-spends-5-million-amidst-rise-of-self-publishing/"><u>Journalism Journey Extended: Facebook Spends $5 Million Amidst Rise of Self-Publishing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimized-media-playback-on-ps4-say-goodbye-to-lag-issues/"><u>Optimized Media Playback on PS4 - Say Goodbye to Lag Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reviving-vanished-virtual-voice-tracks/"><u>Reviving Vanished Virtual Voice Tracks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguarding-sensitive-data-in-custom-built-gpt-conversational-agents/"><u>Safeguarding Sensitive Data in Custom-Built GPT Conversational Agents</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/speak-up-control-faster-unlocking-5-voice-commands-for-chatgpt/"><u>Speak Up, Control Faster: Unlocking 5 Voice Commands for ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-registering-on-the-advanced-ai-bing-search-platform/"><u>Step-by-Step Guide: Registering on the Advanced AI Bing Search Platform</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/strategizing-an-attention-grabbing-tiktok-signoff-for-2024/"><u>Strategizing an Attention-Grabbing TikTok Signoff for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamlining-your-writing-process-chatgpts-top-9-tools-for-creators/"><u>Streamlining Your Writing Process: ChatGPT's Top 9 Tools for Creators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/stress-reduction-strategies-with-chatgpt-effective-tips-and-tools/"><u>Stress Reduction Strategies with ChatGPT: Effective Tips and Tools</u></a></li>
 </ul></div>
 

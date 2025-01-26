@@ -1,7 +1,7 @@
 ---
 title: "Breaking Through GPT-3 Limits: Solving Four Common Problems"
-date: 2025-01-12T21:32:06.113Z
-updated: 2025-01-19T18:11:10.155Z
+date: 2025-01-22T17:28:40.639Z
+updated: 2025-01-26T00:38:49.422Z
 tags:
   - chatgpt
   - open-ai
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 ![ChatGPT recommendations for what spelling errors to fix](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spelling-answers.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ChatGPT’s response proved that it was capable of not only correcting the misspelled words but also correcting the misused words like “there” and “wright.” It also goes on to explain exactly what it changed to correct the spelling, so the writer can learn from any mistakes.
 
 ### Check Punctuation
@@ -54,11 +50,11 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 ![asking ChatGPT to proofread this paragraph for punctuation mistakes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/punctuation.jpeg)
 
-![ChatGPT's answer to any punctuation mistakes in the paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/punctuation-answer.jpeg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![ChatGPT's answer to any punctuation mistakes in the paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/punctuation-answer.jpeg)
 
  ChatGPT was able to correct all the punctuation errors. This included replacing the question marks with periods and placing commas where they were needed.
 
@@ -68,13 +64,17 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 ![Asking ChatGPT to proofread paragraph for grammar mistakes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/grammar.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT's proofreading answer to grammatical errors in paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/grammar-answer.jpeg)
 
- ChatGPT was impressive with its ability to correct all grammar mistakes. Not only was it able to detect the subject-verb agreement issues, but it also found multiple errors with tense. As an added bonus, ChatGPT also corrected the order placement of multiple subjects in a sentence.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ ChatGPT was impressive with its ability to correct all grammar mistakes. Not only was it able to detect the subject-verb agreement issues, but it also found multiple errors with tense. As an added bonus, ChatGPT also corrected the order placement of multiple subjects in a sentence.
 
 ### Check Passive Voice
 
@@ -83,16 +83,12 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 ![Asking ChatGPT to proofread paragraph got passive voice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pv.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT's answers to proofreading a paragraph for passive voice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pv-answer.jpeg)
 
  Impressively, ChatGPT found all the passive voice issues and was able to make the proper changes to make the sentences active voice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Check Everything at Once
 
@@ -100,23 +96,23 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 ![Asking ChatGPT to Proofread a Paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/just-proofread.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT's answers to proofreading a paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/just-proofread-answers.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT fixed all the mistakes—however, it also claimed that it fixed issues that weren’t there. For example, it said that “ChatGPT should be capitalized” and that a period should be added to the second sentence when both of those suggestions already existed in the original.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Types of Written Work ChatGPT Can Proofread
 
  There is no limit to what type of written work ChatGPT can proofread. From emails and academic essays to blog posts and creative writing, ChatGPT can help to find a missing comma and passive voice. Even if you[use ChatGPT to write your cover letter](https://www.makeuseof.com/write-cover-letter-using-chatgpt/) , you can still ask it to be proofread afterward in case there’s a simple mistake that needs correcting.
 
  When using ChatGPT as a proofreader, the best practice is to only give it small sections of your work at a time. This will allow you to review every change it offers to make sure it is correct without overwhelming you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When to Use a Human Professional Instead
 
@@ -127,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
  Additionally, AI only sees things in the most logical sense—it can’t think in the same creative way a human does. If a creative writer submits their work to ChatGPT, there’s a good chance the AI will point out corrections for structure or wording that the writer purposely placed in their work. ChatGPT would have a field day with any accurately written dialect or a purposely mispronounced word.
 
  It is a great tool and writers can[use ChatGPT to succeed in this new age of technology](https://www.makeuseof.com/tips-writers-to-succeed-ai-content/) . However, it is important to know the limitations of AI—it can’t beat the experience of a trained human professional.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Look Out For
 
@@ -157,21 +157,22 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-funnyframefinder-your-source-for-meme-creation-online/"><u>[Updated] FunnyFrameFinder Your Source for Meme Creation Online</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-s24-ultra-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy S24 Ultra to Roku | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726221386898-jpeggif-movavi/"><u>完全無料のオンライン画像編集:JPEGとGIFを効率良く変換する方法 - Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movaviwebmogv/"><u>用Movavi電子遊樂園轉換器，無縫連接WEBM至免費OGV流動維生</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-ai-powered-creativity-and-industry-applications/"><u>A Deep Dive Into AI-Powered Creativity & Industry Applications</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-oppo-reno-10-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Oppo Reno 10 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-x80070091-error-in-windows-steps-for-empty-directory-problem-solving/"><u>Deciphering X80070091 Error in Windows - Steps for 'Empty Directory' Problem Solving</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guia-facil-para-convertir-archivo-wma-en-formato-avi-gratis-en-linea-utilizando-herramientas-como-movavi/"><u>Guía Fácil Para Convertir Archivo WMA en Formato AVI Gratis en Línea Utilizando Herramientas Como Movavi</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-convert-word-files-into-engaging-digital-magazines-using-flipbook-creator-online/"><u>How to Convert Word Files Into Engaging Digital Magazines Using FlipBook Creator Online</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-youtubing-timetables-the-definitive-guide-to-optimal-video-publishing-times/"><u>Mastering YouTubing Timetables - The Definitive Guide to Optimal Video Publishing Times</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavi-multimedya-yazilimi-hemenine-ulasabilecek-kampanyalarinda-basta-tipik-istanbul/"><u>Movavi Multimedya Yazılımı Hemenine Ulaşabilecek Kampanyalarında Başta - Tipik İstanbul</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavi-video-editor-gratis-installazione-facile-e-download-assolutamente-sicuro/"><u>Movavi Video Editor Gratis - Installazione Facile E Download Assolutamente Sicuro</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/self-expression-through-instacraze-100-captivating-captions/"><u>Self-Expression Through #InstaCraze 100 Captivating Captions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/telecharger-et-convertir-des-fichiers-de-film-qt-en-format-mov-facilement-moovee/"><u>Télécharger Et Convertir Des Fichiers De Film QT en Format MOV Facilement - Moovee</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-secrets-of-the-oneplus-nord-n10-5g-your-ultimate-smartphone-companion/"><u>Unveiling the Secrets of the OnePlus Nord N10 5G - Your Ultimate Smartphone Companion</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-videography-items-for-travelers/"><u>[Updated] 2024 Approved Top Videography Items for Travelers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-artistry-of-image-editing-understanding-luts-role/"><u>[Updated] In 2024, The Artistry of Image Editing Understanding LUTs' Role</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ahead-of-the-curve-5-critical-ai-innovations-for-entrepreneurs/"><u>Ahead of the Curve: 5 Critical AI Innovations for Entrepreneurs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beat-cyber-threats-affordable-mobile-solutions-and-the-power-of-ai-in-our-latest-episode/"><u>Beat Cyber Threats: Affordable Mobile Solutions and the Power of AI in Our Latest Episode</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722114674826-best-ai-companion-exploring-features-of-google-bard-vs-bing-chat-for-a-winners-edge/"><u>Best AI Companion? Exploring Features of Google Bard vs Bing Chat for a Winner's Edge.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/building-fantasy-worlds-easily-a-comprehensive-guide-to-using-chatgpt/"><u>Building Fantasy Worlds Easily: A Comprehensive Guide to Using ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-machine-learning-decode-our-feelings-through-emotion-ai/"><u>Can Machine Learning Decode Our Feelings Through Emotion AI?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-between-ipad-pro-and-macbook-air-an-in-depth-comparison-tech-insights/"><u>Choosing Between iPad Pro and MacBook Air: An In-Depth Comparison | Tech Insights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-steps-for-tracer-glitches-in-m-audio/"><u>Easy Steps for Tracer Glitches in M-Audio</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-a-beginners-guide-to-no-cost-countdown-usage/"><u>In 2024, A Beginner's Guide to No-Cost Countdown Usage</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-tecno-camon-20-pro-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Tecno Camon 20 Pro 5G?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722159590411-reinvigorate-your-iphones-mindfulness-with-these-fixes-to-try/"><u>Reinvigorate Your iPhone's Mindfulness with These Fixes to Try!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722084026785-the-ultimate-guide-to-communicating-with-chatgpt-begin-your-journey-today/"><u>The Ultimate Guide to Communicating with ChatGPT – Begin Your Journey Today!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-tips-for-reclaiming-hard-drive-space-in-microsofts-latest-os/"><u>Ultimate Tips for Reclaiming Hard Drive Space in Microsoft's Latest OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/whats-hugging-face-an-in-depth-look-at-this-cutting-edge-ai-tool/"><u>What's Hugging Face? An In-Depth Look at This Cutting-Edge AI Tool</u></a></li>
 </ul></div>
 

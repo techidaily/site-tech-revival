@@ -1,7 +1,7 @@
 ---
 title: "Peeling Back Layers in AI Security: How Do Prompt Injections Work?"
-date: 2025-01-19T01:16:50.566Z
-updated: 2025-01-20T06:04:11.264Z
+date: 2025-01-19T21:39:44.191Z
+updated: 2025-01-26T09:23:09.156Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [More Access to GPT-4o](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#more-access-to-gpt-4o)
@@ -32,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 * [Generate Images With DALL-E](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#generate-images-with-dall-e)
 * [Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#get-early-access-to-chatgpt-voice-mode-and-the-chatgpt-desktop-app)
 * [Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#full-access-to-advanced-data-analysis-file-uploads-vision-and-web-browsing)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -43,16 +43,12 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
  Well, here are some reasons you might want to keep your ChatGPT Plus sub.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1 More Access to GPT-4o
 
 ![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) [is OpenAI's latest flagship GPT model](http://www.makeuseof.com/how-gpt-4o-works-is-it-free/) , which it states is twice as fast as GPT-4 Turbo and 50% cheaper (when using APIs). However, Free users are not granted unlimited access to GPT-4o. OpenAI provides Free users with "limited access to GPT-4o."
@@ -63,15 +59,15 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
  However, all of these message rates are the best you will get. As ChatGPT becomes the crutch for more businesses and individuals, usage and availability will likely decline (temporarily) in the near future. Based on this, you'd likely want a Plus subscription to insure against crowded conditions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 Retain Access to GPT-4 Turbo
 
  Benchmarks and tests revealed that GPT-4o may be faster, but GPT-4 Turbo seems more accurate in some categories. It's difficult to confirm the criteria for this and how some of these tests have been executed, but some users have reported better results from GPT-4—especially in mathematical and programming problems. Even OpenAI admits this, and according to its text evaluation results, GPT-4T does better at DROP (​​Discrete Reasoning Over Paragraphs) tests.
 
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
 
@@ -84,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
  You must have a Plus subscription to create custom GPTs. Paying will let you[build a custom GPT with your own data](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) and documents, which can then be shared with friends and colleagues or published freely on the marketplace.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Generate Images With DALL-E
@@ -104,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
  While OpenAI's recent demo showed us that the feature will come with the Mac app, Voice Mode is only available now through the ChatGPT smartphone app. Features like this are why many consider the[ChatGPT iOS app better than the website](https://www.makeuseof.com/why-chatgpt-ios-app-is-better-than-website/) .
 
  OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
@@ -132,24 +132,24 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-protocols-and-performance-macos-meets-mixer/"><u>[New] Protocols and Performance MacOS Meets Mixer</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-360-degree-retail-exploration-tech/"><u>[Updated] 360-Degree Retail Exploration Tech</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-your-sidekick-crafting-epic-stories-through-chatgpts-aid/"><u>AI Your Sidekick: Crafting Epic Stories Through ChatGPT's Aid</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ais-role-in-merging-real-with-imaginary-top-8-methods/"><u>AI's Role in Merging Real with Imaginary: Top 8 Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/blizzards-new-chapter-with-microsoft-unveils-innovative-use-of-ai-in-gaming-and-artistry-audio-analysis/"><u>Blizzard's New Chapter with Microsoft Unveils Innovative Use of AI in Gaming & Artistry [Audio Analysis]</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/clearview-pro-5-screen-mastery/"><u>ClearView Pro 5 - Screen Mastery</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cut-through-the-chatter-debunking-nine-biggies-of-ai-dialogue/"><u>Cut Through the Chatter: Debunking Nine Biggies of AI Dialogue</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-grok-ai-elon-musks-latest-innovation-explained/"><u>Discovering Grok AI: Elon Musk's Latest Innovation Explained</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-download-nvidia-geforce-rtx-3090-drivers-compatible-with-windows-1087/"><u>Free Download: NVIDIA GeForce RTX 3090 Drivers Compatible with Windows 10/8/7</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-text-to-audio-the-revolutionary-use-of-chatgpt-in-writing-my-latest-podcast-episode/"><u>From Text to Audio: The Revolutionary Use of ChatGPT in Writing My Latest Podcast Episode</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/future-employment-preparing-for-ai-driven-transformation/"><u>Future Employment: Preparing for AI-Driven Transformation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/kostenloze-conversie-van-rmvb-naar-mkv-online-toepassing-movavi/"><u>Kostenloze Conversie Van RMVB Naar MKV - Online-Toepassing Movavi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/method-guide-access-and-identify-restricted-phone-numbers-in-android-settings/"><u>Method Guide: Access and Identify Restricted Phone Numbers in Android Settings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-around-chatgpts-size-barrier-insights-and-solutions/"><u>Navigating Around ChatGPT's Size Barrier: Insights and Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-unreal-engine-4-crash-in-outriders-overcoming-the-infamous-madness-bug/"><u>Solved! Unreal Engine 4 Crash in Outriders – Overcoming the Infamous Madness Bug</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-call-of-duty-warzone-black-screen-issues/"><u>Ultimate Guide: Resolving Call of Duty: Warzone Black Screen Issues</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/understanding-windows-7s-end-of-life-status-implications-and-next-steps/"><u>Understanding Windows 7'S End-of-Life Status: Implications & Next Steps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-facts-gpts-limitations-in-crypto-research/"><u>Unveiling the Facts: GPT's Limitations in Crypto Research</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-to-know-about-the-next-iphone-model-pricing-release-and-feature-teasers/"><u>What to Know About the Next iPhone Model - Pricing, Release, and Feature Teasers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-crafting-compelling-stories-the-art-of-instagram-video-editing/"><u>[New] In 2024, Crafting Compelling Stories The Art of Instagram Video Editing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-step-wise-technique-turn-video-upside-down-in-vlc-media-player-for-2024/"><u>[New] Step-Wise Technique Turn Video Upside Down in VLC Media Player for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-breakdown-of-how-youtube-ad-revenue-works-cpm/"><u>[Updated] Breakdown of How YouTube Ad Revenue Works (CPM)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-navigating-and-interpreting-twitter-archives/"><u>2024 Approved Navigating and Interpreting Twitter Archives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-desktop-release-delayed-experience-the-best-of-open-source-conversational-ais-today/"><u>ChatGPT Desktop Release Delayed? Experience the Best of Open Source Conversational AIs Today!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-versus-google-translate-a-comprehensive-guide-to-better-language-conversion/"><u>ChatGPT Versus Google Translate: A Comprehensive Guide to Better Language Conversion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-is-it-possible-to-command-your-smart-devices/"><u>ChatGPT: Is It Possible To Command Your Smart Devices?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/code-and-speech-entwined-chatgpts-power-of-conversion/"><u>Code and Speech Entwined: ChatGPT's Power of Conversion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-convincing-proposals-a-step-by-step-guide-using-chatgpt/"><u>Crafting Convincing Proposals: A Step-by-Step Guide Using ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-nutritious-diet-plans-with-the-help-of-chatgpt/"><u>Crafting Nutritious Diet Plans with the Help of ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-artific-cuits-intelligences-black-box-insight-into-its-inner-workings/"><u>Demystifying Artific Cuits Intelligence's Black Box: Insight Into Its Inner Workings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-students-avoiding-common-mistakes-with-chatgpt/"><u>Effective Strategies for Students: Avoiding Common Mistakes with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elon-musk-and-his-cutting-edge-innovation-delving-deep-into-truthgpt/"><u>Elon Musk and His Cutting-Edge Innovation: Delving Deep Into TruthGPT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-smartphone-to-screen-uploading-pics-on-youtube/"><u>From Smartphone to Screen Uploading Pics on YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/horizon-hopping-reviewing-the-gopro-karma-drone/"><u>Horizon Hopping Reviewing the GoPro Karma Drone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-many-viewer-thumbs-up-equals-money-youtube-tips-for-2024/"><u>How Many Viewer Thumbs Up Equals Money? YouTube Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/master-your-media-free-fb-video-conversion-techniques/"><u>Master Your Media - Free FB Video Conversion Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/netgear-nighthawk-x6-extender-assessment-a-detailed-look-at-its-cutting-edge-features-and-functionality/"><u>Netgear Nighthawk X6 Extender Assessment – A Detailed Look at Its Cutting-Edge Features and Functionality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp3-mp2-movavi/"><u>무료 MP3-MP2 변환: 기타 각성 모음을 위한 Movavi 구문적 화면 가이드</u></a></li>
 </ul></div>
 
