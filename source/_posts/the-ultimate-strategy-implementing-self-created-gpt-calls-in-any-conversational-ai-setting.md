@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Strategy: Implementing Self-Created GPT Calls in Any Conversational AI Setting"
-date: 2025-01-25T07:23:41.716Z
-updated: 2025-01-26T02:18:37.201Z
+date: 2025-02-05T22:54:07.704Z
+updated: 2025-02-07T18:54:19.458Z
 tags:
   - chatgpt
   - open-ai
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are the Differences between Google Bard and Bing Chat?
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
  To compare Google Bard and Bing AI Chat, we derived a simple test. We used them to conduct research for an imaginary article on atmospheric CO2 levels and climate change. This enabled us to draw comparisons on several metrics, including the quality and size of the response, the accuracy of the data, and ease of use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bing Chat vs. Google Bard: Response Quality
 
  We began by asking both platforms an identical question: "How do modern-day CO2 levels compare to the last ice age?"
@@ -39,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
  There were differences between how both models approached the question. First up, we will look at Google Bard's answer.
 
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
 
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
  The length and tone of the responses also differed. The Bing Chat response was shorter and more restrained, not offering opinions on the problem or potential solutions.
 
  Bard produced a longer answer that also discussed the problem and the need to take urgent action. This was outside the focus of the question, but it confirms just how quickly the tone and direction of any research can be swayed depending on the tool you use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Response Accuracy
 
@@ -72,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bing Chat vs. Google Bard: Ease of Use
 
  There is nothing complicated about either model. If you have used a messaging app, you can use these tools. However, we did notice some differences that are relevant here.
@@ -82,17 +82,21 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As both platforms are going through rapid development, the user experience will continue to improve.
 
@@ -105,10 +109,6 @@ We did manage to get a response from Bard by rewording the prompt.
  GPT-4 is a generative model. It generates answers based on the text it's been trained on. By contrast,[LaMDA works differently](https://www.makeuseof.com/what-is-google-lamda-ai/) —it is a discriminative model, meaning it can distinguish between various kinds of text.
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which Is Best for You: Bing Chat or Google Bard?
 
@@ -147,17 +147,19 @@ We did manage to get a response from Bard by rewording the prompt.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-craft-engaging-videos-insights-into-youtube-movie-maker/"><u>[New] 2024 Approved Craft Engaging Videos Insights Into YouTube Movie Maker</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-discover-top-5-cost-free-windows-10-screencast-recorders/"><u>[New] 2024 Approved Discover Top 5 Cost-Free Windows 10 Screencast Recorders</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhance-your-cs2-gameplay-by-tackling-lag-issues-and-lowering-pc-ping-for-a-competitive-edge/"><u>Enhance Your CS2 Gameplay by Tackling Lag Issues and Lowering PC Ping for a Competitive Edge</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-6-plus-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or Apple iPhone 6 Plus?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-8-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 8 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-oppo-a1-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Oppo A1 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-strategies-for-phoenix-points-game-crashing-glitches-now-fixed/"><u>Solution Strategies for Phoenix Point's Game-Crashing Glitches Now Fixed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tackling-chatgpt-compliance-issues-evaluating-updates-to-google-news-delivery-and-strategies-for-best-mobile-internet-on-your-next-holiday-adventure/"><u>Tackling ChatGPT Compliance Issues, Evaluating Updates to Google News Delivery & Strategies for Best Mobile Internet on Your Next Holiday Adventure</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-evolution-of-language-models-googles-palm-2-compared-to-openais-gpt-4-explained/"><u>The Evolution of Language Models: Google's PaLM 2 Compared to OpenAI's GPT-4 Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-supercharged-self-improvement-using-ai-conversations/"><u>The Ultimate Guide to Supercharged Self-Improvement Using AI Conversations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-essential-ai-terminology-explained/"><u>The Ultimate List of Essential AI Terminology Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-tips-for-storing-your-chatgpt-dialogues-for-easy-access-later-on/"><u>The Ultimate Tips for Storing Your ChatGPT Dialogues for Easy Access Later On</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-top-tier-mp4-director-for-facebook/"><u>[New] 2024 Approved Top-Tier MP4 Director for Facebook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/actical-video-takedown-a-guide-to-judging-ownership-and-opposition/"><u>[New] Tactical Video Takedown A Guide to Judging Ownership and Opposition</u></a></li>
+<li><a href="https://win-hot.techidaily.com/bitcoins-latest-trading-value-an-update-from-yl-computing-and-yl-software-experts/"><u>Bitcoin's Latest Trading Value: An Update From YL Computing & YL Software Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-the-future-of-computing-with-acemagic-x1-the-ultimate-dual-screen-laptop/"><u>Experience the Future of Computing with Acemagic X1: The Ultimate Dual-Screen Laptop</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/globale-allianz-abbyy-bildet-mit-synpulse-eine-umfassende-europapartnerschaft/"><u>Globale Allianz: ABBYY Bildet Mit Synpulse Eine Umfassende Europapartnerschaft</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-uninstall-nvidia-drivers-on-windows-10/"><u>How to Uninstall Nvidia Drivers on Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-use-the-windows-11-device-manager-to-update-your-drivers/"><u>How to Use the Windows 11 Device Manager to Update Your Drivers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oneplus-ace-3-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to OnePlus Ace 3 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209859382-9780692098615-keep-this-quiet-iv-revised-edition-2nd-ed/"><u>Keep This Quiet! IV, revised edition (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimize-gameplay-how-to-stop-mouse-acceleration-in-windows-11/"><u>Optimize Gameplay: How to Stop Mouse Acceleration in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-not-responding-errors-fix-oculus-air-link-issues-in-windows/"><u>Resolving 'Not Responding' Errors: Fix Oculus Air Link Issues in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revamping-minecraft-performance-how-to-tweak-high-end-pc-settings-for-ultimate-fps-gains/"><u>Revamping Minecraft Performance : How To Tweak High-End PC Settings for Ultimate FPS Gains</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/secure-your-gaming-with-vpns-the-ultimate-guide-for-playstation-4-users/"><u>Secure Your Gaming with VPNs: The Ultimate Guide for PlayStation 4 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-cpu-demands-caused-by-wudfhost-in-windows-11-systems/"><u>Troubleshooting High CPU Demands Caused by WUDFHost in Windows 11 Systems</u></a></li>
 </ul></div>
 

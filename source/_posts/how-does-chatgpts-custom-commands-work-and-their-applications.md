@@ -1,7 +1,7 @@
 ---
 title: How Does ChatGPT's Custom Commands Work & Their Applications
-date: 2025-01-22T07:29:50.476Z
-updated: 2025-01-25T23:32:09.461Z
+date: 2025-02-05T22:44:13.646Z
+updated: 2025-02-08T08:59:58.352Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -47,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
  As you can see below, we've received more of a customized workout plan with the types of exercises that we wanted.
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
@@ -93,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
@@ -104,11 +104,11 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
 
@@ -127,7 +127,7 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
@@ -147,19 +147,20 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-concluding-coverage-craftsmanship-for-2024/"><u>[New] Concluding Coverage Craftsmanship for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-digital-cosmos-display-top-pick-hdr-sky-sites-list/"><u>[New] In 2024, Digital Cosmos Display Top Pick HDR Sky Sites List</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-what-is-a-haul-video-and-how-to-edit-it/"><u>2024 Approved What Is a Haul Video and How to Edit It</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/crafting-conversations-writing-engaging-dialogues/"><u>Crafting Conversations Writing Engaging Dialogues</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-pova-5-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Pova 5 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-comparison-guide-to-public-private-and-individual-use-ai-technologies/"><u>The Comparison Guide to Public, Private, and Individual Use AI Technologies</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Honor X7b? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-new-frontier-implementing-gpt-4-on-current-chatgpt-platforms/"><u>The New Frontier: Implementing GPT-4 on Current ChatGPT Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-risks-of-employing-ai-generated-codes-why-windows-11-keys-are-a-no-go/"><u>The Risks of Employing AI-Generated Codes: Why Windows 11 Keys Are a No-Go</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-role-of-government-in-supervising-artificial-intelligence-an-examination-of-4-key-techniques/"><u>The Role of Government in Supervising Artificial Intelligence - An Examination of 4 Key Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/token-evolution-gemini-unveils-million-context-shift/"><u>Token Evolution: Gemini Unveils Million Context Shift</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-artificial-intelligence-powered-tools-for-enhanced-note-taking/"><u>Top 6 Artificial Intelligence Powered Tools for Enhanced Note-Taking</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11-gamers-secret-7-insider-moves-to-up-your-score/"><u>Win 11 Gamers' Secret: 7 Insider Moves to Up Your Score</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-reel-it-in-8-online-utilities-for-creating-and-sharing-instagram-videos/"><u>[New] In 2024, Reel It In 8 Online Utilities For Creating & Sharing Instagram Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-shape-viral-memes-using-adobe/"><u>[Updated] 2024 Approved Shape Viral Memes Using Adobe</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-simplify-zoom-a-comprehensive-guide-to-blurry-borders/"><u>[Updated] 2024 Approved Simplify Zoom A Comprehensive Guide to Blurry Borders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-meme-generator-zombodroid/"><u>[Updated] In 2024, MEME Generator Zombodroid</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/anonymity-at-risk-neural-network-inversion/"><u>Anonymity at Risk: Neural Network Inversion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-co-pilot-expert-tips-on-car-modification-support/"><u>ChatGPT as Your Co-Pilot: Expert Tips on Car Modification Support</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convert-webp-images-to-bmp-for-free-with-online-moveavi-transcoding-service/"><u>Convert WebP Images to BMP for Free with Online MoveAVI Transcoding Service</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/empowering-your-smartphone-with-chatgpt-techniques/"><u>Empowering Your Smartphone with ChatGPT Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/enhance-your-online-presence-with-manycam-top-tier-virtual-webcam-solutions-for-seamless-broadcasts/"><u>Enhance Your Online Presence with ManyCam - Top-Tier Virtual Webcam Solutions for Seamless Broadcasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-do-they-harness-gpt-4-insights-on-7-innovative-app-integrations/"><u>How Do They Harness GPT-4? Insights on 7 Innovative App Integrations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-chatgpt-decode-programming-languages-its-crucial-role-explained/"><u>How Does ChatGPT Decode Programming Languages? Its Crucial Role Explained</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-edge-40-bootloader-easily-by-drfone-android/"><u>How to Unlock Motorola Edge 40 Bootloader Easily</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-possible-to-use-chatgpt-through-a-virtual-private-network-vpn/"><u>Is It Possible To Use ChatGPT Through A Virtual Private Network (VPN)?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/quintuple-excellence-writing-for-eight-film-classifications/"><u>Quintuple Excellence Writing for Eight Film Classifications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-inner-workings-of-gpt-4all-explained-a-detailed-overview/"><u>The Inner Workings of GPT-4All Explained: A Detailed Overview</u></a></li>
 </ul></div>
 

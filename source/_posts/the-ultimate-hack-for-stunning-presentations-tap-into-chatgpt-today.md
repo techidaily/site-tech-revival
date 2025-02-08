@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Hack for Stunning Presentations: Tap Into ChatGPT Today"
-date: 2025-01-24T18:21:50.318Z
-updated: 2025-01-26T06:15:01.257Z
+date: 2025-02-03T04:14:43.558Z
+updated: 2025-02-08T08:55:56.479Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
 ![Bard on Dark theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-on-dark-theme.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Dark mode is the new cool, and Google has finally listened to the request of Bard AI users by adding the dark mode feature to the Bard website. To toggle on dark mode, toggle**Use dark theme** in the bottom left corner of the Bard web interface. If you are accessing Bard from your mobile browser, you'll need to tap the menu icon in the top right corner of the Bard website to reveal the**Use dark theme** button in the bottom left corner.
 
 ## 3\. Integration With Google Products and Third-Party Plugins
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
@@ -54,12 +58,16 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
  In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Image Generation With Adobe Firefly
 
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
@@ -73,24 +81,16 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One thing missing from most[AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.
 
  Google is solving this by making content generated by Bard AI cross-compatible with some of its workspace tools like Google Sheets and Docs. So, if you generate data in a tabular format on Bard, you can export it to Sheets, where you can invite your family, friends, or colleagues to collaborate.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Improved Code Generation
 
 ![Generating code with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-code-with-bard-ai.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  At launch, Bard AI couldn't write code—an embarrassing pitfall considering coding was one of the big hype surrounding the emergence of AI chatbots. However, Bard AI competitors like[ChatGPT have been helping people code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) since its debut. Google has now significantly ramped up Bard's coding abilities—so much so that a lot of precious presentation time was dedicated to discussing it at its Google I/O 2023 event.
 
@@ -117,18 +117,14 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-swift-upload-of-sizeable-videos-from-iphone-to-mac-desktop/"><u>[New] Swift Upload of Sizeable Videos From iPhone to Mac Desktop</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-total-gaze-field-vr-device-overview/"><u>2024 Approved Total Gaze Field VR Device Overview</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/achieving-harmony-using-ai-for-regular-meditation/"><u>Achieving Harmony: Using AI for Regular Meditation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-innovations-in-online-searching-enhancing-how-we-discover-and-interact-with-websites/"><u>AI Innovations in Online Searching: Enhancing How We Discover and Interact with Websites</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-lingo-made-easy-understanding-29-key-terms/"><u>AI Lingo Made Easy: Understanding 29 Key Terms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-showdown-evaluating-the-strengths-of-notion-ai-against-chatgpt-for-optimal-performance/"><u>AI Showdown: Evaluating the Strengths of Notion AI Against ChatGPT for Optimal Performance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/android-system-intelligence-explained-the-future-of-smart-operating-systems/"><u>Android System Intelligence Explained: The Future of Smart Operating Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/battle-for-dominance-ps5-vs-xbox-series-x-edition/"><u>Battle for Dominance: PS5 Vs. Xbox Series X Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722209433543-beware-of-the-false-chatgpt-plugin-your-facebook-login-at-risk/"><u>Beware of the False ChatGPT Plugin: Your Facebook Login at Risk</u></a></li>
-<li><a href="https://facebook.techidaily.com/ensuring-a-smooth-transition-off-facebook-8-essential-tips/"><u>Ensuring a Smooth Transition Off Facebook - 8 Essential Tips</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplusfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlusFRP Lock</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-foldable-iphones-unveiled-price-estimates-launch-dates-and-feature-leaks/"><u>Upcoming Foldable iPhones Unveiled! Price Estimates, Launch Dates & Feature Leaks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-watch-your-local-videos-on-tv-chromecast-streaming-tutorial-for-windows-mac-android-and-ios-for-2024/"><u>Updated Watch Your Local Videos on TV Chromecast Streaming Tutorial for Windows, Mac, Android, and iOS for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/uilding-a-channel-team-up-videography-guide-for-2024/"><u>[New] Building a Channel Team-Up Videography Guide for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-huawei-p60-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Huawei P60 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-s17-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo S17 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-excellence-in-ai-based-photo-transformations/"><u>In 2024, Excellence in AI-Based Photo Transformations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-look-at-ai-search-techniques-and-business-utilization/"><u>In-Depth Look at AI Search Techniques and Business Utilization</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimize-your-dall-e-images-switching-from-webp-to-jpegpng/"><u>Optimize Your DALL-E Images: Switching From WebP to JPEG/PNG</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sony-xperia-xz-premium-high-res-video-capabilities-analyzed/"><u>Sony Xperia XZ Premium High-Res Video Capabilities Analyzed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-trip-organization-with-these-7-free-ai-powered-chatgpt-itinerary-assistants/"><u>Streamline Trip Organization with These 7 FREE AI-Powered ChatGPT Itinerary Assistants</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-potential-with-anthropics-revolutionary-claude-3-prompt-repository/"><u>Unlocking Potential with Anthropic's Revolutionary Claude 3 Prompt Repository</u></a></li>
 </ul></div>
 

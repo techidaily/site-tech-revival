@@ -1,7 +1,7 @@
 ---
 title: Manuel Facile Pour Extraire Des Sous-Titres De DVD en SRT Sous Systèmes Windows/MacOSX
-date: 2024-08-30 14:23:16
-updated: 2024-09-02 10:15:34
+date: 2025-01-31T21:54:06.937Z
+updated: 2025-02-08T03:05:17.508Z
 categories:
   - winxdvd
 thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa2f3492f28ea818842097e14.jpg
@@ -26,7 +26,9 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 
 ![rip dvd](https://www.winxdvd.com/resource/../seo-img/general-img/seobanner-dvd.png) 
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Here is the most complete information about DVD resolutions._
 
@@ -50,6 +52,10 @@ Both DVD resolutions are available in 4:3 and 16:9 aspect ratios. Besides standa
  So apparently, SD DVDs are not in 1080p or 720p. The max DVD resolution is 480i/p or 576i/p. 
 
 ![DVD resolution vs 720p vs 1080p vs 4K](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/dvd-resolution.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Is DVD lower quality than Blu-ray?
 
@@ -79,6 +85,10 @@ How to make DVDs look better on widescreen? There're 3 ways to [improve DVD qual
 
 [![](https://www.winxdvd.com/resource/../seoimg/win.png) Free Download](https://tools.techidaily.com/winxdvd/products/) [![](https://www.winxdvd.com/resource/../seoimg/mac.png) Free Download](https://tools.techidaily.com/winxdvd/products/) [Free Download](https://tools.techidaily.com/winxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 1.** Click the download button and install it as per the instructions. Run it and insert your DVD.
 
 **Step 2.** Select an output format from the window. To get the best upscaling result, select MP4 from the list. 
@@ -88,6 +98,10 @@ How to make DVDs look better on widescreen? There're 3 ways to [improve DVD qual
 **Step 4.** After all the settings, click OK. Check the High Quality Engine and Deinterlacing on the right bottom corner of the interface and click the big blue RUN. Deinterlacing feature will convert your interlaced video to progressive scan to deliver smoother-looking image.
 
 ![Change DVD resolution: upscale DVD from 480P to 1080P](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/parameter-resolution-700.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Q3\. Is It Possible to Burn a DVD with 720p/1080p HD Video? 
 
@@ -113,6 +127,14 @@ Here we will give you an example of how to burn a DVD with video in 720p resolut
 
 ![Burn HD video to DVD](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/add-video-700.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Q4\. DVD Resolution and 4K | How Do DVDs and Blu-rays Look on the 4K Screen?
 
 Can DVD be upscaled to 4K? Yes. Some Blu-ray Disc players are equipped with 4K upscaling feature. If the player can't do the upscaling, the 4K UHD TV will upscale the 1080p signal from the Blu-ray Disc player to 4K. 4K TV upscales the image, spreading 1 pixel to 16/4x4 pixels.
@@ -124,6 +146,11 @@ Can DVD be upscaled to 4K? Yes. Some Blu-ray Disc players are equipped with 4K u
 * [DVD vs Blu-ray vs Digital File: What Are the Differences?](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 * [How to Free Rip DVD with Same Quality](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 * [Best Settings to Rip DVDs Fast with Good Quality & Small Size](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [Streaming vs DVD? DVD is Better to Use in What Cases](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 
 <ins class="adsbygoogle"
@@ -132,11 +159,29 @@ Can DVD be upscaled to 4K? Yes. Some Blu-ray Disc players are equipped with 4K u
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-gamer-tested-streaming-software-picks/"><u>[Updated] Gamer-Tested Streaming Software Picks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elite-recording-devices-for-livestream-producers/"><u>[Updated] In 2024, Elite Recording Devices for Livestream Producers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-mastering-twitter-uploading-videos-compliance/"><u>[Updated] In 2024, Mastering Twitter Uploading Videos Compliance</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-first-step-in-vlogging-tools-you-need/"><u>[Updated] In 2024, The First Step in Vlogging Tools You Need</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/discover-spectacular-s20-phone-decals-from-yl-software-expert-wallpaper-selection-for-tech-enthusiasts/"><u>Discover Spectacular S20 Phone Decals From YL Software – Expert Wallpaper Selection for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-ethically-spot-the-location-of-any-cell-number-for-free/"><u>How to Ethically Spot the Location of Any Cell Number For Free</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-exit-safe-mode-on-windows-10/"><u>How to Exit Safe Mode on Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-fix-apex-legends-stuttering-on-pc/"><u>How to Fix Apex Legends Stuttering on PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-split-screen-in-windows-11/"><u>How to Split Screen in Windows 11</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/identifying-overheating-problems-expert-tips-from-yl-computings-yl-software-solutions/"><u>Identifying Overheating Problems: Expert Tips From YL Computing's YL Software Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/keyboard-trouble-overcome-latency-issues-with-these-fixes-for-windows-users/"><u>Keyboard Trouble? Overcome Latency Issues with These Fixes for Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-incognito-mode-a-step-by-step-guide-to-anonymous-surfing-in-2020/"><u>Mastering Incognito Mode: A Step-by-Step Guide to Anonymous Surfing in 2020</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-evolution-continues-facebooks-rebuttal-to-the-end/"><u>The Evolution Continues - Facebook's Rebuttal to the End</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-list-of-adobe-premiere-elements-substitutes-for-2024/"><u>The Ultimate List of Adobe Premiere Elements Substitutes for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-best-buy-bargains-in-june-2024-find-your-next-purchase-on-zdnet/"><u>Top-Rated Best Buy Bargains in June 2024: Find Your Next Purchase on ZDNet</u></a></li>
+</ul></div>
+

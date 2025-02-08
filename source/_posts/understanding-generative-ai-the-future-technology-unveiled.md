@@ -1,7 +1,7 @@
 ---
 title: "Understanding Generative AI: The Future Technology Unveiled"
-date: 2025-01-20T20:34:21.593Z
-updated: 2025-01-26T13:14:34.850Z
+date: 2025-02-06T01:28:59.949Z
+updated: 2025-02-08T08:22:48.220Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is a Vector Database?
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 ![Two and three dimensional vectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/dimensional-vector.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
 
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
  Without understanding semantics or context, an AI may provide logically correct but contextually wrong answers. For example, the AI may misinterpret the phrase "He had a heavy heart as he walked away" as a guy with a heart condition instead of a guy feeling sad or burdened.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Vector Databases Help Boost AI
@@ -73,12 +69,16 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 * **Image and Video Analysis:** With video and image embedding models, AI models can be fine-tuned to work with images to find items that look similar to the query. This is currently being implemented in many online shopping apps and websites.
 * **Anomaly Detection:** By recording actions as embeddings, an[AI model can make the world more secure](https://www.makeuseof.com/ai-cybersecurity-making-world-more-secure/) by detecting anomalies and certain outliers based on the norm. AI Anomaly detection is now a popular tool for fraud detection, system monitoring, and network intrusion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How a Vector Database Works
 
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Popular Vector Databases
@@ -121,18 +121,22 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-expert-5-virtual-screenshots-tech/"><u>[New] In 2024, Expert 5 Virtual Screenshots Tech</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-masterpiece-makers-leading-ios-draw-tools-for-2024/"><u>[Updated] Masterpiece Makers Leading iOS Draw Tools for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-realme-gt-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-and-you-a-handy-approach-to-troubleshooting-pc-problems-efficiently/"><u>ChatGPT and You: A Handy Approach to Troubleshooting PC Problems Efficiently</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciding-on-investing-in-gpt-plus/"><u>Deciding on Investing in GPT Plus</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-claude-2-capabilities-explored/"><u>Decoding Claude 2: Capabilities Explored</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/direct-communication-using-rtx-ai-on-your-device/"><u>Direct Communication: Using RTX AI on Your Device</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-v30t-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme V30T to PC? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/mp4-made-easy-10-best-webm-to-mp4-conversion-tools-for-2024/"><u>MP4 Made Easy 10 Best WebM to MP4 Conversion Tools for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/network-printer-vanishes-whats-the-remedy/"><u>Network Printer Vanishes, What's the Remedy?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/overcome-windows-11-wont-run-problems-on-your-pc-with-easy-fixes-by-revouninstaller/"><u>Overcome 'Windows 11 Wont Run' Problems on Your PC with Easy Fixes by RevoUninstaller</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-f34-5g-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-screen-woes-top-6-easy-fixes-uncovered/"><u>Windows Screen Woes: Top 6 Easy Fixes Uncovered</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-10-speedy-rising-yt-spaces-for-cognitive-illumination/"><u>[New] The 10 Speedy Rising YT Spaces For Cognitive Illumination</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-deciding-on-live-stream-software-streamlabs-vs-obs-comparison/"><u>[Updated] 2024 Approved Deciding on Live Stream Software Streamlabs Vs. OBS Comparison</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-underwater-worlds-unseen-pro-tips-for-capturing-vivid-gopro-footage-underwater/"><u>[Updated] 2024 Approved Underwater Worlds Unseen Pro Tips for Capturing Vivid GoPro Footage Underwater</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-enhance-your-skills-with-the-top-10-drawing-apps-on-android-platform-for-2024/"><u>[Updated] Enhance Your Skills with the Top 10 Drawing Apps on Android Platform for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-insights-for-effective-computer-rehab/"><u>AI Insights for Effective Computer Rehab</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-earnings-with-side-hustles-like-chatgpt-expert-advice-on-custom-pc-assembly-and-retro-gaming-handhelds/"><u>Boosting Earnings with Side Hustles Like ChatGPT, Expert Advice on Custom PC Assembly & Retro Gaming Handhelds</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-versions-unveiled-browsing-capabilities-vs-plugin-features-which-suits-you-best/"><u>ChatGPT Versions Unveiled: Browsing Capabilities Vs. Plugin Features – Which Suits You Best?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/confronting-imposter-thoughts-to-excel-professionally-a-guide-to-building-unshakable-confidence-at-work/"><u>Confronting Imposter Thoughts to Excel Professionally – A Guide to Building Unshakable Confidence at Work</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guida-passo-passo-per-ridimensionare-o-conversione-da-4k-a-full-hd-su-pc-con-windows-10mac/"><u>Guida Passo-Passo per Ridimensionare O Conversione Da 4K a Full HD Su PC Con Windows 10/Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/outriders-picture-quality-issues-fixed-crystal-clear-images-today/"><u>Outriders Picture Quality Issues Fixed - Crystal Clear Images Today!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/phony-botnet-chrome-addon-steals-social-media-passwords/"><u>Phony Botnet Chrome Addon: Steals Social Media Passwords</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reap-the-stealth-advantages-of-electric-vehicle-ownership-hov-lane-privileges-await/"><u>Reap the Stealth Advantages of Electric Vehicle Ownership: HOV Lane Privileges Await!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-era-of-on-the-spot-knowledge-with-chatgpt-and-its-significance-to-society/"><u>The Era of On-the-Spot Knowledge with ChatGPT and Its Significance to Society</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-pick-for-kids-fun-expert-evaluation-of-the-maisto-rc-rock-crawler/"><u>Top Pick for Kid's Fun - Expert Evaluation of the Maisto RC Rock Crawler</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-mundane-human-resources-workflows-using-5-strategic-chatgpt-cues/"><u>Transform Mundane Human Resources Workflows Using 5 Strategic ChatGPT Cues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-advanced-ai-with-anthropics-claude-3-a-step-by-step-guide-to-their-new-prompt-platform/"><u>Unlocking Advanced AI with Anthropic's Claude 3: A Step-by-Step Guide to Their New Prompt Platform</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-project-sputnik-the-secret-integration-of-ubuntu-on-premium-dell-systems-insights/"><u>Unveiling Project Sputnik: The Secret Integration of Ubuntu on Premium Dell Systems - Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Implementing and Operating Plug-Ins for ChatGPT"
-date: 2025-01-24T13:55:32.062Z
-updated: 2025-01-26T03:53:06.701Z
+date: 2025-02-01T01:37:29.133Z
+updated: 2025-02-07T20:42:55.828Z
 tags:
   - chatgpt
   - open-ai
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
  Now that we know all about HuggingChat, let's see how it stacks up against ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## HuggingChat vs. ChatGPT: How Do They Compare?
@@ -55,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
  The tools have remarkably similar interfaces, as the bulk of these tools do. Simplicity is the key to AI chatbots, and both tools have a simple input box to allow you to enter prompts, which is about it. However, learning[prompting techniques can help improve response quality](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) .
 
  Next, we will look at other metrics and capabilities and compare the responses.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Large Language Models (LLMs)
 
@@ -78,7 +74,11 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 ![Screenshot of ChatGPT answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-answering-baseball-question.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Summarizing Articles
@@ -88,6 +88,10 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
  Both tools managed this with the ChatGPT response edging it in quality as it summarized the tools mentioned in the article.
 
 ![Screenshot of ChatGPt summary with URL of article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summary-with-url-of-article.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The HuggingChat response wasn't bad but lacked some of the detail covered by ChatGPT.
 
@@ -99,19 +103,15 @@ This was ChatGPT's effort:
 
 ![Screenshot of ChatGPT referencing an article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-referencing-an-article-without-a-url.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 HuggingChat's summary looked like this:
 
 ![Screenshot of HuggingChat summarizing article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarizing-article-without-a-url.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There isn't much difference between the two tools here, so let's see how they compare when we test them for creativity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## HuggingChat vs. ChatGPT: How Do They Compare Creatively?
 
@@ -123,15 +123,15 @@ HuggingChat's summary looked like this:
 
 ![Screenshot of ChatGPT lovesong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-lovesong.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 And this was HuggingChat's.
 
 ![Screenshot HuggingChat love song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-huggingchat-love-song.jpg)
 
 Shakespeare himself would be impressed with both of these!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Security and Privacy
 
@@ -180,24 +180,20 @@ Shakespeare himself would be impressed with both of these!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-high-performance-graphics-displayed-by-asus-proart/"><u>[New] 2024 Approved High-Performance Graphics Displayed by ASUS ProArt</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-data-collection-and-analysis-for-2024/"><u>[New] Data Collection and Analysis for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-leveraging-instagrams-video-features-a-how-to-guide/"><u>[New] In 2024, Leveraging Instagram's Video Features A How-To Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-unique-soundscapes-for-your-one-person-show/"><u>[New] In 2024, Unique Soundscapes for Your One-Person Show</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-new-to-vector-art-dive-into-basics-forms-and-software/"><u>[New] New to Vector Art? Dive Into Basics, Forms, and Software</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-synchronize-your-team-with-easy-slack-and-filmora-integration/"><u>[Updated] 2024 Approved Synchronize Your Team with Easy Slack & Filmora Integration</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-oneplus-nord-3-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on OnePlus Nord 3 5G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Tecno Pop 8? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-samsung-galaxy-f34-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Samsung Galaxy F34 5G Phone?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-infinix-smart-7-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Infinix Smart 7 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamlining-support-interaction-ai-and-whatsapp-integration-guide/"><u>Streamlining Support Interaction: AI & WhatsApp Integration Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tailoring-fitness-strategies-using-generative-ai/"><u>Tailoring Fitness Strategies Using Generative AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-of-talks-ais-most-prominent-assistants/"><u>The Future of Talks: AI's Most Prominent Assistants</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-stability-of-chatgpt-intelligence-confirming-its-consistency-per-openai-data/"><u>The Stability of ChatGPT Intelligence: Confirming Its Consistency per OpenAI Data</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-4-artificial-intelligence-narrative-tools-you-should-experiment-with/"><u>Top 4 Artificial Intelligence Narrative Tools You Should Experiment With</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-innovative-chrome-extensions-enhancing-ai-interaction-with-chatgpt/"><u>Top 7 Innovative Chrome Extensions Enhancing AI Interaction with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-effective-conversations-starters-with-chatgpt-to-help-you-focus-and-boost-productivity/"><u>Top 8 Effective Conversations Starters with ChatGPT to Help You Focus and Boost Productivity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-how-you-interact-get-chatgpt-for-android-and-start-conversing-today/"><u>Transform How You Interact: Get ChatGPT for Android and Start Conversing Today!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-loneliness-interactive-ai-as-social-catalyst/"><u>Transform Loneliness: Interactive AI as Social Catalyst</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-orchestrating-originality-top-8-schools-for-story-innovation-for-2024/"><u>[New] Orchestrating Originality Top 8 Schools for Story Innovation for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-free-screen-recorder-apowersoft-evaluation/"><u>[Updated] In 2024, Free Screen Recorder Apowersoft Evaluation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/6-effective-tips-to-improve-performance-on-windows-11/"><u>6 Effective Tips to Improve Performance on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-next-marvel-the-apple-watch-ultra-2-specs-reveal-pricing-forecast-and-release-schedule-rumors-unfolding/"><u>Apple's Next Marvel - The Apple Watch Ultra 2: Specs Reveal, Pricing Forecast, and Release Schedule – Rumors Unfolding!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/aspx-what-is-it-and-how-do-i-open-and-edit-it/"><u>ASPX: What Is It & How Do I Open and Edit It?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-apex-legends-performance-eliminating-in-game-lag-and-jitters/"><u>Boost Your Apex Legends Performance: Eliminating In-Game Lag and Jitters</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a1x-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-beat-the-best-substitutes-for-samsungs-vr-camera-gear-360/"><u>In 2024, Beat the Best Substitutes for Samsung's VR Camera Gear 360</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-s23-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy S23 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mp3-creation-from-vimeo-streaming-media/"><u>MP3 Creation From Vimeo Streaming Media</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1723808136522-the-complete-guide-to-speeding-up-your-windows-update-time-discover-why-it-takes-so-long/"><u>The Complete Guide to Speeding Up Your Windows Update Time - Discover Why It Takes So Long!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-windows-10s-approach-to-phasing-out-win32-programs-in-favor-of-windows-store-options/"><u>Understanding Windows 10'S Approach to Phasing Out Win32 Programs in Favor of Windows Store Options</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-11-tablet-mode-everything-you-need-to-know/"><u>Windows 11 Tablet Mode: Everything You Need to Know</u></a></li>
 </ul></div>
 

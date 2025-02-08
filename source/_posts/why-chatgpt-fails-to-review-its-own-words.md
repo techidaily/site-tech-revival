@@ -1,7 +1,7 @@
 ---
 title: Why ChatGPT Fails to Review Its Own Words
-date: 2025-01-20T23:28:52.289Z
-updated: 2025-01-26T02:54:46.339Z
+date: 2025-02-03T03:16:01.570Z
+updated: 2025-02-07T17:16:32.325Z
 tags:
   - chatgpt
   - open-ai
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -51,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
  In this example, I asked ChatGPT for recipes for the items visible in the fridge.
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
@@ -65,7 +57,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use [third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
@@ -73,7 +65,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
@@ -86,9 +78,17 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -99,6 +99,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  Pairing this feature with ChatGPT's browsing and memory functionality allows for a highly versatile AI companion. This enhanced version of ChatGPT can now better assist you with shopping, planning, and organizing. GPT-4o's conversation functionality makes it possible to use ChatGPT as a hands-free assistant using voice commands, making it easier to interact with the AI while you're on the go or multitasking.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Upgraded Code Analysis
 
@@ -115,10 +119,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
@@ -141,18 +141,22 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-want-to-send-snaps-from-camera-roll-see-how-it-is-done/"><u>[New] Want to Send Snaps From Camera Roll? See How It Is Done</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2023-guide-ios-device-live-recording-techniques/"><u>[Updated] 2023 Guide IOS Device Live Recording Techniques</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-elevate-your-video-editing-skills-with-kinemaster-and-10-leading-alternatives/"><u>[Updated] Elevate Your Video Editing Skills with KineMaster & 10 Leading Alternatives</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-gaming-chronicles-capturing-every-play-in-overwatch/"><u>[Updated] In 2024, Gaming Chronicles Capturing Every Play in Overwatch</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-unlimited-screen-capture-tool-for-2024/"><u>[Updated] Unlimited Screen Capture Tool for 2024</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/festive-holiday-ambience-hd-slowly-falling-snowflakes-bedecked-pine-trees-for-a-cheerful-yuletide-greeting-yl-software/"><u>Festive Holiday Ambience: HD Slowly Falling Snowflakes, Bedecked Pine Trees for a Cheerful Yuletide Greeting | YL Software</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-m6-pro-4g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco M6 Pro 4G Devices | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/procurement-primer-essential-considerations-for-laptop-shoppers/"><u>Procurement Primer: Essential Considerations for Laptop Shoppers</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/steps-to-set-up-commenting-in-windows-10-on-solid-state-drives-ssd/"><u>Steps to Set Up Commenting in Windows 10 on Solid State Drives (SSD)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-innovative-open-source-ai-art-makers/"><u>Top Innovative Open Source AI Art Makers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-job-application-with-ai-creating-a-stellar-resume-using-chatgpt/"><u>Transform Your Job Application with AI: Creating a Stellar Resume Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trustworthy-techniques-for-discerning-iphone-chatbot-apps/"><u>Trustworthy Techniques for Discerning iPhone ChatBot Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-chatgpts-information-gathering-potential-plagiarism-issues-explored/"><u>Understanding ChatGPT's Information Gathering: Potential Plagiarism Issues Explored</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-capture-your-device-free-android-recorder/"><u>[New] 2024 Approved Capture Your Device – Free Android Recorder</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-best-4k-screen-recorder-applications-for-2024/"><u>[New] Best 4K Screen Recorder Applications for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-elevate-communication-a-comprehensive-guide-to-using-gifs-on-discord/"><u>[Updated] In 2024, Elevate Communication A Comprehensive Guide to Using GIFs on Discord</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-youtube-shorts-earning-strategies-crucial-elements-possible-returns-for-2024/"><u>[Updated] Youtube Shorts Earning Strategies Crucial Elements, Possible Returns for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-iconic-photographs-the-true-story/"><u>2024 Approved Iconic Photographs The True Story</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/audio-integration-in-digital-photo-albums-for-2024/"><u>Audio Integration in Digital Photo Albums for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-desktop-app-vs-website-uncovering-superior-features-for-enhanced-usability/"><u>ChatGPT Desktop App Vs. Website: Uncovering Superior Features for Enhanced Usability</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-all-the-openai-gpt-series/"><u>Comparing All: The OpenAI GPT Series</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/get-ready-for-back-to-school-with-wonderfoxs-annual-giveaway-enter-by-aug-31-for-a-chance-to-win/"><u>Get Ready for Back to School with WonderFox’s Annual Giveaway - Enter by Aug 31 for a Chance to Win!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pioneering-therapy-infusing-gpt-into-cognitive-techniques/"><u>Pioneering Therapy: Infusing GPT Into Cognitive Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/shaping-ai-responsibly-leadership-from-openai-c-suite/"><u>Shaping AI Responsibly: Leadership From OpenAI C-Suite</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/snapchats-ai-options-explored-my-ai-or-chatgpt/"><u>Snapchat's AI Options Explored: My AI or ChatGPT?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-honor-x50iplus-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Honor X50i+ Phone Hassle-Free</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-global-tech-elite-weighs-in-key-thoughts-from-leaders-on-ais-impact-and-potential/"><u>The Global Tech Elite Weighs In: Key Thoughts From Leaders on AI's Impact and Potential</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-hidden-dangers-of-chatgpt-for-androidios/"><u>The Hidden Dangers of ChatGPT for Android/iOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-ai-imagery-potential-utilizing-dall-e-within-chatgpt-4-framework/"><u>Unlock AI Imagery Potential: Utilizing DALL-E Within ChatGPT-4 Framework</u></a></li>
 </ul></div>
 

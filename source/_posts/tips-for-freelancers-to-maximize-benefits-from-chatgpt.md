@@ -1,7 +1,7 @@
 ---
 title: Tips for Freelancers to Maximize Benefits From ChatGPT
-date: 2025-01-22T10:07:52.038Z
-updated: 2025-01-25T23:07:35.554Z
+date: 2025-02-07T01:24:36.166Z
+updated: 2025-02-08T06:24:21.613Z
 tags:
   - chatgpt
   - open-ai
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5
 ![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) [is OpenAI's latest flagship GPT model](http://www.makeuseof.com/how-gpt-4o-works-is-it-free/) , which it states is twice as fast as GPT-4 Turbo and 50% cheaper (when using APIs). However, Free users are not granted unlimited access to GPT-4o. OpenAI provides Free users with "limited access to GPT-4o."
@@ -59,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5
 
  However, all of these message rates are the best you will get. As ChatGPT becomes the crutch for more businesses and individuals, usage and availability will likely decline (temporarily) in the near future. Based on this, you'd likely want a Plus subscription to insure against crowded conditions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 Retain Access to GPT-4 Turbo
 
  Benchmarks and tests revealed that GPT-4o may be faster, but GPT-4 Turbo seems more accurate in some categories. It's difficult to confirm the criteria for this and how some of these tests have been executed, but some users have reported better results from GPT-4—especially in mathematical and programming problems. Even OpenAI admits this, and according to its text evaluation results, GPT-4T does better at DROP (​​Discrete Reasoning Over Paragraphs) tests.
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5
  If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Create Your Own Custom GPT
@@ -83,13 +83,13 @@ thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5
 
  You must have a Plus subscription to create custom GPTs. Paying will let you[build a custom GPT with your own data](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) and documents, which can then be shared with friends and colleagues or published freely on the marketplace.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Generate Images With DALL-E
 
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
 
@@ -132,24 +132,20 @@ thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-android-no-cost-video-capture-tool/"><u>[New] 2024 Approved Android No-Cost Video Capture Tool</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-boom-in-the-loop-crafting-addictive-ig-videos/"><u>[New] In 2024, Boom in the Loop Crafting Addictive IG Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-video-popularity-essential-seo-techniques-for-success/"><u>[Updated] 2024 Approved Elevate Your Video Popularity Essential SEO Techniques for Success</u></a></li>
-<li><a href="https://fox-making.techidaily.com/avoid-cryptocurrency-deception-safeguarding-techniques-by-yl-technology-solutions/"><u>Avoid Cryptocurrency Deception: Safeguarding Techniques by YL Technology Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-of-effective-online-streaming/"><u>Behind the Scenes of Effective Online Streaming</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-oppo-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Oppo .</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/current-online-threats-and-innovations-analyzing-new-twitter-scams-metas-authentication-enhancement-with-verification-system-and-inside-scoop-on-chatgpt-4-f24/"><u>Current Online Threats & Innovations: Analyzing New Twitter Scams, Meta’s Authentication Enhancement with Verification System & Inside Scoop on ChatGPT- 4 Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-functionality-of-large-language-models-in-ai-technology/"><u>Decoding the Functionality of Large Language Models in AI Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-leading-contenders-for-chatgpt-alternatives-number-one-to-ten/"><u>Discover the Leading Contenders for ChatGPT Alternatives, Number One to Ten</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-your-next-adventure-faster-the-best-free-travel-planning-ai-applications-available-today/"><u>Discover Your Next Adventure Faster - The Best Free Travel Planning AI Applications Available Today!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-grok-unveiling-elon-musks-latest-innovation-in-ai-understanding-its-functions-and-pricing/"><u>Discovering Grok: Unveiling Elon Musk's Latest Innovation in AI - Understanding Its Functions & Pricing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/does-prompt-engineering-offer-sustainable-employment-opportunities-assessing-five-critical-criteria-for-decision-making/"><u>Does Prompt Engineering Offer Sustainable Employment Opportunities? Assessing Five Critical Criteria for Decision-Making</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-prompt-writing-techniques-for-fitness-aficionados-using-chatgpt/"><u>Effective Prompt Writing Techniques for Fitness Aficionados Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-engaging-chatgpt-for-expert-car-customization-advice/"><u>Effective Strategies: Engaging ChatGPT for Expert Car Customization Advice</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-ai-responses-to-peak-performance-with-these-5-proven-techniques/"><u>Elevate AI Responses to Peak Performance with These 5 Proven Techniques</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/schritt-fur-schritt-guide-zur-datenreinigung-auf-intenso-ssds-prazise-und-sichere-methode/"><u>Schritt-Für-Schritt-Guide Zur Datenreinigung Auf Intenso SSDs - Präzise Und Sichere Methode</u></a></li>
-<li><a href="https://video-capture.techidaily.com/soundsnatcher-free-toolkit-insights-and-usage/"><u>SoundSnatcher Free Toolkit Insights & Usage</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-5-ways-to-record-streaming-audio-online/"><u>[Updated] 2024 Approved 5 Ways to Record Streaming Audio Online</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-visual-content-management-for-ig-users/"><u>2024 Approved Visual Content Management for IG Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-guide-in-personalizing-and-enhancing-vehicle-performance/"><u>ChatGPT as Your Guide in Personalizing and Enhancing Vehicle Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-instructions-for-integrating-autowidget-into-kodi-builds-v20x-and-v19x/"><u>Comprehensive Instructions for Integrating AutoWidget Into Kodi Builds v20.x and v19.x</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-dandd-sessions-using-the-power-of-chatgpt/"><u>Elevate Your D&D Sessions Using the Power of ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-secure-conversations-with-ai-discover-duckduckgo-chat-and-beyond/"><u>Explore Secure Conversations with AI: Discover DuckDuckGo Chat & Beyond</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-these-5-ai-powered-apps-to-boost-your-writing-creativity/"><u>Explore These 5 AI-Powered Apps to Boost Your Writing Creativity</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-track-troubleshooting-battery-not-recognized-error-solved-effortlessly/"><u>Fast Track Troubleshooting: 'Battery Not Recognized' Error Solved Effortlessly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-6-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your iPhone 6?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-stream-like-a-pro-setting-up-your-dslr-on-personal-computers/"><u>In 2024, Stream Like a Pro Setting Up Your DSLR on Personal Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguard-digital-assets-block-scrapers/"><u>Safeguard Digital Assets: Block Scrapers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-ai-writing-professional-youtube-scripts-with-chatgpt/"><u>Unlocking the Power of AI: Writing Professional YouTube Scripts with ChatGPT</u></a></li>
+<li><a href="https://fox-search.techidaily.com/unlocking-the-secrets-of-high-quality-lossless-music-the-flac-format-explained/"><u>Unlocking the Secrets of High-Quality Lossless Music: The FLAC Format Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-choose-claude-5-key-reasons-it-outshines-chatgpt/"><u>Why Choose Claude? 5 Key Reasons It Outshines ChatGPT</u></a></li>
 </ul></div>
 

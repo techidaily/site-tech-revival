@@ -1,7 +1,7 @@
 ---
 title: "Art of AI Interaction: Top Tutorials for Commanders"
-date: 2025-01-20T05:45:02.005Z
-updated: 2025-01-26T04:11:50.934Z
+date: 2025-02-03T08:05:27.656Z
+updated: 2025-02-08T03:26:07.631Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/3bd086f6ddbea0000b61dea6630a396d485fdb4d6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Potential Risks of Generative AI to Spread Disinformation
 
  Generative AI poses many threats to people, like taking away jobs, more surveillance, and cyberattacks. And the[security problems with AI will get even worse](https://www.makeuseof.com/reasons-generative-ai-security-issues-will-worsen/) . But there's another worry: people can use it to spread lies. Deceptive individuals can use generative AI to share fake news through visual, auditory, or textual content.
@@ -38,12 +42,16 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
@@ -57,14 +65,10 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -77,10 +81,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -88,6 +88,10 @@ Here's the fictitious article that ChatGPT came up with:
  Additionally, political adversaries may use deepfake audio and videos to tarnish the reputation of their opponents, manipulating public sentiment with the help of AI. So[AI-generated deepfakes pose numerous threats in the future](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/) . According to a 2023[Reuters report](https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/) , the rise of AI technology could impact America's 2024 elections. The report highlights the accessibility of tools like Midjourney and DALL-E that can easily create fabricated content and influence people's collective opinions.
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
 
@@ -107,10 +111,6 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -133,22 +133,20 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-your-companion-in-choosing-high-grade-hdr-cameras-for-2024/"><u>[New] Your Companion in Choosing High-Grade HDR Cameras for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-boost-engagement-with-smart-video-cropping-and-exporting/"><u>[Updated] In 2024, Boost Engagement with Smart Video Cropping & Exporting</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-leveraging-likes-and-shares-top-30-facebook-marketing-steps/"><u>2024 Approved Leveraging Likes and Shares Top 30 Facebook Marketing Steps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-mental-agility-triumphs-in-premier-escape-venues/"><u>2024 Approved Mental Agility Triumphs in Premier Escape Venues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-your-productivity-in-microsoft-teams-with-ai-copilot-an-in-depth-tutorial/"><u>Boost Your Productivity in Microsoft Teams with AI Copilot: An In-Depth Tutorial</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effortlessly-switch-from-mp3-to-ogg-audio-a-cost-free-method/"><u>Effortlessly Switch From MP3 to OGG Audio - A Cost-Free Method</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-found-overcome-the-hurdle-age-of-empires-iv-startup-issue-resolved/"><u>Fixes Found: Overcome the Hurdle - Age of Empires IV Startup Issue Resolved</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-predictive-ai-anticipate-the-future-exploring-its-inner-workings/"><u>How Does Predictive AI Anticipate the Future? Exploring Its Inner Workings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hdr-advantages-in-video-workflow-over-traditional-sdr/"><u>In 2024, HDR Advantages in Video Workflow Over Traditional SDR</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-windows-support-software-for-logitech-g602-wireless-sound-system/"><u>Installing Windows Support Software for Logitech G602 Wireless Sound System</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/interactive-evolution-6-ways-ai-transforms-video-game-scriptwriting/"><u>Interactive Evolution: 6 Ways AI Transforms Video Game Scriptwriting</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-gemini-by-google-a-worthy-contender-against-microsofts-popular-chatgpt-platform/"><u>Is Gemini by Google a Worthy Contender Against Microsoft's Popular ChatGPT Platform?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-ai-synergy-delving-into-the-complexities-of-aligning-machine-goals/"><u>Mastering AI Synergy: Delving Into the Complexities of Aligning Machine Goals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigate-through-idea-stagnation-with-these-5-ai-assistants/"><u>Navigate Through Idea Stagnation With These 5 AI Assistants</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/nonewsubs-when-will-chatgpt-welcome-again/"><u>NoNewSubs: When Will ChatGPT Welcome Again?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/perfect-your-palate-with-ai-enhanced-gourmet-guidance/"><u>Perfect Your Palate with AI-Enhanced Gourmet Guidance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/prompt-engineering-job-outlook-nine-parameters-that-determine-its-validity-and-opportunities/"><u>Prompt Engineering Job Outlook: Nine Parameters That Determine Its Validity and Opportunities</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-breaking-barriers-in-advertising-animating-for-maximum-roi-on-fb/"><u>[New] 2024 Approved Breaking Barriers in Advertising Animating for Maximum ROI on FB</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-leading-10-decibel-boosters-windows-macos-iphones/"><u>[New] 2024 Approved Leading 10 Decibel Boosters Windows, MacOS, iPhones</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-how-to-innovate-your-tiktok-intro-video-a-mac-perspective/"><u>[New] How to Innovate Your TikTok Intro Video - A Mac Perspective</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-guide-steps-for-safe-registry-backup-and-restoration/"><u>Complete Guide: Steps for Safe Registry Backup & Restoration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-to-setting-up-gaming-steering-wheels-on-personal-computers/"><u>Comprehensive Guide to Setting Up Gaming Steering Wheels on Personal Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-easy-steps-for-a-successful-windows-11-update/"><u>Comprehensive Guide: Easy Steps for a Successful Windows 11 Update</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-for-uninstalling-software-in-windows-10/"><u>Comprehensive Tutorial for Uninstalling Software in Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-updating-gmail-passwords-safely-with-a-code-of-verification/"><u>Comprehensive Tutorial: Updating Gmail Passwords Safely With a Code of Verification</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/computer-boot-but-black-screen-issue-explained-and-fixed/"><u>Computer Boot but Black Screen Issue Explained & Fixed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1723808348485-diablo-iv-quest-for-optimal-fps-and-loot-drop-rates-pc-user-guides-and-fixes/"><u>Diablo IV Quest for Optimal FPS & Loot Drop Rates - PC User Guides & Fixes!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209778071-9781843584667-get-a-fcking-grip/"><u>Get a F*cking Grip | Free Book</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-rx-memory-treasure/"><u>In 2024, RX Memory Treasure</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/soluciones-efectivas-reconstruccion-y-recuperacion-del-sistema-operativo-windows-11-desde-una-imagen-iso-danada/"><u>Soluciones Efectivas: Reconstrucción Y Recuperación Del Sistema Operativo Windows 11 Desde Una Imagen ISO Dañada</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/this-title-emphasizes-immediate-access-and-provides-a-guide-which-is-what-users-may-be-looking-for-it-also-includes-keywords-like-macos-15-sequoia-preview-a75/"><u>This Title Emphasizes Immediate Access and Provides a Guide, Which Is What Users May Be Looking For. It Also Includes Keywords Like macOS 15 Sequoia, Preview, and Free Download to Improve SEO Rankings on Google Search Engine.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-fixing-csr8510-a10-motherboard-drivers-in-windows-easily-resolved/"><u>Troubleshooting and Fixing CSR8510 A10 Motherboard Drivers in Windows Easily [RESOLVED]</u></a></li>
 </ul></div>
 

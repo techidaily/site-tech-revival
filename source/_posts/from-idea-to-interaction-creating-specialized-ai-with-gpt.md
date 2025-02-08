@@ -1,7 +1,7 @@
 ---
 title: "From Idea to Interaction: Creating Specialized AI with GPT"
-date: 2025-01-23T10:56:43.897Z
-updated: 2025-01-25T16:04:45.338Z
+date: 2025-02-04T08:06:33.780Z
+updated: 2025-02-08T08:52:02.712Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Supply ChatGPT With a URL
@@ -51,14 +51,10 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Convert the PDF Into a Text Document
 
@@ -76,14 +72,22 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the**Save As** command to save it as a Word or text document as preferred.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Install and Use an Extension
 
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, at this time, ChatGPT does not include a way to automatically upload PDF files or any files for that matter. Sure, you can copy the text from a PDF or convert it into a text document, but is there a simpler way to go about it? Luckily, there is. One of the easiest ways to get ChatGPT to read PDFs is to just install and use an extension.
@@ -91,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 [ChatGPT File Uploader](https://chrome.google.com/webstore/detail/chatgpt-file-uploader-ext/becfinhbfclcgokjlobojlnldbfillpf/related) is a free-to-install Chrome Extension that allows you to upload any file, including Word documents, Excel spreadsheets, image files, and, of course, PDFs. What makes this an excellent method is just how easy it is to use.
 
  The steps are straightforward—install the ChatGPT File Uploader to your browser, open ChatGPT, and you'll notice a shiny, new**Upload** button next to the message bar at the bottom. From there, all you have to do is hit the button and choose the PDF you want to upload.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## PDFs Don't Have to Hinder Your ChatGPT Usage
 
@@ -117,18 +117,17 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/tep-into-the-spotlight-learning-youtube-vlogger-etiquette-for-2024/"><u>[New] Step Into the Spotlight Learning YouTube Vlogger Etiquette for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-abridged-blueprint-for-starting-virtual-conversations-zoom-edition/"><u>[Updated] Abridged Blueprint for Starting Virtual Conversations Zoom Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-write-a-hit-podcast-script-10plus-examples-revealed/"><u>2024 Approved How to Write a Hit Podcast Script (10+ Examples Revealed)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-unleash-creativity-without-breaking-the-bank-top-9-affordable-editors/"><u>2024 Approved Unleash Creativity Without Breaking the Bank - Top 9 Affordable Editors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/claude-2-explained-unlocking-its-potential-and-applications-for-users/"><u>Claude 2 Explained: Unlocking Its Potential and Applications for Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-implementing-microsoft-copilot-on-a-mac-device/"><u>Comprehensive Guide: Implementing Microsoft Copilot on a Mac Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/content-revolution-7-ways-gpt-transforms-creativity/"><u>Content Revolution: 7 Ways GPT Transforms Creativity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cooking-made-easy-utilizing-chatgpt-for-your-culinary-creations/"><u>Cooking Made Easy: Utilizing ChatGPT for Your Culinary Creations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/corporate-caution-five-key-arguments-against-ai-conversationalists/"><u>Corporate Caution: Five Key Arguments Against AI Conversationalists</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-evaluation-the-how-to-geek-guide-to-thoroughly-assessing-tech-gadgets/"><u>Expert Evaluation: The How-To Geek Guide to Thoroughly Assessing Tech Gadgets</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/orchestrating-overtures-for-optimal-movie-teasers/"><u>Orchestrating Overtures for Optimal Movie Teasers</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/sicheres-outlook-postfach-3-methoden-zum-schutz-ihrer-e-mails/"><u>Sicheres Outlook-Postfach: 3 Methoden Zum Schutz Ihrer E-Mails</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oneplus-12-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your OnePlus 12 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ideal-video-snapper-for-your-chromebook-for-2024/"><u>[New] Ideal Video Snapper For Your Chromebook for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-tips-for-linking-your-youtube-and-tiktok-video-sources-for-2024/"><u>[Updated] Expert Tips for Linking Your YouTube & TikTok Video Sources for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-pushing-boundaries-upward-an-incisive-mavic-pro-review-for-2024/"><u>[Updated] Pushing Boundaries Upward An Incisive Mavic Pro Review for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-troubleshooting-for-chatgpt-not-connecting-to-plugin-service-issues/"><u>Comprehensive Troubleshooting for 'ChatGPT Not Connecting to Plugin Service' Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-wmd-file-format-to-avi-using-movavis-free-tool-for-australian-users/"><u>Convert WMD File Format to AVI Using Movavi's Free Tool for Australian Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-honor-magic5-ultimate-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Honor Magic5 Ultimate Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-your-windows-chat-with-unbounded-gpt/"><u>Free Your Windows Chat with Unbounded GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-novice-to-expert-the-gpt-4-influence-on-diy/"><u>From Novice to Expert: The GPT-4 Influence on DIY</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-motorola-moto-g24-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Motorola Moto G24 Face Lock?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-reliable-is-chatgpt-when-proofreading-written-content/"><u>How Reliable Is ChatGPT When Proofreading Written Content?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-smart-picklist-top-value-free-livestream-software-and-apps-reviewed-this-year/"><u>In 2024, Smart Picklist Top Value Free Livestream Software & Apps Reviewed This Year</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-ai-driven-search-technologies-for-quick-and-smart-web-browsing-experience/"><u>Leading AI-Driven Search Technologies for Quick and Smart Web Browsing Experience</u></a></li>
 </ul></div>
 

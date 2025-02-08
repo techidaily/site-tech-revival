@@ -1,7 +1,7 @@
 ---
 title: "Crafting Imaginary Realms: A Guide to Using ChatGPT for Worldbuilding Adventures"
-date: 2025-01-20T02:24:06.835Z
-updated: 2025-01-26T06:05:10.339Z
+date: 2025-02-02T20:33:48.806Z
+updated: 2025-02-07T18:33:53.597Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/5bcf8cebc4ec75a2f2c5443679e92acacca4bb84e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is HuggingChat?
 
@@ -46,15 +50,15 @@ thumbnail: https://thmb.techidaily.com/5bcf8cebc4ec75a2f2c5443679e92acacca4bb84e
 
 ![Screenshot of HuggingChat confirming an account is required](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-confirming-an-account-is-required.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, we used it with an account and without any problems. If this changes, or you'd prefer to set up an account, it is free, and you can sign up on[HuggingFace](https://huggingface.co/join) .
 
  The tools have remarkably similar interfaces, as the bulk of these tools do. Simplicity is the key to AI chatbots, and both tools have a simple input box to allow you to enter prompts, which is about it. However, learning[prompting techniques can help improve response quality](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) .
 
  Next, we will look at other metrics and capabilities and compare the responses.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Large Language Models (LLMs)
 
@@ -74,7 +78,7 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 ![Screenshot of ChatGPT answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-answering-baseball-question.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Summarizing Articles
@@ -85,13 +89,13 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
 ![Screenshot of ChatGPt summary with URL of article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summary-with-url-of-article.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The HuggingChat response wasn't bad but lacked some of the detail covered by ChatGPT.
 
 ![Screenshot of HuggingChat summarzing MUO article-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarzing-muo-article-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To test this ability further, we asked a similar question without entering the URL and using an article that was only published (it was "[What Are IPFS Phishing Attacks](https://www.makeuseof.com/what-are-ipfs-phishing-attacks-and-how-to-avoid-them) ," for reference). Again, both tools managed this admirably, as the images demonstrate.
 
@@ -99,15 +103,15 @@ This was ChatGPT's effort:
 
 ![Screenshot of ChatGPT referencing an article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-referencing-an-article-without-a-url.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 HuggingChat's summary looked like this:
 
 ![Screenshot of HuggingChat summarizing article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarizing-article-without-a-url.jpg)
 
  There isn't much difference between the two tools here, so let's see how they compare when we test them for creativity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## HuggingChat vs. ChatGPT: How Do They Compare Creatively?
 
@@ -119,16 +123,12 @@ HuggingChat's summary looked like this:
 
 ![Screenshot of ChatGPT lovesong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-lovesong.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 And this was HuggingChat's.
 
 ![Screenshot HuggingChat love song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-huggingchat-love-song.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shakespeare himself would be impressed with both of these!
@@ -180,22 +180,20 @@ Shakespeare himself would be impressed with both of these!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-shortcut-to-engagement-analyzing-facebooks-video-trends/"><u>[New] 2024 Approved Shortcut to Engagement Analyzing Facebook's Video Trends</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-influencing-instagram-step-by-step-tutorial/"><u>[New] In 2024, Influencing Instagram Step-by-Step Tutorial</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-how-to-download-youtube-playlist-step-by-step-in-2024/"><u>[Updated] How to Download YouTube Playlist-Step by Step, In 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-your-complete-macootd-filmmaking-handbook/"><u>[Updated] In 2024, Your Complete MacOOTD Filmmaking Handbook</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nstant-subscription-lead-to-higher-watch-time/"><u>Can Instant Subscription Lead to Higher Watch Time?</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comprehensive-guide-to-mastering-free-msi-packaging-courses-advanced-strategies-and-methods/"><u>Comprehensive Guide to Mastering Free MSI Packaging Courses: Advanced Strategies and Methods</u></a></li>
-<li><a href="https://win-net.techidaily.com/guia-completa-para-recuperar-informacion-perdida-en-tu-iphone-metodos-y-soluciones-de-2023/"><u>Guía Completa Para Recuperar Información Perdida en Tu iPhone: Métodos Y Soluciones De 2023</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-8-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 8 Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-from-fast-life-to-leisrances-iphone-slow-motion-tips/"><u>In 2024, From Fast Life to Leisrances IPhone Slow Motion Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-success-6-strategies-for-excelling-amidst-artificial-intelligence-revolution/"><u>Navigating Success: 6 Strategies for Excelling Amidst Artificial Intelligence Revolution</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-chatgpts-default-add-ons-insights-into-their-roles-and-applications/"><u>Navigating Through ChatGPT's Default Add-Ons: Insights Into Their Roles and Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-wellness-queries-here-are-7-good-points-to-choose-chatgpt-as-your-ai-doctor/"><u>Navigating Wellness Queries? Here Are 7 Good Points to Choose ChatGPT as Your AI Doctor</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/no-deterioration-in-chatgpt-ai-says-openai/"><u>No Deterioration in ChatGPT AI, Says OpenAI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/perfecting-your-craft-the-role-of-chatgpt-in-freelance-writing-success/"><u>Perfecting Your Craft: The Role of ChatGPT in Freelance Writing Success</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pioneering-artistic-journey-via-microsofts-innovative-imagery-toolkit/"><u>Pioneering Artistic Journey via Microsoft’s Innovative Imagery Toolkit</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/questioning-authority-has-openai-relinquished-supervision-over-chatgpt/"><u>Questioning Authority: Has OpenAI Relinquished Supervision Over ChatGPT?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolving-chatgpt-is-currently-overloaded-on-your-windows-pc/"><u>Resolving 'ChatGPT Is Currently Overloaded' On Your Windows PC</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-trim-and-cut-vimeo-videos-online-5-ways-for-2024/"><u>[New] How to Trim and Cut Vimeo Videos Online [5 Ways] for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-ideas-into-impactful-podcast-content-writing-tips-and-samples/"><u>[New] Transform Your Ideas Into Impactful Podcast Content Writing Tips & Samples</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-mastering-instagram-reels-adding-your-own-soundtrack/"><u>[Updated] In 2024, Mastering Instagram Reels Adding Your Own Soundtrack</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-steer-clear-of-targeted-commercial-content-in-browsing-for-2024/"><u>[Updated] Steer Clear of Targeted Commercial Content in Browsing for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-full-guide-to-instagrams-per-video-limit/"><u>[Updated] The Full Guide to Instagram's Per-Video Limit</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-creativity-vs-plagiarism-concerns/"><u>ChatGPT's Creativity Vs. Plagiarism Concerns</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-download-of-updated-drivers-for-hp-laserjet-amoindprinters-1320-series-on-windows-devices/"><u>Easy Download of Updated Drivers for HP LaserJet amoindPrinters, 1320 Series on Windows Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-writing-via-hix-and-gpt-4/"><u>Effortless Writing via HIX & GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/find-your-new-favorite-book-discover-these-best-ai-enhanced-literary-recommenders/"><u>Find Your New Favorite Book - Discover These Best AI-Enhanced Literary Recommenders</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-11-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 11 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-unlock-free-content-with-these-top-7-tools-for-instagram-video-editing/"><u>In 2024, Unlock Free Content with These Top 7 Tools for Instagram Video Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/installing-auto-gpt-made-easy-follow-these-simple-steps-for-a-smooth-process/"><u>Installing Auto-GPT Made Easy: Follow These Simple Steps for a Smooth Process</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-major-update-alert-filmora-x-now-optimized-for-arm-processors/"><u>New 2024 Approved Major Update Alert Filmora X Now Optimized for ARM Processors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tapping-into-time-potential-with-chatgpts-top-4-methods/"><u>Tapping Into Time Potential with ChatGPT's Top 4 Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-new-levels-of-autonomy-with-these-groovy-tips-using-chatgpt-for-work-from-home-success/"><u>Unlock New Levels of Autonomy with These Groovy Tips Using ChatGPT for Work-From-Home Success</u></a></li>
 </ul></div>
 

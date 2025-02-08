@@ -1,7 +1,7 @@
 ---
 title: Creating Compelling D&D Characters with AI Tools - ChatGPT and DALL-E Strategies
-date: 2025-01-22T15:13:03.340Z
-updated: 2025-01-26T12:33:09.093Z
+date: 2025-02-02T19:19:24.836Z
+updated: 2025-02-07T17:24:01.166Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
  The only issue is that they don't do what OpenAI advertises, and it's a mixed bag as to whether you'll get the edits you want. But still, it's a start of what's to come for DALL-E 3 editing, and this is how they work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are DALL-E 3's Editing Tools?
 
  They've been a while coming, but OpenAI has finally added editing functionality to DALL-E 3 in ChatGPT Plus. Prior to this, you could attempt to make edits to your DALL-E 3 creations, but it would typically always result in a completely fresh image being generated. Even if the prompts used to create the edited image were extremely similar to the first prompt, due to the very nature of generative AI, the output could be significantly different.
@@ -52,16 +56,12 @@ However, it's a mixed bag.
 
  That's not to say the editing tools don't work. They can absolutely remove features and make small changes, as detailed below, but it's all on a small scale.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use DALL-E 3's Editing Tool
 
  The best way to show you what DALL-E 3's editing tool can do is with some proper examples.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Removing and Erasing
@@ -77,7 +77,7 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Adding and Changing
@@ -88,13 +88,13 @@ Close
 
 ![dalle 3 editing tools close up human eye](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Pretty decent, if a little odd (eyelash reflections?!), but I wanted to switch the iris color to blue-green instead, resulting in this image:
 
 ![dalle 3 editing tools close up human eye changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye-changed-colour.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The color is slightly dull but unchanged, and some features are warped slightly.
 
@@ -108,6 +108,10 @@ Close
 
  Instead of swapping the yeti for a different animal, it's just completely gone. Instead, I returned to the original image and asked it to add another yeti, which it failed to do. It similarly failed when asked to add more trees to the image.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Adding Text
 
  There isn't much to cover here. As said, generative AI generally struggles with text anyway, and adding text to an image is even more difficult. I prompted DALL-E to create a postcard from a British seaside, which it did, capturing the scene nicely. I then wanted to add the words "Sunny Beach" to the image, which it just couldn't handle. That is, until after around six or seven back-and-forth prompts reminding DALL-E what it needed to do, it created a whole new image with the required text. And accurate text, too; I'm not sure about the baby face in the sunshine, mind.
@@ -117,10 +121,6 @@ Close
  Next up, I went for a birthday card. This time around, DALL-E added "Happy Birthday" without being prompted, which is fine, given the theme. So, I asked it to add the date of the birthday on the card. Again, it failed to add the date to the card, but after a few rounds of prompting, it created a new image featuring the requested date. In this case, adding the date myself would have been easier, especially if I wanted to keep the original image.
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)
 
@@ -143,22 +143,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-restoring-your-broadcast-essential-steps-for-uninterrupted-fb-live/"><u>[New] 2024 Approved Restoring Your Broadcast Essential Steps for Uninterrupted FB Live</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-regain-access-to-confidential-snapshots-for-2024/"><u>[New] Regain Access to Confidential Snapshots for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-select-top-6-slideshow-creation-software-for-x-models-for-2024/"><u>[New] Select Top 6 Slideshow Creation Software for X Models for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-tech-tutorial-exporting-and-storing-your-snaps-safely-for-2024/"><u>[New] Tech Tutorial Exporting and Storing Your Snaps Safely for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-adventure-videography-supplies-for-travelers/"><u>[Updated] In 2024, Adventure Videography Supplies for Travelers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unmatched-closure-in-cyberspace-quest/"><u>[Updated] Unmatched Closure in Cyberspace Quest</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-chatgpt-response-quality-with-these-7-methods/"><u>Boosting ChatGPT Response Quality with These 7 Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-generative-artificial-intelligence-be-used-as-a-weapon-in-the-war-on-truth/"><u>Can Generative Artificial Intelligence Be Used as a Weapon in the War on Truth?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-you-talk-to-ai-discover-your-ability-to-communicate-with-chatgpt/"><u>Can You Talk To AI? Discover Your Ability to Communicate with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-and-home-automation-control-fact-or-fiction/"><u>ChatGPT and Home Automation Control: Fact or Fiction?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-frauds-exposed-the-top-5-scams-to-recognize-and-dodge/"><u>ChatGPT Frauds Exposed: The Top 5 Scams to Recognize and Dodge</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-credibility-truthful-or-deceptive/"><u>ChatGPT's Credibility: Truthful or Deceptive?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/concealing-your-digital-chatter-with-gpt/"><u>Concealing Your Digital Chatter with GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creative-collaboration-ai-brainstorming-with-mindmaps/"><u>Creative Collaboration: AI, Brainstorming with Mindmaps</u></a></li>
-<li><a href="https://win-community.techidaily.com/discover-the-power-of-ai-in-microsofts-new-paste-tool-masterful-techniques-revealed-zdnet/"><u>Discover the Power of AI in Microsoft's New Paste Tool - Masterful Techniques Revealed | ZDNet</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/engage-enrich-and-excel-while-listening-to-your-favorite-podcasts-for-2024/"><u>Engage, Enrich & Excel While Listening to Your Favorite Podcasts for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-aa-personalitynationalitycounty-lgbtqv-25-for-yout-database-thatdeeds-30-mildly-happy-to-find-the-gender/"><u>The A/A Personality_nationalityCounty LGBTQv 25% for Yout Database That'deed''s] ==#30 Mildly Happy-To Find the Gender</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-discover-phones-that-take-your-gear-vr-adventure-to-the-next-level/"><u>[New] 2024 Approved Discover Phones That Take Your Gear VR Adventure to the Next Level</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-streamlined-steps-for-saving-webcam-dialogues/"><u>[New] 2024 Approved Streamlined Steps for Saving Webcam Dialogues</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-battle-of-accessible-viewerships-google-vs-samsung-headsets/"><u>[New] 2024 Approved The Battle of Accessible Viewerships Google Vs. Samsung Headsets</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-srgb-standardization-the-next-step-beyond-traditional-rgb/"><u>[New] Srgb Standardization The Next Step Beyond Traditional Rgb</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-a-look-inside-vidmas-screen-recording-mechanics/"><u>2024 Approved A Look Inside Vidma's Screen Recording Mechanics</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/5yig5y2a6yen6ksh77ya57kplus5bplusd6kit6kii55qe5pwz6iky5pa55rov5yplusk5yw25a6m5ywo5pio55m955qe6kej6yel/"><u>分區重複：精心設計的教育方法及其完全明白的解釋</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-communication-restrictions-unveiling-the-effects-on-personal-experience/"><u>AI Communication Restrictions: Unveiling the Effects on Personal Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-innovation-examining-the-search-and-output-processes/"><u>AI Innovation: Examining the Search and Output Processes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beware-top-9-phony-chatgpt-virus-tools-that-could-compromise-your-privacy/"><u>Beware: Top 9 Phony ChatGPT Virus Tools That Could Compromise Your Privacy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-artifice-in-ai-text-generation/"><u>Decoding the Artifice in AI Text Generation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-primary-causes-for-companies-ban-on-chatgpt-platforms/"><u>Exploring the Primary Causes for Companies' Ban on ChatGPT Platforms</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-remove-tiktok-watermarks-in-seconds-best-online-methods-for-2024/"><u>New Remove TikTok Watermarks in Seconds Best Online Methods for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/skyping-smarts-my-ai-versus-bings-chatbot/"><u>Skyping Smarts: My AI Versus Bing's Chatbot</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-chatgpt-in-different-languages-your-ultimate-resource/"><u>Unlocking the Power of ChatGPT in Different Languages – Your Ultimate Resource</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-pause-resolved-after-nvidia-complaint/"><u>Windows Pause Resolved After Nvidia Complaint</u></a></li>
 </ul></div>
 

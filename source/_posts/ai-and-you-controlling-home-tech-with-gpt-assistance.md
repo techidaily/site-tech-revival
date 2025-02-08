@@ -1,7 +1,7 @@
 ---
 title: "AI and You: Controlling Home Tech with GPT Assistance"
-date: 2025-01-24T08:03:42.287Z
-updated: 2025-01-26T04:33:05.797Z
+date: 2025-02-07T09:04:03.400Z
+updated: 2025-02-07T17:35:26.615Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 1: Download Python and AutoGPT
 
  Despite what you may have read elsewhere, installing Auto-GPT is pretty straightforward.
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 
 ![A tab showing a tab to install Python ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-install-python.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After Installing Python, you can download Auto-GPT from GitHub.
 
 **Download** :[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT/releases/tag/v0.4.7) (Free)
@@ -49,7 +49,7 @@ After Installing Python, you can download Auto-GPT from GitHub.
 **Source code.zip** is for Windows, while**Source code.tar.gz** is for Linux and MacOS. First, download the file for your operating system, then copy the folder and paste it into your desired location.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 2: Configure Auto-GPT
@@ -64,11 +64,15 @@ After Installing Python, you can download Auto-GPT from GitHub.
 3. Now you have your API key, go to your Auto-GPT folder and open the**.env** file using Notepad.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
 4. Once opened, scroll down to the**LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
 
@@ -89,10 +93,6 @@ python -m autogpt
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
 
 Congratulations! You have successfully Installed Auto-GPT.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Auto-GPT
 
@@ -133,7 +133,7 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 ![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
@@ -142,15 +142,15 @@ After making the recipe, our AI has now completed its task.
 
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To view the output, go to your Auto-GPT folder and**open auto-gpt-workspace** .
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Auto-GPT Limitations
 
@@ -185,24 +185,19 @@ After making the recipe, our AI has now completed its task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-how-to-earn-facebooks-trusted-prestigious-symbol/"><u>[New] How to Earn Facebook's Trusted, Prestigious Symbol</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-high-performance-mac-editors-ranked-1-to-5/"><u>[Updated] In 2024, High-Performance Mac Editors - Ranked #1 to #5</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/e-impact-with-intro-excellence-best-free-services-reviewed-for-2024/"><u>Create Impact with Intro Excellence Best Free Services Reviewed for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-your-next-great-read-with-these-5-cutting-edge-ai-recommender-systems/"><u>Explore Your Next Great Read with These 5 Cutting-Edge AI Recommender Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-dilemma-how-do-we-ensure-ai-adheres-to-our-ethical-standards/"><u>Exploring the Dilemma: How Do We Ensure AI Adheres to Our Ethical Standards?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generative-ai-and-its-impact-on-search-technology-an-overview-with-industry-examples/"><u>Generative AI and Its Impact on Search Technology: An Overview with Industry Examples</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-artifice-intelligence-enhances-learning-unveiling-8-key-benefits-for-teachers/"><u>How Artifice Intelligence Enhances Learning: Unveiling 8 Key Benefits for Teachers</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-craftsmanship-at-fingertips-discovering-apples-8-excellent-drawing-apps/"><u>In 2024, Craftsmanship at Fingertips Discovering Apple's 8 Excellent Drawing Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-depth-guide-to-capturing-and-enhancing-ps4-gaming/"><u>In-Depth Guide to Capturing and Enhancing PS4 Gaming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-depth-look-every-detail-of-apples-ai-breakthrough-at-wwdc-24-uncovered/"><u>In-Depth Look: Every Detail of Apple's AI Breakthrough at WWDC 24 Uncovered</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-the-deal-microsofts-strategic-purchase-of-blizzard-unpacking-ai-creativity-and-language-tech-podcast/"><u>Inside the Deal: Microsoft's Strategic Purchase of Blizzard - Unpacking AI Creativity & Language Tech [Podcast]</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/insight-into-auto-gpt-comparative-analysis-with-conversation-ai/"><u>Insight Into Auto-GPT: Comparative Analysis with Conversation AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/intelligent-systems-academic-research-revolution/"><u>Intelligent Systems: Academic Research Revolution</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/italys-swift-ban-on-chatgpt-whats-the-reason/"><u>Italy's Swift Ban on ChatGPT: What's the Reason?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722964983720-step-by-step-installation-of-logitech-racing-wheel-software-for-windows-7-8-and-10-secure-and-reliable-download-options/"><u>Step-by-Step Installation of Logitech Racing Wheel Software for Windows 7, 8 & 10 - Secure and Reliable Download Options!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-gadget-reviews-and-performance-analysis/"><u>Tom's Tech Insights: Expert Gadget Reviews and Performance Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-how-to-fix-windows-11-usb-detection-issues/"><u>Troubleshooting: How to Fix Windows 11 USB Detection Issues</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-one-stop-solution-mastering-gif-downloads-across-all-devices-and-systems/"><u>[New] One-Stop Solution Mastering GIF Downloads Across All Devices & Systems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-master-money-making-on-reddit-in-just-a-few-simple-steps/"><u>[Updated] Master Money-Making on Reddit in Just a Few Simple Steps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-the-pathway-to-monetizing-your-instagram-content/"><u>[Updated] Unveiling the Pathway to Monetizing Your Instagram Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/a-comprehensive-tutorial-on-activating-and-deactivating-the-xbox-game-bar-in-windows-10-systems/"><u>A Comprehensive Tutorial on Activating and Deactivating the Xbox Game Bar in Windows 10 Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-setup-for-seamless-use-of-a-wireless-printer-at-homeoffice/"><u>Quick Setup for Seamless Use of a Wireless Printer at Home/Office</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-printer-issues-in-windows-11-a-quick-guide/"><u>Resolve Printer Issues in Windows 11: A Quick Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-clearing-frozen-application-alerts/"><u>Solutions for Clearing Frozen Application Alerts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solve-surface-pro-wi-fi-connectivity-problems-with-these-tips/"><u>Solve Surface Pro Wi-Fi Connectivity Problems with These Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-repair-headphones-connectivity-issues-in-windows-11/"><u>Step-by-Step Guide to Repair Headphones Connectivity Issues in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-solution-for-required-dvdcd-driver-not-found-mistake-on-your-pc/"><u>Step-by-Step Solution for 'Required DVD/CD Driver Not Found' Mistake on Your PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-screenshotting-in-windows-10-for-beginners/"><u>The Ultimate Guide to Screenshotting in Windows 10 for Beginners</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-essential-steps-after-setting-up-your-brand-new-pc/"><u>Top 5 Essential Steps After Setting Up Your Brand-New PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-and-fixing-pc-issues-on-windows-11/"><u>Troubleshooting and Fixing PC Issues on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unblocking-windows-update-error-0x80070005-the-ultimate-guide-to-fix-access-issues/"><u>Unblocking Windows Update Error 0X80070005 – The Ultimate Guide to Fix Access Issues</u></a></li>
 </ul></div>
 

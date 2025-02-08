@@ -1,7 +1,7 @@
 ---
 title: New AI Boss Challenges GPT Outlook
-date: 2025-01-22T19:16:09.425Z
-updated: 2025-01-25T16:14:13.695Z
+date: 2025-02-03T00:58:21.211Z
+updated: 2025-02-07T18:09:32.037Z
 tags:
   - chatgpt
   - open-ai
@@ -20,16 +20,16 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is Google's Gemini AI Model?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#what-is-google-39-s-gemini-ai-model)
 * [How to Use Google Gemini AI](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#how-to-use-google-gemini-ai)
 * [How Gemini Compares to GPT-3.5 and GPT-4](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#how-gemini-compares-to-gpt-3-5-and-gpt-4)
 * [Is Gemini Better than ChatGPT?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#is-gemini-better-than-chatgpt)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
  When Google launched Bard in March 2023, there were many reasons to be excited. Finally, OpenAI's ChatGPT monopoly would be broken, and we'd get worthy competition.
 
  But Bard was never the AI titan people hoped for, and GPT-4 remains the dominant generative AI chat bot platform. Now, Google's Gemini is here—but is the long-awaited AI model better than ChatGPT?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is Google's Gemini AI Model?
 
@@ -71,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
  When any new AI model is launched, it is tested against OpenAI's GPT AI models, which are generally accepted as the state-of-the-art model other models should be held up against. So, using Bard and ChatGPT, we tested Gemini's ability in math, creative writing, code generation, and accurately processing image inputs.
@@ -81,13 +81,13 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
 
@@ -109,19 +109,19 @@ Here's the source screenshot.
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Gemini Better than ChatGPT?
 
@@ -144,16 +144,20 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-video-expertise-elevated-streamline-your-edits-with-these-vimeo-shortening-techniques-for-2024/"><u>[New] Video Expertise Elevated Streamline Your Edits with These Vimeo Shortening Techniques for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-steps-for-chromakey-magic-for-2024/"><u>[Updated] Essential Steps for Chromakey Magic for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-openais-powerful-api-unlocking-limitless-possibilities/"><u>Exploring OpenAI's Powerful API: Unlocking Limitless Possibilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-advantages-how-gemini-15-leverages-a-million-tokens-for-enhanced-ai-insight/"><u>Exploring the Advantages: How Gemini 1.5 Leverages a Million Tokens for Enhanced AI Insight</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-authenticity-of-truthgpt-cryptocurrency/"><u>Exploring the Authenticity of TruthGPT Cryptocurrency</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-features-a-comprehensive-guide-to-understanding-claude-pro-vs-chatgpt-plus/"><u>Exploring the Features: A Comprehensive Guide to Understanding CLAUDE PRO vs ChatGPT Plus</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/five-ways-ai-streamlines-crypto-trading-strategies/"><u>Five Ways AI Streamlines Crypto Trading Strategies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/huge-black-friday-sale-up-to-250-off-on-the-versatile-dell-inspiron-16/"><u>Huge Black Friday Sale: Up to $250 Off on the Versatile Dell Inspiron 16</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-beginners-guide-to-crafting-trendy-mac-video-content/"><u>In 2024, Beginner's Guide to Crafting Trendy Mac Video Content</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-infinix-zero-5g-2023-turbo-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Infinix Zero 5G 2023 Turbo Phones with/without a PC</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-from-animated-art-to-fun-factors-transforming-gifs-into-stickers-anywhere/"><u>[New] In 2024, From Animated Art to Fun Factors Transforming GIFs Into Stickers Anywhere</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-strengthening-video-impact-with-professional-audio-cues/"><u>[New] Strengthening Video Impact with Professional Audio Cues</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-from-novice-to-pro-a-comprehensive-reference-on-using-zds-video-capturing-features-for-2024/"><u>[Updated] From Novice to Pro A Comprehensive Reference on Using ZD's Video Capturing Features for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-10-gimbals-elevating-dsrl-cinematic-results-for-2024/"><u>[Updated] Top 10 Gimbals Elevating DSRL Cinematic Results for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/automating-your-design-workflow-a-step-by-step-strategy-with-canva-and-chatgpt/"><u>Automating Your Design Workflow: A Step-by-Step Strategy with Canva and ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bargain-alert-get-your-new-phone-at-half-price-and-learn-how-to-fight-ransomware-hacks-today/"><u>Bargain Alert! Get Your New Phone at Half-Price & Learn How to Fight Ransomware Hacks Today</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/iently-broadcasting-your-videos-as-shorts-via-computers-and-mobile-for-2024/"><u>Efficiently Broadcasting Your Videos as Shorts via Computers & Mobile for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ffmpegs-audio-recapture-challenge/"><u>FFmpeg's Audio Recapture Challenge</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-comprehensive-guide-on-resolving-windows-camera-error-0xa00f4292/"><u>Fixing the Issue: Comprehensive Guide on Resolving Windows Camera Error 0xA00F4292</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-effortless-snaptweet-videos-from-twitter/"><u>In 2024, Effortless SnapTweet Videos From Twitter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-troubleshooting-steps-for-gpt-streaming-errors/"><u>Quick Troubleshooting Steps for GPT Streaming Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-unpredictable-consequences-of-unquestioned-ai/"><u>The Unpredictable Consequences of Unquestioned AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-conversational-ai-for-android-tips-to-implement-chatgpt-widget/"><u>Unlocking Conversational AI for Android: Tips to Implement ChatGPT Widget</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-secrets-behind-gpt-4-alls-operating-system/"><u>Unveiling The Secrets Behind GPT-4 All's Operating System</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-video-editing-on-a-shoestring-top-software-for-2024/"><u>Updated Video Editing on a Shoestring Top Software for 2024</u></a></li>
 </ul></div>
 

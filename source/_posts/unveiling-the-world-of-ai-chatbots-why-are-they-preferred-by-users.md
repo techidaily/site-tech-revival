@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the World of AI Chatbots: Why Are They Preferred by Users?"
-date: 2025-01-19T06:15:35.703Z
-updated: 2025-01-26T13:22:12.321Z
+date: 2025-02-03T20:40:59.583Z
+updated: 2025-02-08T03:55:06.418Z
 tags:
   - chatgpt
   - open-ai
@@ -40,23 +40,19 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
 
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The first notable difference is the approach taken in quantifying CO2 levels. Rather than list CO2 levels in terms of ppm, Bing Chat presented the data in terms of percentages.
 
  The length and tone of the responses also differed. The Bing Chat response was shorter and more restrained, not offering opinions on the problem or potential solutions.
 
  Bard produced a longer answer that also discussed the problem and the need to take urgent action. This was outside the focus of the question, but it confirms just how quickly the tone and direction of any research can be swayed depending on the tool you use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Response Accuracy
 
@@ -70,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 ![Screenshot Bard CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
 ## Bing Chat vs. Google Bard: Ease of Use
@@ -82,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
@@ -90,11 +94,11 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
- As both platforms are going through rapid development, the user experience will continue to improve.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ As both platforms are going through rapid development, the user experience will continue to improve.
 
 ## What Are the Differences Between the Language Models?
 
@@ -110,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is a case of choosing the right tool for the right job. When we compare the performance of both platforms, Bing Chat seems to edge it. However, there are some provisos to consider. The first is that the Microsoft offering is a more complete product, while Bard is still rough around the edges.
 
  But don't rule Bard out. We liked the more fact-driven approach that Google Bard took; the inclusion of ppm levels of CO2 was closer to the spirit of the original question than the Bing response. This is what we would expect to see, given its underlying architecture.
@@ -127,7 +127,7 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Era of the Chatbot Is Upon Us
@@ -153,20 +153,18 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-perfect-panning-top-techniques-for-livestreaming-cricket-games/"><u>[New] Perfect Panning Top Techniques for Livestreaming Cricket Games</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-video-recording-and-editing-with-adobe-connect/"><u>[Updated] Mastering Video Recording & Editing with Adobe Connect</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-virtual-questland-the-ultimate-guide-to-no-cost-mmorpgs-for-2024/"><u>[Updated] Virtual Questland The Ultimate Guide to No-Cost MMORPGs for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-guide-to-49-amazing-christmas-savings-at-newegg-zdnet-insights/"><u>Discover the Ultimate Guide to 49 Amazing Christmas Savings at Newegg | ZDNet Insights</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/essential-strategies-for-effective-content-management-in-creator-studio-for-2024/"><u>Essential Strategies for Effective Content Management in Creator Studio for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your iPhone 13 Pro Max</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mental-healing-on-the-rise-with-top-5-bot-counselors/"><u>Mental Healing on the Rise with Top 5 Bot Counselors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigate-the-future-of-cryptos-best-chatbot-tools-featuring-chatgpt-for-traders/"><u>Navigate the Future of Cryptos: Best Chatbot Tools Featuring ChatGPT for Traders</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-hugging-face-clarifying-its-essence-and-practical-uses/"><u>Navigating Through Hugging Face - Clarifying Its Essence & Practical Uses</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/no-phone-number-necessary-step-by-step-guide-to-signing-up-on-chatgpt-telegram-and-more/"><u>No-Phone-Number Necessary: Step-by-Step Guide to Signing Up on ChatGPT, Telegram & More</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/poetic-creation-simplified-unleash-your-inner-bard-with-chatgpt/"><u>Poetic Creation Simplified: Unleash Your Inner Bard with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/probing-into-the-rights-behind-machine-made-masterpieces/"><u>Probing Into the Rights Behind Machine-Made Masterpieces</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protecting-your-data-from-the-top-9-fake-ai-assistant-viruses-and-malware-programs/"><u>Protecting Your Data From the Top 9 Fake AI Assistant Viruses and Malware Programs</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/wiederherstellen-von-whatsapp-auf-ios-mit-icloud-schritt-fur-schritt-anleitung/"><u>Wiederherstellen Von WhatsApp Auf iOS Mit iCloud - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-most-popular-free-photography-and-film-archives-for-2024/"><u>[Updated] Most Popular Free Photography and Film Archives for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-ai-assistants-chatgpt-vs-gemini-in-coding-capabilities/"><u>Comparing AI Assistants: ChatGPT Vs. Gemini in Coding Capabilities</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/cutting-through-steps-posting-tiktok-videos-on-twitter/"><u>Cutting Through Steps Posting TikTok Videos on Twitter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-advice-implementing-and-setting-up-llama-2-locally/"><u>Expert Advice: Implementing and Setting up Llama 2 Locally</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-termination-immersive-reality/"><u>Ideal Termination Immersive Reality</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-elite-metaverse-visor-choices-the-top-8-list/"><u>In 2024, Elite Metaverse Visor Choices The Top 8 List</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-a-local-llm-right-for-you-pros-and-cons-explored/"><u>Is a Local LLM Right for You? Pros and Cons Explored</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c02-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C02 Phone FRP Lock</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ame-plan-for-thriving-as-a-livestreamer-on-youtube-for-2024/"><u>The Game Plan for Thriving as a Livestreamer on YouTube for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitters-visuals-on-the-social-media-giant-fb-for-2024/"><u>Twitters' Visuals on the Social Media Giant FB for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-parents-handbook-understanding-chatgpt-and-the-world-of-generative-ai/"><u>Ultimate Parent's Handbook: Understanding ChatGPT & the World of Generative AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-your-creativity-chatgpt-as-a-tool-for-constructing-fictional-worlds/"><u>Unleash Your Creativity: ChatGPT as a Tool for Constructing Fictional Worlds</u></a></li>
 </ul></div>
 

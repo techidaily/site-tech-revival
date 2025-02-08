@@ -1,7 +1,7 @@
 ---
 title: How Secure Are Your Talks with ChatGPT – Unpacking Privacy Risks
-date: 2025-01-22T03:19:21.907Z
-updated: 2025-01-26T05:31:33.060Z
+date: 2025-02-03T18:42:51.879Z
+updated: 2025-02-08T05:08:42.346Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Does ChatGPT Gather Data?
 
  If you've ever interacted with other chatbots, you know that none of them can really compare to ChatGPT, which is actually capable of generating human-like responses. But why is ChatGPT so much better than other similar software?
@@ -40,13 +36,13 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
  Ethical considerations aside, there are serious concerns that Open AI is violating the General Data Protection Regulation (GDPR), and other similar privacy laws. Due to these concerns,[Italy officially banned ChatGPT](https://www.makeuseof.com/why-has-italy-banned-chatgpt/) in March 2023, with the country's data protection authority accusing Open AI of violating user privacy with its data collection practices in more than one way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT's Privacy Policy: What You Need to Know
 
 ![ChatGPT logo on dark purple background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-policy.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  How much data does OpenAI collect from ChatGPT users directly, and how? The service's[privacy policy](https://openai.com/policies/privacy-policy) offers some answers.
 
@@ -59,12 +55,16 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
  But what about the conversations you have with the chatbot? How much of that information is stored, and how is it used? In the[FAQ](https://help.openai.com/en/articles/6783457-what-is-chatgpt) section, OpenAI explicitly states that it "reviews" conversations users have with ChatGPT, and that these conversations may be used for training. As for the prompts you submit to the bot, they cannot be deleted, according to OpenAI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Protect Your Privacy When Using ChatGPT: 3 Key Tips
 
  Clearly, ChatGPT is not privacy-friendly—far from it. But few apps are these days, and there isn't much we can do about it. What you can do, however, is use ChatGPT responsibly. Here are three things you can do to protect your privacy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Register With a Private Email
 
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
  This is very important. You should be particularly careful what you share with ChatGPT, since there's a strong possibility all of it is being recorded and fed into the system. In fact, it might even be reviewed manually by a human being at some point. Assume that whatever you put into ChatGPT is in the public domain, and act accordingly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Delete Your Information
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
  Under GDPR, you have the right to be forgotten (also called the right of erasure, or the right to deletion). Californians have the same right, due to the[California Consumer Privacy Act (CCPA)](https://www.makeuseof.com/what-is-the-california-consumer-privacy-act/) . So, at least in theory, if you are in Europe or the state of California, you should be able to delete your personal information from OpenAI's servers. You can delete your OpenAI account entirely if you are based somewhere else, but it's unclear if the company would get rid of your data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is It Time to Regulate ChatGPT?
@@ -111,16 +111,22 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-decoding-the-legal-labyrinth-of-sharing-music-on-instagram/"><u>[Updated] 2024 Approved Decoding the Legal Labyrinth of Sharing Music on Instagram</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-essentials-of-transferring-youtube-media-to-social-networks/"><u>[Updated] 2024 Approved The Essentials of Transferring YouTube Media to Social Networks</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/configuring-family-safety-features-with-windows-control-panel-a-step-by-step-guide-from-yl-software/"><u>Configuring Family Safety Features with Windows' Control Panel: A Step-by-Step Guide From YL Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-beats-in-the-balance-adding-music-to-whatsapp/"><u>In 2024, Beats in the Balance Adding Music to WhatsApp</u></a></li>
-<li><a href="https://article-tips.techidaily.com/platform-prowess-at-play-twitch-vs-youtube-clash-for-2024/"><u>Platform Prowess at Play Twitch vs YouTube Clash for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-educators-compendium-of-video-assisted-methods/"><u>The Educator's Compendium of Video-Assisted Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-job-hunting-with-smart-ai/"><u>Transforming Job Hunting with Smart AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/translating-languages-in-real-time-how-chatgpt-works-its-magic/"><u>Translating Languages in Real-Time: How ChatGPT Works Its Magic</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-solving-the-mystery-of-unresponsive-airpod-pairing/"><u>Ultimate Guide: Solving the Mystery of Unresponsive AirPod Pairing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-and-overcoming-chatgpts-conversation-recall-challenge/"><u>Understanding & Overcoming ChatGPT’s Conversation Recall Challenge</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-creativity-and-efficiency-10-chatgpt-enhancements-for-vs-code/"><u>Unleash Creativity and Efficiency: 10 ChatGPT Enhancements for VS Code</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-essentials-of-gameplay-saving-a-complete-guide-to-recording-minecraft-on-mac/"><u>[Updated] In 2024, The Essentials of Gameplay Saving A Complete Guide to Recording Minecraft on Mac</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-spotify-advertising-successfully/"><u>[Updated] Navigating Spotify Advertising Successfully</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-ultimate-guide-how-to-make-money-from-instagram-for-2024/"><u>[Updated] Ultimate Guide How to Make Money From Instagram for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-tutorial-on-retrieving-data-from-backups-in-windows-11-efficiently/"><u>Complete Tutorial on Retrieving Data From Backups in Windows 11 Efficiently</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-walkthrough-enabling-and-maintaining-a-reliable-miracast-connection-in-windows-1011/"><u>Complete Walkthrough: Enabling and Maintaining a Reliable Miracast Connection in Windows 10/11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-and-install-utorrent-on-windows-10-no-cost-option-available-now/"><u>Download and Install uTorrent on Windows 10 - No Cost Option Available Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-directx-on-windows-11-and-10-simple-steps-fast-results/"><u>Download DirectX on Windows 11 & 10: Simple Steps, Fast Results</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-methods-for-downloading-and-updating-pc-acpi-drivers/"><u>Easy Methods for Downloading and Updating PC ACPI Drivers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-rog-phone-8-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from ROG Phone 8</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-setup-of-exodus-extension-for-your-kodi-experience/"><u>Effortless Setup of Exodus Extension for Your Kodi Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eliminate-lag-enhancing-smooth-performance-for-multi-monitor-setups-in-windows-11-games/"><u>Eliminate Lag: Enhancing Smooth Performance for Multi-Monitor Setups in Windows 11 Games</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-analysis-of-the-roborock-s8-maxv-ultra-unmatched-quality-in-premium-robot-vacuums/"><u>Expert Analysis of the Roborock S8 MaxV Ultra - Unmatched Quality in Premium Robot Vacuums</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fix-external-hard-drive-not-showing-up-in-windows-7/"><u>Fix External Hard Drive Not Showing Up in Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-realme-c53-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Realme C53</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-tecno-camon-30-pro-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Camon 30 Pro 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-step-by-step-guide-solving-teardown-app-crashes/"><u>Ultimate Step-by-Step Guide: Solving Teardown App Crashes</u></a></li>
 </ul></div>
 

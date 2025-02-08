@@ -1,7 +1,7 @@
 ---
 title: "Guide: Easy Steps to Activate Your Access to ChatGPT Plugin Extensions"
-date: 2025-01-23T01:04:30.100Z
-updated: 2025-01-26T12:30:05.429Z
+date: 2025-02-02T01:27:35.525Z
+updated: 2025-02-07T20:04:28.054Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Prompt Perfect
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
  In the example below, we asked ChatGPT to "write a funny story about the history of car seatbelts." The plugin immediately kicks in and replaces the prompt with a more descriptive prompt that produces a better response.
 
 ![ChatGPT Prompt perfect plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-perfect-plugin-in-action.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Link Reader
 
@@ -57,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![InstaCart and ChatGPT in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/instacart-and-chatgpt-in-action.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When we replied "yes," InstaCart generated a link to a shopping list of the remaining ingredient we'll need to cook Jollof rice.
@@ -67,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
 
 ![InstarCart Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/instarcart-plugin-in-action.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Wolfram
 
@@ -87,13 +87,13 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![fact-checking with ChatGPT and Wolfram Alpha](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fact-checking-with-chatgpt-and-wolfram-alpha.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wolfram was able to run the generated information against its database to check for accuracy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. ChatWithPDF
@@ -122,10 +122,6 @@ What's the YouTube video at this URL (<https://www.youtube.com/watch?v=OFvXuyITw
 
 Yes, it was a spot-on description of the video if you're wondering.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. SceneXplain
 
  SceneXplain is a hidden gem we found tucked away in the ChatGPT plugin store. What does it do? It takes an image URL as input and returns a detailed description of the image. It is quite impressive in describing complex scenes with multiple people and objects. When we tried it, its descriptions of 12 of the 14 images we tried were spot on, although it can be a bit overly artistic or dramatic in its choice of words. On its own, SceneXplain might not have a lot of use cases. But when combined with other tools, it comes quite handy.
@@ -133,6 +129,10 @@ Yes, it was a spot-on description of the video if you're wondering.
  We drew an image of a web page layout and asked ChatGPT to create an HTML and CSS code that replicates the layout by invoking SceneXplain. The results weren't too far off the mark.
 
 ![SceneXplain plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/scenexplain-plugin-in-action.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To use the plugin, use a prompt like:
 
@@ -147,7 +147,7 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 ![There is an AI for that ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/there-is-an-ai-for-that-chatgpt-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. What to Watch
@@ -175,15 +175,18 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-unlocking-full-potential-of-video-calls-with-zoom-and-gmail-integration-for-2024/"><u>[Updated] Unlocking Full Potential of Video Calls with Zoom & Gmail Integration for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/from-faces-to-films-the-mi-11s-advanced-screenshot-technology/"><u>From Faces to Films The Mi 11'S Advanced Screenshot Technology</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-capturing-top-notch-audio-without-microphone-dependency/"><u>In 2024, Capturing Top-Notch Audio Without Microphone Dependency</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-master-list-saving-your-favorite-ringtone-files/"><u>In 2024, Master List Saving Your Favorite Ringtone Files</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovating-content-nine-ways-ai-enters-the-game/"><u>Innovating Content: Nine Ways AI Enters the Game</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovation-unleashed-learning-to-use-free-dall-e-3-via-bing/"><u>Innovation Unleashed: Learning to Use Free DALL-E 3 via Bing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/insightful-owners-discovering-these-five-game-changing-ais/"><u>Insightful Owners: Discovering These Five Game-Changing AIs</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-your-epson-xp-400-drivers-with-this-simple-tutorial/"><u>Install Your Epson XP-400 Drivers with This Simple Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/intellectual-intrigue-comparing-ais-cognitive-capacities/"><u>Intellectual Intrigue: Comparing AI's Cognitive Capacities</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-command-your-cloud-data-leading-providers-to-watch/"><u>[New] Command Your Cloud Data Leading Providers to Watch</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-content-makers-compensation-breakdown-for-youtube-shorts-for-2024/"><u>[New] Content Makers' Compensation Breakdown for YouTube Shorts for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unraveling-iphones-audio-mystery-ringtone-adjustments-for-2024/"><u>[New] Unraveling iPhone's Audio Mystery Ringtone Adjustments for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1-akthr-3-khtoat-bsyta-hol-iaadad-mzamna-almlfat-altlkaya-fy-windows-11/"><u>1. أكثر 3 خطوات بسيطة حول إعداد مزامنة الملفات التلقائية في Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-chatbots-clash-who-will-be-crowned-king/"><u>AI ChatBots Clash: Who Will Be Crowned King?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/crafting-compelling-narratives-with-b-cut-footage-for-2024/"><u>Crafting Compelling Narratives with B-Cut Footage for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creating-an-immersive-experience-crafting-interactive-rpg-adventures-with-chatgpt/"><u>Creating an Immersive Experience: Crafting Interactive RPG Adventures with ChatGPT</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-unlocking-audio-potential-download-plus-install-guide-for-vrecorder/"><u>In 2024, Unlocking Audio Potential - Download + Install Guide for VRecorder</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/job-search-game-changer-harnessing-chatgpt-for-professional-growth-6-ways-to-succeed/"><u>Job Search Game-Changer: Harnessing ChatGPT for Professional Growth - 6 Ways to Succeed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-shift-to-open-source-intelligence-why-chatgpt-plus-still-outshines-the-availability-of-no-cost-gpt/"><u>The Shift to Open Source Intelligence: Why ChatGPT Plus Still Outshines the Availability of No-Cost GPT- #</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-chatgpt-in-a-multilingual-world/"><u>The Ultimate Guide to ChatGPT in a Multilingual World</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-the-digital-landscape-the-impact-of-ai-on-website-navigation/"><u>Transforming the Digital Landscape: The Impact of AI on Website Navigation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/understanding-the-hdr10-plus-a-comprehensive-guide/"><u>Understanding the HDR10 Plus: A Comprehensive Guide</u></a></li>
 </ul></div>
 

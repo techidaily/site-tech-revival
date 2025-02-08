@@ -1,7 +1,7 @@
 ---
 title: "The Case Against: Why Organizations Banish ChatGPT's Services"
-date: 2025-01-18T23:10:45.579Z
-updated: 2025-01-25T17:23:13.713Z
+date: 2025-02-04T02:25:08.745Z
+updated: 2025-02-08T04:39:10.769Z
 tags:
   - chatgpt
   - open-ai
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
 **Download:** WebChatGPT for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) (Free)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. ChatGPT Prompt Genius
 
  ChatGPT can seem magical when you see screenshots of some of the answers it gives people. But those screenshots don't show the prompts users have typed to make ChatGPT better. Like[learning the best Google search operators](https://www.makeuseof.com/tag/best-google-search-tips-pdf/) , you need to know how to frame the right prompts for ChatGPT. And this extension can help.
@@ -69,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
@@ -79,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. YouTube Summary With ChatGPT
@@ -91,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
  Click any timestamp to be taken to that moment in the video. If you're already midway through the video, you can jump to the current time in the transcript. And you can copy-paste the transcript anywhere.
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
@@ -121,7 +121,7 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
@@ -133,7 +133,7 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Awesome, But Be Realistic…
@@ -157,19 +157,17 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/approved-elevate-your-video-visibility-11-secrets-of-successful-seo/"><u>2024 Approved Elevate Your Video Visibility 11 Secrets of Successful SEO</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-a-collection-of-verses-utilizing-chatgpt-for-your-poetry-anthology/"><u>Crafting a Collection of Verses: Utilizing ChatGPT for Your Poetry Anthology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cybersecurity-insights-7-projections-for-enhanced-digital-safety/"><u>Cybersecurity Insights: 7 Projections for Enhanced Digital Safety</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/defend-against-robotic-content-collectors/"><u>Defend Against Robotic Content Collectors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-leading-online-courses-for-advancing-your-skills-in-ai-prompt-engineering/"><u>Discover the Leading Online Courses for Advancing Your Skills in AI Prompt Engineering</u></a></li>
-<li><a href="https://win-hot.techidaily.com/discover-traditional-indian-artistry-with-elegant-roller-designs-as-desktop-imagery-by-yl-software/"><u>Discover Traditional Indian Artistry with Elegant Roller Designs as Desktop Imagery by YL Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-ransomware-decryption-a-budget-friendly-guide-at-050-with-chatgpt-on-our-engaging-podcast/"><u>Discovering Ransomware Decryption: A Budget-Friendly Guide at $0.50 with ChatGPT on Our Engaging Podcast</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/diversify-your-income-engage-in-chatgpt-assignments-navigate-the-world-of-personal-computer-builds-and-handheld-game-console-collecting-tips/"><u>Diversify Your Income: Engage in ChatGPT Assignments, Navigate the World of Personal Computer Builds & Handheld Game Console Collecting Tips</u></a></li>
-<li><a href="https://discover-great.techidaily.com/essential-routine-computer-care-ensuring-peak-performance-for-your-pc-insights-by-yl-computing/"><u>Essential Routine Computer Care: Ensuring Peak Performance for Your PC - Insights by YL Computing</u></a></li>
-<li><a href="https://article-files.techidaily.com/expertise-in-easel-alterations-color-command-for-2024/"><u>Expertise in Easel Alterations - Color Command for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-breaking-down-face-id-barriers-in-iphone-x-a-fix-guide/"><u>In 2024, Breaking Down Face ID Barriers in iPhone X - A Fix Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-honor-x8b-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Honor X8b with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-best-online-animation-tools-to-bring-your-ideas-to-life/"><u>New Best Online Animation Tools to Bring Your Ideas to Life</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-5-easy-steps-to-record-voice-on-your-windows-11-pc/"><u>[New] 5 Easy Steps to Record Voice on Your Windows 11 PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capture-and-save-windows-screen-shots-made-simple/"><u>[New] Capture and Save Windows Screen Shots Made Simple</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-effortless-offline-viewing-how-to-save-youtube-videos-for-iphoneipad/"><u>[Updated] In 2024, Effortless Offline Viewing How to Save YouTube Videos for iPhone/iPad</u></a></li>
+<li><a href="https://blog-min.techidaily.com/17-superior-screen-capture-software-tools-the-ultimate-ranking-by-movavi/"><u>17 Superior Screen Capture Software Tools: The Ultimate Ranking by Movavi</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-gamers-blueprint-techniques-to-record-virtual-realms/"><u>2024 Approved The Gamer's Blueprint Techniques to Record Virtual Realms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-for-installing-the-latest-driver-update-for-your-pcs-realtek-pcie-fe-controller-in-windows-7/"><u>Comprehensive Tutorial for Installing the Latest Driver Update for Your PC's Realtek PCIe FE Controller in Windows 7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-tips-and-tricks-how-to-create-screenshots-in-windows-11/"><u>Easy Tips & Tricks: How to Create Screenshots in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-on-simplifying-video-merging-with-handbrake-the-ultimate-hack/"><u>Expert Tips on Simplifying Video Merging with HandBrake - The Ultimate Hack!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-samsung-galaxy-m34-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-solve-the-netflix-video-and-audio-mismatch-problem-when-watching-on-windows-or-mac/"><u>How To Solve the Netflix Video and Audio Mismatch Problem When Watching On Windows or Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tesla-showdown-202n-comparing-the-latest-tech-in-model-s-3-x-and-y-in-depth-zdnet-guide/"><u>Tesla Showdown 202N: Comparing the Latest Tech in Model S, 3, X, and Y | In-Depth ZDNet Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wifi-mastery-for-epson-printers-simple-steps-to-establish-a-flawless-connection/"><u>WiFi Mastery for Epson Printers: Simple Steps to Establish a Flawless Connection</u></a></li>
 </ul></div>
 

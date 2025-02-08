@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Potential of ChatGPT: The Perfect Co-Op for RPG Sessions"
-date: 2025-01-21T06:35:18.696Z
-updated: 2025-01-25T21:16:47.208Z
+date: 2025-02-04T02:19:05.967Z
+updated: 2025-02-07T23:53:26.244Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The more context you provide your AI tool, the better of a response you'll receive.
 
 ## 2 Ask for More Information After Getting an Initial Answer
@@ -66,11 +66,11 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
@@ -79,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
  This tip is especially important if you want to use AI tools like DALL-E 3 to generate images. I've often noticed that first drafts sometimes don't yield what I'm looking for, and there could also be problems like defects for items like flags.
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Don't Make Your AI Multitask
 
@@ -96,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -110,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -119,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
@@ -129,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
  If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
@@ -147,19 +147,21 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-finding-the-perfect-countdown-timer-for-your-wedding-ceremony/"><u>[New] Finding the Perfect Countdown Timer for Your Wedding Ceremony</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-unlocking-monetization-success-a-3-step-system-to-determine-your-youtube-earnings/"><u>[New] In 2024, Unlocking Monetization Success A 3-Step System to Determine Your YouTube Earnings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-vs-video-edition-gopro-hero-or-polaroid-cube-in-2024/"><u>[New] Vs. Video Edition GoPro Hero or Polaroid Cube, In 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-up-your-image-game-the-best-free-online-editors/"><u>[Updated] Step Up Your Image Game The Best Free Online Editors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-features-how-does-gpt-4-stack-up-against-gpt-4-turbo-and-gpt/"><u>Exploring the Features: How Does GPT-4 Stack Up Against GPT-4 Turbo & GPT-#?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-major-pitfalls-of-using-openais-chatgpt-technology/"><u>Exploring the Major Pitfalls of Using OpenAI's ChatGPT Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-chatgpt-unveiling-capabilities-of-advanced-generative-ai/"><u>Exploring the World of ChatGPT: Unveiling Capabilities of Advanced Generative AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/first-glimpses-uncovering-the-history-of-ai/"><u>First Glimpses: Uncovering the History of AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-curiosity-to-mastery-parent-friendly-strategies-in-the-realm-of-generative-ai-and-chatgpt/"><u>From Curiosity to Mastery: Parent-Friendly Strategies in the Realm of Generative AI & ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-started-with-chatgpt-on-mobile-a-comprehensive-guide-for-android-and-iphone-owners/"><u>Get Started with ChatGPT on Mobile - A Comprehensive Guide for Android & iPhone Owners</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-masterful-viewing-for-artists-best-monitor-guide/"><u>In 2024, Masterful Viewing for Artists – Best Monitor Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-f54-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy F54 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-asus-rog-phone-7-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Asus ROG Phone 7 FRP Bypass</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unveiling-podcasts-peak-listening-times/"><u>[New] 2024 Approved Unveiling Podcasts Peak Listening Times</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-joining-the-global-game-how-to-zoom-on-xbox-one-for-2024/"><u>[New] Joining the Global Game How to Zoom on Xbox One for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-share-across-platforms-instagram-meets-facebook/"><u>[New] Share Across Platforms Instagram Meets Facebook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/automating-microsoft-word-docs-via-chatgpt-a-comprehensive-guide/"><u>Automating Microsoft Word Docs via ChatGPT - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-learning-how-chatgpt-benefits-5-key-areas-in-schools/"><u>Boosting Learning: How ChatGPT Benefits 5 Key Areas in Schools</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/demarche-elegante-etapes-faciles-pour-mettre-a-jour-le-micrologiciel-hp-bios/"><u>Démarche Élégante : Étapes Faciles Pour Mettre À Jour Le Micrologiciel HP BIOS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/di-movavi-slideshow-creator-ottieni-il-tuo-download-gratuito/"><u>Di Movavi Slideshow Creator - Ottieni Il Tuo Download Gratuito</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/dynamic-broadcasting-with-manycam-your-go-to-live-streaming-virtual-camera-and-video-editing-tool/"><u>Dynamic Broadcasting with ManyCam: Your Go-To Live Streaming, Virtual Camera, and Video Editing Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-ai-communications-with-7-proven-tips-for-smarter-chatgpt-replies/"><u>Elevate AI Communications with 7 Proven Tips for Smarter ChatGPT Replies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-computing-equipment-with-toms-hardware-guides/"><u>Exploring Computing Equipment with Tom's Hardware Guides</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-claude-ai-changes-the-game-for-users-understanding-its-value-and-uses/"><u>How Claude AI Changes the Game for Users: Understanding Its Value and Uses</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-google-pixel-8-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Google Pixel 8 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-online-video-resources-for-enhanced-learning-experiences/"><u>In 2024, Online Video Resources for Enhanced Learning Experiences</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-techniques-for-generating-custom-ai-images-using-microsoft-copilot/"><u>Innovative Techniques for Generating Custom AI Images Using Microsoft Copilot</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-linkedin-with-chatgpt-10-key-tips-to-secure-a-job/"><u>Navigating LinkedIn With ChatGPT: 10 Key Tips to Secure a Job</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wd-ultrastar-transporter-high-capacity-briefcase-with-368tb-nvme-ssds-and-advanced-tech-128gb-ram-1kw-psu-and-intels-ice-lake-xeon/"><u>WD Ultrastar Transporter: High-Capacity Briefcase with 368TB NVMe SSDs & Advanced Tech - 128GB RAM, 1kW PSU & Intel's Ice Lake Xeon</u></a></li>
 </ul></div>
 

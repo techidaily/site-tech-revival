@@ -1,7 +1,7 @@
 ---
 title: Artificial Intelligence (AI) Explained in Simple Terms
-date: 2025-01-23T05:55:55.193Z
-updated: 2025-01-26T03:05:44.680Z
+date: 2025-02-03T18:41:15.909Z
+updated: 2025-02-07T20:12:51.835Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
  But Bard was never the AI titan people hoped for, and GPT-4 remains the dominant generative AI chat bot platform. Now, Google's Gemini is here—but is the long-awaited AI model better than ChatGPT?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Google's Gemini AI Model?
 
 [Gemini is Google's most capable generative AI model](https://www.makeuseof.com/what-is-googles-ai-project-gemini/) , able to understand and operate across different data formats, including text, audio, image, and video. It is Google's attempt to create a unified AI model drawing capabilities from its most capable AI technologies. Gemini will be available in three variants:
@@ -62,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Google Gemini AI
@@ -70,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
  Of the three variants of the Gemini AI model, you can start using Gemini Pro right now. Gemini Pro is currently available on Google's Bard chatbot. To use Gemini Pro with Bard, head to[bard.google.com](http://bard.google.com/chat) and sign in with your Google account.
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
@@ -85,6 +85,10 @@ We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
 
  We tried another attempt at making it interpret an image while testing its problem-solving and coding ability. We gave Bard, running Gemini Pro, a screenshot and asked it to interpret and write HTML and CSS code to replicate the screenshot.
@@ -93,13 +97,13 @@ Here's the source screenshot.
 
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
@@ -113,14 +117,10 @@ Here's the source screenshot.
 
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Gemini Better than ChatGPT?
@@ -144,14 +144,16 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-avoidance-tactics-for-edg-vids-in-learning/"><u>[New] 2024 Approved Avoidance Tactics for EDG Vids in Learning</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-boost-engagement-the-art-of-adding-borders-on-insta-for-2024/"><u>[New] Boost Engagement The Art of Adding Borders on Insta for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-premier-picture-driven-journey-maker/"><u>[New] Premier Picture-Driven Journey Maker</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dispelling-dark-pixels-youtube-solution-guide/"><u>[Updated] In 2024, Dispelling Dark Pixels YouTube Solution Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/apowersoft/"><u>Apowersoft 硬上相輸 - 真誠評估與教學功能深入介紹</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-power-shift-in-natural-language-processing-why-gemini-15s-context-capabilities-are-groundbreaking/"><u>The Power Shift in Natural Language Processing: Why Gemini 1.5'S Context Capabilities Are Groundbreaking</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-tutorial-on-running-chatgpt-as-a-desktop-app-on-windows-systems/"><u>The Ultimate Tutorial on Running ChatGPT as a Desktop App on Windows Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-20-effective-gpt-3-conversation-starters-found-on-github/"><u>Top 20 Effective GPT-3 Conversation Starters Found on GitHub</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-4-benefits-opting-for-microsoft-copilot-over-chatgpt/"><u>Top 4 Benefits: Opting for Microsoft Copilot Over ChatGPT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-find-your-way-the-insider-guide-to-youtube-video-management-hub/"><u>[New] 2024 Approved Find Your Way The Insider Guide to YouTube Video Management Hub</u></a></li>
+<li><a href="https://extra-information.techidaily.com/an-encyclopedia-on-hand-pose-identification-systems/"><u>An Encyclopedia on Hand Pose Identification Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bringing-ai-conversation-tools-to-terminal-using-shellgpt-to-run-chatgpt-on-ubuntu/"><u>Bringing AI Conversation Tools to Terminal: Using ShellGPT to Run ChatGPT on Ubuntu</u></a></li>
+<li><a href="https://win-able.techidaily.com/discord-display-troubles-fixing-screen-sharing-issues-that-cause-a-black-outage-on-screens/"><u>Discord Display Troubles: Fixing Screen Sharing Issues That Cause a Black Outage on Screens</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-advantages-of-using-claude-3/"><u>Discover the Advantages of Using Claude 3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-artificial-intelligence-assistants-is-it-chatgpt-plus-or-perplexity-that-reigns-supreme/"><u>Evaluating Artificial Intelligence Assistants: Is It ChatGPT Plus or Perplexity That Reigns Supreme?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-on-preventing-and-fixing-fm2019-game-crashes/"><u>Expert Tips on Preventing and Fixing FM2019 Game Crashes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-reality-of-prompt-engineering-key-aspects-you-should-reflect-on/"><u>Exploring the Reality of Prompt Engineering: Key Aspects You Should Reflect On</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-output-using-onlyoffice-docspace-and-the-power-of-chatgpt-integration/"><u>Maximize Output Using ONLYOFFICE DocSpace and the Power of ChatGPT Integration</u></a></li>
+<li><a href="https://fox-info.techidaily.com/nighttime-captures-elevating-iphone-photos/"><u>Nighttime Captures Elevating iPhone Photos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quora-poe-your-key-to-ai-tech-integration/"><u>Quora POE: Your Key to AI Tech Integration</u></a></li>
 </ul></div>
 

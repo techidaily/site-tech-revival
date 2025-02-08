@@ -1,7 +1,7 @@
 ---
 title: "AI and Cybersecurity: Can ChatGPT Become a Tool for Banking Hacks?"
-date: 2025-01-23T00:27:17.347Z
-updated: 2025-01-26T15:07:45.060Z
+date: 2025-02-02T06:28:02.004Z
+updated: 2025-02-08T09:13:01.618Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -63,22 +63,20 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mov-file-saving-techniques-for-windows-11-users/"><u>[New] In 2024, .MOV File Saving Techniques for Windows 11 Users</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-achieve-clear-and-smooth-video-outputs-with-these-logitech-camera-insights/"><u>[New] In 2024, Achieve Clear & Smooth Video Outputs with These Logitech Camera Insights</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-mold-sharable-imagery-in-adobe-software/"><u>[Updated] In 2024, Mold Sharable Imagery in Adobe Software</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/s-unlimited-free-high-quality-green-screen-footage-online/"><u>Access Unlimited Free, High-Quality Green Screen Footage Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advanced-ai-debate-is-gemini-the-better-choice-over-chatgpt-plus/"><u>Advanced AI Debate: Is Gemini the Better Choice Over ChatGPT Plus?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-you-use-chatgpt-right-now-explore-five-ways-to-verify-its-up-and-running/"><u>Can You Use ChatGPT Right Now? Explore Five Ways to Verify It’s Up and Running</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dall-e-3-upgrades-introducing-edit-functions-with-development-needed/"><u>DALL-E 3 Upgrades: Introducing Edit Functions with Development Needed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-installation-pathway-setting-up-llama-2-in-local-environment/"><u>Easy Installation Pathway: Setting Up Llama 2 in Local Environment</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevating-personal-care-with-chatgpts-cutting-edge-uses/"><u>Elevating Personal Care with ChatGPT's Cutting-Edge Uses</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/eliminate-misguided-ai-outputs-with-these-six-strategic-prompting-approaches/"><u>Eliminate Misguided AI Outputs with These Six Strategic Prompting Approaches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722093182035-experience-cutting-edge-ai-search-on-the-go-with-bings-new-app-support-for-android-and-ios/"><u>Experience Cutting-Edge AI Search on the Go with Bing's New App Support for Android and iOS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/experience-the-latest-from-openai-your-step-by-step-guide-to-their-exclusive-gpt-shop/"><u>Experience the Latest From OpenAI - Your Step-by-Step Guide to Their Exclusive GPT Shop</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Realme C51? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-icloud-integration-for-apple-pages-documents-expert-strategies/"><u>Mastering iCloud Integration for Apple Pages Documents: Expert Strategies</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-exploring-the-wilderness-on-your-phone-10-premium-nature-sounds-apps/"><u>New Exploring the Wilderness on Your Phone 10 Premium Nature Sounds Apps</u></a></li>
-<li><a href="https://win-best.techidaily.com/unveiling-new-features-in-pcdj-dex-v310plus-interactive-karaoke-tutorial-with-step-by-step-demonstration/"><u>Unveiling New Features in PCDJ DEX V3.10+: Interactive Karaoke Tutorial with Step-by-Step Demonstration</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winxdvd-nutzen-zum-komprimieren-grosser-videoinhalte-fur-whatsapp-ohne-bild-und-tonqualitatseinbussen/"><u>WinXDVD Nutzen Zum Komprimieren Großer Videoinhalte Für WhatsApp Ohne Bild- Und Tonqualitätseinbußen</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-seamless-transition-from-tv-to-facebook-lives/"><u>[New] 2024 Approved Seamless Transition From TV to Facebook Lives</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-easy-way-to-share-instagram-meets-facebook/"><u>[New] The Easy Way to Share Instagram Meets Facebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-full-potential-of-canon-cams-with-gratuitous-and-fee-based-luts/"><u>[New] Unlock Full Potential of Canon Cams with Gratuitous & Fee-Based LUTs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/co-pilot-expansion-in-chatgpt-understanding-its-contribution-to-ai/"><u>Co-Pilot Expansion in ChatGPT: Understanding Its Contribution to AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparative-analysis-how-does-mistral-ais-le-chat-stack-up-against-chatgpt/"><u>Comparative Analysis: How Does Mistral AI's Le Chat Stack Up Against ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparison-of-chatgpt-and-huggingfaces-huggingchat-determining-the-superior-conversational-ai/"><u>Comparison of ChatGPT and HuggingFace's HuggingChat: Determining the Superior Conversational AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dont-lose-it-keeping-gpt-conversations-safe/"><u>Don't Lose It: Keeping GPT Conversations Safe</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-infinix-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Infinix FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/innovative-scanner-selection-for-professional-and-personal-use/"><u>Innovative Scanner Selection for Professional & Personal Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-excel-in-no-time-with-chatgpt-insights/"><u>Master Excel in No Time With ChatGPT Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximize-your-time-on-facebook-with-these-5-strategies-for-improved-productivity/"><u>Maximize Your Time on Facebook with These 5 Strategies for Improved Productivity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/preventing-chatgpt-memory-lapse-incidents/"><u>Preventing ChatGPT Memory Lapse Incidents</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fixing-silent-hp-notebooks-restore-your-laptops-audio/"><u>Solved: Fixing Silent HP Notebooks - Restore Your Laptop's Audio</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-innovation-which-ai-shines-in-handling-a-shared-creative-task/"><u>Unleashing Innovation: Which AI Shines in Handling a Shared Creative Task?</u></a></li>
 </ul></div>
 

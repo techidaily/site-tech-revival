@@ -1,7 +1,7 @@
 ---
 title: "Windows 11におけるDVD Shrink利用ガイド: 日本語版ダウンロードと使用手順"
-date: 2024-08-31 13:25:19
-updated: 2024-09-02 12:39:42
+date: 2025-02-03T04:57:30.125Z
+updated: 2025-02-07T21:33:41.587Z
 categories:
   - winxdvd
 thumbnail: https://thmb.techidaily.com/bb71352b27a9f0530f59cc2c36b568ff3e277e8a2296dc605c5a7f11777f7220.jpg
@@ -27,8 +27,6 @@ To rip DVD to MKV, follow these simple steps:
 
 ![rip dvd](https://www.winxdvd.com/resource/../seo-img/general-img/seobanner-dvd.png) 
 
-
-
 ## How to Rip DVDs to MKV Losslessly with Original Menus, Subtitles...
 
 ![](https://www.winxdvd.com/resource/../seo-img/general-img/face-dp-111.png) [Donna Peng](https://tools.techidaily.com/winxdvd/products/) 
@@ -53,6 +51,10 @@ Note: You can also rip copy-protected DVDs to MP4, MOV, AVI, WMV, 3GP, FLV, and 
 | **Handbrake**              | Free to rip unprotected DVDs to MKV and MP4\. A lot of settings and filters to customize the output MKV files.       | It doesn't support protected DVDs and the output formats are very limited.            | [Read More](https://tools.techidaily.com/winxdvd/products/) |
 | **VLC Media Player**       | Easily rip unprotected DVDs to MKV on Windows and Mac.                                                               | It doesn't support protected DVDs and the options to adjust the settings are limited. | [Read More](https://tools.techidaily.com/winxdvd/products/)       |
 | **Movavi Video Converter** | Rip unprotected DVDs to MKV and various other formats with fast speed.                                               | It can't rip protected DVDs to MKV.                                                   | [Read More](https://tools.techidaily.com/winxdvd/products/)    |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. Reasons for Ripping DVD to MKV
 
@@ -101,6 +103,10 @@ After the DVD content is fully imported, the ripper will bypass copy protection 
 
 ![WinX DVD Ripper Platinum - Edit](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/edit-add-external-subtitle-700.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4\. Start DVD to MKV Ripping**
 
 If you do not have other advanced and personalized settings, just hit "**RUN**" to beging DVD to MKV ripping. To ensure a stable DVD to MKV ripping process with no error, you're suggested to choose "**Safe Mode**".
@@ -120,6 +126,10 @@ Now let's download MakeMKV and learn how to convert DVD to MKV with MakeMKV.
 **Step 1.** Insert target DVD into your DVD drive. Launch MakeMKV and click the DVD to hard drive button to import the DVD.
 
 ![Extract DVD to MKV with MakeMKV](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/makemkv-open-dvd.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Select the titles, audios, and subtitles you want to preserve.
 
@@ -144,6 +154,10 @@ First of all, let's learn how to download and install libdvdcss for Handbrake:
 
 ![Rip DVD to MKV with HandBrake and libdvdcss](https://www.winxdvd.com/resource/../seo-img/handbrake-troubleshoot-tips/libdvdcss.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After you finish the installation of HandBrake and libdvdcss, you can follow the steps to rip DVD to MKV with HandBrake.
 
 **Step 1.** Put target DVD to your optical drive. Open HandBrake and select your DVD. Then, HandBrake will scan DVD titles.
@@ -152,9 +166,17 @@ After you finish the installation of HandBrake and libdvdcss, you can follow the
 
 ![Rip DVD to MKV with HandBrake](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/rip-dvd-to-mkv-with-handbrake.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** Click Preset > Matroska, and then choose a MKV format. You're commended to choose H.264 MKV 480p30 for NTSC DVD and H.264 MKV 576P25 for PAL DVD.
 
 **Step 4.** Hit Start Encode button to begin ripping DVD to MKV. Note: HandBrake will decode the DVD and re-encode the video into MKV in H264, H265, or other codecs, during which quality loss will happen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5\. How to Rip DVD to MKV with VLC
 
@@ -172,6 +194,10 @@ Now let's learn how to rip DVDs to MKV usingi VLC?
 * If you need to rip a protected DVD, here is a workaround. Play the DVD using a DVD player and mark down the correct DVD title. Then enter the DVD title and chapter in VLC under Starting Position. But this method doesn't work all the time.
 
 ![VLC protected DVD to MKV](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/rip-chapters-off-dvd-vlc.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3.** Click the Convert/Save button and then you'll need to select the output profile. Open the Profile dropdown menu and check if there is an MKV profile. By default, VLC will choose to rip DVDs to "Video - H.264 + MP3 (MP4)". If there is no MKV option, click the gear button next to it and under Encapsulation, choose MKV and save it. 
 
@@ -204,7 +230,20 @@ DVD to MKV converters play a valuable role in the digital transformation of phys
 * [6 Ways to Convert DVD to MP4 on Mac for Free](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 * [Top 10 Free DVD Players for Windows 10/11](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 * [Best Preset Settings for HandBrake DVD to MP4](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [\[2024\] How to Free Convert DVD Video\_TS to MP4](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -212,11 +251,33 @@ DVD to MKV converters play a valuable role in the digital transformation of phys
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-efficient-roblox-gaming-save-techniques-on-macs/"><u>[New] Efficient Roblox Gaming Save Techniques on Macs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-core-6-social-media-tools-for-corporate-engagement/"><u>2024 Approved Core 6 Social Media Tools for Corporate Engagement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/could-advanced-languages-systems-including-chatgpt-serve-in-creating-cyberattack-programs/"><u>Could Advanced Languages Systems, Including ChatGPT, Serve in Creating Cyberattack Programs?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-epson-wf-7710-drivers-step-by-step-tutorial-for-various-windows-os/"><u>Download and Install Epson WF-7710 Drivers: Step by Step Tutorial for Various Windows OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-eq-with-chatgpt-strategies-for-improved-communication-skills/"><u>Enhancing EQ with ChatGPT: Strategies for Improved Communication Skills</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-cutting-edge-ai-effortlessly-get-the-best-out-of-gpt-4-using-copilot-at-zero-cost/"><u>Experience Cutting-Edge AI Effortlessly: Get the Best Out of GPT-4 Using Copilot at Zero Cost</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-american-idol-hits-no-cost-compatible-with-mobile-for-on-the-go-entertainment/"><u>Get American Idol Hits - No Cost, Compatible with Mobile for On-the-Go Entertainment</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-capture-the-essence-of-xiaomis-latest-smartphones/"><u>In 2024, Capture the Essence of Xiaomi's Latest Smartphones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovation-in-content-creation-7-smart-ai-uses/"><u>Innovation in Content Creation: 7 Smart AI Uses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-python-comprehensive-guide-to-integrating-gpt-3/"><u>Mastering Python: Comprehensive Guide to Integrating GPT-3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/natural-language-processing-vs-machine-learning-what-sets-them-apart/"><u>Natural Language Processing Vs. Machine Learning: What Sets Them Apart?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-world-of-digital-art-comprehensive-xp-pen-artist-16-pro-tablet-assessment/"><u>Navigating the World of Digital Art: Comprehensive XP-Pen Artist 16 Pro Tablet Assessment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-user-confidentiality-3-major-concerns-in-todays-chatbot-technology/"><u>Navigating User Confidentiality: 3 Major Concerns in Today's Chatbot Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-developing-a-web-application-using-chatgpt/"><u>Step-by-Step Guide: Developing a Web Application Using ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-installing-the-youtube-go-app-on-your-desktop/"><u>Step-by-Step Guide: Installing the YouTube Go App on Your Desktop</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-plugin-tools-to-enhance-your-chatgpt-and-pdf-experience/"><u>Top 10 Plugin Tools to Enhance Your ChatGPT & PDF Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-14-ultras-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Xiaomi 14 Ultras Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-you-should-think-twice-the-7-pitfalls-of-generative-ai-for-messaging/"><u>Why You Should Think Twice: The 7 Pitfalls of Generative AI for Messaging</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726030339355-windows-11/"><u>Windows 11の簡単ガイド:スライドショー制作手順集</u></a></li>
+</ul></div>
+

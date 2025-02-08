@@ -1,7 +1,7 @@
 ---
 title: AI-Generated Gems or Misleading Stones?
-date: 2025-01-22T11:45:38.119Z
-updated: 2025-01-26T08:18:31.701Z
+date: 2025-02-05T05:22:23.074Z
+updated: 2025-02-08T10:22:29.176Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/7232672881e7d137d3952f765be2610288c45b29a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/7232672881e7d137d3952f765be2610288c45b29a
 
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Access the GPT Store
 
  Access and use of the new GPT Store [requires a ChatGPT subscription](http://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Only users with ChatGPT Plus, ChatGPT Teams, or ChatGPT Enterprise accounts will be able to use the store's catalog of custom GPTs. You also need a ChatGPT subscription if you want to [create your own custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/).
@@ -64,28 +68,24 @@ thumbnail: https://thmb.techidaily.com/7232672881e7d137d3952f765be2610288c45b29a
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click **Keep in sidebar**. This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
@@ -113,20 +113,21 @@ thumbnail: https://thmb.techidaily.com/7232672881e7d137d3952f765be2610288c45b29a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-top-5-alternatives-to-bandicam-for-pro-mac-users/"><u>[New] 2024 Approved Top 5 Alternatives to Bandicam for Pro Mac Users</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-swiftly-rotate-videos-in-vlc-for-smooth-viewing/"><u>[New] In 2024, Swiftly Rotate Videos in VLC for Smooth Viewing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-masterclass-selection-top-7-precision-games/"><u>[Updated] 2024 Approved Masterclass Selection Top 7 Precision Games</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-essential-steps-to-apply-a-creative-commons-copyright/"><u>2024 Approved Essential Steps to Apply a Creative Commons Copyright</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ais-impact-on-data-6-transformative-uses-of-gpt-3/"><u>AI's Impact on Data: 6 Transformative Uses of GPT-3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-explained-an-overview-of-associated-risks/"><u>Artificial Intelligence Explained: An Overview of Associated Risks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-gpts-proofreading-capabilities/"><u>Assessing GPT's Proofreading Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bing-launches-advanced-ai-search-on-mobile-devices-available-for-android-and-ios/"><u>Bing Launches Advanced AI Search on Mobile Devices: Available for Android & iOS</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-explore-the-best-apps-for-effortless-youtube-to-webm-conversion/"><u>In 2024, Explore the Best Apps for Effortless YouTube to WebM Conversion</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-updated-blueprint-for-incorporating-decay-effects-into-digital-soundtracks/"><u>New The Updated Blueprint for Incorporating Decay Effects Into Digital Soundtracks</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/unleash-your-creativity-top-10-free-video-editors-for-mp4-files/"><u>Unleash Your Creativity Top 10 Free Video Editors for MP4 Files</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-chatgpt-potential-the-ultimate-user-manual-for-mac-enthusiasts/"><u>Unlocking ChatGPT Potential: The Ultimate User Manual for Mac Enthusiasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-power-of-shapley-explanations-with-openais-shape-tool/"><u>Unveiling the Power of Shapley Explanations with OpenAI's ShapE Tool</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/watching-fandango-content-via-apple-tv-a-step-by-step-tutorial/"><u>Watching Fandango Content via Apple TV: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/worried-about-your-data-security-with-chatgpt-learn-the-steps-to-disable-participation/"><u>Worried About Your Data Security with ChatGPT? Learn the Steps to Disable Participation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlicensed-yet-lawful-music-repositories-games/"><u>[New] Unlicensed, Yet Lawful Music Repositories (Games)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-collect-priceless-imagery-from-trusted-4-youtube-directories/"><u>[Updated] In 2024, Collect Priceless Imagery From Trusted 4 YouTube Directories</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-download-updated-printer-drivers-for-brother-hl-2280dw-on-all-windows-platforms/"><u>Easy Download: Updated Printer Drivers for Brother HL 2280DW on All Windows Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-ais-reliability-chatgpt-style/"><u>Evaluating AI's Reliability - ChatGPT Style</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterful-filmmaking-moves-with-kinemaster/"><u>In 2024, Masterful Filmmaking Moves with Kinemaster</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/legally-safe-chants-and-tunes-the-ultimate-meditation-list/"><u>Legally Safe Chants & Tunes - The Ultimate Meditation List</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/movavi-scaricare-e-conversione-gratuita-di-file-aac-in-formato-mp3-online/"><u>Movavi: Scaricare E Conversione Gratuita Di File AAC in Formato MP3 Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/neural-networks-defended-against-inversion/"><u>Neural Networks Defended Against Inversion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/relying-on-chatgpt-for-wilderness-rescue-myth-or-reality/"><u>Relying on ChatGPT for Wilderness Rescue: Myth or Reality?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/scripting-signal-sequences-for-2024/"><u>Scripting Signal Sequences for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sending-and-receiving-imessages-on-a-windows-pc-a-comprehensive-guide-zdnet/"><u>Sending & Receiving iMessages on a Windows PC: A Comprehensive Guide - ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sources-scrutinized-chatgpts-originality-assessment/"><u>Sources Scrutinized: ChatGPT’s Originality Assessment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-signing-up-for-chatgpt-telegram-and-whatsapp-without-needing-your-mobile-number/"><u>Step-by-Step Guide: Signing Up for ChatGPT, Telegram & WhatsApp without Needing Your Mobile Number</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ai-revolution-in-web-search-redefining-how-users-interact-with-online-content/"><u>The AI Revolution in Web Search: Redefining How Users Interact with Online Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-chatgpt-api-mastery/"><u>The Ultimate Guide to ChatGPT API Mastery</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-strategies-to-fix-your-webex-microphone-issues-now/"><u>Top Strategies to Fix Your Webex Microphone Issues Now</u></a></li>
 </ul></div>
 

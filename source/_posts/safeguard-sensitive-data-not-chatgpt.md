@@ -1,7 +1,7 @@
 ---
 title: Safeguard Sensitive Data, Not ChatGPT
-date: 2025-01-19T15:01:37.758Z
-updated: 2025-01-26T12:18:20.007Z
+date: 2025-02-07T04:00:37.349Z
+updated: 2025-02-08T07:33:35.096Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. I Am Rich
 
 ![The I Am Rich plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-i-am-rich-plugin-on-the-chatgpt-plugin-store.jpg)
@@ -50,13 +46,13 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to[scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/) ? Maybe ChatGPT plugins are not the right tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. AppyPie App Builder
 
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  AppyPie is a popular no-code app-building platform. It's relatively easy to use, and you can deploy fully functional mobile apps in a very short time without having to write a single line of code.
 
@@ -68,16 +64,12 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. AI Agents
 
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
@@ -90,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The "A Movie Please" plugin is a movie recommendation tool to help ChatGPT users decide what to watch next. Although the plugin is not a dud (it actually makes movie recommendations), you're better off using ChatGPT without the plugin.
 
  Once you've provided a description of the kind of movie you want, the plugin only ever recommends movies that are available on Amazon's Prime streaming service. If you have a niche taste in movies, you'll find the recommendations to be mediocre at best.
@@ -100,12 +96,16 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT's Plugin Store: Quantity Over Quality?
@@ -129,17 +129,22 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-decoding-wirecast-other-broadcasting-software/"><u>[New] 2024 Approved Decoding WireCast Other Broadcasting Software</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-dissecting-video-trimming-in-imovie-app/"><u>[Updated] In 2024, Dissecting Video Trimming in iMovie App</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/crucial-notions-for-online-story-craftsmanship/"><u>Crucial Notions for Online Story Craftsmanship</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/rising-threats-in-generative-ai-future-security-risks/"><u>Rising Threats in Generative AI: Future Security Risks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/securing-agreements-faster-techniques-to-pen-convincing-proposals-leveraging-chatgpt/"><u>Securing Agreements Faster: Techniques to Pen Convincing Proposals Leveraging ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/securing-your-information-against-potential-leaks-in-custom-gpt-applications-including-chatgpt/"><u>Securing Your Information Against Potential Leaks in Custom GPT Applications Including ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/self-efficacy-in-learning-vs-easy-text-generation-help/"><u>Self-Efficacy in Learning Vs. Easy Text Generation Help</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-problem-of-non-functional-audio-in-windows-7-a-guide/"><u>Solving the Problem of Non-Functional Audio in Windows 7: A Guide</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-sketch-to-screen-10-best-cartoon-animation-apps-for-mobile/"><u>Updated 2024 Approved From Sketch to Screen 10 Best Cartoon Animation Apps for Mobile</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-no-cost-wmv-video-editing-the-best-free-software/"><u>Updated No-Cost WMV Video Editing The Best Free Software</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/webcamsecure-silk-screen-sticker/"><u>WebCamSecure Silk Screen Sticker</u></a></li>
-<li><a href="https://games-able.techidaily.com/your-ultimate-guide-to-8-greatest-gaming-resources/"><u>Your Ultimate Guide to #8 Greatest Gaming Resources</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-creative-thumbnails-free-tools-for-youtube-for-2024/"><u>[New] 7 Creative Thumbnails Free Tools for YouTube for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-insta-tones-101-learn-to-design-and-download-on-your-own-for-2024/"><u>[New] Insta Tones 101 Learn to Design and Download on Your Own for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y100-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y100 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/detailed-instructions-how-to-properly-remove-nvidia-drivers-from-your-windows-10-machine/"><u>Detailed Instructions: How to Properly Remove Nvidia Drivers From Your Windows 10 Machine</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dividing-your-view-a-step-by-step-guide-on-splitting-the-screen-in-windows-10/"><u>Dividing Your View: A Step-by-Step Guide on Splitting the Screen in Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-guide-how-to-quickly-set-up-adb-drivers-on-windows/"><u>Easy Guide: How to Quickly Set Up Adb Drivers on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-steps-for-connecting-your-sony-bluetooth-earbuds-to-any-device/"><u>Easy Steps for Connecting Your Sony Bluetooth Earbuds to Any Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-boosting-your-pcs-performance/"><u>Effective Strategies for Boosting Your PC's Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-disk-creation-the-ultimate-tutorial-for-using-windows-nines-burn-feature/"><u>Effortless Disk Creation: The Ultimate Tutorial for Using Windows Nine's Burn Feature</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-guide-how-to-find-your-windows-pcs-ram-a-step-by-step-tutorial/"><u>Effortless Guide: How to Find Your Windows PC's RAM - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-vpn-connection-on-firestick-a-step-by-step-guide/"><u>Effortless VPN Connection on Firestick: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-tecno-camon-20-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Tecno Camon 20 online without jailbreak</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-framingfraction-analysis/"><u>In 2024, FramingFraction Analysis</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/stable-iphone-cinematography-three-tactics-inside/"><u>Stable iPhone Cinematography Three Tactics Inside</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlimitierte-konvertierung-von-dvd-zu-digital-mit-watermark-freiem-dvd-ripper-tool-gratis-verfugbar/"><u>Unlimitierte Konvertierung Von DVD Zu Digital Mit Watermark-Freiem DVD-Ripper Tool Gratis Verfügbar</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-windows-107-users-guide-to-dawnbreakers-discovering-top-8-audio-workstations/"><u>Updated Windows 10/7 Users Guide to Dawnbreakers Discovering Top 8 Audio Workstations</u></a></li>
 </ul></div>
 
