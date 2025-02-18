@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT at Work: How to Keep Your Sensitive Projects Safe From Privacy Breaches"
-date: 2025-02-06T06:24:20.542Z
-updated: 2025-02-07T23:56:40.998Z
+date: 2025-02-14T00:55:55.556Z
+updated: 2025-02-17T16:35:23.447Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 * [What Is ChatGPT's Chat History and Training Feature?](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#what-is-chatgpt-39-s-chat-history-and-training-feature)
 * [How to Opt-Out of ChatGPT's Chat History and Training Feature](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#how-to-opt-out-of-chatgpt-39-s-chat-history-and-training-feature)
 * [ChatGPT Data Collection You Can't Opt Out From](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#chatgpt-data-collection-you-can-39-t-opt-out-from)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -39,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
  While ChatGPT is a fantastic AI tool, certain privacy concerns have surrounded it since its November 2022 launch. One such concern is OpenAI's use of user chat data to further train its LLMs.
 
  But worry not; you can opt out of having your chat data used, keeping your ChatGPT conversations private.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is ChatGPT's Chat History and Training Feature?
 
@@ -56,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
  However, in April 2023, OpenAI started offering users the choice to disable or enable chat history and training data collection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Opt-Out of ChatGPT's Chat History and Training Feature
 
  There's one downside of opting out of ChatGPT's chat data feature, and that's the loss of your chat history. This doesn't just mean OpenAI can't keep a history of your chats; it also means you cannot view your chat history. Therefore, returning to previous chats becomes impossible, rendering all your previous chat data inaccessible. Note that this doesn't[delete your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) but does make it off-limits until you re-enable the chat history and training feature.
@@ -64,16 +68,12 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
 ![chatgpt sidebar menu options list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-sidebar-menu-options-list.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  First, click on your profile name at the bottom-left of the main page and head to**Settings & Beta** .
 
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In your settings, click on the**Data controls** option. Now, you'll see a setting named**Chat history & training** . This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
@@ -82,13 +82,13 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
 
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Data Collection You Can't Opt Out From
 
@@ -115,19 +115,18 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-17-best-lights-and-lighting-equipment-for-youtube/"><u>[New] 2024 Approved 17 Best Lights and Lighting Equipment for YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-affordable-text-animation-strategies-webreal-world/"><u>[New] 2024 Approved Affordable Text Animation Strategies Web/Real World</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-picsart-remove-bg-comprehensive-tutorial/"><u>[New] Picsart Remove Bg Comprehensive Tutorial</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-alternative-recreation-in-the-firstrow-rankings/"><u>2024 Approved Alternative Recreation in the Firstrow Rankings</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-obs-temporal-control-initiating-countdown-features-seamlessly/"><u>2024 Approved OBS Temporal Control Initiating Countdown Features Seamlessly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beat-obs-frame-skipping-effective-solutions-and-advice/"><u>Beat OBS Frame Skipping: Effective Solutions and Advice</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-pc-speed-tackle-windows-11-sluggishness-with-these-8-fixes/"><u>Boost Your PC Speed! Tackle Windows 11 Sluggishness with These 8 Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/break-up-that-pdf-learn-the-top-three-strategies-for-quickly-separating-pdf-sheets/"><u>Break Up That PDF - Learn the Top Three Strategies for Quickly Separating PDF Sheets</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/connect-seamlessly-integrating-bluetooth-technology-into-personal-computers/"><u>Connect Seamlessly: Integrating Bluetooth Technology Into Personal Computers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-easy-steps-for-reaching-windows-10-advanced-boot-menu/"><u>Discover Easy Steps for Reaching Windows 10 Advanced Boot Menu</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1723808204370-how-to-play-fortnite-on-pc-easy-guide-for-beginners/"><u>How to Play Fortnite on PC — Easy Guide for Beginners</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-magic-vs-2-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor Magic Vs 2</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-zte-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a ZTE Phone that is Locked?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-phantoms-view-droning-action-highlights/"><u>[New] Phantom's View Droning Action Highlights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-compre-point-saving-twitter-exclusive-gifs-on-phones/"><u>[New] The Compre Point Saving Twitter-Exclusive Gifs on Phones</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-overview-of-the-mapmyride-experience-features-benefits-and-user-tips/"><u>Comprehensive Overview of the MapMyRide Experience: Features, Benefits, and User Tips</u></a></li>
+<li><a href="https://discover-best.techidaily.com/die-top-3-beliebteste-gratulose-videokonferenztools-fur-2024-sie-bleiben/"><u>Die Top-3 Beliebteste Gratulose Videokonferenztools Für 2024 - SIE BLEIBEN!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/diy-chatgpt-customization-how-to-train-on-your-own-data-for-better-responses/"><u>DIY ChatGPT Customization: How to Train on Your Own Data for Better Responses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-your-proposal-skills-with-chatgpt-tactics-for-a-persuasive-outcome/"><u>Enhancing Your Proposal Skills with ChatGPT: Tactics for a Persuasive Outcome</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-resolved-fix-for-semaphore-error-code-0x80070079-now-available/"><u>Error Resolved: Fix for Semaphore Error Code 0X80070079 Now Available</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-mini-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 mini Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-ultimate-playbook-for-a-thriving-youtube-gaming-platform/"><u>In 2024, The Ultimate Playbook for a Thriving YouTube Gaming Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-mobile-a-guide-to-using-chatgpt-on-iphone-and-android-devices/"><u>Mastering Mobile: A Guide to Using ChatGPT on iPhone & Android Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-link-distribution-for-your-chatgpt-interactions/"><u>Mastering the Art of Link Distribution for Your ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-strategic-move-of-microsoft-buying-blizzard-analyzing-artifice-intelligence-and-translation-tech-on-the-podcast-episode-recap/"><u>The Strategic Move of Microsoft Buying Blizzard - Analyzing Artifice Intelligence & Translation Tech on the Podcast [Episode Recap]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-windows-gpsvc-delay-a-guide-to-resolution/"><u>Unraveling the Windows GPSVC Delay: A Guide to Resolution</u></a></li>
 </ul></div>
 

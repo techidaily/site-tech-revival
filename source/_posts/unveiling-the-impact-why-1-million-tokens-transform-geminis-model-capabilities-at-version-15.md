@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Impact: Why 1 Million Tokens Transform Gemini's Model Capabilities at Version 1.5"
-date: 2024-08-29T01:55:56.709Z
-updated: 2024-08-30T01:55:56.709Z
+date: 2025-02-11T02:36:48.124Z
+updated: 2025-02-17T16:16:58.727Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -44,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,8 +61,18 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-virtual-realm-revelations-the-most-anticipated-ps-vr-games/"><u>[New] 2024 Approved Virtual Realm Revelations The Most Anticipated PS VR Games</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-navigating-the-ebb-and-flow-of-daily-social-media-use/"><u>[Updated] In 2024, Navigating the Ebb and Flow of Daily Social Media Use</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bridging-beats-unraveling-the-secrets-of-crossfade/"><u>2024 Approved Bridging Beats Unraveling the Secrets of Crossfade</u></a></li>
+<li><a href="https://win-great.techidaily.com/guide-facile-a-lutilisation-pour-changer-le-stockage-defaut-dans-windows-11-sans-suppression/"><u>Guide Facile À L'Utilisation Pour Changer Le Stockage Défaut Dans Windows 11 Sans Suppression</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-x90s-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo X90S to Outlook | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-mastering-volume-transitions-in-lumafusion/"><u>In 2024, Mastering Volume Transitions in Lumafusion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/masterclass-in-circumventing-copyright-protection-for-mac-users-duplicating-disney-films-safely/"><u>Masterclass in Circumventing Copyright Protection for Mac Users: Duplicating Disney Films Safely</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/specifications-detaillees-de-la-technologie-dintelligence-artificielle-winxvideo-guide-officiel/"><u>Spécifications Détaillées De La Technologie D'intelligence Artificielle Winxvideo : Guide Officiel</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/techniques-pour-diviser-des-fichiers-mp4-sur-windows-10-and-11-aucun-encodage-necessaire/"><u>Techniques Pour Diviser Des Fichiers MP4 Sur Windows 10 & 11: Aucun Encodage Nécessaire</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-proven-artificial-intelligence-video-enhancement-tools-trustworthy-reviews/"><u>Top 6 Proven Artificial Intelligence Video Enhancement Tools: Trustworthy Reviews</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-mkv-encoders-how-to-get-superior-quality-video-conversion/"><u>Top MKV Encoders: How to Get Superior Quality Video Conversion</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

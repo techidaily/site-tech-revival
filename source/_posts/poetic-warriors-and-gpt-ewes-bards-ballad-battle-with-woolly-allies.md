@@ -1,7 +1,7 @@
 ---
 title: Poetic Warriors & GPT Ewes - Bard's Ballad Battle with Woolly Allies
-date: 2025-02-05T22:36:20.529Z
-updated: 2025-02-07T17:23:46.140Z
+date: 2025-02-11T23:28:01.248Z
+updated: 2025-02-18T00:12:28.831Z
 tags:
   - chatgpt
   - open-ai
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. WebChatGPT
 
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 **Download:** ChatGPT Prompt Genius for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. ChatGPT Writer
@@ -88,11 +84,19 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
 
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Talk-to-ChatGPT
 
@@ -105,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. ChatGPT for Search Engines
@@ -121,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
@@ -131,10 +135,6 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
  While the tool summarizes the information in a neat manner, it ends the answers with a quick mention of the best, legitimate sources. And while there's still a possibility of fault here (you'd still need to rely on the sources that Perplexity provides), we believe it's much better than going in blind with the usual, source-less responses you'd otherwise gotten from ChatGPT.
 
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Is Awesome, But Be Realistic…
 
@@ -157,17 +157,15 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-capture-creativity-speedy-drawing-techniques-for-windows-photo-editor/"><u>[New] Capture Creativity Speedy Drawing Techniques for Windows Photo Editor</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-invisible-time-recording-expertise/"><u>[New] Invisible Time Recording Expertise</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-ultimate-fps-levels-in-delayed-footage/"><u>[New] Ultimate FPS Levels in Delayed Footage</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-essential-steps-to-update-your-macos-sierra-system/"><u>[Updated] 2024 Approved Essential Steps to Update Your macOS Sierra System</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-navigating-streamed-content-a-comprehensive-breakdown/"><u>[Updated] In 2024, Navigating Streamed Content A Comprehensive Breakdown</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-functions-of-llama-2-a-comprehensive-guide/"><u>Exploring the Functions of Llama 2: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-potential-of-using-chatgpt-in-malware-production/"><u>Exploring the Potential of Using ChatGPT in Malware Production</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fitness-buffs-blueprint-advanced-techniques-in-writing-efficient-chatgpt-inquiries/"><u>Fitness Buffs' Blueprint: Advanced Techniques in Writing Efficient ChatGPT Inquiries</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-your-laptops-touch-pad-up-and-running-again-tips-for-windows-1187-users/"><u>Get Your Laptop's Touch Pad Up & Running Again! Tips for Windows 11/8/7 Users</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-15-pro-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 15 Pro Making It Possible</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-dawn-of-smart-innovation-enhancing-personal-creativity-through-gpt-4s-power-in-diy-endeavors/"><u>The Dawn of Smart Innovation: Enhancing Personal Creativity Through GPT-4's Power in DIY Endeavors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/which-is-more-advanced-analyzing-features-between-chatgpt-and-huggingfaces-huggingchat/"><u>Which Is More Advanced? Analyzing Features Between ChatGPT and HuggingFace's HuggingChat</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-ultimate-upgrade-samsung-bdplus-k850-review-update-2023/"><u>[New] 2024 Approved The Ultimate Upgrade Samsung BD+ K850 Review Update 2023</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-logo-innovations-branding-your-podcast-visually/"><u>[Updated] Logo Innovations Branding Your Podcast Visually</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-pixiz-essentials-from-stills-to-moving-images/"><u>2024 Approved Pixiz Essentials From Stills to Moving Images</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-visual-excellence-criteria-for-top-10-smartphones-with-high-resolution-cameras/"><u>2024 Approved Visual Excellence Criteria for Top 10 Smartphones with High-Resolution Cameras</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-leading-5-replacements-for-pandora-revolutionizing-your-music-experience/"><u>Discover the Leading 5 Replacements for Pandora, Revolutionizing Your Music Experience.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976534768-download-intel-network-drivers-for-windows-pcs-free-and-fast/"><u>Download Intel Network Drivers for Windows PCs - Free and Fast</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-steps-mastering-the-art-of-magnet-link-downloads/"><u>Easy Steps: Mastering the Art of Magnet Link Downloads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/no-cost-conversion-guide-changing-wmv-videos-into-mp4-format-via-vlc-and-competing-solutions/"><u>No Cost Conversion Guide: Changing WMV Videos Into MP4 Format via VLC & Competing Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revive-your-tunes-essential-strategies-for-overcoming-windows-media-player-issues/"><u>Revive Your Tunes: Essential Strategies for Overcoming Windows Media Player Issues</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-6-plus-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 6 Plus Without Passcode Easily</u></a></li>
 </ul></div>
 

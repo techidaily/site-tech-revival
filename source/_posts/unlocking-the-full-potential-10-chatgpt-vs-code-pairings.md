@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Full Potential: 10 ChatGPT-VS Code Pairings"
-date: 2025-01-31T22:52:46.076Z
-updated: 2025-02-08T05:38:51.702Z
+date: 2025-02-12T23:04:39.921Z
+updated: 2025-02-17T21:07:09.394Z
 tags:
   - chatgpt
   - open-ai
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -63,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
@@ -71,10 +67,14 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
@@ -84,9 +84,17 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -104,15 +112,7 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
 
@@ -147,21 +147,15 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-video-presentation-with-these-7-free-makers/"><u>[Updated] 2024 Approved Elevate Your Video Presentation with These 7 Free Makers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-tranquil-acoustic-settings-on-computers/"><u>[Updated] In 2024, Tranquil Acoustic Settings on Computers</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-made-simple-discover-how-to-engage-without-creating-an-account/"><u>ChatGPT Made Simple: Discover How to Engage Without Creating an Account</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-content-creation-process-ensuring-no-acts-of-plagiarism/"><u>ChatGPT's Content Creation Process: Ensuring No Acts of Plagiarism</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-openai-the-definitive-compendium-on-artificial-intelligence-pioneers/"><u>Decoding OpenAI: The Definitive Compendium on Artificial Intelligence Pioneers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/engineering-peak-canon-sequential-films/"><u>Engineering Peak Canon Sequential Films</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-itel-p55t-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Itel P55T Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-to-efficiently-deploy-chatgpt-extensions/"><u>Guide to Efficiently Deploy ChatGPT Extensions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/how-to-activatedeactivate-pip-in-ios-web-experience/"><u>How to Activate/Deactivate PIP in iOS Web Experience</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-infinix-smart-8-plus-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Smart 8 Plus phone? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/introducing-bard-googles-latest-ai-endeavor-to-challenge-chatgpt/"><u>Introducing 'Bard': Google's Latest AI Endeavor to Challenge ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-chatgpt-management-with-folders/"><u>Mastering the Art of ChatGPT Management with Folders</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-ai-conversations-the-ultimate-list-of-7-chrome-extensions-boosting-chatgpt-capabilities/"><u>Revolutionize AI Conversations: The Ultimate List of 7 Chrome Extensions Boosting ChatGPT Capabilities</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-the-money-opportunity-monetizing-on-youtube-through-mobile-devices/"><u>Seize the Money Opportunity Monetizing on YouTube Through Mobile Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-8-mejores-aplicaciones-de-reconstruccion-de-imagenes-viejas-utilizando-inteligencia-artificial-totalmente-gratis/"><u>Top 8 Mejores Aplicaciones De Reconstrucción De Imágenes Viejas Utilizando Inteligencia Artificial, Totalmente Gratis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-definitive-guide-for-choosing-best-youtube-visual-elements/"><u>[New] The Definitive Guide for Choosing Best YouTube Visual Elements</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-prolive-vs-showrunner-hub/"><u>[Updated] In 2024, ProLive VS Showrunner Hub</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-networking-growth-sharing-facebook-content-via-whatsapp/"><u>[Updated] Networking Growth Sharing Facebook Content via WhatsApp</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-se-2022-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone SE (2022) Without iTunes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-on-broadcasting-to-facebook-live-using-manycam-tips-and-troubleshooting/"><u>Guide on Broadcasting to Facebook Live Using ManyCam: Tips & Troubleshooting</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-unlocking-the-full-potential-of-samsung-galaxy-tab-s6-with-its-s-pen-and-dex-functionality/"><u>In-Depth Analysis: Unlocking the Full Potential of Samsung Galaxy Tab S6 with Its S Pen & DeX Functionality</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/innovators-crafting-immersive-viewscape-for-2024/"><u>Innovators Crafting Immersive Viewscape for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-cam-pro-the-ultimate-multiplecam-alternative-for-seamless-online-broadcasts/"><u>Live Cam Pro: The Ultimate MultipleCam Alternative for Seamless Online Broadcasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-stream-with-manycam-premium-virtual-camera-app-for-broadcasting/"><u>Live Stream with ManyCam: Premium Virtual Camera App for Broadcasting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-discover-manycam-top-virtual-webcam-application/"><u>Live Streaming Made Easy: Discover ManyCam - Top Virtual Webcam Application</u></a></li>
 </ul></div>
 

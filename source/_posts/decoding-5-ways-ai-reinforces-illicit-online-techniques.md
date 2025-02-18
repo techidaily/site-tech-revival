@@ -1,7 +1,7 @@
 ---
 title: Decoding 5 Ways AI Reinforces Illicit Online Techniques
-date: 2025-02-02T21:40:43.476Z
-updated: 2025-02-07T17:11:11.007Z
+date: 2025-02-15T03:30:32.513Z
+updated: 2025-02-17T20:53:39.590Z
 tags:
   - chatgpt
   - open-ai
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The more context you provide your AI tool, the better of a response you'll receive.
 
 ## 2 Ask for More Information After Getting an Initial Answer
@@ -80,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
 [Avoiding common mistakes when using AI prompting tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) isn't always easy, but one of the main issues you'll encounter is trying to make the tool multitask. AI programs will often generate your results within a few minutes, but they can only do one thing at a time. If you try to ask too many things in one go, you won't get the results you want.
@@ -87,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  Sometimes, you'll begin a prompt and realize you forgot to add further information. When this happens, stop or edit the current prompt and include those details before re-generating your answer.
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
@@ -96,14 +100,10 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
@@ -115,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
@@ -127,7 +127,7 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
@@ -147,18 +147,17 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-asmr-mastery-your-guide-to-nighttime-relaxation/"><u>[Updated] 2024 Approved ASMR Mastery Your Guide to Nighttime Relaxation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-roadmap-to-free-cut-out-imagery/"><u>[Updated] The Roadmap to Free Cut-Out Imagery</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-windows-10-gamers-guide-to-effective-video-capture-for-2024/"><u>[Updated] Windows 10 Gamers' Guide to Effective Video Capture for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/critical-evaluation-of-switchbot-smart-curtain-rod-version-3-slight-updates-yet-falls-short/"><u>Critical Evaluation of SwitchBot Smart Curtain Rod Version 3: Slight Updates Yet Falls Short</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-updated-drivers-for-your-hp-deskjet-2540-free-downloads-available-now/"><u>Get the Updated Drivers for Your HP DeskJet 2540 - FREE Downloads Available Now!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-to-watching-3d-movie-marathons-with-fandangos-home-viewing-service/"><u>Guide to Watching 3D Movie Marathons with Fandango's Home Viewing Service</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/how-to-proficiently-use-a-switch-pro-controller-on-steam/"><u>How to Proficiently Use a Switch Pro Controller on Steam</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-removing-drm-from-ebooks-chapter-16/"><u>Step-by-Step Guide: Removing DRM From eBooks Chapter 16</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-bypassing-drm-restrictions-in-your-digital-books-epub-pdf-azw/"><u>Step-by-Step Tutorial on Bypassing DRM Restrictions in Your Digital Books (ePUB, PDF, AZW)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-restoring-corrupted-epub-documents/"><u>Step-by-Step Tutorial on Restoring Corrupted EPUB Documents</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-transferring-book-files-onto-a-pc-kindle-reader/"><u>Step-by-Step Tutorial: Transferring Book Files Onto a PC Kindle Reader</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-educational-materials-into-pdfs-effortlessly-using-vitalsource-technology/"><u>Transform Educational Materials Into PDFs Effortlessly Using Vitalsource Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-aax-audio-files-to-mp3-on-windows-10-and-11-a-step-by-step-guide/"><u>Transforming AAX Audio Files to MP3 on Windows 10 & 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-prime-video-chat-solutions-for-pcs-and-phones-for-2024/"><u>[New] Prime Video Chat Solutions for PCs & Phones for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-gif-to-sticker-methodology-how-to-express-yourself-better-on-discord/"><u>[New] The GIF-to-Sticker Methodology How to Express Yourself Better on Discord</u></a></li>
+<li><a href="https://win-able.techidaily.com/address-frequent-starvation-errors-ensuring-seamless-gaming-experience-on-pc/"><u>Address Frequent Starvation Errors: Ensuring Seamless Gaming Experience on PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/android-and-ios-tips-for-optimal-chatgpt-use/"><u>Android & iOS Tips for Optimal ChatGPT Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-meditation-with-chatgpt-suggestions/"><u>Enhancing Meditation With ChatGPT Suggestions</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-70-lite-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 70 Lite 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-sony-xperia-1-v-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Sony Xperia 1 V to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-analyzing-the-precision-of-yis-4k-actioncam/"><u>In 2024, Analyzing the Precision of Yi's 4K ActionCam</u></a></li>
+<li><a href="https://article-posts.techidaily.com/seamless-strategy-integrating-linktree-into-your-tiktok-bio/"><u>Seamless Strategy Integrating Linktree Into Your TikTok Bio</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-new-wave-of-fbx-free-gaming-analysis-tools-for-2024/"><u>The New Wave of FBX-Free Gaming Analysis Tools for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-conversations-into-content-choices/"><u>Transforming Conversations Into Content Choices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/triad-tactics-for-chatgpts-coexistence-with-wolframalpha/"><u>Triad Tactics for ChatGPT's Coexistence with WolframAlpha</u></a></li>
 </ul></div>
 

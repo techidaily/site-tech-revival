@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Large Language Models: Concepts & Operation"
-date: 2025-02-02T07:31:02.615Z
-updated: 2025-02-08T06:17:10.900Z
+date: 2025-02-16T17:29:53.360Z
+updated: 2025-02-18T00:50:47.089Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What You Need to Speak to ChatGPT
@@ -37,19 +37,15 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -72,12 +68,16 @@ Close
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
@@ -104,22 +104,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/asy-access-best-free-youtube-subtitle-extractors/"><u>[New] Easy Access Best Free YouTube Subtitle Extractors</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-interactive-cosmos-explored-metaverse-versus-omniverse-discussed/"><u>[Updated] 2024 Approved Interactive Cosmos Explored Metaverse Versus Omniverse Discussed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-reassessing-the-updates-to-sonys-s6500-bdhd-player/"><u>[Updated] Reassessing the Updates to Sony's S6500 BD/HD Player</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-comprehensive-checklist-for-launching-engaging-online-events/"><u>2024 Approved The Comprehensive Checklist for Launching Engaging Online Events</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1723808343693-chatgpt-not-working-try-these-5-easy-fixes/"><u>ChatGPT Not Working? Try These 5 Easy Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-guide-thawing-your-frozen-windows-10-machine/"><u>Complete Guide: Thawing Your Frozen Windows 10 Machine</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/connecting-your-epson-printing-machine-to-a-wifi-router-the-simple-way/"><u>Connecting Your Epson Printing Machine to a WiFi Router: The Simple Way</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-music-from-youtube-easily-and-quickly/"><u>Download Music From YouTube. Easily & Quickly!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-torrents-with-confidence-using-fastest-worldwide-vpn-services/"><u>Download Torrents with Confidence Using Fastest Worldwide VPN Services</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/el-tiempo-explicado-con-elegancia-y-claridad-en-espanol/"><u>El Tiempo Explicado Con Elegancia Y Claridad en Español</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/expert-tips-to-ensure-seamless-and-timed-google-collaborative-sessions-for-2024/"><u>Expert Tips to Ensure Seamless and Timed Google Collaborative Sessions for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-vimeo-and-youtube-the-ultimate-showdown/"><u>In 2024, Vimeo and YouTube The Ultimate Showdown</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1723808224305-nordvpn-exclusive-offer-grab-your-vpn-at-a-steal-with-75-savings-and-extra-10-off/"><u>NordVPN Exclusive Offer: Grab Your VPN at a Steal With 75% Savings & Extra $10 Off</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/optimizing-your-amazon-prime-video-experience-understanding-and-adjusting-the-aspect-ratio/"><u>Optimizing Your Amazon Prime Video Experience: Understanding and Adjusting the Aspect Ratio</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trouble-with-windows-10-booting-up-discover-simple-solutions-now/"><u>Trouble with Windows 10 Booting Up? Discover Simple Solutions Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/western-digitals-datasafe-guardian-appraised-a-thorough-guide-to-its-diagnostic-features-and-effectiveness/"><u>Western Digital's DataSafe Guardian Appraised: A Thorough Guide to Its Diagnostic Features and Effectiveness</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-11-cpu/"><u>Windows 지침 11에서 넘치는 CPU 사용량 해결하기 - 자세한 프로시저</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-dual-screen-playback-recording-for-2024/"><u>[Updated] Dual-Screen Playback Recording for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-garmins-virb-ultra-30-action-cam-in-depth-features-analysis/"><u>2024 Approved Garmin's VIRB Ultra 30 Action Cam – In-Depth Features Analysis</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-infinix-note-30-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Infinix Note 30 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-practices-for-effective-chatgpt-interactions-from-github/"><u>Best Practices for Effective ChatGPT Interactions From Github</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-leading-open-source-ai-programs-for-image-generation/"><u>Discover the Leading Open-Source AI Programs for Image Generation</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-dont-miss-out-on-viral-tiktok-challenges/"><u>In 2024, Don't Miss Out on Viral TikTok Challenges</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-bard-googles-strategic-move-over-chatgpt/"><u>Introducing 'Bard': Google's Strategic Move Over ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/re-establishing-missed-dialogues-with-ai/"><u>Re-Establishing Missed Dialogues with AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/secrecy-at-stake-evaluating-chatgpts-ability-to-keep-your-information-private/"><u>Secrecy at Stake: Evaluating ChatGPT's Ability to Keep Your Information Private</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/sharpen-your-focus-tips-for-zooming-inout-on-instagram-stories/"><u>Sharpen Your Focus Tips for Zooming In/Out on Instagram Stories</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/soluciones-efectivas-para-evitar-que-la-copia-de-seguridad-de-windows-nque-se-quede-pendiente-al-97-o-57/"><u>Soluciones Efectivas Para Evitar Que La Copia De Seguridad De Windows N'Que Se Quede Pendiente Al 97% O 57%</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-and-running-chatgpt-on-your-windows-machine/"><u>Step-by-Step Guide: Setting Up & Running ChatGPT on Your Windows Machine</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/step-by-step-guide-transforming-your-wav-audio-into-mp3-format-with-windows-media-player/"><u>Step-by-Step Guide: Transforming Your WAV Audio Into MP3 Format with Windows Media Player</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-an-uncensored-chatbot-building-your-own-gpt-like-conversational-agent-on-windows-with-freedomgpt/"><u>Unleashing an Uncensored Chatbot: Building Your Own GPT-Like Conversational Agent on Windows with FreedomGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-creative-potential-with-ai-microsoft-and-blizzard-merger-discussed-on-our-tech-and-innovation-podcast/"><u>Unlocking Creative Potential with AI: Microsoft and Blizzard Merger Discussed on Our Tech & Innovation Podcast</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-true-cost-benefit-ratio-in-high-grade-ai-inputs/"><u>Unveiling the True Cost-Benefit Ratio in High-Grade AI Inputs</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1728493159697-windows-10/"><u>Windows 10でセーフモードからシステムリカバリを使った修復プロセス</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-spark-20c-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Spark 20C? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

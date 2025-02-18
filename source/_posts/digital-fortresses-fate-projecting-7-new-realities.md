@@ -1,7 +1,7 @@
 ---
 title: "Digital Fortresses' Fate: Projecting 7 New Realities"
-date: 2024-08-29T01:54:46.609Z
-updated: 2024-08-30T01:54:46.609Z
+date: 2025-02-10T19:32:15.690Z
+updated: 2025-02-17T19:48:16.864Z
 tags:
   - chatgpt
   - open-ai
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
  ChatGPT prompting can be a lot of fun. It can be especially exciting when you get the chatbot to do precisely what you want. However, like learning to ride a bike, there can be a few bumps and scrapes along the way. Sometimes, getting the chatbot to provide satisfying results can be a tricky adventure.
 
  The results you get from ChatGPT are as good as the prompts you provide. Poor prompts mean poor responses. That's why we've put together a handy guide on some mistakes to avoid when using ChatGPT.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Mixing Topics In a Single Chat Session
 
@@ -53,8 +57,9 @@ You could use:
  The second set of prompts will produce much more detailed information and relevant responses.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Being Overly Specific With Your Instructions
 
  Although it might appear beneficial to provide highly detailed prompts, this strategy isn't always optimal. Detailed instructions indeed offer ChatGPT a clear direction for generating responses. However, excessive detail can unintentionally confine ChatGPT's responses to an overly narrow context, potentially leading to less accurate responses and hallucinations.
@@ -78,15 +83,9 @@ You could use:
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
+
 ## 5\. Not Using Examples
 
  Incorporating examples is a crucial aspect of[crafting effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) . While not every prompt necessitates an example, when the opportunity arises, including one can greatly enhance the specificity and accuracy of ChatGPT's responses.
@@ -95,9 +94,6 @@ No advertising on the website.
 
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
@@ -105,6 +101,10 @@ No advertising on the website.
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
@@ -114,11 +114,12 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Not Being Clear and Specific With Your Instructions
 
  To get the best responses from ChatGPT, you'll need to be as specific and as unambiguous as possible in your instructions. Unfortunately, ambiguity opens your prompts to multiple interpretations, making it difficult for ChatGPT to provide a specific and accurate response.
@@ -127,21 +128,15 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Is Garbage In, Garbage Out
 
  Just like a chef needs quality ingredients to make a delicious meal, the responses generated by ChatGPT depend greatly on the prompts we provide. Just as the choice of ingredients shapes the taste and outcome of a dish, the clarity, specificity, and context of our prompts influence the accuracy and relevance of ChatGPT's responses. By crafting well-structured prompts, you give ChatGPT the ingredients it needs to serve up insightful and engaging interactions, much like a skilled chef serving a culinary masterpiece.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -150,4 +145,26 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-recording-webinars-on-a-budget-friendly-platform/"><u>[New] Recording Webinars on a Budget-Friendly Platform</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-elevating-visuals-by-attaching-youtube-music-tracks/"><u>[Updated] 2024 Approved Elevating Visuals by Attaching YouTube Music Tracks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-tier-steadicam-options-for-drone-video-production/"><u>[Updated] Top-Tier Steadicam Options for Drone Video Production</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-assisted-stress-reduction-leveraging-chatgpt-to-improve-your-wellbeing/"><u>AI-Assisted Stress Reduction: Leveraging ChatGPT to Improve Your Wellbeing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-galaxy-z-fold-5-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Galaxy Z Fold 5 has native MKV support?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-design-excellence-with-chatgpts-persona-tools/"><u>Elevating Design Excellence with ChatGPT's Persona Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-mobile-experience-with-bings-latest-ai-search-capability/"><u>Enhance Your Mobile Experience with Bing's Latest AI Search Capability</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/690456-9781846947773-extraordinary-ordinary-forgiveness/"><u>Extraordinary Ordinary Forgiveness | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-understanding-context-how-bert-revolutionizes-nlp-and-stands-out-from-gpt-innovations/"><u>From Understanding Context: How BERT Revolutionizes NLP and Stands Out From GPT Innovations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-key-online-portals-for-downloading-text-effects/"><u>In 2024, Key Online Portals for Downloading Text Effects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-deadlines-with-the-assistance-of-chatgpt/"><u>Mastering Deadlines with the Assistance of ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-chatbot-dialogues-efficiently-implementing-the-power-of-chatgpt-folders/"><u>Navigating Chatbot Dialogues Efficiently: Implementing the Power of ChatGPT Folders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reimagining-employment-with-generative-ai/"><u>Reimagining Employment with Generative AI</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/solving-webm-format-errors-in-davinci-resolve-a-step-by-step-guide/"><u>Solving WebM Format Errors in DaVinci Resolve: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-blueprint-of-openai-innovation/"><u>The Blueprint of OpenAI Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-quest-for-ownership-in-the-age-of-ai-creations/"><u>The Quest for Ownership in the Age of AI Creations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-creative-potential-8-ways-chatbots-with-artificial-intelligence-shape-content-innovation/"><u>Unleashing Creative Potential: 8 Ways Chatbots with Artificial Intelligence Shape Content Innovation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-your-potential-with-openais-bespoke-gpt-tools/"><u>Unlock Your Potential with OpenAI's Bespoke GPT Tools</u></a></li>
+</ul></div>
 

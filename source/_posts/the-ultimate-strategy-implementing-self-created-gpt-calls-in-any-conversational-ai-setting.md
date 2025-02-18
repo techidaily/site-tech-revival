@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Strategy: Implementing Self-Created GPT Calls in Any Conversational AI Setting"
-date: 2025-02-05T22:54:07.704Z
-updated: 2025-02-07T18:54:19.458Z
+date: 2025-02-11T01:33:44.383Z
+updated: 2025-02-17T16:45:12.840Z
 tags:
   - chatgpt
   - open-ai
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are the Differences between Google Bard and Bing Chat?
 
  Outwardly, both tools look similar. They both offer a simple interface with a text box to allow you to "chat" with them. However, dig a little deeper, and significant differences become apparent. To test the tools for yourself, you will need a Google and Microsoft account, although you might have to join a[waitlist for Google Bard](https://www.makeuseof.com/how-to-join-google-bard-ai-waitlist/) .
@@ -33,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
  To compare Google Bard and Bing AI Chat, we derived a simple test. We used them to conduct research for an imaginary article on atmospheric CO2 levels and climate change. This enabled us to draw comparisons on several metrics, including the quality and size of the response, the accuracy of the data, and ease of use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Response Quality
@@ -66,11 +62,11 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![Screenshot Bard  CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
- The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
 ## Bing Chat vs. Google Bard: Ease of Use
 
@@ -82,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
@@ -95,7 +87,7 @@ We did manage to get a response from Bard by rewording the prompt.
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As both platforms are going through rapid development, the user experience will continue to improve.
@@ -114,6 +106,10 @@ We did manage to get a response from Bard by rewording the prompt.
 
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is a case of choosing the right tool for the right job. When we compare the performance of both platforms, Bing Chat seems to edge it. However, there are some provisos to consider. The first is that the Microsoft offering is a more complete product, while Bard is still rough around the edges.
 
  But don't rule Bard out. We liked the more fact-driven approach that Google Bard took; the inclusion of ppm levels of CO2 was closer to the spirit of the original question than the Bing response. This is what we would expect to see, given its underlying architecture.
@@ -125,6 +121,10 @@ We did manage to get a response from Bard by rewording the prompt.
  Both tools are incredibly powerful and can generate intelligent answers to any prompt. But both have pros and cons, and the ultimate choice is likely to be decided by factors like user preferences and the desired output type.
 
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Era of the Chatbot Is Upon Us
 
@@ -147,19 +147,24 @@ We did manage to get a response from Bard by rewording the prompt.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-top-tier-mp4-director-for-facebook/"><u>[New] 2024 Approved Top-Tier MP4 Director for Facebook</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/actical-video-takedown-a-guide-to-judging-ownership-and-opposition/"><u>[New] Tactical Video Takedown A Guide to Judging Ownership and Opposition</u></a></li>
-<li><a href="https://win-hot.techidaily.com/bitcoins-latest-trading-value-an-update-from-yl-computing-and-yl-software-experts/"><u>Bitcoin's Latest Trading Value: An Update From YL Computing & YL Software Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-the-future-of-computing-with-acemagic-x1-the-ultimate-dual-screen-laptop/"><u>Experience the Future of Computing with Acemagic X1: The Ultimate Dual-Screen Laptop</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/globale-allianz-abbyy-bildet-mit-synpulse-eine-umfassende-europapartnerschaft/"><u>Globale Allianz: ABBYY Bildet Mit Synpulse Eine Umfassende Europapartnerschaft</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-uninstall-nvidia-drivers-on-windows-10/"><u>How to Uninstall Nvidia Drivers on Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-use-the-windows-11-device-manager-to-update-your-drivers/"><u>How to Use the Windows 11 Device Manager to Update Your Drivers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oneplus-ace-3-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to OnePlus Ace 3 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209859382-9780692098615-keep-this-quiet-iv-revised-edition-2nd-ed/"><u>Keep This Quiet! IV, revised edition (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimize-gameplay-how-to-stop-mouse-acceleration-in-windows-11/"><u>Optimize Gameplay: How to Stop Mouse Acceleration in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolving-not-responding-errors-fix-oculus-air-link-issues-in-windows/"><u>Resolving 'Not Responding' Errors: Fix Oculus Air Link Issues in Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revamping-minecraft-performance-how-to-tweak-high-end-pc-settings-for-ultimate-fps-gains/"><u>Revamping Minecraft Performance : How To Tweak High-End PC Settings for Ultimate FPS Gains</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secure-your-gaming-with-vpns-the-ultimate-guide-for-playstation-4-users/"><u>Secure Your Gaming with VPNs: The Ultimate Guide for PlayStation 4 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-cpu-demands-caused-by-wudfhost-in-windows-11-systems/"><u>Troubleshooting High CPU Demands Caused by WUDFHost in Windows 11 Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-excellence-in-offline-speech-recognition-software/"><u>[New] 2024 Approved Excellence in Offline Speech Recognition Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-discovering-the-true-potential-of-dji-inspire-2/"><u>[Updated] Discovering the True Potential of DJI Inspire 2</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-enhancing-your-content-10-exceptional-reacting-techniques/"><u>[Updated] In 2024, Enhancing Your Content 10 Exceptional Reacting Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-4s-performance-why-is-it-not-as-fast-as-its-predecessor/"><u>ChatGPT-4's Performance: Why Is It Not As Fast As Its Predecessor?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/concealment-strategies-for-your-chatgpt-conversations-without-erasure/"><u>Concealment Strategies for Your ChatGPT Conversations Without Erasure</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/content-writing-and-ai-the-top-6-limitations-of-using-chatbots-as-a-replacement/"><u>Content Writing and AI: The Top 6 Limitations of Using Chatbots as a Replacement</u></a></li>
+<li><a href="https://article-files.techidaily.com/crossing-the-line-at-winter-olympics-2022/"><u>Crossing the Line at Winter Olympics, 2022</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-chatgpt-safety-issues-and-6-key-cybersecurity-risks-to-be-aware-of/"><u>Exploring ChatGPT Safety Issues and 6 Key Cybersecurity Risks to Be Aware Of</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-effortless-fusion-of-youtube-videos-with-flv-format/"><u>In 2024, Effortless Fusion of YouTube Videos with FlV Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-techniques-to-apply-chatgpt-for-improved-writing-skills/"><u>Innovative Techniques to Apply ChatGPT for Improved Writing Skills</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagram-interruption-the-science-behind-a-break-from-online-life/"><u>Instagram Interruption: The Science Behind a Break From Online Life</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-open-source-image-synthesis-programs/"><u>Leading Open-Source Image Synthesis Programs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/professional-email-efficiency-how-chatgpt-can-assist-in-handling-challenging-correspondences/"><u>Professional Email Efficiency: How ChatGPT Can Assist in Handling Challenging Correspondences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-your-network-nirvana-a-guide-to-the-top-6-ways-to-mend-network-hardware-in-windows/"><u>Reclaim Your Network Nirvana: A Guide to the Top 6 Ways to Mend Network Hardware in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reviving-retro-handheld-games-a-guide-to-old-school-gaming-joy/"><u>Reviving Retro Handheld Games: A Guide to Old School Gaming Joy</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-key-to-captivating-audiences-crafting-fb-slideshows-for-2024/"><u>The Key to Captivating Audiences Crafting FB Slideshows for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/turning-chatbots-into-a-stream-of-earnings/"><u>Turning Chatbots Into a Stream of Earnings</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-ultimate-list-of-adobe-premiere-elements-substitutes/"><u>Updated In 2024, The Ultimate List of Adobe Premiere Elements Substitutes</u></a></li>
 </ul></div>
 

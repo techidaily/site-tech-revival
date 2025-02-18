@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Job Quest: 6 ChatGPT Techniques Unveiled"
-date: 2025-02-05T04:41:49.087Z
-updated: 2025-02-08T04:46:10.825Z
+date: 2025-02-14T21:13:51.706Z
+updated: 2025-02-17T18:03:29.031Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 * [Temporary Chat](https://www.makeuseof.com/chatgpt-new-features-spring-update/#temporary-chat)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -61,7 +61,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
@@ -74,13 +74,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -93,7 +93,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Upgraded Code Analysis
@@ -105,7 +105,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
@@ -137,24 +137,19 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-discerning-the-good-and-bad-in-virtual-space/"><u>[Updated] 2024 Approved Discerning the Good & Bad in Virtual Space</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unveiling-the-secrets-of-striking-highlight-image-creation/"><u>2024 Approved Unveiling the Secrets of Striking Highlight Image Creation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ai-integration-in-meta-quest-3-beats-apple-vision-pro-unlocking-features-for-an-advanced-ar-experience-insights/"><u>AI Integration in Meta Quest 3 Beats Apple Vision Pro: Unlocking Features for an Advanced AR Experience | Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-a-gadget-explore-the-6-game-changing-ways-snapchats-my-ai-enhances-communication/"><u>Beyond a Gadget: Explore the 6 Game-Changing Ways Snapchat's My AI Enhances Communication</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-novel-writing-skills-with-chatgpt-discover-these-9-tips/"><u>Boost Your Novel Writing Skills with ChatGPT - Discover These 9 Tips!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-your-freelance-career-top-6-strategies-with-chatgpt/"><u>Boosting Your Freelance Career: Top 6 Strategies with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-deep-learning-how-does-google-palm-2-stack-against-openais-gpt-4/"><u>Deciphering Deep Learning: How Does Google PaLM 2 Stack Against OpenAI's GPT-4?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-ai-driven-text-creation-and-enterprise-usage/"><u>Demystifying AI-Driven Text Creation and Enterprise Usage</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/digital-detectives-tackling-tech-troubles-with-chatai/"><u>Digital Detectives: Tackling Tech Troubles with ChatAI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-superiority-of-claude-3-over-gpt-3-in-four-parts/"><u>Exploring the Superiority of Claude 3 Over GPT-3, In Four Parts</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-6-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 6 to iPad | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone 15 Plus?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-soundscout-beyond-dacast-horizons/"><u>In 2024, SoundScout Beyond DaCast Horizons</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/labor-day-savings-secure-your-home-with-a-25-discount-on-the-top-ranked-blink-mini-2-camera/"><u>Labor Day Savings: Secure Your Home with a 25% Discount on the Top-Ranked Blink Mini 2 Camera</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-the-finest-labor-day-discounts-on-notebook-computers-a-list-of-25-stunning-deals-still-available-zdnet/"><u>Score the Finest Labor Day Discounts on Notebook Computers: A List of 25 Stunning Deals Still Available! | ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-of-office-productivity-chatgpt-in-word/"><u>The Future of Office Productivity: ChatGPT in Word</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/title-option-4-no-cost-hard-disk-cloning-solutions-for-various-windows-editions-2000xpvista7810/"><u>Title Option 4: No-Cost Hard Disk Cloning Solutions for Various Windows Editions (2000/XP/Vista/7/8/10)</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-windows-sound-device-issues/"><u>Troubleshooting Windows Sound Device Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-ai-exploring-the-concept-of-transfer-learning/"><u>Understanding AI: Exploring the Concept of Transfer Learning</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-guidelines-for-optimal-youtube-video-brightness/"><u>[Updated] 2024 Approved Guidelines for Optimal YouTube Video Brightness</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-stream-freedom-on-the-go-download-your-favorite-youtube-tracks-ios/"><u>[Updated] 2024 Approved Stream Freedom on the Go Download Your Favorite YouTube Tracks iOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/5-recommended-applications-for-cost-free-global-communication/"><u>5 Recommended Applications for Cost-Free Global Communication</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-brother-hl-l3295cdw-a-high-speed-and-superior-quality-color-laser-printer/"><u>Comprehensive Evaluation of the Brother HL-L3295CDW - A High-Speed and Superior Quality Color Laser Printer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquer-writers-slump-with-our-top-5-ai-helpers/"><u>Conquer Writer's Slump with Our Top 5 AI Helpers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-ae-plugin-selection-for-superior-results/"><u>Essential AE Plugin Selection for Superior Results</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/google-io-2023-unpacked-the-thrilling-seven-point-update-on-the-latest-bard-ai-technology/"><u>Google I/O 2023 Unpacked: The Thrilling Seven-Point Update on the Latest BARD AI Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-expand-your-reach-using-chatgpt-across-different-languages/"><u>Guide: Expand Your Reach Using ChatGPT Across Different Languages</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-xiaomi-13t-pro-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Xiaomi 13T Pro.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-honor-100-easily-by-drfone-android/"><u>How To Unlock a Honor 100 Easily?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-the-release-of-gpt-5-on-the-horizon/"><u>Is the Release of GPT-5 on the Horizon?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/secure-communication-uncover-3-chatbot-privacy-pitfalls/"><u>Secure Communication? Uncover 3 Chatbot Privacy Pitfalls</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/shielding-your-online-content-methods-to-stop-ai-bots-from-scraping/"><u>Shielding Your Online Content: Methods to Stop AI Bots From Scraping</u></a></li>
 </ul></div>
 

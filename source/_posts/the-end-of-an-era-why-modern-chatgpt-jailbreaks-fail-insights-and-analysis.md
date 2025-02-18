@@ -1,7 +1,7 @@
 ---
 title: "The End of an Era: Why Modern ChatGPT Jailbreaks Fail - Insights and Analysis"
-date: 2025-02-06T09:36:17.329Z
-updated: 2025-02-08T09:09:10.484Z
+date: 2025-02-11T22:47:59.220Z
+updated: 2025-02-18T00:23:59.536Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -63,24 +63,18 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-grow-to-1k-per-month-master-the-art-of-ig-popularity/"><u>[Updated] In 2024, Grow to 1K Per Month Master the Art of IG Popularity</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultra-hd-monitors-with-superior-video-capture-capabilities/"><u>[Updated] Ultra HD Monitors with Superior Video Capture Capabilities</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-easy-alteration-rotate-film-frames-with-vlc/"><u>2024 Approved Easy Alteration Rotate Film Frames with VLC</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-platform-for-seminar-titles/"><u>2024 Approved Premier Platform for Seminar Titles</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/claude-against-chatgpt-in-the-ultimate-battle-of-ai-chatbots-for-daily-support/"><u>Claude Against ChatGPT in the Ultimate Battle of AI Chatbots for Daily Support</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-how-to-leverage-openais-apis-effectively/"><u>Discover How to Leverage OpenAI's APIs Effectively</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fostering-originality-keeping-ai-out-of-homework/"><u>Fostering Originality: Keeping AI Out of Homework</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-your-sandisk-ssd-drivers-quickly-and-easily-complete-tutorial/"><u>How to Install Your Sandisk SSD Drivers Quickly and Easily – Complete Tutorial</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-zte-nubia-z60-ultra-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from ZTE Nubia Z60 Ultra to New Android? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-zero-30-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Zero 30 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-unboxing-the-apple-watch-series-9/"><u>In-Depth Analysis: Unboxing the Apple Watch Series 9</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/perfecting-conversational-ai-the-quintessential-guide-to-custom-gpt-instructions/"><u>Perfecting Conversational AI: The Quintessential Guide to Custom GPT Instructions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/plug-in-with-ease-integrating-new-extensions-into-chatgpt/"><u>Plug in with Ease - Integrating New Extensions Into ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-creating-an-impressive-cover-letter-using-chatgpt/"><u>Step-by-Step Guide: Creating an Impressive Cover Letter Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-impact-of-vector-databases-on-accelerating-ai-development-and-performance/"><u>The Impact of Vector Databases on Accelerating AI Development and Performance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-risks-of-using-ai-chatbots-for-creating-windows-11-product-keys/"><u>The Risks of Using AI Chatbots for Creating Windows 11 Product Keys</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-motorola-moto-e13-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Moto E13 Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-peak-performance-tuning-amd-graphics-on-windows/"><u>Unleash Peak Performance: Tuning AMD Graphics on Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-sets-auto-gpt-apart-from-the-popular-chatgpt/"><u>What Sets Auto-GPT Apart From the Popular ChatGPT?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-newest-camstudio-capture-and-review-2023-update/"><u>[New] In 2024, Newest CamStudio Capture & Review 2023 Update</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-chuckles-and-challenges-best-fun-for-young-minds/"><u>[Updated] Chuckles & Challenges - Best Fun for Young Minds</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-efficient-use-of-obs-studio-for-android-devices/"><u>[Updated] Efficient Use of OBS Studio for Android Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-notch-drones-for-professionals-our-curated-list-for-2024/"><u>[Updated] Top-Notch Drones for Professionals – Our Curated List for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028112547-mp3/"><u>簡単に学べるMP3曲のループ編集テクニック</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-13-miniipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from Apple iPhone 13 mini/iPad/iPod</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029359181-bilibili/"><u>Bilibili動画のダウンロードと保存がうまくいかない方法：修正手順</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-optimal-methods-for-converting-arf-archives-into-accessible-formats/"><u>Comprehensive Guide: Optimal Methods for Converting ARF Archives Into Accessible Formats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-how-to-use-vlc-media-player-to-transcode-avi-files-into-mp4-format/"><u>Comprehensive Tutorial: How to Use VLC Media Player to Transcode AVI Files Into MP4 Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/customize-your-kodi-19-with-djay-theme-magic-installation-tutorial/"><u>Customize Your Kodi 19 with DJay Theme Magic - Installation Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dive-into-the-best-deals-of-octobers-prime-shopping-event-must-have-discounts-still-up-for-grabs-cnet-insights/"><u>Dive Into the Best Deals of October's Prime Shopping Event: Must-Have Discounts Still Up for Grabs | CNET Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726030231975-pc/"><u>PCを使った音楽再生と録音 - 初心者向けガイド</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/websites-on-hold-seven-steps-to-resuscitate-them-in-windows/"><u>Websites On Hold? Seven Steps to Resuscitate Them in Windows</u></a></li>
 </ul></div>
 

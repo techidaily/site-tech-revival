@@ -1,7 +1,7 @@
 ---
 title: "The Making of AI Interactions: Is It an Employable Skill?"
-date: 2024-08-29T01:55:27.967Z
-updated: 2024-08-30T01:55:27.967Z
+date: 2025-02-10T23:30:07.420Z
+updated: 2025-02-17T21:09:02.061Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -44,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,8 +61,19 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-capturing-fluidity-in-iphone-photography/"><u>[New] In 2024, Capturing Fluidity in iPhone Photography</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725284739613-dvd/"><u>最新の無料DVDコピーツールで成功する手引き:問題解決と製品レビュー</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd100/"><u>DVD貯金方法とユニクロ100円ショッピングアイディア全集！最新の環境配慮型ストレージガイドブック：エコで機能的な選択肢</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/expert-guide-optimize-your-vlc-experience-how-to-successfully-play-mp4-videos-on-windows-and-macos/"><u>Expert Guide: Optimize Your VLC Experience - How to Successfully Play MP4 Videos on Windows and MacOS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/immediate-remedies-for-chromes-unresolved-domain-error-errnamenotfound/"><u>Immediate Remedies for Chrome's Unresolved Domain Error (ERR_NAME_NOT_FOUND)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-sticky-visuals-at-a-glance-iphoneandroids-best-sticker-add-on-apps/"><u>In 2024, Sticky Visuals at a Glance – iPhone/Android's Best Sticker Add-On Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-phones-best-gopro-videos-editing-tools/"><u>Leading Phones' Best GoPro Videos Editing Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-video-stability-across-devices-tips-for-windows-mac-android-and-ios-users/"><u>Mastering Video Stability Across Devices: Tips for Windows, Mac, Android and iOS Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-googles-ai-ambitions-an-exploration-of-gemini-project/"><u>Navigating Through Google's AI Ambitions – An Exploration of Gemini Project</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/rhythm-and-reels-posting-melodies-on-social-media/"><u>Rhythm & Reels Posting Melodies on Social Media</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-mp4-combining-tools-the-ultimate-guide-to-fusing-multiple-videos-into-a-single-file/"><u>Top 7 MP4 Combining Tools: The Ultimate Guide to Fusing Multiple Videos Into a Single File</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->

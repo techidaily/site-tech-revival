@@ -1,7 +1,7 @@
 ---
 title: Checking for Errors with ChatGPT?
-date: 2025-02-06T22:01:30.775Z
-updated: 2025-02-07T21:29:49.446Z
+date: 2025-02-15T22:49:31.038Z
+updated: 2025-02-17T18:10:39.197Z
 tags:
   - chatgpt
   - open-ai
@@ -61,6 +61,110 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 3\. Poker
+
+ From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
+
+Close
+
+ My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 4\. Console GPT
+
+ Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
+
+ When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the [Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0), which is a custom AI art tool that will create your "cartridge."
+
+![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Input the type of game you want in the text box, select **Glif It!**, and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
+
+ Now, download the Cyber Syndicate cartridge (as an image; it's not really a cartridge file) by hovering over the image and selecting **Download**.
+
+ Head back to Console GPT and use the image upload button to insert the cartridge. For me, Cyber Syndicate instantly whirrs into life, declaring "COMPATIBLE CARTRIDGE DETECTED. LOADING 'CYBER SYNDICATE.'" The first scenario boots along with a 70 percent full health bar, three options, and, most interestingly, the option to visualize the scene.
+
+Close
+
+ The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
+
+## 5\. Cookie Clicker
+
+ Not content with card games, custom cartridge adventures, or adventuring? Why not give a custom GPT idle game a try instead?
+
+Close
+
+ I have to say, this implementation of Cookie Clicker is jarring. Cookie Clicker is one of the most well-known idle games of all time, building up your cookie income over time.
+
+ The custom GPT Cookie Clicker is decidedly different. You're still building up a cookie empire in a similar style, but because ChatGPT doesn't run automated commands and cannot keep the numbers ticking over like the original game, it requires more input.
+
+ Still, if you're into idle games and want to try something different, it could be worth a try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 6\. Cute Little Zombies
+
+[Adventure Inked](https://adventureinked.wixsite.com/gpts/) has developed more than 200 ChatGPT text adventure games, so there are far too many to list here. Cute Little Zombies is a perfect example of why its text adventures are great, giving you a heap of different scenarios to play through, all with cute little AI-generated images to help build the story out.
+
+Close
+
+ You're first presented with a list to choose your preferred type of zombie apocalypse. Perhaps you prefer a "Classic Horde," or maybe you're more into a "Biotech Disaster" or "Apocalyptic Cult?" Either way, Cute Little Zombies' list of eight scenarios has you covered. Once you select, the game sets the scene, dropping you into a world filled with ravenous zombies, ready to make you one of their own.
+
+ What I like about Cute Little Zombies is that along with the numbered action options, it also makes it clear you can enter another action you want to take, which helps make the game a little more personal. Plus, the images created within the custom GPT game are ridiculously cute, and the storytelling is decent. I mean, it's not going to win any prizes for writing, but it's good enough to draw you in.
+
+ Gaming on ChatGPT is fun, but there is one major frustration that cannot be escaped: ChatGPT's input limit. As you can only send ChatGPT Plus a limited number of messages (around 40 every three hours), any in-depth gaming will be interrupted periodically to reset the counter. The counter doesn't roll over, either. You're not building up extra hours of ChatGPT messages by not messaging; ChatGPT tracks your usage from when you send your first message during a session.
+
+ ChatGPT's games are entertaining, and custom GPT games can add an extra dimension with some clever designs, but that limit means you'll always have more fun with a regular game instead.
+
+ Bored of using ChatGPT for programming, chatting, and learning? It's time to start using it for gaming instead.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
+
+## 1\. Murder Mystery Mayhem
+
+ Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925\.
+
+Close
+
+ As with all good investigations, Murder Mystery Mayhem begins by setting the scene, including an image of the scene and the six suspects, along with names, roles, and potential interview points. You then begin questioning each suspect, attempting to find holes in their story, check alibis, and uncover crucial evidence.
+
+ The story isn't completely linear, but you don't have much room to develop your detective's character. I wrote that "I was pacing the room, looking at each suspect in turn, trying to detect a tell, anger, or worry," but was informed that was outside the boundaries of the game by the Officer (the police officer present at the investigation with you).
+
+ Once you finger your suspect, you call in the Officer to make the arrest. Collar the wrong perp, and the game is over, and you begin with a new mystery.
+
+ Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
+
+## 2\. Oregon Trail
+
+ Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not _the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
+
+Close
+
+ You begin as the Oregon Trail does: choosing your character and buying supplies, then heading out into the wilderness. Most of your input to the game is choosing between the numbered options, such as where to head next, whether to buy more supplies, explore a new area, hunt for supplies, talk to the locals, look at the map, and so on.
+
+ It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Poker
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -135,6 +239,10 @@ Close
 
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Oregon Trail
 
  Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not _the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
@@ -154,7 +262,7 @@ Close
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Console GPT
@@ -164,10 +272,6 @@ Close
  When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the [Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0), which is a custom AI art tool that will create your "cartridge."
 
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Input the type of game you want in the text box, select **Glif It!**, and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
 
@@ -212,169 +316,65 @@ Close
 **SCROLL TO CONTINUE WITH CONTENT**
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
-
-## 1\. Murder Mystery Mayhem
-
- Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925\.
-
-Close
-
- As with all good investigations, Murder Mystery Mayhem begins by setting the scene, including an image of the scene and the six suspects, along with names, roles, and potential interview points. You then begin questioning each suspect, attempting to find holes in their story, check alibis, and uncover crucial evidence.
-
- The story isn't completely linear, but you don't have much room to develop your detective's character. I wrote that "I was pacing the room, looking at each suspect in turn, trying to detect a tell, anger, or worry," but was informed that was outside the boundaries of the game by the Officer (the police officer present at the investigation with you).
-
- Once you finger your suspect, you call in the Officer to make the arrest. Collar the wrong perp, and the game is over, and you begin with a new mystery.
-
- Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 2\. Oregon Trail
-
- Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not _the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
-
-Close
-
- You begin as the Oregon Trail does: choosing your character and buying supplies, then heading out into the wilderness. Most of your input to the game is choosing between the numbered options, such as where to head next, whether to buy more supplies, explore a new area, hunt for supplies, talk to the locals, look at the map, and so on.
-
- It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
-
-## 3\. Poker
-
- From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
-
-Close
-
- My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 4\. Console GPT
-
- Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
-
- When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the [Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0), which is a custom AI art tool that will create your "cartridge."
-
-![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
- Input the type of game you want in the text box, select **Glif It!**, and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
-
- Now, download the Cyber Syndicate cartridge (as an image; it's not really a cartridge file) by hovering over the image and selecting **Download**.
-
- Head back to Console GPT and use the image upload button to insert the cartridge. For me, Cyber Syndicate instantly whirrs into life, declaring "COMPATIBLE CARTRIDGE DETECTED. LOADING 'CYBER SYNDICATE.'" The first scenario boots along with a 70 percent full health bar, three options, and, most interestingly, the option to visualize the scene.
-
-Close
-
- The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 5\. Cookie Clicker
-
- Not content with card games, custom cartridge adventures, or adventuring? Why not give a custom GPT idle game a try instead?
-
-Close
-
- I have to say, this implementation of Cookie Clicker is jarring. Cookie Clicker is one of the most well-known idle games of all time, building up your cookie income over time.
-
- The custom GPT Cookie Clicker is decidedly different. You're still building up a cookie empire in a similar style, but because ChatGPT doesn't run automated commands and cannot keep the numbers ticking over like the original game, it requires more input.
-
- Still, if you're into idle games and want to try something different, it could be worth a try.
-
-## 6\. Cute Little Zombies
-
-[Adventure Inked](https://adventureinked.wixsite.com/gpts/) has developed more than 200 ChatGPT text adventure games, so there are far too many to list here. Cute Little Zombies is a perfect example of why its text adventures are great, giving you a heap of different scenarios to play through, all with cute little AI-generated images to help build the story out.
-
-Close
-
- You're first presented with a list to choose your preferred type of zombie apocalypse. Perhaps you prefer a "Classic Horde," or maybe you're more into a "Biotech Disaster" or "Apocalyptic Cult?" Either way, Cute Little Zombies' list of eight scenarios has you covered. Once you select, the game sets the scene, dropping you into a world filled with ravenous zombies, ready to make you one of their own.
-
- What I like about Cute Little Zombies is that along with the numbered action options, it also makes it clear you can enter another action you want to take, which helps make the game a little more personal. Plus, the images created within the custom GPT game are ridiculously cute, and the storytelling is decent. I mean, it's not going to win any prizes for writing, but it's good enough to draw you in.
-
- Gaming on ChatGPT is fun, but there is one major frustration that cannot be escaped: ChatGPT's input limit. As you can only send ChatGPT Plus a limited number of messages (around 40 every three hours), any in-depth gaming will be interrupted periodically to reset the counter. The counter doesn't roll over, either. You're not building up extra hours of ChatGPT messages by not messaging; ChatGPT tracks your usage from when you send your first message during a session.
-
- ChatGPT's games are entertaining, and custom GPT games can add an extra dimension with some clever designs, but that limit means you'll always have more fun with a regular game instead.
-
- Bored of using ChatGPT for programming, chatting, and learning? It's time to start using it for gaming instead.
-
-**MUO VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
-
-## 1\. Murder Mystery Mayhem
-
- Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925\.
-
-Close
-
- As with all good investigations, Murder Mystery Mayhem begins by setting the scene, including an image of the scene and the six suspects, along with names, roles, and potential interview points. You then begin questioning each suspect, attempting to find holes in their story, check alibis, and uncover crucial evidence.
-
- The story isn't completely linear, but you don't have much room to develop your detective's character. I wrote that "I was pacing the room, looking at each suspect in turn, trying to detect a tell, anger, or worry," but was informed that was outside the boundaries of the game by the Officer (the police officer present at the investigation with you).
-
- Once you finger your suspect, you call in the Officer to make the arrest. Collar the wrong perp, and the game is over, and you begin with a new mystery.
-
- Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
-
-## 2\. Oregon Trail
-
- Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not _the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
-
-Close
-
- You begin as the Oregon Trail does: choosing your character and buying supplies, then heading out into the wilderness. Most of your input to the game is choosing between the numbered options, such as where to head next, whether to buy more supplies, explore a new area, hunt for supplies, talk to the locals, look at the map, and so on.
-
- It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 3\. Poker
-
- From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
-
-Close
-
- My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
-
-## 4\. Console GPT
-
- Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
-
- When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the [Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0), which is a custom AI art tool that will create your "cartridge."
-
-![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
- Input the type of game you want in the text box, select **Glif It!**, and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
-
- Now, download the Cyber Syndicate cartridge (as an image; it's not really a cartridge file) by hovering over the image and selecting **Download**.
-
- Head back to Console GPT and use the image upload button to insert the cartridge. For me, Cyber Syndicate instantly whirrs into life, declaring "COMPATIBLE CARTRIDGE DETECTED. LOADING 'CYBER SYNDICATE.'" The first scenario boots along with a 70 percent full health bar, three options, and, most interestingly, the option to visualize the scene.
-
-Close
-
- The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+## 1\. Murder Mystery Mayhem
+
+ Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925\.
+
+Close
+
+ As with all good investigations, Murder Mystery Mayhem begins by setting the scene, including an image of the scene and the six suspects, along with names, roles, and potential interview points. You then begin questioning each suspect, attempting to find holes in their story, check alibis, and uncover crucial evidence.
+
+ The story isn't completely linear, but you don't have much room to develop your detective's character. I wrote that "I was pacing the room, looking at each suspect in turn, trying to detect a tell, anger, or worry," but was informed that was outside the boundaries of the game by the Officer (the police officer present at the investigation with you).
+
+ Once you finger your suspect, you call in the Officer to make the arrest. Collar the wrong perp, and the game is over, and you begin with a new mystery.
+
+ Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 2\. Oregon Trail
+
+ Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not _the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
+
+Close
+
+ You begin as the Oregon Trail does: choosing your character and buying supplies, then heading out into the wilderness. Most of your input to the game is choosing between the numbered options, such as where to head next, whether to buy more supplies, explore a new area, hunt for supplies, talk to the locals, look at the map, and so on.
+
+ It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
+
+## 3\. Poker
+
+ From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
+
+Close
+
+ My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
+
+## 4\. Console GPT
+
+ Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
+
+ When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the [Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0), which is a custom AI art tool that will create your "cartridge."
+
+![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
+
+ Input the type of game you want in the text box, select **Glif It!**, and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
+
+ Now, download the Cyber Syndicate cartridge (as an image; it's not really a cartridge file) by hovering over the image and selecting **Download**.
+
+ Head back to Console GPT and use the image upload button to insert the cartridge. For me, Cyber Syndicate instantly whirrs into life, declaring "COMPATIBLE CARTRIDGE DETECTED. LOADING 'CYBER SYNDICATE.'" The first scenario boots along with a 70 percent full health bar, three options, and, most interestingly, the option to visualize the scene.
+
+Close
+
+ The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
+
 ## 5\. Cookie Clicker
 
  Not content with card games, custom cartridge adventures, or adventuring? Why not give a custom GPT idle game a try instead?
@@ -388,7 +388,7 @@ Close
  Still, if you're into idle games and want to try something different, it could be worth a try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Cute Little Zombies
@@ -420,17 +420,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-from-novice-to-master-photographer-with-lunapic/"><u>[New] From Novice to Master Photographer with LunaPic</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-realme-v30-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Realme V30 to Another | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 15 Plus?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722889613981-revealed-apples-next-gen-audio-wearable-pricing-launch-and-features-uncovered/"><u>Revealed: Apple's Next-Gen Audio Wearable - Pricing, Launch & Features Uncovered</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-dev-error-5573-for-a-smooth-call-of-duty-vanguard-experience/"><u>Solving Dev Error 5573 for a Smooth Call of Duty: Vanguard Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshoot-and-reduce-memory-overload-in-windows-10-easily/"><u>Troubleshoot & Reduce Memory Overload in Windows 10 Easily</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshoot-lagging-and-cutting-sounds-in-fortnite-for-smoother-gameplay/"><u>Troubleshoot Lagging & Cutting Sounds in Fortnite for Smoother Gameplay</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-and-fixing-print-driver-errors-on-windows-11-systems/"><u>Troubleshooting and Fixing Print Driver Errors on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-gameplay-latency-solving-second-screen-delays-on-windows-10-and-11/"><u>Troubleshooting Gameplay Latency: Solving Second Screen Delays on Windows 10 & 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-how-to-get-back-deleted-texts-on-all-kind-of-phones/"><u>Unlock the Secrets: How To Get Back Deleted Texts on All Kind of Phones</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/webinar-video-archive-creation/"><u>Webinar Video Archive Creation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/windows-11pcdvddvd/"><u>Windows 11用PCへのDVDインポートガイド:全タイプDVDサポート方法</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-chart-your-course-to-youtube-riches-the-essential-500-threshold/"><u>[New] 2024 Approved Chart Your Course to Youtube Riches The Essential 500 Threshold</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-advanced-settings-a-beginners-guide-to-google-photos/"><u>2024 Approved Navigating Advanced Settings A Beginner's Guide to Google Photos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/best-windows-music-managers-for-2024/"><u>Best Windows Music Managers for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypassing-hurdles-the-6-most-frequent-challenges-in-installing-autogpt-and-their-fixes/"><u>Bypassing Hurdles: The 6 Most Frequent Challenges in Installing AutoGPT & Their Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-imaginary-universes-using-chatgpt-expert-tips-and-strategies/"><u>Crafting Imaginary Universes Using ChatGPT: Expert Tips and Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-artifice-intelligence-governance-the-entities-responsible-for-overseeing-ai-development/"><u>Decoding Artifice Intelligence Governance: The Entities Responsible for Overseeing AI Development</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/descubre-la-solucion-mas-eficiente-para-cambiar-formatos-de-imagen-conversion-heic-a-png-sin-problemas/"><u>Descubre La Solución Más Eficiente Para Cambiar Formatos De Imagen: Conversión HEIC a PNG Sin Problemas</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-genres-and-journeys-via-chatgpt/"><u>Navigating Genres and Journeys via ChatGPT</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-step-by-step-guide-how-to-translate-tiktok-videos/"><u>New 2024 Approved Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/preserving-chat-history-a-guide-to-keeping-track-of-your-chatgpt-interactions/"><u>Preserving Chat History: A Guide to Keeping Track of Your ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-capturing-computer-sound-using-audacity-on-pc-or-mac/"><u>Step-by-Step Guide: Capturing Computer Sound Using Audacity on PC or Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-reason-behind-ai-chatbots-growing-success-in-the-digital-age/"><u>The Reason Behind AI Chatbot's Growing Success in the Digital Age</u></a></li>
 </ul></div>
 

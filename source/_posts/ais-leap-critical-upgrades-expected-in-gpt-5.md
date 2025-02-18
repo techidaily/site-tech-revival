@@ -1,7 +1,7 @@
 ---
 title: "AI's Leap: Critical Upgrades Expected in GPT-5"
-date: 2025-02-02T10:34:59.441Z
-updated: 2025-02-07T17:16:39.808Z
+date: 2025-02-15T16:56:09.676Z
+updated: 2025-02-18T02:03:51.689Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/192a8b490dda7b2810c72f377a9e089461747eddc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Image Input and Output Capabilities](https://www.makeuseof.com/chatgpt-new-features-spring-update/#image-input-and-output-capabilities)
@@ -33,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/192a8b490dda7b2810c72f377a9e089461747eddc
 * [Temporary Chat](https://www.makeuseof.com/chatgpt-new-features-spring-update/#temporary-chat)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -45,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/192a8b490dda7b2810c72f377a9e089461747eddc
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Image Input and Output Capabilities
@@ -56,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/192a8b490dda7b2810c72f377a9e089461747eddc
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
  Aside from taking images as input, ChatGPT can also generate DALL-E images within the interaction.
@@ -67,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/192a8b490dda7b2810c72f377a9e089461747eddc
 I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
@@ -86,6 +82,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Multi-Modal Voice and Video Interactions
 
  Everyone[wanted to see more modality in ChatGPT](https://www.makeuseof.com/gpt-5-features-we-want-to-see/) . The new ChatGPT-4o model gives access to multi-modal voice and video interaction, allowing users to engage in continuous voice and video conversations with ChatGPT, like making a video call with a human assistant. ChatGPT-4o's conversation support, video capability, and human-like voice and emotions make this new feature different from other voice assistants.
@@ -96,10 +96,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Upgraded Code Analysis
 
  The previous ChatGPT Code Interpreter is now called Advanced Data Analysis (ADA). Since it is already out of beta and ChatGPT plugins are no longer available, ADA is now an integrated feature within both ChatGPT-4 and ChatGPT-4o, and both Free and Plus tier users now have this feature. No plugin or activation is needed; simply prompt ChatGPT to run, analyze, or write code, and it should do the rest for you.
@@ -107,6 +103,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  Here, I’ve given ChatGPT-4o an SQL file containing a database from an e-commerce project and asked it to analyze and graph the top products commonly ordered.
 
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
@@ -137,21 +137,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-cerebral-quests-the-ultimate-list-of-escape-rooms-for-2024/"><u>[Updated] Cerebral Quests The Ultimate List of Escape Rooms for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-y78-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo Y78 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-step-by-step-tutorial-for-reading-barnes-and-noble-nook-books-on-amazons-kindle-device/"><u>A Step-by-Step Tutorial for Reading Barnes & Noble (Nook) Books on Amazon's Kindle Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/book-format-showdown-the-timeless-appeal-of-physical-books-versus-the-convenience-of-ebooks/"><u>Book Format Showdown: The Timeless Appeal of Physical Books Versus the Convenience of eBooks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-professional-imageprograf-pro-100-driver-installation-for-windows-quick-and-easy-setup/"><u>Canon Professional ImagePROGRAF PRO-100 Driver Installation for Windows: Quick & Easy Setup</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-ebook-formats-exploring-the-distinctions-of-kindle-kfn-kcr-azwazw3-and-more/"><u>Comparing Ebook Formats: Exploring the Distinctions of Kindle KFN, KCR, AZW/AZW3, and More</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-guide-fix-the-issue-of-not-responding-or-cannot-open/"><u>Complete Guide: Fix the Issue of 'Not Responding' Or 'Cannot Open'</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-guide-removing-e-books-from-your-library-on-google-play-store/"><u>Complete Guide: Removing E-Books From Your Library on Google Play Store</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-conversion-how-to-turn-your-kfx-format-into-a-universal-pdf-file/"><u>Effortless Conversion: How to Turn Your KFX Format Into a Universal PDF File</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fastest-audible-to-mp3-converter-boost-speed-by-60x-with-the-latest-aax-technology/"><u>Fastest Audible-to-MP3 Converter: Boost Speed by 60X with the Latest AAX Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/googles-latest-leap-in-innovation-introducing-five-cutting-edge-ai-features-for-chromebook-enthusiasts-post-copilot-era/"><u>Googles' Latest Leap in Innovation: Introducing Five Cutting-Edge AI Features for Chromebook Enthusiasts Post-Copilot Era</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-reno-10-proplus-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo Reno 10 Pro+ 5G Phone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-asus-rog-phone-7-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Asus ROG Phone 7 Device</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-avs-video-editor-review/"><u>New In 2024, The Ultimate AVS Video Editor Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-no-sound-recognition-by-windows-operating-system/"><u>Reversing No Sound Recognition by Windows Operating System</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-flashback-filmmaking-essential-retro-vhs-techniques-for-modern-videos-for-2024/"><u>[New] Flashback Filmmaking Essential Retro VHS Techniques for Modern Videos for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-capturing-chaos-in-high-definition-the-polaroid-xs-review/"><u>[New] In 2024, Capturing Chaos in High Definition - The Polaroid XS Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-seamless-sound-shift-best-10-youtube-audio-converters/"><u>[New] In 2024, Seamless Sound Shift Best 10 YouTube Audio Converters</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premiere-pros-art-of-audio-transitioning/"><u>[New] Premiere Pro’s Art of Audio Transitioning</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/3macos/"><u>3大功能性的免費同步工具選擇：macOS使用手冊</u></a></li>
+<li><a href="https://article-files.techidaily.com/elevate-your-space-top-cloud-choices-for-2024/"><u>Elevate Your Space Top Cloud Choices for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/fix-unrecognized-iphone-by-itunes-on-windows-10-a-complete-guide/"><u>Fix: Unrecognized iPhone by iTunes on Windows 10 – A Complete Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/interactive-conversations-with-ai-how-chatgpt-responds-to-prompts-and-commands-via-voice/"><u>Interactive Conversations with AI: How ChatGPT Responds to Prompts & Commands via Voice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/le-chat-vs-chatgpt-our-in-depth-review-of-two-popular-ai-chatbots/"><u>Le Chat vs ChatGPT - Our In-Depth Review of Two Popular AI Chatbots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-is-now-with-microsoft-bings-ai-enhanced-search-capabilities/"><u>The Future Is Now with Microsoft Bing's AI-Enhanced Search Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-paperclip-maximization-dilemma-its-role-and-consequences-for-ai-development/"><u>The Paperclip Maximization Dilemma: Its Role & Consequences for AI Development</u></a></li>
 </ul></div>
 

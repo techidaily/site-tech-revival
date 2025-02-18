@@ -1,7 +1,7 @@
 ---
 title: Microsoft and AI Merge for Next-Gen Bing Searches
-date: 2025-02-03T16:42:11.253Z
-updated: 2025-02-08T10:33:30.887Z
+date: 2025-02-13T18:21:18.189Z
+updated: 2025-02-17T22:22:10.267Z
 tags:
   - chatgpt
   - open-ai
@@ -31,16 +31,12 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
  Arguments exist for and against setting up a local LLM on your computer. We'll cut the hype and bring you the facts. Should you use a local LLM?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Pros of Using Local LLMs
 
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Why are people so hyped about setting up their own[large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) on their computers? Beyond the hype and bragging rights, what are some practical benefits?
 
@@ -51,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
  Today, both[chatbots have been so tightly censored](https://www.makeuseof.com/what-is-chatbot-censorship/) that they won't even help you write a fictional crime novel with violent scenes. Some AI chatbots won't even talk about religion or politics. Although LLMs you can set up locally aren't entirely censorship-free, many of them will gladly do the thought-provoking things the public-facing chatbots won't do. So, if you don't want a robot lecturing you about morality when discussing topics of personal interest, running a local LLM might be the way to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Better Data Privacy
@@ -67,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
  The average price of accessing a capable LLM like GPT-4 or Claude 2 is $20 per month. Although that might not seem like an alarming price, you still get several annoying restrictions for that amount. For instance, with GPT-4, accessed via ChatGPT, you are stuck with a 50-message per three-hour cap. You can only get past those limits by[switching to the ChatGPT Enterprise plan](https://www.makeuseof.com/what-is-chatgpt-enterprise/) , which could potentially cost thousands of dollars. With a local LLM, once you've set up the software, there are no $20 monthly subscription or recurring costs to pay. It's like buying a car instead of relying on ride-share services. Initially, it's expensive, but over time, you save money.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Better Customization
@@ -77,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 ## The Cons of Using Local LLMs
 
 ![An illustration of a young boy using ChatGPT on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-child.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Before you make the switch, there are some downsides to using a local LLM you should consider.
 
@@ -94,9 +86,17 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
  In short, unless you're rocking an absolute top-of-the-line setup (we're talking AMD Ryzen 5800X3D with an Nvidia RTX 4090 and enough RAM to sink a ship), the overall performance of your local LLM won't compare to the online generative AI chatbots you're used to.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Complex Setup
 
  Deploying a local LLM is more involved than just signing up for a web-based AI service. With an internet connection, your ChatGPT, Bard, or Bing AI account could be ready to start prompting in minutes. Setting up a full local LLM stack requires downloading frameworks, configuring infrastructure, and integrating various components. For larger models, this complex process can take hours, even with tools that aim to simplify installation. Some bleeding-edge AI systems still require deep technical expertise to get running locally. So, unlike plug-and-play web-based AI models, managing your own AI involves a significant technical and time investment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Limited Knowledge
 
@@ -125,21 +125,24 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/asy-loop-keeping-iphone-videos-running/"><u>[New] Easy Loop Keeping iPhone Videos Running</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-google-pixel-8-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-free-a-deep-dive-into-chatgpt-plus/"><u>Beyond Free: A Deep Dive Into ChatGPT Plus</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-and-crypto-analysis-the-five-key-drawbacks-to-consider/"><u>ChatGPT and Crypto Analysis – The Five Key Drawbacks to Consider</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-best-8-ai-chat-solutions-for-your-wellness-journey/"><u>Discover the Best 8 AI Chat Solutions for Your Wellness Journey</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-private-messaging-experience-using-duckduckgos-cutting-edge-ai-chat-platform-including-gpt-capabilities/"><u>Enhance Your Private Messaging Experience Using DuckDuckGo’s Cutting-Edge AI Chat Platform, Including GPT Capabilities</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ring-sourav-joshis-success-on-youtube-for-a-profitable-2024/"><u>Exploring Sourav Joshi’s Success on YouTube for a Profitable 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-safe-are-your-finances-and-devices-when-hackers-utilize-ai-services-like-chatgpt-for-illicit-purposes/"><u>How Safe Are Your Finances and Devices When Hackers Utilize AI Services Like ChatGPT for Illicit Purposes?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-detailed-insights-into-youtubes-monthly-income-model/"><u>In 2024, Detailed Insights Into YouTube's Monthly Income Model</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On OnePlus Ace 2V? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/luminous-transformations-for-android-videos-step-by-step-for-2024/"><u>Luminous Transformations for Android Videos Step by Step for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/realistic-wellness-targets-with-gpt-assistance/"><u>Realistic Wellness Targets with GPT Assistance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-codegpt-the-next-generation-solution-to-writing-source-code/"><u>Understanding CodeGPT: The Next Generation Solution to Writing Source Code</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-sharing-giants-clash-vimeo-vs-youtube-for-2024/"><u>Video Sharing Giants Clash Vimeo vs YouTube for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/warzone-woes-solve-the-problem-when-your-pc-cant-find-competitive-battles/"><u>Warzone Woes? Solve the Problem When Your PC Can't Find Competitive Battles</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725284496141-windows-11-dvd/"><u>Windows 11 DVD自動再生ガイド：解決策はこちら! - 無反応時にどうする?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-update-to-the-newest-geforce-rtx-3080-driver-for-pcs-running-windows-11-8-or-7/"><u>[Free] Update to the Newest GeForce RTX 3080 Driver for PCs Running Windows 11, 8 or 7</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-hushing-up-unwanted-noise-on-skype-for-2024/"><u>[New] Hushing Up Unwanted Noise on Skype for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-gentle-art-of-reducing-audio-amplitude-in-logic-pro/"><u>[New] The Gentle Art of Reducing Audio Amplitude in Logic Pro</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unlock-the-best-top-9-gamers-hubs-for-2024/"><u>[New] Unlock the Best Top 9 Gamers' Hubs for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-photoshop-color-adjustments-for-beginners-for-2024/"><u>[Updated] Photoshop Color Adjustments for Beginners for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strategies-for-dominating-spotifys-advertising-space/"><u>2024 Approved Strategies for Dominating Spotify's Advertising Space</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725290111961-handbrake/"><u>日本語化したHandBrake使い方 – ダウンロードせずに実践ガイド</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-guide-to-creative-use-of-supplementary-footage-b-roll-for-2024/"><u>A Guide to Creative Use of Supplementary Footage (B-Roll) for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-communicators-contrasted-insights-on-gpt-and-bing/"><u>AI Communicators Contrasted: Insights on GPT & Bing</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/easily-access-worldwide-languages-for-next-to-nothing/"><u>Easily Access Worldwide Languages for Next to Nothing</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-gopro-vs-polaroid-cube-choosing-your-editing-companion/"><u>In 2024, GoPro Vs. Polaroid Cube Choosing Your Editing Companion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/microsofts-acquisition-of-blizzard-insights-on-ai-generated-art-and-multilingual-technology-podcast-review/"><u>Microsoft's Acquisition of Blizzard: Insights on AI-Generated Art & Multilingual Technology - Podcast Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-ai-unlock-the-meanings-behind-29-important-concepts/"><u>Navigating the World of AI: Unlock the Meanings Behind 29 Important Concepts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/no-more-monetary-barriers-the-best-use-of-copilot-for-a-free-gpt-4-turbo/"><u>No More Monetary Barriers: The Best Use of Copilot for a Free GPT-4 Turbo</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-virtual-webcams-discover-the-power-of-manycams-competitors/"><u>Ultimate Guide to Virtual Webcams: Discover the Power of ManyCam's Competitors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-live-broadcast-toolkit-with-manycam-and-virtual-webcams/"><u>Ultimate Live Broadcast Toolkit with ManyCam and Virtual Webcams</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-professional-vlogging-potential-discover-manycams-all-in-one-solution-for-live-videos-remote-webcams-and-more/"><u>Unleash Professional Vlogging Potential: Discover ManyCam's All-in-One Solution for Live Videos, Remote Webcams, & More!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-your-broadcast-potential-with-manycam-advanced-virtual-webcam-technology-for-pros/"><u>Unleash Your Broadcast Potential with ManyCam - Advanced Virtual Webcam Technology for Pros</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/virtual-webcams-on-steroids-discover-leading-manycam-substitutes-for-enhanced-online-broadcasting/"><u>Virtual Webcams on Steroids: Discover Leading ManyCam Substitutes for Enhanced Online Broadcasting</u></a></li>
 </ul></div>
 

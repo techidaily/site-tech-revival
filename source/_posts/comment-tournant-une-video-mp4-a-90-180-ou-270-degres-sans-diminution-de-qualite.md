@@ -1,7 +1,7 @@
 ---
 title: Comment Tournant Une Vidéo MP4 À 90, 180 Ou 270 Degrés Sans Diminution De Qualité ?
-date: 2024-08-31 23:16:50
-updated: 2024-09-02 11:47:53
+date: 2025-02-15T21:56:46.956Z
+updated: 2025-02-17T22:16:52.629Z
 categories:
   - winxdvd
 thumbnail: https://thmb.techidaily.com/a26306e3d205a36c4a6b9d44bd1cf9f948f504e389465c9417b498ad1381c72e.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/a26306e3d205a36c4a6b9d44bd1cf9f948f504e38
 ## Exploring Standard DVD Resolution - Is It SD (480P), HD (720P), or UHD (108)?
 
 [Home](https://tools.techidaily.com/winxdvd/products/) \> [DVD](https://tools.techidaily.com/winxdvd/products/) \> [Convert DVD](https://tools.techidaily.com/winxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ![WinX DVD Ripper Platinum icon](https://www.winxdvd.com/resource/../seoimg/icon2.png) [WinX DVD Ripper Platinum](https://tools.techidaily.com/winxdvd/products/) 
 
@@ -25,8 +29,6 @@ thumbnail: https://thmb.techidaily.com/a26306e3d205a36c4a6b9d44bd1cf9f948f504e38
 [Free Download](https://tools.techidaily.com/winxdvd/products/) 
 
 ![rip dvd](https://www.winxdvd.com/resource/../seo-img/general-img/seobanner-dvd.png) 
-
-
 
 _Here is the most complete information about DVD resolutions._
 
@@ -50,6 +52,14 @@ Both DVD resolutions are available in 4:3 and 16:9 aspect ratios. Besides standa
  So apparently, SD DVDs are not in 1080p or 720p. The max DVD resolution is 480i/p or 576i/p. 
 
 ![DVD resolution vs 720p vs 1080p vs 4K](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/dvd-resolution.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Is DVD lower quality than Blu-ray?
 
@@ -89,11 +99,19 @@ How to make DVDs look better on widescreen? There're 3 ways to [improve DVD qual
 
 ![Change DVD resolution: upscale DVD from 480P to 1080P](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/parameter-resolution-700.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Q3\. Is It Possible to Burn a DVD with 720p/1080p HD Video? 
 
  You put into a 720p video and then output a complete DVD disc, which plays normally. And you think you are holding a 1280x720 resolution DVD. Well, actually you omit an important link. 
 
 The truth is that DVD authoring software always automatically converts video to standard DVD resolution for burning. So to some extent, we can give you a positive answer: yes, it is possible to burn a DVD with 720p HD video or video in higher resolution, because all 720p/1080p/4K videos will be downscaled to 480p/576p. But seriously, there is no way to make a DVD with HD resolution videos. The highest DVD resolution is 720x480 or 720x576.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Burn DVD with 720p Videos?
 
@@ -124,7 +142,16 @@ Can DVD be upscaled to 4K? Yes. Some Blu-ray Disc players are equipped with 4K u
 * [DVD vs Blu-ray vs Digital File: What Are the Differences?](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 * [How to Free Rip DVD with Same Quality](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 * [Best Settings to Rip DVDs Fast with Good Quality & Small Size](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [Streaming vs DVD? DVD is Better to Use in What Cases](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,11 +159,28 @@ Can DVD be upscaled to 4K? Yes. Some Blu-ray Disc players are equipped with 4K u
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-a-practical-guide-to-managing-twitter-archives/"><u>[New] 2024 Approved A Practical Guide to Managing Twitter Archives</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-quick-editing-incorporating-jump-cuts-in-video-content/"><u>[New] Quick Editing Incorporating Jump Cuts in Video Content</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-illuminating-pathways-through-mixed-realitys-domain/"><u>[Updated] In 2024, Illuminating Pathways Through Mixed Reality's Domain</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/an-overview-what-is-openai/"><u>An Overview: What Is OpenAI?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cook-smart-live-well-chatgpts-kitchen-companion/"><u>Cook Smart, Live Well: ChatGPT's Kitchen Companion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-organizing-chatgpt-interactions-with-dedicated-folders/"><u>Effective Strategies for Organizing ChatGPT Interactions with Dedicated Folders</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-correct-service-did-not-respond-error-1053/"><u>Effective Strategies to Correct 'Service Did Not Respond' Error (1053)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-airline-status-discover-the-best-5-credit-cards-for-exclusive-airport-lounge-entry-zdnet-insights/"><u>Elite Airline Status: Discover the Best 5 Credit Cards for Exclusive Airport Lounge Entry | ZDNET Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhance-engagement-with-these-4-looping-video-techniques-for-2024/"><u>Enhance Engagement with These 4 Looping Video Techniques for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-x5-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco X5 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protecting-your-digital-self-insights-into-why-hackers-prey-on-chatgpt-accounts/"><u>Protecting Your Digital Self: Insights Into Why Hackers Prey on ChatGPT Accounts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strategic-nutrition-planning-using-the-power-of-chatgpt/"><u>Strategic Nutrition Planning Using the Power of ChatGPT</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-gpt-4-for-you-and-all/"><u>Understanding GPT-4, For You and All</u></a></li>
+</ul></div>
+

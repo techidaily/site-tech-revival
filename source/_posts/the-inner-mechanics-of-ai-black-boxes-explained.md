@@ -1,7 +1,7 @@
 ---
 title: The Inner Mechanics of AI Black Boxes Explained
-date: 2025-02-03T09:13:51.386Z
-updated: 2025-02-08T05:44:27.288Z
+date: 2025-02-14T20:17:03.472Z
+updated: 2025-02-17T19:02:54.391Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
  Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925.
@@ -55,10 +51,6 @@ Close
 
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2.[Oregon Trail](https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail)
 
  Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not_the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
@@ -70,7 +62,7 @@ Close
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
@@ -81,6 +73,10 @@ Close
 
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
 
  Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
@@ -90,7 +86,7 @@ Close
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
@@ -114,6 +110,10 @@ Close
  The custom GPT Cookie Clicker is decidedly different. You're still building up a cookie empire in a similar style, but because ChatGPT doesn't run automated commands and cannot keep the numbers ticking over like the original game, it requires more input.
 
  Still, if you're into idle games and want to try something different, it could be worth a try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
 
@@ -144,21 +144,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-sound-shifts-in-free-fire/"><u>[New] Mastering Sound Shifts in Free Fire</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-navigating-board-usage-a-universal-guide-for-ios-android-and-windows-platforms/"><u>[New] Navigating Board Usage A Universal Guide for iOS, Android & Windows Platforms</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-undead-unleashed-discovering-the-ultimate-zombie-games/"><u>[Updated] Undead Unleashed Discovering the Ultimate Zombie Games</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creative-writing-with-ai-mastering-poetry-creation-using-chatgpt/"><u>Creative Writing with AI: Mastering Poetry Creation Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ensuring-secure-and-responsible-use-of-conversational-agents-in-therapy-sessions/"><u>Ensuring Secure and Responsible Use of Conversational Agents in Therapy Sessions</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/essential-8-linux-software-for-editors-for-2024/"><u>Essential 8 Linux Software for Editors for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-ai-contributes-to-cybercrime-understanding-the-5-key-factors/"><u>How AI Contributes to Cybercrime: Understanding the 5 Key Factors</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-se-2020-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone SE (2020) when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-xcover-7-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy XCover 7 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-5-iphone-x-compatible-backdrop-change-tools/"><u>In 2024, Top 5 iPhone X-Compatible Backdrop Change Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-anthropics-prompt-potential-via-claude-3/"><u>Maximizing Anthropic's Prompt Potential via Claude 3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-landscape-of-ai-based-prompt-engineering-long-term-viability/"><u>Navigating the Landscape of AI-Based Prompt Engineering: Long-Term Viability</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategies-for-effective-chatgpt-utilization-in-academic-studies/"><u>Strategies for Effective ChatGPT Utilization in Academic Studies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamline-content-production-with-chatgpt-9-practical-ways-to-elevate-your-craft/"><u>Streamline Content Production with ChatGPT: 9 Practical Ways to Elevate Your Craft</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-comparative-analysis-of-online-bot-intelligence/"><u>The Comparative Analysis of Online Bot Intelligence</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-commanding-youtube-realm-through-strategic-creator-studio-utilization/"><u>[Updated] 2024 Approved Commanding YouTube Realm Through Strategic Creator Studio Utilization</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-distinguished-directory-top-ranked-websites-for-snatching-snapalert-melodies/"><u>[Updated] 2024 Approved Distinguished Directory Top-Ranked Websites for Snatching SnapAlert Melodies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gigglegridsguild-funnyframefactory/"><u>[Updated] GiggleGridsGuild FunnyFrameFactory</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-arcadia-elite-seamless-full-hd-multi-touch-desktops/"><u>2024 Approved Arcadia Elite Seamless, Full HD Multi-Touch Desktops</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-samsung-galaxy-s23-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Samsung Galaxy S23? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-home-efficiency-top-6-chatgpt-techniques-for-daily-task-management/"><u>Boosting Home Efficiency: Top 6 ChatGPT Techniques for Daily Task Management</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/challenges-with-chatgpts-legality-whats-new-in-the-google-news-landscape-and-how-to-ensure-peak-mobile-connectivity-while-traveling/"><u>Challenges with ChatGPT's Legality, What's New in the Google News Landscape, & How to Ensure Peak Mobile Connectivity While Traveling</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-on-leveraging-the-power-of-chatgpts-api/"><u>Comprehensive Guide on Leveraging the Power of ChatGPT's API</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-windows-11-isp-settings/"><u>Exploring Windows 11 ISP Settings</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-e13frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto E13FRP Lock</u></a></li>
+<li><a href="https://extra-information.techidaily.com/stepwise-instructions-enabling-or-disabling-youtubes-pip-mode/"><u>Stepwise Instructions Enabling or Disabling YouTube's PIP Mode</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-giants-in-big-data-natural-language-processing/"><u>Top 6 Giants in Big Data Natural Language Processing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-secret-ingredients-for-chatgpts-phenomenal-growth-spurt/"><u>Unveiling the Secret Ingredients for ChatGPT's Phenomenal Growth Spurt</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-is-the-significance-of-the-turing-test-in-ai-evolution-and-can-it-be-conquered-by-machines/"><u>What Is the Significance of the Turing Test in AI Evolution and Can It Be Conquered by Machines?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/windows-11-and-ghostrunner-overcoming-deadly-game-crashes-with-proven-methods/"><u>Windows 11 and Ghostrunner: Overcoming Deadly Game Crashes with Proven Methods</u></a></li>
 </ul></div>
 

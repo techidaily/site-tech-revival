@@ -1,7 +1,7 @@
 ---
 title: Safeguard Sensitive Data, Not ChatGPT
-date: 2025-02-07T04:00:37.349Z
-updated: 2025-02-08T07:33:35.096Z
+date: 2025-02-12T02:29:56.245Z
+updated: 2025-02-17T21:23:51.445Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. I Am Rich
 
 ![The I Am Rich plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-i-am-rich-plugin-on-the-chatgpt-plugin-store.jpg)
@@ -46,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to[scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/) ? Maybe ChatGPT plugins are not the right tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. AppyPie App Builder
 
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
@@ -64,13 +64,13 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. AI Agents
 
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
 
@@ -78,13 +78,13 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  It seems it was just applying a few prompt tricks and returning a not-so-enhanced copy of what ChatGPT would provide. There's really no sense of AI agents at work. It doesn't offer anything particularly different from what ChatGPT would do.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. A Movie Please (FilmFindr)
 
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The "A Movie Please" plugin is a movie recommendation tool to help ChatGPT users decide what to watch next. Although the plugin is not a dud (it actually makes movie recommendations), you're better off using ChatGPT without the plugin.
 
@@ -92,20 +92,20 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  For quality movie suggestions, you're better off prompting the base ChatGPT model directly[to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) . By going that route, you'll get far superior results compared to relying on the "A Movie Please" plugin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. ABC Website Maker
 
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT's Plugin Store: Quantity Over Quality?
@@ -129,22 +129,18 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/-creative-thumbnails-free-tools-for-youtube-for-2024/"><u>[New] 7 Creative Thumbnails Free Tools for YouTube for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-insta-tones-101-learn-to-design-and-download-on-your-own-for-2024/"><u>[New] Insta Tones 101 Learn to Design and Download on Your Own for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y100-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y100 5G</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/detailed-instructions-how-to-properly-remove-nvidia-drivers-from-your-windows-10-machine/"><u>Detailed Instructions: How to Properly Remove Nvidia Drivers From Your Windows 10 Machine</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dividing-your-view-a-step-by-step-guide-on-splitting-the-screen-in-windows-10/"><u>Dividing Your View: A Step-by-Step Guide on Splitting the Screen in Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-guide-how-to-quickly-set-up-adb-drivers-on-windows/"><u>Easy Guide: How to Quickly Set Up Adb Drivers on Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-steps-for-connecting-your-sony-bluetooth-earbuds-to-any-device/"><u>Easy Steps for Connecting Your Sony Bluetooth Earbuds to Any Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-boosting-your-pcs-performance/"><u>Effective Strategies for Boosting Your PC's Performance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-disk-creation-the-ultimate-tutorial-for-using-windows-nines-burn-feature/"><u>Effortless Disk Creation: The Ultimate Tutorial for Using Windows Nine's Burn Feature</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-guide-how-to-find-your-windows-pcs-ram-a-step-by-step-tutorial/"><u>Effortless Guide: How to Find Your Windows PC's RAM - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-vpn-connection-on-firestick-a-step-by-step-guide/"><u>Effortless VPN Connection on Firestick: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-tecno-camon-20-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Tecno Camon 20 online without jailbreak</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-framingfraction-analysis/"><u>In 2024, FramingFraction Analysis</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/stable-iphone-cinematography-three-tactics-inside/"><u>Stable iPhone Cinematography Three Tactics Inside</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlimitierte-konvertierung-von-dvd-zu-digital-mit-watermark-freiem-dvd-ripper-tool-gratis-verfugbar/"><u>Unlimitierte Konvertierung Von DVD Zu Digital Mit Watermark-Freiem DVD-Ripper Tool Gratis Verfügbar</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-windows-107-users-guide-to-dawnbreakers-discovering-top-8-audio-workstations/"><u>Updated Windows 10/7 Users Guide to Dawnbreakers Discovering Top 8 Audio Workstations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-from-storyboards-to-shortcuts-instra-to-tiksync-guide/"><u>[New] From Storyboards to Shortcuts Instra-to-TikSync Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-listenleaders-pursuing-better-podcasts/"><u>[Updated] ListenLeaders Pursuing Better Podcasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029305320-4k/"><u>4Kビデオ品質向上テクニック：高解像度映像ダウンサイジング</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/forefront-ai-unveiled-is-it-the-next-best-thing-after-chatgpt/"><u>Forefront AI Unveiled: Is It the Next Best Thing After ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-join-openais-bug-bounty-initiative-insights-and-steps/"><u>How To Join OpenAI's Bug Bounty Initiative – Insights & Steps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-lava-storm-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Lava Storm 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovating-fictional-landscapes-using-chatai/"><u>Innovating Fictional Landscapes Using ChatAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-ai-understanding-with-6-innovative-prompting-techniques-to-prevent-hallucinations/"><u>Optimizing AI Understanding with 6 Innovative Prompting Techniques to Prevent Hallucinations</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/prevenir-eliminacion-automatica-en-microsoft-onedrive-soluciones-efectivas-para-archivos-y-documentos/"><u>Prevenir Eliminación Automática en Microsoft OneDrive: Soluciones Efectivas Para Archivos Y Documentos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/simple-guide-transforming-your-mp4-videos-into-mpeg-mpeg-4-mpeg-2-format-for-any-device-compatibility/"><u>Simple Guide: Transforming Your MP4 Videos Into MPEG (MPEG-4, MPEG-2) Format for Any Device Compatibility</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-nonfunctioning-function-keys-on-dell-laptops/"><u>Step-by-Step Solutions for Nonfunctioning Function Keys on Dell Laptops</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-securely-transferring-android-images-to-google-drive-and-pc-without-hassle/"><u>The Ultimate Guide to Securely Transferring Android Images to Google Drive & PC Without Hassle</u></a></li>
 </ul></div>
 

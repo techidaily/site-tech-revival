@@ -1,7 +1,7 @@
 ---
 title: Three Unbeatable Excel Functions That Outperform ChatGPT's Limitations
-date: 2025-01-31T17:11:25.212Z
-updated: 2025-02-07T22:57:22.372Z
+date: 2025-02-16T16:01:48.986Z
+updated: 2025-02-17T23:14:01.170Z
 tags:
   - chatgpt
   - open-ai
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
  NVIDIA AI Foundations is available in three models: NeMo, Picasso, and BioNeMo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### NVIDIA NeMo
@@ -50,16 +50,12 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
  There are five NeMo models available with different parameters ranging from 8 billion parameters to 530 billion. If you're unsure which is the most suitable AI model for your business, you can consult an NVIDIA AI expert to help you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### NVIDIA Picasso
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [NVIDIA Picasso](https://www.nvidia.com/en-us/gpu-cloud/picasso/) is a generative AI model that works similarly to[OpenAI's DALL-E image creator](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) . However, NVIDIA Picasso is not limited to images only since it can also turn text into video or 3D content.
@@ -67,18 +63,26 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
  In addition, NVIDIA Picasso is made for software creators, service providers, and businesses intending to train AI models using copyright or licensed data. Alternatively, using pre-trained models, you could add text prompts to create images, videos, and 3D content from scratch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## NVIDIA BioNeMo
 
 ![nvidia-bionemo-cloud-services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-bionemo-cloud-services.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-unveils-large-language-models-and-generative-ai-services-to-advance-life-sciences-r-d)
 
 [NVIDIA's BioNeMo](https://nvidianews.nvidia.com/news/nvidia-unveils-large-language-models-and-generative-ai-services-to-advance-life-sciences-r-d) is a pre-trained AI model for biology, chemistry, genomics, and molecular dynamics research. To put into perspective, NVIDIA's BioNemo will speed up the process of drug development—a process that used to take years could be shortened to a few weeks.
 
  Beyond that, pharmaceutical scientists can choose from six different AI models of BioNemo depending on their scope of research. This could revolutionize[the future of the healthcare industry](https://www.makeuseof.com/ai-will-power-future-healthcare/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who Can Use NVIDIA AI Foundations?
 
@@ -89,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
  NVIDIA's AI Foundations isn't available to the general public. However, you can request early access by filling up your company's details on NVIDIA's website. Once your business application is approved, you can access the AI models through a browser or[a dedicated API](https://www.makeuseof.com/what-is-api/) .
 
  So far, a few companies like Getty Images, Adobe, and Shutterstock have partnered with NVIDIA to develop text-to-image or video AI models. Similarly, more than a dozen big companies, including Deloitte and Morningstar, have already implemented NVIDIA's AI language models into their business operations. Biotech companies like Amgen and Insilico Medicine are also using NVIDIA's BioNeMo to develop drugs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## NVIDIA'S AI Foundation is a Game Changer
 
@@ -115,15 +115,18 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-elevate-your-mobile-shoot-ranking-the-best-9-camgear-innovations/"><u>[New] Elevate Your Mobile Shoot - Ranking the Best 9 CamGear Innovations</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-from-verbal-to-written-an-intensive-guide-to-google-document-voice-functionality-for-2024/"><u>[New] From Verbal to Written An Intensive Guide to Google Document Voice Functionality for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-swift-systems-simplified-screen-capture-procedures-dell/"><u>[Updated] Swift Systems Simplified Screen Capture Procedures (Dell)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-simplifying-the-image-blur-process-for-iphone-enthusiasts/"><u>2024 Approved Simplifying the Image Blur Process for iPhone Enthusiasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-onboard-intelligence-systems-comprehensive-guide-to-their-functionality-and-usage/"><u>Inside Onboard Intelligence Systems: Comprehensive Guide to Their Functionality & Usage</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavi-converter-online-gratuito-para-arquivos-mod-ferramenta-rapida-e-facil/"><u>Movavi: Converter Online Gratuito Para Arquivos MOD - Ferramenta Rápida E Fácil</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/starting-your-journey-with-ai-top-9-supportive-online-forums/"><u>Starting Your Journey with AI: Top 9 Supportive Online Forums</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tomorrows-dialogues-advanced-chatbot-innovation/"><u>Tomorrow's Dialogues: Advanced Chatbot Innovation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-advantages-of-using-the-chatgpt-app-on-your-iphone-or-ipad-over-the-website/"><u>Top 6 Advantages of Using the ChatGPT App on Your iPhone or iPad Over the Website</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-an-xbox-series-s-may-outperform-gaming-via-firestick-streaming-services/"><u>Why an Xbox Series S May Outperform Gaming via Firestick Streaming Services</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-expert-advice-on-leveraging-youtubes-video-editor-for-2024/"><u>[Updated] Expert Advice on Leveraging YouTube's Video Editor for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-takes-2022-skating-spectaculars/"><u>[Updated] Top Takes - 2022 Skating Spectaculars</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mastering-live-game-capture-on-xbox-one/"><u>2024 Approved Mastering Live Game Capture on Xbox One</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/breaking-down-openais-shared-link-structure-for-gpt-3/"><u>Breaking Down OpenAI's Shared Link Structure for GPT-3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-versus-magazines-which-provides-the-most-reliable-future-predictions/"><u>ChatGPT Versus Magazines: Which Provides the Most Reliable Future Predictions?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-poco-x5-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Poco X5 Android SIM Unlock APK</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-the-versatile-and-powerful-samsung-gear-s3-frontier-watch/"><u>In-Depth Look at the Versatile and Powerful Samsung Gear S3 Frontier Watch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-ai-chatbot-restrictions-understanding-its-consequences-on-everyday-communication/"><u>Navigating Through AI Chatbot Restrictions: Understanding Its Consequences on Everyday Communication</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/no-cost-media-transformer-convert-audio-from-mp3aac-and-use-opus-format-moveave/"><u>No Cost Media Transformer: Convert Audio From Mp3/Aac and Use Opus Format - Moveave</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/set-up-an-inexpensive-ai-model-for-windows-users/"><u>Set Up an Inexpensive AI Model for Windows Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-final-chapter-of-your-youtube-content-creation-for-2024/"><u>The Final Chapter of Your YouTube Content Creation for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-smooth-functionality-solve-iphones-chatgpt-problem-with-these-9-handy-tips/"><u>Unlock Smooth Functionality: Solve iPhone's ChatGPT Problem with These 9 Handy Tips</u></a></li>
 </ul></div>
 

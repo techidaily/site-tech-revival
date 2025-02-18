@@ -1,7 +1,7 @@
 ---
 title: "Scaling Up Intelligence: Identifying This Year's Most Promising AI Tech"
-date: 2025-02-05T20:21:04.644Z
-updated: 2025-02-08T10:08:44.807Z
+date: 2025-02-13T01:53:14.944Z
+updated: 2025-02-17T20:45:07.710Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Bing Chat and ChatGPT
 
  The first difference between Bing Chat and ChatGPT is in how you access each tool.
@@ -41,11 +45,7 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 ![Screenshot of ChatGPT home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-home-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Comparing the Language Models of Bing Chat and ChatGPT
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
  One of the fundamental differences between the chatbots is the language model they use. Currently, free ChatGPT users are restricted to GPT-3.5, with the much-hyped GPT-4 only available to premium users.
 
  Bing Chat uses the latest version of the language model, GPT-4\. However, there are some[key differences between GPT-4 and GPT-3.5](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) :
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Creativity
 
@@ -66,10 +70,6 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Safety
 
  Moderating responses that were factually incorrect or otherwise unsuitable was performed "on the fly" with GPT-3.5\. In other words, it was a reactive strategy that acted after the horse had bolted. GPT-4 has safety measures designed into the model, meaning safety is more proactive. Where safety is a concern, Bing Chat technically has the upper hand.
@@ -77,6 +77,10 @@ For example, below is Bing Chat's effort at a simple limerick.
 ### Image Processing and Accuracy
 
  The ability to process image data is also a new feature in GPT-4\. However, this feature currently isn't integrated into Bing Chat, so it isn't covered here. The other major difference is the accuracy of the response. This is covered next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Accurate Are Bing Chat and ChatGPT
 
@@ -90,17 +94,21 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of Plastic Recycling Stats from Bing Chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-plastic-recycling-stats-from-bing-chat.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The response supplied figures as well as links to the sources from which the data was retrieved. However, the inclusion of US plastic exports was slightly out of context with the question. We would hesitate to call this a glitch, but it does show AI's tendency to wander off-topic at times.
 
 By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of ChatGPT response to recycling question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-recycling-question.jpg)
 
- The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
 
 ## Comparing the Interfaces of ChatGPT and Bing Chat
 
@@ -117,10 +125,6 @@ By contrast, the ChatGPT response was to admit its limitations.
  As you can see, the response included links to the listed websites. Compare this to the ChatGPT response:
 
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which Is Best: Bing Chat or Chat GPT?
 
@@ -139,10 +143,6 @@ By contrast, the ChatGPT response was to admit its limitations.
  Additionally, the ability to run on browsers other than Edge may make it more appealing to some.
 
  Ultimately, this is a case of choosing the right tool for the job. The beauty of this is that both platforms are free, so trying them both is quick and easy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Chatbots Are Here to Stay
 
@@ -163,24 +163,21 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-best-live-recording-gadgets-for-youtube-content-creators/"><u>[New] In 2024, Best Live Recording Gadgets for YouTube Content Creators</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-lg-bp550s-breakthrough-the-2023-technology-sprint-for-2024/"><u>[New] LG BP550's Breakthrough The 2023 Technology Sprint for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-optimal-sites-for-pixel-sounds/"><u>[New] Unveiling Optimal Sites for Pixel Sounds</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-youtubes-full-rotation-streaming-potential/"><u>[Updated] Unveiling YouTube’s Full-Rotation Streaming Potential</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-stutter-and-freeze-problems-on-call-of-duty-vanguard-step-by-step/"><u>Fixing Stutter and Freeze Problems on Call of Duty: Vanguard - Step-by-Step</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-enabledisable-browser-cookies-across-chrome-firefox-opera-and-edge-in-windows-10/"><u>How To Enable/Disable Browser Cookies Across Chrome, Firefox, Opera, And Edge in Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-fix-and-prevent-fps-drops-in-destiny-2s-latest-expansion-beyond-light/"><u>How to Fix and Prevent FPS Drops in Destiny 2’S Latest Expansion: Beyond Light</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-fix-second-monitor-lagging-when-playing-games-on-windows-1011/"><u>How to Fix Second Monitor Lagging When Playing Games on Windows 10/11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-play-minecraft-offline-on-windows-11/"><u>How to Play Minecraft Offline on Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-resolve-unresponsive-windows-11-widget-issues-efficiently/"><u>How to Resolve Unresponsive Windows 11 Widget Issues Efficiently</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-safeguard-your-data-a-7-step-guide-to-backing-up-windows-10-to-a-secondary-hardware-device/"><u>How to Safeguard Your Data: A 7-Step Guide to Backing Up Windows 10 to a Secondary Hardware Device</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-itel-p55-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Itel P55 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-media-streaming-the-complete-walkthrough-for-installing-kodi-on-xbox-one-updated/"><u>Mastering Media Streaming: The Complete Walkthrough for Installing Kodi on Xbox One (Updated )</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-windows-7s-eol-and-eos-your-comprehensive-guide/"><u>Navigating Windows 7'S EOL & EOS: Your Comprehensive Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-melody-compendium-the-15-best-music-selections-for-different-visual-media-types-for-2024/"><u>New Melody Compendium The 15 Best Music Selections for Different Visual Media Types for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-cold-war-lag-troubles-a-comprehensive-guide-to-smooth-gaming-on-your-computer-2024-edition/"><u>Overcoming Cold War Lag Troubles: A Comprehensive Guide to Smooth Gaming on Your Computer - 2024 Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-recruitment-modern-strategies-for-attracting-top-technology-professionals/"><u>Revolutionizing Recruitment: Modern Strategies for Attracting Top Technology Professionals</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-steam-service-problems-for-a-smooth-windows-11-experience/"><u>Solving Steam Service Problems for a Smooth Windows 11 Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-essential-guide-to-the-top-8-complimentary-roku-channels-for-2n2024/"><u>Your Essential Guide to the Top 8 Complimentary Roku Channels for 2N2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-effortlessly-traverse-facebooks-past-posts/"><u>[New] In 2024, Effortlessly Traverse Facebook’s Past Posts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ultimate-guide-to-sharper-meeting-experience-with-google/"><u>[New] In 2024, Ultimate Guide to Sharper Meeting Experience with Google</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-increase-attendance-and-engagement-with-strategic-zoom-recordings/"><u>2024 Approved Increase Attendance and Engagement with Strategic Zoom Recordings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-top-5-agile-and-lightweight-cameras-list/"><u>2024 Approved Leading Top 5 Agile and Lightweight Cameras List</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/accelerate-pc-diagnostics-finding-out-your-true-ram-throughput-for-windows-versions-10-and-11/"><u>Accelerate PC Diagnostics: Finding Out Your True RAM Throughput for Windows Versions 10 and 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-there-privacy-concerns-with-using-chatgpt/"><u>Are There Privacy Concerns with Using ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-2-explained-functions-and-features/"><u>Claude 2 Explained: Functions & Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpts-skill-in-solving-math-dilemmas/"><u>GPT's Skill in Solving Math Dilemmas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-veuillez-convertir-votre-fichier-caf-en-format-ogg-conversion-video-professionnelle-avec-movavi/"><u>Gratuit Veuillez Convertir Votre Fichier CAF en Format OGG - Conversion Vidéo Professionnelle Avec Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-paid-access-to-chatgpt-justified/"><u>Is Paid Access to ChatGPT Justified?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-ai-crafting-captivating-presentations-via-chatgpt/"><u>Leveraging AI: Crafting Captivating Presentations via ChatGPT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-the-hurdle-stopping-call-of-duty-warzone-pc-crashes-with-easy-fixes-for-gamers/"><u>Overcome the Hurdle: Stopping Call of Duty Warzone PC Crashes with Easy Fixes for Gamers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-pause-on-chatgpt-subscriptions-diving-deeper-into-the-shutdown-and-predicting-revival/"><u>The Pause on ChatGPT Subscriptions - Diving Deeper Into the Shutdown & Predicting Revival</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-gear-comprehensive-reviews-and-tech-insights/"><u>Tom's Computer Gear - Comprehensive Reviews & Tech Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-repairing-directinputdll-errors-in-microsoft-applications/"><u>Troubleshooting and Repairing directinput.dll Errors in Microsoft Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-privacy-pitfalls-a-closer-look-at-common-risks-in-chatbot-interactions/"><u>Unveiling Privacy Pitfalls: A Closer Look at Common Risks in Chatbot Interactions</u></a></li>
 </ul></div>
 

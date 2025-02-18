@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Grok: Pricing, Potential & Insights Into Elon Musk's Latest Creation"
-date: 2025-02-02T10:19:46.575Z
-updated: 2025-02-08T06:58:24.942Z
+date: 2025-02-14T19:41:07.446Z
+updated: 2025-02-17T20:15:57.506Z
 tags:
   - chatgpt
   - open-ai
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Be Polite to AI like ChatGPT, Alexa, and Siri?
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It doesn't make a difference if you're polite to AI. This is because AI like ChatGPT, Alexa, or Siri cannot process emotions like humans, and it won't be offended if you're not polite.
@@ -46,16 +46,12 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
@@ -64,9 +60,17 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can AI Be Rude to You?
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  AI chatbots also present biased opinions since they've learned from humans, and, at times,[AI will hallucinate answers](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) and deliver them with confidence. However, we're still in the early days of AI adoption, and leading tech companies like OpenAI and Microsoft acknowledge that AI systems will improve with more user feedback. GPT-4 is testament to that improvement since it has safer responses than GPT 3.5,[among other differences](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
 
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Interact With AI How You Want
 
@@ -101,24 +101,22 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-unboxing-marketing-strategy/"><u>[New] 2024 Approved Unboxing Marketing Strategy</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-best-10-tools-for-stunning-insta-grid-designs-for-2024/"><u>[New] Best 10 Tools for Stunning Insta Grid Designs for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-explore-vivid-skies-highlighted-hdr-web-platforms/"><u>[New] In 2024, Explore Vivid Skies Highlighted HDR Web Platforms</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/park-inspiration-free-soundtracks-to-enhance-projects-for-2024/"><u>[New] Spark Inspiration - Free Soundtracks to Enhance Projects for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-the-knowledge-of-asmr-media/"><u>[Updated] Mastering the Knowledge of ASMR Media</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-ultimate-desktop-and-mobile-discord-recorders-reviewed-for-2024/"><u>[Updated] Ultimate Desktop & Mobile Discord Recorders Reviewed for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cha-tting-with-ai-androids-voice-controlled-gpt-explained/"><u>Cha [T]ting with AI? Android's Voice Controlled GPT Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-auto-gpt-vs-chatgpt-key-features-and-differences-unveiled/"><u>Decoding Auto-GPT vs ChatGPT: Key Features & Differences Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-chatbot-interactions-a-guide-to-crafting-effective-user-personas/"><u>Enhancing Chatbot Interactions: A Guide to Crafting Effective User Personas</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guard-your-digital-realm-avoid-the-google-bard-menace/"><u>Guard Your Digital Realm: Avoid the Google Bard Menace</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-vivo-s18e-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo S18e</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-prime-selections-convert-youtube-videos-quickly/"><u>In 2024, Prime Selections Convert YouTube Videos Quickly</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-setting-the-scene-a-complete-guide-to-adding-custom-sounds-and-ringtones-on-android/"><u>In 2024, Setting the Scene A Complete Guide to Adding Custom Sounds and Ringtones on Android</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/latest-d-link-factory-credentials-revealed-for-july-2024/"><u>Latest D-Link Factory Credentials Revealed for July 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-browsing-ai-in-microsofts-bing/"><u>Revolutionizing Browsing: AI in Microsoft's Bing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/silverman-artists-unite-lawsuit-against-ai-giants/"><u>Silverman, Artists Unite: Lawsuit Against AI Giants</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-end-of-hacking-discover-why-chatgpt-jailbreaks-are-no-longer-a-viable-option-revealing-7-secrets/"><u>The End of Hacking?: Discover Why ChatGPT Jailbreaks Are No Longer a Viable Option (Revealing 7 Secrets)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-unleashing-of-chatgpt/"><u>The Unleashing of ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-ai-8-ways-chatgpt-can-transform-your-business-operations/"><u>Unlocking the Potential of AI: 8 Ways ChatGPT Can Transform Your Business Operations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expand-your-viewership-horizon-on-youtube/"><u>[New] 2024 Approved Expand Your Viewership Horizon on Youtube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-decoding-the-instagram-story-viewer-experience/"><u>[New] Decoding the Instagram Story Viewer Experience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-complete-critique-gopro-hero4-silver-sensor/"><u>[New] In 2024, Complete Critique GoPro HERO4 Silver Sensor</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-step-by-step-guide-for-easy-macbook-air-recordings/"><u>[New] In 2024, Step-by-Step Guide for Easy Macbook Air Recordings</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-innovate-your-tiktok-openings-with-macos-expertise-for-2024/"><u>[Updated] Innovate Your TikTok Openings with MacOS Expertise for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-protecting-integrity-while-boosting-your-youtube-followers-count/"><u>[Updated] Protecting Integrity While Boosting Your YouTube Followers Count</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/adobe-premiere-pro-step-by-step-guide-to-converting-your-edit-into-an-mp4-file/"><u>Adobe Premiere Pro: Step-by-Step Guide to Converting Your Edit Into an MP4 File</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/androidavi/"><u>Android端末にてAvi動画ファイルの再生手順</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/anytime-anywhere-training-with-jillian-michaels-complete-copy-of-her-famous-dvd-programs/"><u>Anytime, Anywhere Training with Jillian Michaels' Complete Copy of Her Famous DVD Programs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-12-replacements-for-vlc-media-player-a-comprehensive-guide/"><u>Best 12 Replacements for VLC Media Player: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-free-tools-top-5-mod-file-editors-to-refine-your-game-audio-without-spending-a-dime/"><u>Best Free Tools: Top 5 MOD File Editors to Refine Your Game Audio Without Spending a Dime</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-top-7-kickasstorrents-substitutes-expertly-curated-websites-offering-similar-services-to-kat-enthusiasts/"><u>Discover the Top 7 KickassTorrents Substitutes: Expertly Curated Websites Offering Similar Services to KAT Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvdmp4-windows-114/"><u>DVDビデオをMP4に直してみせる: Windows 11で最適解法4つ</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easier-ways-to-transform-mp4-files-into-mov-format/"><u>Easier Ways to Transform MP4 Files Into MOV Format</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-google-pixel-8-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Google Pixel 8.</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-resolving-iphone-xs-facial-recognition-hurdles/"><u>In 2024, Resolving iPhone X's Facial Recognition Hurdles</u></a></li>
 </ul></div>
 
