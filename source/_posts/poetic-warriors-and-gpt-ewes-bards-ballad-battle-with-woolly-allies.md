@@ -1,7 +1,7 @@
 ---
 title: Poetic Warriors & GPT Ewes - Bard's Ballad Battle with Woolly Allies
-date: 2025-02-11T23:28:01.248Z
-updated: 2025-02-18T00:12:28.831Z
+date: 2025-03-01T17:32:58.328Z
+updated: 2025-03-06T17:08:53.295Z
 tags:
   - chatgpt
   - open-ai
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 **Download:** ChatGPT Prompt Genius for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. ChatGPT Writer
 
  When someone sends a professional email your way for something like a meeting or a job opportunity, it's bad form to reply with a one or two-line email (even if that sums up everything you want to say). ChatGPT Writer takes your intended reply and generates a long, professional-sounding email message.
@@ -84,19 +80,11 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
 
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Talk-to-ChatGPT
 
@@ -107,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
  Talk-to-ChatGPT is an open-source extension that lets you fiddle around with the settings. You can choose from different AI voices, the voice pitch, and the speed at which text is read. It also supports voice command shortcuts of "Stop" and "Pause" to control playback.
 
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. ChatGPT for Search Engines
 
@@ -123,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
@@ -157,15 +137,18 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-the-ultimate-upgrade-samsung-bdplus-k850-review-update-2023/"><u>[New] 2024 Approved The Ultimate Upgrade Samsung BD+ K850 Review Update 2023</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-logo-innovations-branding-your-podcast-visually/"><u>[Updated] Logo Innovations Branding Your Podcast Visually</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-pixiz-essentials-from-stills-to-moving-images/"><u>2024 Approved Pixiz Essentials From Stills to Moving Images</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-visual-excellence-criteria-for-top-10-smartphones-with-high-resolution-cameras/"><u>2024 Approved Visual Excellence Criteria for Top 10 Smartphones with High-Resolution Cameras</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-leading-5-replacements-for-pandora-revolutionizing-your-music-experience/"><u>Discover the Leading 5 Replacements for Pandora, Revolutionizing Your Music Experience.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976534768-download-intel-network-drivers-for-windows-pcs-free-and-fast/"><u>Download Intel Network Drivers for Windows PCs - Free and Fast</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-steps-mastering-the-art-of-magnet-link-downloads/"><u>Easy Steps: Mastering the Art of Magnet Link Downloads</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/no-cost-conversion-guide-changing-wmv-videos-into-mp4-format-via-vlc-and-competing-solutions/"><u>No Cost Conversion Guide: Changing WMV Videos Into MP4 Format via VLC & Competing Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revive-your-tunes-essential-strategies-for-overcoming-windows-media-player-issues/"><u>Revive Your Tunes: Essential Strategies for Overcoming Windows Media Player Issues</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-6-plus-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 6 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-online-meetings-zoom-tips-for-chromebooks/"><u>[New] 2024 Approved Mastering Online Meetings Zoom Tips for Chromebooks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-expert-tips-for-drone-racing-enthusiasts-and-premium-fpv-units/"><u>[New] In 2024, Expert Tips for Drone Racing Enthusiasts & Premium FPV Units</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-innovative-app-for-video-consumption-analysis/"><u>[New] In 2024, Innovative App for Video Consumption Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/big-brains-discussing-tomorrows-artificial-intelligence/"><u>Big Brains Discussing Tomorrow’s Artificial Intelligence</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/boost-your-wireless-connection-using-the-ourlink-u631-usb-wi-fi-adapter-high-performance-in-a-tiny-package/"><u>Boost Your Wireless Connection Using the Ourlink U631 USB Wi-Fi Adapter - High Performance in a Tiny Package</u></a></li>
+<li><a href="https://win-great.techidaily.com/complete-step-by-step-instructions-integrating-icloud-mail-with-microsoft-outlook/"><u>Complete Step-by-Step Instructions: Integrating iCloud Mail with Microsoft Outlook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversations-with-shadows-decoding-the-enigma-of-posthumous-online-presence/"><u>Conversations with Shadows: Decoding the Enigma of Posthumous Online Presence</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/cutting-edge-editing-10-pioneering-tools-for-instagram-vids/"><u>Cutting-Edge Editing 10 Pioneering Tools for Instagram Vids</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-13-pro-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone 13 Pro Max Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/email-only-signups-joining-telegram-whatsapp-and-chatgpt-with-alternative-methods/"><u>Email-Only Signups: Joining Telegram, WhatsApp & ChatGPT with Alternative Methods</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-docm-file-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a .docm file document online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-usechatgpts-co-pilot-extension-enhances-user-experience/"><u>How UseChatGPT's Co-Pilot Extension Enhances User Experience</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-windows-11-a-features-showcase/"><u>In 2024, Windows 11 A Features Showcase</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Real Talk on Using Local Language Models
-date: 2025-02-03T18:59:17.153Z
-updated: 2025-02-08T01:45:52.965Z
+date: 2025-03-01T18:23:00.907Z
+updated: 2025-03-06T18:38:04.551Z
 tags:
   - chatgpt
   - open-ai
@@ -28,19 +28,11 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
 ![ChatGPT Plus best way to learn a language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-best-way-to-learn-a-language-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Naturally, we started by asking ChatGPT about the best place to start and how it can help. ChatGPT recommends that you set clear goals, learn vocabulary in context, listen to and mimic native speakers, and take notes. All of this is solid advice.
 
  It continues by saying that it can help answer questions about grammar and pronunciation, recommend resources, and offer cultural insights.[ChatGPT can also provide simple translations](https://www.makeuseof.com/how-to-translate-with-chatgpt/) . This structures our learning approach better: we now know exactly what we need to ask from ChatGPT during our course of learning a language.
 
  It's important to keep in mind that you pick a language that's relatively easy to learn. English speakers find learning languages such as Mandarin, Russian, and Japanese hard. While ChatGPT can write in all languages, you're better off getting a tutor if you want to nail the pronunciation and overall fluency for the more complex languages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Building Your Vocabulary
 
@@ -53,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
  An interesting thing of note is that it also explained the pronunciation of each word. This is because we specified that we wanted to improve our speaking skills. We gave the same prompt to GPT-3.5, and it gave us the same list but without the pronunciations.
 
  The result shows that GPT-4 has a better understanding of context in comparison to its predecessor. This is just one of the many[differences between GPT 3.5 and GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Practice Conversational Skills
 
@@ -91,10 +79,6 @@ Here's how you can create your own personalized tests:
 3. Determine the test length by specifying the number of questions. You can also set a time limit, but you'll have to time yourself.
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Cultural Learning
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
@@ -110,10 +94,6 @@ Here's how you can create your own personalized tests:
  You also get detailed explanations, examples, and cultural insights about the language and the people who speak it. Language apps can do this to some extent, but ChatGPT Plus is more versatile and flexible.
 
  ChatGPT Plus may not provide you with the speaking or listening capabilities to help with pronunciation that other[language-learning apps](https://www.makeuseof.com/tag/five-free-apps-help-learn-foreign-language/) have, but it acts as your teacher that understands context and your progress. These two items help expedite your journey of learning a new language—something no other app can really do.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Is the Perfect Partner for Learning a New Language
 
@@ -134,22 +114,18 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-3d-worlds-on-your-android-mastering-vr-and-360-videos/"><u>[New] 3D Worlds on Your Android Mastering VR & 360 Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-bridge-the-gap-to-your-friends-live-broadcast/"><u>[Updated] Bridge the Gap to Your Friend's Live Broadcast</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-art-of-angle-alteration-mastering-the-rotation-ritual-on-instagram-for-2024/"><u>[Updated] The Art of Angle Alteration Mastering the Rotation Ritual on Instagram for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-programming-assistant-of-2023-github-copilot-or-chatgpt-takes-on-the-challenge/"><u>Best Programming Assistant of 2023: GitHub Copilot or ChatGPT Takes on the Challenge</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/bootable-usb-drive-datenwiederherstellung-auf-windows-1011/"><u>Bootable USB Drive Datenwiederherstellung Auf Windows 10/11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-on-your-fingertips-how-to-get-the-cutting-edge-ios-application/"><u>ChatGPT on Your Fingertips - How to Get the Cutting-Edge iOS Application</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversing-with-shadows-a-deep-dive-into-the-ghostly-theories-of-online-interaction/"><u>Conversing with Shadows: A Deep Dive Into the Ghostly Theories of Online Interaction</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-asus-rog-phone-8-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/improve-accents-essential-100-english-twisters-practice/"><u>Improve Accents: Essential 100 English Twisters Practice</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-finest-affordable-webm-players-on-market/"><u>In 2024, Unveiling the Finest Affordable WebM Players on Market</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/incorporating-gpt-references-highlighting-your-unique-ai-models-in-chatgpt-dialogues/"><u>Incorporating GPT References: Highlighting Your Unique AI Models in ChatGPT Dialogues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-success-top-strategies-for-flourishing-amidst-artificial-intelligence-advancements/"><u>Navigating Success: Top Strategies for Flourishing Amidst Artificial Intelligence Advancements</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/safeguarding-wellbeing-with-ai-tips-for-reliable-chatgpt-use-as-a-therapists-tool/"><u>Safeguarding Wellbeing with AI: Tips for Reliable ChatGPT Use as a Therapist's Tool</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-process-on-using-microsoft-gro-artificial-intelligence-based-bing-search/"><u>Step-by-Step Process on Using Microsoft' Gro Artificial Intelligence Based Bing Search</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-creativity-with-free-dall-e-3-on-microsofts-bing-platform/"><u>Transform Your Creativity with Free DALL-E 3 on Microsoft's Bing Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-assistance-in-students-essays-progress-or-setback/"><u>AI Assistance in Students' Essays: Progress or Setback?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-chatting-heads-to-head-which-is-better-chatgpt-or-microsofts-bing-chat/"><u>AI Chatting Heads-to-Head: Which Is Better, ChatGPT or Microsoft's Bing Chat?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showdown-unveiling-how-google-palm-2-stacks-up-against-openais-gpt-4/"><u>AI Showdown: Unveiling How Google PaLM 2 Stacks Up Against OpenAI’s GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ais-influence-on-fake-news-proliferation/"><u>AI's Influence on Fake News Proliferation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bridge-to-everywheres-chatgpt-with-ease/"><u>Bridge to Everywhere's ChatGPT with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bridging-tech-and-treatment-gpt-for-effective-cognitive-strategies/"><u>Bridging Tech and Treatment: GPT for Effective Cognitive Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-through-exit-not-found-a-windows-fix-guide/"><u>Easing Through Exit Not Found: A Windows Fix Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-on-stabilizing-yakuza-6-for-pc-players-no-more-interruptions/"><u>Expert Advice on Stabilizing Yakuza 6 for PC Players – No More Interruptions!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-cutting-edge-captures-delving-into-iphone-xs-camera/"><u>In 2024, Cutting Edge Captures Delving Into iPhone X's Camera</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/powerpoint-tips-adding-automated-text-conversion-for-2024/"><u>PowerPoint Tips Adding Automated Text Conversion for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211369927-9781787959514-quantum-mythology/"><u>Quantum Mythology | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721460848930-unveiling-the-destination-for-your-facetime-pictures-find-out-where-they-land/"><u>Unveiling the Destination for Your FaceTime Pictures: Find Out Where They Land!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learn-how-to-make-a-gaming-montage-guide-and-tips/"><u>Updated In 2024, Learn How to Make a Gaming Montage - Guide & Tips</u></a></li>
 </ul></div>
 

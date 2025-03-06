@@ -1,7 +1,7 @@
 ---
 title: Behind the Scenes of GPT-4 in 7 Tech Marvels
-date: 2025-02-17T03:05:16.216Z
-updated: 2025-02-17T19:00:33.245Z
+date: 2025-03-02T19:37:07.650Z
+updated: 2025-03-06T17:51:41.728Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -63,22 +59,20 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-direct-recording-tool-for-chrome-os/"><u>[New] Direct Recording Tool for Chrome OS</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-dissecting-the-emerging-trends-in-facebook-short-videos/"><u>[New] Dissecting the Emerging Trends in Facebook Short Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-discover-top-tier-ps3-games-on-your-pc-today/"><u>[New] In 2024, Discover Top-Tier PS3 Games on Your PC Today</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-most-popular-tweets-top-ten-hits-list/"><u>[Updated] 2024 Approved Most Popular Tweets Top Ten Hits List</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-optimizing-story-video-playback-rate-on-instagram-app/"><u>[Updated] 2024 Approved Optimizing Story Video Playback Rate on Instagram App</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quickcastpro-a-step-by-step-guide-for-flawless-podcast-streaming/"><u>2024 Approved QuickCastPro A Step-by-Step Guide for Flawless Podcast Streaming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ais-influence-on-software-development-changing-the-coding-landscape/"><u>AI's Influence on Software Development: Changing the Coding Landscape</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-guide-to-a-calmer-mind/"><u>ChatGPT’s Guide to a Calmer Mind</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-webp-to-jpgpng-converting-made-easy-with-dall-e/"><u>From WebP to JPG/PNG - Converting Made Easy with DALL-E</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generative-ai-face-off-choosing-between-chatgpt-and-notion-ai-for-optimal-performance/"><u>Generative AI Face-Off: Choosing Between ChatGPT and Notion AI for Optimal Performance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inhibiting-factors-using-ai-for-analyzing-digital-coins/"><u>Inhibiting Factors: Using AI for Analyzing Digital Coins</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-vs-code-top-10-chatgpt-integrations/"><u>Maximizing VS Code: Top 10 ChatGPT Integrations</u></a></li>
-<li><a href="https://blog-min.techidaily.com/nueva-politica-de-reembolsos-para-el-software-winxdvd-por-digiarty-que-incluye/"><u>Nueva Política De Reembolsos Para El Software WinXDVD Por Digiarty - ¿Qué Incluye?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/openais-revolutionary-shop-is-here-master-your-tailored-gpt-solutions-instantly/"><u>OpenAI's Revolutionary Shop Is Here – Master Your Tailored GPT Solutions Instantly!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-duo-for-creativity-and-productivity-how-an-ipad-plus-macbook-changes-everything/"><u>The Ultimate Duo for Creativity & Productivity: How An iPad + MacBook Changes Everything</u></a></li>
-<li><a href="https://discover-community.techidaily.com/troubleshooting-invisible-files-in-your-computers-download-section/"><u>Troubleshooting Invisible Files in Your Computer's Download Section</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-creativity-the-best-7-online-aid-resources/"><u>Unleash Creativity: The Best 7 Online Aid Resources</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-enhance-your-workspace-best-8-macbook-wallpapers/"><u>[Updated] 2024 Approved Enhance Your Workspace Best 8 MacBook Wallpapers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-leading-12-screen-recorders-no-time-limit/"><u>[Updated] Leading 12 Screen Recorders, No Time Limit</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-reclaim-lost-watch-video-preview/"><u>2024 Approved Reclaim Lost Watch Video Preview</u></a></li>
+<li><a href="https://blog-min.techidaily.com/freemake-video-converter/"><u>安全かつ効果的にFreemake Video Converterを利用するための詳細な手順と信頼性分析</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/boost-engagement-with-essential-marketing-terms/"><u>Boost Engagement with Essential Marketing Terms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descargar-conversor-de-hdavc-a-mp4-online-sin-coste-utilizar-con-herramienta-de-movavi/"><u>Descargar Conversor De HDAVC a MP4 Online Sin Coste - Utilizar Con Herramienta De Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-converter-change-m4v-files-to-webm-format-moveavi/"><u>Free Online Converter: Change M4V Files to WebM Format - MoveAVI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuita-descarga-online-para-transcodificar-archivos-de-video-avi-a-formato-flac-sin-coste/"><u>Gratuita Descarga Online Para Transcodificar Archivos De Video AVI a Formato Flac Sin Coste</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-13-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 13 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-exploring-video-realm-mirrorless-challenges-to-dslrs/"><u>In 2024, Exploring Video Realm Mirrorless Challenges to DSLRs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/insights-on-asus-rog-rapture-gt-ax11000-the-ultimate-blend-of-speed-efficiency-and-features-for-an-immersive-gaming-experience/"><u>Insights on Asus ROG Rapture GT-AX11000 - The Ultimate Blend of Speed, Efficiency & Features for an Immersive Gaming Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-audio-editing-software-free-download/"><u>Top Audio Editing Software - Free Download</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-non-irobot-non-shark-robot-vacuum-reviewed-on-zdnet/"><u>Top-Rated Non-iRobot, Non-Shark Robot Vacuum Reviewed on ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformez-votre-fichier-mka-en-video-avi-gratuite-en-ligne-avec-ease-utiliser-movavi/"><u>Transformez Votre Fichier MKA en Vidéo AVI Gratuite en Ligne Avec Ease - Utiliser Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/webmmkv-online/"><u>Webm/Mkv 영화 개선을 위한 속도 조정: 원탁하지 마세요! - Online 무료 전용</u></a></li>
 </ul></div>
 

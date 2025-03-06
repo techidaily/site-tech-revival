@@ -1,7 +1,7 @@
 ---
 title: "Laugh Lines and Laptops: The Story Behind Portable Computing & AI's Wit"
-date: 2024-08-29T01:51:13.976Z
-updated: 2024-08-30T01:51:13.976Z
+date: 2025-03-01T18:26:41.062Z
+updated: 2025-03-06T17:35:42.735Z
 tags:
   - chatgpt
   - open-ai
@@ -29,14 +29,11 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 
  Christian Cawley, Gavin Phillips, and Ben Stegner host this week's podcast. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) ,[@gavinspavin](https://twitter.com/gavinspavin) , and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -45,8 +42,23 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-advanced-recording-software-outshining-fbx-methods/"><u>2024 Approved Advanced Recording Software Outshining FBX Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/athletes-guide-crafting-dynamic-gpt-prompts/"><u>Athletes' Guide: Crafting Dynamic GPT Prompts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-coding-companion-is-it-chatgpt-or-gemini-taking-the-lead-in-ai-development/"><u>Best Coding Companion: Is It ChatGPT or Gemini Taking the Lead in AI Development?</u></a></li>
+<li><a href="https://win-unique.techidaily.com/choosing-the-best-file-format-html-zip-exe-or-disc-creation-with-flipbuilder/"><u>Choosing the Best File Format: HTML, ZIP, EXE, or Disc Creation with FlipBuilder</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-stability-of-chatgpt-intelligence-insights-from-openai/"><u>Exploring the Stability of ChatGPT Intelligence - Insights From OpenAI</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017006310-headphone-noise-off-tactics-silence-the-snap-pop-and-crackle/"><u>Headphone Noise-Off Tactics - Silence the Snap, Pop and Crackle!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-boost-engagement-with-free-intro-templates/"><u>In 2024, Boost Engagement with Free Intro Templates</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-apple-iphone-14-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From Apple iPhone 14 Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-assembling-mdf-and-mds-units-explore-these-three-efficient-mounting-solutions/"><u>Master the Art of Assembling MDF and MDS Units - Explore These Three Efficient Mounting Solutions!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-meal-prep-using-chatgpts-culinary-guidance/"><u>Revolutionize Meal Prep Using ChatGPT's Culinary Guidance</u></a></li>
+<li><a href="https://facebook.techidaily.com/speedy-service-selective-lite-android-solutions/"><u>Speedy Service: Selective Lite Android Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-showdown-for-writers-notion-ai-vs-openai/"><u>The Ultimate Showdown for Writers: Notion AI Vs. OpenAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-strategy-integrating-ai-with-3d-printing-via-chatgpt/"><u>The Ultimate Strategy: Integrating AI with 3D Printing via ChatGPT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-pro-tiktok-editing-techniques/"><u>Ultimate Guide Pro TikTok Editing Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-top-7-innovative-tools-using-ai-to-simplify-math-problem-solving/"><u>Unveiling the Top 7 Innovative Tools Using AI to Simplify Math Problem-Solving</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->

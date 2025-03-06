@@ -1,7 +1,7 @@
 ---
 title: "Coping with Commotion: AI-Assisted Methods"
-date: 2025-02-02T22:46:57.133Z
-updated: 2025-02-07T22:06:24.544Z
+date: 2025-03-01T16:52:28.117Z
+updated: 2025-03-06T18:33:20.423Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Create Content
 
  Whether you’re crafting a blog for your business website or scripting a video for your brand’s YouTube channel, ChatGPT can be your go-to content creator. This is particularly valuable for small businesses that may not yet have the budget for a dedicated content writer.
@@ -48,17 +44,9 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
 ![Use ChatGPT to Fill In Templates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-chatgpt-to-fill-in-templates.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  While businesses can employ automation tools that send messages based on actions like abandoned carts or website visits, they might be beyond the budget of small businesses. Don’t worry; ChatGPT can help populate your message templates. If you don’t have a template yet, you can ask ChatGPT to make one.
 
  Just copy and paste your template into ChatGPT, ensuring it has all the necessary placeholders. Supply it with all it needs to fill in the placeholders and let it fill in the template. Once ChatGPT finishes generating a personalized message for each customer, all that’s left for you to do is copy and send them to your customers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Make Text Excel-Friendly
 
@@ -69,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
  ChatGPT can help you move all your data into Excel seamlessly. If your data is in a text format, you can copy-paste it directly into ChatGPT. If your inventory is in a handwritten note,[scan the handwritten note and copy its text with OCR](https://www.makeuseof.com/tag/convert-handwriting-text-ocr/) .
 
  Paste the text into ChatGPT and instruct it to make columns based on your preference. Don’t forget to tell it to make the data easily copy-pastable into Excel.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Modify Text According to a Specified Format
 
@@ -91,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 ## 6\. Translate Languages
 
  Many businesses often interact with customers who speak different languages, especially as the business expands. Thankfully, ChatGPT can assist with language translation. Copy-paste the text and ask the AI tool to translate it into your native language. Simply input the text and request its translation into your preferred language. Also, if you’re unsure of a language, ChatGPT can help[identify unknown languages for you](https://www.makeuseof.com/tag/what-language-is-this-5-online-tools-to-identify-almost-every-unknown-language/) too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Write Personalized Emails
 
@@ -125,19 +105,18 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-audio-and-visual-quality-in-youtube-videos/"><u>[Updated] Mastering Audio & Visual Quality in YouTube Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-step-by-step-guide-to-mastering-streamlabs-obs-usage-for-2024/"><u>[Updated] Step-by-Step Guide to Mastering Streamlabs OBS Usage for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-discover-the-premier-5-ios-podcast-clients/"><u>2024 Approved Discover the Premier 5 iOS Podcast Clients</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-itel-p40plus-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Itel P40+</u></a></li>
-<li><a href="https://games-able.techidaily.com/delving-into-idle-label-is-it-a-genuine-indication/"><u>Delving Into 'Idle' Label: Is It a Genuine Indication?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/design-custom-chatgpt-experience/"><u>Design Custom ChatGPT Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-7-most-effective-markets-for-ai-prompts-online/"><u>Exploring the 7 Most Effective Markets for AI Prompts Online</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-hp-officejet-3830-windows-driver-now-smooth-printing-experience/"><u>Get Your HP Officejet 3830 Windows Driver Now – Smooth Printing Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpts-magic-tricks-unveiling-9-daily-life-boosters/"><u>GPT's Magic Tricks: Unveiling 9 Daily Life Boosters</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-creative-with-these-10-free-green-screen-apps-for-android-and-ios/"><u>In 2024, Get Creative with These 10 Free Green Screen Apps for Android and iOS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/snapedit-101-simple-steps-to-stunning-photos-for-2024/"><u>Snapedit 101 Simple Steps to Stunning Photos for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamlining-interaction-quoras-poe-explained/"><u>Streamlining Interaction: Quora's POE Explained</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-the-battle-royale-black-screen-expert-strategies/"><u>Troubleshooting the Battle Royale Black Screen: Expert Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-potential-of-googles-latest-gemini-ai-versus-chatgpts-prowess-in-conversational-tech/"><u>Unveiling the Potential of Google's Latest Gemini AI Versus ChatGPT's Prowess in Conversational Tech</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-instant-aspect-ratio-tuning-for-youtube-on-mac/"><u>[Updated] Instant Aspect Ratio Tuning for Youtube on Mac</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-video-mastery-without-relying-on-xsplit/"><u>[Updated] Video Mastery Without Relying on Xsplit</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-srt-resource-for-complete-understanding/"><u>2024 Approved The Ultimate SRT Resource for Complete Understanding</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-tech-synergy-microsofts-acquisition-of-blizzard-navigating-the-intersection-of-artificial-intelligence-in-creative-arts-and-translation-discussion58/"><u>Exploring Tech Synergy: Microsoft's Acquisition of Blizzard, Navigating the Intersection of Artificial Intelligence in Creative Arts and Translation [Discussion]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-the-bert-model-revolutionize-natural-language-processing/"><u>How Does the BERT Model Revolutionize Natural Language Processing?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-find-my-friends-work-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-gpt-4-all-revealing-how-it-powers-ai-technology/"><u>Inside GPT- 4 All: Revealing How It Powers AI Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-plus-a-valuable-investment-for-users/"><u>Is ChatGPT Plus a Valuable Investment for Users?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-safe-the-case-for-steering-clear-of-chatgpt-in-apples-marketplace/"><u>Is It Safe? The Case for Steering Clear of ChatGPT in Apple's Marketplace</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/keep-it-under-wraps-the-risks-of-using-ai-like-chatgpt-for-private-matters/"><u>Keep It Under Wraps: The Risks of Using AI Like ChatGPT for Private Matters</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-innovations-for-enterprise-success-a-guide-to-8-key-uses/"><u>Leveraging ChatGPT Innovations for Enterprise Success – A Guide to 8 Key Uses</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/snapchat-for-mac-users-install-and-enjoy/"><u>Snapchat for MAC Users - Install and Enjoy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unveiling-the-triggers-of-the-2024-crowdstrike-windows-debacle-a-detailed-look-back-with-zdnet/"><u>Unveiling the Triggers of the 2024 CrowdStrike-Windows Debacle: A Detailed Look Back with ZDNET</u></a></li>
 </ul></div>
 

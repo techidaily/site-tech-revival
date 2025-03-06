@@ -1,7 +1,7 @@
 ---
 title: Why Snapchat’s My AI Is More Than a Gadget Amusement
-date: 2025-02-05T20:11:38.108Z
-updated: 2025-02-08T10:03:48.026Z
+date: 2025-02-27T17:46:05.954Z
+updated: 2025-03-06T16:30:52.547Z
 tags:
   - chatgpt
   - open-ai
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/7104eb033fbf632865800cb348d315fa27012665c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -45,10 +41,6 @@ Here are the best ChatGPT alternatives.
 
 ![Screenshot of the Claude AI chat interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-the-claude-ai-chat-interface.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Claude AI is undoubtedly the best alternative to ChatGPT. In the fast-moving world of AI, that status might change in a few days, weeks, or months, but it is the next best prospect in the AI chatbot space at the time of writing. You'll be hard-pressed to find an AI chatbot that gets as close to ChatGPT in creativity, common sense reasoning, and accuracy as Claude AI.
 
  How does it weigh against ChatGPT?[Claude AI outshines ChatGPT in four key areas](https://www.makeuseof.com/ways-claude-ai-chatbot-better-than-chatgpt/) while comfortably holding its own on several key metrics. It has stricter safety measures, larger context length, a more recent knowledge base, and, it seems, particularly better creative writing tasks.
@@ -58,10 +50,6 @@ Here are the best ChatGPT alternatives.
 ## 2.[Google Gemini](https://bard.google.com)
 
 ![Bard explaining what MakeUseOf does](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/bard-explaining-what-makeuseof-does.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Another worthy alternative to ChatGPT is Google's Gemini, formerly Bard AI. After Claude AI, Google's Gemini is probably the most powerful and widely used ChatGPT alternative that doesn't rely on OpenAI's GPT language model. Aptly named, the AI chatbot is currently powered by Google's[Gemini family of large language models](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/) , a move away from the poorly performing[PaLM 2 large language model](https://www.makeuseof.com/what-is-google-palm-2/) .
 
@@ -90,10 +78,6 @@ Here are the best ChatGPT alternatives.
  Like Microsoft's Copilot, Perplexity AI is an AI-powered search engine and chatbot that synthesizes real-time web data and knowledge from its underlying AI model to provide accurate and comprehensive answers to user queries. Perplexity is one of the most reliable alternatives to ChatGPT because it is powered by OpenAI's GPT technology.
 
  However, unlike other AI chatbots that are simply "powered by GPT" and do nothing unique, Perplexity has a few interesting features you'll find useful, particularly its ability to regularize GPT data with current information it sources from the internet. Perplexity AI is also great at citing sources in its responses and providing links you might need for further research on a topic. Its free plan is powered by the GPT-3.5 language model, while the Pro plan, priced at $20 per month, is powered by the more powerful GPT-4 language model. Here's our detailed breakdown of[ChatGPT vs. Perplexity AI chatbots](https://www.makeuseof.com/chatgpt-plus-vs-perplexity-which-is-best/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5.[Pi AI](https://pi.ai/)
 
@@ -125,10 +109,6 @@ Here are the best ChatGPT alternatives.
 
  How good is Poe? Well, let's say the biggest allure of using Poe is its array of choices. You could say Poe is as good as a combination of the chatbots available on the platform. Although you might not get the same quality of service as you'd get when using the individual chatbots directly on their original provider's platform, you'll love Poe's flexibility. Things get much better if you take up Poe's $20 monthly subscription, which is cost-effective considering the number of AI models at your disposal. In comparison, the same amount gives you access to a ChatGPT Plus subscription for a month.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8.[YouChat](https://you.com/search?q=who+are+you&tbm=youchat)
 
 ![You.com August screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/you-com-august-screenshot.jpg)
@@ -153,27 +133,15 @@ Here are the best ChatGPT alternatives.
 
  Compared with Chatsonic, ChatGPT responses are typically significantly more "complete" and better formatted. In several cases, Chatsonic tends to summarize its responses. That might work for some people, but you might not find it useful when you need a long-form response. However, those limitations aside, Chatsonic is exciting and one of the best ChatGPT alternatives.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10.[Character.AI](https://character.ai)
 
 ![screenshot of charcater AI website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-charcater-ai-website.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Character.AI is precisely what it says in the name—a character-theme AI chatbot that lets you simulate interaction with popular celebrities, historical figures, or movie characters. From political figures like Donald Trump to movie characters like Iron Man's Tony Stark, Character AI has a large and interesting selection of characters to interact with on the platform.
 
  We tried out a conversation with Tony Stark about getting an Iron Man-style suit, and it was interesting, immersive, and logical. Character AI impressively reflects the tone and mannerisms of the characters on offer.
 
 ![Conversation with Tony Stark on Character ai](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/conversation-with-tony-stark-on-character-ai.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Although Character AI is primarily character-themed, you can still get a ChatGPT-style prompt and response interaction using the "Character Assistant" feature on the platform. Although generally impressive, don't expect ChatGPT-quality responses. That said, Character AI is worth trying out.
 
@@ -196,24 +164,22 @@ Here are the best ChatGPT alternatives.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/"><u>[New] 2024 Approved Ideal Chat & Meetup Tools for Large Groups</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unveiling-visuals-top-10-instagram-editing-applications-for-professionals/"><u>[New] 2024 Approved Unveiling Visuals Top 10 Instagram Editing Applications for Professionals</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-reinstating-legacy-windows-photo-viewer-feature-for-w10-for-2024/"><u>[New] Reinstating Legacy Windows Photo Viewer Feature for W10 for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-top-6-simple-minecraft-house-ideas/"><u>[Updated] Top 6 Simple Minecraft House Ideas</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-voiceover-vitality-energizing-your-powerpoint-presentations/"><u>[Updated] Voiceover Vitality Energizing Your PowerPoint Presentations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-showdown-determining-the-leading-ai-chatbot-among-chatgpt-microsofts-bing-brain-and-google-bard/"><u>AI Showdown: Determining the Leading AI Chatbot Among ChatGPT, Microsoft's Bing Brain & Google Bard</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/begin-immediate-use-top-8-ready-to-go-custom-gpt-models/"><u>Begin Immediate Use: Top 8 Ready-to-Go Custom GPT Models</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-knowledge-sharing-broad-impact/"><u>ChatGPT Knowledge Sharing: Broad Impact</u></a></li>
-<li><a href="https://win-answers.techidaily.com/download-latest-logitech-gaming-mouse-software-update-installed/"><u>Download Latest Logitech Gaming Mouse Software - Update Installed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-these-7-tools-the-best-substitutes-for-chatgpt-in-code-generation/"><u>Explore These 7 Tools: The Best Substitutes for ChatGPT in Code Generation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/hd-auflosung-verbessern-und-rekonstruktion-auf-4k-8k-10k-mit-winxvideo-kunstliche-intelligenz-fur-videofreaks/"><u>HD-Auflösung Verbessern Und Rekonstruktion Auf 4K, 8K, 10K Mit WinXVideo - Künstliche Intelligenz Für Videofreaks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-possible-for-ai-to-create-humourful-content-plus-tracing-back-laptop-development-and-enhancements-in-vpn-services/"><u>Is It Possible for AI to Create Humourful Content? Plus: Tracing Back Laptop Development & Enhancements in VPN Services</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leverage-ai-to-transform-how-you-handle-pdfs-quickly/"><u>Leverage AI to Transform How You Handle PDFs Quickly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-the-potential-of-chatgpt-through-its-advanced-custom-instruction-set/"><u>Leveraging the Potential of ChatGPT Through Its Advanced Custom Instruction Set</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/personalize-and-protect-youtube-channel-url-made-simple/"><u>Personalize & Protect YouTube Channel URL Made Simple</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protect-your-digital-space-insight-into-the-rise-of-attacks-against-chatgpt-accounts/"><u>Protect Your Digital Space: Insight Into the Rise of Attacks Against ChatGPT Accounts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/separating-fact-from-fiction-in-ai-health-suggestions/"><u>Separating Fact From Fiction in AI Health Suggestions</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-mp4-video-editing-tutorial-for-mac-and-windows-users/"><u>The Ultimate MP4 Video Editing Tutorial for Mac and Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-resource-installing-hp-laserjet-5200-drivers-on-windows-11-10-or-8-step-by-step-tutorial/"><u>Ultimate Resource: Installing HP LaserJet 5200 Drivers on Windows 11, 10 or 8 - Step by Step Tutorial</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-seamless-video-to-photo-conversion-for-windows-users/"><u>[New] 2024 Approved Seamless Video-to-Photo Conversion for Windows Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pendulum-assembly-set/"><u>[Updated] Pendulum Assembly Set</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-for-tiktok-content-sharing-strategies-for-2024/"><u>[Updated] Twitter for TikTok Content Sharing Strategies for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-gamers-insight-into-yokun-island-express-when-epic-quests-transform-incredibly/"><u>A Gamer’s Insight Into Yoku'n Island Express: When Epic Quests Transform Incredibly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-artificer-intellect-which-reigns-supreme-chatgpt-plus-or-perplexity/"><u>Decoding Artificer Intellect: Which Reigns Supreme, ChatGPT Plus or Perplexity?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-bert-exploring-googles-innovative-approach-to-nlp-compared-to-gpt/"><u>Decoding BERT: Exploring Google's Innovative Approach to NLP Compared to GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-exceptional-ai-assisted-web-search-platforms-for-efficient-results/"><u>Discover Exceptional AI Assisted Web Search Platforms for Efficient Results</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/diy-llama-2-setup-comprehensive-instructions-for-local-deployment/"><u>DIY Llama 2 Setup – Comprehensive Instructions for Local Deployment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dont-lose-hope-expert-methods-to-reclaim-your-forgotten-chatgpt-history/"><u>Don't Lose Hope: Expert Methods to Reclaim Your Forgotten ChatGPT History</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/elevate-your-facebook-profile-choosing-top-apps-for-like-growth/"><u>Elevate Your Facebook Profile Choosing Top Apps for Like Growth</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-reading-journey-top-5-ai-enhanced-book-platforms/"><u>Enhance Your Reading Journey - Top 5 AI-Enhanced Book Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-hacks-for-overcoming-typical-chatgpt-glitches-and-bugs/"><u>Essential Hacks for Overcoming Typical ChatGPT Glitches and Bugs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-leading-open-source-ai-image-creation-software-of/"><u>Explore the Leading Open-Source AI Image Creation Software Of</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-inspection-enhanced-edition-parrot-ar-drone/"><u>In 2024, Inspection Enhanced Edition Parrot AR Drone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/leveraging-background-footage-for-engaging-content/"><u>Leveraging Background Footage for Engaging Content</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/streamline-your-macs-storage-with-our-in-depth-guide/"><u>Streamline Your Mac's Storage with Our In-Depth Guide</u></a></li>
 </ul></div>
 

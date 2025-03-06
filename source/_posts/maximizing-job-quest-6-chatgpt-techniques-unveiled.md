@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Job Quest: 6 ChatGPT Techniques Unveiled"
-date: 2025-02-14T21:13:51.706Z
-updated: 2025-02-17T18:03:29.031Z
+date: 2025-03-02T18:51:25.886Z
+updated: 2025-03-06T19:33:36.086Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 * [Multi-Modal Voice and Video Interactions](https://www.makeuseof.com/chatgpt-new-features-spring-update/#multi-modal-voice-and-video-interactions)
 * [Upgraded Code Analysis](https://www.makeuseof.com/chatgpt-new-features-spring-update/#upgraded-code-analysis)
 * [Temporary Chat](https://www.makeuseof.com/chatgpt-new-features-spring-update/#temporary-chat)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -60,10 +56,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Expanded Knowledge Base and Cross-Chat Memory
 
  ChatGPT's upgraded web browsing capabilities allow it to retrieve up-to-date information from the web with better accuracy. It ensures responses are based on the latest available data and insights, making it particularly valuable for quickly evolving topics like news, technology, and market trends.
@@ -73,10 +65,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  I asked ChatGPT to check the Saturday weather forecast and advise whether I should reschedule my activities based on the weather update.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
@@ -92,10 +80,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Upgraded Code Analysis
 
  The previous ChatGPT Code Interpreter is now called Advanced Data Analysis (ADA). Since it is already out of beta and ChatGPT plugins are no longer available, ADA is now an integrated feature within both ChatGPT-4 and ChatGPT-4o, and both Free and Plus tier users now have this feature. No plugin or activation is needed; simply prompt ChatGPT to run, analyze, or write code, and it should do the rest for you.
@@ -103,10 +87,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  Here, I’ve given ChatGPT-4o an SQL file containing a database from an e-commerce project and asked it to analyze and graph the top products commonly ordered.
 
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
@@ -137,19 +117,22 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-guidelines-for-optimal-youtube-video-brightness/"><u>[Updated] 2024 Approved Guidelines for Optimal YouTube Video Brightness</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-stream-freedom-on-the-go-download-your-favorite-youtube-tracks-ios/"><u>[Updated] 2024 Approved Stream Freedom on the Go Download Your Favorite YouTube Tracks iOS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/5-recommended-applications-for-cost-free-global-communication/"><u>5 Recommended Applications for Cost-Free Global Communication</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-brother-hl-l3295cdw-a-high-speed-and-superior-quality-color-laser-printer/"><u>Comprehensive Evaluation of the Brother HL-L3295CDW - A High-Speed and Superior Quality Color Laser Printer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conquer-writers-slump-with-our-top-5-ai-helpers/"><u>Conquer Writer's Slump with Our Top 5 AI Helpers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-ae-plugin-selection-for-superior-results/"><u>Essential AE Plugin Selection for Superior Results</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/google-io-2023-unpacked-the-thrilling-seven-point-update-on-the-latest-bard-ai-technology/"><u>Google I/O 2023 Unpacked: The Thrilling Seven-Point Update on the Latest BARD AI Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-expand-your-reach-using-chatgpt-across-different-languages/"><u>Guide: Expand Your Reach Using ChatGPT Across Different Languages</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-xiaomi-13t-pro-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Xiaomi 13T Pro.</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-honor-100-easily-by-drfone-android/"><u>How To Unlock a Honor 100 Easily?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-the-release-of-gpt-5-on-the-horizon/"><u>Is the Release of GPT-5 on the Horizon?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secure-communication-uncover-3-chatbot-privacy-pitfalls/"><u>Secure Communication? Uncover 3 Chatbot Privacy Pitfalls</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/shielding-your-online-content-methods-to-stop-ai-bots-from-scraping/"><u>Shielding Your Online Content: Methods to Stop AI Bots From Scraping</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-watch-out-these-are-the-8-most-popular-facebook-videos-right-now-for-2024/"><u>[New] Watch Out! These Are the 8 Most Popular Facebook Videos Right Now for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-game-changing-trick-enter-mac-apple-watch-style/"><u>[Updated] Game-Changing Trick Enter Mac, Apple Watch Style</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-tips-for-finding-christian-choir-songs-online-and-personalizing-them-for-2024/"><u>[Updated] Tips for Finding Christian Choir Songs Online & Personalizing Them for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-m2p-mp4/"><u>使用 Movavi 網站無限制 M2P 到 MP4 格式改變</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/apex-capture-vs-lumen-hub/"><u>Apex Capture VS Lumen Hub</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-15-gratuitos-programas-de-capturas-de-pantalla-para-el-ano-2024-incluyendo-movavi/"><u>Best 15 Gratuitos Programas De Capturas De Pantalla Para El Año 2024, Incluyendo Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-lifes-moments-with-the-virb-ultra-30-an-in-depth-guide-for-2024/"><u>Capturing Life's Moments with the VIRB Ultra 30 – An In-Depth Guide for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-mp3-aac-and-more-swiftly-change-m4b-to-wma-online-without-spending-a-dime/"><u>Convert MP3, AAC & More - Swiftly Change M4B to WMA Online Without Spending a Dime!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortlessly-download-your-flv-content-as-mp3-using-our-free-web-tool-discover-how/"><u>Effortlessly Download Your FLV Content as MP3 Using Our Free Web Tool - Discover How!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuito-convertidor-de-imagenes-dpx-en-linea-por-movavi-descubre-las-opciones/"><u>Gratuito Convertidor De Imágenes DPX en Línea Por Movavi - Descubre Las Opciones</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-12t-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 12T Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mastering-transition-logic-pro-xs-audio-fade-technique-for-2024/"><u>Mastering Transition Logic Pro X's Audio Fade Technique for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-transcodificador-de-ogm-e-vob-em-linha-livre-gratuita/"><u>Movavi: Transcodificador De OGM E VOB Em Linha Livre Gratuita</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp2-to-mp3-transformation-at-no-cost-quick-and-easy-with-movavis-online-tool/"><u>MP2 to MP3 Transformation at No Cost - Quick and Easy With Movavi's Online Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-kostenlose-umdrehung-von-gifs-in-webm-durch-movavi-effizient-und-einfach/"><u>Online Kostenlose Umdrehung Von GIFs in WEBM Durch Movavi - Effizient Und Einfach!</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-lava-yuva-3-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Lava Yuva 3 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

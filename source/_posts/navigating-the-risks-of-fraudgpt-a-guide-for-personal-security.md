@@ -1,7 +1,7 @@
 ---
 title: Navigating the Risks of FraudGPT - A Guide for Personal Security
-date: 2024-12-24T03:05:26.081Z
-updated: 2024-12-28T16:49:04.548Z
+date: 2025-02-28T17:54:33.498Z
+updated: 2025-03-06T18:19:55.769Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Easily access and use DALL-E 3 for free with Microsoft Bing Chat or Bing Image Creator. No subscription fees or sign-up required.
@@ -31,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
 * With DALL-E 3 on Bing, you can generate interesting AI images even with vague prompts. You can also refine and add new requests without restating the original description.
 
  If you want to try DALL-E 3 but don't want to pay for a ChatGPT Plus subscription, there's an easy way around it. Microsoft Bing has a powerful DALL-E 3 integration, and right now, you can use it for free.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Access DALL-E 3 With Microsoft Bing
 
@@ -67,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
 
 ![DALL-E 2 image of NYC and plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-image-of-nyc-and-plants.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When we asked if it could add animals to that image it just generated, it couldn't. Instead, it generated new images of just animals.
 
 ![DALL-E 2 prompt for animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-prompt-for-animals.jpg)
@@ -79,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
 
 ![DALL-E 3 in Bing Chat image of a city covered in plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-in-bing-chat-image-of-a-city-covered-in-plants.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We followed this up by asking if it could add animals to the image it just created. Unlike DALL-E 2, it had no trouble understanding our request.
 
 ![DALL-E 3 iamge of New York City overgrown with plants and animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-iamge-of-new-york-city-overgrown-with-plants-and-animals.jpg)
@@ -90,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
  You can even ask Bing to redo one of the images. We told it that we liked the second image and would like to see if it could make the animals more detailed.
 
 ![DALL-E 3 image of a city overun with animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-overun-with-animals.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With just a small amount of time chatting with DALLE-3 in Bing, we arrived at a really interesting image of New York City if it were overrun by plants and animals. No prompt engineering is required.
 
@@ -130,22 +110,16 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-the-moment-a-practical-guide-to-google-meetings-screen-recordings/"><u>[Updated] Capturing the Moment A Practical Guide to GooGle Meetings' Screen Recordings</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oppo-a2-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/could-advanced-languages-systems-including-chatgpt-serve-in-creating-cyberattack-programs/"><u>Could Advanced Languages Systems, Including ChatGPT, Serve in Creating Cyberattack Programs?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-logitech-g600-controller-software-for-windows-pcs/"><u>Download Logitech G600 Controller Software for Windows PCs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/dvd-dvd-winx/"><u>DVD 아이폰 전송 기술을 꾸미고 DVD 리퍼, 비디오 컨버터에 대한 WinX 소프트웨어</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-eq-with-chatgpt-strategies-for-improved-communication-skills/"><u>Enhancing EQ with ChatGPT: Strategies for Improved Communication Skills</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/experience-cutting-edge-ai-effortlessly-get-the-best-out-of-gpt-4-using-copilot-at-zero-cost/"><u>Experience Cutting-Edge AI Effortlessly: Get the Best Out of GPT-4 Using Copilot at Zero Cost</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/from-hobbyist-to-pro-why-you-need-to-upgrade-from-final-cut-express/"><u>From Hobbyist to Pro Why You Need to Upgrade From Final Cut Express</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-xiaomi-redmi-k70-pro-devices-by-drfone-android/"><u>How to Reset Gmail Password on Xiaomi Redmi K70 Pro Devices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-12-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock OnePlus 12 Bootloader Easily</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-python-comprehensive-guide-to-integrating-gpt-3/"><u>Mastering Python: Comprehensive Guide to Integrating GPT-3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/natural-language-processing-vs-machine-learning-what-sets-them-apart/"><u>Natural Language Processing Vs. Machine Learning: What Sets Them Apart?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-user-confidentiality-3-major-concerns-in-todays-chatbot-technology/"><u>Navigating User Confidentiality: 3 Major Concerns in Today's Chatbot Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-plugin-tools-to-enhance-your-chatgpt-and-pdf-experience/"><u>Top 10 Plugin Tools to Enhance Your ChatGPT & PDF Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-you-should-think-twice-the-7-pitfalls-of-generative-ai-for-messaging/"><u>Why You Should Think Twice: The 7 Pitfalls of Generative AI for Messaging</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-complete-critique-unmasking-the-bublcam-360-experience/"><u>[New] Complete Critique Unmasking the Bublcam 360 Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-leaderboard-of-first-zeoid-innovations/"><u>[New] The Leaderboard of First Zeoid Innovations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-ideal-selections-the-best-9-mobile-video-meeting-solutions-reviewed/"><u>[Updated] In 2024, Ideal Selections The Best 9 Mobile Video Meeting Solutions Reviewed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-strategies-to-dodge-content-advisory-strikes/"><u>2024 Approved Strategies to Dodge Content Advisory Strikes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-y200e-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo Y200e 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/above-and-beyond-vertical-panoramas-made-easy/"><u>Above and Beyond Vertical Panoramas Made Easy</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/perfecting-auto-captioned-content-in-instagram-reels/"><u>Perfecting Auto-Captioned Content in Instagram Reels</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-emerging-ai-chipsets-revolutionizing-computing/"><u>Top 5 Emerging AI Chipsets Revolutionizing Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-written-work-with-gpt-4/"><u>Transform Written Work with GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-walkthrough-for-discontinuing-access-to-chatgpt-services/"><u>Ultimate Walkthrough for Discontinuing Access to ChatGPT Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-fluent-communication-in-new-languages-through-chatgpt-plus-techniques/"><u>Unlock Fluent Communication in New Languages Through ChatGPT Plus Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Easy Steps to Activate Your Access to ChatGPT Plugin Extensions"
-date: 2025-02-14T21:53:33.388Z
-updated: 2025-02-18T01:46:20.959Z
+date: 2025-03-04T18:43:25.037Z
+updated: 2025-03-06T20:08:56.863Z
 tags:
   - chatgpt
   - open-ai
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 ![ChatGPT Prompt perfect plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-perfect-plugin-in-action.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Link Reader
 
  Another useful ChatGPT plugin is the aptly named Link Reader plugin. Although its primary function is reading the content of the links you provide, when paired with other ChatGPT plugins, there's a lot you can do with it. From summarizing the content of web pages to fact-checking news, the possibilities are endless.
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
  In the example below, we paired the Link Reader plugin with ChatGPT's inbuilt browsing feature to fact-check a news article.
 
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. InstaCart
 
@@ -64,17 +56,9 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 ![Jollof Rice shopping list by InstaCart ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/jollof-rice-shopping-list-by-instacart-chatgpt-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
 
 ![InstarCart Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/instarcart-plugin-in-action.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Wolfram
 
@@ -106,10 +90,6 @@ Does GPT-4 have visual input abilities? Use the PDF at the URL "<https://cdn.ope
 
  Turns out another important use case is making sense of technical documents like this.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Video Insights
 
  The Video Insights plugin is a video interfacing tool that lets you extract information from videos hosted on platforms like YouTube and Daily Motion. You can use the tool to create summaries of a video, ask specific questions on topics covered in the video, get a complete transcript of the video, or extract metadata like the number of likes, views, or comments on a video. Be careful with trusting the metadata it extracts; it was wrong eight out of 15 times when we tried it. But the summaries it produces are quite spot on. To use the tool, use a prompt like:
@@ -134,10 +114,6 @@ To use the plugin, use a prompt like:
 
 Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg> or list all the objects you see in this image: <https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. There's An AI For That
 
  "There's An AI For That" isn't the most glamorous of plugins on the ChatGPT plugins store, but we found it quite useful. The tool provides you with a curated list of AI tools that can do any tasks you describe. Sure, you have the option of going into a long, endless round of Google searches that might not get you what you want. But you can simply let the specialized tool do the job of highlighting AI tools for whichever tasks you wish to complete. In an era where AI is at the forefront of most things in the tech space, "There's An AI For That" can come in quite handy.
@@ -151,10 +127,6 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
  If you are a fan of movies and TV shows, then the "What to Watch" plugin is one worth installing. Describe the kind of movies or TV shows you want, and it will bring up plausible suggestions. Unfortunately, one major setback is that it isn't hooked up to an updated movie database. When we prompted it for new movies, it failed to turn up any movie released after 2021.
 
  If your prompting skills aren't particularly strong, you'll find it useful. However, if you know your way around ChatGPT prompts, you might be better off using your own ChatGPT prompts, in which case we recommend checking out our comprehensive[guide on using ChatGPT to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Embrace ChatGPT Plugins
 
@@ -175,19 +147,24 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-a-deep-dive-into-ffmpeg-for-authentic-unaltered-audio-extraction/"><u>[New] In 2024, A Deep Dive Into FFmpeg for Authentic, Unaltered Audio Extraction</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-real-world-stories-an-insight-into-documentary-screenplay-writing/"><u>2024 Approved Crafting Real World Stories An Insight Into Documentary Screenplay Writing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-standard-tokens-expanding-chatgpt-capabilities/"><u>Beyond Standard Tokens: Expanding ChatGPT Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bypassing-ipad-chatgpt-problems-9-techniques-to-try/"><u>Bypassing iPad ChatGPT Problems: 9 Techniques to Try</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-artificebotics-how-strong-and-weak-ai-stand-apart/"><u>Decoding Artificebotics: How Strong and Weak AI Stand Apart</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/excel-and-chatgpt-taming-spreadsheets-with-ai/"><u>Excel & ChatGPT: Taming Spreadsheets with AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/experience-the-power-of-free-ai-top-sora-competitors-you-shouldnt-ignore/"><u>Experience the Power of Free AI: Top Sora Competitors You Shouldn't Ignore</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-find-x6-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo Find X6</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hydro-series-h100i-v2-a-step-by-step-guide-to-fixing-driver-issues-on-your-pc/"><u>Hydro Series H100i v2: A Step-by-Step Guide to Fixing Driver Issues on Your PC</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-harmonizing-visuals-and-audio-in-unboxing-videos/"><u>In 2024, Harmonizing Visuals & Audio in Unboxing Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-openai-losing-its-grip-on-managing-chatgpt-effectively/"><u>Is OpenAI Losing Its Grip on Managing ChatGPT Effectively?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/understanding-occasional-glitches-why-does-my-apps-update-feature-fail-at-times/"><u>Understanding Occasional Glitches: Why Does My App's Update Feature Fail at Times?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-expert-screenshot-solutions-reviewed/"><u>[New] 2024 Approved Expert Screenshot Solutions Reviewed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-pennywise-pilots-best-value-drones-for-(500-for-2024/"><u>[New] Pennywise Pilots Best Value Drones for <$500 for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-beginners-blueprint-for-online-content-simple-straightforward-video-projects/"><u>[Updated] 2024 Approved Beginner's Blueprint for Online Content Simple, Straightforward Video Projects</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-essential-tactics-for-youtube-success-in-25-ways/"><u>[Updated] 2024 Approved Essential Tactics for YouTube Success in 25 Ways</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-effortless-engagement-how-to-craft-a-direct-subscribe-link/"><u>[Updated] Effortless Engagement How to Craft a Direct Subscribe Link</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-introducing-dimensional-text-with-photoshop-expertise/"><u>2024 Approved Introducing Dimensional Text with Photoshop Expertise</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cambia-tu-musica-de-mp3-a-webm-sin-costo-alguno-en-linea-utilizando-el-conversor-webm-de-movavi/"><u>Cambia Tu Música De MP3 a WEBM Sin Costo Alguno en Línea Utilizando El Conversor WebM De Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cambiare-immagini-dng-al-formato-jpg-online-e-gratuito-con-movavi/"><u>Cambiare Immagini DNG Al Formato JPG Online E Gratuito Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creer-un-site-web-gratuit-a-partir-de-rw2-avec-movavi/"><u>Créer Un Site Web Gratuit À Partir De RW2 Avec Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/de-beste-strategie-om-je-video-te-beheersen-en-te-laten-bloeien/"><u>De Beste Strategie Om Je Video Te Beheersen en Te Laten Bloeien</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-uniting-creative-minds-a-guide-to-selecting-youtube-pairings/"><u>In 2024, Uniting Creative Minds A Guide to Selecting YouTube Pairings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-video-converter-personalizzare-e-trasformare-i-tuoi-file-multimediali-da-formati-come-mp4-mov-avi/"><u>Online Video Converter: Personalizzare E Trasformare I Tuoi File Multimediali Da Formati Come MP4, MOV, AVI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/onlinetraining-van-mpg-tot-mkv-voor-gratis-movavi-converter/"><u>Onlinetraining Van MPG Tot MKV Voor Gratis - Movavi Converter</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-travel-thrive-10-reasons-to-learn-a-foreign-language/"><u>Speak, Travel, Thrive: 10 Reasons to Learn a Foreign Language</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1728465763468-ssd/"><u>SSDのクローニング準備:新規フォーマットは必須ですか?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/uitsluiting-mkv-naar-mp4-virtuaal-konvertor-betere-oplossingen-dan-movavi/"><u>Uitsluiting MKV Naar MP4 Virtuaal Konvertor - Betere Oplossingen Dan Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726228014403-movavi-tiff-jpeg/"><u>무료 오토바이오닝: Movavi에서 Tiff 파일을 Jpeg로 변환하기 전략</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavim4v-n/"><u>フリーソフトMovaviによるM4V動画ファイル容易な変換方法 -オンライn!</u></a></li>
 </ul></div>
 

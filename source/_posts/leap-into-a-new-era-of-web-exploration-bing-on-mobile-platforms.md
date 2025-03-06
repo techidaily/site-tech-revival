@@ -1,7 +1,7 @@
 ---
 title: "Leap Into a New Era of Web Exploration: Bing on Mobile Platforms"
-date: 2025-02-14T02:14:44.830Z
-updated: 2025-02-18T02:17:46.858Z
+date: 2025-03-05T17:40:43.492Z
+updated: 2025-03-06T20:02:51.986Z
 tags:
   - chatgpt
   - open-ai
@@ -38,17 +38,9 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -61,10 +53,6 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -85,10 +73,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -96,10 +80,6 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -133,22 +113,15 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchat-screen-capture-tips-for-phones/"><u>[New] 2024 Approved Snapchat Screen Capture Tips for Phones</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-become-a-filter-fanatic-with-these-top-10-tiktok-additions/"><u>[New] Become a Filter Fanatic with These Top 10 TikTok Additions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-excessive-tiktok-drafts-simplify-with-smart-editing-techniques/"><u>2024 Approved Excessive TikTok Drafts? Simplify with Smart Editing Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/appreciation-showcase-easy-access-to-otus-for-2024/"><u>Appreciation Showcase Easy Access to OTUs for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-on-implementing-and-operating-chatgpt-addons/"><u>Comprehensive Tutorial on Implementing and Operating ChatGPT Addons</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-shap-e-by-openai-a-deep-dive-into-its-functionalities-and-uses/"><u>Demystifying Shap-E by OpenAI: A Deep Dive Into Its Functionalities and Uses</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/face-forward-comparing-apple-and-samsungs-face-detection-capabilities-for-2024/"><u>Face Forward Comparing Apple and Samsung's Face-Detection Capabilities for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/five-innovative-methods-to-assess-ai-intelligence-beyond-the-traditional-turing-test/"><u>Five Innovative Methods to Assess AI Intelligence Beyond the Traditional Turing Test</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-integrations-leveraging-chatgpts-api-power/"><u>Innovative Integrations: Leveraging ChatGPT's API Power</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-integration-a-step-by-step-tutorial/"><u>Mastering ChatGPT Integration: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/need-to-say-goodbye-to-chatgpt-for-privacy-reasons-heres-what-you-can-do/"><u>Need to Say Goodbye to ChatGPT for Privacy Reasons? Here's What You Can Do</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-streamlining-multilingual-content-creation-a-filmmakers-guide-to-video-dubbing-with-wondershare-filmora/"><u>New 2024 Approved Streamlining Multilingual Content Creation A Filmmakers Guide to Video Dubbing with Wondershare Filmora</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solving-chatgpt-login-issues-effective-strategies-and-tips/"><u>Solving ChatGPT Login Issues: Effective Strategies and Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-dual-function-gadget-of-the-year-revealed-by-zdnet-featuring-an-office-game-changer/"><u>The Ultimate Dual-Function Gadget of the Year Revealed by ZDNet, Featuring an Office Game Changer</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/top-tips-to-mastering-the-art-of-hashtag-creation-on-youtube-for-2024/"><u>Top Tips to Mastering the Art of Hashtag Creation on YouTube for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-llama-2-platform-benefits-for-developers-and-users/"><u>Understanding Llama 2 Platform: Benefits for Developers & Users</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/wondershare-filmoramp4/"><u>Wondershare FilmoraからMP4への動画変換方法 : 詳細チュートリアル</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-schedule-and-dive-into-virtual-gatherings-with-zoom-on-an-android-platform/"><u>[New] How to Schedule and Dive Into Virtual Gatherings with Zoom on an Android Platform</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-on-screen-caption-composer/"><u>[Updated] On-Screen Caption Composer</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-serpent-soundtrack-comprehensive-guide-to-tts-resources-online/"><u>[Updated] Serpent Soundtrack Comprehensive Guide to TTS Resources Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/converter-imagens-do-nef-para-formato-jpgjpeg-no-windows-e-macos-guia-facil-de-seguir/"><u>Converter Imagens Do Nef Para Formato Jpg/Jpeg No Windows E macOS - Guia Fácil De Seguir</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/improving-picture-quality-ultimate-guide-to-boosting-resolution-effectively/"><u>Improving Picture Quality: Ultimate Guide to Boosting Resolution Effectively</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726223719579-movavi-mp3/"><u>Movavi MP3変換サービス - 完全無料で簡単なオンライン音楽変換</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-asus-proart-a-high-end-display/"><u>The Ultimate Guide to ASUS ProArt A High-End Display</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-c51-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme C51 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-melhores-aplicativos-e-websites-para-fotografia-de-formato-3x4-comparativo/"><u>Top Melhores Aplicativos E Websites Para Fotografia De Formato 3X4 - Comparativo</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-compatibility-problems-updating-device-drivers-for-seamless-gaming-experience-in-wow/"><u>Troubleshooting Compatibility Problems: Updating Device Drivers for Seamless Gaming Experience in WoW</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What Is Google's AI Project Gemini and What Is It Working On?
-date: 2024-08-29T01:54:18.450Z
-updated: 2024-08-30T01:54:18.450Z
+date: 2025-03-04T18:00:17.140Z
+updated: 2025-03-06T19:07:37.413Z
 tags:
   - chatgpt
   - open-ai
@@ -71,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -98,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -121,14 +115,11 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 
  Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +128,22 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-firefox-pip-simplified-for-the-everyday-user-for-2024/"><u>[New] Firefox PIP Simplified for the Everyday User for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-beam-into-collaborative-spaces-within-tiktok/"><u>[New] In 2024, Beam Into Collaborative Spaces Within TikTok</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-compilation-of-top-mobile-photo-and-film-editors/"><u>[Updated] Compilation of Top Mobile Photo & Film Editors</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-imovie-masterclass-drawing-viewers-into-your-content-quickly-for-2024/"><u>[Updated] IMovie Masterclass Drawing Viewers Into Your Content Quickly for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-mysteries-of-smooth-audioshifts/"><u>[Updated] Unraveling the Mysteries of Smooth Audioshifts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029813860-windows/"><u>「Windowsで記録されたオーディオの最適な編集手法」について学ぶ</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028362212-windows-11/"><u>【Windows 11互換版】高速で高品質な動画圧縮テクニック</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-auditory-alteration-on-the-go-the-top-7-mobile-voice-modification-apps/"><u>2024 Approved Auditory Alteration on the Go The Top 7 Mobile Voice Modification Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2024-windows-10m2ts/"><u>2024年におすすめのストリーミングファイル対応ソリューション: Windows 10でM2TSを再生可能に</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028310873-2/"><u>2層ストリッピングによるオーディオファイルの分解技術</u></a></li>
+<li><a href="https://win-special.techidaily.com/complete-guide-retrieving-files-from-an-sd-card-set-as-phones-internal-memory/"><u>Complete Guide: Retrieving Files From an SD Card Set as Phone's Internal Memory</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029134181-iphone/"><u>IPhone用最高のオーディオ抜き取りアプリ：動画からクリーンな音声に変えて🎧</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/leveraging-tools-for-top-tier-video-captures-in-adobe-presenter/"><u>Leveraging Tools for Top-Tier Video Captures in Adobe Presenter</u></a></li>
+<li><a href="https://techidaily.com/revolutionize-recycling-13-ingenious-ways-to-repurpose-your-retired-android-smartphone/"><u>Revolutionize Recycling: 13 Ingenious Ways to Repurpose Your Retired Android Smartphone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44or44k944kz44oz5zcr44gr44gr44ki44ol44oh55wq57we5pig5yop6yyy55s744og44kv44ol44od44kv44ks5a2m44g2/"><u>パソコン向けにアニメ番組映像録画テクニックを学ぶ</u></a></li>
+</ul></div>
 

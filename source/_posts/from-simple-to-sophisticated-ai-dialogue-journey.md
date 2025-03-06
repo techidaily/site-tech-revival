@@ -1,7 +1,7 @@
 ---
 title: "From Simple to Sophisticated: AI Dialogue Journey"
-date: 2025-01-13T05:20:16.157Z
-updated: 2025-01-20T00:57:30.529Z
+date: 2025-03-02T19:05:23.667Z
+updated: 2025-03-06T20:17:42.587Z
 tags:
   - chatgpt
   - open-ai
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
@@ -66,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
@@ -78,15 +70,7 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -97,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
  If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
@@ -129,17 +109,20 @@ thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c090
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevate-your-edits-10-essential-apps-for-instagram-videos/"><u>[New] In 2024, Elevate Your Edits 10 Essential Apps for Instagram Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-track-a-step-by-step-guide-for-swiftly-deleting-comments-on-youtube/"><u>[Updated] 2024 Approved Fast Track A Step by Step Guide for Swiftly Deleting Comments on YouTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-secure-communication-made-easy-the-best-10-free-and-protected-video-conferencing-tools/"><u>[Updated] In 2024, Secure Communication Made Easy The Best 10 Free and Protected Video Conferencing Tools</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-online-mp3-to-ogg-conversion-tool-by-movavi-effortless-audio-format-transformation/"><u>Free Online MP3 to Ogg Conversion Tool by Movavi: Effortless Audio Format Transformation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-lava-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Lava on Mac?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-f15-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy F15 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/magazine-forecasts-or-machine-learning-which-offers-better-insight-into-your-tomorrow/"><u>Magazine Forecasts or Machine Learning: Which Offers Better Insight Into Your Tomorrow?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-email-communication-at-work-with-ai-powered-tool-chatgpt/"><u>Mastering Email Communication at Work with AI-Powered Tool, ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mistral-ais-le-chat-in-focus-an-informative-guide-to-how-it-matches-up-with-chatgpt/"><u>Mistral AI's Le Chat in Focus: An Informative Guide to How It Matches Up with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-ai-language-models-analyzing-similarities-and-differences-between-gpt-and-bert/"><u>Navigating Through AI Language Models: Analyzing Similarities & Differences Between GPT & BERT</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsungs-hidden-gem-a-top-tier-affordable-tablet-for-labor-day-specials-zdnets-inside-look/"><u>Samsung’s Hidden Gem: A Top-Tier, Affordable Tablet for Labor Day Specials - ZDNet's Inside Look</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-camera-lenses-for-youtube/"><u>[New] 2024 Approved Best Camera Lenses for YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-exclusive-list-of-premium-3d-blu-ray-players-reviewed/"><u>[New] 2024 Approved Exclusive List of Premium 3D Blu-Ray Players Reviewed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-az-capture-extraordinaire-thorough-app-reviews-for-2024/"><u>[New] AZ Capture Extraordinaire Thorough App Reviews for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-techniques-for-writing-eye-catching-podcast-summaries/"><u>[Updated] Techniques for Writing Eye-Catching Podcast Summaries</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/booking-a-consultation-with-apple-experts-a-users-manual/"><u>Booking a Consultation with Apple Experts - A User's Manual</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-evolution-in-ai-language-models-comparing-gpt-4-to-gpt-(span-stylecolor-0000ff)35(span)/"><u>Exploring Evolution in AI Language Models: Comparing GPT-4 to GPT- <Span Style=color: #0000Ff>3.5</Span></u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fixing-high-traffic-errors-on-chatgpt-for-windows-users/"><u>Fixing High-Traffic Errors on ChatGPT for Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harness-the-power-of-ai-code-suggestions-using-microsoft-copilot-on-mac-computers/"><u>Harness the Power of AI Code Suggestions – Using Microsoft Copilot on Mac Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-generative-ai-fails-in-humanized-text-conversations/"><u>How Generative AI Fails in Humanized Text Conversations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-use-microsofts-copilot-image-creator-to-generate-unique-ai-images/"><u>How to Use Microsoft's Copilot Image Creator to Generate Unique AI Images</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ignite-creativity-unique-ai-art-with-the-power-of-microsofts-copilot/"><u>Ignite Creativity: Unique AI Art with the Power of Microsoft's Copilot</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-sony-xperia-10-v-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Sony Xperia 10 V Lock Screen Password?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-counterfeit-proof/"><u>Is ChatGPT Counterfeit-Proof?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-to-flawless-audio-segmentation/"><u>Step-by-Step Guide to Flawless Audio Segmentation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-requesting-a-steam-game-refund-process/"><u>Ultimate Guide: Requesting a Steam Game Refund Process</u></a></li>
 </ul></div>
 

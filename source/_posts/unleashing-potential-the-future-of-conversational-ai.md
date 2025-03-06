@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Potential: The Future of Conversational AI"
-date: 2025-02-17T03:08:25.224Z
-updated: 2025-02-17T19:26:34.541Z
+date: 2025-03-03T16:30:01.589Z
+updated: 2025-03-06T16:55:45.350Z
 tags:
   - chatgpt
   - open-ai
@@ -38,17 +38,9 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -60,15 +52,7 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -96,10 +80,6 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -133,17 +113,19 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-clearing-the-darkness-remedies-for-invisible-gaming-captures-by-obs/"><u>[New] In 2024, Clearing the Darkness Remedies for Invisible Gaming Captures by OBS</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-engrossing-12-pc-clicker-games-that-keep-you-hooked/"><u>[New] In 2024, Engrossing 12 PC Clicker Games That Keep You Hooked</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlocking-hidden-social-content-where-are-your-vids/"><u>[Updated] 2024 Approved Unlocking Hidden Social Content Where Are Your Vids?</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-xiaomi-redmi-note-12-pro-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Xiaomi Redmi Note 12 Pro 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-the-scoring-of-toolwizs-photography-software/"><u>2024 Approved Inside the Scoring of Toolwiz's Photography Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-legal-influence-unveiled/"><u>ChatGPT's Legal Influence Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-your-digital-sidekick-snapchats-my-ai-vs-chatgpt/"><u>Choosing Your Digital Sidekick: Snapchat's My AI Vs. ChatGPT</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-oneplus-ace-2-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on OnePlus Ace 2 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-leave-a-life360-group-on-xiaomi-redmi-note-12t-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Xiaomi Redmi Note 12T Pro Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-professional-communication-utilizing-chatgpt-for-complex-workplace-emails/"><u>Mastering Professional Communication: Utilizing ChatGPT for Complex Workplace Emails</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/smart-tech-gpt-enhancements-for-home-productivity/"><u>Smart Tech: GPT Enhancements for Home Productivity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-top-5-pioneering-ai-processor-technologies/"><u>Unveiling the Top 5 Pioneering AI Processor Technologies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-cloud-apps-for-android-the-most-reliable/"><u>[New] Premium Cloud Apps for Android The Most Reliable</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-delving-deeply-into-obs-studios-capture-capabilities/"><u>[Updated] Delving Deeply Into OBS Studio's Capture Capabilities</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-ensuring-long-term-access-to-instagrams-video-gems/"><u>[Updated] In 2024, Ensuring Long-Term Access to Instagram's Video Gems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertisseur-gratuit-de-fichiers-mp3-a-ogg-online-par-le-site-movavi/"><u>Convertisseur Gratuit De Fichiers MP3 À OGG - Online Par Le Site Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-movavi-mac-video-converter-free-top-rated-and-easy-to-use-software/"><u>Download Movavi Mac Video Converter Free: Top Rated & Easy-to-Use Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-best-11-grammar-checkers-and-proofreading-tools-a-comparative-guide-to-free-and-premium-alternatives/"><u>Explore the Best 11 Grammar Checkers and Proofreading Tools - A Comparative Guide to Free and Premium Alternatives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuito-download-de-conversor-tiff-online-movavi-image-editing/"><u>Gratuito Download De Conversor TiFF Online - Movavi Image Editing</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-effective-youtube-banners-pros-and-cons-to-avoid/"><u>In 2024, Effective YouTube Banners Pros and Cons to Avoid</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-through-photos-app-issues-in-windows-11-for-2024/"><u>Navigating Through Photos App Issues in Windows 11 for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210000108-9781856754491-the-little-book-of-serenity/"><u>The Little Book of Serenity | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mkv-ts/"><u>오늘날의 MKV에 대한 TS 펑직 바이트 대비를 감소시기 위해 인터넷으로 쉽게 무료로 전환하는 방법</u></a></li>
 </ul></div>
 

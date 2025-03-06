@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's External Plugins: Are They Reliable and Safe?"
-date: 2025-02-10T16:33:41.116Z
-updated: 2025-02-17T23:58:46.944Z
+date: 2025-02-27T16:01:42.915Z
+updated: 2025-03-06T16:23:43.383Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is NVIDIA AI Foundations?
 
  NVIDIA AI Foundations is a cloud-based generative AI service that you can fine-tune for your business, use for medical research, or generate AI artwork. The AI models can be trained to produce texts, images, videos, and 3D content unique to your enterprise. This is particularly useful if you can't afford to build a customized AI model for your business because it's too expensive or complicated.
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
 ![NVIDIA NEMO illustration ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-nemo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-large-language-ai-models-to-enterprises-worldwide)
 
 [NVIDIA NeMo](https://www.nvidia.com/en-us/gpu-cloud/nemo-llm-service/) service works similarly to ChatGPT, but it's specifically pre-trained for businesses. This means you can train the AI model by adding special skills and knowledge to define its objectives in tune with your business.
@@ -53,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
  NVIDIA NeMo cloud service can also be fine-tuned not to answer questions beyond its scope. In other words, you can customize the AI model to only help with queries for your business while locking out sensitive topics like politics or religion that are irrelevant to your business.
 
  There are five NeMo models available with different parameters ranging from 8 billion parameters to 530 billion. If you're unsure which is the most suitable AI model for your business, you can consult an NVIDIA AI expert to help you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### NVIDIA Picasso
 
@@ -70,19 +58,11 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
 ![nvidia-bionemo-cloud-services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-bionemo-cloud-services.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-unveils-large-language-models-and-generative-ai-services-to-advance-life-sciences-r-d)
 
 [NVIDIA's BioNeMo](https://nvidianews.nvidia.com/news/nvidia-unveils-large-language-models-and-generative-ai-services-to-advance-life-sciences-r-d) is a pre-trained AI model for biology, chemistry, genomics, and molecular dynamics research. To put into perspective, NVIDIA's BioNemo will speed up the process of drug development—a process that used to take years could be shortened to a few weeks.
 
  Beyond that, pharmaceutical scientists can choose from six different AI models of BioNemo depending on their scope of research. This could revolutionize[the future of the healthcare industry](https://www.makeuseof.com/ai-will-power-future-healthcare/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Who Can Use NVIDIA AI Foundations?
 
@@ -115,18 +95,19 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-elevate-engagement-crafting-effective-youtube-shorts/"><u>[New] 2024 Approved Elevate Engagement Crafting Effective YouTube Shorts</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-chromatic-mastery-image-transformation-techniques/"><u>[New] Chromatic Mastery Image Transformation Techniques</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-harness-10-tools-for-free-thumbnail-acquisition/"><u>[Updated] Harness 10 Tools for FREE Thumbnail Acquisition</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-spinning-interest-into-action-writing-podcast-intros/"><u>[Updated] Spinning Interest Into Action Writing Podcast Intros</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-color-secrets-master-the-craft-with-our-tutorial-series/"><u>[Updated] Unveiling Color Secrets - Master the Craft with Our Tutorial Series</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-or-job-peril-examining-scenarios-where-ai-use-might-cost-your-employment/"><u>ChatGPT or Job Peril? Examining Scenarios Where AI Use Might Cost Your Employment</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/do-top-tier-ai-prompt-services-justify-their-costs/"><u>Do Top-Tier AI Prompt Services Justify Their Costs?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-access-to-ai-chatbots-via-quoras-poe/"><u>Effortless Access to AI Chatbots via Quora's POE</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-apex-legends-wont-load-issue-simple-solutions-inside/"><u>Fixing Apex Legends Won't Load Issue - Simple Solutions Inside!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hands-on-evaluation-of-alienware-m18-r2s-premium-keyboard-and-performance-features/"><u>Hands-On Evaluation of Alienware M18 R2's Premium Keyboard & Performance Features</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-nokia-c32-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Nokia C32 Data? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-boundaries-of-interaction-with-chatgpt-exploring-its-token-threshold/"><u>The Boundaries of Interaction with ChatGPT: Exploring Its Token Threshold</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unlock-the-power-of-visual-storytelling-with-screen-capture-skills/"><u>[New] Unlock the Power of Visual Storytelling with Screen Capture Skills</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-seamless-integration-of-links-into-tiktok-profiles/"><u>[Updated] In 2024, Seamless Integration of Links Into TikTok Profiles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/converta-arquivos-qt-em-gif-gratuitamente-via-web-com-o-movavis-online-tool/"><u>Converta Arquivos Qt Em GIF Gratuitamente via Web Com O Movavi's Online Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertir-opus-a-acc-gratuitement-sur-internet-avec-movavi-transcodage-facile-et-rapide/"><u>Convertir OPUS À ACC Gratuitement Sur Internet Avec Movavi - Transcodage Facile Et Rapide!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cosa-fare-per-convertire-un-file-mov-in-formato-mp4-con-vlc-su-pc-e-mac/"><u>Cosa Fare per Convertire Un File Mov in Formato MP4 Con VLC Su PC E Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-ordinary-to-extraordinary-the-ultimate-iphoneandroid-screenshot-enhancers-list/"><u>In 2024, From Ordinary to Extraordinary The Ultimate iPhone/Android Screenshot Enhancers List</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-g310-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nokia G310 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfect-pairing-10-films-for-fun-filled-family-nights/"><u>In 2024, Perfect Pairing 10 Films for Fun-Filled Family Nights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/kostenloze-ape-wav-convertoren-online-voor-gratis-expertise-van-movavi/"><u>Kostenloze APE-WAV Convertoren Online Voor Gratis - Expertise Van Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/lg-k92-analysis-is-the-5g-upgrade-enough-to-recommend/"><u>LG K92 Analysis: Is the 5G Upgrade Enough to Recommend?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavijpegweb/"><u>Movaviで簡単JPEGに変更する:無料WEBツール</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-internet-explorer-has-stopped-working-errors-a-step-by-step-guide/"><u>Resolving 'Internet Explorer Has Stopped Working' Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-automated-pet-feeding-and-weight-management-with-the-petsafe-healthy-pet-feeder-reviews-and-insights/"><u>The Ultimate Guide to Automated Pet Feeding and Weight Management with the PetSafe Healthy Pet Feeder - Reviews & Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-13-best-iphone-video-editing-apps-detailed-movavi-reviews-and-comparisons/"><u>Top 13 Best iPhone Video Editing Apps - Detailed Movavi Reviews & Comparisons</u></a></li>
 </ul></div>
 

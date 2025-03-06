@@ -1,7 +1,7 @@
 ---
 title: "Crafting AI Interactions: Potential for Real Employment?"
-date: 2025-02-11T21:47:32.909Z
-updated: 2025-02-17T17:06:40.421Z
+date: 2025-02-27T19:55:43.219Z
+updated: 2025-03-06T16:23:16.988Z
 tags:
   - chatgpt
   - open-ai
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Potential Risks of Generative AI to Spread Disinformation
 
  Generative AI poses many threats to people, like taking away jobs, more surveillance, and cyberattacks. And the[security problems with AI will get even worse](https://www.makeuseof.com/reasons-generative-ai-security-issues-will-worsen/) . But there's another worry: people can use it to spread lies. Deceptive individuals can use generative AI to share fake news through visual, auditory, or textual content.
@@ -42,17 +38,9 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -63,10 +51,6 @@ False news can be categorized into three types:
 Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
@@ -88,10 +72,6 @@ Here's the fictitious article that ChatGPT came up with:
  Additionally, political adversaries may use deepfake audio and videos to tarnish the reputation of their opponents, manipulating public sentiment with the help of AI. So[AI-generated deepfakes pose numerous threats in the future](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/) . According to a 2023[Reuters report](https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/) , the rise of AI technology could impact America's 2024 elections. The report highlights the accessibility of tools like Midjourney and DALL-E that can easily create fabricated content and influence people's collective opinions.
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
 
@@ -133,22 +113,21 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-androids-top-gaming-app-kinemaster-unveiled/"><u>[New] 2024 Approved Android's Top Gaming App KineMaster Unveiled</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-natures-set-pieces-a-collection-of-easy-to-download-templates-for-pros-and-beginners-for-2024/"><u>[New] Nature's Set Pieces A Collection of Easy-to-Download Templates for Pros & Beginners for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-master-psd-pattern-overlays/"><u>[Updated] 2024 Approved Master PSD Pattern Overlays</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-polar-pinnacles-beijing-2022-olympic-spotlight/"><u>[Updated] 2024 Approved Polar Pinnacles Beijing 2022 Olympic Spotlight</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-timeless-treasures-accessing-fbs-historic-stories/"><u>[Updated] 2024 Approved Timeless Treasures Accessing FB's Historic Stories</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-screen-record-on-iphone-in-an-easy-way-for-2024/"><u>[Updated] How to Screen Record on Iphone in An Easy Way for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-discover-effortless-paths-to-exceptional-image-quality/"><u>2024 Approved Discover Effortless Paths to Exceptional Image Quality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-livestreams-with-manycam-leading-virtual-webcam-software-for-vloggers-and-content-creators/"><u>Enhance Your Livestreams with ManyCam: Leading Virtual Webcam Software for Vloggers and Content Creators</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-livestreams-discover-the-power-of-manycams-professional-webcam-and-editing-tools/"><u>Enhance Your Livestreams: Discover the Power of ManyCam's Professional Webcam and Editing Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-using-manycams-advanced-live-video-and-webcam-features/"><u>Enhance Your Online Presence Using ManyCam's Advanced Live Video and Webcam Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-using-manycams-advanced-virtual-webcam-features-for-seamless-livestreaming/"><u>Enhance Your Online Presence Using ManyCam's Advanced Virtual Webcam Features for Seamless Livestreaming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-with-manycam-top-notch-virtual-camera-solutions-for-real-time-broadcasts/"><u>Enhance Your Online Presence with ManyCam: Top-Notch Virtual Camera Solutions for Real-Time Broadcasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-with-manycams-advanced-video-editing-and-virtual-camera-features/"><u>Enhance Your Online Presence with ManyCam's Advanced Video Editing and Virtual Camera Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-streaming-experience-with-leading-virtual-camera-solutions-beyond-manycam/"><u>Enhance Your Streaming Experience with Leading Virtual Camera Solutions (Beyond ManyCam)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-video-conferencing-experience-with-multi-functional-webcams-supporting-manycam-compatibility/"><u>Enhance Your Video Conferencing Experience with Multi-Functional Webcams Supporting ManyCam Compatibility</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-strategies-resolve-your-memory-card-issues-with-these-7-techniques/"><u>Essential Strategies: Resolve Your Memory Card Issues with These 7 Techniques</u></a></li>
-<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-13-mini-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone 13 mini</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comprehensively-understanding-hands-directive-controls/"><u>[Updated] Comprehensively Understanding Hands' Directive Controls</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-cross-platform-chrome-leveraging-pip-features/"><u>[Updated] In 2024, Cross-Platform Chrome Leveraging PIP Features</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-numbers-game-estimating-income-from-viral-content/"><u>[Updated] In 2024, The Numbers Game Estimating Income From Viral Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/capturar-aperto-na-microsoft-windows-as-16-ferramentas-mais-eficientes-para-gravacao-de-tela/"><u>Capturar Aperto Na Microsoft Windows # - As 16 Ferramentas Mais Eficientes Para Gravação De Tela</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-best-hdr-cameras/"><u>In 2024, Navigating the Best HDR Cameras</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-converter-online-gratuito-para-convertir-mkv-a-flac/"><u>Movavi - Converter Online Gratuito Para Convertir MKV a FLAC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/no-trace-snapcaptures-discreet-photo-taking-techniques-for-2024/"><u>No Trace SnapCaptures Discreet Photo-Taking Techniques for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/thorough-investigation-dji-inspire-1-reviewed/"><u>Thorough Investigation DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Ultimate guide to get the meltan box pokemon go For Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlocking-creative-potential-using-google-trends-insights-for-2024/"><u>Unlocking Creative Potential Using Google Trends Insights for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/yayincilik-sisteminde-cizgi-film-yapisi-animasyon-hareketleri-arasindaki-teknoloji-ve-kunlu-olana-aciklar/"><u>Yayıncılık Sistemi'nde Çizgi Film Yapısı | Animasyon Hareketleri Arasındaki Teknoloji Ve Künlü Olana Açıklar</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mpg-m4v-online-movavi/"><u>무료 MPG 파일을 직접 M4V로 전환하기 - Online 도구 : Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/book-movivi/"><u>쉽글리퍼: 단계별 가이드book에서 완전히 만들 수 있는 원품의 워터마크 제작 | MoviVi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726226787063-ogg-aac-movavi/"><u>필기: 영구 공간에서 단순성을 위해 OGG AAC 데이터를 자유롭게 전환하는 방법 - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726220379921-movavi/"><u>ウィットなフリーウェブムービースイフへの変換 - MOVAVIツール</u></a></li>
 </ul></div>
 

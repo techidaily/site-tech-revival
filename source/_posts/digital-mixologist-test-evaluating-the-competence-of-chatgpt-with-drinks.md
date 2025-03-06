@@ -1,7 +1,7 @@
 ---
 title: "Digital Mixologist Test: Evaluating the Competence of ChatGPT with Drinks"
-date: 2025-02-11T22:55:32.315Z
-updated: 2025-02-17T18:40:15.005Z
+date: 2025-03-01T18:37:00.362Z
+updated: 2025-03-06T17:00:32.891Z
 tags:
   - chatgpt
   - open-ai
@@ -20,19 +20,11 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -58,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 ## How to Install and Configure ChatGPT Desktop Application
@@ -75,14 +63,6 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
  Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
 
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
 
@@ -107,22 +87,16 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-get-free-views-on-youtube-2-easy-ways/"><u>[New] In 2024, How to Get Free Views on YouTube [2 Easy Ways]</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ushing-past-plateaus-the-strategic-guide-for-youtube-success-for-2024/"><u>[New] Pushing Past Plateaus The Strategic Guide for Youtube Success for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-capturing-the-skies-dji-drone-content-for-facebook-live/"><u>[Updated] Capturing the Skies DJI Drone Content for Facebook Live</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/"><u>4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-faceoff-who-wins-in-features-and-performance-googles-bard-or-microsoftcups-bing-chat/"><u>AI Faceoff: Who Wins in Features and Performance - Google's Bard or Microsoft'cups Bing Chat?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/confidentiality-concerns-when-using-tools-such-as-chatgpt-online/"><u>Confidentiality Concerns When Using Tools Such as ChatGPT Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-dungeons-and-dragons-heroes-with-chatgpt-and-dall-e-a-step-by-step-guide/"><u>Crafting Dungeons & Dragons Heroes with ChatGPT & DALL-E: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/farm-tastic-fun-and-games-top-friendly-farming-titles/"><u>Farm-Tastic Fun & Games Top Friendly Farming Titles</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-integrate-chatgpt-into-your-daw-setup-for-unique-sound-creation/"><u>How to Integrate ChatGPT Into Your DAW Setup for Unique Sound Creation</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-14-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-yuva-2withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Yuva 2with/without a PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-creativity-discover-6-ways-to-utilize-chatgpt-for-your-written-works/"><u>Mastering Creativity: Discover 6 Ways to Utilize ChatGPT for Your Written Works</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ransomware-explained-podcasts-aided-by-budget-phones/"><u>Ransomware Explained: Podcasts Aided by Budget Phones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solving-windows-chatgpt-capacity-full-issue-a-step-by-step-guide/"><u>Solving Windows' 'ChatGPT Capacity Full' Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-microsoft-store-errors-the-quick-fix-for-0x80072efd/"><u>Tackling Microsoft Store Errors: The Quick Fix for 0X80072EFD</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-beta-browsing-and-plugins-in-gpt-3/"><u>Unveiling Beta Browsing and Plugins in GPT-3</u></a></li>
-<li><a href="https://win-trending.techidaily.com/yl-computings-solutions-for-when-you-cant-open-your-documents-or-access-data/"><u>YL Computing's Solutions for When You Can't Open Your Documents or Access Data</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-voyage-for-valuables-5-prime-map-expeditions/"><u>[New] 2024 Approved Voyage for Valuables 5 Prime Map Expeditions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ogvmp4-movavi/"><u>網上免費OGV變更成MP4 - 使用Movavi編輯器進行流暢轉換</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertidor-de-audio-libre-online-para-cambiar-mp3-a-formato-m4v-con-movavi/"><u>Convertidor De Audio Libre Online Para Cambiar MP3 a Formato M4V Con Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-magnetic-appeal-of-keychrons-k2-he-special-edition-a-mid-century-marvel-in-action/"><u>Exploring the Magnetic Appeal of Keychron's K2 HE Special Edition - A Mid-Century Marvel in Action</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-xs-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone XS Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-photoeditor-macos/"><u>Movavi PhotoEditor macOS版本：高效率修图和照片编辑软件</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp3-mkv-movavi/"><u>MP3, MKV 코멘트를 전자화하기 원통스: Movavi 시리즈</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4-to-wmv-transformation-at-no-cost-web-based-tool-by-movievi/"><u>MP4 to WMV Transformation at No Cost Web-Based Tool by MovieVI</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/preventing-vids-from-going-bad/"><u>Preventing Vids From Going Bad</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-battle-of-tech-titans-ipad-pro-vs-macbook-pro-unveiled/"><u>The Battle of Tech Titans: IPad Pro Vs. MacBook Pro Unveiled</u></a></li>
 </ul></div>
 

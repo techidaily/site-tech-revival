@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Full Potential: 10 ChatGPT-VS Code Pairings"
-date: 2025-02-12T23:04:39.921Z
-updated: 2025-02-17T21:07:09.394Z
+date: 2025-03-02T20:04:59.809Z
+updated: 2025-03-06T18:05:52.347Z
 tags:
   - chatgpt
   - open-ai
@@ -58,23 +58,11 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
@@ -84,17 +72,9 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -147,15 +127,20 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-definitive-guide-for-choosing-best-youtube-visual-elements/"><u>[New] The Definitive Guide for Choosing Best YouTube Visual Elements</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-prolive-vs-showrunner-hub/"><u>[Updated] In 2024, ProLive VS Showrunner Hub</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-networking-growth-sharing-facebook-content-via-whatsapp/"><u>[Updated] Networking Growth Sharing Facebook Content via WhatsApp</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-se-2022-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone SE (2022) Without iTunes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-on-broadcasting-to-facebook-live-using-manycam-tips-and-troubleshooting/"><u>Guide on Broadcasting to Facebook Live Using ManyCam: Tips & Troubleshooting</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-unlocking-the-full-potential-of-samsung-galaxy-tab-s6-with-its-s-pen-and-dex-functionality/"><u>In-Depth Analysis: Unlocking the Full Potential of Samsung Galaxy Tab S6 with Its S Pen & DeX Functionality</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/innovators-crafting-immersive-viewscape-for-2024/"><u>Innovators Crafting Immersive Viewscape for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-cam-pro-the-ultimate-multiplecam-alternative-for-seamless-online-broadcasts/"><u>Live Cam Pro: The Ultimate MultipleCam Alternative for Seamless Online Broadcasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-stream-with-manycam-premium-virtual-camera-app-for-broadcasting/"><u>Live Stream with ManyCam: Premium Virtual Camera App for Broadcasting</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-discover-manycam-top-virtual-webcam-application/"><u>Live Streaming Made Easy: Discover ManyCam - Top Virtual Webcam Application</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-leveraging-the-power-of-visual-storytelling-in-fb-covers/"><u>[New] In 2024, Leveraging the Power of Visual Storytelling in FB Covers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-from-conference-call-to-online-showcase-google-meet-on-youtube/"><u>[Updated] 2024 Approved From Conference Call to Online Showcase Google Meet on YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-personalized-music-collection-enhancement-from-spotify-to-youtube-music/"><u>[Updated] Personalized Music Collection Enhancement From Spotify to YouTube Music</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlock-exclusive-youtube-visuals-top-5-tools-reviewed-for-2024/"><u>[Updated] Unlock Exclusive YouTube Visuals – Top 5 Tools Reviewed for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-2d-animation-tools-of-the-year-a-comprehensive-guide-to-free-and-premium-options/"><u>Best 2D Animation Tools of the Year: A Comprehensive Guide to Free & Premium Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/diy-merry-memories-compilation-building-your-own-musical-christmas-picture-presentation/"><u>DIY Merry Memories Compilation: Building Your Own Musical Christmas Picture Presentation</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-w11-scanner-output-issues/"><u>Fix W11 Scanner Output Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-future-of-ebooks-unveiled-in-depth-look-at-paperlike-reading-on-the-2eoasekindle-oasis-2019/"><u>The Future of Ebooks Unveiled: In-Depth Look at Paperlike Reading on the 2eoaseKindle Oasis (2019)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-methods-for-capturing-flash-videos-directly-from-websites/"><u>Top 5 Methods for Capturing Flash Videos Directly From Websites</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transfert-facile-et-gratuit-de-flac-a-avi-en-ligne-suivez-les-etapes-avec-movavi/"><u>Transfert Facile Et Gratuit De FLAC À AVI en Ligne - Suivez Les Étapes Avec Movavi!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformar-trp-a-mpg-online-sin-costo-con-movavi-un-tutorial-facil-de-seguir/"><u>Transformar TRP a MPG Online Sin Costo Con Movavi: Un Tutorial Fácil De Seguir</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultra-30-action-camera-by-garmin-detailed-reviews-and-features/"><u>Ultra 30 Action Camera by Garmin – Detailed Reviews & Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-jpg-movavi/"><u>무료 액세스로 ONLINE 이미지를 JPG로 쉽게 변환 - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726221300789-mp4/"><u>영구성 가격의 MP4 파일을 원시 코드로 변환하는 방법 - 모바이비</u></a></li>
 </ul></div>
 

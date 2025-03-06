@@ -1,7 +1,7 @@
 ---
 title: "AI's Leap: Critical Upgrades Expected in GPT-5"
-date: 2025-02-15T16:56:09.676Z
-updated: 2025-02-18T02:03:51.689Z
+date: 2025-03-03T18:51:33.373Z
+updated: 2025-03-06T18:09:46.401Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/192a8b490dda7b2810c72f377a9e089461747eddc
 * [Upgraded Code Analysis](https://www.makeuseof.com/chatgpt-new-features-spring-update/#upgraded-code-analysis)
 * [Temporary Chat](https://www.makeuseof.com/chatgpt-new-features-spring-update/#temporary-chat)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ChatGPT now converses with image inputs and outputs, providing accurate results and generated images in its responses.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/192a8b490dda7b2810c72f377a9e089461747eddc
 * ChatGPT-4o enables users to engage in multi-modal voice and video interactions, fostering real-time conversations and versatile AI assistance.
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Image Input and Output Capabilities
 
@@ -59,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/192a8b490dda7b2810c72f377a9e089461747eddc
 I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
@@ -82,10 +70,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Multi-Modal Voice and Video Interactions
 
  Everyone[wanted to see more modality in ChatGPT](https://www.makeuseof.com/gpt-5-features-we-want-to-see/) . The new ChatGPT-4o model gives access to multi-modal voice and video interaction, allowing users to engage in continuous voice and video conversations with ChatGPT, like making a video call with a human assistant. ChatGPT-4o's conversation support, video capability, and human-like voice and emotions make this new feature different from other voice assistants.
@@ -103,10 +87,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  Here, I’ve given ChatGPT-4o an SQL file containing a database from an e-commerce project and asked it to analyze and graph the top products commonly ordered.
 
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
@@ -137,16 +117,24 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-flashback-filmmaking-essential-retro-vhs-techniques-for-modern-videos-for-2024/"><u>[New] Flashback Filmmaking Essential Retro VHS Techniques for Modern Videos for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-capturing-chaos-in-high-definition-the-polaroid-xs-review/"><u>[New] In 2024, Capturing Chaos in High Definition - The Polaroid XS Review</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-seamless-sound-shift-best-10-youtube-audio-converters/"><u>[New] In 2024, Seamless Sound Shift Best 10 YouTube Audio Converters</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premiere-pros-art-of-audio-transitioning/"><u>[New] Premiere Pro’s Art of Audio Transitioning</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/3macos/"><u>3大功能性的免費同步工具選擇：macOS使用手冊</u></a></li>
-<li><a href="https://article-files.techidaily.com/elevate-your-space-top-cloud-choices-for-2024/"><u>Elevate Your Space Top Cloud Choices for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/fix-unrecognized-iphone-by-itunes-on-windows-10-a-complete-guide/"><u>Fix: Unrecognized iPhone by iTunes on Windows 10 – A Complete Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/interactive-conversations-with-ai-how-chatgpt-responds-to-prompts-and-commands-via-voice/"><u>Interactive Conversations with AI: How ChatGPT Responds to Prompts & Commands via Voice</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/le-chat-vs-chatgpt-our-in-depth-review-of-two-popular-ai-chatbots/"><u>Le Chat vs ChatGPT - Our In-Depth Review of Two Popular AI Chatbots</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-is-now-with-microsoft-bings-ai-enhanced-search-capabilities/"><u>The Future Is Now with Microsoft Bing's AI-Enhanced Search Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-paperclip-maximization-dilemma-its-role-and-consequences-for-ai-development/"><u>The Paperclip Maximization Dilemma: Its Role & Consequences for AI Development</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-from-novice-to-pro-steps-in-online-streaming/"><u>[New] 2024 Approved From Novice to Pro Steps in Online Streaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-nvidias-easy-method-for-game-captures/"><u>[New] 2024 Approved NVIDIA's Easy Method for Game Captures</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-excellence-guild-crafting-photos-plus-sounds-visuals/"><u>[New] In 2024, Excellence Guild Crafting Photos + Sounds, Visuals</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expert-insights-optimal-techniques-for-pc-display-recordings/"><u>[Updated] In 2024, Expert Insights Optimal Techniques for PC Display Recordings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-memorable-moments-made-easy-download-and-save-gif-from-social-media/"><u>[Updated] In 2024, Memorable Moments Made Easy Download and Save GIF From Social Media</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/6-t17262286257363/"><u>「高精細化無料: 動画解像度向上ツール＆ベストアプリケーション6つ」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-sound-bank-vintage-voice-choices/"><u>2024 Approved Ultimate Sound Bank Vintage Voice Choices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/advanced-gmail-organization-techniques-to-streamline-your-inbox/"><u>Advanced Gmail Organization Techniques to Streamline Your Inbox</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-realme-12-5g-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Realme 12 5G</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-free-screen-recorder-roundup-the-premium-selection-for-your-android-device/"><u>In 2024, Free Screen Recorder Roundup The Premium Selection for Your Android Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-ferramenta-de-conversao-de-arquivos-raw-para-gratuita-e-em-linha/"><u>Movavi: Ferramenta De Conversão De Arquivos RAW Para Gratuita E Em Linha</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movmov/"><u>MOVファイルの仕組みと解説：MOV形式データを効果的に表示する方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-free-conversion-convert-rmvb-file-to-high-quality-mp3-using-movavi/"><u>Online Free Conversion: Convert RMVB File to High-Quality MP3 Using Movavi</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/resolving-whea-unstable-failures-on-windows-10-systems/"><u>Resolving WHEA Unstable Failures on Windows 10 Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ricodifica-i-file-audio-m4a-a-formato-mp3-gratuito-on-line-con-convertimov/"><u>Ricodifica I File Audio M4A a Formato MP3 Gratuito On-Line Con ConvertiMov</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-free-audio-production-tools-ideal-starter-packs-for-aspiring-musicians/"><u>Top 10 Free Audio Production Tools: Ideal Starter Packs for Aspiring Musicians</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformez-vos-donnees-sonores-avec-efficacite-decouvrez-loutil-convertisseur-audio-gratuit-de-moovavi/"><u>Transformez Vos Données Sonores Avec Efficacité: Découvrez L'outil Convertisseur Audio Gratuit De Moovavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/video-organizer-software-efficient-content-management-system/"><u>Video Organizer Software - Efficient Content Management System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wmvogv-moveave/"><u>WMVとOGVのフリーでオンライン変換 - Moveave</u></a></li>
 </ul></div>
 

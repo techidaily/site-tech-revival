@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Risk: The 5Th Dimension of AI for Hacking"
-date: 2025-02-16T22:58:32.714Z
-updated: 2025-02-18T00:06:35.487Z
+date: 2025-03-03T17:00:25.039Z
+updated: 2025-03-06T19:54:47.990Z
 tags:
   - chatgpt
   - open-ai
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Access the GPT Store
 
  Access and use of the new GPT Store [requires a ChatGPT subscription](http://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Only users with ChatGPT Plus, ChatGPT Teams, or ChatGPT Enterprise accounts will be able to use the store's catalog of custom GPTs. You also need a ChatGPT subscription if you want to [create your own custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/).
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
  On the left sidebar of the ChatGPT interface, you should see **Explore GPTs** instead of simply **Explore**. Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Find the Best Custom GPTs in the GPT Store
 
  Using the GPT Store is quite straightforward. Here's how you can browse and search for custom GPTs:
@@ -67,24 +59,12 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click **Keep in sidebar**. This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
@@ -113,15 +93,18 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-guide-seamless-facebook-live-integration-for-web-pages-for-2024/"><u>[New] Guide Seamless Facebook Live Integration for Web Pages for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-how-much-video-can-64gb128gb-holds-for-2024/"><u>[New] How Much Video Can 64GB/128GB Holds for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-case-study-how-to-grow-on-youtube-to-have-millions-of-subs/"><u>[Updated] 2024 Approved Case Study How to Grow on YouTube to Have Millions of Subs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-how-to-fix-youtube-video-black-screen-for-2024/"><u>[Updated] How to Fix YouTube Video Black Screen for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-masterclass-beginners-kit-free-courses-collection/"><u>[Updated] YouTube Masterclass Beginners Kit Free Courses Collection</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-honor-90-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Honor 90 is off? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-you-trust-chatgpt-with-your-personal-details-a-privacy-concern/"><u>Can You Trust ChatGPT With Your Personal Details - A Privacy Concern?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-best-8-fitness-enhancements-by-smart-conversational-agents/"><u>Discover the Best 8 Fitness Enhancements by Smart Conversational Agents</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-googles-breakthrough-introduction-to-palm-2-model/"><u>Inside Google's Breakthrough: Introduction to PaLM 2 Model</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/realize-creative-possibilities-with-openais-api-excellence/"><u>Realize Creative Possibilities with OpenAI's API Excellence</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-bring-your-creative-windows-video-projects-online-via-vimeo/"><u>[New] Bring Your Creative Windows Video Projects Online via Vimeo</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-storyboarding-through-instagram-slides/"><u>[Updated] Storyboarding Through Instagram Slides</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gifmp42023/"><u>推薦超多功能的GIF到MP4轉化工具！2023年最新動態教學錄影帶 [高效選用方法]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/become-a-pro-at-adding-features-to-chatgpt/"><u>Become a Pro at Adding Features to ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enregistrez-avec-succes-votre-prochaine-google-meet-un-guide-exhaustif-pour-tous-les-besoins/"><u>Enregistrez Avec Succès Votre Prochaine Google Meet ! Un Guide Exhaustif Pour Tous Les Besoins.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-ultimate-dvd-copy-and-burn-utilities-for-windows-users-top-picks-for-win-11-8-and-7/"><u>Free Ultimate DVD Copy and Burn Utilities for Windows Users: Top Picks for WIN 11, 8 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-spectacular-8k-cameras-top-picks-for-quality/"><u>In 2024, Spectacular 8K Cameras Top Picks for Quality</u></a></li>
+<li><a href="https://win-news.techidaily.com/proteccion-efectiva-para-tus-datos-clonar-carpetas-y-creacion-de-copias-de-respaldo-usando-aomei-backupper/"><u>Protección Efectiva Para Tus Datos: Clonar Carpetas Y Creación De Copias De Respaldo Usando AOMEI Backupper</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/senso-activbuds-wireless-headphones-review-affordable/"><u>Senso ActivBuds Wireless Headphones Review: Affordable</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/udvikle-din-microsoft-windows-10-4-tekniker-for-skaermede-optimalisering/"><u>Udvikle Din Microsoft Windows 10 - 4 Tekniker for Skærmede Optimalisering</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/urban-adventures-await-immerse-yourself-in-athens-montreal-and-cape-towns-rich-culture/"><u>Urban Adventures Await: Immerse Yourself in Athens, Montreal, and Cape Town's Rich Culture</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726226804731-wma-m4v/"><u>WMA 및 M4V 파일을 원격으로 무료 전환 - 모바이비아</u></a></li>
 </ul></div>
 

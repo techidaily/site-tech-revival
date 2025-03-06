@@ -1,7 +1,7 @@
 ---
 title: "AI and You: Controlling Home Tech with GPT Assistance"
-date: 2025-02-16T20:07:00.226Z
-updated: 2025-02-17T18:56:53.615Z
+date: 2025-03-01T19:38:05.754Z
+updated: 2025-03-06T17:20:26.506Z
 tags:
   - chatgpt
   - open-ai
@@ -58,15 +58,7 @@ After Installing Python, you can download Auto-GPT from GitHub.
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
 4. Once opened, scroll down to the**LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
 
@@ -80,10 +72,6 @@ pip install -r requirements.txt
 3. Once you press enter, your terminal will download and install all the required dependencies.  
 ![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-4.jpg)
 4. After installation, try opening Auto-GPT using:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 python -m autogpt  
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
@@ -134,19 +122,11 @@ After making the recipe, our AI has now completed its task.
 
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To view the output, go to your Auto-GPT folder and**open auto-gpt-workspace** .
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Auto-GPT Limitations
 
@@ -159,10 +139,6 @@ After making the recipe, our AI has now completed its task.
  Other problems that contribute to Auto-GPT getting stuck are the model struggling to handle or navigate website advertising and cookies, login pages, and all kinds of pop-ups (the stuff humans hate, too!).
 
  Using GPT-4 will noticeably reduce hallucinations and improve overall performance. However, its context size is still limited to 8,000 tokens. After reaching the 8k-token mark, GPT-4 will start losing context starting from the beginning of the task, affecting results. Furthermore, using GPT-4 is several times pricier than GPT-3.5 ([each GPT token has a cost](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) ). You'll want to set limits through your API account.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Future of Auto-GPT
 
@@ -185,24 +161,22 @@ After making the recipe, our AI has now completed its task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-explore-the-potential-of-color-grading-through-luts-and-ar/"><u>[New] Explore the Potential of Color Grading Through LUTs and AR</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-full-rotational-photography-versus-3d-scanning/"><u>[New] Full-Rotational Photography versus 3D Scanning</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-bridging-creativity-and-engagement-anime-subscribe-buttons-with-filmora/"><u>[New] In 2024, Bridging Creativity & Engagement - Anime Subscribe Buttons with Filmora</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-streamline-and-save-prime-tools-to-plug-into-fb-videos/"><u>[New] In 2024, Streamline & Save Prime Tools to Plug Into Fb Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/electing-androids-best-youtube-video-extractors-for-2024/"><u>[New] Selecting Android's Best YouTube Video Extractors for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-instagram-imagery-with-striking-borders/"><u>[Updated] Elevate Your Instagram Imagery with Striking Borders</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-best-way-to-stitch-gopro-clips-into-360-videos/"><u>[Updated] In 2024, Best Way to Stitch GoPro Clips Into 360 Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-perfect-your-iphone-photography-top-tier-filming-aids/"><u>[Updated] In 2024, Perfect Your iPhone Photography Top-Tier Filming Aids</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bing-upgraded-microsofts-ai-breakthrough/"><u>Bing Upgraded: Microsoft’s AI Breakthrough</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-you-trust-chatgpt-to-check-your-writing-errors/"><u>Can You Trust ChatGPT to Check Your Writing Errors?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-and-global-reach-impact-of-vpn-use/"><u>ChatGPT and Global Reach: Impact of VPN Use?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-copilot-and-copilot-pro-essential-differences-that-influence-your-choice/"><u>Comparing CoPilot and CoPilot Pro: Essential Differences That Influence Your Choice</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creative-rights-cause-clash-with-meta-and-openai-sparking-litigation/"><u>Creative Rights Cause Clash with Meta & OpenAI, Sparking Litigation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-ai-powers-contrasting-the-performance-of-llama-3-and-gpt-4/"><u>Decoding AI Powers: Contrasting the Performance of Llama 3 And GPT-4</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-the-credibility-of-chatgpt-a-look-into-its-propensity-for-honesty/"><u>Evaluating the Credibility of ChatGPT: A Look Into Its Propensity for Honesty</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-fade-inout-processes-in-audacity/"><u>In 2024, Navigating Fade-In/Out Processes in Audacity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/personalized-workout-plans-via-generative-machine-learning/"><u>Personalized Workout Plans via Generative Machine Learning</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/ready-to-connect-the-next-gen-ai-conversationalist/"><u>Ready to Connect: The Next-Gen AI Conversationalist</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/smarter-study-with-ai-integration/"><u>Smarter Study with AI Integration</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-a-compreranble-collection-of-game-logging-apps-transcending-fbx-limitations-for-2024/"><u>[New] A Compreranble Collection of Game Logging Apps Transcending FBX Limitations for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-all-encompassing-clarification-the-basics-of-googles-podcast-platform/"><u>[Updated] All-Encompassing Clarification The Basics of Google's Podcast Platform</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-efficient-obs-usage-live-skype-capture-tips-for-2024/"><u>[Updated] Efficient OBS Usage Live Skype Capture Tips for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-foodie-fables-enthralling-channel-names-for-epicureans/"><u>[Updated] In 2024, Foodie Fables Enthralling Channel Names for Epicureans</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/m4vm4amovavi/"><u>無限制地將M4V格式改為M4A：如何使用Movavi的編譯器</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-c300-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of C300</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertisseur-video-videotime-transformation-gratuite-de-fichiers-ts-en-mp4-en-temps-reel/"><u>Convertisseur Vidéo Videotime - Transformation Gratuite De Fichiers .TS en .MP4 en Temps Réel</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-enable-and-listen-to-fm-radio-stations-with-iphone-or-android-technology/"><u>How to Enable and Listen to FM Radio Stations with iPhone or Android Technology</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-call-recording-leveraging-google-voice-and-movavi-solutions/"><u>Mastering Call Recording: Leveraging Google Voice and Movavi Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/scambia-i-tuoi-file-au-con-codifica-mp3-online-senza-costi-conversione-rapida-e-facile/"><u>Scambia I Tuoi File AU Con Codifica MP3 Online Senza Costi - Conversione Rapida E Facile</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tech-jest-crafter-for-2024/"><u>Tech Jest Crafter for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-free-audio-remixing-tools-of-2024-professional-recommendations-by-movavi/"><u>Top 10 Free Audio Remixing Tools of 2024: Professional Recommendations by Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformar-musica-y-peliculas-desde-el-formato-aiff-a-mp4-sin-costo-mediante-herramienta-en-linea-de-movavi/"><u>Transformar Música Y Películas Desde El Formato AIFF a MP4 Sin Costo Mediante Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/web-based-gratis-convertitor-changing-3g2-flv-format-without-cost-moveavi/"><u>Web-Based Gratis Convertitor: Changing 3G2 FLV Format Without Cost - MoveAVI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/webmavimovavi/"><u>WebmファイルのAVIへ完全自由に変換！Movaviで手軽なオンラインツール</u></a></li>
 </ul></div>
 

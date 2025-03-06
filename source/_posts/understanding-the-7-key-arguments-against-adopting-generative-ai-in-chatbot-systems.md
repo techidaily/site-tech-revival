@@ -1,7 +1,7 @@
 ---
 title: Understanding the 7 Key Arguments Against Adopting Generative AI in Chatbot Systems
-date: 2025-02-12T20:08:19.806Z
-updated: 2025-02-17T19:51:58.217Z
+date: 2025-03-01T18:16:33.118Z
+updated: 2025-03-06T17:19:17.176Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 * [How Gemini Compares to GPT-3.5 and GPT-4](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#how-gemini-compares-to-gpt-3-5-and-gpt-4)
 * [Is Gemini Better than ChatGPT?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#is-gemini-better-than-chatgpt)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Google's AI model Gemini has three variants, Ultra, Pro, and Nano, focused on different tasks and complexity levels.
@@ -42,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
  When Google launched Bard in March 2023, there were many reasons to be excited. Finally, OpenAI's ChatGPT monopoly would be broken, and we'd get worthy competition.
 
  But Bard was never the AI titan people hoped for, and GPT-4 remains the dominant generative AI chat bot platform. Now, Google's Gemini is here—but is the long-awaited AI model better than ChatGPT?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is Google's Gemini AI Model?
 
@@ -71,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
  When any new AI model is launched, it is tested against OpenAI's GPT AI models, which are generally accepted as the state-of-the-art model other models should be held up against. So, using Bard and ChatGPT, we tested Gemini's ability in math, creative writing, code generation, and accurately processing image inputs.
@@ -85,17 +73,9 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
 
@@ -144,17 +124,22 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-quick-reinstatement-vanished-visuals/"><u>[New] Quick Reinstatement Vanished Visuals</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-guide-to-selecting-peak-frames-per-second-for-slow-motion-cinema/"><u>[New] The Ultimate Guide to Selecting Peak Frames Per Second For Slow-Motion Cinema</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-ideal-websites-for-painless-jpeg-to-gif-changeover/"><u>[Updated] Ideal Websites for Painless JPEG to GIF Changeover</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-chatgpt-adapt-and-improve-through-interaction-with-users/"><u>Can ChatGPT Adapt and Improve Through Interaction with Users?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/do-chatgpt-responses-have-a-character-or-word-limit/"><u>Do ChatGPT Responses Have a Character or Word Limit?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/emoji-free-tweet-evolution-linuss-unmasking-trojan-discourse-and-chatgpt-hurdles/"><u>Emoji-Free Tweet Evolution, Linus's Unmasking, Trojan Discourse, & ChatGPT Hurdles.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-immersive-simulations-in-medical-schools/"><u>In 2024, Immersive Simulations in Medical Schools</u></a></li>
-<li><a href="https://win-webster.techidaily.com/is-motherboard-restoration-feasible-for-damaged-laptops-tips-by-yl-computing-professionals/"><u>Is Motherboard Restoration Feasible for Damaged Laptops? Tips by YL Computing Professionals</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-5-acapella-downloads-ideal-choices-for-enhancing-your-dj-mixes/"><u>Top 5 Acapella Downloads: Ideal Choices for Enhancing Your DJ Mixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-crypto-portfolio-insights-from-leveraging-chatgpt-for-trading-success/"><u>Transform Your Crypto Portfolio: Insights From Leveraging ChatGPT for Trading Success</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-steps-to-perform-a-full-system-restore-on-your-lenovo-computer/"><u>Ultimate Guide: Steps to Perform a Full System Restore on Your Lenovo Computer</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-mastering-the-art-of-acquiring-yt-channel-revenue/"><u>[Updated] In 2024, Mastering the Art of Acquiring YT Channel Revenue</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-tech-enthusiasts-guide-to-ios-screen-record-2023-for-2024/"><u>[Updated] Tech Enthusiast's Guide to iOS Screen Record 2023 for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-straight-from-the-studio-simple-steps-to-sizzling-mac-vids-on-youtube/"><u>2024 Approved Straight From the Studio Simple Steps to Sizzling Mac Vids on YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726227918610-mpegm4v-moveavi/"><u>無限量產自由MPEG到M4V格式的線上轉換 - 使用Moveavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comment-transformer-votre-collection-de-photos-en-un-montage-video-guide-complet/"><u>Comment Transformer Votre Collection De Photos en Un Montage Vidéo - Guide Complet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortlessly-convert-opus-audio-to-wav-file-online-no-costs-using-movavis-tool/"><u>Effortlessly Convert OPUS Audio to WAV File Online - No Costs Using Movavi's Tool!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-online-video-in-mp3-konvertor-scherp-en-eenvoudig/"><u>Gratis Online Video-in-MP3 Konvertor: Scherp en Eenvoudig</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuito-conversor-online-para-aviar-em-qt-movavi/"><u>Gratuito Conversor Online Para Aviar Em Qt - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mov-3gp-movavi/"><u>MOV 到 3GP 自由網上轉化 - 利用 MOVAVI 的無線捷運</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/navigating-snapchat-for-twitter-vids-distribution-for-2024/"><u>Navigating Snapchat for Twitter Vids Distribution for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-gratis-konvertoren-voor-wtv-en-mp4-het-top-pakket-van-movavi-vervangen/"><u>Online Gratis Konvertoren Voor WTV en MP4: Het Top-Pakket Van Movavi Vervangen</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/optimizing-your-imovie-content-for-vimeo-display-for-2024/"><u>Optimizing Your iMovie Content for Vimeo Display for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/speedy-driver-updates-for-windows-10-made-easy-a-comprehensive-guide/"><u>Speedy Driver Updates for Windows 10 Made Easy – A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-use-of-headphones-on-series-x-console/"><u>Strategic Use of Headphones on Series X Console</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-essentials-of-facebooks-emerging-dating-scene/"><u>The Essentials of Facebook's Emerging Dating Scene</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-tier-session-identifier-generator-for-2024/"><u>Top-Tier Session Identifier Generator for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trasforma-i-tuoi-file-w64-in-mp3-senza-costo-usando-lonline-tool-di-movavi/"><u>Trasforma I Tuoi File W64 in MP3 Senza Costo Usando L'Online Tool Di Movavi</u></a></li>
 </ul></div>
 

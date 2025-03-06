@@ -1,7 +1,7 @@
 ---
 title: "Steer Clear of MacChatGPT: Safeguard Your Digital Life"
-date: 2025-01-21T12:04:32.779Z
-updated: 2025-01-26T10:33:58.057Z
+date: 2025-03-03T18:31:57.871Z
+updated: 2025-03-06T18:29:26.822Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Scammers are using Google's generative AI tool, Bard, to infect users with malware and steal login credentials.
@@ -34,19 +30,11 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
 
  Although Google has filed a lawsuit to tackle the malware, the scammers are still up and running, and that's why you should avoid downloading anything like a "Google Bard app." It's malware waiting to infect your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Google Bard?
 
 [Google Bard](https://bard.google.com/chat) was launched in March 2023 and is Google's answer to[OpenAI's ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) . While offering similar functionalities, it doesn't perform as extensively as ChatGPT—which is what scammers have been exploiting to infect devices with malware.
 
 ![A screenshot of the Google Bard chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/google-bard.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There are many[ways to use Google Bard](https://www.makeuseof.com/how-to-use-google-bard/) . You can enter a prompt asking Google Bard to explain how something works, give you ideas for a project, and even write code for you.
 
@@ -57,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
  On November 13, 2023, Google announced on its official blog,[The Keyword](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/) , that it's filing a lawsuit and taking legal action against scammers said to be based in Vietnam. You can view the lawsuit complaint on[ Thomson Reuters \[PDF\]](https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf) .
 
 ![An image of AIGoogleBard's Facebook page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/aigooglebard-facebook-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit:[Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf)
 
@@ -73,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
  The scammers, who have no affiliation with Google, specifically used Facebook posts to spread their malware. For instance, the scammers imply their version of Bard is a paid app to download when Google Bard itself is free to use and doesn't require a download.
 
  Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Stick With Google Bard on Your Browser
 
@@ -99,20 +79,16 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-blackout-blitz-a-moments-work/"><u>[New] 2024 Approved Blackout Blitz A Moment's Work</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leading-the-charge-in-modern-presentation-recordings/"><u>[New] 2024 Approved Leading the Charge in Modern Presentation Recordings</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-ultimate-guide-to-creating-click-enticing-youtube-thumbnails/"><u>[Updated] In 2024, The Ultimate Guide to Creating Click-Enticing YouTube Thumbnails</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-insightful-guide-to-sharex-critiques-and-counterparts-for-2024/"><u>[Updated] Insightful Guide to ShareX Critiques & Counterparts for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crown-jewel-ios-recorders-for-phones/"><u>Crown Jewel iOS Recorders for Phones</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/device-unlock-honor-90-by-drfone-android-unlock-android-unlock/"><u>Device unlock Honor 90</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-achieving-fluidity-in-audio-blending-using-audacity-tools/"><u>In 2024, Achieving Fluidity in Audio Blending Using Audacity Tools</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-gptbot-reasons-behind-website-restrictions/"><u>Understanding GPTBot: Reasons Behind Website Restrictions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-top-three-privacy-threats-linked-with-using-chatbots/"><u>Understanding the Top Three Privacy Threats Linked with Using Chatbots</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-chatgpt-top-5-strategies-for-usage-without-a-premium-sign-up/"><u>Unlocking ChatGPT: Top 5 Strategies for Usage Without a Premium Sign-Up</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-scholarship-success-with-artificial-intelligence-techniques/"><u>Unlocking Scholarship Success with Artificial Intelligence Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-chatgpt-with-these-4-strategies-for-reading-pdfs/"><u>Unlocking the Power of ChatGPT with These 4 Strategies for Reading PDFs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-distinctions-a-comparative-analysis-of-gpt-4-and-gpt-35/"><u>Unveiling the Distinctions: A Comparative Analysis of GPT-4 and GPT-3.5</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/voice-command-mastery-5-techniques-to-direct-chatgpt/"><u>Voice-Command Mastery: 5 Techniques to Direct ChatGPT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bold-broadcasters-on-a-budget-youtube-live-not-1000plus-supporters/"><u>[Updated] Bold Broadcasters on a Budget YouTube LIVE, Not 1000+ Supporters</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-all-inclusive-review-of-dji-phantom-4-technology/"><u>[Updated] In 2024, All-Inclusive Review of DJI Phantom 4 Technology</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/benq-sw320-monitor-review-a-leap-into-4k-territory-for-2024/"><u>BenQ SW320 Monitor Review A Leap Into 4K Territory for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dealing-with-a-broken-msi-ws65-performance-pc-a-comprehensive-guide/"><u>Dealing With a Broken MSI WS65 Performance PC – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-top-nine-advantages-elevate-your-experience-with-chatgpt-plus/"><u>Discover the Top Nine Advantages: Elevate Your Experience with ChatGPT Plus</u></a></li>
+<li><a href="https://windows11.techidaily.com/diving-into-devs-how-to-use-the-dev-drive-on-windows-11/"><u>Diving Into Devs: How to Use the Dev Drive on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/engage-in-confidential-chats-using-duckduckgos-ai-access-exclusive-private-sessions-like-chatgpt-plus/"><u>Engage in Confidential Chats Using DuckDuckGo's AI: Access Exclusive Private Sessions Like ChatGPT Plus!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhanced-ai-conversations-with-siri-and-chatgpt-on-iphone/"><u>Enhanced AI Conversations with Siri and ChatGPT on iPhone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-risks-could-ai-model-chatgpt-be-misused-in-constructing-harmful-programs/"><u>Exploring Risks: Could AI Model ChatGPT Be Misused in Constructing Harmful Programs?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-contrast-between-ml-and-nlp-technologies/"><u>Exploring The Contrast Between ML and NLP Technologies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-how-to-restoring-and-reinstalling-windows-on-dell-laptops/"><u>Ultimate How-To: Restoring and Reinstalling Windows on Dell Laptops</u></a></li>
 </ul></div>
 

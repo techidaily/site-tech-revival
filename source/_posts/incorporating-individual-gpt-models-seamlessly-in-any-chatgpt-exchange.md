@@ -1,7 +1,7 @@
 ---
 title: Incorporating Individual GPT Models Seamlessly in Any ChatGPT Exchange
-date: 2024-08-29T01:48:49.159Z
-updated: 2024-08-30T01:48:49.159Z
+date: 2025-02-27T19:25:14.644Z
+updated: 2025-03-06T17:56:45.236Z
 tags:
   - chatgpt
   - open-ai
@@ -71,9 +71,6 @@ ChatGPT also cracked the problem as well.
 
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## ChatGPT vs. Claude AI: Creativity
 
  One of Claude AI's biggest hype is its creative abilities. But can it match ChatGPT's creativity? Or, could it possibly surpass ChatGPT? To put both chatbots to the test, we tasked them with writing lyrics for a rap song that rhymes.
@@ -84,23 +81,14 @@ ChatGPT also cracked the problem as well.
 
 ![ChatGPT composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-composes-a-rap-lyrics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We then fed the same prompt to Claude AI, and it gave it a fair shot as well.
 
 ![Claude AI composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-composes-a-rap-lyrics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Both lyrics are good, but ChatGPT seemed to have an edge here. It had better rhyming, and we had the result we needed on the first trial. We had to try three times before Claude AI could produce lyrics that rhymed. We'll give this one to ChatGPT.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT vs. Claude AI: Coding Skills
 
  Just like math skills, coding skills are another very important metric for judging the abilities of an AI chatbot. While the majority of users will probably never[use a chatbot for coding](https://www.makeuseof.com/chatgpt-programming-practical-uses/) , there are significant underlying implications for a chatbot's abilities to write and understand code proficiently.
@@ -111,9 +99,6 @@ ChatGPT also cracked the problem as well.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
@@ -126,22 +111,15 @@ ChatGPT also cracked the problem as well.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Claude AI Is a Potent Competitor on the Block
 
  Claude AI represents a potent competition for ChatGPT--one that can compete with and potentially surpass ChatGPT someday. Given Claude is a relatively new AI model, it is enviable that it can take on ChatGPT the way it currently does. Claude AI's emergence and the quality it offers proof that the competition is heating up.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -150,4 +128,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unveiling-lost-reddit-content-instant-access-techniques/"><u>[New] 2024 Approved Unveiling Lost Reddit Content Instant Access Techniques</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-complete-drone-racing-playbook-plus-5-elite-fpv-brands/"><u>[New] The Complete Drone Racing Playbook + 5 Elite FPV Brands</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726219609657-movavi/"><u>「ファイナルエクササイズ - Movaviで簡単な方法:高画質動画のキャプチャ技術」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gifmov-movavi/"><u>網站上免費改變GIF格式成MOV - 利用Movavi動態影片轉換工具</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/alaw-mp3-movavi/"><u>移動式 Alaw 到 MP3 無限制免費網站 - 利用Movavi自由轉換器</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-flvogg/"><u>自由版 Movavi 工具，線上無需付錢地讓FLV轉成Ogg格式</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-25-free-tools-to-edit-photos-on-iphone-with-movavi-reviews/"><u>Best 25 Free Tools to Edit Photos on iPhone with Movavi Reviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-failed-attempts-at-gpt-alteration/"><u>Breaking Down Failed Attempts at GPT Alteration</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/comparing-free-and-premium-youtube-experiences-whats-best-for-2024/"><u>Comparing Free and Premium YouTube Experiences What's Best for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertidores-completos-para-descargas-audibles-desde-m4b-hasta-mp3-como-hacerlo-sin-problemas/"><u>Convertidores Completos Para Descargas Audibles: Desde M4B Hasta MP3, Cómo Hacerlo Sin Problemas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elite-selection-of-cost-free-creative-tools/"><u>Elite Selection of Cost-Free Creative Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/los-mejores-conversores-gratis-de-wav-a-mp3-para-pc-y-mac-eleccion-n-1-al-n-5/"><u>Los Mejores Conversores Gratis De WAV a MP3 Para PC Y Mac - Elección Nº 1 Al Nº 5</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/izing-chaos-a-guide-to-youtube-list-shuffling/"><u>Organizing Chaos A Guide to YouTube List Shuffling</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-mejores-reproductores-swf-compatibles-con-windows-10-y-mac/"><u>Top 7 Mejores Reproductores SWF Compatibles Con Windows 10 Y Mac</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-strategies-for-effectively-removing-items-from-images/"><u>Top Strategies for Effectively Removing Items From Images</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformer-un-fichier-avi-en-mp4-gratuitement-guide-complet-de-conversion-video/"><u>Transformer Un Fichier AVI en MP4 Gratuitement - Guide Complet De Conversion Vidéo</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-pathway-for-iphone-speech-capture-and-documentation-for-2024/"><u>Updated The Ultimate Pathway for iPhone Speech Capture and Documentation for 2024</u></a></li>
+</ul></div>
 

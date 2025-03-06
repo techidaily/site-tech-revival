@@ -1,7 +1,7 @@
 ---
 title: "Harnessing ChatGPT: 6 Essential Tips for a Dream DM Experience"
-date: 2025-02-14T00:53:40.411Z
-updated: 2025-02-17T22:59:41.679Z
+date: 2025-02-28T16:34:09.331Z
+updated: 2025-03-06T16:36:06.487Z
 tags:
   - chatgpt
   - open-ai
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Potential Risks of Generative AI to Spread Disinformation
 
@@ -56,15 +52,7 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -85,10 +73,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -96,10 +80,6 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -133,24 +113,24 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-action-sequels-the-best-games-like-grand-theft-auto-for-2024/"><u>[New] Action Sequels The Best Games Like Grand Theft Auto for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nhancing-video-content-iphoneipad-screen-capture-basics-for-2024/"><u>[New] Enhancing Video Content IPhone/iPad Screen Capture Basics for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-facebooks-10-best-music-clips-making-them-happen/"><u>[New] In 2024, Facebook's 10 Best Music Clips Making Them Happen</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-everyones-guide-to-youtube-success-10-straightforward-video-tips/"><u>[Updated] Everyone's Guide to YouTube Success 10 Straightforward Video Tips</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-global-linguists-guide-to-top-28-applications-for-seamless-translation/"><u>[Updated] The Global Linguist's Guide to Top 28 Applications for Seamless Translation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/error-eradicated-displays-now-save-friendly/"><u>Error Eradicated - Displays Now Save-Friendly</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/ghostly-3-encounter-spectre-4s-appearance/"><u>Ghostly 3 Encounter Spectre 4'S Appearance</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-12t-pro-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 12T Pro to PC? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-transform-m2ts-files-into-ts-format-while-preserving-video-quality/"><u>How to Transform M2TS Files Into TS Format While Preserving Video Quality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-transform-youtube-content-into-mp3-files-quickly/"><u>How To Transform YouTube Content Into MP3 Files Quickly</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-media-format-transformation-reliable-technique-for-turning-flv-into-premium-mp3-soundtracks/"><u>Mastering Media Format Transformation: Reliable Technique for Turning FLV Into Premium MP3 Soundtracks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolving-webm-imports-expert-guide-on-fixing-adobe-media-encoder-glitches/"><u>Resolving WebM Imports: Expert Guide on Fixing Adobe Media Encoder Glitches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-setting-up-the-crew-sports-extension-in-kodi-version-190-matrix/"><u>Step-by-Step Guide to Setting Up The Crew Sports Extension in Kodi Version 19.0 Matrix</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-a-matrix-compatible-daemon-addon-in-kodi/"><u>Step-by-Step Guide: Setting Up a Matrix-Compatible Daemon Addon in Kodi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/stream-recording-mastery-capturing-live-audio-with-audacity-on-pc/"><u>Stream Recording Mastery: Capturing Live Audio with Audacity on PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-editing-obs-videos-without-a-watermark-top-7-tools-compared/"><u>Ultimate Guide to Editing OBS Videos without a Watermark – Top 7 Tools Compared</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-how-to-on-changing-tta-audio-tracks-into-desired-formats-such-as-flac-wav-or-mp3-for-higher-quality-sound/"><u>Ultimate How-To on Changing TTA Audio Tracks Into Desired Formats Such as FLAC, WAV or MP3 for Higher Quality Sound</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/uniting-zoom-and-skype-techniques-to-maximize-video-call-quality/"><u>Uniting Zoom and Skype Techniques to Maximize Video Call Quality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-eye-catching-thumbnails-select-the-best-fonts/"><u>[New] 2024 Approved Eye-Catching Thumbnails Select the Best Fonts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-insiders-guide-to-frame-by-frame-video-examination-free/"><u>[Updated] 2024 Approved The Insider's Guide to Frame-by-Frame Video Examination (Free)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-transformation-tips-applying-japans-favorite-on-screen-effects/"><u>[Updated] Transformation Tips Applying Japan's Favorite On-Screen Effects</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-eco-friendly-film-tech/"><u>2024 Approved Top Eco-Friendly Film Tech</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-honor-x8b-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Honor X8b without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/beantech-bitwatch-s1-plus-smartwatch-evaluation-an-intriguing-affordable-tracker/"><u>Beantech Bitwatch S1 Plus Smartwatch Evaluation: An Intriguing Affordable Tracker</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/effizientes-hochladen-von-ipad-fotos-auf-eine-microsd-mit-oder-ohne-pc/"><u>Effizientes Hochladen Von iPad Fotos Auf Eine MicroSD Mit Oder Ohne PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-ultimate-alternatives-to-chatgpt/"><u>Explore the Ultimate Alternatives to ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-these-exceptional-chatbots-as-great-alternatives-to-chatgpt/"><u>Explore These Exceptional Chatbots as Great Alternatives to ChatGPT!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/false-sentinels-the-ai-content-detection-crisis/"><u>False Sentinels: The AI Content Detection Crisis</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-frustrating-103003-glitch-in-battlegrounds-of-arma-a-complete-walkthrough/"><u>Fixing the Frustrating 103003 Glitch in Battlegrounds of Arma - A Complete Walkthrough</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-theory-to-practice-seven-ways-chatgpt-impacts-our-daily-lives/"><u>From Theory to Practice: Seven Ways ChatGPT Impacts Our Daily Lives</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-high-refresh-rate-gaming-screens/"><u>Ideal High-Refresh Rate Gaming Screens</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-a-new-era-of-artificial-intelligence-with-openais-trailblazing-gpt-4/"><u>Introducing a New Era of Artificial Intelligence with OpenAI's Trailblazing GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-googles-new-gemini-ai-surpassing-chatgpt-in-conversational-capabilities/"><u>Is Google's New Gemini AI Surpassing ChatGPT in Conversational Capabilities?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-with-the-scarlett-solo-windows-setup-direct-download-link-for-musicians/"><u>Save with the Scarlett Solo Windows Setup - Direct Download Link for Musicians</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-diy-with-innovative-tech-anticipate-gpt-4s-revolutionary-impact/"><u>Transforming DIY with Innovative Tech: Anticipate GPT-4's Revolutionary Impact</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-8-gpt-strategies-for-increasing-productivity-and-limiting-digital-noise/"><u>Ultimate 8 GPT Strategies for Increasing Productivity & Limiting Digital Noise</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-the-limitations-why-chatgpt-struggles-with-self-detection-of-text/"><u>Unraveling the Limitations: Why ChatGPT Struggles with Self-Detection of Text</u></a></li>
 </ul></div>
 

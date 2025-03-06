@@ -1,7 +1,7 @@
 ---
 title: How Have ChatGPT Jailbreaks Faded? Investigating the Top Eight Factors
-date: 2025-02-11T01:25:45.984Z
-updated: 2025-02-18T02:24:00.443Z
+date: 2025-03-01T18:47:58.960Z
+updated: 2025-03-06T20:03:00.737Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -63,18 +59,22 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-tiny-tycoons-car-contests-for-2024/"><u>[New] Tiny Tycoons' Car Contests for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/background-noise-begone-mastering-audio-editing-in-final-cut-pro-x-for-2024/"><u>Background Noise Begone! Mastering Audio Editing in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-101-the-complete-guide-to-living-better/"><u>ChatGPT 101: The Complete Guide to Living Better</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-motorola-moto-g73-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Motorola Moto G73 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-12-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 12 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/microsoft-teams-not-responding-determining-whether-service-interruptions-exist-or-network-problems-persist/"><u>Microsoft Teams Not Responding: Determining Whether Service Interruptions Exist or Network Problems Persist</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-future-of-employment-with-ais-rise-is-your-job-at-risk/"><u>Navigating the Future of Employment with AI's Rise – Is Your Job at Risk?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protecting-your-privacy-can-personalized-ai-models-like-chatgpt-pose-risks/"><u>Protecting Your Privacy: Can Personalized AI Models Like ChatGPT Pose Risks?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/redefining-patient-engagement-through-chatgpt-innovation/"><u>Redefining Patient Engagement Through ChatGPT Innovation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-complete-process-of-transferring-gpt-data/"><u>The Complete Process of Transferring GPT Data</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-chatgpt-questions-for-enhanced-concentration-and-minimal-distraction/"><u>Top 8 ChatGPT Questions for Enhanced Concentration & Minimal Distraction</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-artificial-intelligence-distinguishing-between-strong-and-weak-ai/"><u>Understanding Artificial Intelligence: Distinguishing Between Strong and Weak AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-efficiency-the-6-point-edge-of-the-chatgpt-app-over-the-web-interface/"><u>Unlocking Efficiency: The 6-Point Edge of the ChatGPT App Over the Web Interface</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-choose-between-filmora-and-democreator/"><u>[Updated] How to Choose Between Filmora and Democreator</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-maximize-engagement-on-instagram-using-these-top-25-tags/"><u>[Updated] Maximize Engagement on Instagram Using These Top 25 Tags</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unbeatable-mobilized-game-slowdowns-for-2024/"><u>[Updated] Unbeatable Mobilized Game Slowdowns for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm5bplusr6ygp44gr44k544oi44oq44o844og5lplusd5a2y44ks6kgm44gg44gf44kb44gu5a6j5ywo44gq6yyy55s75oqa6kgt44cn/"><u>「快適にストリーム保存を行うための安全な録画技術」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/codec-de-audio-libre-y-en-linea-convertir-mp3-a-webm-con-movavi/"><u>Códec De Audio Libre Y en Línea: Convertir MP3 a WebM Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-7-finest-no-cost-web-video-recording-apps-movavi-reviewed/"><u>Explore the 7 Finest No-Cost Web Video Recording Apps - Movavi Reviewed</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/high-definition-beach-scenes-stunning-wallpaper-and-picture-collections-by-yl-computing/"><u>High-Definition Beach Scenes - Stunning Wallpaper & Picture Collections by YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-swf-mp4/"><u>Movavi의 안전하고 쉬운 SWF-MP4 변환: 비용 없이 인터넷 사용자에게 접근하기</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-the-upsides-and-downsides-of-ai-powered-creativity-with-chatgpt/"><u>Navigating Through the Upsides and Downsides of AI-Powered Creativity with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/registrazione-video-libera-da-vob-a-wav-la-soluzione-migliore-online-di-moveave/"><u>Registrazione Video Libera Da VOB a WAV: La Soluzione Migliore Online Di Moveave</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/review-of-the-amazon-basics-tablet-holder-compact-and-convenient-carrying-solution/"><u>Review of the Amazon Basics Tablet Holder - Compact & Convenient Carrying Solution!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-solutions-overcoming-challenges-with-i2c-hid-driver-compatibility/"><u>Seamless Solutions: Overcoming Challenges with I2C HID Driver Compatibility</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-10-no-cost-image-servers-always-preserve-your-pics/"><u>Top 10 No-Cost Image Servers, Always Preserve Your Pics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-free-photo-editing-apps-for-macos-comprehensive-list-by-movavi/"><u>Top Free Photo Editing Apps For macOS : Comprehensive List by Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tranquilamente-transforma-un-archivo-m4v-a-formato-flv-online-sin-coste-servicio-de-movavi/"><u>Tranquilamente, Transforma Un Archivo M4V a Formato FLV Online Sin Coste - Servicio De Movavi</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-iphone-12-pro-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your iPhone 12 Pro has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wi-fi-vob-wma-movavi/"><u>무료 Wi-Fi 지원: VOB 영상 큐비 문자 화면 WMA 형식으로 - Movavi 도구</u></a></li>
 </ul></div>
 

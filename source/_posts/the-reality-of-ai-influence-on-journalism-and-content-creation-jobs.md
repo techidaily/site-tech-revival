@@ -1,7 +1,7 @@
 ---
 title: The Reality of AI Influence on Journalism & Content Creation Jobs
-date: 2025-02-15T19:53:49.112Z
-updated: 2025-02-17T23:52:40.447Z
+date: 2025-03-04T16:45:58.745Z
+updated: 2025-03-06T17:16:38.417Z
 tags:
   - chatgpt
   - open-ai
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1.[Decktopus AI](https://www.decktopus.com/)
 
@@ -72,17 +68,9 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
  As you might imagine, GPT\_PPT generates PowerPoint files. The results aren’t always the cleanest, and there’s no way to edit them from within the web page. Fortunately, you can always open them in PowerPoint to edit them yourself and tidy them up. If you already know some of[these advanced Microsoft PowerPoint features that everyone must know](https://www.makeuseof.com/advanced-microsoft-powerpoint-features/) , then making a stunning presentation out of them shouldn’t be hard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5.[Presentations.AI](https://www.presentations.ai/)
 
 ![A Screenshot of Presentations AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/presentations-ai-presentation-generator-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Presentations.AI is an online presentation generation service that uses AI to create presentations for business. To get started, all you have to do is select an AI template, and Presentations.AI will handle the rest.
 
@@ -90,17 +78,9 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
  If there’s anything you don’t like about the slides, there are options to change the type or style of the slides, and you can add points and edit what Presentations.AI has created as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6.[ChatBA](https://www.chatba.com)
 
 ![A Screenshot of ChatBA s AI Presentation Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatba-ai-presentation-generator-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ChatBA is an online AI presentation generation tool that allows you to quickly and easily create a complete presentation on just about any topic. With ChatBA, all you have to do is input the topic that you want a presentation on and leave the rest to the AI.
 
@@ -137,18 +117,24 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-selection-high-quality-zero-price-free-luts/"><u>[Updated] The Ultimate Selection High Quality, Zero Price Free LUTs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-tactics-in-producing-convincing-customer-testimonial-videos/"><u>2024 Approved Top Tactics in Producing Convincing Customer Testimonial Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/advanced-zoom-strategies-for-clarity-in-web-meetings/"><u>Advanced Zoom Strategies for Clarity in Web Meetings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/automate-your-living-space-can-chatgpt-be-the-answer/"><u>Automate Your Living Space – Can ChatGPT Be The Answer?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-g24-power-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola G24 Power</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/critical-factors-to-consider-top-three-privacy-dangers-linked-to-chatbot-technology/"><u>Critical Factors to Consider: Top Three Privacy Dangers Linked to Chatbot Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-the-capabilities-of-the-usechatgpt-copilot-browser-add-on/"><u>Discovering the Capabilities of the UseChatGPT Copilot Browser Add-On</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-perfect-your-pitch-with-android-the-ultimate-list-of-voice-alteration-apps/"><u>In 2024, Perfect Your Pitch with Android The Ultimate List of Voice Alteration Apps</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-expedition-free-pics-across-the-internet/"><u>In 2024, Ultimate Expedition Free Pics Across the Internet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mp4wmv-in-windows-10/"><u>MP4ファイルをWMVに高画質で変換する方法 in Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-dark-side-of-ai-assistance-potential-uses-of-chatgpt-in-malware-generation/"><u>The Dark Side of AI Assistance: Potential Uses of ChatGPT in Malware Generation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-langchain-llm-secrets-the-beginners-ultimate-guidebook/"><u>Unlocking LangChain LLM Secrets: The Beginner's Ultimate Guidebook</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/upgrade-to-copilot-pro-is-it-better-than-basic-copilot/"><u>Upgrade to Copilot Pro: Is It Better Than Basic Copilot?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-cutting-edge-tutorial-inshot-on-desktop-video-creation/"><u>[New] 2024 Approved Cutting-Edge Tutorial Inshot on Desktop Video Creation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-youtube-video-edits-with-finalcut-pro/"><u>[New] 2024 Approved Mastering YouTube Video Edits with FinalCut Pro</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-beginners-tutorial-windows-movie-maker-6-installation/"><u>[New] In 2024, Beginner's Tutorial Windows Movie Maker 6 Installation</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-transfert-et-clonage-de-donnees-ssd-sabrent-avec-securite-renforcee-guide-complet/"><u>1. Transfert Et Clonage De Données SSD Sabrent Avec Sécurité Renforcée - Guide Complet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-iphone-photos-arrangement-strategies-and-icloud-coordination/"><u>2024 Approved The Art of iPhone Photos Arrangement Strategies and iCloud Coordination</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-se-2022-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone SE (2022) to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-your-gifs-for-free-at-movavicom-get-jpg-results-instantly/"><u>Convert Your GIFs for Free at Movavi.com - Get JPG Results Instantly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cost-free-avi-to-mp3-upgrade-effortless-online-file-conversion-by-movievault/"><u>Cost-Free AVI to MP3 Upgrade: Effortless Online File Conversion by MovieVault</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/de-beste-weg-om-avi-bestanden-te-converteeren-met-movavi-de-inleiding-in-een-vloeibaar-procesvertoningstool/"><u>De Beste Weg Om AVI-Bestanden Te Converteeren Met Movavi - De Inleiding in Een Vloeibaar Procesvertoningstool</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-the-windows-iscsi-initiator-process/"><u>Demystifying the Windows iSCSI Initiator Process</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descargar-conversiones-de-archivo-amv-libre-de-codigo-guia-del-asistente-de-movavi/"><u>Descargar Conversiones De Archivo AMV Libre De Código: Guía Del Asistente De Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/filmudtrykk-konvert-i-mp4-format-gratis-online-beromte-movavi-konverter-til-windows-og-mac/"><u>Filmudtrykk Konvert I MP4 Format Gratis Online: Berømte Movavi-Konverter Til Windows Og Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-mp3-converter-mp4-to-mp3-format-by-movavi/"><u>Free Online MP3 Converter - MP4 to MP3 Format by Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuite-convertisseur-en-ligne-gratuit-pour-transformer-wmv-en-fichier-flash-swf-avec-moviemaker/"><u>Gratuité: Convertisseur en Ligne Gratuit Pour Transformer WMV en Fichier Flash (SWF) Avec MovieMaker</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-itel-a70-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Itel A70 Phones with/without a PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-y78t-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo Y78t</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-m1v-mpg/"><u>Online M1V MPG 간단한 바인드링을 위해 공제 - 무료 스캐폴딩</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tapping-into-the-telegraphic-trend-maximizing-your-telegram-presence/"><u>Tapping Into the Telegraphic Trend Maximizing Your Telegram Presence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforma-archivos-m4a-en-formatos-swf-sin-costo-alguno-con-convertmp3toswfcom/"><u>Transforma Archivos M4A en Formatos SWF Sin Costo Alguno Con ConvertMp3ToSwf.com</u></a></li>
 </ul></div>
 

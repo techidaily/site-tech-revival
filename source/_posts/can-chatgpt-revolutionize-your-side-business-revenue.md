@@ -1,7 +1,7 @@
 ---
 title: Can ChatGPT Revolutionize Your Side Business Revenue?
-date: 2024-12-25T06:35:41.907Z
-updated: 2024-12-28T16:59:20.737Z
+date: 2025-02-28T17:39:53.288Z
+updated: 2025-03-06T17:48:21.808Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 
 ![WebChatGPT takes your ChatGPT prompt and performs a search query with it first, and then instructs ChatGPT to use those search results while answering your query so that its data is more updated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-chatgpt-browser-extensions-chrome-webchatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As impressive as ChatGPT's answers are, it's still limited. If you know[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) , you'll know that it isn't scraping the internet for the latest information about any topic or news. The AI works on older data and doesn't search the internet. WebChatGPT is an innovative workaround for this problem that adds web search results to ChatGPT.
 
  Here's how it works. Once you install the extension and open ChatGPT, you'll see a bar under the usual dialog box for queries and prompts. Toggle the**Search the Web** button to activate WebChatGPT and select parameters. You can ask it to search for up to 10 results, set how far back it'll search for links (day, week, month, year), and set a region.
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
  You can customize the default revised prompt that WebChatGPT uses, but as a new user, we wouldn't suggest that. Once you're more accustomed to using this extension, feel free to look into options that improve your queries
 
 **Download:** WebChatGPT for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) (Free)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. ChatGPT Prompt Genius
 
@@ -78,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. YouTube Summary With ChatGPT
 
  YouTube creators have the option to add a transcript of their full video or not. As a user, you have no control over this. Many times, all you want is a transcript to quickly browse through what the video is going to say so that you can know if it's worth your time.
@@ -91,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
  Click any timestamp to be taken to that moment in the video. If you're already midway through the video, you can jump to the current time in the transcript. And you can copy-paste the transcript anywhere.
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
@@ -123,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
@@ -157,19 +137,14 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-fine-tuning-team-call-aesthetics-pre-and-post-customization-for-2024/"><u>[New] Fine-Tuning Team Call Aesthetics Pre & Post Customization for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-teamwork-in-video-production-boosting-channel-size/"><u>[Updated] 2024 Approved Teamwork in Video Production, Boosting Channel Size</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-a-comparative-journey-through-the-top-10-tv-streamers-for-2024/"><u>[Updated] A Comparative Journey Through the Top 10 TV Streamers for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-fb-link-mastery-8-powerful-free-extractor-tools/"><u>2024 Approved FB Link Mastery 8 Powerful FREE Extractor Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>2024 Approved Twitch Vs. YouTube An In-Depth Comparative Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-the-best-ai-conversationalist-an-in-depth-look-at-chatgpt-plus-and-perplexity/"><u>Choosing the Best AI Conversationalist: An In-Depth Look at ChatGPT Plus and Perplexity</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/complete-guide-to-safeguarding-your-data-effective-partition-and-volume-backup-techniques/"><u>Complete Guide to Safeguarding Your Data - Effective Partition and Volume Backup Techniques</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/elevate-your-videos-with-top-ranking-free-ai-editors/"><u>Elevate Your Videos with Top-Ranking Free AI Editors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-insights-why-chatgpt-cant-replace-professional-medical-consultation-reasoned-list/"><u>Expert Insights: Why ChatGPT Can't Replace Professional Medical Consultation (Reasoned List)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-ideas-to-worlds-how-writers-can-utilize-chatgpt-for-imaginative-worldbuilding/"><u>From Ideas to Worlds: How Writers Can Utilize ChatGPT for Imaginative Worldbuilding</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-chatbot-wisdom-for-productive-scheduling/"><u>Harnessing Chatbot Wisdom for Productive Scheduling</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/side-tech-businesses-and-vintage-console-trends/"><u>Side Tech Businesses & Vintage Console Trends</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-access-gpt-4s-complimentary-release-and-why-chatgpt-plus-retains-its-edge/"><u>Unlocking Access: GPT-4's Complimentary Release & Why ChatGPT Plus Retains Its Edge</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y200e-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y200e 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-masterful-monitoring-with-the-latest-asus-proart-4k-display/"><u>[Updated] 2024 Approved Masterful Monitoring with the Latest ASUS ProArt 4K Display</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-see-what-you-just-watched-on-facebook/"><u>[Updated] How to See What You Just Watched on Facebook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-independent-chatgpt-extensions-reliable-and-safe-to-use/"><u>Are Independent ChatGPT Extensions Reliable and Safe to Use?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/augmenting-data-analysis-in-excel-through-chatgpt-methods/"><u>Augmenting Data Analysis in Excel Through ChatGPT Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypassing-linguistic-hurdles-through-chatgpt/"><u>Bypassing Linguistic Hurdles Through ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-to-the-rescue-expert-strategies-for-fixing-your-malfunctioning-pc/"><u>ChatGPT to the Rescue: Expert Strategies for Fixing Your Malfunctioning PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/compreendendo-o-formato-eps-tudo-sobre-a-extensao-eps-de-imagem-e-suas-solucoes-de-abertura/"><u>Compreendendo O Formato EPS: Tudo Sobre a Extensão EPS De Imagem E Suas Soluções De Abertura</u></a></li>
+<li><a href="https://win-blog.techidaily.com/crash-no-more-permanent-solutions-for-stabilizing-dauntless-on-windowsmac/"><u>Crash No More! Permanent Solutions for Stabilizing Dauntless on Windows/Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-audible-alteration-a-journey-through-cost-free-audio-effects-software/"><u>In 2024, The Art of Audible Alteration A Journey Through Cost-Free Audio Effects Software</u></a></li>
 </ul></div>
 

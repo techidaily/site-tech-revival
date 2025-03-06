@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Strategy: Implementing Self-Created GPT Calls in Any Conversational AI Setting"
-date: 2025-02-11T01:33:44.383Z
-updated: 2025-02-17T16:45:12.840Z
+date: 2025-03-01T17:26:00.909Z
+updated: 2025-03-06T16:34:55.037Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
  Outwardly, both tools look similar. They both offer a simple interface with a text box to allow you to "chat" with them. However, dig a little deeper, and significant differences become apparent. To test the tools for yourself, you will need a Google and Microsoft account, although you might have to join a[waitlist for Google Bard](https://www.makeuseof.com/how-to-join-google-bard-ai-waitlist/) .
 
  To compare Google Bard and Bing AI Chat, we derived a simple test. We used them to conduct research for an imaginary article on atmospheric CO2 levels and climate change. This enabled us to draw comparisons on several metrics, including the quality and size of the response, the accuracy of the data, and ease of use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Response Quality
 
@@ -62,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![Screenshot Bard  CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
 ## Bing Chat vs. Google Bard: Ease of Use
@@ -86,10 +78,6 @@ We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As both platforms are going through rapid development, the user experience will continue to improve.
 
 ## What Are the Differences Between the Language Models?
@@ -106,10 +94,6 @@ We did manage to get a response from Bard by rewording the prompt.
 
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is a case of choosing the right tool for the right job. When we compare the performance of both platforms, Bing Chat seems to edge it. However, there are some provisos to consider. The first is that the Microsoft offering is a more complete product, while Bard is still rough around the edges.
 
  But don't rule Bard out. We liked the more fact-driven approach that Google Bard took; the inclusion of ppm levels of CO2 was closer to the spirit of the original question than the Bing response. This is what we would expect to see, given its underlying architecture.
@@ -121,10 +105,6 @@ We did manage to get a response from Bard by rewording the prompt.
  Both tools are incredibly powerful and can generate intelligent answers to any prompt. But both have pros and cons, and the ultimate choice is likely to be decided by factors like user preferences and the desired output type.
 
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Era of the Chatbot Is Upon Us
 
@@ -147,24 +127,22 @@ We did manage to get a response from Bard by rewording the prompt.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-excellence-in-offline-speech-recognition-software/"><u>[New] 2024 Approved Excellence in Offline Speech Recognition Software</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-discovering-the-true-potential-of-dji-inspire-2/"><u>[Updated] Discovering the True Potential of DJI Inspire 2</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-enhancing-your-content-10-exceptional-reacting-techniques/"><u>[Updated] In 2024, Enhancing Your Content 10 Exceptional Reacting Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-4s-performance-why-is-it-not-as-fast-as-its-predecessor/"><u>ChatGPT-4's Performance: Why Is It Not As Fast As Its Predecessor?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/concealment-strategies-for-your-chatgpt-conversations-without-erasure/"><u>Concealment Strategies for Your ChatGPT Conversations Without Erasure</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/content-writing-and-ai-the-top-6-limitations-of-using-chatbots-as-a-replacement/"><u>Content Writing and AI: The Top 6 Limitations of Using Chatbots as a Replacement</u></a></li>
-<li><a href="https://article-files.techidaily.com/crossing-the-line-at-winter-olympics-2022/"><u>Crossing the Line at Winter Olympics, 2022</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-chatgpt-safety-issues-and-6-key-cybersecurity-risks-to-be-aware-of/"><u>Exploring ChatGPT Safety Issues and 6 Key Cybersecurity Risks to Be Aware Of</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-effortless-fusion-of-youtube-videos-with-flv-format/"><u>In 2024, Effortless Fusion of YouTube Videos with FlV Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-techniques-to-apply-chatgpt-for-improved-writing-skills/"><u>Innovative Techniques to Apply ChatGPT for Improved Writing Skills</u></a></li>
-<li><a href="https://facebook.techidaily.com/instagram-interruption-the-science-behind-a-break-from-online-life/"><u>Instagram Interruption: The Science Behind a Break From Online Life</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leading-open-source-image-synthesis-programs/"><u>Leading Open-Source Image Synthesis Programs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/professional-email-efficiency-how-chatgpt-can-assist-in-handling-challenging-correspondences/"><u>Professional Email Efficiency: How ChatGPT Can Assist in Handling Challenging Correspondences</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaim-your-network-nirvana-a-guide-to-the-top-6-ways-to-mend-network-hardware-in-windows/"><u>Reclaim Your Network Nirvana: A Guide to the Top 6 Ways to Mend Network Hardware in Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/reviving-retro-handheld-games-a-guide-to-old-school-gaming-joy/"><u>Reviving Retro Handheld Games: A Guide to Old School Gaming Joy</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-key-to-captivating-audiences-crafting-fb-slideshows-for-2024/"><u>The Key to Captivating Audiences Crafting FB Slideshows for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/turning-chatbots-into-a-stream-of-earnings/"><u>Turning Chatbots Into a Stream of Earnings</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-ultimate-list-of-adobe-premiere-elements-substitutes/"><u>Updated In 2024, The Ultimate List of Adobe Premiere Elements Substitutes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-discover-a-broad-array-top-15-cams-not-like-gopro/"><u>[New] In 2024, Discover a Broad Array Top 15 Cams Not Like GoPro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-jestjunction-tap-into-the-world-of-meme-magic/"><u>[Updated] JestJunction Tap Into the World of Meme Magic</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-social-network-power-play-understanding-igtv-vs-youtubes-dynamics/"><u>[Updated] Social Network Power Play Understanding IGTV Vs. YouTube's Dynamics</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-ultimate-guide-to-selecting-facebook-live-capturers/"><u>[Updated] The Ultimate Guide to Selecting Facebook Live Capturers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-3dr-solo-unveiling-the-single-user-experience/"><u>2024 Approved '3DR Solo' Unveiling the Single User Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-affiliate-programs-of-2024-unveiled-a-detailed-comparison-with-the-renowned-movavi-platform/"><u>Best Affiliate Programs of 2024 Unveiled - A Detailed Comparison with the Renowned Movavi Platform</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-15-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 15</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/como-cambiar-cualquier-archivo-de-video-a-mp4-sin-costo-usando-el-convertidor-de-movavi-en-linea-gratuitamente/"><u>Cómo Cambiar Cualquier Archivo De Video a MP4 Sin Costo Usando El Convertidor De Movavi en Línea Gratuitamente</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/customer-care-at-movavi-help-desk-seamless-tech-support/"><u>Customer Care at Movavi Help Desk - Seamless Tech Support</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descargar-e-instalar-winff-mejor-herramienta-gratuita-para-convertir-video-wmv-a-audio-flac/"><u>Descargar E Instalar WinFF: Mejor Herramienta Gratuita Para Convertir Vídeo WMV a Audio FLAC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-audio-converter-by-movavi-convert-vocals-and-effects-into-mp3/"><u>Free Online Audio Converter by Movavi - Convert Vocals and Effects Into MP3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-tool-convert-mp3-files-into-mp4-format-with-ease-using-movavis-converter/"><u>Free Online Tool: Convert MP3 Files Into MP4 Format with Ease - Using Movavi's Converter</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-next-gen-patient-rehabilitation-tools/"><u>In 2024, Next-Gen Patient Rehabilitation Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/make-the-leap-from-windows-8-to-an-advanced-os-win-11/"><u>Make the Leap: From Windows 8 to an Advanced OS - Win 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726220024699-movavi/"><u>Movavi 合作伙伴之选 | 专业化个性化多层次网络链接构建解析</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-audio-converter-for-free-convert-ogg-aiff-and-more-into-high-quality-flac-files-on-the-web/"><u>Movavi Audio Converter for Free: Convert OGG, AIFF & More Into High-Quality FLAC Files on the Web</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/understanding-srt-files-a-comprehensive-guide-on-handling-subtitle-formats/"><u>Understanding SRT Files - A Comprehensive Guide on Handling Subtitle Formats</u></a></li>
 </ul></div>
 

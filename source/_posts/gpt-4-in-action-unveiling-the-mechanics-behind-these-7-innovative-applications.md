@@ -1,7 +1,7 @@
 ---
 title: "GPT-4 in Action: Unveiling the Mechanics Behind These 7 Innovative Applications"
-date: 2025-02-11T22:04:36.398Z
-updated: 2025-02-18T01:00:14.286Z
+date: 2025-03-01T17:14:07.850Z
+updated: 2025-03-06T18:35:13.196Z
 tags:
   - chatgpt
   - open-ai
@@ -26,15 +26,7 @@ thumbnail: https://thmb.techidaily.com/fef6203ef0318484835e6be326e62ec1be7635f93
 
 ![Bing AI chatbot mobile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/bing-ai-chatbot-mobile-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Bing AI chatbot response mobile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/bing-ai-chatbot-response-mobile-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Bing AI image generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/bing-ai-image-generation-1.jpg)
 
@@ -52,15 +44,7 @@ Close
 
 ![Nova AI Scientist persona prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-scientist-persona-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Nova AI chatbot personas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-chatbot-personas.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Nova AI chatbot suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-chatbot-suggestions.jpg)
 
@@ -82,10 +66,6 @@ Close
 
 ![Ask AI Ask YouTube chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ask-ai-ask-youtube-chatbot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  Chat & Ask AI is a[brilliant AI app to download on your phone](https://www.makeuseof.com/best-ai-apps/) , offering smart solutions to boost your productivity. The app's homepage offers a chat history, chatbot suggestions, and additional built-in functions in the Elite Tools section.
@@ -99,10 +79,6 @@ Close
 ## 4\. ChatSonic
 
 ![ChatSonic chatbot health query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatsonic-chatbot-health-query.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![ChatSonic chatbot personalities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatsonic-chatbot-personalities.jpg)
 
@@ -121,10 +97,6 @@ Close
 ## 5\. ChatOn
 
 ![ChatOn AI chatbot homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-ai-chatbot-homepage.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![ChatOn AI chatbot riddle query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-ai-chatbot-riddle-query.jpg)
 
@@ -158,19 +130,11 @@ Close
 
 **Download:** Poe for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=com.poe.android) |[iOS](https://apps.apple.com/us/app/poe-fast-ai-chat/id1640745955) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Genie
 
 ![Genie AI app solving a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/genie-ai-app-solving-a-math-problem.jpg)
 
 ![Genie AI app Code and Food categories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/genie-ai-app-code-and-food-categories.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Genie AI app homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/genie-ai-app-homepage.jpg)
 
@@ -183,10 +147,6 @@ Close
  Genie uses two models: GPT 3.5 (available in the free plan) and GPT-4 (available in the Pro membership.) You can explore some of the[benefits of GPT-4 in our guide](https://www.makeuseof.com/best-new-gpt4-features-explained/) .
 
 **Download:** Genie for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=co.appnation.geniechat) |[iOS](https://apps.apple.com/us/app/genie-ai-chatbot/id1658377526) (Free, subscription available)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Outsmart ChatGPT With These Apps
 
@@ -207,24 +167,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-rank-the-top-free-tools-convert-srt-files-efficiently-for-2024/"><u>[New] Rank the Top Free Tools Convert Srt Files Efficiently for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-underwater-photographys-leading-seven-cams-for-2024/"><u>[New] Underwater Photography's Leading Seven Cams for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-dji-phantom-3-professional-drones-secrets/"><u>[New] Unveiling the DJI Phantom 3 Professional Drone's Secrets</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-learn-to-flip-videos-a-guide-for-instagram-users/"><u>[Updated] Learn to Flip Videos A Guide for Instagram Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-v29-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo V29 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-honor-x9a-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Honor X9a Phone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advance-your-digital-dialogue-5-essential-strategies-for-optimal-chatgpt-engagement/"><u>Advance Your Digital Dialogue: 5 Essential Strategies for Optimal ChatGPT Engagement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-deception-recognize-the-scams/"><u>ChatGPT Deception: Recognize the Scams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-windows-app-scam-busted-heres-the-evidence/"><u>ChatGPT Windows App Scam Busted – Here's the Evidence</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-15-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 15 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/confronting-the-fake-frontier-identifying-ai-compositions/"><u>Confronting the Fake Frontier: Identifying AI Compositions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dall-e-3-enhances-user-experience-with-integrated-edit-tools-yet-refinements-are-needed/"><u>DALL-E 3 Enhances User Experience with Integrated Edit Tools, Yet Refinements Are Needed</u></a></li>
-<li><a href="https://win-forum.techidaily.com/economical-officesolutions-analysis-equally-capable-as-microsoft-office-at-a-lower-cost/"><u>Economical OfficeSolutions Analysis: Equally Capable as Microsoft Office at a Lower Cost</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/experiencing-mistral-ais-le-chat-a-comparison-with-the-renowned-chatgpt/"><u>Experiencing Mistral AI's Le Chat: A Comparison with the Renowned ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/hidden-dangers-in-conversing-with-chatgpt/"><u>Hidden Dangers in Conversing With ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-office-policies-potential-consequences-of-using-chatgpt-in-the-workplace/"><u>Navigating Office Policies: Potential Consequences of Using ChatGPT in the Workplace</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secure-your-ai-chatting-experience-engage-in-confidential-talks-with-duckduckgos-alternative-to-chatgpt/"><u>Secure Your AI Chatting Experience: Engage in Confidential Talks with DuckDuckGo's Alternative to ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-paperclip-maximization-dilemma-in-artificial-intelligence/"><u>Understanding the Paperclip Maximization Dilemma in Artificial Intelligence</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-and-linux-how-wsl-changes-the-game/"><u>Windows and Linux: How WSL Changes the Game?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-keeping-memories-afloat-the-top-selection-of-cloud-services-reviewed/"><u>[New] 2024 Approved Keeping Memories Afloat The Top Selection of Cloud Services Reviewed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-straightforward-approach-to-editing-age-on-tiktok/"><u>[New] 2024 Approved The Straightforward Approach to Editing Age on TikTok</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-navigating-youtube-submission-with-imovie-files/"><u>[Updated] In 2024, Navigating YouTube Submission with iMovie Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-swiftly-rotate-videos-in-vlc-for-smooth-viewing/"><u>[Updated] Swiftly Rotate Videos in VLC for Smooth Viewing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-question-of-streaming-fb-moviesvideos-via-tv/"><u>[Updated] The Question of Streaming FB Movies/Videos via TV</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-gratis-online-converter-de-audio-flac-com-o-software-movavi/"><u>1. 'Gratis Online - Converter De Áudio FLAC Com O Software Móvavi'</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1728503759737-windows-11/"><u>聰明解決方式：如何在 Windows 11 中快速回收丟失的更新檔</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726222364292-mp4mxf-movavi/"><u>簡便在線改變MP4到MXF的方法 - 利用Movavi轉換器自由下載</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/create-premium-m4v-videos-from-gifs-at-no-cost-with-movavis-easy-online-tool/"><u>Create Premium M4V Videos From GIFs at No Cost with Movavi's Easy Online Tool</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-tech-jargon-unpacking-the-distinctions-between-nlp-and-ml/"><u>Decoding Tech Jargon: Unpacking the Distinctions Between NLP and ML</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hing-slides-video-incorporation-from-youtube/"><u>Enriching Slides Video Incorporation From YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/filmora-edits-explained-addressing-common-concerns-and-questions/"><u>Filmora Edits Explained Addressing Common Concerns and Questions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-conversion-tool-change-m1v-videos-without-hitch/"><u>Free Online Conversion Tool: Change M1V Videos Without Hitch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuit-migrateereen-van-pcx-naar-jpeg-virtuaal-movavi/"><u>Gratuit Migrateereen Van PCX Naar JPEG Virtuaal - MOVAVI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-safelisting-process-for-domains-on-mac-os-x-mail-a-comprehensive-guide/"><u>Navigating the Safelisting Process for Domains on Mac OS X Mail: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tagliatura-rapida-e-semplice-dei-file-audio-con-movavi-guida/"><u>Tagliatura Rapida E Semplice Dei File Audio Con Movavi - Guida</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transcodez-facilement-un-fichier-mka-en-format-flac-gratuite-sur-internet-avec-movavi/"><u>Transcodez Facilement Un Fichier MKA en Format FLAC Gratuite Sur Internet - Avec Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformation-facile-et-gratuite-de-fichiers-rw2-en-format-jpg-en-ligne-avec-movavi-converter/"><u>Transformation Facile Et Gratuite De Fichiers RW2 en Format JPG en Ligne Avec Movavi Converter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/66qo67cu7j287jqpioybjo2esoulvcdsojzqsbdtlzjqulag7jye7zwcioulqoqzhouzhcdqsidsnbtrk5wglsdsoittmzjsnkjsnyqg7jye7zw0/"><u>모바일용 워터를 제거하기 위한 단계별 가이드 - 전환율을 위해</u></a></li>
 </ul></div>
 

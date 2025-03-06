@@ -1,7 +1,7 @@
 ---
 title: "Explore AI Advances: Interactive Apple & Microsoft's ChatGPT"
-date: 2024-08-29T01:49:49.800Z
-updated: 2024-08-30T01:49:49.800Z
+date: 2025-02-27T16:40:37.205Z
+updated: 2025-03-06T18:50:37.656Z
 tags:
   - chatgpt
   - open-ai
@@ -55,16 +55,10 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  In order to test which LLM has the best general knowledge, we asked three questions.
 
  The first question, "Which national flag has five sides?" was only correctly answered by Bard, which identified the national flag of Nepal as having five sides.
@@ -77,16 +71,10 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
  Cables attaching to the plug have a live wire (brown), an earth wire (yellow/green), and a neutral wire (blue). These must be attached to the correct terminals within the plug housing.
@@ -103,16 +91,10 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
@@ -137,14 +119,11 @@ You read it here first, folks.
 
  If you'd like to create great AI art without worrying that somebody's looking over your shoulder, it's easy to run an art AI model on your local machine, too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,4 +132,21 @@ You read it here first, folks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-foundations-of-video-editing-in-the-gaming-world/"><u>[Updated] 2024 Approved Foundations of Video Editing in the Gaming World</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-top-list-of-video-recording-apps-for-iphone/"><u>[Updated] 2024 Approved Top List of Video Recording Apps for iPhone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-cutting-edge-practices-for-subtle-audio-reduction-on-lumafusion/"><u>[Updated] Cutting-Edge Practices for Subtle Audio Reduction on Lumafusion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-turing-test-is-machine-intelligence-on-the-horizon/"><u>Decoding the Turing Test: Is Machine Intelligence on the Horizon?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-setup-of-hp-envy-5055-get-the-latest-drivers-here/"><u>Effortless Setup of HP Envy 5055 - Get the Latest Drivers Here</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/implementing-chatgpt-into-your-workflows-for-enhanced-productivity/"><u>Implementing ChatGPT Into Your Workflows for Enhanced Productivity</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-best-practices-to-ensure-educational-integrity-as-a-student/"><u>Mastering ChatGPT: Best Practices to Ensure Educational Integrity as a Student</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-picks-top-macpc-bd-players-and-codecs/"><u>Premium Picks Top Mac/PC BD Players and Codecs</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-overcoming-sign-in-errors-caused-by-user-profile-service-issues-in-windows-11/"><u>Step-by-Step Solution for Overcoming Sign-In Errors Caused by User Profile Service Issues in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-top-5-limitations-of-using-chatgpt-for-analyzing-cryptocurrency-markets/"><u>The Top 5 Limitations of Using ChatGPT for Analyzing Cryptocurrency Markets</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-open-source-os-friendly-videography-software-for-2024/"><u>Top 10 Open-Source OS-Friendly Videography Software for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-advanced-llms-the-leading-choices-in-natural-language-processing/"><u>Top 6 Advanced LLMs: The Leading Choices in Natural Language Processing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-process-of-removing-old-gpt-chats/"><u>Unveiling the Process of Removing Old GPT Chats</u></a></li>
+</ul></div>
 

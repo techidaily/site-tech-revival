@@ -1,7 +1,7 @@
 ---
 title: New AI Boss Challenges GPT Outlook
-date: 2025-02-11T18:11:09.005Z
-updated: 2025-02-17T16:28:12.229Z
+date: 2025-03-05T19:02:58.310Z
+updated: 2025-03-06T19:56:19.124Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 
  But Bard was never the AI titan people hoped for, and GPT-4 remains the dominant generative AI chat bot platform. Now, Google's Gemini is here—but is the long-awaited AI model better than ChatGPT?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Google's Gemini AI Model?
 
 [Gemini is Google's most capable generative AI model](https://www.makeuseof.com/what-is-googles-ai-project-gemini/) , able to understand and operate across different data formats, including text, audio, image, and video. It is Google's attempt to create a unified AI model drawing capabilities from its most capable AI technologies. Gemini will be available in three variants:
@@ -56,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
  With an unprecedented 90.0% score on the rigorous MMLU benchmark, Google says Gemini Ultra is the first model to surpass human-level performance on this multifaceted test spanning 57 subjects.
 
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
 
@@ -81,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
@@ -105,10 +93,6 @@ Here's the source screenshot.
 
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
@@ -118,10 +102,6 @@ Here's the source screenshot.
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Gemini Better than ChatGPT?
 
@@ -144,18 +124,19 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-a-thorough-insight-into-androids-lightroom-application/"><u>[New] A Thorough Insight Into Android's Lightroom Application</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-pinnacle-of-video-quality-3-key-transcoder-strategies/"><u>[Updated] 2024 Approved Pinnacle of Video Quality 3 Key Transcoder Strategies</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-frame-your-life-with-iphones-top-10-photo-rules-for-2024/"><u>[Updated] Frame Your Life with iPhone's Top 10 Photo Rules for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-invisible-realities-of-stories-a-closer-look-for-viewers/"><u>[Updated] In 2024, Invisible Realities of Stories A Closer Look for Viewers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-optimal-visual-snatchers-for-videos/"><u>[Updated] In 2024, Optimal Visual Snatchers for Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-immaculate-image-freezing-your-desktop-view/"><u>2024 Approved Immaculate Image Freezing Your Desktop View</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/an-in-depth-look-at-what-sets-claude-pro-apart-from-its-rival-chatgpt-plus-by-microsoft/"><u>An In-Depth Look at What Sets Claude Pro Apart From Its Rival, ChatGPT Plus by Microsoft</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/customizable-generative-ai-by-nvidia-explained/"><u>Customizable Generative AI by NVIDIA Explained</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/free-mindfulness-melodies/"><u>Free Mindfulness Melodies</u></a></li>
-<li><a href="https://article-files.techidaily.com/multitasking-mastery-activities-while-embracing-soundtracks-for-2024/"><u>Multitasking Mastery Activities While Embracing Soundtracks for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/policy-formulation-for-ai-4-regulatory-pathways-explored/"><u>Policy Formulation for AI: 4 Regulatory Pathways Explored</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-misconceived-notion-ai-as-a-full-time-writer-substitute/"><u>The Misconceived Notion: AI as a Full-Time Writer Substitute</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cinematography-secrets-unveiled-by-youtube-pros/"><u>[Updated] 2024 Approved Cinematography Secrets Unveiled by YouTube Pros</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726224726324-mpeg-avi-movavi/"><u>網路直接自由轉換 MPEG 成 AVI - 使用 Movavi 無限變革器</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-vision-of-tomorrow-introducing-an-innovative-home-based-robot-assistant/"><u>Apple’s Vision of Tomorrow: Introducing an Innovative Home-Based Robot Assistant!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/como-convertir-archivos-m4b-a-formato-flac-sin-coste-guia-de-transcodificacion-libre-con-movavi/"><u>Cómo Convertir Archivos M4B a Formato FLAC Sin Coste - Guía De Transcodificación Libre Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deplacer-efficacement-des-fichiers-volumineux-par-e-mail-les-meilleures-methodes/"><u>Déplacer Efficacement Des Fichiers Volumineux Par E-Mail : Les Meilleures Méthodes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-mp3-naar-3gp-converteren-professioneel-en-online/"><u>Gratis MP3 Naar 3GP Converteren - Professioneel en Online</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-samsung-galaxy-s24plus-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Samsung Galaxy S24+ to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo Find X7 Ultra?</u></a></li>
+<li><a href="https://tools.techidaily.com/lifewire/products/"><u>Lifewire's Products</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/make-your-mark-stand-out-with-youtube-studio-editing/"><u>Make Your Mark Stand Out with YouTube Studio Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-and-vrijgebeurd-efficient-webm-in-wmv-omzetten-met-gratis-oplage-over-de-kracht-van-movavi/"><u>Online & Vrijgebeurd: Efficiënt WEBM-In WMV Omzetten Met Gratis Oplage - Over De Kracht Van Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-gratuit-png-to-jpeg-conversion-premium-service-by-movavi/"><u>Online Gratuit PNG-to-JPEG Conversion - Premium Service by Movavi</u></a></li>
+<li><a href="https://article-posts.techidaily.com/sharpviewzoomx7-professional-photo-size-controls-for-2024/"><u>SharpViewZoomX7 Professional Photo Size Controls for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Xiaomi Redmi 12? | Dr.fone</u></a></li>
 </ul></div>
 

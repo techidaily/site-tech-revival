@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Large Language Models: Concepts & Operation"
-date: 2025-02-16T17:29:53.360Z
-updated: 2025-02-18T00:50:47.089Z
+date: 2025-03-01T19:40:07.832Z
+updated: 2025-03-06T18:04:21.574Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What You Need to Speak to ChatGPT
 
  ChatGPT's Whisper integration allows you to use your voice to speak with ChatGPT instead of typing. The beauty of this lies in the fact that you can speed up your prompts instead of typing long and descriptive sentences.
@@ -36,17 +32,9 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -67,17 +55,9 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
@@ -104,24 +84,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-dual-screen-playback-recording-for-2024/"><u>[Updated] Dual-Screen Playback Recording for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-garmins-virb-ultra-30-action-cam-in-depth-features-analysis/"><u>2024 Approved Garmin's VIRB Ultra 30 Action Cam – In-Depth Features Analysis</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-infinix-note-30-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Infinix Note 30 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-practices-for-effective-chatgpt-interactions-from-github/"><u>Best Practices for Effective ChatGPT Interactions From Github</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-leading-open-source-ai-programs-for-image-generation/"><u>Discover the Leading Open-Source AI Programs for Image Generation</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-dont-miss-out-on-viral-tiktok-challenges/"><u>In 2024, Don't Miss Out on Viral TikTok Challenges</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/introducing-bard-googles-strategic-move-over-chatgpt/"><u>Introducing 'Bard': Google's Strategic Move Over ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/re-establishing-missed-dialogues-with-ai/"><u>Re-Establishing Missed Dialogues with AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secrecy-at-stake-evaluating-chatgpts-ability-to-keep-your-information-private/"><u>Secrecy at Stake: Evaluating ChatGPT's Ability to Keep Your Information Private</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/sharpen-your-focus-tips-for-zooming-inout-on-instagram-stories/"><u>Sharpen Your Focus Tips for Zooming In/Out on Instagram Stories</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/soluciones-efectivas-para-evitar-que-la-copia-de-seguridad-de-windows-nque-se-quede-pendiente-al-97-o-57/"><u>Soluciones Efectivas Para Evitar Que La Copia De Seguridad De Windows N'Que Se Quede Pendiente Al 97% O 57%</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-and-running-chatgpt-on-your-windows-machine/"><u>Step-by-Step Guide: Setting Up & Running ChatGPT on Your Windows Machine</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/step-by-step-guide-transforming-your-wav-audio-into-mp3-format-with-windows-media-player/"><u>Step-by-Step Guide: Transforming Your WAV Audio Into MP3 Format with Windows Media Player</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-an-uncensored-chatbot-building-your-own-gpt-like-conversational-agent-on-windows-with-freedomgpt/"><u>Unleashing an Uncensored Chatbot: Building Your Own GPT-Like Conversational Agent on Windows with FreedomGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-creative-potential-with-ai-microsoft-and-blizzard-merger-discussed-on-our-tech-and-innovation-podcast/"><u>Unlocking Creative Potential with AI: Microsoft and Blizzard Merger Discussed on Our Tech & Innovation Podcast</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-true-cost-benefit-ratio-in-high-grade-ai-inputs/"><u>Unveiling the True Cost-Benefit Ratio in High-Grade AI Inputs</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/1728493159697-windows-10/"><u>Windows 10でセーフモードからシステムリカバリを使った修復プロセス</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-spark-20c-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Spark 20C? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-authenticating-a-step-by-step-for-youtube-users/"><u>[New] In 2024, Authenticating A Step-by-Step for Youtube Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unlocking-youtube-secrets-to-effective-screen-recording/"><u>[New] In 2024, Unlocking YouTube Secrets to Effective Screen Recording</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/ai-powered-recording-screenshots-webcams-and-audio-via-winxvideo/"><u>AI-Powered Recording: Screenshots, Webcams, and Audio via Winxvideo</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertissez-votre-fichier-amv-a-la-video-mp4-gratuitement-en-ligne-solution-de-movavi/"><u>Convertissez Votre Fichier AMV À La Vidéo MP4 Gratuitement en Ligne - Solution De Movavi</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-review-cumuluspros-top-tier-standing-desk-pad-a-foundation-for-better-posture/"><u>Expert Review: CumulusPRO's Top-Tier Standing Desk Pad - A Foundation for Better Posture</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-image-converter-transform-gifs-into-jpeg-format-via-web/"><u>Free Image Converter - Transform GIFs Into JPEG Format via Web</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-converter-convert-files-from-f4v-to-mp4-using-movavi-no-cost-solution/"><u>Free Online Converter: Convert Files From .f4v to .mp4 Using Movavi - No Cost Solution</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-playchoice-pondering-over-dacast/"><u>In 2024, PlayChoice Pondering Over DaCast</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/orfjpeg-movavi/"><u>ORF至JPEG無限制線上轉換 – 利用Movavi解答方案</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-your-approach-persuasive-proposal-via-ai/"><u>Transforming Your Approach: Persuasive Proposal via AI</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-poco-m6-pro-4g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Poco M6 Pro 4G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

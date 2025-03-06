@@ -1,7 +1,7 @@
 ---
 title: How Secure Are Your Talks with ChatGPT – Unpacking Privacy Risks
-date: 2025-02-15T18:05:05.274Z
-updated: 2025-02-17T16:02:32.518Z
+date: 2025-03-02T17:50:32.545Z
+updated: 2025-03-06T19:55:36.925Z
 tags:
   - chatgpt
   - open-ai
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
 ![ChatGPT logo on dark purple background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-policy.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  How much data does OpenAI collect from ChatGPT users directly, and how? The service's[privacy policy](https://openai.com/policies/privacy-policy) offers some answers.
 
  ChatGPT collects different types of[Personally Identifiable Information (PII)](https://www.makeuseof.com/what-is-personally-identifiable-information/) , which is data that could be used to identify a user. This includes the information users themselves provide when they sign up: account information (e.g. credentials, credit card info), communication information (if you communicate with OpenAI; the support team, for example), and social media information (if you interact with ChatGPT on its social media pages).
@@ -54,25 +50,13 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
  But what about the conversations you have with the chatbot? How much of that information is stored, and how is it used? In the[FAQ](https://help.openai.com/en/articles/6783457-what-is-chatgpt) section, OpenAI explicitly states that it "reviews" conversations users have with ChatGPT, and that these conversations may be used for training. As for the prompts you submit to the bot, they cannot be deleted, according to OpenAI.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Protect Your Privacy When Using ChatGPT: 3 Key Tips
 
  Clearly, ChatGPT is not privacy-friendly—far from it. But few apps are these days, and there isn't much we can do about it. What you can do, however, is use ChatGPT responsibly. Here are three things you can do to protect your privacy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Register With a Private Email
 
  You can sign up to use ChatGPT with your Google or Microsoft account, but that would not be a very good idea, as convenient as it may seem. In order to protect your privacy, you should create an account with an email, preferably using a secure and encrypted email service like[ProtonMail or Tutanota](https://www.makeuseof.com/protonmail-vs-tutanota-which-encrypted-email-is-best/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Limit What You Share
 
@@ -87,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
  After Italy broke the ice, talks of regulating ChatGPT and other AI products intensified. In April 2023, the European Data Protection Board (an independent European Union body that enforces GDPR) set up a task force to explore potential regulatory measures. Governments of several EU member states did the same, per[Reuters](https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/) .
 
  Around the same time, the National Telecommunications and Information Administration in the United States began looking at the possibility of regulating artificial intelligence, and it's safe to assume governments around the world will take similar regulatory action in the years to come. Some fear excessive regulation could stifle progress, so it's more than likely the debates will continue as the world tries to navigate this landscape.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly
 
@@ -111,20 +91,24 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-dynamic-color-grading-using-ae-luts-for-2024/"><u>[New] Dynamic Color Grading Using AE LUTs for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-tough-titans-tangle-choosing-between-t5-and-sjcam-s6/"><u>[New] In 2024, Tough Titans Tangle Choosing Between T5 and SJCAM S6</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-find-n3-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-the-basics-discover-5-unused-features-of-chatgpt-for-enhanced-usage/"><u>Beyond the Basics: Discover 5 Unused Features of ChatGPT for Enhanced Usage</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/browser-integrated-chatgpt-vs-plugin-additions-navigating-the-best-option-for-your-needs/"><u>Browser Integrated ChatGPT Vs. Plugin Additions: Navigating the Best Option for Your Needs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-fresh-batch-of-innovations-a-guide-to-the-most-useful-additions/"><u>ChatGPT's Fresh Batch of Innovations: A Guide to the Most Useful Additions</u></a></li>
-<li><a href="https://fox-within.techidaily.com/discover-windows-11-iot-enterprise-key-capabilities-free-download-and-comprehensive-guide/"><u>Discover Windows 11 IoT Enterprise: Key Capabilities, Free Download & Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-requesting-automotive-assistance-from-chatgpt/"><u>Effective Strategies for Requesting Automotive Assistance From ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhancing-collaboration-the-definitive-guide-to-employing-copilot-for-optimized-microsoft-teams-usage/"><u>Enhancing Collaboration: The Definitive Guide to Employing Copilot for Optimized Microsoft Teams Usage</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/googles-artificial-intelligence-endeavors-the-pioneering-project-gemini/"><u>Google's Artificial Intelligence Endeavors – The Pioneering Project Gemini</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premier-visual-quality-leaks/"><u>Premier Visual Quality Leaks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/swift-stardom-the-five-tenets-of-gpts-triumph/"><u>Swift Stardom: The Five Tenets of GPT's Triumph</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-next-big-thing-in-diy-how-gpt-4-will-transform-your-experience/"><u>The Next Big Thing in DIY: How GPT-4 Will Transform Your Experience</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-ipad-based-time-lapse-videos-for-2024/"><u>The Ultimate Guide to iPad-Based Time-Lapse Videos for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-role-of-prompt-engineers-key-9-factors-for-career-decisions/"><u>Understanding the Role of Prompt Engineers - Key 9 Factors for Career Decisions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/x-plus-y-plus-z-geq-15/"><u> [ X + Y + Z Geq 15 </u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-re-image-twitter-video-portrait/"><u>[Updated] Re-Image Twitter Video Portrait</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unleash-creativity-ranked-free-drawing-apps-for-mac/"><u>[Updated] Unleash Creativity Ranked FREE Drawing Apps for Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726223569148-mxf-mp4/"><u>「圧縮せずに直接変換!無料のオンラインMXF MP4コンバーター - ムーヴァビ」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movaviwmaavi/"><u>安心です!無料ウェブ上でMovaviでWMA/AVI形式変換</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-mp2-files-to-mp3-for-free-with-movavis-web-converter-tool/"><u>Convert MP2 Files To MP3 for Free with Movavi's Web Converter Tool</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/disabling-automated-podcast-recommendations-on-spotify/"><u>Disabling Automated Podcast Recommendations on Spotify</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-beginning-zoom-video-calls-on-android-devices/"><u>In 2024, Beginning Zoom Video Calls on Android Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-hubs-for-finding-googles-ad-sponsors-on-video/"><u>In 2024, Hubs for Finding Google's Ad Sponsors on Video</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-synching-sounds-with-visual-stories-on-ig/"><u>In 2024, Synching Sounds with Visual Stories on IG</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726225107078-movavimpeg/"><u>Movaviで容易にMPEGビデオファイルを自由に変換: プロセスガイドとトリック</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-konverteren-van-mov-naar-webm-een-gratuite-flexibele-losung-mit-movavi/"><u>Online Konverteren Van MOV Naar WEBM: Een Gratuite Flexibele Lösung Mit Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-mp4-mov-wmv-avi-mp4-movavi/"><u>Online 무료 자바 스크립트를 사용한 MP4, MOV, WMV 및 AVI에서 MP4 변환 - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-20-best-free-ip-camera-software-applications-movavi-review/"><u>Top 20 Best Free IP Camera Software Applications - Movavi Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-free-and-paid-alternatives-to-imovie-for-windows-users/"><u>Top Free and Paid Alternatives to iMovie for Windows Users</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-your-pcs-mysterious-monochrome-moments-after-graphics-revamp-a-comprehensive-guide-by-yl-computing/"><u>Troubleshooting Your PC's Mysterious Monochrome Moments After Graphics Revamp - A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-and-download-amd-vega-56-graphics-card-drivers-on-windows-complete-guide/"><u>Update and Download AMD Vega 56 Graphics Card Drivers on Windows: Complete Guide</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/yl-software-official-shawn-mendes-desktop-scenes-high-quality-image-downloads/"><u>YL Software Official Shawn Mendes Desktop Scenes - High-Quality Image Downloads</u></a></li>
 </ul></div>
 

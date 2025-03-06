@@ -1,7 +1,7 @@
 ---
 title: Microsoft and AI Merge for Next-Gen Bing Searches
-date: 2025-02-13T18:21:18.189Z
-updated: 2025-02-17T22:22:10.267Z
+date: 2025-02-28T18:57:38.751Z
+updated: 2025-03-06T19:09:33.455Z
 tags:
   - chatgpt
   - open-ai
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
  Arguments exist for and against setting up a local LLM on your computer. We'll cut the hype and bring you the facts. Should you use a local LLM?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Pros of Using Local LLMs
 
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
@@ -46,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
  Today, both[chatbots have been so tightly censored](https://www.makeuseof.com/what-is-chatbot-censorship/) that they won't even help you write a fictional crime novel with violent scenes. Some AI chatbots won't even talk about religion or politics. Although LLMs you can set up locally aren't entirely censorship-free, many of them will gladly do the thought-provoking things the public-facing chatbots won't do. So, if you don't want a robot lecturing you about morality when discussing topics of personal interest, running a local LLM might be the way to go.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Better Data Privacy
 
  One of the primary reasons people opt for a local LLM is to ensure that whatever happens on their computer stays on their computer. When you use a local LLM, it's like having a conversation privately in your living room—no one outside can listen in. Whether you're experimenting with your credit card details or having sensitive personal conversations with the LLM, all the resulting data is stored only on your computer. The alternative is using publicly-facing LLMs like GPT-4, which gives the companies in charge access to your chat information.
@@ -61,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 ### 4\. Cost Savings
 
  The average price of accessing a capable LLM like GPT-4 or Claude 2 is $20 per month. Although that might not seem like an alarming price, you still get several annoying restrictions for that amount. For instance, with GPT-4, accessed via ChatGPT, you are stuck with a 50-message per three-hour cap. You can only get past those limits by[switching to the ChatGPT Enterprise plan](https://www.makeuseof.com/what-is-chatgpt-enterprise/) , which could potentially cost thousands of dollars. With a local LLM, once you've set up the software, there are no $20 monthly subscription or recurring costs to pay. It's like buying a car instead of relying on ride-share services. Initially, it's expensive, but over time, you save money.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Better Customization
 
@@ -86,17 +74,9 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
  In short, unless you're rocking an absolute top-of-the-line setup (we're talking AMD Ryzen 5800X3D with an Nvidia RTX 4090 and enough RAM to sink a ship), the overall performance of your local LLM won't compare to the online generative AI chatbots you're used to.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Complex Setup
 
  Deploying a local LLM is more involved than just signing up for a web-based AI service. With an internet connection, your ChatGPT, Bard, or Bing AI account could be ready to start prompting in minutes. Setting up a full local LLM stack requires downloading frameworks, configuring infrastructure, and integrating various components. For larger models, this complex process can take hours, even with tools that aim to simplify installation. Some bleeding-edge AI systems still require deep technical expertise to get running locally. So, unlike plug-and-play web-based AI models, managing your own AI involves a significant technical and time investment.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Limited Knowledge
 
@@ -125,24 +105,20 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/free-update-to-the-newest-geforce-rtx-3080-driver-for-pcs-running-windows-11-8-or-7/"><u>[Free] Update to the Newest GeForce RTX 3080 Driver for PCs Running Windows 11, 8 or 7</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-hushing-up-unwanted-noise-on-skype-for-2024/"><u>[New] Hushing Up Unwanted Noise on Skype for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-gentle-art-of-reducing-audio-amplitude-in-logic-pro/"><u>[New] The Gentle Art of Reducing Audio Amplitude in Logic Pro</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-unlock-the-best-top-9-gamers-hubs-for-2024/"><u>[New] Unlock the Best Top 9 Gamers' Hubs for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-photoshop-color-adjustments-for-beginners-for-2024/"><u>[Updated] Photoshop Color Adjustments for Beginners for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-strategies-for-dominating-spotifys-advertising-space/"><u>2024 Approved Strategies for Dominating Spotify's Advertising Space</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725290111961-handbrake/"><u>日本語化したHandBrake使い方 – ダウンロードせずに実践ガイド</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-guide-to-creative-use-of-supplementary-footage-b-roll-for-2024/"><u>A Guide to Creative Use of Supplementary Footage (B-Roll) for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-communicators-contrasted-insights-on-gpt-and-bing/"><u>AI Communicators Contrasted: Insights on GPT & Bing</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/easily-access-worldwide-languages-for-next-to-nothing/"><u>Easily Access Worldwide Languages for Next to Nothing</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-gopro-vs-polaroid-cube-choosing-your-editing-companion/"><u>In 2024, GoPro Vs. Polaroid Cube Choosing Your Editing Companion</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/microsofts-acquisition-of-blizzard-insights-on-ai-generated-art-and-multilingual-technology-podcast-review/"><u>Microsoft's Acquisition of Blizzard: Insights on AI-Generated Art & Multilingual Technology - Podcast Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-ai-unlock-the-meanings-behind-29-important-concepts/"><u>Navigating the World of AI: Unlock the Meanings Behind 29 Important Concepts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/no-more-monetary-barriers-the-best-use-of-copilot-for-a-free-gpt-4-turbo/"><u>No More Monetary Barriers: The Best Use of Copilot for a Free GPT-4 Turbo</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-virtual-webcams-discover-the-power-of-manycams-competitors/"><u>Ultimate Guide to Virtual Webcams: Discover the Power of ManyCam's Competitors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-live-broadcast-toolkit-with-manycam-and-virtual-webcams/"><u>Ultimate Live Broadcast Toolkit with ManyCam and Virtual Webcams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-professional-vlogging-potential-discover-manycams-all-in-one-solution-for-live-videos-remote-webcams-and-more/"><u>Unleash Professional Vlogging Potential: Discover ManyCam's All-in-One Solution for Live Videos, Remote Webcams, & More!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-your-broadcast-potential-with-manycam-advanced-virtual-webcam-technology-for-pros/"><u>Unleash Your Broadcast Potential with ManyCam - Advanced Virtual Webcam Technology for Pros</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/virtual-webcams-on-steroids-discover-leading-manycam-substitutes-for-enhanced-online-broadcasting/"><u>Virtual Webcams on Steroids: Discover Leading ManyCam Substitutes for Enhanced Online Broadcasting</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-multimedia-content-putting-photos-together-on-insta-story/"><u>[New] 2024 Approved Mastering Multimedia Content Putting Photos Together on Insta Story</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-convenient-techniques-for-documenting-virtual-gatherings-for-2024/"><u>[New] Convenient Techniques for Documenting Virtual Gatherings for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-hacks-for-preventing-youtube-short-failures/"><u>[New] In 2024, Hacks for Preventing YouTube Short Failures</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-novel-window-11-secrets-for-enhanced-usage/"><u>[New] Unveiling Novel WINDOW 11 Secrets for Enhanced Usage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wtv-movavi-mpeg/"><u>無料WTV変換 - Movavi MPEGファイル対応のオンラインソリューション</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mpgwma-movavi/"><u>無料ダウンロード:MPG動画をWMAフォーマットへ変換するオンラインツール- Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guia-completo-para-iniciar-sessao-com-o-movavi-em-computadores-apple-instrucoes-detalhadas/"><u>Guia Completo Para Iniciar Sessão Com O Movavi Em Computadores Apple - Instruções Detalhadas</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovation-in-writing-why-bots-cant-compete-yet/"><u>Innovation in Writing - Why Bots Can't Compete Yet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/laugh-out-loud-free-memetic-creators/"><u>Laugh Out Loud FREE Memetic Creators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-gratis-konverteren-van-ogg-naar-wmv-efficientheid-zonder-naptijd-met-movavi/"><u>Online Gratis Konverteren Van Ogg Naar Wmv: Efficiëntheid Zonder Naptijd Met Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rectifying-the-dll-mishap-how-to-address-btballoondll-errors-successfully/"><u>Rectifying the DLL Mishap: How to Address btballoon.dll Errors Successfully</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-steps-for-capturing-a-laptop-screenshot-a-comprehensive-guide/"><u>Simple Steps for Capturing a Laptop Screenshot: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-swiftly-transforming-swf-audio-into-mp3-format-on-the-web/"><u>Step-by-Step Guide: Swiftly Transforming SWF Audio Into MP3 Format on the Web</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforma-sus-archivos-au-en-versiones-online-gratuitas-utilizando-movavi/"><u>Transforma Sus Archivos AU en Versiones Online Gratuitas Utilizando Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforme-seus-videos-webm-em-audios-mp3-gratuitamente-on-line-usando-o-conversor-especializado-do-movavi/"><u>Transforme Seus Vídeos WebM Em Áudios MP3 Gratuitamente On-Line Usando O Conversor Especializado Do Movavi</u></a></li>
 </ul></div>
 

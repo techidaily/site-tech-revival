@@ -1,7 +1,7 @@
 ---
 title: "The End of an Era: Why Modern ChatGPT Jailbreaks Fail - Insights and Analysis"
-date: 2025-02-11T22:47:59.220Z
-updated: 2025-02-18T00:23:59.536Z
+date: 2025-03-04T18:06:14.156Z
+updated: 2025-03-06T18:11:44.402Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -63,18 +59,20 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-newest-camstudio-capture-and-review-2023-update/"><u>[New] In 2024, Newest CamStudio Capture & Review 2023 Update</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-chuckles-and-challenges-best-fun-for-young-minds/"><u>[Updated] Chuckles & Challenges - Best Fun for Young Minds</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-efficient-use-of-obs-studio-for-android-devices/"><u>[Updated] Efficient Use of OBS Studio for Android Devices</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-top-notch-drones-for-professionals-our-curated-list-for-2024/"><u>[Updated] Top-Notch Drones for Professionals – Our Curated List for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726028112547-mp3/"><u>簡単に学べるMP3曲のループ編集テクニック</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-13-miniipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from Apple iPhone 13 mini/iPad/iPod</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726029359181-bilibili/"><u>Bilibili動画のダウンロードと保存がうまくいかない方法：修正手順</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-optimal-methods-for-converting-arf-archives-into-accessible-formats/"><u>Comprehensive Guide: Optimal Methods for Converting ARF Archives Into Accessible Formats</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-how-to-use-vlc-media-player-to-transcode-avi-files-into-mp4-format/"><u>Comprehensive Tutorial: How to Use VLC Media Player to Transcode AVI Files Into MP4 Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/customize-your-kodi-19-with-djay-theme-magic-installation-tutorial/"><u>Customize Your Kodi 19 with DJay Theme Magic - Installation Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dive-into-the-best-deals-of-octobers-prime-shopping-event-must-have-discounts-still-up-for-grabs-cnet-insights/"><u>Dive Into the Best Deals of October's Prime Shopping Event: Must-Have Discounts Still Up for Grabs | CNET Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030231975-pc/"><u>PCを使った音楽再生と録音 - 初心者向けガイド</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/websites-on-hold-seven-steps-to-resuscitate-them-in-windows/"><u>Websites On Hold? Seven Steps to Resuscitate Them in Windows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-insightful-examination-of-wirecast-and-its-peers/"><u>2024 Approved Insightful Examination of WireCast & Its Peers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-step-by-step-on-streaming-google-meet-directly-to-youtube-channel/"><u>2024 Approved Step by Step on Streaming Google Meet Directly to YouTube Channel</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-your-tabletop-adventures-using-ai-inspiration/"><u>Boosting Your Tabletop Adventures Using AI Inspiration</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-record-google-meet-for-free/"><u>How to Record Google Meet for Free?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-idea-generation-a-guide-to-brainstorming-with-mindmaps-and-chatgpt/"><u>Mastering Idea Generation: A Guide to Brainstorming with Mindmaps & ChatGPT</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quickbooks-lifeline-stellars-innovative-repair-program-launched/"><u>QuickBooks Lifeline: Stellar's Innovative Repair Program Launched</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steer-clear-of-macchatgpt-safeguard-your-digital-life/"><u>Steer Clear of MacChatGPT: Safeguard Your Digital Life</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-5-primary-reasons-enterprises-limit-chatgpt-access/"><u>The 5 Primary Reasons Enterprises Limit ChatGPT Access</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-41-amazing-apple-products-on-sale-during-the-festive-season-find-your-perfect-gift/"><u>Top 41 Amazing Apple Products on Sale During the Festive Season - Find Your Perfect Gift!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-advanced-ai-llms-revolutionizing-text-generation/"><u>Top 6 Advanced AI LLMs Revolutionizing Text Generation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-must-have-ai-mobile-applications-for-android-and-ios-users/"><u>Top 8 Must-Have AI Mobile Applications for Android & iOS Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/top-five-solutions-to-resolve-your-canon-printer-not-printing-issue-in-windows-11/"><u>Top Five Solutions to Resolve Your Canon Printer Not Printing Issue in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-ai-potential-step-by-step-tutorial-on-harnessing-gpt-3-with-python/"><u>Unlocking AI Potential: Step-by-Step Tutorial on Harnessing GPT-3 with Python</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vision-and-motion-fusion-leading-phones-combining-power-speed-and-smooth-shots/"><u>Vision & Motion Fusion Leading Phones Combining Power, Speed, and Smooth Shots</u></a></li>
 </ul></div>
 

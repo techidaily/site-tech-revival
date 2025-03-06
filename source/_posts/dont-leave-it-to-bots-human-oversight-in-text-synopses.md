@@ -1,7 +1,7 @@
 ---
 title: "Don't Leave It to Bots: Human Oversight in Text Synopses"
-date: 2024-08-29T01:50:40.090Z
-updated: 2024-08-30T01:50:40.090Z
+date: 2025-03-05T18:59:48.771Z
+updated: 2025-03-06T19:20:59.778Z
 tags:
   - chatgpt
   - open-ai
@@ -43,17 +43,10 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Can AI Be Rude to You?
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 
  AI chatbots can be rude to you, just like humans. For instance, a[Reddit user](https://www.reddit.com/r/bing/comments/110eagl/the%5Fcustomer%5Fservice%5Fof%5Fthe%5Fnew%5Fbing%5Fchat%5Fis/) shared a screenshot of Microsoft's Bing AI in beta mode, responding rudely and arguing during an interaction. An AI chatbot can also be rude if you jailbreak it to disobey its content policy, which is one reason[you shouldn't trust every generative AI screenshot](https://www.makeuseof.com/why-you-shouldnt-trust-ai-chatbot-conversation-screenshots/) you see. Someone may have specifically asked the AI to be rude, screen-capped it for the drama, and posted it online.
@@ -62,23 +55,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Interact With AI How You Want
 
  AI cannot process emotions like humans, and you shouldn't feel obligated to say "thank you" or "please." Nevertheless, it doesn't hurt to be polite to AI, even if you know it's not sentient, but rather because you will feel better about yourself if you're polite.
 
  If you have kids who say "please" and "thank you" when talking to AI, it could reinforce their social etiquette when talking to people. But you should take adequate measures to ensure your kids don't become too emotionally attached to AI thinking they have emotions like humans.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,4 +74,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-from-flash-photography-to-sustained-videography-your-pixiz-adventure-for-2024/"><u>[New] From Flash Photography to Sustained Videography Your Pixiz Adventure for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-essentials-of-setting-up-and-assessing-fb-instream-ad-efficacy/"><u>[New] In 2024, The Essentials of Setting Up & Assessing FB Instream Ad Efficacy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-writing-with-these-innovative-5-ai-companions/"><u>Boost Your Writing with These Innovative 5 AI Companions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bridging-the-gap-between-human-creativity-and-ai-with-nightshade/"><u>Bridging the Gap Between Human Creativity and AI with Nightshade</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-your-digital-sidekick-a-comparison-of-github-copilot-vs-chatgpt-for-efficient-programming/"><u>Choosing Your Digital Sidekick: A Comparison of GitHub Copilot Vs. ChatGPT for Efficient Programming</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conquering-language-hurdles-learnings-greatest-trials/"><u>Conquering Language Hurdles: Learning's Greatest Trials</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-sony-vaio-drivers-installed-on-windows-step-by-step-tutorial/"><u>Get the Latest Sony Vaio Drivers Installed on Windows - Step by Step Tutorial</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/guide-to-initiating-and-archiving-webinars-economically-for-2024/"><u>Guide to Initiating and Archiving Webinars Economically for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-insights-streamlining-filters-integration-in-media-production/"><u>In 2024, Expert Insights Streamlining Filters Integration in Media Production</u></a></li>
+<li><a href="https://facebook.techidaily.com/no-more-snooping-german-decree-blocks-facebook-from-whatsapp-user-data/"><u>No More Snooping: German Decree Blocks Facebook From WhatsApp User Data</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/optimizing-headlines-with-effective-slug-lines-for-2024/"><u>Optimizing Headlines with Effective Slug Lines for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-artisans-guide-mastering-gopro-video-editing/"><u>The Artisan's Guide Mastering GoPro Video Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-android-experience-with-a-voice-activated-chatgpt-companion/"><u>Transform Your Android Experience with a Voice-Activated ChatGPT Companion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-secrets-of-claude-3s-usage/"><u>Unveiling the Secrets of Claude 3'S Usage</u></a></li>
+</ul></div>
 

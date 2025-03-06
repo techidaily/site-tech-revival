@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Crafting Cover Letters with AI Assistance"
-date: 2025-01-23T06:01:37.150Z
-updated: 2025-01-26T01:31:47.223Z
+date: 2025-02-28T18:14:02.836Z
+updated: 2025-03-06T19:35:45.594Z
 tags:
   - chatgpt
   - open-ai
@@ -22,17 +22,9 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is GPT-4 Turbo?
 
 ![gpt-4 logo on smartphone screen](https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-photo/portland-usa-mar-15-2023-webpage-2275173419)
 
@@ -46,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
@@ -62,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you don't have a Copilot button yet or use a different operating system, you can still use the[Copilot website](https://copilot.microsoft.com/) . Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
 
  If you're on mobile, you can download the[Copilot app for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032122/https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en&gl=US) or[iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) . The app has a toggle when you open it that enables or disables GPT-4\. It may not be the Turbo version, but it should still be powerful enough to handle your queries.
@@ -73,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 ## How to Get the Most Out of GPT-4 Turbo
 
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
 
@@ -101,24 +81,24 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-integrating-words-in-tiktok-videos-made-simple/"><u>[New] In 2024, Integrating Words in TikTok Videos Made Simple</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-premium-android-vr3d-player-selection-for-2024/"><u>[New] Premium Android VR/3D Player Selection for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ceasing-noise-during-obs-recordings/"><u>[Updated] 2024 Approved Ceasing Noise During OBS Recordings</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-explore-the-finest-cost-free-videocalling-platforms/"><u>[Updated] Explore the Finest Cost-Free Videocalling Platforms</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-best-virtualdub-alternatives-a-review-of-top-video-editing-tools/"><u>In 2024, The Best Virtualdub Alternatives A Review of Top Video Editing Tools</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-poco-m6-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Poco M6 Pro 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maintaining-a-tangle-free-experience-with-3d-printing-filaments/"><u>Maintaining a Tangle-Free Experience with 3D Printing Filaments</u></a></li>
-<li><a href="https://article-files.techidaily.com/metaverse-marvels-top-10-sci-fi-films-unveiling-extraordinary-worlds-for-2024/"><u>Metaverse Marvels Top 10 Sci-Fi Films Unveiling Extraordinary Worlds for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-of-freelancing-can-these-8-ai-tools-outshine-chatgpt-in-making-extra-cash/"><u>The Future of Freelancing: Can These 8 AI Tools Outshine ChatGPT in Making Extra Cash?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-potential-influence-of-artificial-intelligence-on-game-development/"><u>The Potential Influence of Artificial Intelligence on Game Development</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-infinix-smart-8-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Infinix Smart 8 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-side-hustles-with-chatgpt-can-these-be-the-key-to-your-financial-freedom/"><u>Top 8 Side Hustles with ChatGPT: Can These Be the Key to Your Financial Freedom?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-reasons-why-zerogpt-and-similar-ai-detectors-may-not-be-reliable-case-studies/"><u>Top Reasons Why ZeroGPT & Similar AI Detectors May Not Be Reliable: Case Studies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tutorial-activate-gpts-beta-browser-and-plugin-functionality/"><u>Tutorial: Activate GPT's Beta Browser & Plugin Functionality</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/uncover-the-truth-methods-to-determine-if-someones-using-an-airtag-on-you/"><u>Uncover the Truth: Methods to Determine If Someone's Using an AirTag on You</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-ai-hallucinations-identification-and-detection-strategies/"><u>Understanding AI Hallucinations: Identification & Detection Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-fraudgpt-essential-tips-to-safeguard-against-cyber-threats/"><u>Understanding FraudGPT: Essential Tips to Safeguard Against Cyber Threats</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-creative-solutions-top-8-applications-of-chatgpt-in-visual-fields/"><u>Unlocking Creative Solutions: Top 8 Applications of ChatGPT in Visual Fields</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-document-mysteries-with-chatgpts-4-reading-techniques/"><u>Unlocking Document Mysteries with ChatGPT's 4 Reading Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-xstream-vision-insight-ultimate-video-studio-exploration/"><u>[New] 2024 Approved XStream Vision Insight Ultimate Video Studio Exploration</u></a></li>
+<li><a href="https://extra-information.techidaily.com/aperture-alchemy-crafting-the-top-10-lens-list-for-2024/"><u>Aperture Alchemy Crafting the Top 10 Lens List for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-compact-and-reliable-audew-portable-air-pump-functionality-unmatched/"><u>Comprehensive Review of the Compact and Reliable AUDEW Portable Air Pump - Functionality Unmatched</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-downloading-logitech-rx250-driver-for-your-windows-computer-os-7-8-and-10-supported/"><u>Easy Guide to Downloading Logitech RX250 Driver for Your Windows Computer (OS 7, 8 & 10 Supported)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/enhanced-joy-in-switchs-hd-gameplay-through-cards-for-2024/"><u>Enhanced Joy in Switch's HD Gameplay Through Cards for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/enhancing-your-sound-design-with-easy-transitions/"><u>Enhancing Your Sound Design with Easy Transitions</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-tips-for-adding-music-to-photo-online/"><u>In 2024, Tips for Adding Music to Photo Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-apples-vision-pro-ecosystem-what-awaits-besides-the-big-names-in-tech/"><u>Inside Apple's Vision Pro Ecosystem: What Awaits Besides the Big Names in Tech?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tips-and-techniques-for-referencing-custom-generative-pre-trained-transformers-gpt-within-chatbot-conversations/"><u>Tips and Techniques for Referencing Custom Generative Pre-Trained Transformers (GPT) Within Chatbot Conversations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-y78-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo Y78 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tomorrows-threat-landscape-a-glimpse-at-7-predictions/"><u>Tomorrow's Threat Landscape: A Glimpse at 7 Predictions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-essential-crypto-related-queries-for-chatgpt-mastery/"><u>Top 10 Essential Crypto-Related Queries for ChatGPT Mastery</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-itel-p40-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Itel P40 Location | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-cutting-edge-innovations-in-ai-hardware-technology/"><u>Top 5 Cutting-Edge Innovations in AI Hardware Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-and-utilizing-gpt-3-shared-links-effectively/"><u>Understanding and Utilizing GPT-3 Shared Links Effectively</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-free-ai-top-6-alternatives-to-openais-sora-for-your-project-needs/"><u>Unlock the Power of Free AI: Top 6 Alternatives to OpenAI's Sora for Your Project Needs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-concentration-8-effective-chatgpt-queries-for-a-distraction-less-digital-experience/"><u>Unlocking Concentration: 8 Effective ChatGPT Queries for a Distraction-Less Digital Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-potential-leverage-8-user-friendly-gpt-varieties-from-day-one/"><u>Unlocking Potential: Leverage 8 User-Friendly GPT Varieties From Day One</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-tabletop-gaming-secrets-how-to-harness-chatgpt-as-your-ideal-dungeon-master/"><u>Unlocking Tabletop Gaming Secrets: How to Harness ChatGPT as Your Ideal Dungeon Master</u></a></li>
 </ul></div>
 

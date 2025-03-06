@@ -1,7 +1,7 @@
 ---
 title: "Debunking the Myth: Evidence that Proves ChatGPT Is Not Becoming Less Clever, Says OpenAI"
-date: 2025-02-15T21:52:12.352Z
-updated: 2025-02-17T18:52:23.689Z
+date: 2025-03-02T17:43:34.650Z
+updated: 2025-03-06T19:07:28.246Z
 tags:
   - chatgpt
   - open-ai
@@ -58,10 +58,6 @@ Close
 
  Currently, you can only converse with My AI through private chats. But it’s still in the development stage—Snapchat might let My AI respond to groups soon.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Location Services
 
  While Snapchat and Skype store location data, only My AI provides reliable directions. It uses your city-level location to find nearby establishments, e.g., restaurants, hospitals, and gas stations. You’ll see all the nearest options.
@@ -78,21 +74,9 @@ Close
 
 ![Bing AI Can't Recommend Nearby Mcdonald's Locations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-mcdonald-s-recommendations.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Bing AI Can't Detect Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-gas-stations.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Data Accuracy
 
@@ -109,10 +93,6 @@ Close
  My AI has limited datasets. Since it’s based on ChatGPT, its knowledge cuts off after 2021.
 
 ![Snapchat My AI Answers Questions About Winter Olympics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-olympics-questions.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Snapchat My AI Can't Answer Question About Real World Events](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-and-real-world-events.jpg)
 
@@ -150,10 +130,6 @@ Close
 
 ![Trying to Confuse Bing Chat on Skype About Math](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-skype-and-math.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  And you can’t mislead Bing with fake answers—it sticks to its original responses.
@@ -165,10 +141,6 @@ Close
  To further test their contextual memory, let’s run roleplay requests. My AI commits to the indicated persona. It even compromises logic and correctness so that it stays in character.
 
 ![Asking Snapchat My AI to Roleplay as Ash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapcchat-my-ai-roleplay-request.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Snapchat My AI Breaking From its Character as Ash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-breaking-character.jpg)
 
@@ -182,19 +154,11 @@ Close
 
 ![Asking Bing Chat About AI While Roleplaying Ash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/asking-bing-chat-on-roleplay.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Bing Chat on Skype Discussing its Token Limit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-skype-token-limit.jpg)
 
 Close
 
  Just note that Bing has a lower token limit. It automatically starts afresh after 20 turns—you can also start new conversations manually by typing “newtopic.”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Security Restriction
 
@@ -223,10 +187,6 @@ Likewise, the web version of Bing Chat won’t reveal its language model.
  Alternatively, Snapchat My AI has loose guidelines and quickly drew criticisms for its lack of security and privacy.[The Washington Post](https://www.washingtonpost.com/technology/2023/03/14/snapchat-myai/) even demonstrates how Snapchat’s My AI chatbot supports immoral, dangerous behavior.
 
  Snapchat promptly addressed the situation. My AI now produces a generic response for potentially harmful and unethical activities, e.g., cheating, lying, and cybercrime.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Accessibility
 
@@ -261,24 +221,24 @@ Likewise, the web version of Bing Chat won’t reveal its language model.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-boost-your-revenue-yielding-earnings-from-youtube-at-500-followers/"><u>[New] Boost Your Revenue Yielding Earnings From YouTube at 500 Followers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-adding-soundtracks-to-shareable-fb-moments/"><u>[Updated] Adding Soundtracks to Shareable FB Moments</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/1716070074476-updated-from-gameplay-to-legacy-proven-strategies-for-documenting-a-sims-in-game-saga-in-sims-4-for-2024/"><u>[Updated] From Gameplay to Legacy Proven Strategies for Documenting a Sim’s In-Game Saga in Sims 4. For 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-instagram-live-via-obs-technology/"><u>[Updated] In 2024, Instagram Live via OBS Technology</u></a></li>
-<li><a href="https://discover-community.techidaily.com/accelerate-your-system-a-step-by-step-guide-to-reclaim-disk-space-and-increase-computer-speed-with-yl-software-solutions/"><u>Accelerate Your System: A Step-by-Step Guide to Reclaim Disk Space & Increase Computer Speed with YL Software Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/behind-the-scenes-of-truthgpt-release-exploring-law-enforcements-role-in-mullvad-vpn-incident-ultimate-collection-of-free-pc-games-and-essential-know-how-fo37/"><u>Behind the Scenes of TruthGPT Release: Exploring Law Enforcement's Role in Mullvad VPN Incident, Ultimate Collection of Free PC Games & Essential Know-How for Mechanical Keyboards</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversational-supremacy-can-claude-outperform-chatgpt/"><u>Conversational Supremacy: Can Claude Outperform ChatGPT?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-top-10-affordable-game-recording-solutions/"><u>In 2024, Top 10 Affordable Game Recording Solutions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-dynamic-image-backdrops-viewer/"><u>In 2024, Top 10 Dynamic Image Backdrops Viewer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-bings-intelligent-search-interface-register-now/"><u>Mastering Bing’s Intelligent Search Interface: Register Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-plugin-integration/"><u>Mastering ChatGPT Plugin Integration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-learning-outcomes-preventing-overreliance-on-chatgpt-in-academics/"><u>Maximizing Learning Outcomes: Preventing Overreliance on ChatGPT in Academics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-advanced-chatgpt-usage-expert-tips-for-personal-command-creation/"><u>Navigating Advanced ChatGPT Usage: Expert Tips for Personal Command Creation</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/refined-instagram-reel-bugless/"><u>Refined: Instagram Reel Bugless</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/safety-in-dialogue-risks-with-chatgpt/"><u>Safety in Dialogue: Risks with ChatGPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/shop-the-latest-three-apple-innovations-revealed-at-wwdc-today-and-secure-your-order-discover-retail-locations-and-preorders-options/"><u>Shop the Latest Three Apple Innovations Revealed at WWDC Today & Secure Your Order! Discover Retail Locations and Preorders Options</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-combining-chatgpt-and-vs-code-for-developers/"><u>The Ultimate Guide to Combining ChatGPT and VS Code for Developers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-techniques-for-integrating-chatgpt-into-your-visual-studio-code-workflow/"><u>Top 10 Techniques for Integrating ChatGPT Into Your Visual Studio Code Workflow</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-laptops-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Rated Laptops : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cutting-edge-creativity-top-editors-for-online-sharing/"><u>[New] 2024 Approved Cutting-Edge Creativity Top Editors for Online Sharing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-unveiling-the-magic-behind-film-plots/"><u>[New] In 2024, Unveiling the Magic Behind Film Plots</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-12-budget-friendly-high-performing-video-players-pcandroid-devices/"><u>[New] Top 12 Budget-Friendly, High-Performing Video Players PC/Android Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-tier-business-data-haven-selection/"><u>[New] Top-Tier Business Data Haven Selection</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-from-baking-to-boiling-top-15-innovative-tiktok-dishes/"><u>[Updated] From Baking to Boiling Top 15 Innovative TikTok Dishes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-slash-length-amplify-impact-youtube-video-editing/"><u>[Updated] Slash Length, Amplify Impact YouTube Video Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-de-archivos-aac-a-mp3-en-linea-sin-costo-con-movavi/"><u>Conversión De Archivos AAC a MP3 en Línea Sin Costo Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversione-rapida-ed-economica-da-wav-a-mp4-online-tutorial-facile-per-utenti-principianti/"><u>Conversione Rapida Ed Economica Da WAV a MP4 Online - Tutorial Facile per Utenti Principianti</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-mp4-files-to-mov-format-free-quicktime-compatible/"><u>Convert MP4 Files to MOV Format Free: QuickTime Compatible</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-install-dormant-windows-apps-and-extras/"><u>Essential Tips to Install Dormant Windows Apps & Extras</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-converter-transform-avi-files-into-high-quality-aac-audio-streaming/"><u>Free Online Converter: Transform AVI Files Into High-Quality AAC Audio Streaming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/kostenloze-mkv-file-omzetten-naar-flv-online-gratis-met-moviemaker/"><u>Kostenloze MKV-File Omzetten Naar FLV Online - Gratis Met MovieMaker</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-win-11-issue-resolution/"><u>Mastering the Art of WIN 11 Issue Resolution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/organizational-culture-is-a-set-of-shared-values-beliefs-norms-and-practices-that-influence-employee-behavior-and-the-organizations-performance/"><u>Organizational Culture Is a Set of Shared Values, Beliefs, Norms, and Practices that Influence Employee Behavior and the Organization's Performance.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-15-free-subtitle-editing-tools-enhance-your-videos/"><u>Top 15 Free Subtitle Editing Tools: Enhance Your Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/plicating-the-complication-of-the-invisible-green-on-macs-for-2024/"><u>Uncomplicating The Complication of the Invisible Green on Macs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-update-codes-in-windows-operating-system/"><u>Unraveling Update Codes in Windows Operating System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/videstabiliserende-kvalitetssjekere-for-202n-her-er-de-top-programvarietablene-du-skal-se-inkluderer-gratis/"><u>Videstabiliserende Kvalitetssjekere for 202N: Her Er De Top-Programvarietablene Du Skal Se - Inkluderer Gratis!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/m1v-mpg/"><u>원통형 M1V MPG에 대한 가용성 강화: 웹 사이트로 바인드하기 위해 공제 - 무료 교육</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Artificial Intelligence (AI) Explained in Simple Terms
-date: 2025-02-15T17:06:01.935Z
-updated: 2025-02-18T02:14:04.115Z
+date: 2025-02-27T18:17:44.232Z
+updated: 2025-03-06T19:52:00.517Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 * [How to Use Google Gemini AI](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#how-to-use-google-gemini-ai)
 * [How Gemini Compares to GPT-3.5 and GPT-4](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#how-gemini-compares-to-gpt-3-5-and-gpt-4)
 * [Is Gemini Better than ChatGPT?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#is-gemini-better-than-chatgpt)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -67,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
  When any new AI model is launched, it is tested against OpenAI's GPT AI models, which are generally accepted as the state-of-the-art model other models should be held up against. So, using Bard and ChatGPT, we tested Gemini's ability in math, creative writing, code generation, and accurately processing image inputs.
@@ -84,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
 
@@ -109,19 +97,11 @@ Here's the source screenshot.
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Gemini Better than ChatGPT?
 
@@ -144,17 +124,24 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-crafting-unique-content-to-differentiate-your-channel/"><u>[New] In 2024, Crafting Unique Content to Differentiate Your Channel</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-views-prime-seo-equipment-for-videos/"><u>[New] In 2024, Elevate Views Prime SEO Equipment for Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-masterful-post-placement-to-surge-video-views/"><u>[New] Masterful Post Placement to Surge Video Views</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-pathway-to-facebook-success-livestreaming-recorded-visual-narratives-for-2024/"><u>[New] Pathway to Facebook Success Livestreaming Recorded Visual Narratives for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-best-ios-resources-for-playing-retro-psp-games-1-5-for-2024/"><u>[New] The Best iOS Resources for Playing Retro PSP Games #1-5 for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-essential-toolkit-how-to-use-obs-for-youtube-and-twitch-streaming/"><u>[New] The Essential Toolkit How to Use OBS for YouTube & Twitch Streaming</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/creating-a-personalized-profile-a-how-to-for-your-nintendo-3ds-online-id/"><u>Creating a Personalized Profile: A How-To for Your Nintendo 3DS Online ID</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-achieve-perfect-timing-when-using-chromecast-audio-connections/"><u>How to Achieve Perfect Timing When Using Chromecast Audio Connections</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-video-frame-rate-from-60fps-to-24fps/"><u>Step-by-Step Guide: Converting Video Frame Rate From 60Fps to 24Fps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-converting-3ga-audio-to-mp3-for-free/"><u>Step-by-Step Tutorial on Converting 3GA Audio to MP3 for Free</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-choosing-the-right-streaming-sound-recorder-for-your-device-in-223-windows-mac-android-and-ios-compatible-picks/"><u>Ultimate Guide to Choosing the Right Streaming Sound Recorder for Your Device in 2^23: Windows, Mac, Android & iOS Compatible Picks!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/wav-windows-10/"><u>WAV形式のオーディオファイルを改良: Windows 10によるガイド</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-harmonizing-your-tunes-step-by-step-playlist-crafting-for-web-and-mobile-users/"><u>[New] In 2024, Harmonizing Your Tunes Step-by-Step Playlist Crafting for Web & Mobile Users</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-triumph-over-tiktoks-unseen-ban-barriers-for-2024/"><u>[New] Triumph Over TikTok's Unseen Ban Barriers for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-perfecting-visuals-on-instagram-a-video-guide/"><u>[Updated] 2024 Approved Perfecting Visuals on Instagram A Video Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-elevate-viewership-must-use-youtube-seo-tools/"><u>[Updated] In 2024, Elevate Viewership Must-Use YouTube SEO Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/converse-and-analyze-with-the-best-pdf-tools-powered-by-gpt/"><u>Converse and Analyze with the Best PDF Tools Powered by GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/delving-into-auto-gpt-versus-chatgpt-whats-the-difference-you-need-to-know/"><u>Delving Into Auto-GPT Versus ChatGPT - What's the Difference You Need to Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-efficiency-with-chatgpt-transforming-it-into-your-corporate-helper/"><u>Enhancing Efficiency with ChatGPT: Transforming It Into Your Corporate Helper</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/find-your-next-great-read-5-cutting-edge-ai-recommendation-services-for-books/"><u>Find Your Next Great Read: 5 Cutting-Edge AI Recommendation Services for Books</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-copilot-to-copilot-pro-key-differences-explored/"><u>From Copilot to Copilot Pro: Key Differences Explored</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-10-essential-iphone-photo-layout-principles/"><u>In 2024, 10 Essential iPhone Photo Layout Principles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/magazine-horoscopes-or-chatgpt-predictions-can-tech-outshine-tradition/"><u>Magazine Horoscopes or ChatGPT Predictions – Can Tech Outshine Tradition?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-family-edition-google-plays-best-kids-app-of-the-year/"><u>Mondly Family Edition: Google Play's Best Kids App of the Year</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-guide-solving-battlefield-v-warzone-match-detection-problems/"><u>PC Gaming Guide: Solving Battlefield V Warzone Match Detection Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steering-ai-towards-human-friendly-outcomes/"><u>Steering AI Towards Human-Friendly Outcomes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-implementing-gpt-4-with-current-chatgpt-platforms/"><u>Step-by-Step Tutorial: Implementing GPT-4 with Current ChatGPT Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-windows-cant-access-fingerprint-scanner/"><u>Steps to Resolve Windows Can’t Access Fingerprint Scanner</u></a></li>
+<li><a href="https://games-able.techidaily.com/synchronizing-files-in-steam-without-conflict/"><u>Synchronizing Files in Steam without Conflict</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-advantages-of-using-chatgpt-on-your-iphone-vs-browser/"><u>Top 6 Advantages of Using ChatGPT on Your iPhone Vs. Browser</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-video-editor-battle-filmora-versus-democracy-creator/"><u>Top Video Editor Battle Filmora versus Democracy Creator</u></a></li>
 </ul></div>
 

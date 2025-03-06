@@ -1,7 +1,7 @@
 ---
 title: DIY's New Era Dawns With GPT-4 Advancements
-date: 2025-02-12T00:15:03.826Z
-updated: 2025-02-17T23:04:59.134Z
+date: 2025-03-02T18:07:41.948Z
+updated: 2025-03-06T18:44:04.169Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The [ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to [totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
@@ -52,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -63,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 > "If your family is chatting about the next family reunion, you can simply ask Bing for suggestions on travel destinations, expected weather forecasts and interesting events around your time of travel, and everyone in the chat will get access to the results."
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
 
@@ -77,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 **Download:** Edge for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.microsoft.emmx) |[iOS](https://apps.apple.com/us/app/microsoft-edge-web-browser/id1288723196) (Free)
 
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
 
@@ -105,20 +85,24 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-examination-of-googles-ar-sticker-technology-and-alternatives/"><u>[Updated] In-Depth Examination of Google's AR Sticker Technology & Alternatives</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-we-trust-chatgpt-under-openais-current-oversight/"><u>Can We Trust ChatGPT Under OpenAI's Current Oversight?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/future-of-ai-with-gpt-5-predicting-launch-and-unveiling-specs/"><u>Future of AI with GPT-5: Predicting Launch and Unveiling Specs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-navigate-gpt-4-all-and-unveil-its-working-principles/"><u>How to Navigate GPT-4 All and Unveil Its Working Principles?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-charting-a-course-for-cash-flows-the-3-step-methodology-for-measuring-youtube-earnings/"><u>In 2024, Charting a Course for Cash Flows The 3-Step Methodology for Measuring YouTube Earnings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-master-list-the-finest-no-money-video-player-tools-and-software-pcmobile/"><u>In 2024, Master List The Finest No-Money Video Player Tools & Software (PC/Mobile)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ensive-gear-mics-for-content-creators-on-a-dime/"><u>Inexpensive Gear Mics for Content Creators on a Dime</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/iphone-photography-simplified-adopt-these-10-easy-rules-for-2024/"><u>IPhone Photography Simplified Adopt These 10 Easy Rules for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimize-chatgpt-usage-explore-the-five-best-approaches-for-custom-command-application/"><u>Optimize ChatGPT Usage: Explore the Five Best Approaches for Custom Command Application</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-using-macrium-reflect-for-seamless-ssd-transition-to-a-larger-drive/"><u>Step-by-Step Guide: Using Macrium Reflect for Seamless SSD Transition to a Larger Drive</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamlining-remote-collaboration-the-role-of-chatgpt-in-virtual-teams/"><u>Streamlining Remote Collaboration: The Role of ChatGPT in Virtual Teams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-chatbot-challenge-snapchat-vs-bing-skype-edition/"><u>The Chatbot Challenge: Snapchat Vs. Bing Skype Edition</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/top-strategies-for-efficiently-eliminating-redundant-applications-and-files-expert-tips-from-yl-computing/"><u>Top Strategies for Efficiently Eliminating Redundant Applications & Files - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-chatgpt-dialogue-discover-7-key-techniques-for-better-responses/"><u>Transform Your ChatGPT Dialogue: Discover 7 Key Techniques for Better Responses</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-conversational-ai-with-these-tips-for-using-chatgpt-effectively/"><u>Unlock the Power of Conversational AI with These Tips for Using ChatGPT Effectively</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-copyrights-demystified-understanding-and-managing-strikes/"><u>[New] YouTube Copyrights Demystified Understanding and Managing Strikes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-boost-your-brand-on-instagram-monthly-growth-from-1k-followers/"><u>[Updated] Boost Your Brand on Instagram Monthly Growth From 1K Followers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-memories-on-ios-organized-albums-and-efficient-icloud-synchronization/"><u>[Updated] Streamline Your Memories on iOS Organized Albums & Efficient iCloud Synchronization</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mod-movavi/"><u>網路無須付金 MOD 更新 - MOVAVI</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-unveiling-of-apples-latest-wearable-with-direct-sound-connectivity-details-inside/"><u>Anticipated Unveiling of Apple's Latest Wearable with Direct Sound Connectivity - Details Inside!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-free-animation-software-to-try-in-2e-featuring-2d-and-3d-capabilities/"><u>Best Free Animation Software to Try in 2E | Featuring 2D and 3D Capabilities</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/caption-crusaders-top-10-writing-tools-for-image-capture-iosandroid/"><u>Caption Crusaders Top 10 Writing Tools for Image Capture (iOS/Android)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-video-formats-at-no-cost-with-movavis-mpeg-to-flv-tool/"><u>Convert Video Formats at No Cost with Movavi's MPEG to FLV Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/een-kijkje-in-de-achtergronden-van-een-mp4-bestand-en-het-behalen-van-toegankelijkheid-met-mp4-structuur/"><u>Een Kijkje in De Achtergronden Van Een MP4-Bestand en Het Behalen Van Toegankelijkheid Met MP4-Structuur</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-screen-captures-in-windows-snip-tool-vs-printscreen/"><u>Efficient Screen Captures in Windows: Snip Tool Vs. Printscreen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-audio-file-converter-convert-flac-to-wav-for-free-via-movavis-web-service/"><u>Effortless Audio File Converter - Convert FLAC to WAV for Free via Movavi's Web Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-beyond-borders-the-upsides-and-downsides-of-online-purchases/"><u>Gaming Beyond Borders: The Upsides & Downsides of Online Purchases</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-f14-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy F14 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterclass-on-innovative-cover-art-techniques/"><u>In 2024, Masterclass on Innovative Cover Art Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/reveal-the-true-colors-tips-for-a-crisp-screen-on-win11-devices/"><u>Reveal the True Colors: Tips for a Crisp Screen on Win11 Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-17-better-image-editing-tools-for-stitch-panorama-photos-on-windows-with-movavi/"><u>Top 17 Better Image Editing Tools for Stitch Panorama Photos on Windows with Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformer-gratuitement-un-fichier-3gp-en-audio-mp3-en-ligne-avec-movavi/"><u>Transformer Gratuitement Un Fichier 3GP en Audio MP3 en Ligne Avec Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trasforma-i-file-ogg-in-m4a-gratuitamente-online-con-convertioggm4a/"><u>Trasforma I File OGG in M4A Gratuitamente Online Con Convertioggm4a</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/jection-free-aif-m4r-movavi/"><u>제공자를 사용하여 온라인으로 오브jection-Free AIF M4R 전환 - Movavi</u></a></li>
 </ul></div>
 

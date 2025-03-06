@@ -1,7 +1,7 @@
 ---
 title: Guarding Againnst Unauthorized Data Harvesting by Machine Learning Crawlers
-date: 2025-02-12T22:38:31.835Z
-updated: 2025-02-18T02:57:51.847Z
+date: 2025-02-27T19:20:34.458Z
+updated: 2025-03-06T17:40:27.030Z
 tags:
   - chatgpt
   - open-ai
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
 ![bitcoin logo at the end of warped tunnel ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The huge success of ChatGPT, as well as the release of[similar AI chatbots](https://www.makeuseof.com/best-alternatives-chatgpt/) , has brought the concern of hallucination into the limelight.
 
 [AI hallucination](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) occurs when an AI system gives a confident response, but the response itself is false and goes against its training data. In other words, it does not provide the expected response. This can happen in a number of scenarios and is possible in ChatGPT.
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can certainly ask ChatGPT any number of questions about the crypto market, as well as use it for financial tips. But while this is possible, it may not be the best route to pursue.
 
  ChatGPT knows more than any one human could ever know. But ChatGPT wasn't specifically designed to provide financial advice. ChatGPT is a jack-of-all-trades chatbot, meaning it can answer questions on almost any topic. But this also means the tool is not fully equipped for hyper-specific or niche prompts.
@@ -66,17 +58,9 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Relies Heavily on Historical Data
 
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
 
@@ -85,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
  ChatGPT can be friendly and[even make jokes](https://www.makeuseof.com/can-ai-make-us-laugh/) , but this is all based on the data it has been trained with. You could certainly call it a smart program, as it is highly advanced by today's standards, but it is not an all-knowing entity.
 
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Lacks Insights Into Macroeconomic Factors
 
@@ -121,22 +101,24 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-timer-finds-low-cost-high-return-monetized-youtube-sites/"><u>[New] In 2024, First-Timer Finds Low-Cost, High-Return Monetized YouTube Sites</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-increasing-engagement-on-instagram-videos/"><u>[New] In 2024, Increasing Engagement on Instagram Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-scholarly-streams-10-best-ed-tutorials-yt/"><u>[New] Scholarly Streams 10 Best Ed Tutorials YT</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-art-of-engaging-with-the-online-gaming-community/"><u>[New] The Art of Engaging with the Online Gaming Community</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-rotate-youtube-videos-by-any-angle/"><u>[Updated] How to Rotate YouTube Videos by Any Angle</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-now-banned-in-italy-the-reason-behind-this-swift-action/"><u>ChatGPT Now Banned in Italy – The Reason Behind This Swift Action</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/does-chatgpt-have-any-security-issues/"><u>Does ChatGPT Have Any Security Issues?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-chatgpts-core-functionality-the-essential-role-of-its-code-interpreter/"><u>Exploring ChatGPT's Core Functionality: The Essential Role of Its Code Interpreter</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-generative-ai-is-transforming-employment-landscapes-7-key-impacts/"><u>How Generative AI Is Transforming Employment Landscapes: 7 Key Impacts</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-reno-8t-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-pathways-select-7-tools-for-artwork-conversion-to-nfts/"><u>In 2024, Innovative Pathways Select 7 Tools for Artwork Conversion to NFTs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/laugh-ledger-10-hilarious-tweets-for-2024/"><u>Laugh Ledger 10 Hilarious Tweets for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/safety-of-third-party-gpt-apps-and-browser-addons-what-you-need-to-know/"><u>Safety of Third-Party GPT Apps and Browser Addons - What You Need To Know</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-journeying-in-chatgpt-inspired-rpgs/"><u>Step by Step: Journeying in ChatGPT-Inspired RPGs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-how-to-download-and-update-nvidia-graphics-card-drivers-gtx-940mx/"><u>Step-by-Step Guide: How To Download and Update Nvidia Graphics Card Drivers (GTX 940MX)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-tech-driven-path-to-inner-peace-using-chatgpt-for-daily-meditation-success/"><u>The Tech-Driven Path to Inner Peace: Using ChatGPT for Daily Meditation Success</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-lies-ahead-for-artificial-intelligence-the-evolution-beyond-chatgpt-in-natural-language-processing/"><u>What Lies Ahead for Artificial Intelligence? The Evolution Beyond ChatGPT in Natural Language Processing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-opening-and-playing-srt-files-in-different-oses/"><u>[New] 2024 Approved Opening and Playing SRT Files in Different OSes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-30plus-futuristic-metaverse-musings-arvr-for-2024/"><u>[New] 30+ Futuristic Metaverse Musings [AR/VR] for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-a-visual-guide-to-subtitling-techniques-for-effective-dialogue-placement/"><u>[New] A Visual Guide to Subtitling Techniques for Effective Dialogue Placement</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-elevate-snapchat-snaps-with-customizable-user-voices-for-2024/"><u>[New] Elevate Snapchat Snaps with Customizable User Voices for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-boost-your-meeting-impact-with-efficient-screen-sharing/"><u>[New] In 2024, Boost Your Meeting Impact with Efficient Screen Sharing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-m2p/"><u>「快適にMovavi M2Pファイルを変換してくだ</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bmp-tiff/"><u>网络移动 BMP 到 TIFF 无限转换 - 摩发逼</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversione-libera-di-vob-ai-formati-jpeg-con-movavi-web-services/"><u>Conversione Libera Di Vob Ai Formati JPEG Con Movavi Web Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-picture-repair-with-movavi-photo-fixer-a-user-friendly-guide/"><u>Effortless Picture Repair with Movavi Photo Fixer - A User-Friendly Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/i-12-programmi-di-riferimento-per-la-collaborazione-schermi-il-ranking-ultimo-di-movavi/"><u>I 12 Programmi Di Riferimento per La Collaborazione Schermi: Il Ranking Ultimo Di Movavi</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-from-likes-to-leads-top-30-tactics-for-social-media-success/"><u>In 2024, From Likes to Leads Top 30 Tactics for Social Media Success</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-cooling-supremacy-with-the-thermalright-phantom-spirit-120-evo-a-review-of-unmatched-performance/"><u>Mastering Cooling Supremacy with the Thermalright Phantom Spirit 120 EVO - A Review of Unmatched Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movaviwebp-n/"><u>MovaviによるオンラインWebP画像変換サービス – 完全無料提�nグ!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/scopri-le-basi-dei-file-video-avi-modi-efficaci-per-aprirli/"><u>Scopri Le Basi Dei File Video AVI: Modi Efficaci per Aprirli</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-your-broken-astro-a2n-audio-device/"><u>Step-by-Step Fixes for Your Broken Astro A2n Audio Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tutoriel-pas-a-pas-pour-convertir-un-film-en-ligne-gratuit-des-formats-flv-vers-mov-avec-movavi/"><u>Tutoriel Pas-À-Pas Pour Convertir Un Film en Ligne Gratuit: Des Formats FLV Vers MOV Avec Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/weaving-images-into-stunning-tiled-artworks/"><u>Weaving Images Into Stunning Tiled Artworks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/flac-mp3-movavi/"><u>가상 스피어에서 비용 없이 FLAC 파일을 MP3로 전환: 무결성을 위해 Movavi</u></a></li>
 </ul></div>
 

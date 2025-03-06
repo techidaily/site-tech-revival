@@ -1,7 +1,7 @@
 ---
 title: Copilot, Your Free Companion for GPT-4's Highest Outputs
-date: 2025-02-13T00:38:11.969Z
-updated: 2025-02-17T18:10:19.863Z
+date: 2025-03-02T16:19:49.173Z
+updated: 2025-03-06T18:38:49.793Z
 tags:
   - chatgpt
   - open-ai
@@ -43,37 +43,21 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![GoogleSheets-quotes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-quotes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have a programmer’s mind, you can[use the GPT for Sheets and Docs extension](https://www.makeuseof.com/how-use-chatgpt-google-sheets/) , or you can copy and paste your content into any spreadsheet program—like Microsoft Excel or Google Sheets. Then open a blank page.
 
  Highlight all the text from ChatGPT and copy it using**Cmd** +**C** on Mac or**Ctrl** +**V** on Windows. Back on your spreadsheet, select box**A2** . Leave the top row empty for now, you’re going to add labels to it later.
 
  Paste your content into A2 by using**Cmd** +**V** on Mac or**Ctrl** +**V** on Windows. Despite selecting only one box, each line of text will be input into a new row.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Tidy Up the Content
 
 ![Google Sheets with quotes in one column and credits in another.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-remove-attirubtion.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  First, widen column A to the right. Hover your cursor over the connecting edge of A and B until the cursor changes to arrows, then click and drag A column until you can see the ends of your content within the column width.
 
  If your generated content has attribution labels, like quotes with speaker names or songs with artist names, then remove the attributions from the end of the quotes and type or paste them into column B. Resize the columns as needed.
 
  You can add more elements if required, but for most social media posts, you don’t want to overcrowd information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Label Your Columns
 
@@ -82,10 +66,6 @@ It’s a very simple process, and you’ll want to do it again and again.
  Now it’s time to put labels in the first row. This allows Canva to attribute your spreadsheet values to its bulk creation system later.
 
  Label**A1** with “QUOTES” or the type of content that’s there, like “SONGS,” “PASSAGES,” or “TESTIMONIALS.” In**B1** —and any further columns—label it with the content type, ensuring the label is different. We’re going to use “ATTRIBUTION,” but you could use “CREDIT,” “CUSTOMER,” “ARTIST,” or whatever suits your content.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Save Your Sheet as a CSV File
 
@@ -109,10 +89,6 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Add Text Placeholders
 
 ![Canva design with placeholder text.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placeholder-text-canva.jpg)
@@ -122,10 +98,6 @@ It’s a very simple process, and you’ll want to do it again and again.
  Choose a font for quoted text and another for the attribution text. Set a general font size and color, but you may need to change these after the designs are generated.
 
  If you want different designs for the same content, you can create more than one template design here. Select**Add a page** beneath your artboard to add a new design.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Bulk Create Your Content
 
@@ -138,10 +110,6 @@ It’s a very simple process, and you’ll want to do it again and again.
  Select**Upload CSV** and find your saved CSV file to open. Canva will identify your two sections of content and separate them, in this case, into a section of Quote content and another of Attribution content.
 
 ![Canva CSV input.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/curly-brackets.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Select your Quotes placeholder text, then right-click >**Connect Data** \>**\[QUOTES\]** . This inputs your data into Canva, shown by your label now written in curly brackets. Do this again for your second set of content, and any others you’re adding. Select**Continue** .
 
@@ -162,10 +130,6 @@ It’s a very simple process, and you’ll want to do it again and again.
 ## 10\. Save Your Bulk-Created Designs
 
 ![Canva save options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-save-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re happy with how everything looks, it’s time to save your designs. Go to**Share** \>**Download** and choose the best format for your designs. PNG is what we recommend for the best quality, but some social media applications might not accept PNGs, or perhaps another format works better for your designs.
 
@@ -192,24 +156,17 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-clear-visuals-ahead-mastering-your-logitech-webcams-capabilities/"><u>[New] In 2024, Clear Visuals Ahead Mastering Your Logitech Webcam's Capabilities</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-explore-vivid-skies-highlighted-hdr-web-platforms/"><u>[Updated] Explore Vivid Skies Highlighted HDR Web Platforms</u></a></li>
-<li><a href="https://blog-min.techidaily.com/dvdusb-type-nsurface-hub-macbookchromebook-pixel/"><u>专业方法：将DVD内容导入支持USB Type-N接头的电脑，例如Surface Hub, MacBook和Chromebook Pixel</u></a></li>
-<li><a href="https://fox-info.techidaily.com/advanced-photo-editing-how-to-clean-up-unwanted-space-for-2024/"><u>Advanced Photo Editing How to Clean Up Unwanted Space for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-to-the-ai-breakthroughs-showcased-by-apple-at-worldwide-developers-conference-wwdc-24/"><u>Comprehensive Guide to the AI Breakthroughs Showcased by Apple at Worldwide Developers Conference 'WWDC 24'</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-these-7-powerful-substitutes-for-chatgpt-on-your-smartphone/"><u>Discover These 7 Powerful Substitutes for ChatGPT on Your Smartphone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/easy-steps-to-restore-accidentally-deleted-documents-on-your-pc-expert-tips-from-yl-computing/"><u>Easy Steps to Restore Accidentally Deleted Documents on Your PC: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/find-flawlessness-in-searching-perplexity-ai-the-premier-choice-youre-missing/"><u>Find Flawlessness in Searching: Perplexity AI, the Premier Choice You're Missing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/intelligent-assistance-in-academic-analysis/"><u>Intelligent Assistance in Academic Analysis</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/mastering-crowd-dynamics-with-djnne-and-scott-faver-essential-techniques-from-pcdj/"><u>Mastering Crowd Dynamics with DJNNE and Scott Faver – Essential Techniques From PCDJ</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-glitches-in-windows-system-insights-tracker/"><u>Overcoming Glitches in Windows System Insights Tracker</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/overcoming-inaudibility-in-obs-captured-audio-for-2024/"><u>Overcoming Inaudibility in OBS Captured Audio for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/regaining-control-over-your-chatgpt-experience/"><u>Regaining Control Over Your ChatGPT Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-site-visibility-how-artificer-intelligence-is-shaping-search-engine-results/"><u>Revolutionizing Site Visibility: How Artificer Intelligence Is Shaping Search Engine Results</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/securely-sign-up-a-guide-to-using-email-or-social-media-instead-of-your-phone-for-app-registrations/"><u>Securely Sign Up: A Guide to Using Email or Social Media Instead of Your Phone for App Registrations</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/smart-pet-nutrition-the-ultimate-guide-to-the-petsafe-healthy-pet-automatic-feeder/"><u>Smart Pet Nutrition: The Ultimate Guide to the PetSafe Healthy Pet Automatic Feeder</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/sounds-of-laughter-top-ringtones-downloaders-for-2024/"><u>Sounds of Laughter Top Ringtones Downloaders for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-inner-peace-leveraging-chatgpt-to-foster-a-consistent-meditation-practice/"><u>Transform Your Inner Peace: Leveraging ChatGPT to Foster a Consistent Meditation Practice</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-gaming-secrets-discover-these-6-awesome-chatgpt-games/"><u>Unlock Gaming Secrets: Discover These 6 Awesome ChatGPT Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-depth-look-at-xvideo-hub-a-full-studio-guide/"><u>[New] In-Depth Look at XVideo Hub A Full Studio Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-navigating-the-world-of-speech-to-text-with-google-expertly/"><u>2024 Approved Navigating the World of Speech-to-Text with Google Expertly</u></a></li>
+<li><a href="https://win-info.techidaily.com/windows-1187norton-ghostusb/"><u>如何在Windows 11/8/7系统中制作Norton Ghost的可启动USB，步骤分享两种方式</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/diverse-selection-of-royalty-wallpaper-visuals-by-yl-software-get-your-perfect-background-image-now/"><u>Diverse Selection of Royalty Wallpaper Visuals by YL Software – Get Your Perfect Background Image Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mac-windows-movavi/"><u>Mac과 Windows에서 동영상 제조를 위한 Movavi 혁신적인 프로그램 소개</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-trasforma-trp-in-formato-mp4-guida-e-strumenti-gratuiti-da-movavi/"><u>OnLine Trasforma TRP in Formato Mp4: Guida E Strumenti Gratuiti Da Movavi!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-no-cost-avi-to-mp4-conversion-tools-compatible-with-windows-mac-and-online-services/"><u>Top 4 No-Cost AVI to MP4 Conversion Tools Compatible with Windows, Mac & Online Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-methods-to-capture-google-maps-images-for-zero-cost-with-movavi/"><u>Top 8 Methods to Capture Google Maps Images for Zero Cost with Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformation-de-fichiers-audio-gratuite-changer-mp4-en-wav-online-avec-movavi/"><u>Transformation De Fichiers Audio Gratuite - Changer MP4 en WAV Online Avec Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-chatgpt-enterprise-potential/"><u>Unveiling ChatGPT Enterprise Potential</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-beyond-the-basics-secrets-for-tiktok-live-studio-success/"><u>Updated In 2024, Beyond the Basics Secrets for TikTok Live Studio Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/utanformaliga-guiden-till-vidkombination-pa-windows-11-bastens-sammansattning-7-ganger/"><u>Utanförmåliga Guiden Till Vidkombination På Windows 11 - Bästens Sammansättning 7-Gånger</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Dialogue Duel: Does Claude Have The Edge?"
-date: 2025-02-16T23:19:46.994Z
-updated: 2025-02-18T00:42:25.529Z
+date: 2025-03-02T19:44:14.869Z
+updated: 2025-03-06T16:38:43.389Z
 tags:
   - chatgpt
   - open-ai
@@ -24,19 +24,11 @@ thumbnail: https://thmb.techidaily.com/4c674686d1a033251a256acfde6c5f560acb7a06d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ChatGPT vs. Claude AI: Common-Sense and Logical Reasoning
 
  There's an intriguing contrast when working with AI chatbots. On one hand, they can whiz through complex tasks that humans may labor over for days to solve. On the other hand, they sometimes grapple with elementary problems that require just a bit of common-sense or logical reasoning. So, we tested both ChatGPT and Claude AI to see which AI chatbot was better at common sense and logical reasoning tasks.
 
 ![logical and commonsense problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/logical-and-commonsense-problem.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ChatGPT broke up the problem into bits and solved it on the first attempt. Claude AI also had a go at it and solved the problem as well, but with a different approach.
 
@@ -55,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/4c674686d1a033251a256acfde6c5f560acb7a06d
  On this task, we give it to ChatGPT, but we can't totally rule out Claude AI's approach. For our final task on this metric, we asked both chatbots how many apples would be left on an apple tree after five and 10 days respectively if we started with 10 apples and five of them got sliced while still on the tree. ChatGPT said there'd still be 10 apples left.
 
 ![ChatGPT birds commonsense logic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-birds-commonsense-logic.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Claude AI, on the other hand, gave a more common-sense response by recognizing that the five sliced apples are likely to rot.
 
@@ -98,10 +86,6 @@ ChatGPT also cracked the problem as well.
 
 ![ChatGPT composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-composes-a-rap-lyrics.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We then fed the same prompt to Claude AI, and it gave it a fair shot as well.
 
 ![Claude AI composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-composes-a-rap-lyrics.jpg)
@@ -120,29 +104,17 @@ ChatGPT also cracked the problem as well.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
 
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
 
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -163,17 +135,22 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-designing-dynamic-movie-synopses/"><u>[Updated] 2024 Approved Designing Dynamic Movie Synopses</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-mastering-iphone-xs-identity-verification-face-id-repair/"><u>[Updated] 2024 Approved Mastering iPhone X's Identity Verification Face ID Repair</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-seamless-transition-leading-8-tools-for-sub-to-srt-changeover/"><u>[Updated] 2024 Approved Seamless Transition Leading 8 Tools for Sub to SRT Changeover</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-cultivating-a-visionary-channel-with-best-video-ideas/"><u>[Updated] In 2024, Cultivating a Visionary Channel with Best Video Ideas</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-motorola-razr-40-ultra-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Motorola Razr 40 Ultra? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722979140919-download-and-install-microsoft-surface-pro-4-drivers-on-your-pc-step-by-step-guide/"><u>Download and Install Microsoft Surface Pro 4 Drivers on Your PC | Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/file-sharing-solutions-beyond-sharex/"><u>File Sharing Solutions Beyond ShareX</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/move-upwards-with-a-64-bit-windows-11-version/"><u>Move Upwards with a 64-Bit Windows 11 Version</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/real-time-streaming-tools-discover-manycam-your-ultimate-live-video-and-virtual-camera-solution/"><u>Real-Time Streaming Tools: Discover ManyCam - Your Ultimate Live Video and Virtual Camera Solution</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-crafting-customized-manycam-eye-filters-with-adobe-photoshop/"><u>Step-by-Step Guide: Crafting Customized ManyCam Eye Filters with Adobe Photoshop</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-broadcast-with-manycam-the-ultimate-solution-for-virtual-webcams-and-streaming-tech/"><u>Transform Your Broadcast with ManyCam - The Ultimate Solution for Virtual Webcams and Streaming Tech</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/virtucam-xt-next-gen-live-video-editing-with-virtual-background-technology/"><u>VirtuCam XT: Next-Gen Live Video Editing with Virtual Background Technology</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploiting-slow-motion-magic-in-phantom/"><u>[New] Exploiting Slow-Motion Magic in Phantom</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-ideas-to-keep-your-snapchat-streak-alive-for-2024/"><u>[Updated] Ideas to Keep Your Snapchat Streak Alive for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-the-vimeo-story-a-hub-for-exclusive-film-content/"><u>[Updated] In 2024, The Vimeo Story A Hub for Exclusive Film Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-memory-allocation-elevating-minecraft-experience/"><u>[Updated] Mastering Memory Allocation Elevating Minecraft Experience</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-tug-of-war-youtube-licensing-versus-cc-principles/"><u>[Updated] The Tug-of-War Youtube Licensing Versus CC Principles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-gameboy-advance-mastered-android-emulator-selection/"><u>2024 Approved GameBoy Advance Mastered Android Emulator Selection</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-right-video-format-a-comprehensive-guide-on-mp4-vs-mkv/"><u>Choosing the Right Video Format: A Comprehensive Guide on MP4 vs MKV</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-conversion-of-opus-audio-files-easy-steps-with-movavi/"><u>Free Online Conversion of OPUS Audio Files - Easy Steps with Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/immagini-e-siti-web-crea-gratis-il-tuo-sito-con-la-tecnologia-convertitore-online-di-movavi/"><u>Immagini E Siti Web: Crea Gratis Il Tuo Sito Con La Tecnologia Convertitore Online Di Movavi!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-vivo-t2x-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Vivo T2x 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-trasformare-file-png-in-formato-jpg-o-svg-senza-costo/"><u>Movavi - Trasformare File PNG in Formato JPG O SVG Senza Costo</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/professional-video-editing-solutions-for-property-marketing-top-picks-with-insider-advice/"><u>Professional Video Editing Solutions for Property Marketing: Top Picks with Insider Advice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/purchase-the-ultimate-video-tool-movavi-suite-your-key-to-professional-quality/"><u>Purchase the Ultimate Video Tool: Movavi Suite – Your Key to Professional Quality</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagine-windows-look-using-chosen-pics/"><u>Reimagine Window's Look Using Chosen Pics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-12-aplicaciones-de-reproduccion-multimedia-para-computadoras/"><u>Top 12 Aplicaciones De Reproducción Multimedia Para Computadoras</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-free-html-coding-tools-for-windows-users/"><u>Top 8 Free HTML Coding Tools for Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mpe-ogg-movavis/"><u>인터넷 공간에서 무료 MPE OGG 교리기: Movavi's 가장 나은 방법</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Integrating ChatGPT Into Your CBT Methodology: Tips and Tricks"
-date: 2024-12-26T03:41:49.215Z
-updated: 2024-12-29T03:10:50.669Z
+date: 2025-03-04T19:55:56.168Z
+updated: 2025-03-06T17:29:56.225Z
 tags:
   - chatgpt
   - open-ai
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is the Turing Test Outdated?
 
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
@@ -78,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 
 ![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the[reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
 
  For instance, if ChatGPT-4 is the interrogator, you could enroll Google Bard and another human as participants. If the AI model can correctly identify the human participant based on the answers, it has passed the test.
@@ -92,17 +80,9 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -125,18 +105,18 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-expert-tips-for-crafting-intricate-photo-mosaics/"><u>[New] 2024 Approved Expert Tips for Crafting Intricate Photo Mosaics</u></a></li>
-<li><a href="https://discover-community.techidaily.com/5b2x54mh57yw6l6r5bplusr6ycf5ywl6zeo77ya6laf5y2z5pe25psplus5asn5pa55rov5pwz56il/"><u>影片编辑快速入门：超即时放大方法教程</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/between-bard-and-bing-chat-who-reigns-supreme-in-the-world-of-ai-conversational-agents/"><u>Between Bard & Bing Chat – Who Reigns Supreme in the World of AI Conversational Agents?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-imagination-ai-image-design-using-chatgpt/"><u>Beyond Imagination: AI Image Design Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-to-transformer-learning-in-ai-systems/"><u>Comprehensive Guide to Transformer Learning in AI Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-inactive-windows-media-player-sounds/"><u>Dealing with Inactive Windows Media Player Sounds</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/from-passive-viewers-to-profitable-partners-on-vimeo-for-2024/"><u>From Passive Viewers to Profitable Partners on Vimeo for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/new-trends-in-technology-3-solutions-connecting-laptops-and-hp-printers/"><u>New Trends in Technology - 3 Solutions Connecting Laptops & HP Printers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/stay-ahead-in-digital-dialogues-the-most-impactful-new-features-introduced-by-chatgpt/"><u>Stay Ahead in Digital Dialogues: The Most Impactful New Features Introduced by ChatGPT</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-the-win-11-challenge-reversing-the-operation-elevation-mistake/"><u>Tackling the Win 11 Challenge: Reversing the Operation Elevation Mistake</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-poco-x5-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Poco X5 Pro IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/uncover-the-truth-with-these-5-smart-ai-murder-mystery-experiences-for-aspiring-detectives/"><u>Uncover the Truth with These 5 Smart AI Murder Mystery Experiences for Aspiring Detectives</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-potential-of-your-ai-journey-with-claude-3/"><u>Unveiling the Potential of Your AI Journey with Claude 3</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-turning-twitter-media-into-interactive-expressive-animated-gifs/"><u>[New] Turning Twitter Media Into Interactive, Expressive Animated GIFs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-scrutinizing-vsdc-screen-recording-capabilities/"><u>[Updated] In 2024, Scrutinizing VSDC Screen Recording Capabilities</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-phone-knowledge-for-expanded-gear-vr-experiences/"><u>Essential Phone Knowledge for Expanded Gear VR Experiences</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-the-issue-playing-robocop-rogue-city-failed-on-windows-solutions-inside/"><u>Fix the Issue! Playing RoboCop: Rogue City Failed on Windows - Solutions Inside</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-a15-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Samsung Galaxy A15 5G? Try These Fixes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-media-facebook-twitter-instagram-and-youtube-explained/"><u>Navigating the Giants of Social Media: Facebook, Twitter, Instagram, and YouTube Explained</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/perfectly-prepared-videos-a-guide-to-instagram-fitness/"><u>Perfectly Prepared Videos A Guide to Instagram Fitness</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-programmers-dilemma-github-copilot-vs-chatgpt/"><u>The Programmer's Dilemma: GitHub Copilot Vs. ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-secret-behind-elon-musk-and-the-groundbreaking-ai-project-truthgpt/"><u>The Secret Behind Elon Musk and the Groundbreaking AI Project, TruthGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-controversy-whats-gptbot-and-how-did-it-get-banned-online/"><u>Understanding the Controversy: What's GPTBot and How Did It Get Banned Online?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-pros-and-cons-why-a-chatgpt-mobile-app-might-not-be-ideal/"><u>Understanding the Pros and Cons: Why a ChatGPT Mobile App Might Not Be Ideal</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-new-features-signing-up-for-chatgpt-add-ons-explained/"><u>Unlock New Features: Signing Up for ChatGPT Add-Ons Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-ai-in-creative-writing-6-tips-with-chatgpt/"><u>Unlock the Power of AI in Creative Writing: 6 Tips with ChatGPT</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Does ChatGPT's Custom Commands Work & Their Applications
-date: 2025-02-16T01:27:01.317Z
-updated: 2025-02-17T21:29:34.011Z
+date: 2025-03-05T18:54:41.666Z
+updated: 2025-03-06T16:06:15.384Z
 tags:
   - chatgpt
   - open-ai
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -52,15 +48,7 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The more context you provide your AI tool, the better of a response you'll receive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2 Ask for More Information After Getting an Initial Answer
 
@@ -83,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
  This tip is especially important if you want to use AI tools like DALL-E 3 to generate images. I've often noticed that first drafts sometimes don't yield what I'm looking for, and there could also be problems like defects for items like flags.
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Don't Make Your AI Multitask
 
@@ -126,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
 <ins class="adsbygoogle"
@@ -147,24 +127,20 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-unlock-superior-mac-gif-capture-with-these-apps-for-2024/"><u>[New] Unlock Superior Mac GIF Capture with These Apps for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-essence-of-style-in-ae-title-design/"><u>[Updated] 2024 Approved The Essence of Style in AE Title Design</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-golden-grounds-guided-the-finest-treasure-maps/"><u>[Updated] Golden Grounds Guided The Finest Treasure Maps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-validating-your-online-identity-on-youtube/"><u>[Updated] Step by Step Validating Your Online Identity on YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-vfx-creation-with-story-remix-and-windows-10-photos/"><u>[Updated] Streamline Your VFX Creation with Story Remix and Windows 10 Photos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-your-pathway-to-personalized-youtube-music-selections/"><u>[Updated] Your Pathway to Personalized YouTube Music Selections</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/a-comprehensive-guide-to-recovering-your-conexant-smartaudio-hds-volume-on-windows-11/"><u>A Comprehensive Guide to Recovering Your Conexant SmartAudio HD's Volume on Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/climate-denial-and-the-role-of-media-bias-explored/"><u>Climate Denial and the Role of Media Bias Explored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-step-by-step-solution-resolving-issues-with-your-xbox-one-controller-guide/"><u>Complete Step-by-Step Solution: Resolving Issues with Your Xbox One Controller (Guide)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dall-e-3s-recent-update-includes-edit-tools-yet-performance-and-usability-call-for-improvement/"><u>DALL-E 3'S Recent Update Includes Edit Tools: Yet Performance and Usability Call for Improvement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-engagement-personalized-gpt-construction/"><u>Elevate Engagement: Personalized GPT Construction</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/engaging-gpt-prose-with-your-voice-and-vibe/"><u>Engaging GPT Prose with Your Voice and Vibe</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-detect-and-prevent-malicious-prompts-in-ai-applications/"><u>How to Detect and Prevent Malicious Prompts in AI Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-your-conversation-with-chatgpt-private-understanding-ai-confidentiality-concerns/"><u>Is Your Conversation with ChatGPT Private? Understanding AI Confidentiality Concerns</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-auto-gtp-in-everyday-tasks/"><u>Leveraging Auto-GTP in Everyday Tasks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-accurate-user-persona-development/"><u>Leveraging ChatGPT for Accurate User Persona Development</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/thriving-amidst-artificial-intelligence-top-6-strategies-for-professional-growth/"><u>Thriving Amidst Artificial Intelligence: Top 6 Strategies for Professional Growth</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unleash-your-creativity-with-astrolaunch-ui-a-complimentary-guide-to-mastering-beautiful-astro-template-designs/"><u>Unleash Your Creativity with AstroLaunch UI: A Complimentary Guide to Mastering Beautiful Astro Template Designs!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-effortless-creative-ending-videos-at-zero-price-for-2024/"><u>[Updated] Effortless Creative Ending Videos at Zero Price for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-solution-for-non-shown-shorts-thumbnails-on-youtube/"><u>2024 Approved Step-by-Step Solution for Non-Shown Shorts Thumbnails on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streaming-quality-comparison-obs-against-shadowplay/"><u>2024 Approved Streaming Quality Comparison OBS Against ShadowPlay</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bypassing-the-access-denied-issue-corrective-steps-for-a-401-error/"><u>Bypassing the Access Denied Issue - Corrective Steps for a 401 Error</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cambia-facilmente-tu-fotografia-de-cr2-a-jpg-gratuita-usando-movavi-en-linea/"><u>Cambia Fácilmente Tu Fotografía De CR2 a JPG Gratuita Usando Movavi en Línea</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/des-techniques-avancees-pour-changer-du-monochrome-au-colorise-creation-de-contenus-visuels-vibrants/"><u>Des Techniques Avancées Pour Changer Du Monochrome Au Colorisé : Création De Contenus Visuels Vibrants</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-wake-up-calls-our-pick-of-7-premium-alarm-apps/"><u>Essential Wake-Up Calls: Our Pick of 7 Premium Alarm Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-cellular-dilemma-on-your-apple-watch-a-step-by-step-guide/"><u>Fixing the Cellular Dilemma on Your Apple Watch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-e-online-converter-de-video-wmv-para-avi-com-o-software-do-moviemaker-facil/"><u>Gratis E Online: Converter De Vídeo WMV Para AVI Com O Software Do MovieMaker - Fácil!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-simple-starts-proving-talent-with-tiktok-edits/"><u>In 2024, From Simple Starts Proving Talent with TikTok Edits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-online-converter-free-convert-dng-to-png-images-instantaneamente/"><u>Movavi Online: Converter Free - Convert DNG to PNG Images Instantaneamente!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-wtvmkv/"><u>Movaviで簡単! WTVから無料でMKVに変換する方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4-v-mp3-preobrazovanie-onlajn-besplatno-s-pomoshyu-servira-movavi-luchshie-rezultaty-dlya-polzovatelej-rossii/"><u>MP4 В MP3 Преобразование Онлайн Бесплатно С Помощью Сервира Movavi - Лучшие Результаты Для Пользователей России</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ower-of-hashtags-social-media-promotion-on-a-budget/"><u>The Power of Hashtags Social Media Promotion on a Budget</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-12-free-mac-image-editing-software-picks-exploring-the-best-choices/"><u>Top 12 Free Mac Image Editing Software Picks - Exploring the Best Choices</u></a></li>
 </ul></div>
 

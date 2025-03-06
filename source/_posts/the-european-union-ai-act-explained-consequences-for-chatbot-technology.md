@@ -1,7 +1,7 @@
 ---
 title: "The European Union AI Act Explained: Consequences for Chatbot Technology"
-date: 2025-02-14T23:01:31.531Z
-updated: 2025-02-18T02:29:59.221Z
+date: 2025-03-01T19:12:59.681Z
+updated: 2025-03-06T20:09:10.586Z
 tags:
   - chatgpt
   - open-ai
@@ -38,27 +38,15 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 
  However, it's important to understand[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) so that you can use it efficiently. By having a better understanding of how it was created and trained and how it generates responses, you will be able to make the most of it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Hasn't ChatGPT Affected the Search Engines So Far?
 
  Despite ChatGPT's immense popularity, it's still not ready to significantly impact the search engine industry for several reasons. Here are a few of them:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. ChatGPT Is Trained on a Limited Set of Data
 
  ChatGPT has been trained on the information that was available until the end of 2021\. When asking the chatbot about anything that happened in 2022 and later, it apologizes for not having that information.
 
 ![ChatGPT Apologizing For Not Having any Information About Events Happened in 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-apologizing-for-not-having-information-about-events-happened-in-2022.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Therefore, processing real-time information is the first significant hurdle ChatGPT needs to overcome to compete directly with search engines.
 
@@ -75,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
  In contrast, ChatGPT doesn't provide citations or references; it simply generates responses based on the raw data it is trained on.
 
 ![ChatGPT  Saying It Can't Add References](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-add-references.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can[sign up and start using ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) in just a few minutes. If you haven't tried it yet, take advantage of it to enhance your productivity. Although ChatGPT isn't ready to disrupt the search engine industry just yet, does it have the potential to do so in the future?
 
@@ -110,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 
 ![ChatGPT Saying It Can't Generate Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-generate-images.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Let ChatGPT Evolve
 
  It will take time before people trust ChatGPT as they do on search engine results; it will be fascinating to see how this technology evolves.
@@ -137,20 +117,20 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unraveling-the-value-of-stability-in-photoshop-shake-reduction/"><u>[New] 2024 Approved Unraveling the Value of Stability in Photoshop Shake Reduction</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-breaking-down-virtual-realitys-mechanics/"><u>[New] Breaking Down Virtual Reality's Mechanics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-showdown-determining-superiority-of-chatgpt-vs-huggingface-platforms/"><u>AI Showdown: Determining Superiority of ChatGPT Vs. HuggingFace Platforms</u></a></li>
-<li><a href="https://os-tips.techidaily.com/cross-device-photo-captioning-turn-images-into-written-words-effortlessly/"><u>Cross-Device Photo Captioning: Turn Images Into Written Words Effortlessly</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-itel-p40plus-device-sim-by-drfone-android/"><u>Easily Unlock Your Itel P40+ Device SIM</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-chatgpt-effective-methods-for-response-refinement/"><u>Enhancing ChatGPT: Effective Methods for Response Refinement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-gpt-for-emotional-support-and-connection/"><u>Harnessing GPT for Emotional Support and Connection</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-new-features-in-samsung-galaxy-tab-s6-explore-s-pen-and-dex-mode/"><u>In-Depth Analysis of the New Features in Samsung Galaxy Tab S6 - Explore S Pen & Dex Mode</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/iphone-15-pro-vs-iphone-15-pro-max-comprehensive-side-by-side-comparison/"><u>IPhone 15 Pro Vs. IPhone 15 Pro Max: Comprehensive Side-by-Side Comparison</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-a-guide-to-smarter-crypto-trading-tactics/"><u>Leveraging ChatGPT: A Guide to Smarter Crypto Trading Tactics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-new-languages-using-ai-discover-the-power-of-chatgpt-plus/"><u>Mastering New Languages Using AI: Discover the Power of ChatGPT Plus</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-ai-enabled-microsoft-bing-application-on-your-android-device/"><u>Mastering the AI-Enabled Microsoft Bing Application on Your Android Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-productivity-eight-innovative-ways-to-utilize-auto-gpt-technology/"><u>Maximizing Productivity: Eight Innovative Ways to Utilize Auto-GPT Technology</u></a></li>
-<li><a href="https://fox-info.techidaily.com/tips-and-tricks-to-help-you-use-lunapic-photo-editor-like-a-pro-for-2024/"><u>Tips and Tricks to Help You Use Lunapic Photo Editor Like A Pro for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-7-high-resolution-dslrs-for-engaging-video-blogs-for-2024/"><u>[New] Best 7 High-Resolution DSLRs for Engaging Video Blogs for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-simplifying-post-production-using-luts-in-after-effects/"><u>[New] Simplifying Post Production Using LUTs in After Effects</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-effortless-recording-of-netflix-a-step-by-step-guide/"><u>[Updated] 2024 Approved Effortless Recording of Netflix A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-boost-viewership-cost-effectively-with-subscriber-purchase-for-2024/"><u>[Updated] Boost Viewership Cost-Effectively with Subscriber Purchase for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/m4a-aiff/"><u>無障礙 M4A 到 AIFF 格式轉換器 - 馬華的自由服務</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-beginners-guide-to-spanish-numbers/"><u>A Beginner's Guide To Spanish Numbers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/challenging-chatgpts-knowledge-vault/"><u>Challenging ChatGPT's Knowledge Vault</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-wmv-files-to-mov-without-cost-explore-the-power-of-movavis-cloud-based-video-converters/"><u>Convert WMV Files to Mov Without Cost: Explore the Power of Movavi's Cloud-Based Video Converters</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/editing-excess-strategies-to-clean-up-oversized-tiktok-drafts-for-2024/"><u>Editing Excess Strategies to Clean Up Oversized TikTok Drafts for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/migracion-sin-costo-de-archivos-wav-a-flv-usando-la-plataforma-de-movavi-en-linea/"><u>Migración Sin Costo De Archivos WAV a FLV Usando La Plataforma De Movavi en Línea</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protect-your-digital-content-with-movavis-advanced-multimedia-software-solutions/"><u>Protect Your Digital Content with Movavi's Advanced Multimedia Software Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformer-des-fichiers-bmp-en-tiff-sans-frais-solutions-de-conversion-avec-movavi/"><u>Transformer Des Fichiers BMP en TIFF Sans Frais - Solutions De Conversion Avec Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/vob-3gp-movavi/"><u>VOBファイルから自由にダウンロード: 3GP形式への簡単変換 - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/midiogg-movavi/"><u>オンラインでフリーMIDI形式からOGGへの変換 - Movavi</u></a></li>
 </ul></div>
 

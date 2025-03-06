@@ -1,7 +1,7 @@
 ---
 title: The Inner Mechanics of AI Black Boxes Explained
-date: 2025-02-14T20:17:03.472Z
-updated: 2025-02-17T19:02:54.391Z
+date: 2025-02-27T18:58:34.002Z
+updated: 2025-03-06T20:01:04.892Z
 tags:
   - chatgpt
   - open-ai
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -61,10 +57,6 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -73,10 +65,6 @@ Close
 
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
 
  Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
@@ -84,10 +72,6 @@ Close
  When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the[Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0) , which is a custom AI art tool that will create your "cartridge."
 
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
 
@@ -110,10 +94,6 @@ Close
  The custom GPT Cookie Clicker is decidedly different. You're still building up a cookie empire in a similar style, but because ChatGPT doesn't run automated commands and cannot keep the numbers ticking over like the original game, it requires more input.
 
  Still, if you're into idle games and want to try something different, it could be worth a try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
 
@@ -144,20 +124,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-commanding-youtube-realm-through-strategic-creator-studio-utilization/"><u>[Updated] 2024 Approved Commanding YouTube Realm Through Strategic Creator Studio Utilization</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-distinguished-directory-top-ranked-websites-for-snatching-snapalert-melodies/"><u>[Updated] 2024 Approved Distinguished Directory Top-Ranked Websites for Snatching SnapAlert Melodies</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-gigglegridsguild-funnyframefactory/"><u>[Updated] GiggleGridsGuild FunnyFrameFactory</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-arcadia-elite-seamless-full-hd-multi-touch-desktops/"><u>2024 Approved Arcadia Elite Seamless, Full HD Multi-Touch Desktops</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-samsung-galaxy-s23-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Samsung Galaxy S23? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-home-efficiency-top-6-chatgpt-techniques-for-daily-task-management/"><u>Boosting Home Efficiency: Top 6 ChatGPT Techniques for Daily Task Management</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/challenges-with-chatgpts-legality-whats-new-in-the-google-news-landscape-and-how-to-ensure-peak-mobile-connectivity-while-traveling/"><u>Challenges with ChatGPT's Legality, What's New in the Google News Landscape, & How to Ensure Peak Mobile Connectivity While Traveling</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-on-leveraging-the-power-of-chatgpts-api/"><u>Comprehensive Guide on Leveraging the Power of ChatGPT's API</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-windows-11-isp-settings/"><u>Exploring Windows 11 ISP Settings</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-e13frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto E13FRP Lock</u></a></li>
-<li><a href="https://extra-information.techidaily.com/stepwise-instructions-enabling-or-disabling-youtubes-pip-mode/"><u>Stepwise Instructions Enabling or Disabling YouTube's PIP Mode</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-giants-in-big-data-natural-language-processing/"><u>Top 6 Giants in Big Data Natural Language Processing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-secret-ingredients-for-chatgpts-phenomenal-growth-spurt/"><u>Unveiling the Secret Ingredients for ChatGPT's Phenomenal Growth Spurt</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-is-the-significance-of-the-turing-test-in-ai-evolution-and-can-it-be-conquered-by-machines/"><u>What Is the Significance of the Turing Test in AI Evolution and Can It Be Conquered by Machines?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/windows-11-and-ghostrunner-overcoming-deadly-game-crashes-with-proven-methods/"><u>Windows 11 and Ghostrunner: Overcoming Deadly Game Crashes with Proven Methods</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-photo-wordsmithing-ios-and-androids-leading-caption-tools/"><u>[New] Photo Wordsmithing IOS and Android's Leading Caption Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simple-method-for-great-insta-posts/"><u>2024 Approved Simple Method for Great Insta Posts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-action-cameramans-essentials-a-shopping-guide/"><u>2024 Approved The Action Cameraman's Essentials A Shopping Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/au-wmvwmvmp4-movavi/"><u>免費線上AU WMV影片變WMV為MP4 - 使用Movavi解決方法指南</u></a></li>
+<li><a href="https://article-tips.techidaily.com/an-all-inclusive-examination-of-inshots-video-edits-for-2024/"><u>An All-Inclusive Examination of InShot's Video Edits for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comment-convertir-facilement-un-fichier-3gp-au-format-mov-gratuitement-a-laide-dun-service-en-ligne-easymovieconvertercom/"><u>Comment Convertir Facilement Un Fichier 3GP Au Format MOV Gratuitement À L'aide D'un Service en Ligne - EasyMovieConverter.com</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/decoding-apples-laptop-lineup-the-differences-between-macbook-air-and-macbook-pro/"><u>Decoding Apple's Laptop Lineup: The Differences Between MacBook Air and MacBook Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-auto-gpts-uniqueness-standing-out-from-chatgpts-tech/"><u>Exploring Auto-GPT’s Uniqueness - Standing Out From ChatGPT's Tech</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-does-one-trigger-a-blue-screen-discover-answers-with-yl-software-solutions/"><u>How Does One Trigger a Blue Screen? Discover Answers with YL Software Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/itunes-video-conversion-effortlessly-transform-m4v-files-into-universal-mp3-audio/"><u>ITunes Video Conversion: Effortlessly Transform M4V Files Into Universal MP3 Audio</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/la-solution-definitive-pour-gerer-des-fichiers-vob-top-5-lecteurs-compatibles-avec-windows-et-mac-explique/"><u>La Solution Définitive Pour Gérer Des Fichiers VOB : Top 5 Lecteurs Compatibles Avec Windows Et Mac, Expliqué!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726225926089-mp4gif-movavi/"><u>MP4至GIF無條件線上改造 - Movavi的即時編譯器</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-avi-en-wmv-vergelijkend-konverteren-vrije-dienst-expertise-movavi/"><u>Online AVI en WMV Vergelijkend Konverteren Vrije Dienst - Expertise Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trasforma-i-tuoi-file-audio-wav-gratuito-in-mp4-con-movavi-convertitore-on-line/"><u>Trasforma I Tuoi File Audio WAV Gratuito in MP4 Con Movavi - Convertitore On-Line</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trasforma-i-tuoi-file-mp3-in-formato-vob-gratuitamente-su-internet-movavi/"><u>Trasforma I Tuoi File MP3 in Formato VOB Gratuitamente Su Internet - Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/xbox-one-and-netflix-compatibility-fixed-watch-your-favorite-shows-without-hiccups/"><u>Xbox One and Netflix Compatibility Fixed - Watch Your Favorite Shows Without Hiccups</u></a></li>
 </ul></div>
 

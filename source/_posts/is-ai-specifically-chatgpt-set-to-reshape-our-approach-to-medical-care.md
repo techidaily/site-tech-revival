@@ -1,7 +1,7 @@
 ---
 title: Is AI, Specifically ChatGPT, Set to Reshape Our Approach to Medical Care?
-date: 2025-01-22T16:00:24.263Z
-updated: 2025-01-26T16:00:14.809Z
+date: 2025-02-27T18:23:26.603Z
+updated: 2025-03-06T19:27:58.918Z
 tags:
   - chatgpt
   - open-ai
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
 ![A Screenshot of the SlidesAI io Google Slides Add-on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/slides-ai-presentation-generator-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re looking for an AI presentation generator that works directly within Google Slides, then you can’t go wrong with SlidesAI.io. That's because SlidesAI.io is a Google Workspace add-on.
 
  There are already Workspace add-ons that let you[use ChatGPT on Google Sheets and Google Docs](https://www.makeuseof.com/how-use-chatgpt-google-sheets/) , and SlidesAI.io aims to do the same by letting you use AI to generate entire presentations in Google Slides.
@@ -76,19 +72,11 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
 ![A Screenshot of Presentations AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/presentations-ai-presentation-generator-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Presentations.AI is an online presentation generation service that uses AI to create presentations for business. To get started, all you have to do is select an AI template, and Presentations.AI will handle the rest.
 
  There are plenty of templates to choose from, and each can be customized. You can tell the AI what your business offers and what company you work for to get better results. From there, Presentations.AI handles the rest. From the template, the content of the slides, and everything in between, Presentations.AI will create your presentation for you.
 
  If there’s anything you don’t like about the slides, there are options to change the type or style of the slides, and you can add points and edit what Presentations.AI has created as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6.[ChatBA](https://www.chatba.com)
 
@@ -100,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
  ChatBA supports exporting in both PPTX and PDF file types, which is great if you already work in PowerPoint or are looking to present directly and want a PDF that you can easily share or present from.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7.[MagicSlides](https://www.magicslides.app)
 
 ![A Screenshot of MagicSlides AI Presentation Generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/magicslides-ai-presentation-generator-screenshot.jpg)
@@ -113,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
  You can also choose to include images, which the AI will choose from Pexels. These images are entirely free-to-use, and match the content of the slide decently enough. The presentations produced with MagicSlides are pretty good. The content is organized by dot points and feels natural.
 
  The looks, however, leave a little to be desired. There are options to adjust the theme when the presentation is generated, but they're not super easy to use. You can always use the theme features that are already present in Google Slides to fix this, however.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make a Presentation Like Never Before
 
@@ -137,18 +117,19 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-charting-the-differences-in-youtubes-ownership-and-cc-models/"><u>[New] 2024 Approved Charting the Differences in YouTube's Ownership and CC Models</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-diy-remote-podcast-production-tips-for-2024/"><u>[New] DIY Remote Podcast Production Tips for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-best-extensions-to-capture-firefox/"><u>[New] In 2024, Best Extensions to Capture Firefox</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-transform-your-social-media-impact-through-effective-live-broadcasts-for-2024/"><u>[Updated] Transform Your Social Media Impact Through Effective Live Broadcasts for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-v29e-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721266394720-leading-ios-devices-data-destruction-tools-best-picks/"><u>Leading iOS Devices Data Destruction Tools – Best Picks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-gpt-3-features-a-step-by-step-guide-on-openais-sandbox-environment/"><u>Leveraging GPT-3 Features: A Step-by-Step Guide on OpenAI's Sandbox Environment</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-the-art-of-unique-ai-images-with-microsoft-copilot-tips-and-tricks-inside/"><u>Master the Art of Unique AI Images with Microsoft Copilot - Tips and Tricks Inside</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-use-of-nvidias-advanced-rtx-ai-chatbot-for-personal-computers/"><u>Mastering the Use of Nvidia’s Advanced RTX AI Chatbot for Personal Computers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-chatgpt-accessibility-five-methods-beyond-openai-registration/"><u>Navigating ChatGPT Accessibility: Five Methods Beyond OpenAI Registration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-chatgpts-legal-issues-updated-guidelines-and-optimal-ways-for-securing-top-notch-mobile-connectivity-while-traveling/"><u>Navigating ChatGPT's Legal Issues: Updated Guidelines & Optimal Ways for Securing Top-Notch Mobile Connectivity While Traveling</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/step-into-a-world-of-magic-expert-led-guide-to-snapchat-edits/"><u>Step Into a World of Magic Expert-Led Guide to Snapchat Edits</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-hats-review-best-action-cameras-on-two-wheels/"><u>[Updated] Exclusive Hats Review Best Action Cameras on Two Wheels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-windows-defender-for-additional-security-software/"><u>Circumventing Windows Defender for Additional Security Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-leading-5-chatbot-ai-therapists-and-mobile-solutions-tackling-psychological-issues/"><u>Discover the Leading 5 Chatbot AI Therapists and Mobile Solutions Tackling Psychological Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-secure-connections-on-firefox-platforms/"><u>Expert Tips for Restoring Secure Connections on Firefox Platforms</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/free-guide-transferring-your-dvd-content-into-imovie-a-step-by-step-process/"><u>Free Guide: Transferring Your DVD Content Into iMovie - A Step-by-Step Process</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-effective-is-chatgpt-as-a-writing-error-detector-and-corrector-tool/"><u>How Effective Is ChatGPT as a Writing Error Detector and Corrector Tool?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/implications-of-continuous-data-flow-to-chatgpt-a-guide-to-its-effect-on-individuals/"><u>Implications of Continuous Data Flow to ChatGPT: A Guide to Its Effect on Individuals</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastering-mac-recording-settings-for-snapchat-use/"><u>In 2024, Mastering Mac Recording Settings for Snapchat Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-emoji-finance-tips-exploring-the-aftermath-of-the-activision-hack-and-ais-role-in-job-market-evolution/"><u>Innovative Emoji Finance Tips, Exploring the Aftermath of the Activision Hack and AI's Role in Job Market Evolution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/integrating-chatgpt-into-diverse-language-settings/"><u>Integrating ChatGPT Into Diverse Language Settings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-gpt-4-by-openai-an-advanced-breakthrough-in-artificial-intelligence/"><u>Introducing GPT-4 by OpenAI – An Advanced Breakthrough in Artificial Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-art-of-cookery-with-chatgpt-explore-7-essential-tips/"><u>Master the Art of Cookery with ChatGPT: Explore 7 Essential Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/unpacking-nitros-advantages/"><u>Unpacking Nitro's Advantages</u></a></li>
 </ul></div>
 

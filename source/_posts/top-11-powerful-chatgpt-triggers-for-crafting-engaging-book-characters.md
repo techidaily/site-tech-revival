@@ -1,7 +1,7 @@
 ---
 title: Top 11 Powerful ChatGPT Triggers for Crafting Engaging Book Characters
-date: 2025-01-19T02:12:58.979Z
-updated: 2025-01-25T20:50:31.832Z
+date: 2025-03-03T16:08:26.943Z
+updated: 2025-03-06T17:29:00.311Z
 tags:
   - chatgpt
   - open-ai
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
 ![Sona is an AI book recommendation engine by the makers of Read This Twice that makes AI prompt results easy to read](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-read-this-twice-sona.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Author Screenshot by Mihir Patkar - No attribution required
 
  Sona is a "book-loving AI assistant" from one of our[favorite new book recommendation sites](https://www.makeuseof.com/new-book-recommendation-apps-sites/) , Read This Twice. Read This Twice collects which titles celebrities and influential personalities have said everyone should read, with rankings for the most commonly recommended reads.
@@ -51,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 ## 3.[Next Three Books](https://www.nextthreebooks.com/) (Web): Filter Book Recommendations by Type, Genre, Length, Style
 
 ![Next Three Books suggests three titles from a ChatGPT prompt, and lets you filter results by genre, writing style, length, and type of book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-next-three-books.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -71,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
  Once it analyzes your input, the results are three simple cards that include the book title, author's name, and a two-line description. If the book was recommended by someone famous or another author, Next Three Books will add that context to the card.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4.[Readow](https://readow.ai/) (Web): AI Book Recommendations Based on Your Likes
 
 ![Readow uses AI to recommend books based on what you've liked in the past](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-readow.jpg)
@@ -90,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 ## 5.[BooksAI](https://booksai.app/) (Android, iOS): Got Recommendations? Read Spoiler-Free AI Summaries
 
 ![Search for a book or look through celebrity recommendations to generate a summary of any book with BooksAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -115,10 +99,6 @@ Close
 
 **Download:** BooksAI for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030240/https://play.google.com/store/apps/details?id=com.books.ai.books%5Fai) |[iOS](https://apps.apple.com/us/app/booksai-ai-book-summaries/id6450773082) (Free)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Give Serendipity a Chance
 
  These AI-powered book recommendation engines can be astonishingly good at figuring out what you would like. But some might feel that this robs us of the experience of walking into a bookstore, picking up a random novel, and discovering an interesting read. Just so you know, you can give that serendipity a chance online too.
@@ -138,18 +118,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-drone-enthusiasts-compendium-of-must-haves/"><u>[New] 2024 Approved The Drone Enthusiast's Compendium of Must-Haves</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-top-10-youtube-video-editing-tips-for-beginner-editors/"><u>[Updated] 2024 Approved Top 10 YouTube Video Editing Tips for Beginner Editors</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-analyzing-the-boons-and-banes-of-vr-headsets-for-2024/"><u>[Updated] Analyzing the Boons & Banes of VR Headsets for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-melody-to-video-quick-sound-import-tricks/"><u>[Updated] Melody to Video Quick Sound Import Tricks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-and-exploit-how-to-use-openais-api-capabilities/"><u>Explore & Exploit: How to Use OpenAI's API Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-gptzero-your-guide-to-spotting-artificially-crafted-text-online/"><u>Exploring GPTZero: Your Guide to Spotting Artificially Crafted Text Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-non-flexible-modifications-of-gpt/"><u>Exploring Non-Flexible Modifications of GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-features-of-claude-2-understanding-its-capabilities/"><u>Exploring the Features of Claude 2: Understanding Its Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-usability-of-chatgpt-in-proofreading-tasks-a-detailed-insight/"><u>Exploring the Usability of ChatGPT in Proofreading Tasks: A Detailed Insight</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fitness-blueprint-structuring-goals-with-gpt-expertise/"><u>Fitness Blueprint: Structuring Goals with GPT Expertise</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-maximizing-iphone-hdr-quality-with-post-production-tricks-in-premiere-pro/"><u>In 2024, Maximizing iPhone HDR Quality with Post-Production Tricks in Premiere Pro</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-troubling-reality-artificial-intelligence-cant-always-detect-copyright-issues/"><u>The Troubling Reality: Artificial Intelligence Can't Always Detect Copyright Issues</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-scrutinizing-software-for-video-editing-the-bandicam-camtasia-comparison/"><u>[New] In 2024, Scrutinizing Software for Video Editing The Bandicam-Camtasia Comparison</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-understanding-facebooks-policy-on-media-content-sharing-for-2024/"><u>[New] Understanding Facebook's Policy on Media Content Sharing for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-exploring-mobile-youtube-usage-on-different-oses-for-2024/"><u>[Updated] Exploring Mobile YouTube Usage on Different OSes for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unlock-creative-potential-smart-b-roll-incorporation-for-2024/"><u>[Updated] Unlock Creative Potential Smart B Roll Incorporation for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/35plus-smiles-with-photo-alterations-ios-android-compatible/"><u>35+ Smiles with Photo Alterations IOS, Android Compatible</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-stunning-ai-graphics-the-ultimate-guide-to-using-dall-e-in-tandem-with-chatgpt-4/"><u>Crafting Stunning AI Graphics: The Ultimate Guide to Using DALL-E in Tandem with ChatGPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creative-world-building-with-chatgpt-a-step-by-step-guide/"><u>Creative World Building with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-ultimate-list-of-top-5-complimentary-iphone-backup-retrieval-software-options/"><u>Discover the Ultimate List of Top 5 Complimentary iPhone Backup Retrieval Software Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-11-powerful-gpt-strategies-for-authenticity-in-fiction/"><u>Discovering 11 Powerful GPT Strategies for Authenticity in Fiction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-ai-communication-discover-7-powerful-techniques-for-chatgpt-queries/"><u>Elevate Your AI Communication: Discover 7 Powerful Techniques for ChatGPT Queries</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/empower-your-excel-skills-unlocking-the-potential-of-chatgpt-for-effortless-spreadsheets/"><u>Empower Your Excel Skills: Unlocking the Potential of ChatGPT for Effortless Spreadsheets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-ai-skills-the-quintessential-5-tactics-for-chatgpt-personalized-prompts/"><u>Enhance Your AI Skills: The Quintessential 5 Tactics for ChatGPT Personalized Prompts</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-add-and-custom-slack-emoji-wondershare-filmora/"><u>How to Add and Custom Slack Emoji-Wondershare Filmora</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-insiders-srt-primer-must-know-elements/"><u>In 2024, The Insider's SRT Primer Must-Know Elements</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-step-by-step-tutorial-on-how-to-extract-movies-from-dvds-with-handbrake-on-pc-and-mac-2021-update/"><u>Ultimate Step-by-Step Tutorial on How to Extract Movies From DVDs with Handbrake on PC & Mac - 2021 Update!</u></a></li>
 </ul></div>
 

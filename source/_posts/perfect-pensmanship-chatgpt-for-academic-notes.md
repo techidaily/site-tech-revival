@@ -1,7 +1,7 @@
 ---
 title: "Perfect Pensmanship: ChatGPT for Academic Notes"
-date: 2025-01-15T00:36:45.699Z
-updated: 2025-01-20T03:19:56.944Z
+date: 2025-03-01T17:51:46.351Z
+updated: 2025-03-06T18:14:02.390Z
 tags:
   - chatgpt
   - open-ai
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -68,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
  As you use AI prompting more frequently, you'll get a better idea of what does and doesn't work for you. You'll also learn which prompts are useful and which ones confuse the tool that you're using. Once you've become more familiar with AI, make sure that you clearly outline what hasn't worked before.
@@ -79,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
  This tip is especially important if you want to use AI tools like DALL-E 3 to generate images. I've often noticed that first drafts sometimes don't yield what I'm looking for, and there could also be problems like defects for items like flags.
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Don't Make Your AI Multitask
 
@@ -114,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
  Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .
@@ -125,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
  If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
@@ -147,22 +127,22 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-bridging-iphone-and-tiktok-mastering-siri-voice-commands/"><u>[Updated] Bridging iPhone and TikTok Mastering Siri Voice Commands</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-perfect-idea-sparkle-top-youtube-videos-to-energize-your-channel/"><u>[Updated] The Perfect Idea Sparkle Top YouTube Videos to Energize Your Channel</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-top-25-anime-visionaries-on-tiktok-changing-content-norms-for-2024/"><u>[Updated] Top 25 Anime Visionaries on TikTok Changing Content Norms for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/6-predictable-gpt-automobile-setup-snags-and-solutions/"><u>6 Predictable GPT Automobile Setup Snags & Solutions</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advancements-in-digital-health-through-innovations-like-chatgpt-transforming-patient-experience/"><u>Advancements in Digital Health Through Innovations Like ChatGPT: Transforming Patient Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722056168428-anticipating-the-release-of-chatgpt-desktop-version-discover-a-fantastic-free-ai-alternative/"><u>Anticipating the Release of ChatGPT Desktop Version? Discover a Fantastic Free AI Alternative</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avoiding-imitation-ai-uncovering-bogus-chatgpt-applications-on-ios-platforms/"><u>Avoiding Imitation AI: Uncovering Bogus ChatGPT Applications on iOS Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-practices-for-employing-chatgpt-effectively-and-securely-in-psychological-counseling/"><u>Best Practices for Employing ChatGPT Effectively and Securely in Psychological Counseling</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/breaking-barriers-in-ai-responsiveness-openai-empowers-chatgpt-to-verbalize-prompts-and-commands/"><u>Breaking Barriers in AI Responsiveness: OpenAI Empowers ChatGPT to Verbalize Prompts and Commands</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-chatgpt-challenge-the-dominance-of-traditional-search-engines/"><u>Can ChatGPT Challenge the Dominance of Traditional Search Engines?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722198648124-enhanced-accuracy-in-every-click-bings-ai-driven-search-on-devices/"><u>Enhanced Accuracy in Every Click: Bing’s AI-Driven Search on Devices.</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-gionee-f3-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Gionee F3 Pro Face Lock?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341676801-is-the-asus-rog-keris-ii-ace-a-worthy-successor-to-the-legendary-ragedeathadder-v3-pro-full-review-inside/"><u>Is the Asus ROG Keris II Ace a Worthy Successor to the Legendary RageDeathAdder V3 Pro? Full Review Inside!</u></a></li>
-<li><a href="https://win-online.techidaily.com/keine-mehr-warum-ihr-iphone-keine-benachrichtigungen-mehr-anzeigt/"><u>Keine Mehr: Warum Ihr iPhone Keine Benachrichtigungen Mehr Anzeigt</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-invalid-reparse-buffer-tag-error-with-onedrive/"><u>Mitigating Invalid Reparse Buffer Tag Error with OneDrive</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-complete-instagram-vlog-flip-handbook-for-2024/"><u>The Complete Instagram Vlog-Flip Handbook for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-hush-harmony-techniques-for-taming-unwanted-voices-on-gchat/"><u>[New] Hush Harmony Techniques for Taming Unwanted Voices on GChat</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-navigating-the-world-of-instagram-reel-downloads-for-2024/"><u>[New] Navigating the World of Instagram Reel Downloads for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-minecraft-no-sound-on-pc/"><u>[SOLVED] Minecraft No Sound on PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/10-new-age-conversational-apps-outshining-gpt/"><u>10 New Age Conversational Apps Outshining GPT</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-experts-guide-to-laptop-screenrecord-software/"><u>2024 Approved Expert's Guide to Laptop ScreenRecord Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-zero-cost-maximum-impact-mastering-your-characters-voice-in-free-fire-gameplay/"><u>2024 Approved Zero Cost, Maximum Impact Mastering Your Character's Voice in Free Fire Gameplay</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beating-the-overloaded-message-chatgpt-capacity-errors-on-windows-explained/"><u>Beating the Overloaded Message: ChatGPT Capacity Errors on Windows Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bings-smart-conversational-assistant-on-android-phones-how-to-get-started/"><u>Bing's Smart Conversational Assistant on Android Phones: How To Get Started</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-intelligence-in-question-openai-confirms-stability-and-improvement/"><u>ChatGPT Intelligence in Question – OpenAI Confirms Stability and Improvement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/create-stunning-images-with-dall-e-t-how-to-leverage-it-for-free-on-bing/"><u>Create Stunning Images with DALL-E T: How to Leverage It for Free on Bing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722191579859-get-started-with-openais-new-gpt-personalized-store-begin-using-immediately/"><u>Get Started with OpenAI's New GPT Personalized Store – Begin Using Immediately!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/googles-new-foldable-pixel-expectations-for-potential-adjustments-to-camera-specifications/"><u>Google's New Foldable Pixel: Expectations for Potential Adjustments to Camera Specifications</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-10-best-inspirational-movies-that-will-bring-you-hope-and-power/"><u>In 2024, 10 Best Inspirational Movies That Will Bring You Hope and Power</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-physical-training-through-gpt-interaction/"><u>Transforming Physical Training Through GPT Interaction</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-organizing-a-home-karaoke-party-successfully/"><u>Ultimate Guide to Organizing a Home Karaoke Party Successfully</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-5-main-motivations-for-companies-to-ban-chatgpt-access/"><u>Unveiling 5 Main Motivations for Companies to Ban ChatGPT Access</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/892514-9781583945971-way-of-the-ancient-healer/"><u>Way of the Ancient Healer | Free Book</u></a></li>
 </ul></div>
 

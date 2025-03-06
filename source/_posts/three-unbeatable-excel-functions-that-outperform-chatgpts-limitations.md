@@ -1,7 +1,7 @@
 ---
 title: Three Unbeatable Excel Functions That Outperform ChatGPT's Limitations
-date: 2025-02-16T16:01:48.986Z
-updated: 2025-02-17T23:14:01.170Z
+date: 2025-03-04T18:28:30.609Z
+updated: 2025-03-06T17:05:55.377Z
 tags:
   - chatgpt
   - open-ai
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
  NVIDIA AI Foundations is available in three models: NeMo, Picasso, and BioNeMo.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### NVIDIA NeMo
 
 ![NVIDIA NEMO illustration ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-nemo.jpg)
@@ -54,35 +50,19 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [NVIDIA Picasso](https://www.nvidia.com/en-us/gpu-cloud/picasso/) is a generative AI model that works similarly to[OpenAI's DALL-E image creator](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) . However, NVIDIA Picasso is not limited to images only since it can also turn text into video or 3D content.
 
  In addition, NVIDIA Picasso is made for software creators, service providers, and businesses intending to train AI models using copyright or licensed data. Alternatively, using pre-trained models, you could add text prompts to create images, videos, and 3D content from scratch.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## NVIDIA BioNeMo
 
 ![nvidia-bionemo-cloud-services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-bionemo-cloud-services.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-unveils-large-language-models-and-generative-ai-services-to-advance-life-sciences-r-d)
 
 [NVIDIA's BioNeMo](https://nvidianews.nvidia.com/news/nvidia-unveils-large-language-models-and-generative-ai-services-to-advance-life-sciences-r-d) is a pre-trained AI model for biology, chemistry, genomics, and molecular dynamics research. To put into perspective, NVIDIA's BioNemo will speed up the process of drug development—a process that used to take years could be shortened to a few weeks.
 
  Beyond that, pharmaceutical scientists can choose from six different AI models of BioNemo depending on their scope of research. This could revolutionize[the future of the healthcare industry](https://www.makeuseof.com/ai-will-power-future-healthcare/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Who Can Use NVIDIA AI Foundations?
 
@@ -115,18 +95,24 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-expert-advice-on-leveraging-youtubes-video-editor-for-2024/"><u>[Updated] Expert Advice on Leveraging YouTube's Video Editor for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-takes-2022-skating-spectaculars/"><u>[Updated] Top Takes - 2022 Skating Spectaculars</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mastering-live-game-capture-on-xbox-one/"><u>2024 Approved Mastering Live Game Capture on Xbox One</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/breaking-down-openais-shared-link-structure-for-gpt-3/"><u>Breaking Down OpenAI's Shared Link Structure for GPT-3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-versus-magazines-which-provides-the-most-reliable-future-predictions/"><u>ChatGPT Versus Magazines: Which Provides the Most Reliable Future Predictions?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-poco-x5-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Poco X5 Android SIM Unlock APK</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-the-versatile-and-powerful-samsung-gear-s3-frontier-watch/"><u>In-Depth Look at the Versatile and Powerful Samsung Gear S3 Frontier Watch</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-ai-chatbot-restrictions-understanding-its-consequences-on-everyday-communication/"><u>Navigating Through AI Chatbot Restrictions: Understanding Its Consequences on Everyday Communication</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/no-cost-media-transformer-convert-audio-from-mp3aac-and-use-opus-format-moveave/"><u>No Cost Media Transformer: Convert Audio From Mp3/Aac and Use Opus Format - Moveave</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/set-up-an-inexpensive-ai-model-for-windows-users/"><u>Set Up an Inexpensive AI Model for Windows Users</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-final-chapter-of-your-youtube-content-creation-for-2024/"><u>The Final Chapter of Your YouTube Content Creation for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-smooth-functionality-solve-iphones-chatgpt-problem-with-these-9-handy-tips/"><u>Unlock Smooth Functionality: Solve iPhone's ChatGPT Problem with These 9 Handy Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-full-analysis-of-t5-eyes-exceptional-action-recording/"><u>[New] In 2024, Full Analysis of T5 Eye's Exceptional Action Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-no-root-audio-recording-on-android-devices-tutorial/"><u>[Updated] 2024 Approved No-Root Audio Recording on Android Devices [Tutorial]</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-understanding-adobe-storage-alternatives-explained/"><u>[Updated] In 2024, Understanding Adobe Storage, Alternatives Explained</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-elite-yoga-routines-youtubes-leading-fitness-sites/"><u>2024 Approved Elite Yoga Routines YouTube's Leading Fitness Sites</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/audiovisual-conjuring-apples-artistic-blend-for-2024/"><u>Audiovisual Conjuring Apple's Artistic Blend for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-current-meta-vr-bargain-unbeatable-price-on-the-512gb-quest-3-insider-tips-from-zdnet/"><u>Best Current Meta VR Bargain: Unbeatable Price on the 512GB Quest 3 - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-de-fichiers-flv-a-wmv-sur-internet-gratuite-guide-complet-pour-usagers-avec-movavi/"><u>Conversion De Fichiers FLV À WMV Sur Internet Gratuite - Guide Complet Pour Usagers Avec Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertir-videos-al-rendimiento-mp4-las-tacticas-mas-solidas-en-mac-guia-completa/"><u>Convertir Videos Al Rendimiento MP4: Las Tácticas Más Sólidas en Mac [Guía Completa]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-m4v-files-essential-tips-for-easily-opening-and-using-this-popular-video-format/"><u>Exploring M4V Files - Essential Tips for Easily Opening and Using This Popular Video Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuidade-converter-dts-para-flac-online-sem-custo-com-movavi/"><u>Gratuidade - Converter DTS Para FLAC Online Sem Custo Com Movavi</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-elevate-your-meetings-with-zooms-filter-capabilities/"><u>In 2024, Elevate Your Meetings with Zoom's Filter Capabilities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-hardware-in-depth-reviews-by-tom/"><u>Mastering Modern Hardware: In-Depth Reviews by Tom</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-incompatibility-how-to-install-needed-drivers-for-your-hardware-in-windows-xpvista7/"><u>Resolving Incompatibility: How to Install Needed Drivers for Your Hardware in Windows XP/Vista/7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/storyboards-explicados-uma-guia-pratica-para-desenhar-seu-primeiro-rascunho-passo-a-passo-com-7-dicas-essenciais/"><u>Storyboards Explicados: Uma Guia Prática Para Desenhar Seu Primeiro Rascunho - Passo a Passo Com 7 Dicas Essenciais</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tecnicas-avanzadas-para-implementar-una-pantalla-verde-dinamica-en-su-videografia-personalizada-guia-diy-para-el-ano-2024/"><u>Técnicas Avanzadas Para Implementar Una Pantalla Verde Dinámica en Su Videografía Personalizada: Guía DIY Para El Año 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-micromobility-important-dates-industry-updates-buzzworthy-rumors-and-crucial-facts/"><u>The Ultimate Guide to Micromobility: Important Dates, Industry Updates, Buzzworthy Rumors, and Crucial Facts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-tutorial-for-adding-videos-to-your-ipad-with-the-powerful-movavi-converter-software/"><u>The Ultimate Tutorial for Adding Videos to Your iPad with the Powerful Movavi Converter Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tutorial-de-conversion-gratuit-convertissez-votre-fichier-w64-en-format-wav-facilement-sur-internet/"><u>Tutorial De Conversion Gratuit: Convertissez Votre Fichier W64 en Format WAV Facilement Sur Internet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wma-mov-movavi/"><u>이웃에서 WMA 파일을 MOV로 전환하는 공식 무료 해상 도구: Movavi 소개</u></a></li>
 </ul></div>
 

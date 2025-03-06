@@ -1,7 +1,7 @@
 ---
 title: "Art of AI Interaction: Top Tutorials for Commanders"
-date: 2025-02-16T23:15:41.012Z
-updated: 2025-02-17T19:19:35.758Z
+date: 2025-03-05T19:47:31.808Z
+updated: 2025-03-06T16:16:59.758Z
 tags:
   - chatgpt
   - open-ai
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/3bd086f6ddbea0000b61dea6630a396d485fdb4d6
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Potential Risks of Generative AI to Spread Disinformation
 
@@ -46,10 +42,6 @@ False news can be categorized into three types:
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -59,10 +51,6 @@ False news can be categorized into three types:
 Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
@@ -76,10 +64,6 @@ Here's the fictitious article that ChatGPT came up with:
 * **Targeted personalization** : Chatbots have access to vast amounts of data that they can gather to create personalized profiles. This enables them to customize content based on your preferences. Through targeted personalization, AI can persuade individuals or further strengthen their opinions.
 
  These examples all illustrate how chatbots can be utilized to mislead people.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
 
@@ -108,10 +92,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
@@ -133,24 +113,22 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-5-inspirational-winter-bgs-to-heat-your-videos-for-2024/"><u>[New] 5 Inspirational Winter Bgs to Heat Your Videos for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-drone-racers-manual-fundamentals-to-high-scores-and-best-drones/"><u>2024 Approved Drone Racer's Manual Fundamentals to High Scores and Best Drones</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-monitor-magic-asuss-mg28uq-review-reveals-a-new-vision-era/"><u>2024 Approved Monitor Magic – ASUS's MG28UQ Review Reveals a New Vision Era</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-on-mobile-devices-a-step-by-step-guide/"><u>ChatGPT on Mobile Devices: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-htc-u23-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For HTC U23 Pro</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/eliminacion-efectiva-de-texto-sincronizado-en-archivos-mp4-mkv-y-avi/"><u>Eliminación Efectiva De Texto Sincronizado en Archivos MP4, MKV Y AVI</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-printer-blackout-blank-sheets-every-time/"><u>Epson Printer Blackout: Blank Sheets Every Time</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-what-claude-3-offers-and-how-to-use-it/"><u>Explore What Claude 3 Offers and How to Use It</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generative-bot-face-off-deciding-ai-conversation-leader/"><u>Generative Bot Face-Off - Deciding AI Conversation Leader</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/googles-ai-gemini-exposed-scope-functions-and-progress/"><u>Google's AI Gemini Exposed: Scope, Functions & Progress</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-use-of-chatgpt-for-google-apps/"><u>Innovative Use of ChatGPT for Google Apps</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-10-popular-cartoon-characters-that-should-top-your-list-2023-updated/"><u>New 2024 Approved 10 Popular Cartoon Characters That Should Top Your List 2023 Updated</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-your-lag-advanced-fps-optimization-tricks-for-war-thunder-players-on/"><u>Resolve Your Lag: Advanced FPS Optimization Tricks for War Thunder Players On</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/simple-guide-step-by-step-process-for-auto-backing-up-your-computer-data/"><u>Simple Guide: Step-by-Step Process for Auto-Backing Up Your Computer Data</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamlining-video-conferencing-on-chrome-os-for-2024/"><u>Streamlining Video Conferencing on Chrome OS for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-power-of-claude-3-discover-its-potential-and-applications/"><u>The Power of CLAUDE 3 - Discover Its Potential and Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-role-of-chatgpt-in-facilitating-malware-design-a-possibility-or-myth/"><u>The Role of ChatGPT in Facilitating Malware Design: A Possibility or Myth?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-superior-alternative-five-reasons-to-use-claude-3-instead-of-chatgpt/"><u>The Superior Alternative: Five Reasons to Use Claude 3 Instead of ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-gpts-potential-vulnerabilities/"><u>Understanding GPT's Potential Vulnerabilities</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-thriving-in-the-digital-space-crafting-high-impact-fb-videos/"><u>[New] 2024 Approved Thriving in the Digital Space Crafting High-Impact FB Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-wavmp4/"><u>「完全無料！Movavi WAVファイルをMP4に簡単変換ツール」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/jpegjpg/"><u>免費ウェブ上でのJPEG/JPGファイル変換 - モバヴィ</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-based-chatter-replicating-real-life-discussions/"><u>AI-Based Chatter: Replicating Real-Life Discussions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/change-your-vob-audiovideo-files-into-wav-quickly-and-easily-without-cost-moveavis-service/"><u>Change Your VOB Audio/Video Files Into WAV Quickly and Easily, Without Cost - Moveavi's Service.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/changer-de-type-de-fichiers-de-ogg-a-aac-gratuitement-sur-internet-grace-a-movavi/"><u>Changer De Type De Fichiers : De Ogg À Aac Gratuitement Sur Internet Grâce À Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-support-strategies-ethical-use-of-gpt/"><u>Digital Support Strategies: Ethical Use of GPT</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-wi-fi-driver-updates-and-downloads-for-windows-7-how-to/"><u>Effortless Wi-Fi Driver Updates & Downloads for Windows 7 - How To</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-converter-easily-transform-ppm-images-into-bmp-format-with-gdview/"><u>Free Online Converter: Easily Transform PPM Images Into BMP Format with GDView</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-building-a-brand-on-instagram-establishing-a-business-entity/"><u>In 2024, Building a Brand on Instagram Establishing a Business Entity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-vob-zu-flv-konvertieren-kostenlos-fur-windows-und-mac-os-professionelle-dvd-ripper-software/"><u>Movavi VOB Zu FLV Konvertieren Kostenlos Für Windows Und Mac OS: Professionelle DVD Ripper Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/success-guide-resolving-errors-during-minecraft-launcher-update-processes/"><u>Success Guide: Resolving Errors During Minecraft Launcher Update Processes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/pps-for-downloading-youtube-content/"><u>Top Apps for Downloading YouTube Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-dts-to-m4v-streaming-videos-at-no-cost-with-movavis-online-tool/"><u>Transform DTS to M4V Streaming Videos at No Cost with Movavi's Online Tool!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-to-the-linksys-max-stream-ac1900-router-ideal-solution-for-broadband-needs/"><u>Ultimate Guide to the Linksys Max-Stream AC1900 Router - Ideal Solution for Broadband Needs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-multimedia-creativity-with-movavi-unlimited-the-ultimate-guide-to-tutti-i-programmi/"><u>Unleashing Multimedia Creativity with Movavi Unlimited - The Ultimate Guide to Tutti I Programmi</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-15-pro-max-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 15 Pro Max? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

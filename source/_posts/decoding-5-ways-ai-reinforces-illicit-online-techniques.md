@@ -1,7 +1,7 @@
 ---
 title: Decoding 5 Ways AI Reinforces Illicit Online Techniques
-date: 2025-02-15T03:30:32.513Z
-updated: 2025-02-17T20:53:39.590Z
+date: 2025-02-28T17:31:11.826Z
+updated: 2025-03-06T16:08:26.474Z
 tags:
   - chatgpt
   - open-ai
@@ -76,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
 [Avoiding common mistakes when using AI prompting tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) isn't always easy, but one of the main issues you'll encounter is trying to make the tool multitask. AI programs will often generate your results within a few minutes, but they can only do one thing at a time. If you try to ask too many things in one go, you won't get the results you want.
@@ -87,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  Sometimes, you'll begin a prompt and realize you forgot to add further information. When this happens, stop or edit the current prompt and include those details before re-generating your answer.
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
@@ -102,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -114,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
  Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .
@@ -125,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
@@ -147,17 +127,17 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-prime-video-chat-solutions-for-pcs-and-phones-for-2024/"><u>[New] Prime Video Chat Solutions for PCs & Phones for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-gif-to-sticker-methodology-how-to-express-yourself-better-on-discord/"><u>[New] The GIF-to-Sticker Methodology How to Express Yourself Better on Discord</u></a></li>
-<li><a href="https://win-able.techidaily.com/address-frequent-starvation-errors-ensuring-seamless-gaming-experience-on-pc/"><u>Address Frequent Starvation Errors: Ensuring Seamless Gaming Experience on PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/android-and-ios-tips-for-optimal-chatgpt-use/"><u>Android & iOS Tips for Optimal ChatGPT Use</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-meditation-with-chatgpt-suggestions/"><u>Enhancing Meditation With ChatGPT Suggestions</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-70-lite-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 70 Lite 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-sony-xperia-1-v-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Sony Xperia 1 V to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-analyzing-the-precision-of-yis-4k-actioncam/"><u>In 2024, Analyzing the Precision of Yi's 4K ActionCam</u></a></li>
-<li><a href="https://article-posts.techidaily.com/seamless-strategy-integrating-linktree-into-your-tiktok-bio/"><u>Seamless Strategy Integrating Linktree Into Your TikTok Bio</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-new-wave-of-fbx-free-gaming-analysis-tools-for-2024/"><u>The New Wave of FBX-Free Gaming Analysis Tools for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-conversations-into-content-choices/"><u>Transforming Conversations Into Content Choices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/triad-tactics-for-chatgpts-coexistence-with-wolframalpha/"><u>Triad Tactics for ChatGPT's Coexistence with WolframAlpha</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-manual-to-earn-through-vimeos-revenue-channels-for-2024/"><u>[New] The Ultimate Manual to Earn Through Vimeo's Revenue Channels for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-viral-watches-amazon-primes-hot-series-in-twittersphere/"><u>[New] Viral Watches Amazon Prime's Hot Series in Twittersphere</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-visual-vibes-trending-snaps-with-bold-filters-and-lenses-for-2024/"><u>[Updated] Visual Vibes Trending Snaps with Bold Filters & Lenses for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-bluetooth-sound-lags-simple-tips-and-tricks-to-enhance-your-listening-experience/"><u>Beat Bluetooth Sound Lags: Simple Tips & Tricks to Enhance Your Listening Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-7-mac-apps-for-efficiently-converting-flac-files-to-mp3/"><u>Best 7 Mac Apps for Efficiently Converting FLAC Files to MP3</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-ev-endurance-can-electric-vehicles-match-the-durability-of-traditional-petrol-cars/"><u>Comparing EV Endurance: Can Electric Vehicles Match the Durability of Traditional Petrol Cars?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-pairing-your-desktop-with-bluetooth-audio-devices/"><u>Easy Steps for Pairing Your Desktop With Bluetooth Audio Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726225186102-movavi-trp-mp4/"><u>Movavi提供: TRP MP4ビデオを簡単にフリー変換する方法 – 無料オンラインツール集</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mov-mp4-aac/"><u>MOV을 MP4로 원활하게 전환: 무료 웹 서비스를 사용하여 AAC 프라이머에 대한 모바일화</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-17-screen-capture-tools-a-comprehensive-guide/"><u>Top 17 Screen Capture Tools - A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-help.techidaily.com/top-5-techniques-to-enhance-image-clarity/"><u>Top 5 Techniques to Enhance Image Clarity</u></a></li>
 </ul></div>
 

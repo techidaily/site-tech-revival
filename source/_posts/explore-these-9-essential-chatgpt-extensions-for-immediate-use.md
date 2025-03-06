@@ -1,7 +1,7 @@
 ---
 title: Explore These 9 Essential ChatGPT Extensions for Immediate Use
-date: 2025-01-21T16:00:04.473Z
-updated: 2025-01-26T16:00:08.859Z
+date: 2025-03-05T18:02:38.069Z
+updated: 2025-03-06T16:42:57.929Z
 tags:
   - chatgpt
   - open-ai
@@ -42,10 +42,6 @@ Type prompts such as:
 
 ![Screenshot ofChatGPT response to exercise prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-ofchatgpt-response-to-exercise-prompt.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The AI chatbot generates a series of solid workout plans that don’t sound too different from the advice you might get in some of those great[workout apps you’ll stick with for the long haul](https://www.makeuseof.com/best-workout-apps/) .
 
  Although general questions will yield general answers, you can always respond with further prompts. Remember, the more specific your question, the more tailored to your needs the answers are likely to be. It’s definitely worth learning[how to write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) to get the most out of your interaction with the tool.
@@ -78,19 +74,11 @@ Type prompts such as:
 
 ![Screenshot of ChatGPT response to forming good sleep habits prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-forming-good-sleep-habits-prompt.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Use ChatGPT for Mindfulness and Meditation
 
  If you like the idea of meditation but not the reality of joining a class or practicing in front of strangers, ChatGPT can prove a great tool for giving you mindfulness and meditation ideas. Depending on your needs, you could ask for techniques for meditation or even phrases to help you to be mindful. For example, the simple prompt, “Provide some ideas for a mindful moment,” gave me excellent practical advice, such as breathing, walking in nature, and mindful eating.
 
 ![Screenshot of ChatGPT response to meditation information prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-meditation-information-prompt.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Use ChatGPT for Journaling Prompts
 
@@ -99,10 +87,6 @@ Type prompts such as:
  I asked ChatGPT, “What are some prompts for gratitude journaling?” and received a series of ideas that anyone could use to get started with the practice of gratitude journaling, such as writing down three things I am grateful for today, something beautiful I have noticed in nature, or a moment of joy or laughter. It sounds simple, but there’s no need to complicate it any further. All you need is a starting point for reflection, and ChatGPT does a fine job.
 
 ![Screenshot of ChatGPT response to journaling prompt question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-journaling-prompt-question.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Use ChatGPT as a Medical Symptom Checker
 
@@ -123,14 +107,6 @@ Type prompts such as:
  Second, you can use ChatGPT to provide further information about your drugs, including storage, side effects, and possible contraindications. If any medical jargon on your prescription or the medication’s information is confusing, you can ask ChatGPT to explain it in simpler language.
 
 ![Screenshot of ChatGPT response to medication information request](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-medication-information-request.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Use ChatGPT for Mental Health Support
 
@@ -163,14 +139,18 @@ Type prompts such as:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-in-depth-look-at-high-quality-minecraft-recordings/"><u>[New] 2024 Approved In-Depth Look at High-Quality Minecraft Recordings</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-lowering-audio-amplitude-progressively-using-lumafusion/"><u>[Updated] 2024 Approved Lowering Audio Amplitude Progressively Using Lumafusion</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-assistants-showdown-snapchats-my-ai-against-chatgpt-making-the-right-choice-for-you/"><u>AI Assistants Showdown: Snapchat's My AI Against ChatGPT – Making the Right Choice for You</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-growth-paving-way-for-more-hacking-opportunities/"><u>AI Growth: Paving Way for More Hacking Opportunities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ais-promises-and-perils-exploring-the-top-8-shortcomings-in-chatgpt/"><u>AI's Promises and Perils: Exploring the Top 8 Shortcomings in ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-5-catalysts-for-cybercriminal-success/"><u>Artificial Intelligence: 5 Catalysts for Cybercriminal Success</u></a></li>
-<li><a href="https://win11.techidaily.com/biometric-management-for-windows-11-domain-based/"><u>Biometric Management for Windows 11, Domain-Based</u></a></li>
-<li><a href="https://techidaily.com/solved-microsoft-excel-2003-file-error-the-document-cannot-be-saved-stellar-by-stellar-guide/"><u>Solved Microsoft Excel 2003 File Error The document cannot be saved | Stellar</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unleash-the-power-of-online-livestreams-with-us-today/"><u>Unleash the Power of Online Livestreams with Us Today</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-auditory-ambiance-music-in-instagrams-visual-narratives/"><u>[New] 2024 Approved Auditory Ambiance Music in Instagram's Visual Narratives</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unleash-your-stories-gratis-facebook-enhancers-online-and-on-the-go/"><u>[New] Unleash Your Stories Gratis, Facebook Enhancers Online & On-The-Go</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-timeless-1980s-filters-and-techniques-in-editing/"><u>[Updated] Timeless 1980S Filters & Techniques in Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/building-your-own-personalized-chatgpt-a-step-by-step-guide/"><u>Building Your Own Personalized ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-ai-giants-chatgpt-vs-google-bard-who-wins-the-conversation/"><u>Comparing AI Giants: ChatGPT vs Google Bard – Who Wins the Conversation?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquer-web-design-complexities-using-gpts-fourfold-methodology/"><u>Conquer Web Design Complexities Using GPT’s Fourfold Methodology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/counterfeit-chatbot-tool-compromises-tiktok-login-data/"><u>Counterfeit Chatbot Tool Compromises TikTok Login Data</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creative-catalysts-da-vincis-triumph-in-image-generation-ai/"><u>Creative Catalysts: Da Vinci’s Triumph in Image Generation AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cross-language-communication-unlocking-chatgpts-multilingual-potential/"><u>Cross-Language Communication: Unlocking ChatGPT's Multilingual Potential</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-stuttering-sound-problems-in-windows-11-and-10-a-comprehensive-guide/"><u>Fixing Stuttering Sound Problems in Windows 11 and 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nubia PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://fox-that.techidaily.com/refresh-your-device-the-ultimate-process-of-factory-resetting-an-iphoneipad/"><u>Refresh Your Device: The Ultimate Process of Factory Resetting an iPhone/iPad</u></a></li>
+<li><a href="https://win-docs.techidaily.com/techniques-pour-recuperation-des-ecras-a-lecran-effacees-sous-windows-10-et-11/"><u>Techniques Pour Récupération Des Écras À L'Écran Effacées Sous Windows 10 Et 11</u></a></li>
 </ul></div>
 

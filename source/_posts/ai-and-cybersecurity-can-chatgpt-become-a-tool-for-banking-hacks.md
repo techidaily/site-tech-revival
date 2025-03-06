@@ -1,7 +1,7 @@
 ---
 title: "AI and Cybersecurity: Can ChatGPT Become a Tool for Banking Hacks?"
-date: 2025-02-02T06:28:02.004Z
-updated: 2025-02-08T09:13:01.618Z
+date: 2025-02-27T16:51:52.619Z
+updated: 2025-03-06T18:14:10.071Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -63,20 +59,24 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-seamless-transition-from-tv-to-facebook-lives/"><u>[New] 2024 Approved Seamless Transition From TV to Facebook Lives</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-easy-way-to-share-instagram-meets-facebook/"><u>[New] The Easy Way to Share Instagram Meets Facebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-full-potential-of-canon-cams-with-gratuitous-and-fee-based-luts/"><u>[New] Unlock Full Potential of Canon Cams with Gratuitous & Fee-Based LUTs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/co-pilot-expansion-in-chatgpt-understanding-its-contribution-to-ai/"><u>Co-Pilot Expansion in ChatGPT: Understanding Its Contribution to AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparative-analysis-how-does-mistral-ais-le-chat-stack-up-against-chatgpt/"><u>Comparative Analysis: How Does Mistral AI's Le Chat Stack Up Against ChatGPT?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparison-of-chatgpt-and-huggingfaces-huggingchat-determining-the-superior-conversational-ai/"><u>Comparison of ChatGPT and HuggingFace's HuggingChat: Determining the Superior Conversational AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dont-lose-it-keeping-gpt-conversations-safe/"><u>Don't Lose It: Keeping GPT Conversations Safe</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-infinix-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Infinix FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/innovative-scanner-selection-for-professional-and-personal-use/"><u>Innovative Scanner Selection for Professional & Personal Use</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-excel-in-no-time-with-chatgpt-insights/"><u>Master Excel in No Time With ChatGPT Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximize-your-time-on-facebook-with-these-5-strategies-for-improved-productivity/"><u>Maximize Your Time on Facebook with These 5 Strategies for Improved Productivity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/preventing-chatgpt-memory-lapse-incidents/"><u>Preventing ChatGPT Memory Lapse Incidents</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-fixing-silent-hp-notebooks-restore-your-laptops-audio/"><u>Solved: Fixing Silent HP Notebooks - Restore Your Laptop's Audio</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-innovation-which-ai-shines-in-handling-a-shared-creative-task/"><u>Unleashing Innovation: Which AI Shines in Handling a Shared Creative Task?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-strategies-for-amplifying-your-yt-viewership-quickly/"><u>[Updated] 2024 Approved Strategies for Amplifying Your YT Viewership Quickly</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-innovative-methods-for-effectful-tiktok-videos/"><u>[Updated] In 2024, Innovative Methods for Effectful TikTok Videos</u></a></li>
+<li><a href="https://win-great.techidaily.com/3-effective-methods-for-creating-a-full-system-backup-of-your-hp-lenovo-or-dell-laptop-on-windows/"><u>3 Effective Methods for Creating a Full System Backup of Your HP, Lenovo or Dell Laptop on Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-your-way-to-viral-best-vlog-video-editing-software-for-hot-platforms-for-2024/"><u>Edit Your Way to Viral Best Vlog Video Editing Software for Hot Platforms for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/embedding-external-multimedia-in-your-web-pages-using-flipbuilders-simple-steps/"><u>Embedding External Multimedia in Your Web Pages Using FlipBuilder's Simple Steps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-nubia-frp-by-drfone-android/"><u>Full Guide to Bypass Nubia FRP</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/hdr-evaluation-is-aurora-a-game-changer-for-2024/"><u>HDR Evaluation Is Aurora a Game-Changer for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-routine-how-chatgpt-can-elevate-your-lifestyle-choices/"><u>Revolutionize Your Routine: How ChatGPT Can Elevate Your Lifestyle Choices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguard-your-investments-exposing-the-truth-about-bingchatgpt-and-fraudulent-crypto-assets/"><u>Safeguard Your Investments: Exposing the Truth About BingChatGPT and Fraudulent Crypto Assets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sparkling-ai-chat-mastering-chatgpts-10-enhancements/"><u>Sparkling AI Chat: Mastering ChatGPT's 10 Enhancements</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/staying-online-uninterrupted-anywhere/"><u>Staying Online Uninterrupted, Anywhere</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/subtle-archiving-concealing-your-chatgpt-journey/"><u>Subtle Archiving: Concealing Your ChatGPT Journey</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-art-of-multiplying-creativity-canva-gpt-at-your-service/"><u>The Art of Multiplying Creativity: Canva, GPT at Your Service</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-evolution-of-portability-tracing-the-origins-and-development-of-laptops/"><u>The Evolution of Portability: Tracing the Origins and Development of Laptops</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-must-have-chatbot-plugins-for-your-cryptocurrency-projects/"><u>Top 8 Must-Have Chatbot Plugins for Your Cryptocurrency Projects</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-rectifying-missing-d3dx9amoled-dll-errors/"><u>Troubleshooting Steps for Rectifying Missing D3dx9_amoled DLL Errors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-audio-experience-selecting-the-top-mics/"><u>Ultimate Audio Experience Selecting the Top Mics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-unfiltered-ai-conversations-building-your-own-gpt-like-bot-on-windows-using-freedomgpt/"><u>Unleashing Unfiltered AI Conversations: Building Your Own GPT-Like Bot on Windows Using FreedomGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-advanced-ai-dialogues-in-chrome-here-are-7-must-haves/"><u>Unlock Advanced AI Dialogues in Chrome: Here Are 7 Must-Haves</u></a></li>
 </ul></div>
 

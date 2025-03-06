@@ -1,7 +1,7 @@
 ---
 title: Ensuring Safety When Using AI Like ChatGPT in Therapeutic Coaching
-date: 2025-02-10T23:23:53.669Z
-updated: 2025-02-17T18:32:41.833Z
+date: 2025-03-03T17:52:16.804Z
+updated: 2025-03-06T16:05:14.863Z
 tags:
   - chatgpt
   - open-ai
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. GPT-4 vs. GPT-3.5: Creativity
 
@@ -52,25 +48,13 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 ![Image of Shield Representing Cybersecurity ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/behavior-based-safety-tips-featured-image.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  While GPT-4 is not perfect, the measures it adopts to ensure safer responses are a welcomed upgrade from that of the GPT-3.5 model. With GPT-3.5, OpenAI took a more moderation-based approach to safety. In other words, some of the safety measures were more of an afterthought. OpenAI monitored what users did and the questions they asked, identified flaws, and tried to fix them on the go.
 
  With GPT-4, most safety measures are already baked into the system at the model level. To understand the difference, it's like building a house with robust materials from the get-go versus using anything that goes and then trying to patch things as faults emerge. According to[OpenAI's GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf) \[PDF\], GPT-4 produces toxic responses only 0.73% of the time compared to GPT-3.5's 6.48% of toxic replies.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
 
@@ -81,10 +65,6 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
 
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A less talked about difference between GPT-4 and GPT-3.5 is the context window and context size. A context window is how much data a model can retain in its "memory" during a chat session and for how long. GPT-4 has a significantly better context size and window than its predecessor model.
 
@@ -113,14 +93,18 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ace-virtual-imagery-ideal-google-meet-screens/"><u>[Updated] Ace Virtual Imagery Ideal Google Meet Screens</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-mighty-thor-returns-odins-vow-for-2024/"><u>[Updated] Mighty Thor Returns Odin’s Vow for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-rhythmcapture-toolkit-a-critical-walkthrough/"><u>2024 Approved RhythmCapture Toolkit A Critical Walkthrough</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advancing-your-project-with-ai-comprehensive-insights-into-utilizing-anthropics-claude-3-platform/"><u>Advancing Your Project with AI: Comprehensive Insights Into Utilizing Anthropic's Claude 3 Platform</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-steps-to-terminate-your-iphones-app-store-subscriptions-in-ios-15-tips/"><u>Easy Steps to Terminate Your iPhone's App Store Subscriptions in iOS 15 - Tips !</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/identifying-ai-generated-content-4-essential-chatgpt-detection-apps-for-academics-and-supervisors/"><u>Identifying AI-Generated Content: 4 Essential ChatGPT Detection Apps for Academics and Supervisors</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-realme-v30-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Realme V30 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tweet-without-smileys-linus-disclosed-techniques-trojan-inspection-and-chatbot-limitations/"><u>Tweet Without Smileys, Linus Disclosed Techniques, Trojan Inspection, & ChatBot Limitations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-artificial-intelligence-unveiling-the-mystery-of-ai-black-box-mechanisms/"><u>Understanding Artificial Intelligence: Unveiling the Mystery of AI 'Black Box' Mechanisms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-youtube-uploads-in-adobe-premiere/"><u>[New] Mastering YouTube Uploads in Adobe Premiere</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-m2p-movavi/"><u>線上Movavi M2P格式自由轉換器免費使用 - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/end-of-the-ascent-crashing-problems-a-comprehensive-guide-for-players/"><u>End of 'The Ascent' Crashing Problems: A Comprehensive Guide for Players</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-infinix-smart-7-hd-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Smart 7 HD Fingerprint Lock</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-how-to-easily-make-professional-looking-movies-and-slideshow/"><u>New In 2024, How to Easily Make Professional-Looking Movies and Slideshow</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/prova-videoeditorplus-italia-codice-attivazione-gratuitamente-con-accesso-illimitato/"><u>Prova VideoEditorPlus Italia - Codice Attivazione Gratuitamente Con Accesso Illimitato</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/quick-solutions-overcome-diskpart-clean-issues-with-these-5-effective-fixes/"><u>Quick Solutions: Overcome 'Diskpart Clean' Issues with These 5 Effective Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/scrittura-offline-trasforma-le-immagini-dal-file-raf-a-formato-png-gratuito-su-movavi/"><u>Scrittura Offline: Trasforma Le Immagini Dal File RAF a Formato PNG Gratuito Su Movavi</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-complete-handbook-of-xbox-one-zoom-communication/"><u>The Complete Handbook of Xbox One Zoom Communication</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722990711114-twitch-no-audio-problem-heres-the-ultimate-fix-that-works/"><u>Twitch No Audio Problem? Here's the Ultimate Fix That Works</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ai-iplusd-de-imagen-y-video-con-innovadores-metodos-para-mejora-conversion-y-gestion-facil/"><u>Winxvideo AI: I+D De Imagen Y Video Con Innovadores Métodos Para Mejora, Conversión Y Gestión Fácil</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/webp-movavi-jpg/"><u>온라인 WEBP 화면 개선: Movavi 제공의 무료 JPG 대역폭 변환기</u></a></li>
 </ul></div>
 

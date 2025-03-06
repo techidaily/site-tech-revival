@@ -1,7 +1,7 @@
 ---
 title: What Does the Co-Pilot Extension Do for ChatGPT?
-date: 2025-02-14T00:02:48.637Z
-updated: 2025-02-17T22:53:35.171Z
+date: 2025-03-05T16:30:44.485Z
+updated: 2025-03-06T16:50:09.416Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Prompt Perfect
 
  The responses you get from the ChatGPT are only as good as the prompts you provide. But prompting can be tricky--it's a game of hits and misses. Prompt Perfect is a ChatGPT plugin that helps you[craft well-structured and effective prompts that will get you the results you want](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) .
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
 
 ![ChatGPT Prompt perfect plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-perfect-plugin-in-action.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Link Reader
 
  Another useful ChatGPT plugin is the aptly named Link Reader plugin. Although its primary function is reading the content of the links you provide, when paired with other ChatGPT plugins, there's a lot you can do with it. From summarizing the content of web pages to fact-checking news, the possibilities are endless.
@@ -49,14 +41,6 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
  In the example below, we paired the Link Reader plugin with ChatGPT's inbuilt browsing feature to fact-check a news article.
 
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. InstaCart
 
@@ -72,17 +56,9 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
 
 ![Jollof Rice shopping list by InstaCart ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/jollof-rice-shopping-list-by-instacart-chatgpt-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
 
 ![InstarCart Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/instarcart-plugin-in-action.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Wolfram
 
@@ -97,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
  We then invoked the Wolfram plugin to fact-check the information using its fact-based knowledge base. And here's the result.
 
 ![fact-checking with ChatGPT and Wolfram Alpha](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fact-checking-with-chatgpt-and-wolfram-alpha.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wolfram was able to run the generated information against its database to check for accuracy.
 
@@ -175,24 +147,16 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-navigating-the-new-norm-earnings-in-vlogging/"><u>[Updated] 2024 Approved Navigating the New Norm Earnings in Vlogging</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-journey-of-a-youtube-video-from-creation-to-live-streaming/"><u>[Updated] 2024 Approved The Journey of a YouTube Video From Creation to Live Streaming</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-navigating-gameplay-preservation-in-windows-10/"><u>[Updated] Navigating Gameplay Preservation in Windows 10</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-infographic-hottest-social-media-trends-that-will-take-over-2023/"><u>2024 Approved Infographic - Hottest Social Media Trends That Will Take Over 2023</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/androids-best-speed-up-your-slow-video-for-2024/"><u>Android's Best Speed Up Your Slow Video for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/battle-of-the-giants-can-llama-3-outperform-gpt-4-in-language-understanding/"><u>Battle of the Giants: Can Llama 3 Outperform GPT-4 in Language Understanding?</u></a></li>
-<li><a href="https://facebook.techidaily.com/discreetly-indulge-hidden-interactions-online/"><u>Discreetly Indulge: Hidden Interactions Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/experience-advanced-hands-free-driving-assistance-mercedes-benzs-latest-chatgpt-voice-feature/"><u>Experience Advanced Hands-Free Driving Assistance: Mercedes-Benz's Latest ChatGPT Voice Feature!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/five-pivotal-factors-that-set-gpt-4-and-gpt-35-apart/"><u>Five Pivotal Factors That Set GPT-4 and GPT-3.5 Apart</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-the-latest-samsung-m2020-drivers-fast-and-secure-downloads/"><u>Get the Latest Samsung M2020 Drivers - Fast and Secure Downloads</u></a></li>
-<li><a href="https://discover-help.techidaily.com/hd-endless-waterfall-animation-with-music-in-slow-motion-looping-background-video-by-yl-computing/"><u>HD Endless Waterfall Animation with Music in Slow-Motion - Looping Background Video by YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-art-of-memory-in-ai-how-to-retrieve-and-revive-lost-chatgpt-history/"><u>The Art of Memory in AI: How to Retrieve and Revive Lost ChatGPT History</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-hidden-risks-of-outsourcing-text-summaries-to-chatgpt/"><u>The Hidden Risks of Outsourcing Text Summaries to ChatGPT</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-checklist-of-what-to-look-for-before-investing-in-a-smartwatch/"><u>The Ultimate Checklist of What to Look For Before Investing in a Smartwatch</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-routine-for-accessing-and-playing-fb-videos-via-apple-tv-for-2024/"><u>The Ultimate Routine for Accessing and Playing FB Videos via Apple TV for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-frequent-chatgpt-issues-identification-and-solutions/"><u>Top 6 Frequent ChatGPT Issues: Identification & Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-success-miracast-now-works-after-fixing-graphics-driver/"><u>Troubleshooting Success: Miracast Now Works After Fixing Graphics Driver</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-bert-a-comparison-with-gpt-in-nlp/"><u>Understanding BERT: A Comparison with GPT in NLP</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/upholding-academic-standards-without-ai-help/"><u>Upholding Academic Standards Without AI Help</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-visual-storytelling-the-cutting-edge-6-instagram-reel-tools/"><u>[New] Mastering Visual Storytelling The Cutting-Edge 6 Instagram Reel Tools</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2023-how-to-check-tiktok-video-copyright-before-uploading-for-2024/"><u>[Updated] 2023 | How to Check Tiktok Video Copyright Before Uploading for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-ultimate-live-streaming-selection-guide/"><u>[Updated] 2024 Approved Ultimate Live Streaming Selection Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-ink-your-imagination-a-critical-review-of-the-bestiarys-8-iphone-drawing-apps/"><u>[Updated] Ink Your Imagination A Critical Review of the Bestiary's 8 iPhone Drawing Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/as-principais-formulas-para-o-sucesso-em-producao-de-podcasts-editores-n1-a-n7-guia-completo/"><u>As Principais Fórmulas Para O Sucesso Em Produção De Podcasts: Editores Nº1 a Nº7 | Guia Completo</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-mp4-webm-mp4-movavi/"><u>Free Online MP4 변환기: WebM 파일을 MP4으로 효과적으로 바꾸기 - Movavi 탐색</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-avoiding-shaky-drone-imagery-with-top-tier-gimbals/"><u>In 2024, Avoiding Shaky Drone Imagery with Top-Tier Gimbals</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lifetime-access-to-languages-black-fridays-best-price/"><u>Lifetime Access to Languages - Black Friday's Best Price</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-poco-c55-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Poco C55 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows5/"><u>Windowsムービーメイカー代替品ベスト5〜無料で最適解析レポート</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/flv-and-mov/"><u>フリーウェブベースのFLV & MOVファイルを容易に変換する - モバヴィ</u></a></li>
 </ul></div>
 

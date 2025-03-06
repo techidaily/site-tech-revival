@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Original: Exploring Modern Substitutes for the Turing Test"
-date: 2025-02-17T00:33:22.577Z
-updated: 2025-02-17T22:37:51.589Z
+date: 2025-03-05T16:01:50.750Z
+updated: 2025-03-06T18:48:21.217Z
 tags:
   - chatgpt
   - open-ai
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Get Basic Recipes and Tips on ChatGPT
 
  For the most part, ChatGPT handles basic recipe and cooking questions well. Prompts like “what's a healthy recipe for salmon?” or “how do I make a salad that tastes good?” provide fine responses for starter recipes.
@@ -37,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 ![ChatGPT healthier eggs tips](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthier-eggs-tips.jpg)
 
  Healthier cooking options are just a simple prompt away. If you're already a fan of the[best healthy eating apps](https://www.makeuseof.com/best-healthy-eating-apps/) , such as Mealime, then ChatGPT can offer similar recipes and advice. Because you can keep asking ChatGPT to refine its answers or omit any ingredients, however, it's a more interactive option than standard recipe collections.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Refine Your Prompts for Personalized ChatGPT Recipe Selections
 
@@ -54,19 +46,11 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 
  It can also streamline your grocery shopping process. Prompt it to "please provide a healthy grocery shopping list" or "create a shopping list for a week's worth of lunch salads with plenty of protein." This option is perfect for those days when you don't have the brainpower to think about cooking.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Get ChatGPT to Teach You Cooking Skills in a Variety of Ways
 
  Assign roles or an audience to the app to learn about cooking in the way you prefer. For instance, the prompt “come up with a fun recipe for vegetables for a five-year-old please” provides a cute recipe for Super Veggie Kabobs.
 
 ![ChatGPT healthy meal for kids directions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthy-meal-for-kids-part-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Meanwhile, the prompt “please provide a healthy vegetable recipe as though you are an upscale professional chef” offers a recipe for Seared Asparagus with Lemon-Herb Gremolata. With plenty of fresh herbs for flavor, it's a delicious addition to any meal. Who knew the chatbot had such elegant taste?
 
@@ -83,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
  When asked to reveal sources for its nutritional information, the app refers to “dietary guidelines and recommendations from reputable organizations such as the World Health Organization (WHO), the U.S. Department of Agriculture (USDA), and the American Heart Association (AHA),” as well as “peer-reviewed scientific literature on nutrition, health, and wellness from reputable journals and research institutions.”
 
  It also offers the caveat that nutritional science is still evolving and recommends consulting with a registered dietitian or healthcare professional for more personalized information. If you want some additional resources, then check out the[best websites to learn more about healthy eating](https://www.makeuseof.com/best-websites-learn-healthy-eating/) , including Nutritionfacts.org and Open Food Facts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Boost Your Healthy Cooking Skills With ChatGPT
 
@@ -107,20 +87,18 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-competitor-cameras-rising-the-ultimate-guide-to-substitutes-for-samsungs-gear-360/"><u>[New] Competitor Cameras Rising The Ultimate Guide to Substitutes for Samsung's Gear 360</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-pushing-boundaries-exploring-iphone-xs-unique-lens-tech/"><u>[New] In 2024, Pushing Boundaries Exploring iPhone X's Unique Lens Tech</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-essential-voice-capturing-apps-for-ipads-3-top-picks/"><u>[Updated] In 2024, Essential Voice Capturing Apps for iPads #3 Top Picks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastery-levels-of-quantum-hdr-applications/"><u>2024 Approved Mastery Levels of Quantum HDR Applications</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-restore-deleted-files-in-your-recycle-bin-using-ifind-data-recovery-for-windows-11-and-10-step-by-step-instructions-for-successful-retrieval-in-five-2/"><u>How to Restore Deleted Files in Your Recycle Bin Using iFind Data Recovery for Windows 11 and 10 - Step-by-Step Instructions for Successful Retrieval in Five Ways</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/imposter-chatgpt-browser-add-on-exposed-compromising-your-facebook-passwords/"><u>Imposter ChatGPT Browser Add-On Exposed: Compromising Your Facebook Passwords</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-lenovo-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Lenovo FRP Without Computer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/masterpiece-makers-da-vinci-3-and-the-quest-for-visual-splendor/"><u>Masterpiece Makers: Da Vinci 3 and the Quest for Visual Splendor</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-mobile-search-experience-on-android-and-ios-using-bings-smart-ai-feature/"><u>Revolutionize Your Mobile Search Experience on Android and iOS Using Bing's Smart AI Feature!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solutions-for-razer-kraken-mic-failure-a-step-by-step-guide/"><u>Solutions for Razer Kraken Mic Failure - A Step by Step Guide</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-tutorial-for-fixing-corrupt-drives-and-recovering-data-in-windows-10-and-11-systems/"><u>Step-by-Step Tutorial for Fixing Corrupt Drives and Recovering Data in Windows 10 & 11 Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-dark-side-of-ai-assistants-could-chatgpt-help-in-making-malware/"><u>The Dark Side of AI Assistants: Could ChatGPT Help in Making Malware?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-walkthrough-for-combining-gpt-3-with-python-programming/"><u>The Ultimate Walkthrough for Combining GPT-3 with Python Programming</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-overheating-in-apple-devices-tips-for-keeping-your-ipad-or-iphone-cool/"><u>Understanding Overheating in Apple Devices: Tips for Keeping Your iPad or iPhone Cool</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/universal-access-to-chatgpt-mastering-the-use-of-chatgpt-everywhere/"><u>Universal Access to ChatGPT: Mastering the Use of ChatGPT Everywhere</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-clearview-record-pro-for-11-users/"><u>[New] ClearView Record Pro for 11 Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-comprehensive-giroptic-camera-experience-for-2024/"><u>[Updated] Comprehensive Giroptic Camera Experience for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-weekend-with-apple-vision-pro-top-three-insights-unveiled-detailed-review-by-zdnet/"><u>A Weekend with Apple Vision Pro: Top Three Insights Unveiled - Detailed Review by ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/como-convertir-archivos-mp4-de-3gpp-a-formato-avi-en-linea-sin-costo-hacerlo-gratis-con-movavi/"><u>Cómo Convertir Archivos MP4 De 3GPP a Formato AVI en Línea Sin Costo - Hacerlo Gratis Con Movavi</u></a></li>
+<li><a href="https://win-web.techidaily.com/discover-essential-operations-leveraging-windows-registry-with-yl-software-solutions/"><u>Discover Essential Operations: Leveraging Windows Registry with YL Software Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-movavis-various-payment-options-for-easy-billing-solutions/"><u>Explore Movavi's Various Payment Options for Easy Billing Solutions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-6-plus-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone 6 Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-13-pro-max-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-zte-nubia-flip-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On ZTE Nubia Flip 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-12-free-video-combiners-the-ultimate-selection/"><u>Top 12 Free Video Combiners: The Ultimate Selection</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-15-ferramentas-de-correcao-de-audio-e-video-mais-valorizadas-em-2024-livres-ou-premium/"><u>Top 15 Ferramentas De Correção De Áudio E Video - Mais Valorizadas Em 2024: Livres Ou Premium</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/web-based-bmp-to-gif-converter-free-and-easy-online-image-transformation-by-movavi/"><u>Web-Based BMP to GIF Converter: Free & Easy Online Image Transformation by Movavi</u></a></li>
 </ul></div>
 

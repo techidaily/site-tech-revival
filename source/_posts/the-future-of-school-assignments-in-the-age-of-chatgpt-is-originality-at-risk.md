@@ -1,7 +1,7 @@
 ---
 title: The Future of School Assignments in the Age of ChatGPT - Is Originality at Risk?
-date: 2025-02-15T17:42:55.795Z
-updated: 2025-02-17T17:09:55.462Z
+date: 2025-02-27T19:36:07.323Z
+updated: 2025-03-06T18:51:42.919Z
 tags:
   - chatgpt
   - open-ai
@@ -46,17 +46,9 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the[New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. The Visual Turing Test
 
@@ -65,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
  According to a research paper published on[PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112) , the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the[visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
  Beyond that, if an AI and a human are shown multiple images side by side and asked to identify realistic images, the human would have the cognitive ability to pass the test. This is because AI models find it difficult to distinguish images that don't look like they were taken in the real world. In fact, that's the reason why you can[identify AI-generated images](https://www.makeuseof.com/how-to-identify-ai-generated-image/) using anomalies that don't make sense.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. The Lovelace 2.0 Test
 
@@ -81,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 ## 4\. Reverse Turing Test
 
 ![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the[reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
 
@@ -99,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -125,20 +105,17 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-inside-the-jaunt-vr-experience/"><u>[New] Inside the Jaunt VR Experience</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-5-ways-to-record-facetime-calls/"><u>[Updated] 5 Ways to Record FaceTime Calls</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp3flac/"><u>効率的にMP3を高音質Flacにアップコンバートする方法 - 完全なマニュアル</u></a></li>
-<li><a href="https://network-issues.techidaily.com/beat-amds-graphics-bug-tarkov/"><u>Beat AMD's Graphics Bug, Tarkov</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-methods-for-transforming-a-scratch-project-sb3-into-high-quality-mp4-format/"><u>Easy Methods for Transforming a Scratch Project (.SB3) Into High-Quality MP4 Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-conversion-techniques-from-twitter-posts-to-mp3-playback/"><u>Effortless Conversion Techniques From Twitter Posts to MP3 Playback</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-and-desktop-tools-easily-convert-your-gifs-into-wmv-format/"><u>Free Online and Desktop Tools: Easily Convert Your GIFs Into WMV Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-easily-convert-trec-to-mp4-avi-mov-and-mkv-compatible-with-iphone-apple-tv-samsung-and-more/"><u>How To Easily Convert TREC to MP4, AVI, MOV & MKV Compatible with iPhone, Apple TV, Samsung and More!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-seamlessly-transform-and-save-soundcloud-audio-as-free-ogg-files/"><u>How to Seamlessly Transform and Save SoundCloud Audio as Free Ogg Files</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-top-cover-photo-creators-facebook-edition-top-11-list/"><u>In 2024, Top Cover Photo Creators Facebook Edition - Top 11 List</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/m2tsmp3/"><u>M2TSファイルから自由にMP3へ変換 - ステップバイステップガイド</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-innovations-in-audio-production-adding-subtle-fading-techniques-to-your-toolkit/"><u>New Innovations in Audio Production Adding Subtle Fading Techniques to Your Toolkit</u></a></li>
-<li><a href="https://some-skills.techidaily.com/revamped-features-on-the-horizon-for-google-bard-a-strategic-improvement-overview/"><u>Revamped Features on the Horizon for Google Bard - A Strategic Improvement Overview</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-windows-driver-power-state-errors/"><u>Step-by-Step Solutions for Windows Driver Power State Errors</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nveil-the-best-free-backdrop-and-footage-sources-top-8-online-lists-for-2024/"><u>[New] Unveil the Best Free Backdrop & Footage Sources Top 8 Online Lists for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/15-top-free-slow-motion-video-recording-apps-for-iphoneandroid-for-2024/"><u>15 Top Free Slow Motion Video Recording Apps for iPhone/Android for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-best-chatgpt-plugins-for-superior-ai-prompts-and-responses-on-chrome/"><u>Discover the Best ChatGPT Plugins for Superior AI Prompts and Responses on Chrome</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-the-risk-are-alternative-chatgpt-plugins-secure-to-use/"><u>Evaluating the Risk: Are Alternative ChatGPT Plugins Secure to Use?</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y02t-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y02T Without Password | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-touchpad-functionality-and-scroll-smoothly-in-windows-11/"><u>How to Restore Touchpad Functionality and Scroll Smoothly in Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-elite-visionaries-video-realm/"><u>In 2024, Elite Visionaries Video Realm</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-slow-motion-photography-in-phantom-cameras-for-2024/"><u>Mastering Slow-Motion Photography in Phantom Cameras for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/meme-manifestation-station/"><u>Meme Manifestation Station</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/premium-gpts-role-in-achieving-language-excellence/"><u>Premium GPT's Role in Achieving Language Excellence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/prepare-to-impress-integrating-chatgpt-in-interview-practice/"><u>Prepare to Impress: Integrating ChatGPT in Interview Practice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/yitian-710-by-alibaba-revolutionizing-speed-with-its-superior-arm-architecture-for-cloud-computing/"><u>Yitian 지테인 710 by Alibaba: Revolutionizing Speed with Its Superior ARM Architecture for Cloud Computing</u></a></li>
 </ul></div>
 

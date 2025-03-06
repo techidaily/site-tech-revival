@@ -1,7 +1,7 @@
 ---
 title: "Direct Interaction Made Simple: PC & Nvidia’s RTX Assistant"
-date: 2024-08-29T01:52:49.054Z
-updated: 2024-08-30T01:52:49.054Z
+date: 2025-03-01T16:07:39.053Z
+updated: 2025-03-06T19:49:03.034Z
 tags:
   - chatgpt
   - open-ai
@@ -51,39 +51,27 @@ So, a 2024 release date for GPT-5? Is that possible?
 
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Changes Could GPT-5 Bring?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4.
 
  Also, there's been underground talk about GPT models being able to process videos, much like GPT-4 models can take images as inputs. So, we could possibly have a model that can process text, images, sound, and videos.
 
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## GPT-5: An Exciting Future Awaits
 
  While much of the details about GPT-5 are speculative, it is undeniably going to be another important step towards an awe-inspiring paradigm shift in artificial intelligence.
 
  We might not achieve the much talked about "artificial general intelligence," but if it's ever possible to achieve, then GPT-5 will take us one step closer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -92,4 +80,24 @@ So, a 2024 release date for GPT-5? Is that possible?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/arness-youtubes-power-with-these-top-7-affordable-easy-to-use-tag-extractor-tools-for-2024/"><u>[New] Harness YouTube's Power with These Top 7 Affordable, Easy-to-Use Tag Extractor Tools for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-crafting-success-in-fb-video-advertising-a-collection-of-20-essentials/"><u>[Updated] Crafting Success in FB Video Advertising – A Collection of 20 Essentials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-top-6-nft-environments-for-creatives/"><u>2024 Approved Unveiling the Top 6 NFT Environments for Creatives</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/3-efectivos-metodos-para-respaldar-aplicaciones-de-windows-versiones-11-a-7/"><u>3 Efectivos Métodos Para Respaldar Aplicaciones De Windows: Versiones 11 a 7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-mpeg-video-players-top-6-free-downloads-compatible-with-windows-mac-android-and-iphone/"><u>Best MPEG Video Players: Top 6 Free Downloads Compatible with Windows, Mac, Android & iPhone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-linguistic-prowess-chatgpt-vs-google-translate-who-leads-in-accuracy/"><u>Comparing Linguistic Prowess: ChatGPT Vs. Google Translate – Who Leads in Accuracy?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-methods-for-converting-mpg-to-mp3-files-using-your-computer/"><u>Easy Methods for Converting MPG to MP3 Files Using Your Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficient-methods-for-transforming-mp2-files-into-mp3-format/"><u>Efficient Methods for Transforming MP2 Files Into MP3 Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-techniques-for-dividing-videos-into-one-minute-chunks/"><u>Effortless Techniques for Dividing Videos Into One-Minute Chunks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-ultimate-list-of-leading-in-pc-microphones-for-windows-macos-and-iphone-users/"><u>Explore the Ultimate List of Leading In-PC Microphones for Windows, macOS, and iPhone Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fast-and-high-quality-wonderfox-dvd-to-mp4-video-converter/"><u>Fast & High-Quality WonderFox DVD to MP4 Video Converter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fix-video-troubles-on-computers-with-these-proven-methods-top-8/"><u>Fix Video Troubles on Computers with These Proven Methods (Top 8)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/flash-video-playback-on-various-ipads-ipad-air-mini-and-classic-versions/"><u>Flash Video Playback on Various iPads - iPad Air, Mini, and Classic Versions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/from-bland-to-blockbuster-framing-videos-in-a-square-perspective-for-2024/"><u>From Bland to Blockbuster Framing Videos in a Square Perspective for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-reno-8t-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo Reno 8T 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-iphone-screen-recording-with-minimal-fuss-for-2024/"><u>Mastering iPhone Screen Recording with Minimal Fuss for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-quintet-of-top-tier-write-enhancers-windows-edition/"><u>The Quintet of Top-Tier Write Enhancers (Windows Edition)</u></a></li>
+</ul></div>
 
